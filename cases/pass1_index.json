@@ -4199,6 +4199,606 @@
       "court_id": "ilnd",
       "nos": "850 Securities/Commodities",
       "date_filed": "2015-09-23"
+    },
+    "4324814": {
+      "case_name": "U.S. Commodity Futures Trading Commission v. Safety Capital Management, Inc.",
+      "court_id": "nyed",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-24"
+    },
+    "4355863": {
+      "case_name": "WGI Emerging Markets Fund, LLC v. Petroleo Brasileiro S.A. - Petrobras",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-24"
+    },
+    "4523277": {
+      "case_name": "Securities and Exchange Commission v. Galanis",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-24"
+    },
+    "4153341": {
+      "case_name": "John M Flynn v. Sienta, Inc.",
+      "court_id": "cacd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-25"
+    },
+    "4355870": {
+      "case_name": "Wilson v. LSB Industries, Inc.",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-25"
+    },
+    "4407099": {
+      "case_name": "City of St. Clair Shores Police and Fire Retirement System v. Volkswagen AG",
+      "court_id": "vaed",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-25"
+    },
+    "4671046": {
+      "case_name": "Batson v. RIM San Antonio Acquisition, LLC",
+      "court_id": "nysd",
+      "nos": "Securities/Commodities",
+      "date_filed": "2015-09-25"
+    },
+    "5976931": {
+      "case_name": "Schneider v. MobileIron, Inc.",
+      "court_id": "cand",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-25"
+    },
+    "6133399": {
+      "case_name": "Securities and Exchange Comission v. Gathright",
+      "court_id": "flsd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-25"
+    },
+    "6138691": {
+      "case_name": "Lord Abbett Investment Trust v. Petrobras",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-25"
+    },
+    "6255848": {
+      "case_name": "Securities & Exchange Commission v. Mahabub",
+      "court_id": "cod",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2015-09-25"
+    },
+    "7545565": {
+      "case_name": "Russell Investment Company v. Petroleo Brasileiro S.A. - Petrobras",
+      "court_id": "nysd",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2015-09-25"
+    },
+    "8476786": {
+      "case_name": "Kerley v. MobileIron Inc.",
+      "court_id": "cand",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-25"
+    },
+    "8476787": {
+      "case_name": "Steinberg v. MobileIron, Inc.",
+      "court_id": "cand",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-25"
+    },
+    "4153353": {
+      "case_name": "Securities and Exchange Commission v. Steve Chen",
+      "court_id": "cacd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-28"
+    },
+    "4214077": {
+      "case_name": "SECURITIES AND EXCHANGE COMMISSION v. HITACHI, LTD.",
+      "court_id": "dcd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-28"
+    },
+    "4237150": {
+      "case_name": "U.S. Commodity Futures Trading Commission v. Marshall",
+      "court_id": "flsd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-28"
+    },
+    "4312200": {
+      "case_name": "SECURITIES AND EXCHANGE COMMISSION v. SPALLINA",
+      "court_id": "njd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-28"
+    },
+    "4355871": {
+      "case_name": "Discover Growth Fund v. 6D Global Technologies, Inc.",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-28"
+    },
+    "4518492": {
+      "case_name": "Securities and Exchange Commission v. Cook",
+      "court_id": "nmd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-28"
+    },
+    "6297046": {
+      "case_name": "Phyllis Hull v. QLogic Corporation",
+      "court_id": "cacd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-28"
+    },
+    "13334516": {
+      "case_name": "Halberstam v. AGL Resources, Inc.",
+      "court_id": "gand",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2015-09-28"
+    },
+    "14526529": {
+      "case_name": "Phyllis Hull v. QLogic Corporation",
+      "court_id": "cacd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-28"
+    },
+    "4276125": {
+      "case_name": "Securities and Exchange Commission v. Weiss",
+      "court_id": "mad",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-29"
+    },
+    "4312203": {
+      "case_name": "TRAVALIO v. VOLKSWAGEN AG",
+      "court_id": "njd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-29"
+    },
+    "4371954": {
+      "case_name": "SILVERSTEIN v. GLOBUS MEDICAL, INC.",
+      "court_id": "paed",
+      "nos": "850 Other Statutes: Securities/Commodities",
+      "date_filed": "2015-09-29"
+    },
+    "4496948": {
+      "case_name": "Messerli v. Root9B Technologies, Inc",
+      "court_id": "cod",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2015-09-29"
+    },
+    "4496969": {
+      "case_name": "U-Swirl, Inc. v. Cherryberry Enterprises",
+      "court_id": "cod",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2015-09-29"
+    },
+    "6054017": {
+      "case_name": "Securities and Exchange Commission v. Moore",
+      "court_id": "nvd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-29"
+    },
+    "6197730": {
+      "case_name": "Securities and Exchange Commission v. Riel, III",
+      "court_id": "nynd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-29"
+    },
+    "6381531": {
+      "case_name": "Securities and Exchange Commission v. Ramirez",
+      "court_id": "prd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-29"
+    },
+    "13332415": {
+      "case_name": "Securities and Exchange Commission v. Sanctum Publishing and Marketing, Limited",
+      "court_id": "flsd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-29"
+    },
+    "4153358": {
+      "case_name": "Securities and Exchange Commission v. Commodore Financial Corporation",
+      "court_id": "cacd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-30"
+    },
+    "4531767": {
+      "case_name": "Janvey v. Nanes",
+      "court_id": "txnd",
+      "nos": "850 Other Statutes: Securities/Commodities/Exchange",
+      "date_filed": "2015-09-30"
+    },
+    "7316408": {
+      "case_name": "US Securities and Exchange Commission v. Godwin",
+      "court_id": "ilcd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-09-30"
+    },
+    "13426349": {
+      "case_name": "U.S. Commodity Futures Trading Commission v. Guardian Asset Group, LLC",
+      "court_id": "flsd",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2015-09-30"
+    },
+    "4355898": {
+      "case_name": "IN RE FIFTH STREET FINANCE CORP. SECURITIES LITIGATION",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-01"
+    },
+    "4527958": {
+      "case_name": "MESSNER v. USA TECHNOLOGIES, INC.",
+      "court_id": "paed",
+      "nos": "850 Other Statutes: Securities/Commodities",
+      "date_filed": "2015-10-01"
+    },
+    "6100894": {
+      "case_name": "Securities and Exchange Commission v. Wells",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-01"
+    },
+    "13255156": {
+      "case_name": "THE GEORGE LEON FAMILY TRUST v. VOLKSWAGEN AG",
+      "court_id": "njd",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2015-10-02"
+    },
+    "18163121": {
+      "case_name": "United States v. Lopez-Lopez",
+      "court_id": "casd",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2015-10-02"
+    },
+    "56050923": {
+      "case_name": "Electrical Workers Pension Fund, Local 103, I.B.E.W. v. Whole Foods Market, Inc.",
+      "court_id": "txwd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-02"
+    },
+    "5176796": {
+      "case_name": "Fortunato v. Akebia Therapeutics, Inc.",
+      "court_id": "mad",
+      "nos": "Securities/Commodities",
+      "date_filed": "2015-10-05"
+    },
+    "4153385": {
+      "case_name": "Jesse Sloan v. Rentech Nitrogen Partners, LP,et al",
+      "court_id": "cacd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-06"
+    },
+    "4182259": {
+      "case_name": "Securities And Exchange Commission v. Knapp",
+      "court_id": "cand",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-06"
+    },
+    "4182260": {
+      "case_name": "Securities And Exchange Commission v. Petersen",
+      "court_id": "cand",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-06"
+    },
+    "4237168": {
+      "case_name": "Securities and Exchange Commission v. Delaney Equity Group LLC",
+      "court_id": "flsd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-06"
+    },
+    "4355917": {
+      "case_name": "Thuc Pham v. China Finance Online Co. Limited",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-06"
+    },
+    "5647460": {
+      "case_name": "Carpenter Crest 401(k) PSP v. Converti",
+      "court_id": "azd",
+      "nos": "850 Other Statutes: Securities/Commodities",
+      "date_filed": "2015-10-06"
+    },
+    "13302697": {
+      "case_name": "Rock Capital Markets, LLC v. Bank of Nova Scotia, New York Agency",
+      "court_id": "ilnd",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2015-10-06"
+    },
+    "4220922": {
+      "case_name": "Jaroslawicz v. M&T Bank Corporation",
+      "court_id": "ded",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-07"
+    },
+    "4355922": {
+      "case_name": "Securities and Exchange Commission v. Wu",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-07"
+    },
+    "4363758": {
+      "case_name": "Western & Southern Life Insurance Company v. Tesco PLC",
+      "court_id": "ohsd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-07"
+    },
+    "4615104": {
+      "case_name": "LIFESTYLE INVESTMENTS, LLC v. AMICUS THERAPEUTICS, INC.",
+      "court_id": "njd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-07"
+    },
+    "4199639": {
+      "case_name": "NexPoint Advisors, L.P. v. TICC Capital Corp.",
+      "court_id": "ctd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-08"
+    },
+    "4326114": {
+      "case_name": "Tobia v. The United Group of Companies, Inc.",
+      "court_id": "nynd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-08"
+    },
+    "13256749": {
+      "case_name": "FRECHTER v. AMICUS THERAPEUTICS, INC.",
+      "court_id": "njd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-08"
+    },
+    "4199640": {
+      "case_name": "Securities and Exchange Commission v. Zanen",
+      "court_id": "ctd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-09"
+    },
+    "4611359": {
+      "case_name": "Guangyi Xu v. ChinaCache International Holdings Ltd",
+      "court_id": "cacd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-09"
+    },
+    "13334598": {
+      "case_name": "Abt v. AGL Resources, Inc.",
+      "court_id": "gand",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2015-10-09"
+    },
+    "4305546": {
+      "case_name": "Securities & Exchange Commission v. Bernath",
+      "court_id": "ncwd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-13"
+    },
+    "4324859": {
+      "case_name": "Stern v. Cardis Enterprises International, N.V.",
+      "court_id": "nyed",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-13"
+    },
+    "4355951": {
+      "case_name": "Puddu v. NYGG (ASIA), LTD.",
+      "court_id": "nysd",
+      "nos": "Securities/Commodities",
+      "date_filed": "2015-10-13"
+    },
+    "6052098": {
+      "case_name": "Securities and Exchange Commission v. Ascenergy LLC",
+      "court_id": "nvd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-13"
+    },
+    "13256758": {
+      "case_name": "HARVEY v. AMICUS THERAPEUTICS, INC.",
+      "court_id": "njd",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2015-10-13"
+    },
+    "4497407": {
+      "case_name": "Waters-Cottrell v. Fifth Street Finance Corp.",
+      "court_id": "ctd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-14"
+    },
+    "4324869": {
+      "case_name": "Packer v. Raging Capital Management, LLC",
+      "court_id": "nyed",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-15"
+    },
+    "4355966": {
+      "case_name": "Green Plains, Inc. v. Cadian Capital Management, LP",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-15"
+    },
+    "4568290": {
+      "case_name": "Klein v. Cadian Capital Management, LP",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-15"
+    },
+    "4568291": {
+      "case_name": "QLIK TECHNOLOGIES, INC. v. Cadian Capital Management, LP",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-15"
+    },
+    "4669932": {
+      "case_name": "Houston Municipal Employees Pension System v. BofI Holding, Inc.",
+      "court_id": "casd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-15"
+    },
+    "5572928": {
+      "case_name": "Partch v. Columbia State Bank",
+      "court_id": "waed",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-15"
+    },
+    "13334626": {
+      "case_name": "Frohman v. Bousbib",
+      "court_id": "gand",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2015-10-15"
+    },
+    "4355973": {
+      "case_name": "Pimco Funds: Pimco Total Return Fund v. Petroleo Brasileiro S.A.",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-16"
+    },
+    "4363761": {
+      "case_name": "Campbell Family Trust v. J.P. Morgan Investment Management, Inc.",
+      "court_id": "ohsd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-16"
+    },
+    "4565632": {
+      "case_name": "Securities and Exchange Commission v. Lester",
+      "court_id": "cod",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2015-10-16"
+    },
+    "18148732": {
+      "case_name": "United States v. Boyd",
+      "court_id": "txed",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2015-10-16"
+    },
+    "4263217": {
+      "case_name": "U.S. Commodity Futures Trading Commission v. Oystacher",
+      "court_id": "ilnd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-19"
+    },
+    "5572561": {
+      "case_name": "U.S. Commodity Futures Trading Commission v. Gramalegui",
+      "court_id": "cod",
+      "nos": "Securities, Commodities, Exchange",
+      "date_filed": "2015-10-19"
+    },
+    "13259285": {
+      "case_name": "SECURITIES AND EXCHANGE COMMISSION v. DONNELLY",
+      "court_id": "paed",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2015-10-19"
+    },
+    "4355982": {
+      "case_name": "Mark Youngers v. Virtus Investment Partners, Inc.",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-20"
+    },
+    "4355991": {
+      "case_name": "Wilmington Trust, National Association v. Caesars Entertainment Corporation",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-20"
+    },
+    "6292146": {
+      "case_name": "Rajesh Shah v. Investment Technology Group, Inc.",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-20"
+    },
+    "13314029": {
+      "case_name": "United States Securities and Exchange Commission v. Williams",
+      "court_id": "mowd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-20"
+    },
+    "4276170": {
+      "case_name": "Bessler v. Zafgen, Inc.",
+      "court_id": "mad",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-21"
+    },
+    "4302864": {
+      "case_name": "United States Antimony Corporation v. Denton",
+      "court_id": "mtd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-21"
+    },
+    "4391627": {
+      "case_name": "Town of Davie Police Pension Plan v. Pier 1 Imports Inc",
+      "court_id": "txnd",
+      "nos": "850 Other Statutes: Securities/Commodities/Exchange",
+      "date_filed": "2015-10-21"
+    },
+    "6156644": {
+      "case_name": "Hall v. Nobilis Health Corp.",
+      "court_id": "txsd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-21"
+    },
+    "4312215": {
+      "case_name": "POTTER v. VALEANT PHARMACEUTICALS INTERNATIONAL, INC.",
+      "court_id": "njd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-22"
+    },
+    "4407135": {
+      "case_name": "Cleveland University-KC v. Volkswagen AG",
+      "court_id": "vaed",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-22"
+    },
+    "6052451": {
+      "case_name": "Wingen v. Ventrum Energy Corp.",
+      "court_id": "nvd",
+      "nos": "Securities/Commodities",
+      "date_filed": "2015-10-22"
+    },
+    "13159405": {
+      "case_name": "United States v. SMYRE",
+      "court_id": "paed",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2015-10-22"
+    },
+    "13247571": {
+      "case_name": "Dembski v. Financial Industry Regulatory Authority, Inc.",
+      "court_id": "nysd",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2015-10-22"
+    },
+    "14422484": {
+      "case_name": "Ron Huston v. El Pollo Loco Holdings Inc",
+      "court_id": "cacd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-22"
+    },
+    "51537058": {
+      "case_name": "Flowers v. Financial Industry Regulatory Authority, Inc.",
+      "court_id": "casd",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2015-10-22"
+    },
+    "4182309": {
+      "case_name": "In re Extreme Networks, Inc. Securities Litigation",
+      "court_id": "cand",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-23"
+    },
+    "4517895": {
+      "case_name": "CHEN v. VALEANT PHARMACEUTICALS INTERNATIONAL, INC.",
+      "court_id": "njd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-23"
+    },
+    "5978068": {
+      "case_name": "Saratoga Advantage Trust Technology & Communications Portfolio v. Marvell Technology Group, Ltd.",
+      "court_id": "cand",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-23"
+    },
+    "4134385": {
+      "case_name": "Vanguard Specialized Funds v. VEREIT Incorporated",
+      "court_id": "azd",
+      "nos": "850 Other Statutes: Securities/Commodities",
+      "date_filed": "2015-10-27"
+    },
+    "4312220": {
+      "case_name": "YANG v. VALEANT PHARMACEUTICALS INTERNATIONAL, INC.",
+      "court_id": "njd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2015-10-27"
     }
   },
   "stats": {}
