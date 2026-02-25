@@ -2,8 +2,7 @@ name: "02: Pass 1 - Metadata Sweep"
 
 # Purpose: Pull metadata for ~50K federal corporate litigation cases.
 # Estimated: ~2,500 API calls, ~30 minutes.
-# Safety: Read-only API calls. Saves results as artifacts.
-#          Does NOT commit to repo -- human reviews artifacts first.
+# Saves to cases/ folder and commits every 15 minutes.
 # Run: Manual only.
 
 on:
@@ -28,11 +27,11 @@ on:
           - all
       dry_run:
         description: "Dry run (only fetch 2 pages per NOS)"
-        default: true
+        default: false
         type: boolean
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   metadata-sweep:
@@ -42,6 +41,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -58,12 +65,20 @@ jobs:
           DATE_END: ${{ inputs.date_end }}
           NOS_TIER: ${{ inputs.nos_tier }}
           DRY_RUN: ${{ inputs.dry_run }}
+          GITHUB_REF: ${{ github.ref }}
         run: python3 scripts/pass1_metadata_sweep.py
 
-      - name: Upload metadata artifacts
+      - name: Final commit (catch anything unsaved)
+        if: always()
+        run: |
+          git add cases/ || true
+          git diff --cached --quiet || git commit -m "Pass 1: final save at $(date -u '+%H:%M UTC')"
+          git push || true
+
+      - name: Upload backup artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: pass1-metadata-${{ github.run_id }}
-          path: output/
+          path: cases/
           retention-days: 90

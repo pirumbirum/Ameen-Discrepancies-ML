@@ -2,6 +2,7 @@
 """
 Pass 1: Metadata Sweep
 Pull lightweight metadata for federal corporate litigation dockets.
+Commits to cases/ folder every 15 minutes.
 Self-contained -- no external imports beyond requests.
 """
 
@@ -10,6 +11,7 @@ import json
 import os
 import sys
 import time
+import subprocess
 from datetime import datetime
 
 
@@ -27,6 +29,11 @@ DRY_RUN = os.environ.get("DRY_RUN", "false").lower() == "true"
 BASE_URL = "https://www.courtlistener.com/api/rest/v4"
 HEADERS = {"Authorization": f"Token {TOKEN}"}
 MAX_PAGES_PER_NOS = 2 if DRY_RUN else None
+
+# Save to cases/ folder in repo
+OUTPUT_DIR = "cases"
+METADATA_DIR = f"{OUTPUT_DIR}/metadata"
+SAVE_INTERVAL = 900  # 15 minutes
 
 FIELDS = ",".join([
     "id", "case_name", "case_name_full", "docket_number",
@@ -65,6 +72,31 @@ def load_json(filepath, default=None):
         with open(filepath) as f:
             return json.load(f)
     return default if default is not None else {}
+
+
+def git_commit_and_push(message):
+    """Commit cases/ folder and push to remote."""
+    try:
+        subprocess.run(["git", "add", "cases/"], check=True, capture_output=True)
+        # Check if there's anything to commit
+        result = subprocess.run(
+            ["git", "diff", "--cached", "--quiet"],
+            capture_output=True
+        )
+        if result.returncode != 0:  # There are staged changes
+            subprocess.run(
+                ["git", "commit", "-m", message],
+                check=True, capture_output=True
+            )
+            subprocess.run(
+                ["git", "push"],
+                check=True, capture_output=True
+            )
+            print(f"  [GIT] Committed and pushed: {message}")
+        else:
+            print(f"  [GIT] No changes to commit")
+    except subprocess.CalledProcessError as e:
+        print(f"  [GIT ERROR] {e.stderr.decode() if e.stderr else e}")
 
 
 def api_get(url, params=None, max_retries=3):
@@ -123,21 +155,49 @@ def rate_limited_get(url, params=None):
     return api_get(url, params=params)
 
 
+# --- Progress report ---
+
+def print_report(total_collected, total_api_calls, start_time, current_nos, current_page, nos_counts):
+    elapsed = time.time() - start_time
+    rate = total_collected / max(elapsed, 1) * 3600
+
+    print(f"\n{'=' * 60}")
+    print(f"  PROGRESS REPORT @ {datetime.utcnow().strftime('%H:%M:%S UTC')}")
+    print(f"{'=' * 60}")
+    print(f"  Total collected:  {total_collected:>8,}")
+    print(f"  API calls made:   {total_api_calls:>8,}")
+    print(f"  Rate:             {rate:>8,.0f} dockets/hr")
+    print(f"  Elapsed:          {elapsed/60:>8.1f} min")
+    print(f"  Current NOS:      {current_nos}")
+    print(f"  Current page:     {current_page}")
+    print(f"  ---")
+    print(f"  Per NOS breakdown:")
+    for nos, count in nos_counts.items():
+        print(f"    {nos:30s} => {count:>6,}")
+    print(f"{'=' * 60}\n")
+
+
 # --- Main ---
 
 def main():
-    os.makedirs("output/metadata", exist_ok=True)
+    os.makedirs(METADATA_DIR, exist_ok=True)
 
     # Load checkpoint
-    checkpoint = load_json("output/pass1_checkpoint.json", {})
+    checkpoint = load_json(f"{OUTPUT_DIR}/pass1_checkpoint.json", {})
 
     # Master index
-    master_index = load_json("output/pass1_index.json", {"dockets": {}, "stats": {}})
+    master_index = load_json(f"{OUTPUT_DIR}/pass1_index.json", {"dockets": {}, "stats": {}})
     total_collected = len(master_index["dockets"])
 
     total_api_calls = 0
     start_time = time.time()
-    last_report = time.time()
+    last_save_time = time.time()
+    nos_counts = {}
+
+    # Restore NOS counts from checkpoint
+    for nos_text in NOS_LIST:
+        nos_key = nos_text.lower().replace(" ", "_")
+        nos_counts[nos_text] = checkpoint.get(f"{nos_key}_total", 0)
 
     print("=" * 60)
     print(f"PASS 1: METADATA SWEEP")
@@ -160,9 +220,10 @@ def main():
         print("=" * 60)
 
         # Load existing data for this NOS
-        nos_file = f"output/metadata/{nos_key}.json"
+        nos_file = f"{METADATA_DIR}/{nos_key}.json"
         nos_data = load_json(nos_file, [])
         nos_count = len(nos_data)
+        nos_counts[nos_text] = nos_count
 
         params = {
             "court__jurisdiction": "FD",
@@ -196,6 +257,7 @@ def main():
 
             results = data.get("results", [])
             nos_count += len(results)
+            nos_counts[nos_text] = nos_count
             nos_data.extend(results)
 
             # Add to master index
@@ -212,25 +274,26 @@ def main():
                     total_collected += 1
                     new_this_page += 1
 
-            print(f"  Page {page}: +{len(results)} results ({new_this_page} new) | NOS total: {nos_count} | Grand total: {total_collected}")
+            print(f"  Page {page}: +{len(results)} ({new_this_page} new) | NOS: {nos_count:,} | Total: {total_collected:,}")
 
             # Save every 5 pages
             if page % 5 == 0:
                 save_json(nos_data, nos_file)
 
-            # Progress report every 15 min
-            if time.time() - last_report >= 900:
+            # Every 15 minutes: save, report, commit & push
+            if time.time() - last_save_time >= SAVE_INTERVAL:
                 save_json(nos_data, nos_file)
-                save_json(master_index, "output/pass1_index.json")
-                elapsed = time.time() - start_time
-                rate = total_collected / max(elapsed, 1) * 3600
-                print(f"\n  === PROGRESS REPORT @ {datetime.utcnow().strftime('%H:%M:%S UTC')} ===")
-                print(f"  Collected: {total_collected:,}")
-                print(f"  API calls: {total_api_calls:,}")
-                print(f"  Rate: {rate:,.0f}/hr")
-                print(f"  Elapsed: {elapsed/60:.1f} min")
-                print(f"  Current NOS: {nos_text}, page {page}\n")
-                last_report = time.time()
+                save_json(master_index, f"{OUTPUT_DIR}/pass1_index.json")
+                save_json(checkpoint, f"{OUTPUT_DIR}/pass1_checkpoint.json")
+
+                print_report(total_collected, total_api_calls, start_time, nos_text, page, nos_counts)
+
+                git_commit_and_push(
+                    f"Pass 1 progress: {total_collected:,} dockets | "
+                    f"{nos_text} page {page} | "
+                    f"{datetime.utcnow().strftime('%H:%M UTC')}"
+                )
+                last_save_time = time.time()
 
             # Next page
             next_url = data.get("next")
@@ -242,9 +305,9 @@ def main():
         checkpoint[f"{nos_key}_completed"] = True
         checkpoint[f"{nos_key}_total"] = nos_count
         checkpoint[f"{nos_key}_completed_at"] = datetime.utcnow().isoformat()
-        save_json(checkpoint, "output/pass1_checkpoint.json")
+        save_json(checkpoint, f"{OUTPUT_DIR}/pass1_checkpoint.json")
 
-        print(f"  => {nos_text}: {nos_count} cases collected")
+        print(f"\n  => {nos_text}: {nos_count:,} cases collected")
 
     # Final save
     master_index["stats"] = {
@@ -255,19 +318,22 @@ def main():
         "dry_run": DRY_RUN,
         "total_api_calls": total_api_calls,
     }
-    save_json(master_index, "output/pass1_index.json")
-    save_json(checkpoint, "output/pass1_checkpoint.json")
+    save_json(master_index, f"{OUTPUT_DIR}/pass1_index.json")
+    save_json(checkpoint, f"{OUTPUT_DIR}/pass1_checkpoint.json")
 
-    # Final summary
-    elapsed = time.time() - start_time
-    print(f"\n{'=' * 60}")
-    print(f"PASS 1 {'DRY RUN ' if DRY_RUN else ''}COMPLETE")
-    print(f"{'=' * 60}")
-    print(f"  Total unique dockets: {len(master_index['dockets']):,}")
-    print(f"  Total API calls:      {total_api_calls:,}")
-    print(f"  Elapsed:              {elapsed/60:.1f} min")
-    print(f"  Files in output/metadata/")
-    print("=" * 60)
+    # Final report
+    print_report(total_collected, total_api_calls, start_time, "DONE", 0, nos_counts)
+
+    # Final commit
+    git_commit_and_push(
+        f"Pass 1 COMPLETE: {total_collected:,} dockets | "
+        f"{total_api_calls} API calls | "
+        f"{datetime.utcnow().strftime('%H:%M UTC')}"
+    )
+
+    print(f"\nTotal unique dockets: {total_collected:,}")
+    print(f"Saved to {OUTPUT_DIR}/")
+    print("PASS 1 COMPLETE")
 
 
 if __name__ == "__main__":
