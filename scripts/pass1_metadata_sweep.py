@@ -99,11 +99,11 @@ def git_commit_and_push(message):
         print(f"  [GIT ERROR] {e.stderr.decode() if e.stderr else e}")
 
 
-def api_get(url, params=None, max_retries=3):
+def api_get(url, params=None, max_retries=5):
     """Make a GET request with retry logic."""
     for attempt in range(max_retries):
         try:
-            resp = requests.get(url, headers=HEADERS, params=params, timeout=30)
+            resp = requests.get(url, headers=HEADERS, params=params, timeout=120)
 
             if resp.status_code == 429:
                 wait = min(60 * (2 ** attempt), 300)
@@ -123,6 +123,10 @@ def api_get(url, params=None, max_retries=3):
             print(f"  ERROR: {resp.status_code} - {resp.text[:300]}")
             return None
 
+        except requests.exceptions.Timeout:
+            wait = 15 * (2 ** attempt)
+            print(f"  [TIMEOUT] Request timed out. Waiting {wait}s (attempt {attempt+1})")
+            time.sleep(wait)
         except requests.RequestException as e:
             wait = 5 * (2 ** attempt)
             print(f"  [NETWORK] {e}. Waiting {wait}s")
