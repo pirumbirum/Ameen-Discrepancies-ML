@@ -1,0 +1,192 @@
+name: "04: Diagnose NOS Filters"
+
+# Quick diagnostic: test which nature_of_suit filter values return results.
+# Commits results to cases/diagnostics/ for inspection.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Test NOS filter values
+        env:
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: |
+          python3 << 'PYEOF'
+          import requests, json, os, time
+
+          TOKEN = os.environ["COURTLISTENER_TOKEN"]
+          BASE = "https://www.courtlistener.com/api/rest/v4"
+          HEADERS = {"Authorization": f"Token {TOKEN}"}
+
+          # Test many variations of filter values
+          tests = [
+              # (label, filter_key, filter_value)
+              ("Securities exact", "nature_of_suit", "Securities"),
+              ("Securities contains", "nature_of_suit__contains", "Securities"),
+              ("Securities startswith", "nature_of_suit__startswith", "Securities"),
+              ("850 exact", "nature_of_suit", "850"),
+              ("850 startswith", "nature_of_suit__startswith", "850"),
+              ("850 contains", "nature_of_suit__contains", "850"),
+              ("Securities/Commodities", "nature_of_suit__contains", "Securities/Commodities"),
+              ("Patent exact", "nature_of_suit", "Patent"),
+              ("Patent contains", "nature_of_suit__contains", "Patent"),
+              ("830 contains", "nature_of_suit__contains", "830"),
+              ("830 startswith", "nature_of_suit__startswith", "830"),
+              ("Trademark contains", "nature_of_suit__contains", "Trademark"),
+              ("840 startswith", "nature_of_suit__startswith", "840"),
+              ("Antitrust contains", "nature_of_suit__contains", "Antitrust"),
+              ("410 startswith", "nature_of_suit__startswith", "410"),
+              ("Stockholders contains", "nature_of_suit__contains", "Stockholders"),
+              ("160 startswith", "nature_of_suit__startswith", "160"),
+              ("RICO contains", "nature_of_suit__contains", "RICO"),
+              ("470 startswith", "nature_of_suit__startswith", "470"),
+              ("Trade Secret contains", "nature_of_suit__contains", "Trade Secret"),
+              ("880 startswith", "nature_of_suit__startswith", "880"),
+              ("Environmental contains", "nature_of_suit__contains", "Environmental"),
+              ("893 startswith", "nature_of_suit__startswith", "893"),
+              ("Other Contract contains", "nature_of_suit__contains", "Other Contract"),
+              ("190 startswith", "nature_of_suit__startswith", "190"),
+              ("Insurance contains", "nature_of_suit__contains", "Insurance"),
+              ("110 startswith", "nature_of_suit__startswith", "110"),
+              ("Banks contains", "nature_of_suit__contains", "Banks"),
+              ("430 startswith", "nature_of_suit__startswith", "430"),
+          ]
+
+          results = []
+          os.makedirs("cases/diagnostics", exist_ok=True)
+
+          # Also grab a few sample NOS values to see the actual format
+          print("=" * 70)
+          print("STEP 1: Sample actual nature_of_suit values from database")
+          print("=" * 70)
+          resp = requests.get(f"{BASE}/dockets/", headers=HEADERS, params={
+              "court__jurisdiction": "FD",
+              "fields": "id,nature_of_suit",
+              "order_by": "-date_modified",
+          })
+          if resp.status_code == 200:
+              samples = resp.json().get("results", [])
+              nos_values = set()
+              for s in samples:
+                  v = s.get("nature_of_suit", "")
+                  if v:
+                      nos_values.add(v)
+              print(f"Sample NOS values from latest 20 dockets:")
+              for v in sorted(nos_values):
+                  print(f"  '{v}'")
+
+          # Grab more diverse samples
+          time.sleep(1)
+          resp2 = requests.get(f"{BASE}/dockets/", headers=HEADERS, params={
+              "court__jurisdiction": "FD",
+              "fields": "id,nature_of_suit",
+              "order_by": "id",
+          })
+          if resp2.status_code == 200:
+              for s in resp2.json().get("results", []):
+                  v = s.get("nature_of_suit", "")
+                  if v:
+                      nos_values.add(v)
+
+          time.sleep(1)
+          # Specifically try to find a Securities case
+          resp3 = requests.get(f"{BASE}/search/", headers=HEADERS, params={
+              "type": "d",
+              "q": "suitNature:850",
+              "court": "nysd",
+          })
+          if resp3.status_code == 200:
+              search_results = resp3.json().get("results", [])
+              print(f"\nSearch API suitNature:850 results: {len(search_results)}")
+              for s in search_results[:3]:
+                  print(f"  NOS: '{s.get('suitNature', '?')}' | case: {s.get('caseName', '?')[:60]}")
+
+          print(f"\nAll unique NOS values seen ({len(nos_values)}):")
+          for v in sorted(nos_values):
+              print(f"  '{v}'")
+
+          print("\n" + "=" * 70)
+          print("STEP 2: Test filter variations")
+          print("=" * 70)
+
+          for label, key, value in tests:
+              time.sleep(0.8)
+              params = {
+                  "court__jurisdiction": "FD",
+                  "date_filed__gte": "2015-01-01",
+                  "date_filed__lte": "2025-12-31",
+                  key: value,
+                  "count": "on",
+                  "fields": "id",
+              }
+              try:
+                  r = requests.get(f"{BASE}/dockets/", headers=HEADERS, params=params, timeout=30)
+                  if r.status_code == 200:
+                      count = r.json().get("count", 0)
+                      sample_nos = ""
+                      if count > 0:
+                          sample = r.json().get("results", [])
+                          if sample:
+                              # Get NOS of first result
+                              time.sleep(0.3)
+                              detail = requests.get(f"{BASE}/dockets/{sample[0]['id']}/", headers=HEADERS, params={"fields": "nature_of_suit"})
+                              if detail.status_code == 200:
+                                  sample_nos = detail.json().get("nature_of_suit", "")
+                      status = "OK"
+                  else:
+                      count = -1
+                      status = f"HTTP {r.status_code}"
+                      sample_nos = r.text[:100]
+              except Exception as e:
+                  count = -1
+                  status = f"ERROR: {e}"
+                  sample_nos = ""
+
+              print(f"  {label:40s} | {key}={value:30s} | {count:>8} | {status} | sample: '{sample_nos}'")
+              results.append({
+                  "label": label,
+                  "filter_key": key,
+                  "filter_value": value,
+                  "count": count,
+                  "status": status,
+                  "sample_nos": sample_nos,
+              })
+
+          # Save results
+          with open("cases/diagnostics/nos_filter_test.json", "w") as f:
+              json.dump({"nos_values_seen": sorted(nos_values) if nos_values else [], "filter_tests": results}, f, indent=2)
+
+          print("\nResults saved to cases/diagnostics/nos_filter_test.json")
+          PYEOF
+
+      - name: Commit results
+        run: |
+          git add cases/diagnostics/
+          git diff --cached --quiet || git commit -m "NOS filter diagnostic results"
+          git push || true
