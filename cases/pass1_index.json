@@ -1,0 +1,365 @@
+{
+  "dockets": {
+    "14575681": {
+      "case_name": "United States v. Westberry",
+      "court_id": "ohnd",
+      "nos": "880 Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2019-02-27"
+    },
+    "16785023": {
+      "case_name": "United States v. Bauer",
+      "court_id": "ohnd",
+      "nos": "880 Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2019-08-14"
+    },
+    "17064059": {
+      "case_name": "ILAPAK, INC. v. YOUNG",
+      "court_id": "paed",
+      "nos": "Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-04-13"
+    },
+    "18496940": {
+      "case_name": "Investment Science LLC v. Oath Holdings Inc.",
+      "court_id": "nysd",
+      "nos": "Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-01"
+    },
+    "18500426": {
+      "case_name": "List Services Corporation v. David Clemen",
+      "court_id": "ctd",
+      "nos": "880 Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-02"
+    },
+    "18501386": {
+      "case_name": "Maschinenfabrik Herkules GmbH & Co. KG v. Altos Hornos De Mexico, S.A.B. De C.V.",
+      "court_id": "txwd",
+      "nos": "880 Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-02"
+    },
+    "18502030": {
+      "case_name": "Bankers Life and Casualty Company v. American Senior Benefits, LLC",
+      "court_id": "ksd",
+      "nos": "Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-02"
+    },
+    "18502449": {
+      "case_name": "Home Point Financial Corporation v. Lane",
+      "court_id": "flmd",
+      "nos": "880 Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-02"
+    },
+    "18508839": {
+      "case_name": "Monster Energy Company v. Joao Leopardo",
+      "court_id": "cacd",
+      "nos": "880 Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-05"
+    },
+    "18510186": {
+      "case_name": "Mitsubishi Hitachi Power Systems Americas, Inc. v. Siemens Energy, Inc.",
+      "court_id": "flmd",
+      "nos": "880 Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-06"
+    },
+    "18513037": {
+      "case_name": "C. Pepper Logistics, LLC v. Lanter Delivery Systems, LLC",
+      "court_id": "moed",
+      "nos": "Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-07"
+    },
+    "18515701": {
+      "case_name": "AssuredPartners of Virginia, LLC v. Hopper",
+      "court_id": "ncwd",
+      "nos": "Defend Trade Secrets Act of 2016 (DTSA)",
+      "date_filed": "2020-10-07"
+    },
+    "18525782": {
+      "case_name": "M3 USA CORPORATION v. QAMOUM",
+      "court_id": "dcd",
+      "nos": "Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-09"
+    },
+    "18526699": {
+      "case_name": "AllRounds, Inc. v. eShares, Inc.",
+      "court_id": "cand",
+      "nos": "880 Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-09"
+    },
+    "28430200": {
+      "case_name": "RxStrategies, Inc. v. Rolling",
+      "court_id": "almd",
+      "nos": "Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-09"
+    },
+    "18541637": {
+      "case_name": "ELITE TRANSIT SOLUTIONS, LLC. v. CUNNINGHAM",
+      "court_id": "pawd",
+      "nos": "880 Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-13"
+    },
+    "18735938": {
+      "case_name": "Schwan's Company v. Cai",
+      "court_id": "mnd",
+      "nos": "Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-13"
+    },
+    "18536356": {
+      "case_name": "Prairie Field Services, LLC v. Welsh",
+      "court_id": "mnd",
+      "nos": "Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-14"
+    },
+    "18537771": {
+      "case_name": "Nulife Ventures, Inc. v. Avacen, Inc.",
+      "court_id": "casd",
+      "nos": "Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-14"
+    },
+    "18543046": {
+      "case_name": "Harper Engineering Company v. FACC Operations GmbH",
+      "court_id": "alsd",
+      "nos": "Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-15"
+    },
+    "18543316": {
+      "case_name": "AZIMA v. DEL ROSSO",
+      "court_id": "ncmd",
+      "nos": "880 Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-15"
+    },
+    "18551386": {
+      "case_name": "Sterling BV, Inc. v. Lupo",
+      "court_id": "txwd",
+      "nos": "880 Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-19"
+    },
+    "18555289": {
+      "case_name": "Arrowhead Landscape Services, Inc. v. Leuenberger",
+      "court_id": "cod",
+      "nos": "880 Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-19"
+    },
+    "18554874": {
+      "case_name": "Allstate Insurance Company v. Cruz",
+      "court_id": "cod",
+      "nos": "880 Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-20"
+    },
+    "18556657": {
+      "case_name": "East West Bank v. Shanker",
+      "court_id": "cand",
+      "nos": "Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-20"
+    },
+    "18561889": {
+      "case_name": "Keller North America, Inc. v. Earl",
+      "court_id": "ohnd",
+      "nos": "Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-22"
+    },
+    "18564975": {
+      "case_name": "ACTEON, INC. v. HARMS",
+      "court_id": "njd",
+      "nos": "Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-22"
+    },
+    "18565456": {
+      "case_name": "2999TC Acquisitions LLC v. 2999 Turtle Creek LLC",
+      "court_id": "txnd",
+      "nos": "880 Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-22"
+    },
+    "18565857": {
+      "case_name": "Brubaker Homeshopping, Inc. v. USA Supreme Distributions Inc.",
+      "court_id": "flmd",
+      "nos": "880 Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-22"
+    },
+    "18571926": {
+      "case_name": "SELECT ENERGY SERVICES, INC. v. WARD",
+      "court_id": "pawd",
+      "nos": "880 Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-22"
+    },
+    "51832531": {
+      "case_name": "TECH USA, INC. v. Milligan",
+      "court_id": "mdd",
+      "nos": "Defend Trade Secrets Act of 2016 (DTSA)",
+      "date_filed": "2020-10-23"
+    },
+    "18571106": {
+      "case_name": "Soren Transport, Inc. v. McAllister",
+      "court_id": "txsd",
+      "nos": "880 Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-25"
+    },
+    "18574616": {
+      "case_name": "Biocardia Lifesciences, Inc. v. Sarna",
+      "court_id": "cand",
+      "nos": "880 Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-26"
+    },
+    "18579262": {
+      "case_name": "Five Points Trading Corp. v. Supremas, Inc.",
+      "court_id": "cacd",
+      "nos": "Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-27"
+    },
+    "18679031": {
+      "case_name": "Edward D Jones & Co LP v. Barnes",
+      "court_id": "scd",
+      "nos": "Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-27"
+    },
+    "18592317": {
+      "case_name": "Park Lawn Corporation v. PlotBox, Inc.",
+      "court_id": "ded",
+      "nos": "Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-30"
+    },
+    "18593632": {
+      "case_name": "Karma Automotive LLC v. Lordstown Motors Corp.",
+      "court_id": "cacd",
+      "nos": "880 Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-30"
+    },
+    "18596688": {
+      "case_name": "Snyder v. Beam Technologies, Inc",
+      "court_id": "cod",
+      "nos": "Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-30"
+    },
+    "18596697": {
+      "case_name": "Abbott Laboratories v. Clavel",
+      "court_id": "ilnd",
+      "nos": "880 Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-30"
+    },
+    "18596902": {
+      "case_name": "Farmers Insurance Exchange v. Nordby",
+      "court_id": "nvd",
+      "nos": "Defend Trade Secrets Act (of 2016)",
+      "date_filed": "2020-10-30"
+    },
+    "4517788": {
+      "case_name": "United States v. E.I. DU PONT DE NEMOURS AND COMPANY, INC.",
+      "court_id": "njd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-06"
+    },
+    "5164133": {
+      "case_name": "FRIENDS OF ANIMALS v. SALLY JEWELL",
+      "court_id": "dcd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-06"
+    },
+    "18212793": {
+      "case_name": "United States v. Real",
+      "court_id": "azd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-01-06"
+    },
+    "4213322": {
+      "case_name": "ENVIRONMENTAL INTEGRITY PROJECT v. UNITED STATES ENVIRONMENTAL PROTECTION AGENCY",
+      "court_id": "dcd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-07"
+    },
+    "5159468": {
+      "case_name": "Public Employees for Environmental Responsibility v. The Gipson Company",
+      "court_id": "tnmd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-07"
+    },
+    "5686561": {
+      "case_name": "South Farmingdale Water District v. United States",
+      "court_id": "nyed",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-01-07"
+    },
+    "5972660": {
+      "case_name": "California Sportfishing Protection Alliance v. Trical, Inc",
+      "court_id": "cand",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-07"
+    },
+    "4181483": {
+      "case_name": "United States v. Alecio Shipping Inc.",
+      "court_id": "cand",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-08"
+    },
+    "5907664": {
+      "case_name": "California Communities Against Toxics v. Weber Metals, Inc.",
+      "court_id": "cacd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-08"
+    },
+    "5961648": {
+      "case_name": "Community Health Watch v. Collins Pine Company",
+      "court_id": "caed",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-08"
+    },
+    "4292615": {
+      "case_name": "Fernanders v. Wright",
+      "court_id": "mied",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-09"
+    },
+    "5972659": {
+      "case_name": "California Sportfishing Protection Alliance v. Santa Cruz County",
+      "court_id": "cand",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-09"
+    },
+    "14416664": {
+      "case_name": "State of Ohio, ex rel. Michael DeWine, Ohio Attorney General v. Honeywell International Inc",
+      "court_id": "ohsd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-01-09"
+    },
+    "18159204": {
+      "case_name": "Aidee Alcantar v. Portfolio Recovery Associates LLC",
+      "court_id": "cacd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-01-11"
+    },
+    "5535118": {
+      "case_name": "Hamilton v. High Mountain Mining Company LLC",
+      "court_id": "cod",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-12"
+    },
+    "5971462": {
+      "case_name": "California River Watch v. Pinot Hill, LLC",
+      "court_id": "cand",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-12"
+    },
+    "62889253": {
+      "case_name": "WATERSHED OF THE MIDDLE, ET AL v. ALMA PLACER MINE, ET AL",
+      "court_id": "cod",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-01-12"
+    },
+    "14453170": {
+      "case_name": "Hart v. Commissioner of Social Security",
+      "court_id": "flmd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-01-13"
+    },
+    "18175592": {
+      "case_name": "United States v. Carroll",
+      "court_id": "miwd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-01-13"
+    },
+    "5426795": {
+      "case_name": "Sierra Club v. United States Forest Service",
+      "court_id": "mied",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-14"
+    }
+  },
+  "stats": {}
+}
