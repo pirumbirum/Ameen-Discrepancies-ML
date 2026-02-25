@@ -1,0 +1,130 @@
+name: "00: Test API Connection"
+
+# Purpose: Verify CourtListener API token works and we can read data.
+# Safe: Read-only, no writes, no commits. Just prints results.
+# Run: Manual only.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-connection:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Test API connection
+        env:
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: |
+          python3 << 'PYEOF'
+          import requests, json, os, sys
+
+          TOKEN = os.environ.get("COURTLISTENER_TOKEN", "")
+          if not TOKEN:
+              print("ERROR: COURTLISTENER_TOKEN secret not set")
+              sys.exit(1)
+
+          BASE = "https://www.courtlistener.com/api/rest/v4"
+          HEADERS = {"Authorization": f"Token {TOKEN}"}
+
+          print("=" * 60)
+          print("TEST 1: Auth check - fetch 1 docket")
+          print("=" * 60)
+
+          resp = requests.get(f"{BASE}/dockets/", headers=HEADERS, params={"fields": "id,case_name", "order_by": "id"})
+          print(f"Status: {resp.status_code}")
+          if resp.status_code == 401:
+              print("FAIL: Token is invalid or expired")
+              sys.exit(1)
+          if resp.status_code == 200:
+              data = resp.json()
+              results = data.get("results", [])
+              print(f"OK: Got {len(results)} results")
+              if results:
+                  print(f"First: id={results[0]['id']}, name={results[0].get('case_name','?')}")
+          else:
+              print(f"Unexpected: {resp.text[:500]}")
+              sys.exit(1)
+
+          print("\n" + "=" * 60)
+          print("TEST 2: Verify nature_of_suit filter works")
+          print("=" * 60)
+
+          for filter_style in ["nature_of_suit=Securities", "nature_of_suit__contains=Securities"]:
+              key, val = filter_style.split("=", 1)
+              resp2 = requests.get(f"{BASE}/dockets/", headers=HEADERS, params={
+                  key: val, "fields": "id,nature_of_suit", "order_by": "id"
+              })
+              print(f"  {filter_style}: status={resp2.status_code}, results={len(resp2.json().get('results', []))}")
+              if resp2.status_code == 200 and resp2.json().get("results"):
+                  nos_val = resp2.json()["results"][0].get("nature_of_suit", "")
+                  print(f"    Sample NOS value: '{nos_val}'")
+
+          print("\n" + "=" * 60)
+          print("TEST 3: Verify court__jurisdiction filter")
+          print("=" * 60)
+
+          resp3 = requests.get(f"{BASE}/dockets/", headers=HEADERS, params={
+              "court__jurisdiction": "FD", "fields": "id,court_id", "order_by": "id"
+          })
+          print(f"Status: {resp3.status_code}")
+          if resp3.status_code == 200:
+              courts = [r.get("court_id") for r in resp3.json().get("results", [])]
+              print(f"Courts in results: {set(courts)}")
+          else:
+              print(f"Filter may not work as expected: {resp3.text[:300]}")
+
+          print("\n" + "=" * 60)
+          print("TEST 4: Verify docket-entries endpoint")
+          print("=" * 60)
+
+          resp4a = requests.get(f"{BASE}/dockets/", headers=HEADERS, params={
+              "court__jurisdiction": "FD", "fields": "id", "order_by": "-date_modified"
+          })
+          if resp4a.status_code == 200 and resp4a.json().get("results"):
+              did = resp4a.json()["results"][0]["id"]
+              resp4b = requests.get(f"{BASE}/docket-entries/", headers=HEADERS, params={
+                  "docket": did,
+                  "omit": "recap_documents__plain_text",
+                  "order_by": "entry_number",
+              })
+              print(f"Docket {did} entries: status={resp4b.status_code}")
+              if resp4b.status_code == 200:
+                  entries = resp4b.json().get("results", [])
+                  print(f"  Entries on page: {len(entries)}")
+                  if entries:
+                      e = entries[0]
+                      print(f"  First entry: #{e.get('entry_number')} - {e.get('description','')[:80]}")
+                      docs = e.get("recap_documents", [])
+                      print(f"  Documents in entry: {len(docs)}")
+                      if docs:
+                          d = docs[0]
+                          print(f"    is_available={d.get('is_available')}, page_count={d.get('page_count')}")
+
+          print("\n" + "=" * 60)
+          print("TEST 5: Verify count parameter")
+          print("=" * 60)
+
+          resp5 = requests.get(f"{BASE}/dockets/", headers=HEADERS, params={
+              "court__jurisdiction": "FD", "count": "on"
+          })
+          print(f"Status: {resp5.status_code}")
+          if resp5.status_code == 200:
+              print(f"Total federal district dockets: {resp5.json().get('count', 'N/A')}")
+
+          print("\n" + "=" * 60)
+          print("ALL TESTS PASSED" if resp.status_code == 200 else "SOME TESTS FAILED")
+          print("=" * 60)
+          PYEOF

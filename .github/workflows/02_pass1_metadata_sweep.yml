@@ -1,0 +1,240 @@
+name: "02: Pass 1 - Metadata Sweep"
+
+# Purpose: Pull metadata for ~50K federal corporate litigation cases.
+# Estimated: ~2,500 API calls, ~30 minutes.
+# Safety: Read-only API calls. Saves results as artifacts.
+#          Does NOT commit to repo -- human reviews artifacts first.
+# Run: Manual only.
+
+on:
+  workflow_dispatch:
+    inputs:
+      date_start:
+        description: "Start date (YYYY-MM-DD)"
+        default: "2015-01-01"
+        required: true
+      date_end:
+        description: "End date (YYYY-MM-DD)"
+        default: "2025-12-31"
+        required: true
+      nos_tier:
+        description: "Which NOS tier to pull (tier1, tier2, all)"
+        default: "all"
+        required: true
+        type: choice
+        options:
+          - tier1
+          - tier2
+          - all
+      dry_run:
+        description: "Dry run (only fetch 2 pages per NOS)"
+        default: false
+        type: boolean
+
+permissions:
+  contents: read
+
+jobs:
+  metadata-sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Pass 1 metadata sweep
+        env:
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+          DATE_START: ${{ inputs.date_start }}
+          DATE_END: ${{ inputs.date_end }}
+          NOS_TIER: ${{ inputs.nos_tier }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          python3 << 'PYEOF'
+          import sys
+          sys.path.insert(0, "scripts")
+          from crawler_lib import CourtListenerClient, Checkpoint, ProgressReporter, save_json, load_json
+          import os, json, time
+          from datetime import datetime
+
+          DATE_START = os.environ.get("DATE_START", "2015-01-01")
+          DATE_END = os.environ.get("DATE_END", "2025-12-31")
+          NOS_TIER = os.environ.get("NOS_TIER", "all")
+          DRY_RUN = os.environ.get("DRY_RUN", "false").lower() == "true"
+
+          MAX_PAGES_PER_NOS = 2 if DRY_RUN else None
+
+          TIER1_NOS = [
+              "Securities",
+              "Patent",
+              "Trademark",
+              "Antitrust",
+              "Stockholders",
+              "RICO",
+              "Trade Secret",
+          ]
+
+          TIER2_NOS = [
+              "Other Contract",
+              "Insurance",
+              "Banks",
+              "Environmental",
+          ]
+
+          if NOS_TIER == "tier1":
+              nos_list = TIER1_NOS
+          elif NOS_TIER == "tier2":
+              nos_list = TIER2_NOS
+          else:
+              nos_list = TIER1_NOS + TIER2_NOS
+
+          FIELDS = ",".join([
+              "id", "case_name", "case_name_full", "docket_number",
+              "docket_number_core", "court_id", "nature_of_suit", "cause",
+              "jurisdiction_type", "date_filed", "date_terminated",
+              "date_last_filing", "assigned_to_str", "referred_to_str",
+              "pacer_case_id", "source", "slug", "federal_dn_case_type",
+          ])
+
+          # Setup
+          client = CourtListenerClient()
+          checkpoint = Checkpoint("output/pass1_checkpoint.json")
+          os.makedirs("output/metadata", exist_ok=True)
+
+          # Master index of all docket IDs collected
+          master_index = load_json("output/pass1_index.json", {"dockets": {}, "stats": {}})
+
+          total_collected = len(master_index["dockets"])
+          progress = ProgressReporter(total_expected=50000)
+          progress.collected = total_collected
+
+          print("=" * 60)
+          print(f"PASS 1: METADATA SWEEP")
+          print(f"Date range: {DATE_START} to {DATE_END}")
+          print(f"NOS tier: {NOS_TIER}")
+          print(f"Dry run: {DRY_RUN}")
+          print(f"Already collected: {total_collected}")
+          print("=" * 60)
+
+          for nos_text in nos_list:
+              nos_key = nos_text.lower().replace(" ", "_")
+
+              # Skip if already completed
+              if checkpoint.is_completed(f"nos_{nos_key}"):
+                  print(f"\n[SKIP] {nos_text} -- already completed")
+                  continue
+
+              print(f"\n{'=' * 60}")
+              print(f"[NOS] {nos_text}")
+              print(f"{'=' * 60}")
+
+              # Load existing data for this NOS if resuming
+              nos_file = f"output/metadata/{nos_key}.json"
+              nos_data = load_json(nos_file, [])
+
+              params = {
+                  "court__jurisdiction": "FD",
+                  "date_filed__gte": DATE_START,
+                  "date_filed__lte": DATE_END,
+                  "nature_of_suit__contains": nos_text,
+                  "order_by": "date_filed,id",
+                  "fields": FIELDS,
+              }
+
+              # Resume from cursor if we have one
+              resume_cursor = checkpoint.get(f"nos_{nos_key}_cursor")
+              page_count = checkpoint.get(f"nos_{nos_key}_pages", 0)
+
+              nos_count = len(nos_data)
+
+              def on_page(page_num, results):
+                  nonlocal nos_count, page_count
+                  nos_count += len(results)
+                  page_count += 1
+
+                  # Add to NOS data
+                  nos_data.extend(results)
+
+                  # Add to master index
+                  for r in results:
+                      did = str(r["id"])
+                      if did not in master_index["dockets"]:
+                          master_index["dockets"][did] = {
+                              "case_name": r.get("case_name", ""),
+                              "court_id": r.get("court_id", ""),
+                              "nos": r.get("nature_of_suit", ""),
+                              "date_filed": r.get("date_filed", ""),
+                          }
+                          progress.add()
+
+                  # Save every 5 pages
+                  if page_count % 5 == 0:
+                      save_json(nos_data, nos_file)
+                      checkpoint.set(f"nos_{nos_key}_pages", page_count)
+
+                  # Progress report every 15 min
+                  if progress.should_report():
+                      save_json(nos_data, nos_file)
+                      save_json(master_index, "output/pass1_index.json")
+                      progress.report(f"Current NOS: {nos_text}, page {page_count}")
+
+                  print(f"  Page {page_count}: +{len(results)} (NOS total: {nos_count}, grand total: {progress.collected})")
+
+              # If resuming, use the saved cursor URL
+              if resume_cursor:
+                  print(f"  Resuming from cursor...")
+                  endpoint = resume_cursor
+                  start_params = None
+              else:
+                  endpoint = "dockets/"
+                  start_params = params
+
+              try:
+                  for result in client.paginate(endpoint, params=start_params, max_pages=MAX_PAGES_PER_NOS, callback=on_page):
+                      pass  # on_page handles everything
+              except KeyboardInterrupt:
+                  print("\n[INTERRUPTED] Saving progress...")
+              except Exception as e:
+                  print(f"\n[ERROR] {e}")
+                  progress.add_error()
+
+              # Save NOS results
+              save_json(nos_data, nos_file)
+              checkpoint.mark_completed(f"nos_{nos_key}")
+              checkpoint.set(f"nos_{nos_key}_total", nos_count)
+
+              print(f"\n  {nos_text}: {nos_count} cases collected")
+
+          # Final save
+          master_index["stats"] = {
+              "total_dockets": len(master_index["dockets"]),
+              "completed_at": datetime.utcnow().isoformat(),
+              "date_range": {"start": DATE_START, "end": DATE_END},
+              "nos_tier": NOS_TIER,
+              "dry_run": DRY_RUN,
+              "api_stats": client.rate_limiter.get_stats(),
+          }
+          save_json(master_index, "output/pass1_index.json")
+
+          # Final report
+          progress.report("PASS 1 COMPLETE")
+          print(f"\nTotal unique dockets: {len(master_index['dockets'])}")
+          print(f"Files saved in output/metadata/")
+          PYEOF
+
+      - name: Upload metadata artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pass1-metadata-${{ github.run_id }}
+          path: output/
+          retention-days: 90

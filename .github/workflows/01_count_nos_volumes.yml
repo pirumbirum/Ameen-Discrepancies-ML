@@ -1,0 +1,194 @@
+name: "01: Count NOS Volumes"
+
+# Purpose: Count how many cases exist per NOS code to validate volume estimates.
+# Safe: Read-only, no writes, no commits. Just counts and prints.
+# Run: Manual only.
+# Isolation: This workflow has NO write permissions and cannot modify the repo.
+
+on:
+  workflow_dispatch:
+    inputs:
+      date_start:
+        description: "Start date (YYYY-MM-DD)"
+        default: "2015-01-01"
+        required: true
+      date_end:
+        description: "End date (YYYY-MM-DD)"
+        default: "2025-12-31"
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  count-nos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Count cases per NOS code
+        env:
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+          DATE_START: ${{ inputs.date_start }}
+          DATE_END: ${{ inputs.date_end }}
+        run: |
+          python3 << 'PYEOF'
+          import requests, os, sys, time, json
+
+          TOKEN = os.environ.get("COURTLISTENER_TOKEN", "")
+          if not TOKEN:
+              print("ERROR: COURTLISTENER_TOKEN secret not set")
+              sys.exit(1)
+
+          BASE = "https://www.courtlistener.com/api/rest/v4"
+          HEADERS = {"Authorization": f"Token {TOKEN}"}
+          DATE_START = os.environ.get("DATE_START", "2015-01-01")
+          DATE_END = os.environ.get("DATE_END", "2025-12-31")
+
+          # Tier 1: Inherently corporate
+          TIER1_NOS = [
+              "Securities",
+              "Patent",
+              "Trademark",
+              "Antitrust",
+              "Stockholders",
+              "RICO",
+              "Trade Secret",
+          ]
+
+          # Tier 2: High corporate overlap
+          TIER2_NOS = [
+              "Other Contract",
+              "Insurance",
+              "Banks",
+              "Environmental",
+          ]
+
+          # Extra NOS codes to check for volume
+          EXTRA_NOS = [
+              "Copyright",
+              "Fraud",
+              "Product Liability",
+              "Tax",
+              "Labor",
+          ]
+
+          all_nos = (
+              [("TIER 1", n) for n in TIER1_NOS]
+              + [("TIER 2", n) for n in TIER2_NOS]
+              + [("EXTRA", n) for n in EXTRA_NOS]
+          )
+
+          results = []
+          grand_total = 0
+          tier1_total = 0
+          tier2_total = 0
+
+          print("=" * 70)
+          print(f"NOS VOLUME COUNT  |  Federal District  |  {DATE_START} to {DATE_END}")
+          print("=" * 70)
+
+          for tier, nos_text in all_nos:
+              # Respect rate limits -- small sleep between requests
+              time.sleep(0.8)
+
+              params = {
+                  "court__jurisdiction": "FD",
+                  "date_filed__gte": DATE_START,
+                  "date_filed__lte": DATE_END,
+                  "nature_of_suit__contains": nos_text,
+                  "count": "on",
+                  "fields": "id",
+              }
+              try:
+                  resp = requests.get(f"{BASE}/dockets/", headers=HEADERS, params=params, timeout=30)
+              except requests.RequestException as e:
+                  print(f"  ERROR on {nos_text}: {e}")
+                  results.append({"tier": tier, "nos": nos_text, "count": -1, "error": str(e)})
+                  continue
+
+              if resp.status_code == 429:
+                  print(f"  RATE LIMITED on {nos_text} -- waiting 60s")
+                  time.sleep(60)
+                  resp = requests.get(f"{BASE}/dockets/", headers=HEADERS, params=params, timeout=30)
+
+              if resp.status_code == 200:
+                  count = resp.json().get("count", 0)
+                  print(f"  [{tier}] {nos_text:30s} => {count:>8,} cases")
+                  results.append({"tier": tier, "nos": nos_text, "count": count})
+                  grand_total += count
+                  if tier == "TIER 1":
+                      tier1_total += count
+                  elif tier == "TIER 2":
+                      tier2_total += count
+              else:
+                  print(f"  [{tier}] {nos_text:30s} => ERROR {resp.status_code}: {resp.text[:200]}")
+                  results.append({"tier": tier, "nos": nos_text, "count": -1, "error": resp.text[:200]})
+
+          print("\n" + "=" * 70)
+          print("SUMMARY")
+          print("=" * 70)
+          print(f"  Tier 1 total:  {tier1_total:>10,}")
+          print(f"  Tier 2 total:  {tier2_total:>10,}")
+          print(f"  Grand total:   {grand_total:>10,}")
+          print(f"\n  Target: 50,000 cases")
+          if grand_total >= 50000:
+              print(f"  STATUS: SUFFICIENT -- {grand_total - 50000:,} surplus")
+          else:
+              print(f"  STATUS: SHORTFALL -- need {50000 - grand_total:,} more")
+              print(f"  Consider adding EXTRA NOS codes or expanding date range")
+
+          # Also try exact match (without __contains) for Securities to compare
+          print("\n" + "=" * 70)
+          print("FILTER VALIDATION: exact vs contains for 'Securities'")
+          print("=" * 70)
+          time.sleep(0.8)
+          for style in ["nature_of_suit=Securities", "nature_of_suit__contains=Securities"]:
+              key, val = style.split("=", 1)
+              p = {
+                  "court__jurisdiction": "FD",
+                  "date_filed__gte": DATE_START,
+                  "date_filed__lte": DATE_END,
+                  key: val,
+                  "count": "on",
+                  "fields": "id",
+              }
+              r = requests.get(f"{BASE}/dockets/", headers=HEADERS, params=p, timeout=30)
+              if r.status_code == 200:
+                  print(f"  {style:50s} => {r.json().get('count', '?'):>8,}")
+              time.sleep(0.8)
+
+          print("\n" + "=" * 70)
+          print("DONE")
+          print("=" * 70)
+
+          # Save as JSON artifact
+          os.makedirs("output", exist_ok=True)
+          with open("output/nos_volumes.json", "w") as f:
+              json.dump({
+                  "date_range": {"start": DATE_START, "end": DATE_END},
+                  "jurisdiction": "FD",
+                  "tier1_total": tier1_total,
+                  "tier2_total": tier2_total,
+                  "grand_total": grand_total,
+                  "results": results,
+              }, f, indent=2)
+          PYEOF
+
+      - name: Upload volume report
+        uses: actions/upload-artifact@v4
+        with:
+          name: nos-volumes
+          path: output/nos_volumes.json
+          retention-days: 30

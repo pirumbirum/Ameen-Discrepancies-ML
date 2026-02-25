@@ -1,0 +1,194 @@
+name: "03: Pass 2 - Entry Pull"
+
+# Purpose: Pull docket entries for cases collected in Pass 1.
+# Estimated: ~75,000-100,000 API calls, ~15-20 hours.
+# Safety:
+#   - Read-only API calls
+#   - Saves progress every 15 minutes as artifacts
+#   - Checkpoint/resume: re-run to continue from where it stopped
+#   - timeout-minutes prevents runaway costs
+#   - Does NOT commit to repo
+# Run: Manual only. Requires Pass 1 artifacts.
+#
+# IMPORTANT: This workflow runs in batches due to GitHub Actions 6-hour limit.
+# Run it multiple times -- it resumes from checkpoint each time.
+
+on:
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: "Cases to process in this run (0 = all remaining)"
+        default: "5000"
+        required: true
+      dry_run:
+        description: "Dry run (only 10 cases, 1 page each)"
+        default: false
+        type: boolean
+      pass1_run_id:
+        description: "Run ID of Pass 1 workflow (to download artifacts)"
+        required: true
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  entry-pull:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350  # ~5.8 hours, under GitHub's 6hr limit
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Download Pass 1 artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: pass1-metadata-${{ inputs.pass1_run_id }}
+          path: output/
+        continue-on-error: true
+
+      - name: Download previous Pass 2 checkpoint (if exists)
+        uses: actions/download-artifact@v4
+        with:
+          pattern: pass2-entries-*
+          path: output/
+          merge-multiple: true
+        continue-on-error: true
+
+      - name: Run Pass 2 entry pull
+        env:
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+          BATCH_SIZE: ${{ inputs.batch_size }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          python3 << 'PYEOF'
+          import sys
+          sys.path.insert(0, "scripts")
+          from crawler_lib import CourtListenerClient, Checkpoint, ProgressReporter, save_json, load_json
+          import os, json, time
+          from datetime import datetime
+
+          BATCH_SIZE = int(os.environ.get("BATCH_SIZE", "5000"))
+          DRY_RUN = os.environ.get("DRY_RUN", "false").lower() == "true"
+          MAX_ENTRY_PAGES = 1 if DRY_RUN else None
+          if DRY_RUN:
+              BATCH_SIZE = 10
+
+          # Load Pass 1 index
+          index = load_json("output/pass1_index.json")
+          if not index or "dockets" not in index:
+              print("ERROR: No Pass 1 index found. Run Pass 1 first or provide correct run_id.")
+              sys.exit(1)
+
+          all_docket_ids = sorted(index["dockets"].keys())
+          total_dockets = len(all_docket_ids)
+          print(f"Total dockets from Pass 1: {total_dockets}")
+
+          # Load checkpoint
+          checkpoint = Checkpoint("output/pass2_checkpoint.json")
+          completed_ids = set(checkpoint.get("completed_ids", []))
+          print(f"Already completed: {len(completed_ids)}")
+
+          # Filter to remaining
+          remaining = [did for did in all_docket_ids if did not in completed_ids]
+          if BATCH_SIZE > 0:
+              remaining = remaining[:BATCH_SIZE]
+          print(f"To process this batch: {len(remaining)}")
+
+          if not remaining:
+              print("All dockets already processed!")
+              sys.exit(0)
+
+          # Setup
+          client = CourtListenerClient()
+          os.makedirs("output/entries", exist_ok=True)
+
+          progress = ProgressReporter(total_expected=len(remaining))
+          errors = []
+          save_interval = 900  # 15 minutes
+          last_save = time.time()
+
+          for i, docket_id in enumerate(remaining):
+              print(f"\n[{i+1}/{len(remaining)}] Docket {docket_id}: {index['dockets'][docket_id].get('case_name', '?')[:60]}")
+
+              entries = []
+              page = 0
+
+              params = {
+                  "docket": docket_id,
+                  "omit": "recap_documents__plain_text",
+                  "order_by": "entry_number",
+              }
+
+              try:
+                  for entry in client.paginate("docket-entries/", params=params, max_pages=MAX_ENTRY_PAGES):
+                      entries.append(entry)
+                      page += 1
+              except Exception as e:
+                  print(f"  ERROR: {e}")
+                  errors.append({"docket_id": docket_id, "error": str(e)})
+                  progress.add_error()
+                  continue
+
+              # Save entries for this docket
+              entry_data = {
+                  "docket_id": int(docket_id),
+                  "total_entries": len(entries),
+                  "pulled_at": datetime.utcnow().isoformat(),
+                  "entries": entries,
+              }
+              save_json(entry_data, f"output/entries/{docket_id}.json")
+
+              # Mark completed
+              completed_ids.add(docket_id)
+              progress.add()
+
+              print(f"  => {len(entries)} entries saved")
+
+              # Periodic save every 15 minutes
+              if time.time() - last_save >= save_interval:
+                  checkpoint.set("completed_ids", list(completed_ids))
+                  checkpoint.set("last_save", datetime.utcnow().isoformat())
+                  checkpoint.set("total_completed", len(completed_ids))
+                  progress.report(f"Batch {i+1}/{len(remaining)}")
+                  last_save = time.time()
+
+          # Final save
+          checkpoint.set("completed_ids", list(completed_ids))
+          checkpoint.set("last_save", datetime.utcnow().isoformat())
+          checkpoint.set("total_completed", len(completed_ids))
+          if errors:
+              save_json(errors, "output/pass2_errors.json")
+
+          # Summary
+          progress.report("BATCH COMPLETE")
+          total_done = len(completed_ids)
+          total_remaining = total_dockets - total_done
+          print(f"\nCompleted: {total_done}/{total_dockets} ({total_done/total_dockets*100:.1f}%)")
+          print(f"Remaining: {total_remaining}")
+          print(f"Errors this batch: {len(errors)}")
+          if total_remaining > 0:
+              print(f"\nRe-run this workflow to process the next batch.")
+          else:
+              print(f"\nAll dockets processed! Pass 2 complete.")
+          PYEOF
+
+      - name: Upload entry artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pass2-entries-${{ github.run_id }}
+          path: |
+            output/entries/
+            output/pass2_checkpoint.json
+            output/pass2_errors.json
+          retention-days: 90
