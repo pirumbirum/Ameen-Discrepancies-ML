@@ -1,0 +1,247 @@
+{
+  "nos_values_seen": [
+    "120 Contract: Marine",
+    "152 Recovery of defaulted student loans",
+    "440 Civil Rights: Other",
+    "463 Habeas Corpus - Alien Detainee",
+    "555 Civil Rights (Prison Condition)",
+    "710 Labor: Fair Standards",
+    "820 Copyright",
+    "870 Tax suits",
+    "890 Other Statutory Actions"
+  ],
+  "filter_tests": [
+    {
+      "label": "Securities exact",
+      "filter_key": "nature_of_suit",
+      "filter_value": "Securities",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "Securities contains",
+      "filter_key": "nature_of_suit__contains",
+      "filter_value": "Securities",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "Securities startswith",
+      "filter_key": "nature_of_suit__startswith",
+      "filter_value": "Securities",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "850 exact",
+      "filter_key": "nature_of_suit",
+      "filter_value": "850",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "850 startswith",
+      "filter_key": "nature_of_suit__startswith",
+      "filter_value": "850",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "850 contains",
+      "filter_key": "nature_of_suit__contains",
+      "filter_value": "850",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "Securities/Commodities",
+      "filter_key": "nature_of_suit__contains",
+      "filter_value": "Securities/Commodities",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "Patent exact",
+      "filter_key": "nature_of_suit",
+      "filter_value": "Patent",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "Patent contains",
+      "filter_key": "nature_of_suit__contains",
+      "filter_value": "Patent",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "830 contains",
+      "filter_key": "nature_of_suit__contains",
+      "filter_value": "830",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "830 startswith",
+      "filter_key": "nature_of_suit__startswith",
+      "filter_value": "830",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "Trademark contains",
+      "filter_key": "nature_of_suit__contains",
+      "filter_value": "Trademark",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "840 startswith",
+      "filter_key": "nature_of_suit__startswith",
+      "filter_value": "840",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "Antitrust contains",
+      "filter_key": "nature_of_suit__contains",
+      "filter_value": "Antitrust",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "410 startswith",
+      "filter_key": "nature_of_suit__startswith",
+      "filter_value": "410",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "Stockholders contains",
+      "filter_key": "nature_of_suit__contains",
+      "filter_value": "Stockholders",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "160 startswith",
+      "filter_key": "nature_of_suit__startswith",
+      "filter_value": "160",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "RICO contains",
+      "filter_key": "nature_of_suit__contains",
+      "filter_value": "RICO",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "470 startswith",
+      "filter_key": "nature_of_suit__startswith",
+      "filter_value": "470",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "Trade Secret contains",
+      "filter_key": "nature_of_suit__contains",
+      "filter_value": "Trade Secret",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "880 startswith",
+      "filter_key": "nature_of_suit__startswith",
+      "filter_value": "880",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "Environmental contains",
+      "filter_key": "nature_of_suit__contains",
+      "filter_value": "Environmental",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "893 startswith",
+      "filter_key": "nature_of_suit__startswith",
+      "filter_value": "893",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "Other Contract contains",
+      "filter_key": "nature_of_suit__contains",
+      "filter_value": "Other Contract",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "190 startswith",
+      "filter_key": "nature_of_suit__startswith",
+      "filter_value": "190",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "Insurance contains",
+      "filter_key": "nature_of_suit__contains",
+      "filter_value": "Insurance",
+      "count": 86814,
+      "status": "OK",
+      "sample_nos": ""
+    },
+    {
+      "label": "110 startswith",
+      "filter_key": "nature_of_suit__startswith",
+      "filter_value": "110",
+      "count": -1,
+      "status": "ERROR: HTTPSConnectionPool(host='www.courtlistener.com', port=443): Read timed out. (read timeout=30)",
+      "sample_nos": ""
+    },
+    {
+      "label": "Banks contains",
+      "filter_key": "nature_of_suit__contains",
+      "filter_value": "Banks",
+      "count": 1716,
+      "status": "OK",
+      "sample_nos": ""
+    },
+    {
+      "label": "430 startswith",
+      "filter_key": "nature_of_suit__startswith",
+      "filter_value": "430",
+      "count": 1210,
+      "status": "OK",
+      "sample_nos": ""
+    }
+  ]
+}
