@@ -28,5 +28,8 @@
   "insurance_completed_at": "2026-02-25T22:35:32.643331",
   "banks_completed": true,
   "banks_total": 0,
-  "banks_completed_at": "2026-02-25T22:37:37.836698"
+  "banks_completed_at": "2026-02-25T22:37:37.836698",
+  "environmental_completed": true,
+  "environmental_total": 300,
+  "environmental_completed_at": "2026-02-25T22:45:48.352764"
 }

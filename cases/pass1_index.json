@@ -359,7 +359,1697 @@
       "court_id": "mied",
       "nos": "893 Environmental Matters",
       "date_filed": "2015-01-14"
+    },
+    "5970005": {
+      "case_name": "San Francisco Baykeeper v. Phan",
+      "court_id": "cand",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-14"
+    },
+    "14419192": {
+      "case_name": "United States v. Twin County Dairy, Inc.",
+      "court_id": "iasd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-01-14"
+    },
+    "4248700": {
+      "case_name": "Residents of Spencer Towers v. HUD",
+      "court_id": "ilcd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-15"
+    },
+    "13132654": {
+      "case_name": "FRIENDS OF ANIMALS v. JEWELL",
+      "court_id": "dcd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-01-15"
+    },
+    "13267333": {
+      "case_name": "Franklin Horse Enterprise LLC v. City of Easley, The",
+      "court_id": "scd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-01-15"
+    },
+    "14442688": {
+      "case_name": "Cole v. E. I. du Pont de Nemours and Company",
+      "court_id": "ohsd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-01-15"
+    },
+    "18163770": {
+      "case_name": "Cascadia Wildlands v. Bureau of Land Management",
+      "court_id": "ord",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-01-15"
+    },
+    "62895639": {
+      "case_name": "GARDEN PENINSULA FOUNDA, ET AL v. UNITED STATES FISH AND , ET AL",
+      "court_id": "miwd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-01-15"
+    },
+    "4303638": {
+      "case_name": "Catawba Riverkeeper Foundation v. North Carolina Department of Transportation",
+      "court_id": "nced",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-16"
+    },
+    "5117016": {
+      "case_name": "Canlas v. United States Pacific Fleet",
+      "court_id": "hid",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-01-16"
+    },
+    "6144035": {
+      "case_name": "Center for Biological Diversity v. Zinke",
+      "court_id": "azd",
+      "nos": "Other Statutes: Environmental Matters",
+      "date_filed": "2015-01-16"
+    },
+    "6978554": {
+      "case_name": "Garden Peninsula Foundation v. Heritage Sustainable Energy LLC",
+      "court_id": "miwd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-16"
+    },
+    "7575696": {
+      "case_name": "Hamrick v. General Services Administration, an administration agency of the United States Government",
+      "court_id": "ilcd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-16"
+    },
+    "5550134": {
+      "case_name": "WildEarth Guardians v. Ashe",
+      "court_id": "cod",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-20"
+    },
+    "6535898": {
+      "case_name": "STAHL v. BAUER AUTOMOTIVE, INC.",
+      "court_id": "njd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-20"
+    },
+    "5692298": {
+      "case_name": "Atlantic Richfield Company v. United States of America",
+      "court_id": "nmd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-01-21"
+    },
+    "13238728": {
+      "case_name": "Rivera-Colon v. Torres-Diaz",
+      "court_id": "prd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-01-21"
+    },
+    "5553079": {
+      "case_name": "United States v. Spokane County",
+      "court_id": "waed",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-23"
+    },
+    "5911625": {
+      "case_name": "Center for Community Action and Environmental Justice v. James Hardie Building Products Inc.",
+      "court_id": "cacd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-23"
+    },
+    "14404430": {
+      "case_name": "WALKER v. BABCOCK & WILCOX POWER GENERATION GROUP, INC.",
+      "court_id": "pawd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-01-23"
+    },
+    "13219115": {
+      "case_name": "United States v. Stoddard",
+      "court_id": "wawd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-01-27"
+    },
+    "13219116": {
+      "case_name": "United States v. Tweedy",
+      "court_id": "wawd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-01-27"
+    },
+    "4213374": {
+      "case_name": "ENVIRONMENTAL INTEGRITY PROJECT v. UNITED STATES ENVIRONMENTAL PROTECTION AGENCY",
+      "court_id": "dcd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-28"
+    },
+    "4213375": {
+      "case_name": "HUMANE SOCIETY OF THE UNITED STATES v. MCCARTHY",
+      "court_id": "dcd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-28"
+    },
+    "5957837": {
+      "case_name": "Conservation Congress v. United States Forest Service",
+      "court_id": "caed",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-28"
+    },
+    "6709366": {
+      "case_name": "North Slope Borough v. Pritzker",
+      "court_id": "akd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-28"
+    },
+    "18139758": {
+      "case_name": "United States v. Filippone",
+      "court_id": "casd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-01-28"
+    },
+    "60788465": {
+      "case_name": "United States v. Soo Line Railroad Company",
+      "court_id": "wiwd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-01-28"
+    },
+    "5286611": {
+      "case_name": "Garrett Day LLC v. International Paper Company",
+      "court_id": "ohsd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-30"
+    },
+    "5498893": {
+      "case_name": "Gary/Chicago International Airport Authority v. Zaleski",
+      "court_id": "innd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-01-30"
+    },
+    "47815670": {
+      "case_name": "AJM RE Holdings IX, LLC v. Baroda Properties, Inc.",
+      "court_id": "nyed",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-01-30"
+    },
+    "4152493": {
+      "case_name": "California Department of Toxic Substance Control v. American Honda Motor Co Inc",
+      "court_id": "cacd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-02-02"
+    },
+    "4579290": {
+      "case_name": "Defenders of Wildlife v. United States Army Corps of Engineers",
+      "court_id": "mtd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-02-02"
+    },
+    "5279263": {
+      "case_name": "Dune Energy, Inc. v. Chevron U.S.A. Inc.",
+      "court_id": "laed",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-02-02"
+    },
+    "6067272": {
+      "case_name": "West Virginia Highlands Conservancy v. Fola Coal Company",
+      "court_id": "wvsd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-02-02"
+    },
+    "14473915": {
+      "case_name": "United States v. Dollison",
+      "court_id": "akd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-02"
+    },
+    "4414264": {
+      "case_name": "Ohio Valley Environmental Coalition, Inc. v. Shepard Boone Coal Co.",
+      "court_id": "wvsd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-02-04"
+    },
+    "13134693": {
+      "case_name": "Conservation Law Foundation, Inc. v. Hampton River Marina, LLC",
+      "court_id": "nhd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-04"
+    },
+    "13164459": {
+      "case_name": "United States v. Lester",
+      "court_id": "mdd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-04"
+    },
+    "13568461": {
+      "case_name": "BPA Site PRP Group v. Inversiones Bellrim SA",
+      "court_id": "alnd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-04"
+    },
+    "14414445": {
+      "case_name": "United States v. Cansino-Soto",
+      "court_id": "txwd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-04"
+    },
+    "53911892": {
+      "case_name": "Center for Community Action and Environmental Justice v. Imperial Western Products, Inc.",
+      "court_id": "cacd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-04"
+    },
+    "4302821": {
+      "case_name": "Center for Biological Diversity v. Jewell",
+      "court_id": "mtd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-02-05"
+    },
+    "18120347": {
+      "case_name": "State of New York v. Triple Cities Metal Finishing Corp.",
+      "court_id": "nynd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-05"
+    },
+    "4306221": {
+      "case_name": "United States v. DPC Industries, Inc.",
+      "court_id": "ned",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-02-06"
+    },
+    "13134086": {
+      "case_name": "Clean Water Action v. New England Emulsions Corp.",
+      "court_id": "mad",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-06"
+    },
+    "5959506": {
+      "case_name": "Center for Environmental Science, Accuracy & Reliability v. Sacramento Regional County Sanitation District",
+      "court_id": "caed",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-02-09"
+    },
+    "5959533": {
+      "case_name": "Center for Environmental Science, Accuracy & Reliability v. Sacramento Regional County Sanitation District",
+      "court_id": "caed",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-02-09"
+    },
+    "14469352": {
+      "case_name": "Big Spring Country Club, Inc. v. Jones",
+      "court_id": "kywd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-09"
+    },
+    "16127382": {
+      "case_name": "Western Watersheds Project v. United States Bureau of Land Management",
+      "court_id": "utd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-09"
+    },
+    "18144499": {
+      "case_name": "Clean Water Action v. Prolerized New England Company, LLC",
+      "court_id": "mad",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-09"
+    },
+    "4213406": {
+      "case_name": "NATURAL RESOURCES DEFENSE COUNCIL, INC. v. SOBECK",
+      "court_id": "dcd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-02-10"
+    },
+    "5077847": {
+      "case_name": "Walther v. United States",
+      "court_id": "akd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-02-10"
+    },
+    "13465135": {
+      "case_name": "United States of America v. Captial Region Water",
+      "court_id": "pamd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-02-10"
+    },
+    "5973619": {
+      "case_name": "San Francisco Baykeeper v. City Of San Jose",
+      "court_id": "cand",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-02-11"
+    },
+    "14440695": {
+      "case_name": "United States v. Gaxiola",
+      "court_id": "txwd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-11"
+    },
+    "18179951": {
+      "case_name": "United States v. Hernandez-Aguilar",
+      "court_id": "azd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-11"
+    },
+    "60730355": {
+      "case_name": "Western Watersheds Project v. Grimm",
+      "court_id": "idd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-11"
+    },
+    "5676993": {
+      "case_name": "Arizona and New Mexico Coalition of Counties for Economic Growth v. United States Fish and Wildlife Service",
+      "court_id": "nmd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-02-12"
+    },
+    "5972417": {
+      "case_name": "Center For Biological Diversity v. U.S. Department of Interior",
+      "court_id": "cand",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-02-12"
+    },
+    "5975556": {
+      "case_name": "California Sportfishing Protection Alliance v. City of Santa Cruz",
+      "court_id": "cand",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-02-16"
+    },
+    "4213428": {
+      "case_name": "CENTER FOR BIOLOGICAL DIVERSITY v. JEWELL",
+      "court_id": "dcd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-02-18"
+    },
+    "4528670": {
+      "case_name": "SENECA RESOURCES CORPORATION v. HIGHLAND TOWNSHIP, ELK COUNTY, PENNSYLVANIA",
+      "court_id": "pawd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-02-18"
+    },
+    "5142568": {
+      "case_name": "Western Watersheds Project v. Department of the Interior",
+      "court_id": "idd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-02-18"
+    },
+    "4213439": {
+      "case_name": "STATE OF OKLAHOMA v. DEPARTMENT OF THE INTERIOR",
+      "court_id": "dcd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-02-19"
+    },
+    "5624671": {
+      "case_name": "Price v. U.S. Gear Tools, Inc.",
+      "court_id": "ncwd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-02-19"
+    },
+    "5624673": {
+      "case_name": "Price v. U.S. Gear Tools, Inc.",
+      "court_id": "ncwd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-02-19"
+    },
+    "5627035": {
+      "case_name": "Price v. U.S. Gear Tools, Inc.",
+      "court_id": "ncwd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-02-19"
+    },
+    "6022007": {
+      "case_name": "United States v. Leroy",
+      "court_id": "casd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-19"
+    },
+    "14447246": {
+      "case_name": "Center for Biological Diversity v. Bureau of Ocean Energy Management",
+      "court_id": "cacd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-19"
+    },
+    "18120220": {
+      "case_name": "Conservation Law Foundation, Inc. v. Harding Metals Inc.",
+      "court_id": "nhd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-19"
+    },
+    "6737779": {
+      "case_name": "Motorola Electronica de P.R., Inc. v. Municipality Vega Baja",
+      "court_id": "prd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-20"
+    },
+    "13433805": {
+      "case_name": "Conservation Law Foundation, Inc. v. Caps Auto Wrecking Corp.",
+      "court_id": "mad",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-20"
+    },
+    "51060228": {
+      "case_name": "Coastal Environmental Rights Foundation v. California Metals, Inc.",
+      "court_id": "casd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-02-20"
+    },
+    "5140499": {
+      "case_name": "Friends of Animals v. United States Bureau of Land Management",
+      "court_id": "utd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-02-24"
+    },
+    "5697677": {
+      "case_name": "WildEarth Guardians v. U.S. Army Corps of Engineers",
+      "court_id": "nmd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-02-24"
+    },
+    "13140505": {
+      "case_name": "Riverkeeper, Inc. v. United Parcel Service, Inc.",
+      "court_id": "nyed",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-24"
+    },
+    "13216687": {
+      "case_name": "United States v. Parcel",
+      "court_id": "hid",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-24"
+    },
+    "13242093": {
+      "case_name": "Riverkeeper, Inc. v. Cipico Construction, Inc.",
+      "court_id": "nyed",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-24"
+    },
+    "4292646": {
+      "case_name": "United States v. Basic Recycling, Incorporated",
+      "court_id": "mied",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-02-25"
+    },
+    "13134698": {
+      "case_name": "Conservation Law Foundation, Inc. v. Merrymeeting Market & Marina",
+      "court_id": "nhd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-25"
+    },
+    "13530537": {
+      "case_name": "Oak Park Animal Hospital Ltd v. PJ Cleaners, Inc.",
+      "court_id": "ilnd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-25"
+    },
+    "14437340": {
+      "case_name": "United States v. Valerio",
+      "court_id": "txsd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-25"
+    },
+    "5078501": {
+      "case_name": "Walther v. United States",
+      "court_id": "akd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-02-26"
+    },
+    "6051016": {
+      "case_name": "United States v. Barrick Goldstrike Mines, Inc.",
+      "court_id": "nvd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-02-26"
+    },
+    "6051017": {
+      "case_name": "United States v. Newmont USA Limited",
+      "court_id": "nvd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-02-26"
+    },
+    "13145904": {
+      "case_name": "Natural Resources Defense Council, Inc. v. U.S. Enviornmental Protection Agency",
+      "court_id": "nysd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-02-27"
+    },
+    "5906938": {
+      "case_name": "United States v. Hill Brothers Chemical Company",
+      "court_id": "cacd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-03-03"
+    },
+    "13242118": {
+      "case_name": "Riverkeeper, Inc. v. ABF Freight System, Inc.",
+      "court_id": "nyed",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-03"
+    },
+    "5552307": {
+      "case_name": "Pasco Sanitary Landfill NPL Site Industrial Waste Area Generator Group III v. Basin Disposal Inc",
+      "court_id": "waed",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-05"
+    },
+    "5176501": {
+      "case_name": "Rio Associates, L.P. v. Layne",
+      "court_id": "vawd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-03-06"
+    },
+    "6709363": {
+      "case_name": "State of Alaska v. National Marine Fisheries Service",
+      "court_id": "akd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-06"
+    },
+    "5501939": {
+      "case_name": "United States v. Indiana Harbor Belt Railroad Company",
+      "court_id": "innd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-03-09"
+    },
+    "13136101": {
+      "case_name": "United States v. Total Petroleum Puerto Rico Corp.",
+      "court_id": "prd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-09"
+    },
+    "13152586": {
+      "case_name": "CITY OF NEWARK, NEW JERSEY v. E.I. DU PONT DE NEMOURS COMPANY",
+      "court_id": "njd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-09"
+    },
+    "18131052": {
+      "case_name": "United States v. Pitchford",
+      "court_id": "iand",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-09"
+    },
+    "18140927": {
+      "case_name": "United States v. Prado",
+      "court_id": "wawd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-10"
+    },
+    "18161560": {
+      "case_name": "United States v. Cacy",
+      "court_id": "casd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-10"
+    },
+    "5304016": {
+      "case_name": "COMMONWEALTH OF PENNSYLVANIA DEPARTMENT OF ENVIRONMENTAL PROTECTION v. TRAINER CUSTOM CHEMICAL LLC",
+      "court_id": "paed",
+      "nos": "893 Other Statutes: Environmental Matters",
+      "date_filed": "2015-03-11"
+    },
+    "5972185": {
+      "case_name": "Sierra Club v. McCarthy",
+      "court_id": "cand",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-12"
+    },
+    "4246818": {
+      "case_name": "Board of Water Works v. Sac County Board of Supervisors",
+      "court_id": "iand",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-13"
+    },
+    "6097136": {
+      "case_name": "Zdziebloski v. The Town of East Greenbush",
+      "court_id": "nynd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-13"
+    },
+    "7893196": {
+      "case_name": "United States v. Owyhee Construction Inc",
+      "court_id": "idd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-13"
+    },
+    "18138108": {
+      "case_name": "United States v. Abram",
+      "court_id": "cacd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-13"
+    },
+    "13134119": {
+      "case_name": "Clean Water Action v. United Salvage Corp. of America",
+      "court_id": "mad",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-16"
+    },
+    "13223689": {
+      "case_name": "United States v. Freiburg",
+      "court_id": "wyd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-16"
+    },
+    "13307458": {
+      "case_name": "United States v. EXIDE TECHNOLOGIES",
+      "court_id": "insd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-16"
+    },
+    "14447294": {
+      "case_name": "California River Watch v. George Adamian",
+      "court_id": "cacd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-16"
+    },
+    "5965543": {
+      "case_name": "Peck v. City of Anderson",
+      "court_id": "caed",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-17"
+    },
+    "7191464": {
+      "case_name": "United States v. Traughber",
+      "court_id": "idd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-17"
+    },
+    "18163497": {
+      "case_name": "United States v. Traughber",
+      "court_id": "idd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-17"
+    },
+    "4213518": {
+      "case_name": "AMERICAN FUEL & PETROCHEMICAL MANUFACTURERS v. MCCARTHY",
+      "court_id": "dcd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-18"
+    },
+    "5968392": {
+      "case_name": "Plastic Pollution Coalition v. Amcor Rigid Plastics USA, Inc.",
+      "court_id": "caed",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-18"
+    },
+    "14469353": {
+      "case_name": "United States v. Search Warrant",
+      "court_id": "kywd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-18"
+    },
+    "18139416": {
+      "case_name": "United States v. Orozco",
+      "court_id": "casd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-18"
+    },
+    "4213519": {
+      "case_name": "United States v. WASHAKIE RENEWABLE ENERGY LLC",
+      "court_id": "dcd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-19"
+    },
+    "4406969": {
+      "case_name": "Sierra Club v. Virginia Electric and Power Company",
+      "court_id": "vaed",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-19"
+    },
+    "5974141": {
+      "case_name": "California River Watch v. Sonoma Valley County Sanitation District",
+      "court_id": "cand",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-19"
+    },
+    "5913158": {
+      "case_name": "Mehrabian Family Trust v. Joan F. Weiand Trust",
+      "court_id": "cacd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-20"
+    },
+    "8286315": {
+      "case_name": "The Estate of Thomas Joseph Bieber v. Honeywell International, Inc.",
+      "court_id": "nynd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-20"
+    },
+    "4152710": {
+      "case_name": "America Unites for Kids v. Sandra Lyon",
+      "court_id": "cacd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-23"
+    },
+    "4570966": {
+      "case_name": "Elephant Justice Project v. Woodland Park Zoological Society, Inc.",
+      "court_id": "wawd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-23"
+    },
+    "6914316": {
+      "case_name": "United States v. Continental Carbon Company",
+      "court_id": "okwd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-23"
+    },
+    "53973104": {
+      "case_name": "California River Watch v. Madison Materials, Inc.",
+      "court_id": "cacd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-23"
+    },
+    "6051276": {
+      "case_name": "Belk v. Federal Government",
+      "court_id": "nvd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-03-24"
+    },
+    "13415296": {
+      "case_name": "United States v. Schafers",
+      "court_id": "wawd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-24"
+    },
+    "5559614": {
+      "case_name": "Rocky Mountain Wild v. Walsh",
+      "court_id": "cod",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-25"
+    },
+    "4270568": {
+      "case_name": "City Park for Everyone Coalition v. Federal Emergency Management Agency",
+      "court_id": "laed",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-26"
+    },
+    "6023918": {
+      "case_name": "United States v. Rincon-Farias",
+      "court_id": "casd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-26"
+    },
+    "13289951": {
+      "case_name": "United States v. Lozano-Velazquez",
+      "court_id": "txsd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-26"
+    },
+    "60730933": {
+      "case_name": "United States v. P4 Production LLC",
+      "court_id": "idd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-26"
+    },
+    "5548125": {
+      "case_name": "WildEarth Guardians v. McCarthy",
+      "court_id": "cod",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-27"
+    },
+    "6050820": {
+      "case_name": "United State of America v. Orr Water Ditch Company",
+      "court_id": "nvd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-03-27"
+    },
+    "13230801": {
+      "case_name": "United States v. Sainz",
+      "court_id": "flsd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-27"
+    },
+    "5255314": {
+      "case_name": "Opus Woods Conservation Association v. Metropolitan Council",
+      "court_id": "mnd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-03-30"
+    },
+    "5490420": {
+      "case_name": "United States v. Lara-Pacheco",
+      "court_id": "azd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-03-30"
+    },
+    "5561523": {
+      "case_name": "United States v. Klickitat County Port District No. 1",
+      "court_id": "waed",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-03-30"
+    },
+    "4213551": {
+      "case_name": "INDIAN RIVER COUNTY v. ROGOFF",
+      "court_id": "dcd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-31"
+    },
+    "5546095": {
+      "case_name": "National Parks Conservation Association v. U. S. Environmental Protection Agency",
+      "court_id": "cod",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-03-31"
+    },
+    "5976689": {
+      "case_name": "California Sportfishing Protection Alliance v. Pacific States Industries, Inc.",
+      "court_id": "cand",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-03-31"
+    },
+    "13244280": {
+      "case_name": "Mark Tree Road LLC v. Z Cleaners Inc.",
+      "court_id": "nyed",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-01"
+    },
+    "13264365": {
+      "case_name": "United States v. Nelson",
+      "court_id": "mdd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-01"
+    },
+    "4671043": {
+      "case_name": "CENTER FOR BIOLOGICAL DIVERSITY v. ASHE",
+      "court_id": "dcd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-02"
+    },
+    "5207681": {
+      "case_name": "SIERRA CLUB v. JEWELL",
+      "court_id": "dcd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-03"
+    },
+    "5241701": {
+      "case_name": "Macgill v. Baltimore County",
+      "court_id": "mdd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-03"
+    },
+    "38565151": {
+      "case_name": "State of Ohio, ex rel., Michael DeWine, Ohio Attorney General v. Hall Company",
+      "court_id": "ohsd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-03"
+    },
+    "4414275": {
+      "case_name": "Ohio Valley Environmental Coalition v. ERP Environmental Fund, Inc.",
+      "court_id": "wvsd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-06"
+    },
+    "5958187": {
+      "case_name": "California Sportfishing Protection Alliance v. A.L. Gilbert Company",
+      "court_id": "caed",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-06"
+    },
+    "4360564": {
+      "case_name": "State of Ohio v. United States Army Corps of Engineers",
+      "court_id": "ohnd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-07"
+    },
+    "5146635": {
+      "case_name": "United States v. Millard Refrigerated Services, LLC",
+      "court_id": "alsd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-07"
+    },
+    "4127697": {
+      "case_name": "Gulf Restoration Network v. Jewell",
+      "court_id": "alsd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-08"
+    },
+    "4515363": {
+      "case_name": "United States v. Missouri Highway and Transportation Commission",
+      "court_id": "mowd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-08"
+    },
+    "5260797": {
+      "case_name": "CALIFORNIA COMMUNITIES AGAINST TOXICS v. PRUITT",
+      "court_id": "dcd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-08"
+    },
+    "5963031": {
+      "case_name": "California Sportfishing Protecting Alliance v. Security Contractor Services, Inc.",
+      "court_id": "caed",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-08"
+    },
+    "14441515": {
+      "case_name": "Ridgeway v. Ford",
+      "court_id": "kyed",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-09"
+    },
+    "51162755": {
+      "case_name": "Friends of Rose Canyon v. Federal Transit Administration",
+      "court_id": "casd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-09"
+    },
+    "5976345": {
+      "case_name": "Robert E. Renzel Trust v. Ventura",
+      "court_id": "cand",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-10"
+    },
+    "13301403": {
+      "case_name": "Hintz, Inc. v. ExxonMobil Oil Corporation",
+      "court_id": "ilnd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-10"
+    },
+    "13318744": {
+      "case_name": "United States v. Chang",
+      "court_id": "hid",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-10"
+    },
+    "4161236": {
+      "case_name": "AIG Specialty Insurance Company v. Iron Mountain Mines",
+      "court_id": "caed",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-13"
+    },
+    "4161237": {
+      "case_name": "AIG Specialty Insurance Company v. Iron Mountain Mines, Inc.",
+      "court_id": "caed",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-13"
+    },
+    "5262008": {
+      "case_name": "WARREN v. JOHNSON MATTHEY, INC.",
+      "court_id": "paed",
+      "nos": "Other Statutes: Environmental Matters",
+      "date_filed": "2015-04-13"
+    },
+    "6025530": {
+      "case_name": "United States v. Moreno",
+      "court_id": "casd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-13"
+    },
+    "14407866": {
+      "case_name": "United States of America v. Cal-Maine Foods, Inc.",
+      "court_id": "mssd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-13"
+    },
+    "4383751": {
+      "case_name": "Tennessee Clean Water Network v. Tennessee Valley Authority",
+      "court_id": "tnmd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-14"
+    },
+    "6777826": {
+      "case_name": "OCEANA, INC. v. PRITZKER",
+      "court_id": "dcd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-04-14"
+    },
+    "13216931": {
+      "case_name": "United States v. Ramirez",
+      "court_id": "idd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-14"
+    },
+    "4161239": {
+      "case_name": "Friends of Mariposa Creek v. Mariposa Public Utility District",
+      "court_id": "caed",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-15"
+    },
+    "5961589": {
+      "case_name": "Friends of Mariposa Creek v. Mariposa Public Utility District",
+      "court_id": "caed",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-15"
+    },
+    "4371738": {
+      "case_name": "UNITED STATES OF AMERICA v. ALLAN MYERS, INC.",
+      "court_id": "paed",
+      "nos": "893 Other Statutes: Environmental Matters",
+      "date_filed": "2015-04-16"
+    },
+    "13140720": {
+      "case_name": "Friends of Animals v. Ashe",
+      "court_id": "nyed",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-17"
+    },
+    "4366186": {
+      "case_name": "Audubon Society of Portland v. U.S. Army Corps Of Engineers",
+      "court_id": "ord",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-20"
+    },
+    "6123832": {
+      "case_name": "CRANBURY BRICK YARD, LLC v. United States",
+      "court_id": "njd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-20"
+    },
+    "6335194": {
+      "case_name": "Northwest Environmental Advocates v. Environmental Protection Agency",
+      "court_id": "ord",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-20"
+    },
+    "14452820": {
+      "case_name": "Smith v. Barnes",
+      "court_id": "flmd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-20"
+    },
+    "13318758": {
+      "case_name": "United States v. Parcel",
+      "court_id": "hid",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-21"
+    },
+    "13415310": {
+      "case_name": "United States v. Aldrich",
+      "court_id": "wawd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-21"
+    },
+    "5550954": {
+      "case_name": "USA v. Noble Energy Inc",
+      "court_id": "cod",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-22"
+    },
+    "5837222": {
+      "case_name": "DEMPSEY v. United States",
+      "court_id": "njd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-04-22"
+    },
+    "13152761": {
+      "case_name": "THE CITY OF NEWARK, NEW JERSEY v. E.I. DUPONT DE NEMOURS AND CO.",
+      "court_id": "njd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-22"
+    },
+    "15868359": {
+      "case_name": "United States v. Johnson",
+      "court_id": "casd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-23"
+    },
+    "14441423": {
+      "case_name": "Hatton v. Frasure Creek Mining, LLC",
+      "court_id": "kyed",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-24"
+    },
+    "40713317": {
+      "case_name": "Columbia Riverkeeper v. Fast Auto Wrecking & Towing, LLC",
+      "court_id": "wawd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-24"
+    },
+    "4213626": {
+      "case_name": "MARTIN COUNTY, FLORIDA v. DEPARTMENT OF TRANSPORTATION",
+      "court_id": "dcd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-27"
+    },
+    "14419207": {
+      "case_name": "United States v. Torres Alvarez",
+      "court_id": "iasd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-27"
+    },
+    "4529435": {
+      "case_name": "Conservation Law Foundation v. McCarthy",
+      "court_id": "rid",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-28"
+    },
+    "5162578": {
+      "case_name": "Conservation Law Foundation, Inc. v. Environmental Protection Agency, US",
+      "court_id": "mad",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-28"
+    },
+    "5976562": {
+      "case_name": "United States of America v. Lehigh Southwest Cement Company",
+      "court_id": "cand",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-28"
+    },
+    "13134174": {
+      "case_name": "Clean Water Action v. 683-685 Brush Hill Road LLC",
+      "court_id": "mad",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-28"
+    },
+    "13242292": {
+      "case_name": "Sea Gate Beach Club Corp. v. H & L Contracting, LLC",
+      "court_id": "nyed",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-28"
+    },
+    "13281461": {
+      "case_name": "Cypress Bayou Industrial Painting, Inc. v. BP Exploration & Production, Inc.",
+      "court_id": "laed",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-28"
+    },
+    "40714950": {
+      "case_name": "Columbia Riverkeeper v. Western Fabrication Center, LLC",
+      "court_id": "wawd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-28"
+    },
+    "4121896": {
+      "case_name": "Alaska Wilderness League v. Jewell",
+      "court_id": "akd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-29"
+    },
+    "4213632": {
+      "case_name": "FRIENDS OF ANIMALS v. ASHE",
+      "court_id": "dcd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-29"
+    },
+    "5957618": {
+      "case_name": "(TEMP) Upper South East Communities Coalition v. US Army Corps of Engineers",
+      "court_id": "caed",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-04-29"
+    },
+    "13134176": {
+      "case_name": "United States v. City of Lawrence, Massachusetts",
+      "court_id": "mad",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-29"
+    },
+    "51208916": {
+      "case_name": "Coastal Environmental Rights Foundation v. Riley Recycling, Inc.",
+      "court_id": "casd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-29"
+    },
+    "4326087": {
+      "case_name": "United States v. Metashi",
+      "court_id": "nynd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-30"
+    },
+    "4527375": {
+      "case_name": "Clatsop Residents Against WalMart v. U.S. Army Corps of Engineers",
+      "court_id": "ord",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-04-30"
+    },
+    "13281467": {
+      "case_name": "Hess v. BP America Production Company",
+      "court_id": "laed",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-30"
+    },
+    "13336315": {
+      "case_name": "PIMM v. ASHE",
+      "court_id": "dcd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-04-30"
+    },
+    "5200300": {
+      "case_name": "United States v. Merit Energy Company, LLC",
+      "court_id": "miwd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-05-01"
+    },
+    "5496456": {
+      "case_name": "Arizona and New Mexico Coalition of Counties for Economic Growth v. United States Fish and Wildlife Service",
+      "court_id": "azd",
+      "nos": "893 Other Statutes: Environmental Matters",
+      "date_filed": "2015-05-01"
+    },
+    "5957975": {
+      "case_name": "Mission Linen Supply v. City of Visalia",
+      "court_id": "caed",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-05-01"
+    },
+    "13206389": {
+      "case_name": "United States v. Daellenbach, Paul",
+      "court_id": "wiwd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-01"
+    },
+    "5921756": {
+      "case_name": "Center For Community Action and Enviromental Justice v. County of San Bernadino",
+      "court_id": "cacd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-05-05"
+    },
+    "13216859": {
+      "case_name": "United States of America v. City of Jerome",
+      "court_id": "idd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-07"
+    },
+    "4495145": {
+      "case_name": "Pacificans for a Scenic Coast v. Federal Highway Administration",
+      "court_id": "cand",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-05-08"
+    },
+    "4302836": {
+      "case_name": "Alliance for the Wild Rockies v. Savage",
+      "court_id": "mtd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-05-11"
+    },
+    "5957800": {
+      "case_name": "AquAlliance v. U.S. Bureau of Reclamation",
+      "court_id": "caed",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-05-11"
+    },
+    "5957868": {
+      "case_name": "AquAlliance v. U.S. Bureau of Reclamation",
+      "court_id": "caed",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-05-11"
+    },
+    "6293100": {
+      "case_name": "ATI Wah Chang v. Heritage-WTI, Inc.",
+      "court_id": "ohnd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-11"
+    },
+    "13251249": {
+      "case_name": "United States Department of Justice v. Tonawanda Coke Corp.",
+      "court_id": "nywd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-11"
+    },
+    "13320460": {
+      "case_name": "United States v. Westmoreland",
+      "court_id": "wawd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-11"
+    },
+    "5958241": {
+      "case_name": "California Sportfishing Protecting Alliance v. Beard",
+      "court_id": "caed",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-05-12"
+    },
+    "25759402": {
+      "case_name": "United States v. Twin Counties Dairy, LLC",
+      "court_id": "iasd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-12"
+    },
+    "33544314": {
+      "case_name": "United States v. City and County of Honolulu, Hawaii",
+      "court_id": "hid",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-05-12"
+    },
+    "6255065": {
+      "case_name": "United Nuclear Corporation v. United States",
+      "court_id": "nmd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-05-13"
+    },
+    "13320463": {
+      "case_name": "Waste Action Project v. Overlake Oil Inc",
+      "court_id": "wawd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-13"
+    },
+    "6024614": {
+      "case_name": "United States v. Bautista-Dia",
+      "court_id": "casd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-14"
+    },
+    "13203059": {
+      "case_name": "United States v. Enviro-Safe Refrigerants, Inc.",
+      "court_id": "ilcd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-14"
+    },
+    "13215886": {
+      "case_name": "United States v. Anaplex Corporation",
+      "court_id": "cacd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-14"
+    },
+    "13281501": {
+      "case_name": "Pellerin's Tubular Service, Inc v. BP Exploration & Production, Inc.",
+      "court_id": "laed",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-14"
+    },
+    "46356858": {
+      "case_name": "Sein v. Towson University",
+      "court_id": "mdd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-15"
+    },
+    "13235985": {
+      "case_name": "ENVIRONMENTAL INTEGRITY PROJECT v. MCCARTHY",
+      "court_id": "dcd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-05-18"
+    },
+    "13318787": {
+      "case_name": "United States v. Parcel",
+      "court_id": "hid",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-18"
+    },
+    "4134312": {
+      "case_name": "Protecting Arizona's Resources and Children v. Federal Highway Administration",
+      "court_id": "azd",
+      "nos": "893 Other Statutes: Environmental Matters",
+      "date_filed": "2015-05-19"
+    },
+    "4506131": {
+      "case_name": "Idaho Rivers United v. Hudson",
+      "court_id": "idd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-05-19"
+    },
+    "5420858": {
+      "case_name": "United States of America v. AK Steel Corporation",
+      "court_id": "mied",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-05-19"
+    },
+    "6322158": {
+      "case_name": "United States v. Marathon Petroleum Corporation",
+      "court_id": "ohnd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-05-19"
+    },
+    "4152921": {
+      "case_name": "Sierra Club v. United States Environmental Protection Agency",
+      "court_id": "cacd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-05-20"
+    },
+    "5695979": {
+      "case_name": "New Mexico Farm & Livestock Bureau v. United States Department of the Interior",
+      "court_id": "nmd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-05-20"
+    },
+    "5908543": {
+      "case_name": "United States v. Valdiosera",
+      "court_id": "cacd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-20"
+    },
+    "13410686": {
+      "case_name": "Los Angeles Unified School District v. Myung Family Partnership No. 1",
+      "court_id": "cacd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-20"
+    },
+    "4566923": {
+      "case_name": "Iseke v. Honolulu, City and County of",
+      "court_id": "hid",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-05-21"
+    },
+    "5393808": {
+      "case_name": "Waste Action Project v. Astro Auto Wrecking, LLC",
+      "court_id": "wawd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-05-21"
+    },
+    "13393236": {
+      "case_name": "Openlands v. United States Department of Transportation",
+      "court_id": "ilnd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-21"
+    },
+    "13441993": {
+      "case_name": "United States v. The Premises Known and Described as 68 Foster Ave, Valley Stream, New York 11580 and Any Devices Capable of Accessing the Internet on the Person of John Capuano",
+      "court_id": "nyed",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-21"
+    },
+    "5281285": {
+      "case_name": "307 Campostella, LLC v. Mullane",
+      "court_id": "vaed",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-05-22"
+    },
+    "13281518": {
+      "case_name": "Smith Homes, Inc. v. BP Exploration & Production, Inc.",
+      "court_id": "laed",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-25"
+    },
+    "5508074": {
+      "case_name": "Oregon Wild v. U.S. Forest Service",
+      "court_id": "ord",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-05-26"
+    },
+    "5975507": {
+      "case_name": "SPRAWLDEF v. Federal Emergency Management Agency",
+      "court_id": "cand",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-05-26"
+    },
+    "4181910": {
+      "case_name": "California River Watch v. Santa Rosa",
+      "court_id": "cand",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-05-27"
+    },
+    "13136214": {
+      "case_name": "United States of America (Department of Justice) v. F & R Contractors Corp.",
+      "court_id": "prd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-27"
+    },
+    "4181916": {
+      "case_name": "Ecological Rights Foundation v. Pick-n-Pull Auto & Truck Dismantlers",
+      "court_id": "cand",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-05-28"
+    },
+    "60731869": {
+      "case_name": "United States v. Hecla Limited",
+      "court_id": "idd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-28"
+    },
+    "13152831": {
+      "case_name": "United States v. GARDEN HOMES",
+      "court_id": "njd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-05-29"
+    },
+    "5203208": {
+      "case_name": "Friends of Maha`ulepu v. Hawai`i Dairy Farms",
+      "court_id": "hid",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-06-01"
+    },
+    "4306275": {
+      "case_name": "Krause v. City of Omaha",
+      "court_id": "ned",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-06-02"
+    },
+    "5101322": {
+      "case_name": "Montero v. Gardner Construction Co., LLC",
+      "court_id": "oknd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-06-02"
+    },
+    "5923224": {
+      "case_name": "California River Watch v. Eastern Municipal Water District",
+      "court_id": "cacd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-06-02"
+    },
+    "4181923": {
+      "case_name": "Wild Equity Institute v. United States Environmental Protection Agency",
+      "court_id": "cand",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-06-03"
+    },
+    "13309082": {
+      "case_name": "Wisconsin Public Service Corporation v. McCarthy, Gina",
+      "court_id": "wiwd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-06-03"
+    },
+    "4213736": {
+      "case_name": "FRIENDS OF ANIMALS v. KERRY",
+      "court_id": "dcd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-06-04"
+    },
+    "4506118": {
+      "case_name": "Alliance for the Wild Rockies v. United States Forest Service",
+      "court_id": "idd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-06-04"
+    },
+    "6026756": {
+      "case_name": "Lawrence Chip Crandall and Alicia Berry as co-trustees of the Revocable Intervivos Trust of Marjorie M. Crandall dated February 28, 1991 as restated in full on April 7, 2011 v. Semillon, Inc.",
+      "court_id": "casd",
+      "nos": "Environmental Matters",
+      "date_filed": "2015-06-04"
+    },
+    "13350215": {
+      "case_name": "Watchtower Bible and Tract Society of New York, Inc. v. The International Nickel Company, Inc.",
+      "court_id": "nysd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-06-04"
+    },
+    "13404112": {
+      "case_name": "CSM Investors, Inc. v. LubeTech Liquid Recycling, Inc.",
+      "court_id": "mnd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-06-05"
+    },
+    "13436844": {
+      "case_name": "Conservation Law Foundation, Inc. v. D'Agostinos Auto Sales & Salvage, Inc.",
+      "court_id": "rid",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-06-05"
+    },
+    "51287901": {
+      "case_name": "San Diego Coastkeeper v. A-1 Alloys, Inc.",
+      "court_id": "casd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-06-05"
+    },
+    "13281539": {
+      "case_name": "BST Marine, Inc. v. BP Exploration & Production, Inc.",
+      "court_id": "laed",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-06-06"
+    },
+    "13281540": {
+      "case_name": "DDD Marine Equipment, Inc. v. BP Exploration & Production, Inc.",
+      "court_id": "laed",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-06-06"
+    },
+    "13281541": {
+      "case_name": "Certified Boom Repair Service, Inc. v. BP Exploration & Production, Inc.",
+      "court_id": "laed",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-06-06"
+    },
+    "13281542": {
+      "case_name": "Carr & Associates Engineers, Inc. v. BP Exploration & Production, Inc.",
+      "court_id": "laed",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-06-06"
+    },
+    "13281544": {
+      "case_name": "Coastal Marine Construction, Inc. v. BP Exploration & Production, Inc.",
+      "court_id": "laed",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-06-06"
+    },
+    "13376479": {
+      "case_name": "Williams Fabrication, Inc. v. BP Exploration & Production, Inc.",
+      "court_id": "laed",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-06-06"
+    },
+    "4134322": {
+      "case_name": "Arizona, State of v. Jewell",
+      "court_id": "azd",
+      "nos": "893 Other Statutes: Environmental Matters",
+      "date_filed": "2015-06-08"
+    },
+    "5913319": {
+      "case_name": "Los Angeles Waterkeeper v. A and A Metal Recycling, Inc.",
+      "court_id": "cacd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-06-08"
+    },
+    "7225040": {
+      "case_name": "United States of America v. Enbridge Energy, Limited Partnership",
+      "court_id": "miwd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-06-08"
+    },
+    "7889053": {
+      "case_name": "Bennett v. British Petroleum",
+      "court_id": "laed",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-06-08"
+    },
+    "7889056": {
+      "case_name": "Bucaro v. BP Exploration & Production, Inc.",
+      "court_id": "laed",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-06-08"
+    },
+    "13410690": {
+      "case_name": "LOS ANGELES WATERKEEPER v. LIBERTY METALS RECYCLIN, ET AL",
+      "court_id": "cacd",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-06-08"
+    },
+    "14519974": {
+      "case_name": "Los Angeles Waterkeeper v. Liberty Metals Recycling, Inc.",
+      "court_id": "cacd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-06-08"
+    },
+    "4513501": {
+      "case_name": "Coalition for Clean Water v. Flint, City of",
+      "court_id": "mied",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-06-09"
+    },
+    "13292876": {
+      "case_name": "Newell Rubbermaid, Inc. v. Bosgraaf",
+      "court_id": "miwd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-06-09"
+    },
+    "14519261": {
+      "case_name": "United States v. Clearwater Paper Corporation",
+      "court_id": "idd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-06-09"
+    },
+    "5974908": {
+      "case_name": "San Francisco Baykeeper v. Dutra Group",
+      "court_id": "cand",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-06-10"
+    },
+    "6116969": {
+      "case_name": "Los Padres Forestwatch v. United States Bureau of Land Management",
+      "court_id": "cacd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-06-10"
+    },
+    "13319585": {
+      "case_name": "Pacific III, LLC v. Wells Fargo Bank, N.A.",
+      "court_id": "ord",
+      "nos": "893 Environmental matters",
+      "date_filed": "2015-06-10"
+    },
+    "4302841": {
+      "case_name": "Gallatin Wildlife Association v. United States Forest Service",
+      "court_id": "mtd",
+      "nos": "893 Environmental Matters",
+      "date_filed": "2015-06-11"
     }
   },
-  "stats": {}
+  "stats": {
+    "total_dockets": 340,
+    "completed_at": "2026-02-25T22:45:48.352972",
+    "date_range": {
+      "start": "2015-01-01",
+      "end": "2025-12-31"
+    },
+    "nos_tier": "all",
+    "dry_run": false,
+    "total_api_calls": 28
+  }
 }
