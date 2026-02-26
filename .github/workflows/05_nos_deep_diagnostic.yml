@@ -1,0 +1,267 @@
+name: "05: NOS Deep Diagnostic"
+
+# Side quest: figure out why counts are low.
+# Tests year-by-year slicing, numeric NOS codes, and Search API.
+# Does NOT touch cases/ — saves to cases/diagnostics/ only.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Deep NOS diagnostic
+        env:
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: |
+          python3 << 'PYEOF'
+          import requests, json, os, time
+
+          TOKEN = os.environ["COURTLISTENER_TOKEN"]
+          BASE = "https://www.courtlistener.com/api/rest/v4"
+          HEADERS = {"Authorization": f"Token {TOKEN}"}
+          os.makedirs("cases/diagnostics", exist_ok=True)
+
+          results = {}
+
+          def safe_get(url, params=None, timeout=120):
+              for attempt in range(3):
+                  try:
+                      r = requests.get(url, headers=HEADERS, params=params, timeout=timeout)
+                      if r.status_code == 200:
+                          return r.json()
+                      print(f"  HTTP {r.status_code}: {r.text[:200]}")
+                  except requests.exceptions.Timeout:
+                      print(f"  TIMEOUT (attempt {attempt+1})")
+                      time.sleep(10 * (attempt + 1))
+                  except Exception as e:
+                      print(f"  ERROR: {e}")
+                      time.sleep(5)
+              return None
+
+          # ============================================================
+          # TEST 1: Year-by-year counts for Patent using __contains
+          # ============================================================
+          print("=" * 70)
+          print("TEST 1: Patent year-by-year using nature_of_suit__contains=Patent")
+          print("=" * 70)
+
+          patent_yearly = {}
+          patent_total = 0
+          for year in range(2015, 2026):
+              time.sleep(1)
+              data = safe_get(f"{BASE}/dockets/", params={
+                  "court__jurisdiction": "FD",
+                  "date_filed__gte": f"{year}-01-01",
+                  "date_filed__lte": f"{year}-12-31",
+                  "nature_of_suit__contains": "Patent",
+                  "fields": "id,nature_of_suit",
+              })
+              if data:
+                  count = len(data.get("results", []))
+                  has_next = data.get("next") is not None
+                  total_header = data.get("count", "?")
+                  patent_yearly[year] = {"page1_count": count, "has_more_pages": has_next, "api_count": total_header}
+                  patent_total += count
+                  print(f"  {year}: page1={count}, has_next={has_next}, api_count={total_header}")
+
+                  # Show sample NOS values
+                  nos_vals = set(r.get("nature_of_suit", "") for r in data.get("results", []))
+                  for v in nos_vals:
+                      print(f"         NOS: '{v}'")
+              else:
+                  patent_yearly[year] = {"error": "FAILED"}
+                  print(f"  {year}: FAILED")
+
+          results["patent_yearly_contains"] = patent_yearly
+          print(f"\n  Patent total (page 1s only): {patent_total}")
+
+          # ============================================================
+          # TEST 2: Year-by-year counts for Patent using __startswith=830
+          # ============================================================
+          print("\n" + "=" * 70)
+          print("TEST 2: Patent year-by-year using nature_of_suit__startswith=830")
+          print("=" * 70)
+
+          patent_numeric = {}
+          patent_num_total = 0
+          for year in range(2015, 2026):
+              time.sleep(1)
+              data = safe_get(f"{BASE}/dockets/", params={
+                  "court__jurisdiction": "FD",
+                  "date_filed__gte": f"{year}-01-01",
+                  "date_filed__lte": f"{year}-12-31",
+                  "nature_of_suit__startswith": "830",
+                  "fields": "id,nature_of_suit",
+              })
+              if data:
+                  count = len(data.get("results", []))
+                  has_next = data.get("next") is not None
+                  total_header = data.get("count", "?")
+                  patent_numeric[year] = {"page1_count": count, "has_more_pages": has_next, "api_count": total_header}
+                  patent_num_total += count
+                  print(f"  {year}: page1={count}, has_next={has_next}, api_count={total_header}")
+              else:
+                  patent_numeric[year] = {"error": "FAILED"}
+                  print(f"  {year}: FAILED")
+
+          results["patent_yearly_startswith_830"] = patent_numeric
+          print(f"\n  Patent (830) total (page 1s only): {patent_num_total}")
+
+          # ============================================================
+          # TEST 3: Securities year-by-year to check if 1580 is correct
+          # ============================================================
+          print("\n" + "=" * 70)
+          print("TEST 3: Securities year-by-year (__contains=Securities)")
+          print("=" * 70)
+
+          sec_yearly = {}
+          sec_total = 0
+          for year in range(2015, 2026):
+              time.sleep(1)
+              data = safe_get(f"{BASE}/dockets/", params={
+                  "court__jurisdiction": "FD",
+                  "date_filed__gte": f"{year}-01-01",
+                  "date_filed__lte": f"{year}-12-31",
+                  "nature_of_suit__contains": "Securities",
+                  "fields": "id",
+              })
+              if data:
+                  count = len(data.get("results", []))
+                  has_next = data.get("next") is not None
+                  total_header = data.get("count", "?")
+                  sec_yearly[year] = {"page1_count": count, "has_more_pages": has_next, "api_count": total_header}
+                  sec_total += count
+                  print(f"  {year}: page1={count}, has_next={has_next}, api_count={total_header}")
+              else:
+                  sec_yearly[year] = {"error": "FAILED"}
+                  print(f"  {year}: FAILED")
+
+          results["securities_yearly_contains"] = sec_yearly
+          print(f"\n  Securities total (page 1s only): {sec_total}")
+
+          # ============================================================
+          # TEST 4: Securities year-by-year with startswith 850
+          # ============================================================
+          print("\n" + "=" * 70)
+          print("TEST 4: Securities year-by-year (__startswith=850)")
+          print("=" * 70)
+
+          sec850_yearly = {}
+          sec850_total = 0
+          for year in range(2015, 2026):
+              time.sleep(1)
+              data = safe_get(f"{BASE}/dockets/", params={
+                  "court__jurisdiction": "FD",
+                  "date_filed__gte": f"{year}-01-01",
+                  "date_filed__lte": f"{year}-12-31",
+                  "nature_of_suit__startswith": "850",
+                  "fields": "id",
+              })
+              if data:
+                  count = len(data.get("results", []))
+                  has_next = data.get("next") is not None
+                  total_header = data.get("count", "?")
+                  sec850_yearly[year] = {"page1_count": count, "has_more_pages": has_next, "api_count": total_header}
+                  sec850_total += count
+                  print(f"  {year}: page1={count}, has_next={has_next}, api_count={total_header}")
+              else:
+                  sec850_yearly[year] = {"error": "FAILED"}
+                  print(f"  {year}: FAILED")
+
+          results["securities_yearly_startswith_850"] = sec850_yearly
+          print(f"\n  Securities (850) total (page 1s only): {sec850_total}")
+
+          # ============================================================
+          # TEST 5: Try Search API (different backend, might have more data)
+          # ============================================================
+          print("\n" + "=" * 70)
+          print("TEST 5: Search API for dockets (different backend)")
+          print("=" * 70)
+
+          search_tests = [
+              ("Securities via search", {"type": "d", "q": "suitNature:850", "filed_after": "2020-01-01"}),
+              ("Patent via search", {"type": "d", "q": "suitNature:830", "filed_after": "2020-01-01"}),
+              ("Antitrust via search", {"type": "d", "q": "suitNature:410", "filed_after": "2020-01-01"}),
+          ]
+
+          search_results = {}
+          for label, params in search_tests:
+              time.sleep(1)
+              data = safe_get(f"{BASE}/search/", params=params)
+              if data:
+                  count = data.get("count", 0)
+                  page_results = len(data.get("results", []))
+                  search_results[label] = {"count": count, "page1": page_results}
+                  print(f"  {label}: count={count}, page1={page_results}")
+                  # Show sample
+                  for r in data.get("results", [])[:2]:
+                      print(f"    => '{r.get('caseName', '?')[:60]}' NOS='{r.get('suitNature', '?')}'")
+              else:
+                  search_results[label] = {"error": "FAILED"}
+                  print(f"  {label}: FAILED")
+
+          results["search_api"] = search_results
+
+          # ============================================================
+          # TEST 6: How many total federal dockets exist in CourtListener?
+          # ============================================================
+          print("\n" + "=" * 70)
+          print("TEST 6: Total federal dockets in CourtListener (2015-2025)")
+          print("=" * 70)
+
+          total_fed_yearly = {}
+          for year in range(2015, 2026):
+              time.sleep(1)
+              data = safe_get(f"{BASE}/dockets/", params={
+                  "court__jurisdiction": "FD",
+                  "date_filed__gte": f"{year}-01-01",
+                  "date_filed__lte": f"{year}-12-31",
+                  "fields": "id",
+              })
+              if data:
+                  total_header = data.get("count", "?")
+                  total_fed_yearly[year] = total_header
+                  print(f"  {year}: {total_header:>10} total federal dockets")
+              else:
+                  total_fed_yearly[year] = "FAILED"
+                  print(f"  {year}: FAILED")
+
+          results["total_federal_by_year"] = total_fed_yearly
+
+          # Save
+          with open("cases/diagnostics/nos_deep_diagnostic.json", "w") as f:
+              json.dump(results, f, indent=2)
+
+          print("\n\nResults saved to cases/diagnostics/nos_deep_diagnostic.json")
+          PYEOF
+
+      - name: Commit results
+        run: |
+          git add cases/diagnostics/
+          git diff --cached --quiet || git commit -m "Deep NOS diagnostic: year-by-year counts + search API + totals"
+          git push || true
