@@ -9599,6 +9599,966 @@
       "court_id": "txnd",
       "nos": "Other Statutes: Antitrust",
       "date_filed": "2015-03-10"
+    },
+    "5146844": {
+      "case_name": "Compucom Systems Inc v. AU Optronics Corporation",
+      "court_id": "txnd",
+      "nos": "Other Statutes: Antitrust",
+      "date_filed": "2015-03-10"
+    },
+    "13146017": {
+      "case_name": "Cooksley v. Basf Metals Limited",
+      "court_id": "nysd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-03-11"
+    },
+    "13540899": {
+      "case_name": "Chruby v. Global TelLink Corporation",
+      "court_id": "arwd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-03-11"
+    },
+    "5694335": {
+      "case_name": "Buena Vista Estates, Inc v. Santa Fe Solid Waste Management Agency",
+      "court_id": "nmd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-03-13"
+    },
+    "13228084": {
+      "case_name": "Sendzik v. ABB/CON-CISE OPTICAL GROUP LLC",
+      "court_id": "flsd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-03-13"
+    },
+    "13230732": {
+      "case_name": "Loera v. Coopervision, Inc.",
+      "court_id": "flsd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-03-13"
+    },
+    "55700460": {
+      "case_name": "Waste Control Specialists, L.L.C. v. EnergySolutions, LLC",
+      "court_id": "txwd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-03-13"
+    },
+    "8448758": {
+      "case_name": "Triple Cities Acquisition LLC v. Espar, Inc.",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-03-16"
+    },
+    "13161981": {
+      "case_name": "Galactic Funk Touring, Inc. v. Capital Blue Cross",
+      "court_id": "pamd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-03-16"
+    },
+    "13230742": {
+      "case_name": "Smith v. Coopervision, Inc.",
+      "court_id": "flsd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-03-17"
+    },
+    "13154769": {
+      "case_name": "CRISTIANO v. COOPER VISION, INC.",
+      "court_id": "njd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-03-25"
+    },
+    "13140657": {
+      "case_name": "Holiday Companies",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-03-27"
+    },
+    "18141268": {
+      "case_name": "United States v. Eastlick",
+      "court_id": "wyd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-03-31"
+    },
+    "14426058": {
+      "case_name": "Almirola-Mallea v. Pou",
+      "court_id": "flmd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-04-01"
+    },
+    "13295557": {
+      "case_name": "JLW-TW Corp v. Merchant Capital, LLC",
+      "court_id": "ohnd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-04-03"
+    },
+    "6293139": {
+      "case_name": "O'Keefe v. American Express Company",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-04-07"
+    },
+    "7466636": {
+      "case_name": "Walgreen Co. v. Medicis Pharmaceutical Corp.",
+      "court_id": "mad",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-04-08"
+    },
+    "13267690": {
+      "case_name": "United States v. Stalls",
+      "court_id": "vaed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-04-18"
+    },
+    "8448757": {
+      "case_name": "National Trucking Reclamation Services v. Espar, Inc.",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-04-22"
+    },
+    "18139999": {
+      "case_name": "United States v. Jaimez-Rodriguez",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-04-22"
+    },
+    "13230947": {
+      "case_name": "TracFone Wireless, Inc. v. LG Chemical Ltd.",
+      "court_id": "flsd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-04-29"
+    },
+    "7466635": {
+      "case_name": "Rite Aid Corporation v. Medicis Pharmaceutical Corp.",
+      "court_id": "mad",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-05-04"
+    },
+    "5500277": {
+      "case_name": "United States v. Zamudio-Sanchez",
+      "court_id": "azd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-05-07"
+    },
+    "13149768": {
+      "case_name": "Davis v. State of Texas",
+      "court_id": "ded",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-05-13"
+    },
+    "13211418": {
+      "case_name": "Mabry v. Coopervision, Inc.",
+      "court_id": "moed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-05-13"
+    },
+    "18121029": {
+      "case_name": "SEALED v. SEALED",
+      "court_id": "ded",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-05-13"
+    },
+    "6026878": {
+      "case_name": "United States v. Gomez",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-05-14"
+    },
+    "13228295": {
+      "case_name": "Hirsch v. Coopervision, Inc.",
+      "court_id": "flsd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-05-19"
+    },
+    "6824763": {
+      "case_name": "All European Auto Supply, Inc. v. Denso Corporation",
+      "court_id": "mied",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-05-20"
+    },
+    "13228310": {
+      "case_name": "Izumoto v. Coopervision, Inc.",
+      "court_id": "flsd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-05-21"
+    },
+    "13228313": {
+      "case_name": "Khanna v. CooperVision, Inc.",
+      "court_id": "flsd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-05-22"
+    },
+    "13577051": {
+      "case_name": "GIANT EAGLE, INC. v. SOLVAY PHARMACEUTICALS, INC.",
+      "court_id": "gand",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-05-28"
+    },
+    "13283594": {
+      "case_name": "A F C O Industries Inc v. Metal Roof Innovations Ltd",
+      "court_id": "lawd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-05-29"
+    },
+    "8448754": {
+      "case_name": "Guay Brothers Company, Inc. v. Espar, Inc.",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-03"
+    },
+    "51281370": {
+      "case_name": "Strataluz, LLC v. Truderma, LLC",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-03"
+    },
+    "8448753": {
+      "case_name": "North Jersey Truck Center, Inc. v. Espar, Inc.",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-05"
+    },
+    "18146637": {
+      "case_name": "Aldridge v. Experian Information Solutions, Inc.",
+      "court_id": "vaed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-05"
+    },
+    "14510969": {
+      "case_name": "United States v. Matthew",
+      "court_id": "flmd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-08"
+    },
+    "13326746": {
+      "case_name": "Slye v. Law Offices of Daniel C. Consuegra, P.L.",
+      "court_id": "flmd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-19"
+    },
+    "13146695": {
+      "case_name": "Merced Irrigation District v. Barclays Bank Plc",
+      "court_id": "nysd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-23"
+    },
+    "14510953": {
+      "case_name": "ZAMORA-VALDES v. NOVARTIS CORPORATION",
+      "court_id": "flmd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-23"
+    },
+    "14510954": {
+      "case_name": "Larsen-Ball v. Cooper Vision, Inc. (TV2)",
+      "court_id": "flmd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-23"
+    },
+    "18217645": {
+      "case_name": "United States v. Nokia Cellular Telephone Model Number: 2330-2b IMEI:012354/00/063455/7",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-23"
+    },
+    "14510955": {
+      "case_name": "HATRIDGE v. COOPERVISION, INC., ET AL",
+      "court_id": "flmd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-25"
+    },
+    "14510956": {
+      "case_name": "Dotel v. Coopervision, Inc.",
+      "court_id": "flmd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-25"
+    },
+    "14510958": {
+      "case_name": "Loera v. Coopervision, Inc.",
+      "court_id": "flmd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-25"
+    },
+    "14510961": {
+      "case_name": "Pardoll v. Coopervision, Inc.",
+      "court_id": "flmd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-25"
+    },
+    "18222108": {
+      "case_name": "EWALD, ET AL v. COOPERVISION, INC., ET AL",
+      "court_id": "flmd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-25"
+    },
+    "14510962": {
+      "case_name": "Lubin v. Coopervision, Inc.",
+      "court_id": "flmd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-26"
+    },
+    "14510963": {
+      "case_name": "Leeds v. Coopervision, Inc.",
+      "court_id": "flmd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-26"
+    },
+    "14510964": {
+      "case_name": "CRISTIANO v. COOPER VISION, INC.",
+      "court_id": "flmd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-26"
+    },
+    "14510965": {
+      "case_name": "Crose v. CooperVision Inc.",
+      "court_id": "flmd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-29"
+    },
+    "18217738": {
+      "case_name": "United States v. Palomera-Ramos",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-29"
+    },
+    "18217775": {
+      "case_name": "United States v. Castaneda",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-06-29"
+    },
+    "18217608": {
+      "case_name": "United States v. One Mobile Cellular Telephone, Model SM-N910A, International Mobile Equipment Identity number 356204060017355",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-02"
+    },
+    "13242551": {
+      "case_name": "State-Boston Retirement System v. American Airlines, Inc.",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-07"
+    },
+    "13557999": {
+      "case_name": "United States v. Martinez-Valentin",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-07"
+    },
+    "18217721": {
+      "case_name": "United States v. Perez-Campos",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-07"
+    },
+    "4391573": {
+      "case_name": "Cumming v. American Airlines, Inc.",
+      "court_id": "txnd",
+      "nos": "410 Other Statutes: Antitrust",
+      "date_filed": "2015-07-08"
+    },
+    "4531754": {
+      "case_name": "Industrial Models Inc v. SNF Inc",
+      "court_id": "txnd",
+      "nos": "410 Other Statutes: Antitrust",
+      "date_filed": "2015-07-08"
+    },
+    "6025361": {
+      "case_name": "United States v. Marroquin",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-08"
+    },
+    "13242559": {
+      "case_name": "Howard Sloan Koller Group v. American Airlines, Inc.",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-08"
+    },
+    "13258426": {
+      "case_name": "MCENERNEY v. DELTA AIRLINES, INC.",
+      "court_id": "paed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-08"
+    },
+    "13514341": {
+      "case_name": "Industrial Models Inc v. SNF Inc",
+      "court_id": "txnd",
+      "nos": "410 Other Statutes: Antitrust",
+      "date_filed": "2015-07-08"
+    },
+    "13140941": {
+      "case_name": "Huey v. American Airlines, Inc.",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-09"
+    },
+    "13242568": {
+      "case_name": "Repan v. American Airlines, Inc.",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-09"
+    },
+    "13558000": {
+      "case_name": "United States v. Gastelum",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-09"
+    },
+    "4391574": {
+      "case_name": "Ieyoub v. Southwest Airlines Co",
+      "court_id": "txnd",
+      "nos": "410 Other Statutes: Antitrust",
+      "date_filed": "2015-07-10"
+    },
+    "8109315": {
+      "case_name": "Everitt v. American Airlines, Inc.",
+      "court_id": "txnd",
+      "nos": "410 Other Statutes: Antitrust",
+      "date_filed": "2015-07-10"
+    },
+    "13242582": {
+      "case_name": "Curley v. Delta Airlines, Inc.",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-10"
+    },
+    "13246633": {
+      "case_name": "Lilian M . Raji v. American Airlines, Inc.",
+      "court_id": "nysd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-10"
+    },
+    "13301909": {
+      "case_name": "Silver v. American Airlines Group Inc.",
+      "court_id": "ilnd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-10"
+    },
+    "13316751": {
+      "case_name": "Charles Carte v. American Airlines Group Inc.",
+      "court_id": "cacd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-10"
+    },
+    "13430965": {
+      "case_name": "PANZINO v. AMERICAN AIRLINES, INC.",
+      "court_id": "dcd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-10"
+    },
+    "8101365": {
+      "case_name": "Giordano v. American Airlines, Inc.",
+      "court_id": "txnd",
+      "nos": "410 Other Statutes: Antitrust",
+      "date_filed": "2015-07-13"
+    },
+    "13258469": {
+      "case_name": "HARDIMON v. DELTA AIRLINES, INC.",
+      "court_id": "paed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-13"
+    },
+    "18217880": {
+      "case_name": "United States v. Martinez-Torres",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-13"
+    },
+    "13242602": {
+      "case_name": "Ann Inc. v. Visa Inc.",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-14"
+    },
+    "6024166": {
+      "case_name": "United States v. Cervantes-Ayala",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-15"
+    },
+    "13430966": {
+      "case_name": "PRICE v. AMERICAN AIRLINES, INC.",
+      "court_id": "dcd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-15"
+    },
+    "18217841": {
+      "case_name": "United States v. Orozco-Vaca",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-15"
+    },
+    "18217913": {
+      "case_name": "United States v. Angulo",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-16"
+    },
+    "57417732": {
+      "case_name": "Conway v. Blue Cross Blue Shield of Alabama",
+      "court_id": "azd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-16"
+    },
+    "13140949": {
+      "case_name": "Urban Outfitters, Inc. v. Visa Inc.",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-17"
+    },
+    "13160968": {
+      "case_name": "CONWAY v. BLUE CROSS AND BLUE SHIELD OF ALABAMA",
+      "court_id": "paed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-17"
+    },
+    "13183419": {
+      "case_name": "Conway v. Blue Cross and Blue Shield of Alabama",
+      "court_id": "mssd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-20"
+    },
+    "13188494": {
+      "case_name": "State of California v. Hitachi Limited",
+      "court_id": "mied",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-20"
+    },
+    "13242621": {
+      "case_name": "Bell v. Delta Air Lines, Inc.",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-20"
+    },
+    "13258528": {
+      "case_name": "JONES v. AMERICAN AIRLINES GROUP INC.",
+      "court_id": "paed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-20"
+    },
+    "13301955": {
+      "case_name": "Costantino v. American Airlines, Inc.",
+      "court_id": "ilnd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-20"
+    },
+    "13307649": {
+      "case_name": "BERDAY v. AMERICAN AIRLINES, INC.",
+      "court_id": "insd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-20"
+    },
+    "13311149": {
+      "case_name": "Horwitz v. American Airlines Group Inc.",
+      "court_id": "mnd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-20"
+    },
+    "18217957": {
+      "case_name": "United States v. Walton",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-20"
+    },
+    "13311151": {
+      "case_name": "Tilak v. American Airlines Group Inc.",
+      "court_id": "mnd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-21"
+    },
+    "7279443": {
+      "case_name": "United States v. Price",
+      "court_id": "wyd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-22"
+    },
+    "13242633": {
+      "case_name": "Mellen v. American Airlines, Inc.",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-22"
+    },
+    "13242634": {
+      "case_name": "Markun v. American Airlines, Inc.",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-22"
+    },
+    "13242636": {
+      "case_name": "Watkins v. American Airlines, Inc.",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-22"
+    },
+    "6025187": {
+      "case_name": "United States v. Lopez-Martinez",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-23"
+    },
+    "18217676": {
+      "case_name": "United States v. Isabeles-Martinez",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-24"
+    },
+    "13140954": {
+      "case_name": "Deninno v. American Airlines, Inc.",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-27"
+    },
+    "13140956": {
+      "case_name": "Frank v. American Airlines, Inc.",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-27"
+    },
+    "13323362": {
+      "case_name": "Coats v. Southwest Airlines Co.",
+      "court_id": "oknd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-27"
+    },
+    "13368635": {
+      "case_name": "Atkinson v. Prestage",
+      "court_id": "scd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-27"
+    },
+    "18217713": {
+      "case_name": "United States v. Cazares-Crespo",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-27"
+    },
+    "18217871": {
+      "case_name": "United States v. Winfield",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-28"
+    },
+    "6025115": {
+      "case_name": "United States v. Velazquez-Tellez",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-30"
+    },
+    "6026481": {
+      "case_name": "United States v. Kelez",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-30"
+    },
+    "13390487": {
+      "case_name": "WSPTN Corp. v. Tennessee Department of Health, Council for Hearing Instrument Specialists",
+      "court_id": "tnmd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-30"
+    },
+    "13311183": {
+      "case_name": "Licht v. American Airlines Group Inc.",
+      "court_id": "mnd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-07-31"
+    },
+    "6980325": {
+      "case_name": "City of Pontiac Police and Fire Retirement System",
+      "court_id": "nysd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-03"
+    },
+    "13311187": {
+      "case_name": "Warnock v. American Airlines Group Inc.",
+      "court_id": "mnd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-03"
+    },
+    "13311189": {
+      "case_name": "Shearson Publishing v. American Airlines Group Inc.",
+      "court_id": "mnd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-03"
+    },
+    "13311190": {
+      "case_name": "Attard v. American Airlines Group Inc.",
+      "court_id": "mnd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-03"
+    },
+    "13311192": {
+      "case_name": "Larson v. American Airlines Group Inc.",
+      "court_id": "mnd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-03"
+    },
+    "6980324": {
+      "case_name": "Rutgers Enhanced Insurance Company v. Bank of Nova Scotia",
+      "court_id": "nysd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-04"
+    },
+    "13242701": {
+      "case_name": "CONNELLY, ET AL v. AMERICAN AIRLINES, INC., ET AL",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-04"
+    },
+    "6980323": {
+      "case_name": "St. John v. Bank of Nova Scotia, New York Agency",
+      "court_id": "nysd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-05"
+    },
+    "18217588": {
+      "case_name": "United States v. Murillo",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-05"
+    },
+    "6030159": {
+      "case_name": "United States v. Arce",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-06"
+    },
+    "13311200": {
+      "case_name": "Riley v. American Airlines Group Inc.",
+      "court_id": "mnd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-06"
+    },
+    "13182096": {
+      "case_name": "Hospital Service District 1 of the Parish of East Baton Rouge, Louisiana v. Blue Cross and Blue Shield of Alabama",
+      "court_id": "lamd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-07"
+    },
+    "13311205": {
+      "case_name": "Deringer v. American Airlines Group, Inc.",
+      "court_id": "mnd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-07"
+    },
+    "13311214": {
+      "case_name": "ROLLAND, ET AL v. AMERICAN AIRLINES GROUP, ET AL",
+      "court_id": "mnd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-11"
+    },
+    "8000335": {
+      "case_name": "Colindres v. Battle",
+      "court_id": "gand",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-12"
+    },
+    "18160985": {
+      "case_name": "United States v. Felix-Servin",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-12"
+    },
+    "6025469": {
+      "case_name": "United States v. Sanchez",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-13"
+    },
+    "13242753": {
+      "case_name": "Morrison v. Delta Airlines, Inc.",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-13"
+    },
+    "5497420": {
+      "case_name": "Wallace v. AmSurg Holdings, Inc.",
+      "court_id": "ord",
+      "nos": "Antitrust",
+      "date_filed": "2015-08-14"
+    },
+    "6025950": {
+      "case_name": "United States v. Parra Lopez",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-18"
+    },
+    "18192501": {
+      "case_name": "Ford v. United States",
+      "court_id": "vaed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-18"
+    },
+    "6024562": {
+      "case_name": "United States v. Garcia-Carrillo",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-20"
+    },
+    "6026221": {
+      "case_name": "United States v. March",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-20"
+    },
+    "6027105": {
+      "case_name": "United States v. Fernandez-Lopez",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-20"
+    },
+    "13242780": {
+      "case_name": "Deninno v. Delta Air Lines, Inc.",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-20"
+    },
+    "13329913": {
+      "case_name": "Valdes v. Southwest Airlines, Co.",
+      "court_id": "flsd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-20"
+    },
+    "18217891": {
+      "case_name": "United States v. Garcia-Carrillo",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-20"
+    },
+    "13316941": {
+      "case_name": "Main Street America Ltd. v. National Football League, Inc.",
+      "court_id": "cacd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-21"
+    },
+    "6027108": {
+      "case_name": "United States v. Tejeda",
+      "court_id": "casd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-24"
+    },
+    "13311237": {
+      "case_name": "Price v. American Airlines Group Inc.",
+      "court_id": "mnd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-08-24"
+    },
+    "4292611": {
+      "case_name": "Steinberg v. Meadowbrook Insurance Group, Inc.",
+      "court_id": "mied",
+      "nos": "160 Stockholders Suits",
+      "date_filed": "2015-01-07"
+    },
+    "4406911": {
+      "case_name": "Health Diagnostic Laboratory, Inc. v. Johnson",
+      "court_id": "vaed",
+      "nos": "160 Stockholders Suits",
+      "date_filed": "2015-01-13"
+    },
+    "4580020": {
+      "case_name": "George E Rollins v. Behrooz Abdi",
+      "court_id": "cand",
+      "nos": "160 Stockholders Suits",
+      "date_filed": "2015-01-13"
+    },
+    "8476440": {
+      "case_name": "Karr v. Abdi",
+      "court_id": "cand",
+      "nos": "160 Stockholders Suits",
+      "date_filed": "2015-01-14"
+    },
+    "4354683": {
+      "case_name": "Posko v. Palmieri",
+      "court_id": "nysd",
+      "nos": "160 Stockholders Suits",
+      "date_filed": "2015-01-16"
+    },
+    "5211674": {
+      "case_name": "M Street Investments, Inc. v. AGT Capital, LLC",
+      "court_id": "mssd",
+      "nos": "Stockholders Suits",
+      "date_filed": "2015-01-20"
+    },
+    "5211676": {
+      "case_name": "M Street Investments, Inc. v. AGT Capital, LLC",
+      "court_id": "mssd",
+      "nos": "Stockholders Suits",
+      "date_filed": "2015-01-20"
+    },
+    "4152461": {
+      "case_name": "Sean Johnson v. Christopher R. Anzalone",
+      "court_id": "cacd",
+      "nos": "160 Stockholders Suits",
+      "date_filed": "2015-01-22"
+    },
+    "4242790": {
+      "case_name": "In Re Galectin Therapeutics, Inc. Derivative Litigation",
+      "court_id": "gand",
+      "nos": "160 Stockholders Suits",
+      "date_filed": "2015-01-22"
+    },
+    "4544964": {
+      "case_name": "Cohn v. Hawaiian Electric Industries, Inc.",
+      "court_id": "hid",
+      "nos": "160 Stockholders Suits",
+      "date_filed": "2015-01-27"
+    },
+    "4371641": {
+      "case_name": "COZZA v. JEKOGIAN",
+      "court_id": "paed",
+      "nos": "160 Contract: Stockholders Suits",
+      "date_filed": "2015-02-02"
+    },
+    "4391441": {
+      "case_name": "Linda K. Blankman v. Bradley",
+      "court_id": "txnd",
+      "nos": "160 Contract: Stockholders' Suits",
+      "date_filed": "2015-02-03"
+    },
+    "6811101": {
+      "case_name": "Kodali v. Qin",
+      "court_id": "nysd",
+      "nos": "160 Stockholders Suits",
+      "date_filed": "2015-02-03"
+    },
+    "4181560": {
+      "case_name": "Olson v. Riverbed Technology, Inc.",
+      "court_id": "cand",
+      "nos": "160 Stockholders Suits",
+      "date_filed": "2015-02-05"
+    },
+    "4354762": {
+      "case_name": "Olagues v. Icahn Associates Holding LLC",
+      "court_id": "nysd",
+      "nos": "160 Stockholders Suits",
+      "date_filed": "2015-02-06"
+    },
+    "4391466": {
+      "case_name": "Bazini v. Bradley",
+      "court_id": "txnd",
+      "nos": "160 Contract: Stockholders' Suits",
+      "date_filed": "2015-02-06"
+    },
+    "5470799": {
+      "case_name": "Ranko v. Rosta International Limited",
+      "court_id": "mied",
+      "nos": "160 Stockholders Suits",
+      "date_filed": "2015-02-06"
+    },
+    "4523054": {
+      "case_name": "Olagues v. Perceptive Advisers LLC",
+      "court_id": "nysd",
+      "nos": "160 Stockholders Suits",
+      "date_filed": "2015-02-10"
+    },
+    "4354791": {
+      "case_name": "Chill v. Calamos Advisors LLC",
+      "court_id": "nysd",
+      "nos": "160 Stockholders Suits",
+      "date_filed": "2015-02-11"
+    },
+    "14408456": {
+      "case_name": "Dieckman v. Regency Energy Partners LP",
+      "court_id": "txnd",
+      "nos": "160 Contract: Stockholders' Suits",
+      "date_filed": "2015-02-11"
     }
   },
   "stats": {}
