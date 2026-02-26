@@ -2,7 +2,7 @@ name: "06: Bulk Data Filter"
 
 # Downloads CourtListener's full dockets CSV dump (~4.6 GB compressed),
 # streams it through a filter for federal corporate litigation cases,
-# and saves results to cases/. Bypasses the slow REST API entirely.
+# and saves results to cases2/. Bypasses the slow REST API entirely.
 # ETA: ~15-20 minutes.
 
 on:
@@ -57,15 +57,15 @@ jobs:
       - name: Show results summary
         run: |
           echo "=== Files created ==="
-          ls -lh cases/metadata/ || true
+          ls -lh cases2/metadata/ || true
           echo ""
           echo "=== Checkpoint ==="
-          cat cases/pass1_checkpoint.json || true
+          cat cases2/pass1_checkpoint.json || true
           echo ""
           echo "=== Index stats ==="
           python3 -c "
           import json
-          with open('cases/pass1_index.json') as f:
+          with open('cases2/pass1_index.json') as f:
               idx = json.load(f)
           print(f'Total unique dockets: {len(idx[\"dockets\"]):,}')
           for k, v in idx['stats'].items():
@@ -77,10 +77,10 @@ jobs:
 
       - name: Commit results
         run: |
-          git add cases/
+          git add cases2/
           git diff --cached --quiet || git commit -m "Pass 1 BULK: $(python3 -c "
           import json
-          with open('cases/pass1_index.json') as f:
+          with open('cases2/pass1_index.json') as f:
               print(f'{len(json.load(f)[\"dockets\"]):,} federal corporate litigation cases')
           " 2>/dev/null || echo 'filtered cases') from CourtListener bulk data"
           git push || true
@@ -90,5 +90,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: bulk-pass1-${{ github.run_id }}
-          path: cases/
+          path: cases2/
           retention-days: 90

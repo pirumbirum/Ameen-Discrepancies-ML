@@ -41,7 +41,7 @@ KEEP_FIELDS = [
     "pacer_case_id", "source", "slug", "federal_dn_case_type",
 ]
 
-OUTPUT_DIR = "cases"
+OUTPUT_DIR = "cases2"
 METADATA_DIR = f"{OUTPUT_DIR}/metadata"
 
 
