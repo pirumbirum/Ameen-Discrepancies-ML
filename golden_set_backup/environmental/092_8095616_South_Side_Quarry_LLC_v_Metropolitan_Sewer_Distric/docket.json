@@ -1,0 +1,31 @@
+{
+  "id": "8095616",
+  "case_name": "South Side Quarry, LLC v. Metropolitan Sewer District",
+  "case_name_full": "",
+  "docket_number": "3:18-cv-00706",
+  "docket_number_core": "1800706",
+  "court_id": "kywd",
+  "nature_of_suit": "893 Environmental Matters",
+  "cause": "33:1251 Federal Water Pollution Control Act (Clean Water Act)",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2018-10-26",
+  "date_terminated": "2020-07-14",
+  "date_last_filing": "2022-04-06",
+  "assigned_to_str": "David J. Hale",
+  "referred_to_str": "Regina S. Edwards",
+  "pacer_case_id": "109247",
+  "source": "9",
+  "slug": "south-side-quarry-llc-v-metropolitan-sewer-district",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 92,
+  "_nos_category": "environmental"
+}

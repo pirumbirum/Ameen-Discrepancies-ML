@@ -1,0 +1,31 @@
+{
+  "id": "5425",
+  "case_name": "Bot M8 LLC v. Sony Corporation Of America",
+  "case_name_full": "",
+  "docket_number": "3:19-cv-07027",
+  "docket_number_core": "1907027",
+  "court_id": "coloctapp",
+  "nature_of_suit": "830 Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-10-25",
+  "date_terminated": "2020-07-22",
+  "date_last_filing": "",
+  "assigned_to_str": "William Alsup",
+  "referred_to_str": "Robert M. Illman",
+  "pacer_case_id": "350788",
+  "source": "19",
+  "slug": "bot-m8-llc-v-sony-corporation-of-america",
+  "federal_dn_case_type": "",
+  "_score": 270,
+  "_score_details": {
+    "score": 270,
+    "published_opinions": 1,
+    "unpublished_opinions": 0,
+    "total_citations": 52,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 1,
+  "_nos_category": "patent"
+}

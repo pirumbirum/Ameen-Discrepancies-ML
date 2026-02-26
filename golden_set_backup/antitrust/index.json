@@ -1,0 +1,1702 @@
+[
+  {
+    "rank": 1,
+    "docket_id": "69645400",
+    "case_name": "Alqosh Enterprises, Inc. v. PepsiCo, Inc.",
+    "court_id": "cacd",
+    "date_filed": "2025-02-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "001_69645400_Alqosh_Enterprises_Inc_v_PepsiCo_Inc"
+  },
+  {
+    "rank": 2,
+    "docket_id": "17398273",
+    "case_name": "Pacific Surf Designs, Inc. v. Whitewater West Industries, Ltd..r West",
+    "court_id": "casd",
+    "date_filed": "2020-07-29",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "002_17398273_Pacific_Surf_Designs_Inc_v_Whitewater_West_Industr"
+  },
+  {
+    "rank": 3,
+    "docket_id": "67207209",
+    "case_name": "BRANDYWINE HOSPITAL, LLC v. CVS HEALTH CORPORATION",
+    "court_id": "paed",
+    "date_filed": "2023-04-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "003_67207209_BRANDYWINE_HOSPITAL_LLC_v_CVS_HEALTH_CORPORATION"
+  },
+  {
+    "rank": 4,
+    "docket_id": "15001334",
+    "case_name": "Sayre v. Google, Inc.",
+    "court_id": "cand",
+    "date_filed": "2019-04-25",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "004_15001334_Sayre_v_Google_Inc"
+  },
+  {
+    "rank": 5,
+    "docket_id": "4324194",
+    "case_name": "Raccoon Valley Transport, Inc. v. Espar, Inc.",
+    "court_id": "nyed",
+    "date_filed": "2015-03-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "005_4324194_Raccoon_Valley_Transport_Inc_v_Espar_Inc"
+  },
+  {
+    "rank": 6,
+    "docket_id": "68386865",
+    "case_name": "TEVA PHARMACEUTICALS USA, INC. v. AMARIN PHARMA, INC.",
+    "court_id": "njd",
+    "date_filed": "2024-03-28",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "006_68386865_TEVA_PHARMACEUTICALS_USA_INC_v_AMARIN_PHARMA_INC"
+  },
+  {
+    "rank": 7,
+    "docket_id": "69217766",
+    "case_name": "2311 Racing LLC v. National Association for Stock Car Auto Racing, LLC",
+    "court_id": "ncwd",
+    "date_filed": "2024-10-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "007_69217766_2311_Racing_LLC_v_National_Association_for_Stock_C"
+  },
+  {
+    "rank": 8,
+    "docket_id": "14813382",
+    "case_name": "Miami Products & Chemical Co. v. Olin Corporation",
+    "court_id": "nywd",
+    "date_filed": "2019-03-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 10,
+      "has_scotus": false
+    },
+    "folder": "008_14813382_Miami_Products_Chemical_Co_v_Olin_Corporation"
+  },
+  {
+    "rank": 9,
+    "docket_id": "71116034",
+    "case_name": "Alshara v. The Associated Press",
+    "court_id": "mied",
+    "date_filed": "2025-08-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "009_71116034_Alshara_v_The_Associated_Press"
+  },
+  {
+    "rank": 10,
+    "docket_id": "16297495",
+    "case_name": "Powell Prescription Center v. Surescripts, LLC",
+    "court_id": "ilnd",
+    "date_filed": "2019-10-04",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "010_16297495_Powell_Prescription_Center_v_Surescripts_LLC"
+  },
+  {
+    "rank": 11,
+    "docket_id": "68148172",
+    "case_name": "Osterhaus Pharmacy Inc v. Express Scripts Inc",
+    "court_id": "wawd",
+    "date_filed": "2024-01-09",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "011_68148172_Osterhaus_Pharmacy_Inc_v_Express_Scripts_Inc"
+  },
+  {
+    "rank": 12,
+    "docket_id": "4566929",
+    "case_name": "FWK Holdings LLC v. Shire PLC (Direct Purchaser Antitrust Class Action Complaint)",
+    "court_id": "mad",
+    "date_filed": "2016-12-30",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 9,
+      "has_scotus": false
+    },
+    "folder": "012_4566929_FWK_Holdings_LLC_v_Shire_PLC_Direct_Purchaser_Anti"
+  },
+  {
+    "rank": 13,
+    "docket_id": "65631987",
+    "case_name": "Kifle v. Google, LLC",
+    "court_id": "gand",
+    "date_filed": "2022-10-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "013_65631987_Kifle_v_Google_LLC"
+  },
+  {
+    "rank": 14,
+    "docket_id": "69570369",
+    "case_name": "Federal Trade Commission v. PepsiCo, Inc.",
+    "court_id": "nysd",
+    "date_filed": "2025-01-23",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "014_69570369_Federal_Trade_Commission_v_PepsiCo_Inc"
+  },
+  {
+    "rank": 15,
+    "docket_id": "67715071",
+    "case_name": "Adams v. Experian Information Solutions, Inc.",
+    "court_id": "caed",
+    "date_filed": "2023-08-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "015_67715071_Adams_v_Experian_Information_Solutions_Inc"
+  },
+  {
+    "rank": 16,
+    "docket_id": "17442392",
+    "case_name": "Epic Games, Inc. v. Apple Inc.",
+    "court_id": "cand",
+    "date_filed": "2020-08-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 11,
+      "has_scotus": false
+    },
+    "folder": "016_17442392_Epic_Games_Inc_v_Apple_Inc"
+  },
+  {
+    "rank": 17,
+    "docket_id": "70687463",
+    "case_name": "Boyd v. National Collegiate Athletic Association",
+    "court_id": "tnmd",
+    "date_filed": "2025-06-30",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "017_70687463_Boyd_v_National_Collegiate_Athletic_Association"
+  },
+  {
+    "rank": 18,
+    "docket_id": "59859024",
+    "case_name": "In re Valve Antitrust Litigation",
+    "court_id": "wawd",
+    "date_filed": "2021-04-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 12,
+      "has_scotus": false
+    },
+    "folder": "018_59859024_In_re_Valve_Antitrust_Litigation"
+  },
+  {
+    "rank": 19,
+    "docket_id": "17443962",
+    "case_name": "Epic Games, Inc. v. Google LLC",
+    "court_id": "cand",
+    "date_filed": "2020-08-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "019_17443962_Epic_Games_Inc_v_Google_LLC"
+  },
+  {
+    "rank": 20,
+    "docket_id": "69155876",
+    "case_name": "Broadcast Music, Inc. v. Sirius XM Radio LLC",
+    "court_id": "nysd",
+    "date_filed": "2024-09-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "020_69155876_Broadcast_Music_Inc_v_Sirius_XM_Radio_LLC"
+  },
+  {
+    "rank": 21,
+    "docket_id": "71602872",
+    "case_name": "Manu v. National Collegiate Athletic Association",
+    "court_id": "wawd",
+    "date_filed": "2025-10-09",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "021_71602872_Manu_v_National_Collegiate_Athletic_Association"
+  },
+  {
+    "rank": 22,
+    "docket_id": "71160338",
+    "case_name": "Memorial Hospital for Cancer and Allied Diseases v. Blue Cross and Blue Shield of Illinois",
+    "court_id": "cand",
+    "date_filed": "2025-08-20",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "022_71160338_Memorial_Hospital_for_Cancer_and_Allied_Diseases_v"
+  },
+  {
+    "rank": 23,
+    "docket_id": "65742239",
+    "case_name": "Floyd v. Amazon.com Inc",
+    "court_id": "wawd",
+    "date_filed": "2022-11-09",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 8,
+      "has_scotus": false
+    },
+    "folder": "023_65742239_Floyd_v_Amazoncom_Inc"
+  },
+  {
+    "rank": 24,
+    "docket_id": "60223191",
+    "case_name": "In re Google Digital Publisher Antitrust Litigation",
+    "court_id": "nysd",
+    "date_filed": "2021-08-20",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "024_60223191_In_re_Google_Digital_Publisher_Antitrust_Litigatio"
+  },
+  {
+    "rank": 25,
+    "docket_id": "68883550",
+    "case_name": "In re Eyewear Antitrust Litigation",
+    "court_id": "nysd",
+    "date_filed": "2024-06-25",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "025_68883550_In_re_Eyewear_Antitrust_Litigation"
+  },
+  {
+    "rank": 26,
+    "docket_id": "69190163",
+    "case_name": "United States v. Visa Inc.",
+    "court_id": "nysd",
+    "date_filed": "2024-09-24",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "026_69190163_United_States_v_Visa_Inc"
+  },
+  {
+    "rank": 27,
+    "docket_id": "68561607",
+    "case_name": "Leifer v. Live Nation Entertainment, Inc.",
+    "court_id": "nysd",
+    "date_filed": "2024-05-23",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "027_68561607_Leifer_v_Live_Nation_Entertainment_Inc"
+  },
+  {
+    "rank": 28,
+    "docket_id": "6235804",
+    "case_name": "Automotive Steel Tube - End Payor Actions",
+    "court_id": "mied",
+    "date_filed": "2016-09-19",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "028_6235804_Automotive_Steel_Tube_-_End_Payor_Actions"
+  },
+  {
+    "rank": 29,
+    "docket_id": "70609919",
+    "case_name": "Compass, Inc. v. Zillow, Inc.",
+    "court_id": "nysd",
+    "date_filed": "2025-06-23",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "029_70609919_Compass_Inc_v_Zillow_Inc"
+  },
+  {
+    "rank": 30,
+    "docket_id": "68858304",
+    "case_name": "Estuary Transit District v. Hartford Healthcare Corporation",
+    "court_id": "ctd",
+    "date_filed": "2024-06-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "030_68858304_Estuary_Transit_District_v_Hartford_Healthcare_Cor"
+  },
+  {
+    "rank": 31,
+    "docket_id": "16716312",
+    "case_name": "Reveal Chat Holdco LLC v. Facebook, Inc.",
+    "court_id": "cand",
+    "date_filed": "2020-01-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "031_16716312_Reveal_Chat_Holdco_LLC_v_Facebook_Inc"
+  },
+  {
+    "rank": 32,
+    "docket_id": "67208209",
+    "case_name": "Perez, III v. Alderson Reporting Company, Inc.",
+    "court_id": "txwd",
+    "date_filed": "2023-04-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "032_67208209_Perez_III_v_Alderson_Reporting_Company_Inc"
+  },
+  {
+    "rank": 33,
+    "docket_id": "69736382",
+    "case_name": "Celonis SE v. SAP SE",
+    "court_id": "cand",
+    "date_filed": "2025-03-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "033_69736382_Celonis_SE_v_SAP_SE"
+  },
+  {
+    "rank": 34,
+    "docket_id": "61570457",
+    "case_name": "United States v. United States Sugar Corporation",
+    "court_id": "ded",
+    "date_filed": "2021-11-23",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "034_61570457_United_States_v_United_States_Sugar_Corporation"
+  },
+  {
+    "rank": 35,
+    "docket_id": "61614517",
+    "case_name": "BENSALEM LODGING ASSOCIATES LLC v. HOLIDAY HOSPITALITY FRANCHISING, LLC",
+    "court_id": "gand",
+    "date_filed": "2021-12-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "035_61614517_BENSALEM_LODGING_ASSOCIATES_LLC_v_HOLIDAY_HOSPITAL"
+  },
+  {
+    "rank": 36,
+    "docket_id": "61630774",
+    "case_name": "Zeavision, LLC v. Bausch & Lomb Incorporated",
+    "court_id": "moed",
+    "date_filed": "2021-12-20",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "036_61630774_Zeavision_LLC_v_Bausch_Lomb_Incorporated"
+  },
+  {
+    "rank": 37,
+    "docket_id": "61630786",
+    "case_name": "Aetna Inc. v. Gilead Sciences, Inc.",
+    "court_id": "cand",
+    "date_filed": "2021-12-20",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "037_61630786_Aetna_Inc_v_Gilead_Sciences_Inc"
+  },
+  {
+    "rank": 38,
+    "docket_id": "15421450",
+    "case_name": "Connecticut v. Teva Pharmaceuticals USA, Inc.",
+    "court_id": "ctd",
+    "date_filed": "2019-05-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "038_15421450_Connecticut_v_Teva_Pharmaceuticals_USA_Inc"
+  },
+  {
+    "rank": 39,
+    "docket_id": "4553967",
+    "case_name": "Connecticut v. Aurobindo Pharma USA, Inc.",
+    "court_id": "ctd",
+    "date_filed": "2016-12-15",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "039_4553967_Connecticut_v_Aurobindo_Pharma_USA_Inc"
+  },
+  {
+    "rank": 40,
+    "docket_id": "67478940",
+    "case_name": "Realtek Semiconductor Corp. v. Mediatek, Inc.",
+    "court_id": "cand",
+    "date_filed": "2023-06-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "040_67478940_Realtek_Semiconductor_Corp_v_Mediatek_Inc"
+  },
+  {
+    "rank": 41,
+    "docket_id": "7158105",
+    "case_name": "trueEX LLC v. Bank Of America Corporation",
+    "court_id": "nysd",
+    "date_filed": "2018-06-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "041_7158105_trueEX_LLC_v_Bank_Of_America_Corporation"
+  },
+  {
+    "rank": 42,
+    "docket_id": "6140335",
+    "case_name": "Iowa Public Employees' Retirement System v. Merrill Lynch, Pierce, Fenner & Smith Inc",
+    "court_id": "nysd",
+    "date_filed": "2017-08-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 26,
+      "has_scotus": false
+    },
+    "folder": "042_6140335_Iowa_Public_Employees_Retirement_System_v_Merrill_"
+  },
+  {
+    "rank": 43,
+    "docket_id": "17364156",
+    "case_name": "Connecticut v. Sandoz, Inc.",
+    "court_id": "paed",
+    "date_filed": "2020-07-20",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "043_17364156_Connecticut_v_Sandoz_Inc"
+  },
+  {
+    "rank": 44,
+    "docket_id": "59675142",
+    "case_name": "In re Outpatient Medical Center Employee Antitrust Litigation",
+    "court_id": "ilnd",
+    "date_filed": "2021-01-19",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 6,
+      "has_scotus": false
+    },
+    "folder": "044_59675142_In_re_Outpatient_Medical_Center_Employee_Antitrust"
+  },
+  {
+    "rank": 45,
+    "docket_id": "63344748",
+    "case_name": "Regeneron Pharmaceuticals, Inc. v. Amgen Inc.",
+    "court_id": "ded",
+    "date_filed": "2022-05-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "045_63344748_Regeneron_Pharmaceuticals_Inc_v_Amgen_Inc"
+  },
+  {
+    "rank": 46,
+    "docket_id": "60113436",
+    "case_name": "VALUE DRUG COMPANY v. TAKEDA PHARMACEUTICALS, U.S.A., INC.",
+    "court_id": "paed",
+    "date_filed": "2021-08-05",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 8,
+      "has_scotus": false
+    },
+    "folder": "046_60113436_VALUE_DRUG_COMPANY_v_TAKEDA_PHARMACEUTICALS_USA_IN"
+  },
+  {
+    "rank": 47,
+    "docket_id": "4316094",
+    "case_name": "Le v. Zuffa, LLC",
+    "court_id": "nvd",
+    "date_filed": "2015-06-03",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "047_4316094_Le_v_Zuffa_LLC"
+  },
+  {
+    "rank": 48,
+    "docket_id": "68853307",
+    "case_name": "Teva Pharmaceuticals USA, Inc. v. Corcept Therapeutics, Inc.",
+    "court_id": "cand",
+    "date_filed": "2024-06-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "048_68853307_Teva_Pharmaceuticals_USA_Inc_v_Corcept_Therapeutic"
+  },
+  {
+    "rank": 49,
+    "docket_id": "16324193",
+    "case_name": "In Re: Delta Dental Antitrust Litigation",
+    "court_id": "ilnd",
+    "date_filed": "2019-10-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "049_16324193_In_Re_Delta_Dental_Antitrust_Litigation"
+  },
+  {
+    "rank": 50,
+    "docket_id": "68818984",
+    "case_name": "EcoShield Pest Solutions Portland, LLC v. Grit Marketing, LLC",
+    "court_id": "ord",
+    "date_filed": "2024-05-31",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "050_68818984_EcoShield_Pest_Solutions_Portland_LLC_v_Grit_Marke"
+  },
+  {
+    "rank": 51,
+    "docket_id": "4356193",
+    "case_name": "Nypl v. JP Morgan Chase & Co.",
+    "court_id": "nysd",
+    "date_filed": "2015-11-25",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 16,
+      "has_scotus": false
+    },
+    "folder": "051_4356193_Nypl_v_JP_Morgan_Chase_Co"
+  },
+  {
+    "rank": 52,
+    "docket_id": "68284514",
+    "case_name": "Federal Trade Commission v. Kroger Company",
+    "court_id": "ord",
+    "date_filed": "2024-02-26",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "052_68284514_Federal_Trade_Commission_v_Kroger_Company"
+  },
+  {
+    "rank": 53,
+    "docket_id": "70407260",
+    "case_name": "Davis v. Zuffa, LLC",
+    "court_id": "nvd",
+    "date_filed": "2025-05-29",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "053_70407260_Davis_v_Zuffa_LLC"
+  },
+  {
+    "rank": 54,
+    "docket_id": "68090866",
+    "case_name": "SMBA Construction, LLC v. Sika Corporation",
+    "court_id": "nysd",
+    "date_filed": "2023-12-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "054_68090866_SMBA_Construction_LLC_v_Sika_Corporation"
+  },
+  {
+    "rank": 55,
+    "docket_id": "69043052",
+    "case_name": "Loop LLC v. CDK Global, LLC",
+    "court_id": "wiwd",
+    "date_filed": "2024-08-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "055_69043052_Loop_LLC_v_CDK_Global_LLC"
+  },
+  {
+    "rank": 56,
+    "docket_id": "18361372",
+    "case_name": "City of Boston Credit Union v. Fair Isaac Corporation",
+    "court_id": "ilnd",
+    "date_filed": "2020-06-04",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "056_18361372_City_of_Boston_Credit_Union_v_Fair_Isaac_Corporati"
+  },
+  {
+    "rank": 57,
+    "docket_id": "69799920",
+    "case_name": "Empower Clinic Services, L.L.C. v. LegitScript LLC",
+    "court_id": "ord",
+    "date_filed": "2025-03-26",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "057_69799920_Empower_Clinic_Services_LLC_v_LegitScript_LLC"
+  },
+  {
+    "rank": 58,
+    "docket_id": "63364970",
+    "case_name": "Golden v. Qualcomm, Inc.",
+    "court_id": "cand",
+    "date_filed": "2022-06-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "058_63364970_Golden_v_Qualcomm_Inc"
+  },
+  {
+    "rank": 59,
+    "docket_id": "7338509",
+    "case_name": "IN RE PORK ANTITRUST LITIGATION",
+    "court_id": "mnd",
+    "date_filed": "2018-06-28",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 12,
+      "has_scotus": false
+    },
+    "folder": "059_7338509_IN_RE_PORK_ANTITRUST_LITIGATION"
+  },
+  {
+    "rank": 60,
+    "docket_id": "70357064",
+    "case_name": "Cirkunovs v. Zuffa LLC",
+    "court_id": "nvd",
+    "date_filed": "2025-05-23",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "060_70357064_Cirkunovs_v_Zuffa_LLC"
+  },
+  {
+    "rank": 61,
+    "docket_id": "69749728",
+    "case_name": "Pospisil v. ATP Tour, Inc.",
+    "court_id": "nysd",
+    "date_filed": "2025-03-18",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "061_69749728_Pospisil_v_ATP_Tour_Inc"
+  },
+  {
+    "rank": 62,
+    "docket_id": "69493943",
+    "case_name": "Rumble Canada, Inc. v. Google LLC",
+    "court_id": "nysd",
+    "date_filed": "2024-12-23",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "062_69493943_Rumble_Canada_Inc_v_Google_LLC"
+  },
+  {
+    "rank": 63,
+    "docket_id": "70239001",
+    "case_name": "Inova Energy LLC v. Pike County Light & Power Company",
+    "court_id": "pamd",
+    "date_filed": "2025-05-09",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "063_70239001_Inova_Energy_LLC_v_Pike_County_Light_Power_Company"
+  },
+  {
+    "rank": 64,
+    "docket_id": "60218748",
+    "case_name": "In re Google Digital Advertising Antitrust Litigation",
+    "court_id": "nysd",
+    "date_filed": "2021-08-19",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "064_60218748_In_re_Google_Digital_Advertising_Antitrust_Litigat"
+  },
+  {
+    "rank": 65,
+    "docket_id": "66760320",
+    "case_name": "Gibson v. CENDYN Group, LLC",
+    "court_id": "nvd",
+    "date_filed": "2023-01-25",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "065_66760320_Gibson_v_CENDYN_Group_LLC"
+  },
+  {
+    "rank": 66,
+    "docket_id": "68372013",
+    "case_name": "New York Hotel Trades Council & Hotel Association of New York City, Inc. Health Benefits Fund v. Celgene Corporation",
+    "court_id": "nysd",
+    "date_filed": "2024-03-25",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "066_68372013_New_York_Hotel_Trades_Council_Hotel_Association_of"
+  },
+  {
+    "rank": 67,
+    "docket_id": "67221582",
+    "case_name": "OUR OWN CANDLE COMPANY, INC. v. GIVAUDAN S.A.",
+    "court_id": "njd",
+    "date_filed": "2023-04-18",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "067_67221582_OUR_OWN_CANDLE_COMPANY_INC_v_GIVAUDAN_SA"
+  },
+  {
+    "rank": 68,
+    "docket_id": "17242189",
+    "case_name": "Connecticut v. Sandoz, Inc.",
+    "court_id": "ctd",
+    "date_filed": "2020-06-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "068_17242189_Connecticut_v_Sandoz_Inc"
+  },
+  {
+    "rank": 69,
+    "docket_id": "63356186",
+    "case_name": "Corrente v. The Charles Schwab Corporation",
+    "court_id": "txed",
+    "date_filed": "2022-06-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "069_63356186_Corrente_v_The_Charles_Schwab_Corporation"
+  },
+  {
+    "rank": 70,
+    "docket_id": "68858812",
+    "case_name": "APOTEX INC. v. AMARIN PHARMA, INC.",
+    "court_id": "njd",
+    "date_filed": "2024-06-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "070_68858812_APOTEX_INC_v_AMARIN_PHARMA_INC"
+  },
+  {
+    "rank": 71,
+    "docket_id": "68284244",
+    "case_name": "St. Joseph's Hospital Health Center v. American Anesthesiology of Syracuse, P.C.",
+    "court_id": "nynd",
+    "date_filed": "2024-02-26",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "071_68284244_St_Josephs_Hospital_Health_Center_v_American_Anest"
+  },
+  {
+    "rank": 72,
+    "docket_id": "68019975",
+    "case_name": "Subspace Omega LLC v. Amazon Web Services Inc",
+    "court_id": "wawd",
+    "date_filed": "2023-11-18",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "072_68019975_Subspace_Omega_LLC_v_Amazon_Web_Services_Inc"
+  },
+  {
+    "rank": 73,
+    "docket_id": "18714274",
+    "case_name": "Klein v. Meta Platforms, Inc.",
+    "court_id": "cand",
+    "date_filed": "2020-12-03",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 10,
+      "has_scotus": false
+    },
+    "folder": "073_18714274_Klein_v_Meta_Platforms_Inc"
+  },
+  {
+    "rank": 74,
+    "docket_id": "63353253",
+    "case_name": "Ucharima Alvarado v. Western Range Association",
+    "court_id": "nvd",
+    "date_filed": "2022-06-01",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 7,
+      "has_scotus": false
+    },
+    "folder": "074_63353253_Ucharima_Alvarado_v_Western_Range_Association"
+  },
+  {
+    "rank": 75,
+    "docket_id": "14607343",
+    "case_name": "International Swimming League, LTD v. World Aquatics",
+    "court_id": "cand",
+    "date_filed": "2018-12-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "075_14607343_International_Swimming_League_LTD_v_World_Aquatics"
+  },
+  {
+    "rank": 76,
+    "docket_id": "69495416",
+    "case_name": "World Association of Icehockey Players Unions North America Division v. National Hockey League",
+    "court_id": "wawd",
+    "date_filed": "2024-12-23",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "076_69495416_World_Association_of_Icehockey_Players_Unions_Nort"
+  },
+  {
+    "rank": 77,
+    "docket_id": "66770128",
+    "case_name": "Palladino v. JPMorgan Chase & Co.",
+    "court_id": "cand",
+    "date_filed": "2023-01-30",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "077_66770128_Palladino_v_JPMorgan_Chase_Co"
+  },
+  {
+    "rank": 78,
+    "docket_id": "68314425",
+    "case_name": "Massachusetts Laborers' Health & Welfare Fund v. Boehringer Ingelheim Pharmaceuticals, Inc. 5. DO NOT DOCKET IN THIS CASE: ALL FILINGS ARE TO BE MADE IN (25-md-03154)",
+    "court_id": "mad",
+    "date_filed": "2024-03-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "078_68314425_Massachusetts_Laborers_Health_Welfare_Fund_v_Boehr"
+  },
+  {
+    "rank": 79,
+    "docket_id": "68505419",
+    "case_name": "Whiteside v. Apple Inc.",
+    "court_id": "cand",
+    "date_filed": "2024-05-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "079_68505419_Whiteside_v_Apple_Inc"
+  },
+  {
+    "rank": 80,
+    "docket_id": "69434738",
+    "case_name": "Coronavirus Reporter Corporation v. Apple Inc",
+    "court_id": "cand",
+    "date_filed": "2024-12-03",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "080_69434738_Coronavirus_Reporter_Corporation_v_Apple_Inc"
+  },
+  {
+    "rank": 81,
+    "docket_id": "68807701",
+    "case_name": "Stevens v. Live Nation Entertainment, Inc.",
+    "court_id": "nysd",
+    "date_filed": "2024-05-29",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "081_68807701_Stevens_v_Live_Nation_Entertainment_Inc"
+  },
+  {
+    "rank": 82,
+    "docket_id": "69309492",
+    "case_name": "Drake v. Valve Corporation",
+    "court_id": "wawd",
+    "date_filed": "2024-10-24",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "082_69309492_Drake_v_Valve_Corporation"
+  },
+  {
+    "rank": 83,
+    "docket_id": "67667113",
+    "case_name": "Dempsey v. Realpage, Inc.",
+    "court_id": "tnmd",
+    "date_filed": "2023-08-04",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "083_67667113_Dempsey_v_Realpage_Inc"
+  },
+  {
+    "rank": 84,
+    "docket_id": "68139429",
+    "case_name": "Tuccori v. At World Properties, LLC",
+    "court_id": "ilnd",
+    "date_filed": "2024-01-05",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "084_68139429_Tuccori_v_At_World_Properties_LLC"
+  },
+  {
+    "rank": 85,
+    "docket_id": "59144503",
+    "case_name": "Lex v. Bayer CropScience LP",
+    "court_id": "ilsd",
+    "date_filed": "2021-02-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "085_59144503_Lex_v_Bayer_CropScience_LP"
+  },
+  {
+    "rank": 86,
+    "docket_id": "15640498",
+    "case_name": "Academy of Allergy & Asthma in Primary Care v. Amerigroup Tennessee Inc.",
+    "court_id": "tned",
+    "date_filed": "2019-05-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "086_15640498_Academy_of_Allergy_Asthma_in_Primary_Care_v_Amerig"
+  },
+  {
+    "rank": 87,
+    "docket_id": "64874182",
+    "case_name": "Guardian Alliance Technologies, Inc. v. Miller Mendel, Inc.",
+    "court_id": "caed",
+    "date_filed": "2022-08-05",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 5,
+      "has_scotus": false
+    },
+    "folder": "087_64874182_Guardian_Alliance_Technologies_Inc_v_Miller_Mendel"
+  },
+  {
+    "rank": 88,
+    "docket_id": "67225748",
+    "case_name": "Bauman v. RealPage, Inc.",
+    "court_id": "tnmd",
+    "date_filed": "2023-04-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "088_67225748_Bauman_v_RealPage_Inc"
+  },
+  {
+    "rank": 89,
+    "docket_id": "67282082",
+    "case_name": "State of Ohio, ex rel. Dave Yost Attorney General of Ohio v. Ascent Health Services LLC",
+    "court_id": "ohsd",
+    "date_filed": "2023-04-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "089_67282082_State_of_Ohio_ex_rel_Dave_Yost_Attorney_General_of"
+  },
+  {
+    "rank": 90,
+    "docket_id": "64914156",
+    "case_name": "Riley v. Information Systems Audit and Control Association Inc.",
+    "court_id": "ilnd",
+    "date_filed": "2022-08-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "090_64914156_Riley_v_Information_Systems_Audit_and_Control_Asso"
+  },
+  {
+    "rank": 91,
+    "docket_id": "67356054",
+    "case_name": "CORNISH-ADEBIYI v. CAESARS ENTERTAINMENT, INC.",
+    "court_id": "njd",
+    "date_filed": "2023-05-09",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "091_67356054_CORNISH-ADEBIYI_v_CAESARS_ENTERTAINMENT_INC"
+  },
+  {
+    "rank": 92,
+    "docket_id": "17164857",
+    "case_name": "KPH HEALTHCARE SERVICES, INC. v. JANSSEN BIOTECH, INC.",
+    "court_id": "njd",
+    "date_filed": "2020-05-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "092_17164857_KPH_HEALTHCARE_SERVICES_INC_v_JANSSEN_BIOTECH_INC"
+  },
+  {
+    "rank": 93,
+    "docket_id": "59703621",
+    "case_name": "BCBSM, Inc. v. Vyera Pharmaceuticals, LLC",
+    "court_id": "nysd",
+    "date_filed": "2021-03-04",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "093_59703621_BCBSM_Inc_v_Vyera_Pharmaceuticals_LLC"
+  },
+  {
+    "rank": 94,
+    "docket_id": "63359768",
+    "case_name": "City of Brevard, North Carolina v. HCA Healthcare, Inc.",
+    "court_id": "ncwd",
+    "date_filed": "2022-06-03",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "094_63359768_City_of_Brevard_North_Carolina_v_HCA_Healthcare_In"
+  },
+  {
+    "rank": 95,
+    "docket_id": "17121507",
+    "case_name": "Getten Credit Company v. Fair Isaac Corporation",
+    "court_id": "ilnd",
+    "date_filed": "2020-05-01",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "095_17121507_Getten_Credit_Company_v_Fair_Isaac_Corporation"
+  },
+  {
+    "rank": 96,
+    "docket_id": "61688337",
+    "case_name": "Skot Heckman v. Live Nation Entertainment, Inc.",
+    "court_id": "cacd",
+    "date_filed": "2022-01-04",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "096_61688337_Skot_Heckman_v_Live_Nation_Entertainment_Inc"
+  },
+  {
+    "rank": 97,
+    "docket_id": "6155447",
+    "case_name": "North American Soccer League, LLC v. United States Soccer Federation, Inc.",
+    "court_id": "nyed",
+    "date_filed": "2017-09-19",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "097_6155447_North_American_Soccer_League_LLC_v_United_States_S"
+  },
+  {
+    "rank": 98,
+    "docket_id": "63212648",
+    "case_name": "Othart Dairy Farms, LLC v. Dairy Farmers Of America, Inc.",
+    "court_id": "nmd",
+    "date_filed": "2022-04-04",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 5,
+      "has_scotus": false
+    },
+    "folder": "098_63212648_Othart_Dairy_Farms_LLC_v_Dairy_Farmers_Of_America_"
+  },
+  {
+    "rank": 99,
+    "docket_id": "18582654",
+    "case_name": "American Spirit and Cheer Essentials, Inc. v. Varsity Brands, LLC",
+    "court_id": "tnwd",
+    "date_filed": "2020-10-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "099_18582654_American_Spirit_and_Cheer_Essentials_Inc_v_Varsity"
+  },
+  {
+    "rank": 100,
+    "docket_id": "6088938",
+    "case_name": "Haff Poultry, Inc. v. Pilgrim Pride Corporation",
+    "court_id": "oked",
+    "date_filed": "2017-01-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "100_6088938_Haff_Poultry_Inc_v_Pilgrim_Pride_Corporation"
+  }
+]

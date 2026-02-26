@@ -1,0 +1,31 @@
+{
+  "id": "64895603",
+  "case_name": "United States Securities and Exchange Commission v. Dragonchain Inc",
+  "case_name_full": "",
+  "docket_number": "2:22-cv-01145",
+  "docket_number_core": "2201145",
+  "court_id": "wawd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2022-08-16",
+  "date_terminated": "2025-04-25",
+  "date_last_filing": "2025-04-25",
+  "assigned_to_str": "Jamal N. Whitehead",
+  "referred_to_str": "",
+  "pacer_case_id": "312863",
+  "source": "1",
+  "slug": "united-states-securities-and-exchange-commission-v-dragonchain-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 57,
+  "_nos_category": "securities"
+}

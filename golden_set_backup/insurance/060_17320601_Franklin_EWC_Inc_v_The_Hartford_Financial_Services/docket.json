@@ -1,0 +1,31 @@
+{
+  "id": "17320601",
+  "case_name": "Franklin EWC, Inc. v. The Hartford Financial Services Group, Inc.",
+  "case_name_full": "",
+  "docket_number": "3:20-cv-04434",
+  "docket_number_core": "2004434",
+  "court_id": "cand",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2020-07-02",
+  "date_terminated": "2020-12-14",
+  "date_last_filing": "2020-12-14",
+  "assigned_to_str": "Jacqueline Scott Corley",
+  "referred_to_str": "",
+  "pacer_case_id": "361931",
+  "source": "1",
+  "slug": "franklin-ewc-inc-v-the-hartford-financial-services-group-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 60,
+  "_nos_category": "insurance"
+}

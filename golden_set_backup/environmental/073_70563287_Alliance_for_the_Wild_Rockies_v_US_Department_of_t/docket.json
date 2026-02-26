@@ -1,0 +1,31 @@
+{
+  "id": "70563287",
+  "case_name": "Alliance for the Wild Rockies v. U.S. Department of the Interior",
+  "case_name_full": "",
+  "docket_number": "6:25-cv-00045",
+  "docket_number_core": "2500045",
+  "court_id": "mtd",
+  "nature_of_suit": "Environmental Matters",
+  "cause": "42:4321 Review of Agency Action-Environment",
+  "jurisdiction_type": "",
+  "date_filed": "2025-06-17",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-30",
+  "assigned_to_str": "John Johnston",
+  "referred_to_str": "",
+  "pacer_case_id": "81166",
+  "source": "1",
+  "slug": "alliance-for-the-wild-rockies-v-us-department-of-the-interior",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 73,
+  "_nos_category": "environmental"
+}

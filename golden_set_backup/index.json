@@ -1,0 +1,85 @@
+{
+  "created_at": "2026-02-26T20:27:38.059119",
+  "top_n_per_category": 100,
+  "scoring_formula": "published*10 + unpublished*2 + citations*5 + scotus*100",
+  "categories": {
+    "insurance": {
+      "nos_code": "110",
+      "total_with_opinions": 16527,
+      "top_n_saved": 100,
+      "top_score": 75,
+      "cutoff_score": 0
+    },
+    "stockholders": {
+      "nos_code": "160",
+      "total_with_opinions": 501,
+      "top_n_saved": 100,
+      "top_score": 0,
+      "cutoff_score": 0
+    },
+    "other_contract": {
+      "nos_code": "190",
+      "total_with_opinions": 5664,
+      "top_n_saved": 100,
+      "top_score": 45,
+      "cutoff_score": 0
+    },
+    "antitrust": {
+      "nos_code": "410",
+      "total_with_opinions": 566,
+      "top_n_saved": 100,
+      "top_score": 0,
+      "cutoff_score": 0
+    },
+    "banks": {
+      "nos_code": "430",
+      "total_with_opinions": 417,
+      "top_n_saved": 100,
+      "top_score": 0,
+      "cutoff_score": 0
+    },
+    "rico": {
+      "nos_code": "470",
+      "total_with_opinions": 764,
+      "top_n_saved": 100,
+      "top_score": 0,
+      "cutoff_score": 0
+    },
+    "patent": {
+      "nos_code": "830",
+      "total_with_opinions": 4241,
+      "top_n_saved": 100,
+      "top_score": 270,
+      "cutoff_score": 0
+    },
+    "trademark": {
+      "nos_code": "840",
+      "total_with_opinions": 4133,
+      "top_n_saved": 100,
+      "top_score": 0,
+      "cutoff_score": 0
+    },
+    "securities": {
+      "nos_code": "850",
+      "total_with_opinions": 2504,
+      "top_n_saved": 100,
+      "top_score": 60,
+      "cutoff_score": 0
+    },
+    "trade_secret": {
+      "nos_code": "880",
+      "total_with_opinions": 1072,
+      "top_n_saved": 100,
+      "top_score": 0,
+      "cutoff_score": 0
+    },
+    "environmental": {
+      "nos_code": "893",
+      "total_with_opinions": 974,
+      "top_n_saved": 100,
+      "top_score": 0,
+      "cutoff_score": 0
+    }
+  },
+  "total_golden_cases": 1100
+}

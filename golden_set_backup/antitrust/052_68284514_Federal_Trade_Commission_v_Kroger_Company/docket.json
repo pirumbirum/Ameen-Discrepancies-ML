@@ -1,0 +1,31 @@
+{
+  "id": "68284514",
+  "case_name": "Federal Trade Commission v. Kroger Company",
+  "case_name_full": "",
+  "docket_number": "3:24-cv-00347",
+  "docket_number_core": "2400347",
+  "court_id": "ord",
+  "nature_of_suit": "410 Antitrust",
+  "cause": "15:0045 Federal Trade Commission Act",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2024-02-26",
+  "date_terminated": "",
+  "date_last_filing": "2025-11-20",
+  "assigned_to_str": "Adrienne Nelson",
+  "referred_to_str": "",
+  "pacer_case_id": "178374",
+  "source": "1",
+  "slug": "federal-trade-commission-v-kroger-company",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 4,
+    "has_scotus": false
+  },
+  "_rank_in_category": 52,
+  "_nos_category": "antitrust"
+}

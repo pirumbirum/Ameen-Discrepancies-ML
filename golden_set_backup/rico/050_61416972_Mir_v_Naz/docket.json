@@ -1,0 +1,31 @@
+{
+  "id": "61416972",
+  "case_name": "Mir v. Naz",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-06340",
+  "docket_number_core": "2106340",
+  "court_id": "nyed",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "18:1961 Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-11-15",
+  "date_terminated": "2021-12-06",
+  "date_last_filing": "2021-12-06",
+  "assigned_to_str": "Margo K. Brodie",
+  "referred_to_str": "Ramon E. Reyes, Jr",
+  "pacer_case_id": "472094",
+  "source": "1",
+  "slug": "mir-v-naz",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 50,
+  "_nos_category": "rico"
+}

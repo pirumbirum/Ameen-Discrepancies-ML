@@ -1,0 +1,31 @@
+{
+  "id": "69122743",
+  "case_name": "Mobility Workx, LLC v. Ericsson, Inc.",
+  "case_name_full": "",
+  "docket_number": "4:24-cv-00796",
+  "docket_number_core": "2400796",
+  "court_id": "txed",
+  "nature_of_suit": "830 Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-09-02",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-08",
+  "assigned_to_str": "Amos L. Mazzant",
+  "referred_to_str": "",
+  "pacer_case_id": "232663",
+  "source": "1",
+  "slug": "mobility-workx-llc-v-ericsson-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 48,
+  "_nos_category": "patent"
+}

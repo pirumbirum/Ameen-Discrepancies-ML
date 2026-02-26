@@ -1,0 +1,31 @@
+{
+  "id": "68545676",
+  "case_name": "ATX Networks (Toronto) Corp. v. Technetix, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:24-cv-01391",
+  "docket_number_core": "2401391",
+  "court_id": "cod",
+  "nature_of_suit": "830 Patent",
+  "cause": "35:0001  Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-05-17",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-11",
+  "assigned_to_str": "S. Kato Crews",
+  "referred_to_str": "Kathryn A. Starnella",
+  "pacer_case_id": "234173",
+  "source": "1",
+  "slug": "atx-networks-toronto-corp-v-technetix-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 3,
+    "has_scotus": false
+  },
+  "_rank_in_category": 83,
+  "_nos_category": "patent"
+}

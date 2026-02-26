@@ -1,0 +1,31 @@
+{
+  "id": "65209978",
+  "case_name": "Lane v. Security National Mortgage Company",
+  "case_name_full": "",
+  "docket_number": "2:22-cv-00565",
+  "docket_number_core": "2200565",
+  "court_id": "flmd",
+  "nature_of_suit": "Banks and Banking",
+  "cause": "42:3601 Fair Housing Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-09-08",
+  "date_terminated": "2023-11-06",
+  "date_last_filing": "2023-11-06",
+  "assigned_to_str": "Sheri Polster Chappell",
+  "referred_to_str": "Nicholas P. Mizell",
+  "pacer_case_id": "405563",
+  "source": "1",
+  "slug": "lane-v-security-national-mortgage-company",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 12,
+  "_nos_category": "banks"
+}

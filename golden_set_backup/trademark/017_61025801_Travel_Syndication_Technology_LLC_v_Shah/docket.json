@@ -1,0 +1,31 @@
+{
+  "id": "61025801",
+  "case_name": "Travel Syndication Technology, LLC v. Shah",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-03894",
+  "docket_number_core": "2103894",
+  "court_id": "gand",
+  "nature_of_suit": "840 Trademark",
+  "cause": "28:1338 Trademark Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-09-21",
+  "date_terminated": "2023-02-01",
+  "date_last_filing": "2023-02-01",
+  "assigned_to_str": "J. P. Boulee",
+  "referred_to_str": "",
+  "pacer_case_id": "294840",
+  "source": "1",
+  "slug": "travel-syndication-technology-llc-v-shah",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 17,
+  "_nos_category": "trademark"
+}

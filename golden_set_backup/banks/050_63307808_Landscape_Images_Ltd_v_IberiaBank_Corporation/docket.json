@@ -1,0 +1,31 @@
+{
+  "id": "63307808",
+  "case_name": "Landscape Images Ltd. v. IberiaBank Corporation",
+  "case_name_full": "",
+  "docket_number": "2:22-cv-01324",
+  "docket_number_core": "2201324",
+  "court_id": "laed",
+  "nature_of_suit": "Banks and Banking",
+  "cause": "15:1691 Equal Credit Opportunity Act",
+  "jurisdiction_type": "",
+  "date_filed": "2022-05-12",
+  "date_terminated": "2024-02-21",
+  "date_last_filing": "2024-11-13",
+  "assigned_to_str": "Wendy B Vitter",
+  "referred_to_str": "Karen Wells Roby",
+  "pacer_case_id": "253853",
+  "source": "1",
+  "slug": "landscape-images-ltd-v-iberiabank-corporation",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 50,
+  "_nos_category": "banks"
+}

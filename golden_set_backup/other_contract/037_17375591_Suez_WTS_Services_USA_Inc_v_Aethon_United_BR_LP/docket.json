@@ -1,0 +1,31 @@
+{
+  "id": "17375591",
+  "case_name": "Suez WTS Services USA, Inc. v. Aethon United BR LP",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-02129",
+  "docket_number_core": "2002129",
+  "court_id": "cod",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1332 Diversity-Declaratory Judgment",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2020-07-20",
+  "date_terminated": "2021-04-23",
+  "date_last_filing": "2021-04-22",
+  "assigned_to_str": "William J. Martinez",
+  "referred_to_str": "N. Reid Neureiter",
+  "pacer_case_id": "199255",
+  "source": "1",
+  "slug": "suez-wts-services-usa-inc-v-aethon-united-br-lp",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 37,
+  "_nos_category": "other_contract"
+}

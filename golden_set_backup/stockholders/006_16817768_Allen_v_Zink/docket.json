@@ -1,0 +1,31 @@
+{
+  "id": "16817768",
+  "case_name": "Allen v. Zink",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-00045",
+  "docket_number_core": "2000045",
+  "court_id": "txed",
+  "nature_of_suit": "Stockholders Suits",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity of citizenship",
+  "date_filed": "2020-02-06",
+  "date_terminated": "2021-03-26",
+  "date_last_filing": "2021-03-26",
+  "assigned_to_str": "Michael J. Truncale",
+  "referred_to_str": "Zack Hawthorn",
+  "pacer_case_id": "195439",
+  "source": "9",
+  "slug": "allen-v-zink",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 6,
+  "_nos_category": "stockholders"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "68866741",
+  "case_name": "Text My Gov, Inc. v. UpAhead, LLC",
+  "case_name_full": "",
+  "docket_number": "1:24-cv-00107",
+  "docket_number_core": "2400107",
+  "court_id": "utd",
+  "nature_of_suit": "Defend Trade Secrets Act (of 2016)",
+  "cause": "18:1836(b) - Civil Action to Protect Trade Secrets",
+  "jurisdiction_type": "",
+  "date_filed": "2024-06-18",
+  "date_terminated": "",
+  "date_last_filing": "2025-11-24",
+  "assigned_to_str": "David Barlow",
+  "referred_to_str": "Daphne A. Oberg",
+  "pacer_case_id": "148956",
+  "source": "1",
+  "slug": "text-my-gov-inc-v-upahead-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 20,
+  "_nos_category": "trade_secret"
+}

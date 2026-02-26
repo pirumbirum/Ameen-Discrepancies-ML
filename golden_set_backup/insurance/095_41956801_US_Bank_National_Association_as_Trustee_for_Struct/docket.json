@@ -1,0 +1,31 @@
+{
+  "id": "41956801",
+  "case_name": "U.S. Bank National Association, as Trustee for Structured Asset Investment Loan Trust v. Fidelity National Title Group, Inc.",
+  "case_name_full": "",
+  "docket_number": "2:21-cv-00127",
+  "docket_number_core": "2100127",
+  "court_id": "nvd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "",
+  "date_filed": "2021-01-24",
+  "date_terminated": "2022-11-14",
+  "date_last_filing": "2022-11-14",
+  "assigned_to_str": "Cristina D. Silva",
+  "referred_to_str": "Elayna J. Youchah",
+  "pacer_case_id": "148166",
+  "source": "1",
+  "slug": "us-bank-national-association-as-trustee-for-structured-asset-investment",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 95,
+  "_nos_category": "insurance"
+}

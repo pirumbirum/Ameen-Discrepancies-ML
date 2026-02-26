@@ -1,0 +1,31 @@
+{
+  "id": "59677904",
+  "case_name": "CTI Development, LLC v. Citigroup Inc.",
+  "case_name_full": "",
+  "docket_number": "3:21-cv-00207",
+  "docket_number_core": "2100207",
+  "court_id": "ilsd",
+  "nature_of_suit": "Environmental Matters",
+  "cause": "42:9607 Real Property Tort to Land",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-02-23",
+  "date_terminated": "",
+  "date_last_filing": "2025-03-20",
+  "assigned_to_str": "",
+  "referred_to_str": "",
+  "pacer_case_id": "86944",
+  "source": "1",
+  "slug": "cti-development-llc-v-citigroup-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 12,
+  "_nos_category": "environmental"
+}

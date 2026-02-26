@@ -1,0 +1,31 @@
+{
+  "id": "69217766",
+  "case_name": "2311 Racing LLC v. National Association for Stock Car Auto Racing, LLC",
+  "case_name_full": "",
+  "docket_number": "3:24-cv-00886",
+  "docket_number_core": "2400886",
+  "court_id": "ncwd",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "15:1 Antitrust Litigation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-10-02",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-15",
+  "assigned_to_str": "Kenneth D. Bell",
+  "referred_to_str": "Susan C. Rodriguez",
+  "pacer_case_id": "117501",
+  "source": "1",
+  "slug": "2311-racing-llc-v-national-association-for-stock-car-auto-racing-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 7,
+  "_nos_category": "antitrust"
+}

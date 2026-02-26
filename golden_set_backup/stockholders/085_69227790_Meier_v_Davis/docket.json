@@ -1,0 +1,31 @@
+{
+  "id": "69227790",
+  "case_name": "Meier v. Davis",
+  "case_name_full": "",
+  "docket_number": "1:24-cv-01192",
+  "docket_number_core": "2401192",
+  "court_id": "caed",
+  "nature_of_suit": "Stockholders Suits",
+  "cause": "28:1332 Diversity-Breach of Fiduciary Duty",
+  "jurisdiction_type": "",
+  "date_filed": "2024-10-02",
+  "date_terminated": "2025-02-11",
+  "date_last_filing": "2025-02-11",
+  "assigned_to_str": "Kirk E. Sherriff",
+  "referred_to_str": "Sheila K. Oberto",
+  "pacer_case_id": "453862",
+  "source": "1",
+  "slug": "meier-v-davis",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 85,
+  "_nos_category": "stockholders"
+}

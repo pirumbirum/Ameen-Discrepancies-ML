@@ -1,0 +1,31 @@
+{
+  "id": "66770128",
+  "case_name": "Palladino v. JPMorgan Chase & Co.",
+  "case_name_full": "",
+  "docket_number": "4:23-cv-00423",
+  "docket_number_core": "2300423",
+  "court_id": "cand",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "28:1332 Diversity-Petition for Removal",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-01-30",
+  "date_terminated": "2023-02-10",
+  "date_last_filing": "2023-02-15",
+  "assigned_to_str": "Donna M. Ryu",
+  "referred_to_str": "",
+  "pacer_case_id": "407692",
+  "source": "1",
+  "slug": "palladino-v-jpmorgan-chase-co",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 77,
+  "_nos_category": "antitrust"
+}

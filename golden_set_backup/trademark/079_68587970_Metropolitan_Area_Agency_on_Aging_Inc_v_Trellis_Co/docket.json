@@ -1,0 +1,31 @@
+{
+  "id": "68587970",
+  "case_name": "Metropolitan Area Agency on Aging, Inc. v. Trellis Co.",
+  "case_name_full": "",
+  "docket_number": "0:24-cv-01854",
+  "docket_number_core": "2401854",
+  "court_id": "mnd",
+  "nature_of_suit": "Trademark",
+  "cause": "28:2201 Declaratory Judgment",
+  "jurisdiction_type": "",
+  "date_filed": "2024-05-20",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-10",
+  "assigned_to_str": "Donovan W. Frank",
+  "referred_to_str": "Shannon G. Elkins",
+  "pacer_case_id": "215514",
+  "source": "1",
+  "slug": "metropolitan-area-agency-on-aging-inc-v-trellis-co",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 79,
+  "_nos_category": "trademark"
+}

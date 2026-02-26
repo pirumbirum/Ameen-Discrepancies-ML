@@ -1,0 +1,31 @@
+{
+  "id": "58800545",
+  "case_name": "605 Fifth Property Owner, LLC v. Abasic, S.A.",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-00811",
+  "docket_number_core": "2100811",
+  "court_id": "nysd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1332 Diversity Action",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2021-01-29",
+  "date_terminated": "2022-04-27",
+  "date_last_filing": "2023-08-29",
+  "assigned_to_str": "Denise L. Cote",
+  "referred_to_str": "",
+  "pacer_case_id": "553288",
+  "source": "1",
+  "slug": "605-fifth-property-owner-llc-v-abasic-sa",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 5,
+    "has_scotus": false
+  },
+  "_rank_in_category": 76,
+  "_nos_category": "other_contract"
+}

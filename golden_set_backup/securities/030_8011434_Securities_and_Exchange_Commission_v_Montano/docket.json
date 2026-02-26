@@ -1,0 +1,31 @@
+{
+  "id": "8011434",
+  "case_name": "Securities and Exchange Commission v. Montano",
+  "case_name_full": "",
+  "docket_number": "6:18-cv-01606",
+  "docket_number_core": "1801606",
+  "court_id": "flmd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:0078m(a) Securities Exchange Act",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2018-09-27",
+  "date_terminated": "2022-01-18",
+  "date_last_filing": "2023-07-21",
+  "assigned_to_str": "Gregory A. Presnell",
+  "referred_to_str": "Embry J. Kidd",
+  "pacer_case_id": "355207",
+  "source": "9",
+  "slug": "securities-and-exchange-commission-v-montano",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 30,
+  "_nos_category": "securities"
+}

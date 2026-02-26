@@ -1,0 +1,31 @@
+{
+  "id": "65966802",
+  "case_name": "Dimensional Certification, Inc. v. Axis Mechanical Group, Inc.",
+  "case_name_full": "",
+  "docket_number": "4:22-cv-12864",
+  "docket_number_core": "2212864",
+  "court_id": "mied",
+  "nature_of_suit": "Stockholders Suits",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "",
+  "date_filed": "2022-11-25",
+  "date_terminated": "2024-12-06",
+  "date_last_filing": "2024-12-06",
+  "assigned_to_str": "Curtis Ivy, Jr",
+  "referred_to_str": "",
+  "pacer_case_id": "366120",
+  "source": "1",
+  "slug": "dimensional-certification-inc-v-axis-mechanical-group-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 26,
+  "_nos_category": "stockholders"
+}

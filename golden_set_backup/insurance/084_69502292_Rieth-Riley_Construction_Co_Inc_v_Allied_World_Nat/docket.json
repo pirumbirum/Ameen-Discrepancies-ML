@@ -1,0 +1,31 @@
+{
+  "id": "69502292",
+  "case_name": "Rieth-Riley Construction Co., Inc. v. Allied World National Assurance Company",
+  "case_name_full": "",
+  "docket_number": "3:24-cv-01008",
+  "docket_number_core": "2401008",
+  "court_id": "innd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "",
+  "date_filed": "2024-12-27",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-19",
+  "assigned_to_str": "Damon R Leichty",
+  "referred_to_str": "Scott J Frankel",
+  "pacer_case_id": "120993",
+  "source": "1",
+  "slug": "rieth-riley-construction-co-inc-v-allied-world-national-assurance",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 84,
+  "_nos_category": "insurance"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "70344538",
+  "case_name": "Financial Recovery Services, Inc. v. Doe",
+  "case_name_full": "",
+  "docket_number": "0:25-cv-02209",
+  "docket_number_core": "2502209",
+  "court_id": "mnd",
+  "nature_of_suit": "840 Trademark",
+  "cause": "15:44 Trademark Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2025-05-22",
+  "date_terminated": "2025-11-04",
+  "date_last_filing": "2025-11-04",
+  "assigned_to_str": "Laura M. Provinzino",
+  "referred_to_str": "Dulce J. Foster",
+  "pacer_case_id": "225389",
+  "source": "1",
+  "slug": "financial-recovery-services-inc-v-doe",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 52,
+  "_nos_category": "trademark"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "67169565",
+  "case_name": "Anderson v. Corizon Health Services",
+  "case_name_full": "",
+  "docket_number": "4:23-cv-00453",
+  "docket_number_core": "2300453",
+  "court_id": "moed",
+  "nature_of_suit": "Banks and Banking",
+  "cause": "42:1983 Prisoner Civil Rights",
+  "jurisdiction_type": "",
+  "date_filed": "2023-04-10",
+  "date_terminated": "2023-09-18",
+  "date_last_filing": "2024-09-12",
+  "assigned_to_str": "Stephen R. Clark",
+  "referred_to_str": "",
+  "pacer_case_id": "202326",
+  "source": "1",
+  "slug": "anderson-v-corizon-health-services",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 33,
+  "_nos_category": "banks"
+}

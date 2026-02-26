@@ -1,0 +1,31 @@
+{
+  "id": "15745722",
+  "case_name": "General Electric Company v. Lighting Science Group Corporation",
+  "case_name_full": "",
+  "docket_number": "1:19-cv-05365",
+  "docket_number_core": "1905365",
+  "court_id": "nysd",
+  "nature_of_suit": "Patent",
+  "cause": "35:0001 Establishment of PTO",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-06-07",
+  "date_terminated": "2019-08-01",
+  "date_last_filing": "2019-08-02",
+  "assigned_to_str": "Denise L. Cote",
+  "referred_to_str": "",
+  "pacer_case_id": "517211",
+  "source": "9",
+  "slug": "general-electric-company-v-lighting-science-group-corporation",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 71,
+  "_nos_category": "patent"
+}

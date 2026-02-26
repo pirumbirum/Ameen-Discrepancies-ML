@@ -1,0 +1,31 @@
+{
+  "id": "66812768",
+  "case_name": "Oil States Energy Services, LLC v. Worldwide Oilfield Machine, Inc.",
+  "case_name_full": "",
+  "docket_number": "4:23-cv-00557",
+  "docket_number_core": "2300557",
+  "court_id": "txsd",
+  "nature_of_suit": "Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "",
+  "date_filed": "2023-02-14",
+  "date_terminated": "2024-12-19",
+  "date_last_filing": "2025-09-23",
+  "assigned_to_str": "Keith P Ellison",
+  "referred_to_str": "Peter Bray",
+  "pacer_case_id": "1905887",
+  "source": "1",
+  "slug": "oil-states-energy-services-llc-v-worldwide-oilfield-machine-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 3,
+  "_nos_category": "patent"
+}

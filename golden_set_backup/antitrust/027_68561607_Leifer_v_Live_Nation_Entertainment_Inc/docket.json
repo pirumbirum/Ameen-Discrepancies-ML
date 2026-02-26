@@ -1,0 +1,31 @@
+{
+  "id": "68561607",
+  "case_name": "Leifer v. Live Nation Entertainment, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:24-cv-03994",
+  "docket_number_core": "2403994",
+  "court_id": "nysd",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "15:1 Antitrust Litigation (Monopolizing Trade)",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-05-23",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-22",
+  "assigned_to_str": "Arun Subramanian",
+  "referred_to_str": "",
+  "pacer_case_id": "622052",
+  "source": "1",
+  "slug": "leifer-v-live-nation-entertainment-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 27,
+  "_nos_category": "antitrust"
+}

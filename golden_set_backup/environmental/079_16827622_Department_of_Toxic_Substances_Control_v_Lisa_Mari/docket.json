@@ -1,0 +1,31 @@
+{
+  "id": "16827622",
+  "case_name": "Department of Toxic Substances Control v. Lisa Marie Rossi, an individual",
+  "case_name_full": "",
+  "docket_number": "3:20-cv-01049",
+  "docket_number_core": "2001049",
+  "court_id": "cand",
+  "nature_of_suit": "893 Environmental Matters",
+  "cause": "42:9601 CERCLA",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-02-10",
+  "date_terminated": "2023-04-24",
+  "date_last_filing": "2025-12-26",
+  "assigned_to_str": "Vince Chhabria",
+  "referred_to_str": "Robert M. Illman",
+  "pacer_case_id": "355277",
+  "source": "9",
+  "slug": "department-of-toxic-substances-control-v-lisa-marie-rossi-an-individual",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 4,
+    "has_scotus": false
+  },
+  "_rank_in_category": 79,
+  "_nos_category": "environmental"
+}

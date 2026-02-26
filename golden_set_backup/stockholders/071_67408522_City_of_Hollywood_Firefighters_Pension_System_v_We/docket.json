@@ -1,0 +1,31 @@
+{
+  "id": "67408522",
+  "case_name": "City of Hollywood Firefighters' Pension System v. Wells Fargo & Company",
+  "case_name_full": "",
+  "docket_number": "4:23-cv-02445",
+  "docket_number_core": "2302445",
+  "court_id": "cand",
+  "nature_of_suit": "Stockholders Suits",
+  "cause": "Civil Miscellaneous Case",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2023-05-19",
+  "date_terminated": "",
+  "date_last_filing": "2025-08-05",
+  "assigned_to_str": "Jon S. Tigar",
+  "referred_to_str": "",
+  "pacer_case_id": "412897",
+  "source": "1",
+  "slug": "city-of-hollywood-firefighters-pension-system-v-wells-fargo-company",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 3,
+    "has_scotus": false
+  },
+  "_rank_in_category": 71,
+  "_nos_category": "stockholders"
+}

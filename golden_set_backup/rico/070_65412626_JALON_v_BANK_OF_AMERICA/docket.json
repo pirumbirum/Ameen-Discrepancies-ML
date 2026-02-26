@@ -1,0 +1,31 @@
+{
+  "id": "65412626",
+  "case_name": "JALON v. BANK OF AMERICA",
+  "case_name_full": "",
+  "docket_number": "2:22-cv-04039",
+  "docket_number_core": "2204039",
+  "court_id": "paed",
+  "nature_of_suit": "470 Other Statutes: Racketeer/Corrupt Organization",
+  "cause": "18:1961 Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-10-10",
+  "date_terminated": "2024-09-30",
+  "date_last_filing": "2025-04-25",
+  "assigned_to_str": "Kai N. Scott",
+  "referred_to_str": "",
+  "pacer_case_id": "601649",
+  "source": "1",
+  "slug": "jalon-v-bank-of-america",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 70,
+  "_nos_category": "rico"
+}

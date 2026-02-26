@@ -1,0 +1,31 @@
+{
+  "id": "70273465",
+  "case_name": "Chang v. Citibank",
+  "case_name_full": "",
+  "docket_number": "4:25-cv-04162",
+  "docket_number_core": "2504162",
+  "court_id": "cand",
+  "nature_of_suit": "430 Banks and Banking",
+  "cause": "28:1332 Diversity-Account Receivable",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2025-05-14",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-10",
+  "assigned_to_str": "Jon S. Tigar",
+  "referred_to_str": "",
+  "pacer_case_id": "449622",
+  "source": "1",
+  "slug": "chang-v-citibank",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 25,
+  "_nos_category": "banks"
+}

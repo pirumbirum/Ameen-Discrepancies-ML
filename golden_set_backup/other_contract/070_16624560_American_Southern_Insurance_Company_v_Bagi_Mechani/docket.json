@@ -1,0 +1,31 @@
+{
+  "id": "16624560",
+  "case_name": "American Southern Insurance Company v. Bagi Mechanical, LLC",
+  "case_name_full": "",
+  "docket_number": "1:19-cv-03633",
+  "docket_number_core": "1903633",
+  "court_id": "cod",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2019-12-20",
+  "date_terminated": "2020-06-08",
+  "date_last_filing": "2020-06-08",
+  "assigned_to_str": "Raymond P. Moore",
+  "referred_to_str": "Michael E. Hegarty",
+  "pacer_case_id": "194308",
+  "source": "9",
+  "slug": "american-southern-insurance-company-v-bagi-mechanical-llc",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 70,
+  "_nos_category": "other_contract"
+}

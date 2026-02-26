@@ -1,0 +1,31 @@
+{
+  "id": "61597871",
+  "case_name": "Chesapeake Bay Foundation Inc. v. County Of Henrico",
+  "case_name_full": "",
+  "docket_number": "3:21-cv-00752",
+  "docket_number_core": "2100752",
+  "court_id": "vaed",
+  "nature_of_suit": "893 Environmental Matters",
+  "cause": "33:1319 Pollutants & Permit Violations",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-12-06",
+  "date_terminated": "2023-02-28",
+  "date_last_filing": "2023-02-28",
+  "assigned_to_str": "David J. Novak",
+  "referred_to_str": "Mark R. Colombell",
+  "pacer_case_id": "517316",
+  "source": "1",
+  "slug": "chesapeake-bay-foundation-inc-v-county-of-henrico",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 60,
+  "_nos_category": "environmental"
+}

@@ -1,0 +1,1702 @@
+[
+  {
+    "rank": 1,
+    "docket_id": "16408805",
+    "case_name": "Hugunin v. J.P. Morgan Chase Bank, N.A.",
+    "court_id": "idd",
+    "date_filed": "2019-10-31",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "001_16408805_Hugunin_v_JP_Morgan_Chase_Bank_NA"
+  },
+  {
+    "rank": 2,
+    "docket_id": "67785096",
+    "case_name": "Morton v. Wells Fargo",
+    "court_id": "scd",
+    "date_filed": "2023-09-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "002_67785096_Morton_v_Wells_Fargo"
+  },
+  {
+    "rank": 3,
+    "docket_id": "65748851",
+    "case_name": "Georgion v. Bank of America Corporation",
+    "court_id": "ncwd",
+    "date_filed": "2022-11-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "003_65748851_Georgion_v_Bank_of_America_Corporation"
+  },
+  {
+    "rank": 4,
+    "docket_id": "17105933",
+    "case_name": "Sachs v. Citizens Financial Group, Inc.",
+    "court_id": "ctd",
+    "date_filed": "2020-04-28",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "004_17105933_Sachs_v_Citizens_Financial_Group_Inc"
+  },
+  {
+    "rank": 5,
+    "docket_id": "17458159",
+    "case_name": "Patten v. Lown",
+    "court_id": "flmd",
+    "date_filed": "2020-08-18",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "005_17458159_Patten_v_Lown"
+  },
+  {
+    "rank": 6,
+    "docket_id": "70565472",
+    "case_name": "Brown v. Zenith International Bank PLC",
+    "court_id": "txnd",
+    "date_filed": "2025-06-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "006_70565472_Brown_v_Zenith_International_Bank_PLC"
+  },
+  {
+    "rank": 7,
+    "docket_id": "62980853",
+    "case_name": "Boyd v. Bank of America, N.A.",
+    "court_id": "caed",
+    "date_filed": "2022-02-04",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "007_62980853_Boyd_v_Bank_of_America_NA"
+  },
+  {
+    "rank": 8,
+    "docket_id": "48831177",
+    "case_name": "Swanson v. PNC Bank N.A.",
+    "court_id": "ilnd",
+    "date_filed": "2020-10-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "008_48831177_Swanson_v_PNC_Bank_NA"
+  },
+  {
+    "rank": 9,
+    "docket_id": "17158235",
+    "case_name": "Graves v. NW Priority Credit Union",
+    "court_id": "ord",
+    "date_filed": "2020-05-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "009_17158235_Graves_v_NW_Priority_Credit_Union"
+  },
+  {
+    "rank": 10,
+    "docket_id": "68861138",
+    "case_name": "RICE v. WELLS FARGO BANK, NATIONAL ASSOCIATION",
+    "court_id": "paed",
+    "date_filed": "2024-06-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "010_68861138_RICE_v_WELLS_FARGO_BANK_NATIONAL_ASSOCIATION"
+  },
+  {
+    "rank": 11,
+    "docket_id": "71019544",
+    "case_name": "Marie Gutierrez v. Affirm, Inc.",
+    "court_id": "cacd",
+    "date_filed": "2025-08-04",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "011_71019544_Marie_Gutierrez_v_Affirm_Inc"
+  },
+  {
+    "rank": 12,
+    "docket_id": "65209978",
+    "case_name": "Lane v. Security National Mortgage Company",
+    "court_id": "flmd",
+    "date_filed": "2022-09-08",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "012_65209978_Lane_v_Security_National_Mortgage_Company"
+  },
+  {
+    "rank": 13,
+    "docket_id": "70004068",
+    "case_name": "Matthew Kenney v. Fifth Third Bancorp",
+    "court_id": "nysd",
+    "date_filed": "2025-04-30",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "013_70004068_Matthew_Kenney_v_Fifth_Third_Bancorp"
+  },
+  {
+    "rank": 14,
+    "docket_id": "6347853",
+    "case_name": "Federal Deposit Insurance Corporation v. Crowe Horwath LLP",
+    "court_id": "ilnd",
+    "date_filed": "2017-06-09",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "014_6347853_Federal_Deposit_Insurance_Corporation_v_Crowe_Horw"
+  },
+  {
+    "rank": 15,
+    "docket_id": "71137427",
+    "case_name": "Williams v. TD Bank, N.A.",
+    "court_id": "nysd",
+    "date_filed": "2025-08-15",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "015_71137427_Williams_v_TD_Bank_NA"
+  },
+  {
+    "rank": 16,
+    "docket_id": "65597599",
+    "case_name": "Savvidis v. Bank of America NA",
+    "court_id": "nysd",
+    "date_filed": "2022-10-18",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "016_65597599_Savvidis_v_Bank_of_America_NA"
+  },
+  {
+    "rank": 17,
+    "docket_id": "65592737",
+    "case_name": "Copple v. Southern Bank of Tennessee",
+    "court_id": "tnmd",
+    "date_filed": "2022-09-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "017_65592737_Copple_v_Southern_Bank_of_Tennessee"
+  },
+  {
+    "rank": 18,
+    "docket_id": "65640681",
+    "case_name": "Pacmoore Products, Inc. v. Fifth Third Bank",
+    "court_id": "ilnd",
+    "date_filed": "2022-10-26",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "018_65640681_Pacmoore_Products_Inc_v_Fifth_Third_Bank"
+  },
+  {
+    "rank": 19,
+    "docket_id": "68211362",
+    "case_name": "Pak v. JP Morgan Chase Bank N.A.",
+    "court_id": "cod",
+    "date_filed": "2024-01-31",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "019_68211362_Pak_v_JP_Morgan_Chase_Bank_NA"
+  },
+  {
+    "rank": 20,
+    "docket_id": "51763760",
+    "case_name": "McClain v. Wells Fargo Bank, N.A.",
+    "court_id": "mdd",
+    "date_filed": "2020-07-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "020_51763760_McClain_v_Wells_Fargo_Bank_NA"
+  },
+  {
+    "rank": 21,
+    "docket_id": "51850933",
+    "case_name": "Moyer v. Mr. Cooper Group, Inc.",
+    "court_id": "mdd",
+    "date_filed": "2020-11-25",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "021_51850933_Moyer_v_Mr_Cooper_Group_Inc"
+  },
+  {
+    "rank": 22,
+    "docket_id": "68817580",
+    "case_name": "Alexander v. Bank of America",
+    "court_id": "casd",
+    "date_filed": "2024-05-30",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "022_68817580_Alexander_v_Bank_of_America"
+  },
+  {
+    "rank": 23,
+    "docket_id": "68828037",
+    "case_name": "Alexander v. Chime",
+    "court_id": "casd",
+    "date_filed": "2024-06-03",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "023_68828037_Alexander_v_Chime"
+  },
+  {
+    "rank": 24,
+    "docket_id": "71328484",
+    "case_name": "The People of The State of New York v. Early Warning Services, LLC",
+    "court_id": "nysd",
+    "date_filed": "2025-09-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "024_71328484_The_People_of_The_State_of_New_York_v_Early_Warnin"
+  },
+  {
+    "rank": 25,
+    "docket_id": "70273465",
+    "case_name": "Chang v. Citibank",
+    "court_id": "cand",
+    "date_filed": "2025-05-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "025_70273465_Chang_v_Citibank"
+  },
+  {
+    "rank": 26,
+    "docket_id": "68513714",
+    "case_name": "Bernstein v. JPMORGAN CHASE BANK, N.A.",
+    "court_id": "nysd",
+    "date_filed": "2024-05-08",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "026_68513714_Bernstein_v_JPMORGAN_CHASE_BANK_NA"
+  },
+  {
+    "rank": 27,
+    "docket_id": "69785939",
+    "case_name": "Baldi v. Service Finance Co. LLC",
+    "court_id": "caed",
+    "date_filed": "2025-03-24",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "027_69785939_Baldi_v_Service_Finance_Co_LLC"
+  },
+  {
+    "rank": 28,
+    "docket_id": "68379841",
+    "case_name": "Mongiello v. Indymac Bank, F.S.B.",
+    "court_id": "nysd",
+    "date_filed": "2024-03-25",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 8,
+      "has_scotus": false
+    },
+    "folder": "028_68379841_Mongiello_v_Indymac_Bank_FSB"
+  },
+  {
+    "rank": 29,
+    "docket_id": "51865659",
+    "case_name": "Adeyemi v. SunTrust Banks",
+    "court_id": "mdd",
+    "date_filed": "2020-12-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "029_51865659_Adeyemi_v_SunTrust_Banks"
+  },
+  {
+    "rank": 30,
+    "docket_id": "69634669",
+    "case_name": "Jalalian v. JPMorgan Chase Bank, N.A.",
+    "court_id": "cand",
+    "date_filed": "2025-02-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "030_69634669_Jalalian_v_JPMorgan_Chase_Bank_NA"
+  },
+  {
+    "rank": 31,
+    "docket_id": "66673882",
+    "case_name": "Boushehri v. Citizens Financial Group, Inc.",
+    "court_id": "mied",
+    "date_filed": "2022-12-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "031_66673882_Boushehri_v_Citizens_Financial_Group_Inc"
+  },
+  {
+    "rank": 32,
+    "docket_id": "66692443",
+    "case_name": "Warren v. Cardona",
+    "court_id": "flmd",
+    "date_filed": "2022-12-30",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "032_66692443_Warren_v_Cardona"
+  },
+  {
+    "rank": 33,
+    "docket_id": "67169565",
+    "case_name": "Anderson v. Corizon Health Services",
+    "court_id": "moed",
+    "date_filed": "2023-04-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "033_67169565_Anderson_v_Corizon_Health_Services"
+  },
+  {
+    "rank": 34,
+    "docket_id": "61637062",
+    "case_name": "The Deaconess Associations, Inc. v. Wells Fargo Bank - National Association",
+    "court_id": "ord",
+    "date_filed": "2021-12-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "034_61637062_The_Deaconess_Associations_Inc_v_Wells_Fargo_Bank_"
+  },
+  {
+    "rank": 35,
+    "docket_id": "69657289",
+    "case_name": "Washington v. Bank Of America",
+    "court_id": "cand",
+    "date_filed": "2025-02-18",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "035_69657289_Washington_v_Bank_Of_America"
+  },
+  {
+    "rank": 36,
+    "docket_id": "71092986",
+    "case_name": "Jensen v. Navy Federal Credit Union",
+    "court_id": "azd",
+    "date_filed": "2025-08-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "036_71092986_Jensen_v_Navy_Federal_Credit_Union"
+  },
+  {
+    "rank": 37,
+    "docket_id": "63230272",
+    "case_name": "Padao v. American Express National Bank",
+    "court_id": "nced",
+    "date_filed": "2022-04-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "037_63230272_Padao_v_American_Express_National_Bank"
+  },
+  {
+    "rank": 38,
+    "docket_id": "66573460",
+    "case_name": "Best v. Green Dot Corporation",
+    "court_id": "nced",
+    "date_filed": "2022-11-29",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "038_66573460_Best_v_Green_Dot_Corporation"
+  },
+  {
+    "rank": 39,
+    "docket_id": "59852948",
+    "case_name": "Natour v. BANK OF AMERICA, N.A.",
+    "court_id": "txed",
+    "date_filed": "2021-04-26",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 15,
+      "has_scotus": false
+    },
+    "folder": "039_59852948_Natour_v_BANK_OF_AMERICA_NA"
+  },
+  {
+    "rank": 40,
+    "docket_id": "71516159",
+    "case_name": "Slatus v. Flake",
+    "court_id": "gasd",
+    "date_filed": "2025-09-30",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "040_71516159_Slatus_v_Flake"
+  },
+  {
+    "rank": 41,
+    "docket_id": "68495657",
+    "case_name": "Palma v. Wells Fargo Bank, National Association",
+    "court_id": "cand",
+    "date_filed": "2024-05-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "041_68495657_Palma_v_Wells_Fargo_Bank_National_Association"
+  },
+  {
+    "rank": 42,
+    "docket_id": "66634492",
+    "case_name": "Mosley v. Wells Fargo & Co.",
+    "court_id": "casd",
+    "date_filed": "2022-12-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "042_66634492_Mosley_v_Wells_Fargo_Co"
+  },
+  {
+    "rank": 43,
+    "docket_id": "61588491",
+    "case_name": "Goodrich v. Cross River Bank",
+    "court_id": "cand",
+    "date_filed": "2021-12-01",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "043_61588491_Goodrich_v_Cross_River_Bank"
+  },
+  {
+    "rank": 44,
+    "docket_id": "7395488",
+    "case_name": "PAGE v. ALLIANT CREDIT UNION",
+    "court_id": "njd",
+    "date_filed": "2018-07-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "044_7395488_PAGE_v_ALLIANT_CREDIT_UNION"
+  },
+  {
+    "rank": 45,
+    "docket_id": "67259202",
+    "case_name": "Schlichting v. R.I.A. Federal Credit Union",
+    "court_id": "ilcd",
+    "date_filed": "2023-04-24",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "045_67259202_Schlichting_v_RIA_Federal_Credit_Union"
+  },
+  {
+    "rank": 46,
+    "docket_id": "30545239",
+    "case_name": "Jory Zoelle v. Bank of America, N.A.",
+    "court_id": "cacd",
+    "date_filed": "2021-01-19",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "046_30545239_Jory_Zoelle_v_Bank_of_America_NA"
+  },
+  {
+    "rank": 47,
+    "docket_id": "68364397",
+    "case_name": "505 SFD, LLC v. Federal Deposit Insurance Corporation",
+    "court_id": "cand",
+    "date_filed": "2024-03-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "047_68364397_505_SFD_LLC_v_Federal_Deposit_Insurance_Corporatio"
+  },
+  {
+    "rank": 48,
+    "docket_id": "67409570",
+    "case_name": "Wamhoff v. Navy Federal Credit Union",
+    "court_id": "moed",
+    "date_filed": "2023-05-19",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "048_67409570_Wamhoff_v_Navy_Federal_Credit_Union"
+  },
+  {
+    "rank": 49,
+    "docket_id": "63314666",
+    "case_name": "White v. Shipley",
+    "court_id": "ord",
+    "date_filed": "2022-05-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "049_63314666_White_v_Shipley"
+  },
+  {
+    "rank": 50,
+    "docket_id": "63307808",
+    "case_name": "Landscape Images Ltd. v. IberiaBank Corporation",
+    "court_id": "laed",
+    "date_filed": "2022-05-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "050_63307808_Landscape_Images_Ltd_v_IberiaBank_Corporation"
+  },
+  {
+    "rank": 51,
+    "docket_id": "60682806",
+    "case_name": "Fairchild-Cathey v. Americu Credit Union",
+    "court_id": "nynd",
+    "date_filed": "2021-10-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "051_60682806_Fairchild-Cathey_v_Americu_Credit_Union"
+  },
+  {
+    "rank": 52,
+    "docket_id": "29111860",
+    "case_name": "Carter v. The City National Bank and Trust Company of Lawton Oklahoma",
+    "court_id": "okwd",
+    "date_filed": "2021-01-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "052_29111860_Carter_v_The_City_National_Bank_and_Trust_Company_"
+  },
+  {
+    "rank": 53,
+    "docket_id": "59685603",
+    "case_name": "Williams v. JPMorgan Chase Bank, N.A.",
+    "court_id": "ilnd",
+    "date_filed": "2021-02-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "053_59685603_Williams_v_JPMorgan_Chase_Bank_NA"
+  },
+  {
+    "rank": 54,
+    "docket_id": "18717862",
+    "case_name": "Cortes v. Cabrillo Credit Union",
+    "court_id": "casd",
+    "date_filed": "2020-12-04",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "054_18717862_Cortes_v_Cabrillo_Credit_Union"
+  },
+  {
+    "rank": 55,
+    "docket_id": "18721140",
+    "case_name": "Bryant v. Washington Federal Bank, Inc",
+    "court_id": "nmd",
+    "date_filed": "2020-12-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 8,
+      "has_scotus": false
+    },
+    "folder": "055_18721140_Bryant_v_Washington_Federal_Bank_Inc"
+  },
+  {
+    "rank": 56,
+    "docket_id": "7877982",
+    "case_name": "Hyde v. Franklin American Mortgage Company",
+    "court_id": "sdd",
+    "date_filed": "2018-09-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "056_7877982_Hyde_v_Franklin_American_Mortgage_Company"
+  },
+  {
+    "rank": 57,
+    "docket_id": "18569535",
+    "case_name": "Adams v. Liberty Bank",
+    "court_id": "ctd",
+    "date_filed": "2020-10-23",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "057_18569535_Adams_v_Liberty_Bank"
+  },
+  {
+    "rank": 58,
+    "docket_id": "67386900",
+    "case_name": "Krueger v. Wells Fargo",
+    "court_id": "sdd",
+    "date_filed": "2023-05-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "058_67386900_Krueger_v_Wells_Fargo"
+  },
+  {
+    "rank": 59,
+    "docket_id": "71542134",
+    "case_name": "Michael Painter v. Green Dot Bank",
+    "court_id": "cacd",
+    "date_filed": "2025-10-03",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "059_71542134_Michael_Painter_v_Green_Dot_Bank"
+  },
+  {
+    "rank": 60,
+    "docket_id": "66616030",
+    "case_name": "Park v. Shinhan Bank America",
+    "court_id": "nysd",
+    "date_filed": "2022-12-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "060_66616030_Park_v_Shinhan_Bank_America"
+  },
+  {
+    "rank": 61,
+    "docket_id": "67413596",
+    "case_name": "Rise Development Partners, LLC v. Signature Bank",
+    "court_id": "nysd",
+    "date_filed": "2023-05-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "061_67413596_Rise_Development_Partners_LLC_v_Signature_Bank"
+  },
+  {
+    "rank": 62,
+    "docket_id": "67507965",
+    "case_name": "Comiesee Sampson v. USAA Federal Savings Bank",
+    "court_id": "cacd",
+    "date_filed": "2023-06-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "062_67507965_Comiesee_Sampson_v_USAA_Federal_Savings_Bank"
+  },
+  {
+    "rank": 63,
+    "docket_id": "67615001",
+    "case_name": "Frazier v. 5/3 Bank",
+    "court_id": "ohsd",
+    "date_filed": "2023-07-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "063_67615001_Frazier_v_53_Bank"
+  },
+  {
+    "rank": 64,
+    "docket_id": "67614604",
+    "case_name": "Green Valley Villas West Condominium Association v. Washington Federal Bank",
+    "court_id": "azd",
+    "date_filed": "2023-07-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "064_67614604_Green_Valley_Villas_West_Condominium_Association_v"
+  },
+  {
+    "rank": 65,
+    "docket_id": "67704753",
+    "case_name": "Honore v. Gulf Coast Bank & Trust Company",
+    "court_id": "lamd",
+    "date_filed": "2023-08-18",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "065_67704753_Honore_v_Gulf_Coast_Bank_Trust_Company"
+  },
+  {
+    "rank": 66,
+    "docket_id": "67677906",
+    "case_name": "Romain v. Webster Bank N.A.",
+    "court_id": "nyed",
+    "date_filed": "2023-08-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "066_67677906_Romain_v_Webster_Bank_NA"
+  },
+  {
+    "rank": 67,
+    "docket_id": "67688889",
+    "case_name": "Keita v. Chase Bank",
+    "court_id": "nysd",
+    "date_filed": "2023-08-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "067_67688889_Keita_v_Chase_Bank"
+  },
+  {
+    "rank": 68,
+    "docket_id": "67685781",
+    "case_name": "Ben-Avi v. Discover Financial Services, Inc.",
+    "court_id": "ilnd",
+    "date_filed": "2023-08-09",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "068_67685781_Ben-Avi_v_Discover_Financial_Services_Inc"
+  },
+  {
+    "rank": 69,
+    "docket_id": "67771396",
+    "case_name": "Murphy v. Capital One",
+    "court_id": "moed",
+    "date_filed": "2023-09-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "069_67771396_Murphy_v_Capital_One"
+  },
+  {
+    "rank": 70,
+    "docket_id": "67802665",
+    "case_name": "63rd & Morgan Currency Exchange, Inc. v. Citibank, N.A.",
+    "court_id": "ilnd",
+    "date_filed": "2023-08-01",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "070_67802665_63rd_Morgan_Currency_Exchange_Inc_v_Citibank_NA"
+  },
+  {
+    "rank": 71,
+    "docket_id": "67785087",
+    "case_name": "Morton v. Duke Energy",
+    "court_id": "scd",
+    "date_filed": "2023-09-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "071_67785087_Morton_v_Duke_Energy"
+  },
+  {
+    "rank": 72,
+    "docket_id": "67886295",
+    "case_name": "Swann v. Google",
+    "court_id": "tned",
+    "date_filed": "2023-10-05",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "072_67886295_Swann_v_Google"
+  },
+  {
+    "rank": 73,
+    "docket_id": "67926982",
+    "case_name": "Reybol v. JPMorgan Chase Bank, N.A.",
+    "court_id": "cand",
+    "date_filed": "2023-10-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "073_67926982_Reybol_v_JPMorgan_Chase_Bank_NA"
+  },
+  {
+    "rank": 74,
+    "docket_id": "67861558",
+    "case_name": "QP CAPITAL, LLC v. INDIANA DEPARTMENT OF CHILD SERVICES",
+    "court_id": "insd",
+    "date_filed": "2023-10-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "074_67861558_QP_CAPITAL_LLC_v_INDIANA_DEPARTMENT_OF_CHILD_SERVI"
+  },
+  {
+    "rank": 75,
+    "docket_id": "68307470",
+    "case_name": "Farella Braun + Martel LLP v. Federal Deposit Insurance Corporation as Receiver for Silicon Valley Bank",
+    "court_id": "cand",
+    "date_filed": "2024-03-04",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "075_68307470_Farella_Braun_Martel_LLP_v_Federal_Deposit_Insuran"
+  },
+  {
+    "rank": 76,
+    "docket_id": "68450321",
+    "case_name": "Khan v. PNC Bank",
+    "court_id": "nced",
+    "date_filed": "2024-04-18",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "076_68450321_Khan_v_PNC_Bank"
+  },
+  {
+    "rank": 77,
+    "docket_id": "68451741",
+    "case_name": "Law Offices of Phoenix Thottam v. JPMorgan Chase Bank, National Association",
+    "court_id": "cacd",
+    "date_filed": "2024-04-18",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "077_68451741_Law_Offices_of_Phoenix_Thottam_v_JPMorgan_Chase_Ba"
+  },
+  {
+    "rank": 78,
+    "docket_id": "68851220",
+    "case_name": "Bryant v. Tinker Federal Credit Union",
+    "court_id": "okwd",
+    "date_filed": "2024-06-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "078_68851220_Bryant_v_Tinker_Federal_Credit_Union"
+  },
+  {
+    "rank": 79,
+    "docket_id": "69196375",
+    "case_name": "Antunes v. Federal Deposit Insurance Corporation",
+    "court_id": "cand",
+    "date_filed": "2024-09-25",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "079_69196375_Antunes_v_Federal_Deposit_Insurance_Corporation"
+  },
+  {
+    "rank": 80,
+    "docket_id": "69518733",
+    "case_name": "Abunameh v. Kuwait Projects Company",
+    "court_id": "nysd",
+    "date_filed": "2024-12-23",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "080_69518733_Abunameh_v_Kuwait_Projects_Company"
+  },
+  {
+    "rank": 81,
+    "docket_id": "69475823",
+    "case_name": "Zapata v. Bank of America",
+    "court_id": "flmd",
+    "date_filed": "2024-12-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "081_69475823_Zapata_v_Bank_of_America"
+  },
+  {
+    "rank": 82,
+    "docket_id": "69461599",
+    "case_name": "A&C Gaming, LLC v. BHG Financial, LLC",
+    "court_id": "nced",
+    "date_filed": "2024-12-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "082_69461599_AC_Gaming_LLC_v_BHG_Financial_LLC"
+  },
+  {
+    "rank": 83,
+    "docket_id": "71666054",
+    "case_name": "Mazza v. Primelending",
+    "court_id": "azd",
+    "date_filed": "2025-10-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "083_71666054_Mazza_v_Primelending"
+  },
+  {
+    "rank": 84,
+    "docket_id": "16109242",
+    "case_name": "DETROIT REHABILITATION INITIATIVES, LLC v. FEDERAL HOME LOAN BANK OF INDIANAPOLIS",
+    "court_id": "insd",
+    "date_filed": "2019-08-26",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "084_16109242_DETROIT_REHABILITATION_INITIATIVES_LLC_v_FEDERAL_H"
+  },
+  {
+    "rank": 85,
+    "docket_id": "29103658",
+    "case_name": "McDonald v. Citibank N.A.",
+    "court_id": "nysd",
+    "date_filed": "2021-01-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "085_29103658_McDonald_v_Citibank_NA"
+  },
+  {
+    "rank": 86,
+    "docket_id": "66958860",
+    "case_name": "Sneva v. JPMorgan Chase Bank NA",
+    "court_id": "waed",
+    "date_filed": "2023-03-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "086_66958860_Sneva_v_JPMorgan_Chase_Bank_NA"
+  },
+  {
+    "rank": 87,
+    "docket_id": "16569119",
+    "case_name": "Herrmann v. Wells Fargo Bank, N.A.",
+    "court_id": "vawd",
+    "date_filed": "2019-12-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "087_16569119_Herrmann_v_Wells_Fargo_Bank_NA"
+  },
+  {
+    "rank": 88,
+    "docket_id": "17304194",
+    "case_name": "Shehan v. United States Department of Justice",
+    "court_id": "ohsd",
+    "date_filed": "2020-06-29",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "088_17304194_Shehan_v_United_States_Department_of_Justice"
+  },
+  {
+    "rank": 89,
+    "docket_id": "65419306",
+    "case_name": "Kerames v. Wells Fargo",
+    "court_id": "nysd",
+    "date_filed": "2022-10-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "089_65419306_Kerames_v_Wells_Fargo"
+  },
+  {
+    "rank": 90,
+    "docket_id": "17106233",
+    "case_name": "DRAZDIK V DIRECTOR INTERNAL REVENUE SERVICE",
+    "court_id": "pawd",
+    "date_filed": "2020-04-15",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "090_17106233_DRAZDIK_V_DIRECTOR_INTERNAL_REVENUE_SERVICE"
+  },
+  {
+    "rank": 91,
+    "docket_id": "67847734",
+    "case_name": "Harris v. Nevada Funding, LLC",
+    "court_id": "nynd",
+    "date_filed": "2023-09-29",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "091_67847734_Harris_v_Nevada_Funding_LLC"
+  },
+  {
+    "rank": 92,
+    "docket_id": "60365044",
+    "case_name": "BROWN v. DEMCHAK",
+    "court_id": "pawd",
+    "date_filed": "2021-09-03",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "092_60365044_BROWN_v_DEMCHAK"
+  },
+  {
+    "rank": 93,
+    "docket_id": "60276904",
+    "case_name": "Santos Vasquez v. Specialized Loan Servicing LLC",
+    "court_id": "cacd",
+    "date_filed": "2021-08-23",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "093_60276904_Santos_Vasquez_v_Specialized_Loan_Servicing_LLC"
+  },
+  {
+    "rank": 94,
+    "docket_id": "16894345",
+    "case_name": "Murph v. GTE Federal Credit Union",
+    "court_id": "flmd",
+    "date_filed": "2020-02-26",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "094_16894345_Murph_v_GTE_Federal_Credit_Union"
+  },
+  {
+    "rank": 95,
+    "docket_id": "59757901",
+    "case_name": "Johnson v. Wells Fargo",
+    "court_id": "wawd",
+    "date_filed": "2021-03-20",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "095_59757901_Johnson_v_Wells_Fargo"
+  },
+  {
+    "rank": 96,
+    "docket_id": "17240184",
+    "case_name": "Bannister v. United States Treasury Department",
+    "court_id": "nysd",
+    "date_filed": "2020-06-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "096_17240184_Bannister_v_United_States_Treasury_Department"
+  },
+  {
+    "rank": 97,
+    "docket_id": "68872312",
+    "case_name": "Ballentine v. Credit One Bank N.A.",
+    "court_id": "nysd",
+    "date_filed": "2024-06-18",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "097_68872312_Ballentine_v_Credit_One_Bank_NA"
+  },
+  {
+    "rank": 98,
+    "docket_id": "8381637",
+    "case_name": "St.Louis v. Selene Finance",
+    "court_id": "nyed",
+    "date_filed": "2018-11-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "098_8381637_StLouis_v_Selene_Finance"
+  },
+  {
+    "rank": 99,
+    "docket_id": "15770591",
+    "case_name": "Freitas v. Bank Of America",
+    "court_id": "cand",
+    "date_filed": "2019-06-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "099_15770591_Freitas_v_Bank_Of_America"
+  },
+  {
+    "rank": 100,
+    "docket_id": "42572967",
+    "case_name": "Hoffman v. Federal Reserve Bank of New York, The",
+    "court_id": "scd",
+    "date_filed": "2020-11-09",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "100_42572967_Hoffman_v_Federal_Reserve_Bank_of_New_York_The"
+  }
+]

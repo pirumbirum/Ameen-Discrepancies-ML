@@ -1,0 +1,31 @@
+{
+  "id": "15928772",
+  "case_name": "UCB, Inc. v. Mylan Technologies, Inc.",
+  "case_name_full": "",
+  "docket_number": "2:19-cv-00128",
+  "docket_number_core": "1900128",
+  "court_id": "vtd",
+  "nature_of_suit": "830 Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-07-16",
+  "date_terminated": "2021-06-08",
+  "date_last_filing": "2023-07-19",
+  "assigned_to_str": "",
+  "referred_to_str": "",
+  "pacer_case_id": "30634",
+  "source": "9",
+  "slug": "ucb-inc-v-mylan-technologies-inc",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 45,
+  "_nos_category": "patent"
+}

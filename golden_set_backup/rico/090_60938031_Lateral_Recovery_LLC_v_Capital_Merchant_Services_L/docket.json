@@ -1,0 +1,31 @@
+{
+  "id": "60938031",
+  "case_name": "Lateral Recovery, LLC v. Capital Merchant Services, LLC",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-09336",
+  "docket_number_core": "2109336",
+  "court_id": "nysd",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "18:1962 Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-11-11",
+  "date_terminated": "2022-12-08",
+  "date_last_filing": "2022-12-08",
+  "assigned_to_str": "Lewis J. Liman",
+  "referred_to_str": "",
+  "pacer_case_id": "569701",
+  "source": "1",
+  "slug": "lateral-recovery-llc-v-capital-merchant-services-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 90,
+  "_nos_category": "rico"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "69930078",
+  "case_name": "Hydroworx International, Inc. v. Echelon Fitness Multimedia, LLC",
+  "case_name_full": "",
+  "docket_number": "1:25-cv-00689",
+  "docket_number_core": "2500689",
+  "court_id": "pamd",
+  "nature_of_suit": "840 Trademark",
+  "cause": "15:1114 Trademark Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2025-04-21",
+  "date_terminated": "",
+  "date_last_filing": "2025-05-14",
+  "assigned_to_str": "Jennifer P. Wilson",
+  "referred_to_str": "",
+  "pacer_case_id": "146455",
+  "source": "1",
+  "slug": "hydroworx-international-inc-v-echelon-fitness-multimedia-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 2,
+  "_nos_category": "trademark"
+}

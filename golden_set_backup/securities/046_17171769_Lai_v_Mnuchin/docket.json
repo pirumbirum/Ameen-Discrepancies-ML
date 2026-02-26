@@ -1,0 +1,31 @@
+{
+  "id": "17171769",
+  "case_name": "Lai v. Mnuchin",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-00533",
+  "docket_number_core": "2000533",
+  "court_id": "txwd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "28:1331(a) Fed. Question: Real Property",
+  "jurisdiction_type": "U.S. Government Defendant",
+  "date_filed": "2020-05-14",
+  "date_terminated": "2020-07-27",
+  "date_last_filing": "2020-08-17",
+  "assigned_to_str": "Robert Pitman",
+  "referred_to_str": "Susan Hightower",
+  "pacer_case_id": "1097302",
+  "source": "9",
+  "slug": "lai-v-mnuchin",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 46,
+  "_nos_category": "securities"
+}

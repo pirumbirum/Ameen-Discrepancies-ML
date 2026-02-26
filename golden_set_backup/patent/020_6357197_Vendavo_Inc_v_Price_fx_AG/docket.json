@@ -1,0 +1,31 @@
+{
+  "id": "6357197",
+  "case_name": "Vendavo, Inc. v. Price f(x) AG",
+  "case_name_full": "",
+  "docket_number": "3:17-cv-06930",
+  "docket_number_core": "1706930",
+  "court_id": "cand",
+  "nature_of_suit": "830 Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2017-12-05",
+  "date_terminated": "2019-09-25",
+  "date_last_filing": "2019-09-25",
+  "assigned_to_str": "Richard Seeborg",
+  "referred_to_str": "Kandis A. Westmore",
+  "pacer_case_id": "320083",
+  "source": "9",
+  "slug": "vendavo-inc-v-price-fx-ag",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 20,
+  "_nos_category": "patent"
+}

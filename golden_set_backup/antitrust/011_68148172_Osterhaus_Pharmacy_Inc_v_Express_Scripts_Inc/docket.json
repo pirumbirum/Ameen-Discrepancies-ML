@@ -1,0 +1,31 @@
+{
+  "id": "68148172",
+  "case_name": "Osterhaus Pharmacy Inc v. Express Scripts Inc",
+  "case_name_full": "",
+  "docket_number": "2:24-cv-00039",
+  "docket_number_core": "2400039",
+  "court_id": "wawd",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "15:1 Antitrust Litigation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-01-09",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-30",
+  "assigned_to_str": "Richard A. Jones",
+  "referred_to_str": "",
+  "pacer_case_id": "330027",
+  "source": "1",
+  "slug": "osterhaus-pharmacy-inc-v-express-scripts-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 11,
+  "_nos_category": "antitrust"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "15770591",
+  "case_name": "Freitas v. Bank Of America",
+  "case_name_full": "",
+  "docket_number": "3:19-cv-03347",
+  "docket_number_core": "1903347",
+  "court_id": "cand",
+  "nature_of_suit": "430 Banks and Banking",
+  "cause": "28:1345 Foreclosure",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-06-13",
+  "date_terminated": "2019-11-11",
+  "date_last_filing": "2021-10-06",
+  "assigned_to_str": "William Alsup",
+  "referred_to_str": "",
+  "pacer_case_id": "343504",
+  "source": "9",
+  "slug": "freitas-v-bank-of-america",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 99,
+  "_nos_category": "banks"
+}

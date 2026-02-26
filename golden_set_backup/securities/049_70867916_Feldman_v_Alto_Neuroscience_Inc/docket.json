@@ -1,0 +1,31 @@
+{
+  "id": "70867916",
+  "case_name": "Feldman v. Alto Neuroscience, Inc.",
+  "case_name_full": "",
+  "docket_number": "5:25-cv-06105",
+  "docket_number_core": "2506105",
+  "court_id": "cand",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2025-07-21",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-16",
+  "assigned_to_str": "Noel Wise",
+  "referred_to_str": "",
+  "pacer_case_id": "453072",
+  "source": "1",
+  "slug": "feldman-v-alto-neuroscience-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 49,
+  "_nos_category": "securities"
+}

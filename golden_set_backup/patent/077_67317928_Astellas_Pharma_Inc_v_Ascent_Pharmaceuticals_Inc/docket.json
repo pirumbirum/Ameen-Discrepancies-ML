@@ -1,0 +1,31 @@
+{
+  "id": "67317928",
+  "case_name": "Astellas Pharma Inc. v. Ascent Pharmaceuticals, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-00486",
+  "docket_number_core": "2300486",
+  "court_id": "ded",
+  "nature_of_suit": "835 Patent - Abbreviated New Drug Application(ANDA)",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-05-03",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-09",
+  "assigned_to_str": "Joseph F. Bataillon",
+  "referred_to_str": "Eleanor G. Tennyson",
+  "pacer_case_id": "82272",
+  "source": "1",
+  "slug": "astellas-pharma-inc-v-ascent-pharmaceuticals-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 5,
+    "has_scotus": false
+  },
+  "_rank_in_category": 77,
+  "_nos_category": "patent"
+}

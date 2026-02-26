@@ -1,0 +1,31 @@
+{
+  "id": "14715857",
+  "case_name": "Lyons & Clark, Inc. v. Alfano",
+  "case_name_full": "",
+  "docket_number": "4:17-cv-00626",
+  "docket_number_core": "1700626",
+  "court_id": "oknd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1332 Diversity-Declaratory Judgement",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2017-11-16",
+  "date_terminated": "",
+  "date_last_filing": "2022-06-22",
+  "assigned_to_str": "Terence Kern",
+  "referred_to_str": "Christine D Little",
+  "pacer_case_id": "43127",
+  "source": "9",
+  "slug": "lyons-clark-inc-v-alfano",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 24,
+  "_nos_category": "other_contract"
+}

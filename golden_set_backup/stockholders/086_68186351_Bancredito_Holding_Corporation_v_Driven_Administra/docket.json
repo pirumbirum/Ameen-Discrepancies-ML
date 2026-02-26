@@ -1,0 +1,31 @@
+{
+  "id": "68186351",
+  "case_name": "Bancredito Holding Corporation v. Driven Administrative Services, LLC",
+  "case_name_full": "",
+  "docket_number": "3:24-cv-01039",
+  "docket_number_core": "2401039",
+  "court_id": "prd",
+  "nature_of_suit": "160 Stockholders Suits",
+  "cause": "28:1332 Diversity - Stockholders Suits",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2024-01-23",
+  "date_terminated": "2024-07-11",
+  "date_last_filing": "2024-08-01",
+  "assigned_to_str": "Camille L. Velez-Rive",
+  "referred_to_str": "",
+  "pacer_case_id": "180664",
+  "source": "1",
+  "slug": "bancredito-holding-corporation-v-driven-administrative-services-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 86,
+  "_nos_category": "stockholders"
+}

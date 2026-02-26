@@ -1,0 +1,31 @@
+{
+  "id": "64877186",
+  "case_name": "Homesite Insurance Company v. Schlackman",
+  "case_name_full": "",
+  "docket_number": "2:22-cv-01106",
+  "docket_number_core": "2201106",
+  "court_id": "wawd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Declaratory Judgment",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-08-08",
+  "date_terminated": "2023-05-01",
+  "date_last_filing": "2023-05-01",
+  "assigned_to_str": "Robert S. Lasnik",
+  "referred_to_str": "",
+  "pacer_case_id": "312717",
+  "source": "1",
+  "slug": "homesite-insurance-company-v-schlackman",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 9,
+  "_nos_category": "insurance"
+}

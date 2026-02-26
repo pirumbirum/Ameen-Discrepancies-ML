@@ -1,0 +1,31 @@
+{
+  "id": "63364970",
+  "case_name": "Golden v. Qualcomm, Inc.",
+  "case_name_full": "",
+  "docket_number": "4:22-cv-03283",
+  "docket_number_core": "2203283",
+  "court_id": "cand",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "28:1331 Fed. Question",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-06-06",
+  "date_terminated": "2023-03-15",
+  "date_last_filing": "2023-12-13",
+  "assigned_to_str": "Haywood S. Gilliam Jr.",
+  "referred_to_str": "",
+  "pacer_case_id": "396522",
+  "source": "1",
+  "slug": "golden-v-qualcomm-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 58,
+  "_nos_category": "antitrust"
+}

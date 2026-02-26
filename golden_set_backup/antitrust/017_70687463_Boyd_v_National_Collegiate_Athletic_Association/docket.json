@@ -1,0 +1,31 @@
+{
+  "id": "70687463",
+  "case_name": "Boyd v. National Collegiate Athletic Association",
+  "case_name_full": "",
+  "docket_number": "3:25-cv-00729",
+  "docket_number_core": "2500729",
+  "court_id": "tnmd",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "15:1 Antitrust Litigation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2025-06-30",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-12",
+  "assigned_to_str": "Eli J. Richardson",
+  "referred_to_str": "Barbara D. Holmes",
+  "pacer_case_id": "105159",
+  "source": "1",
+  "slug": "boyd-v-national-collegiate-athletic-association",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 17,
+  "_nos_category": "antitrust"
+}

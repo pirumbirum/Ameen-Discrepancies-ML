@@ -1,0 +1,31 @@
+{
+  "id": "59978534",
+  "case_name": "THE LENNOX INTERNATIONAL INC. v. ETHICAL PRODUCTS, INC.",
+  "case_name_full": "",
+  "docket_number": "2:21-cv-12437",
+  "docket_number_core": "2112437",
+  "court_id": "njd",
+  "nature_of_suit": "Trademark",
+  "cause": "15:1125 Trademark Infringement (Lanham Act)",
+  "jurisdiction_type": "",
+  "date_filed": "2021-06-11",
+  "date_terminated": "2022-07-07",
+  "date_last_filing": "2022-07-07",
+  "assigned_to_str": "Stanley R. Chesler",
+  "referred_to_str": "Jessica S. Allen",
+  "pacer_case_id": "474894",
+  "source": "1",
+  "slug": "the-lennox-international-inc-v-ethical-products-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 35,
+  "_nos_category": "trademark"
+}

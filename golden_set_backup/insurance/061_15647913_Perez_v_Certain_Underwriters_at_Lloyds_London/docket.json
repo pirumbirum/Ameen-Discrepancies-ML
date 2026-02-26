@@ -1,0 +1,31 @@
+{
+  "id": "15647913",
+  "case_name": "Perez v. Certain Underwriters at Lloyd's, London",
+  "case_name_full": "",
+  "docket_number": "1:19-cv-22024",
+  "docket_number_core": "1922024",
+  "court_id": "flsd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Notice of Removal",
+  "jurisdiction_type": "Diversity of citizenship",
+  "date_filed": "2019-05-20",
+  "date_terminated": "2021-07-15",
+  "date_last_filing": "2021-07-15",
+  "assigned_to_str": "James Lawrence King",
+  "referred_to_str": "Jacqueline Becerra",
+  "pacer_case_id": "550045",
+  "source": "9",
+  "slug": "perez-v-certain-underwriters-at-lloyds-london",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 61,
+  "_nos_category": "insurance"
+}

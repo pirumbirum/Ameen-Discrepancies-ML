@@ -1,0 +1,31 @@
+{
+  "id": "67988717",
+  "case_name": "Institute for Fisheries Resources v. Bridgestone Americas, Inc.",
+  "case_name_full": "",
+  "docket_number": "3:23-cv-05748",
+  "docket_number_core": "2305748",
+  "court_id": "cand",
+  "nature_of_suit": "893 Environmental Matters",
+  "cause": "Environmental Matters",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-11-08",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-29",
+  "assigned_to_str": "James Donato",
+  "referred_to_str": "Joseph C. Spero",
+  "pacer_case_id": "420574",
+  "source": "1",
+  "slug": "institute-for-fisheries-resources-v-bridgestone-americas-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 98,
+  "_nos_category": "environmental"
+}

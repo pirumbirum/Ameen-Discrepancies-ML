@@ -1,0 +1,31 @@
+{
+  "id": "16818477",
+  "case_name": "Pacific Resources Associates LLC v. Suzy Cleaners",
+  "case_name_full": "",
+  "docket_number": "3:20-cv-00234",
+  "docket_number_core": "2000234",
+  "court_id": "casd",
+  "nature_of_suit": "893 Environmental Matters",
+  "cause": "42:9601 Comprehensive Environmental Compen/Resp/Liab (CERCLA) (Definitions)",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-02-06",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-30",
+  "assigned_to_str": "Ruth Bermudez Montenegro",
+  "referred_to_str": "Daniel E. Butcher",
+  "pacer_case_id": "667260",
+  "source": "9",
+  "slug": "pacific-resources-associates-llc-v-suzy-cleaners",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 7,
+    "has_scotus": false
+  },
+  "_rank_in_category": 23,
+  "_nos_category": "environmental"
+}

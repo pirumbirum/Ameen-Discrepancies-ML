@@ -1,0 +1,31 @@
+{
+  "id": "68035647",
+  "case_name": "Burgess v. Alternative Sierra Investments, LLC",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-01641",
+  "docket_number_core": "2301641",
+  "court_id": "caed",
+  "nature_of_suit": "Environmental Matters",
+  "cause": "42:9607 Real Property Tort to Land",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-11-24",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-15",
+  "assigned_to_str": "Jennifer L. Thurston",
+  "referred_to_str": "Barbara A. McAuliffe",
+  "pacer_case_id": "437808",
+  "source": "1",
+  "slug": "burgess-v-alternative-sierra-investments-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 5,
+    "has_scotus": false
+  },
+  "_rank_in_category": 46,
+  "_nos_category": "environmental"
+}

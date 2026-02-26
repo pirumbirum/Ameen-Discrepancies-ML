@@ -1,0 +1,31 @@
+{
+  "id": "16737974",
+  "case_name": "Faller v. Pelosi",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-00002",
+  "docket_number_core": "2000002",
+  "court_id": "gasd",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "42:1983 Civil Rights Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-01-07",
+  "date_terminated": "2020-12-08",
+  "date_last_filing": "2020-12-22",
+  "assigned_to_str": "J. Randal Hall",
+  "referred_to_str": "Brian K. Epps",
+  "pacer_case_id": "80057",
+  "source": "9",
+  "slug": "faller-v-pelosi",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 71,
+  "_nos_category": "rico"
+}

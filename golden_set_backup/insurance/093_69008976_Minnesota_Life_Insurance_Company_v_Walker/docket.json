@@ -1,0 +1,31 @@
+{
+  "id": "69008976",
+  "case_name": "Minnesota Life Insurance Company v. Walker",
+  "case_name_full": "",
+  "docket_number": "2:24-cv-01169",
+  "docket_number_core": "2401169",
+  "court_id": "wawd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "",
+  "date_filed": "2024-08-01",
+  "date_terminated": "",
+  "date_last_filing": "2025-11-05",
+  "assigned_to_str": "Lauren King",
+  "referred_to_str": "",
+  "pacer_case_id": "337764",
+  "source": "1",
+  "slug": "minnesota-life-insurance-company-v-walker",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 3,
+    "has_scotus": false
+  },
+  "_rank_in_category": 93,
+  "_nos_category": "insurance"
+}

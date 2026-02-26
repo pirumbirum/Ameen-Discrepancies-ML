@@ -1,0 +1,31 @@
+{
+  "id": "18631388",
+  "case_name": "Ohio Security Insurance Company v. Black Lake Quarry LLC",
+  "case_name_full": "",
+  "docket_number": "3:20-cv-06114",
+  "docket_number_core": "2006114",
+  "court_id": "wawd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Declaratory Judgment",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2020-11-13",
+  "date_terminated": "2021-08-17",
+  "date_last_filing": "2021-08-17",
+  "assigned_to_str": "Richard A. Jones",
+  "referred_to_str": "",
+  "pacer_case_id": "292451",
+  "source": "1",
+  "slug": "ohio-security-insurance-company-v-black-lake-quarry-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 27,
+  "_nos_category": "insurance"
+}

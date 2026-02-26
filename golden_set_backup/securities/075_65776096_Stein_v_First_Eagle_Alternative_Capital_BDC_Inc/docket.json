@@ -1,0 +1,31 @@
+{
+  "id": "65776096",
+  "case_name": "Stein v. First Eagle Alternative Capital BDC, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-09932",
+  "docket_number_core": "2209932",
+  "court_id": "nysd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-11-22",
+  "date_terminated": "2023-03-22",
+  "date_last_filing": "2023-03-22",
+  "assigned_to_str": "Mary Kay Vyskocil",
+  "referred_to_str": "",
+  "pacer_case_id": "589913",
+  "source": "1",
+  "slug": "stein-v-first-eagle-alternative-capital-bdc-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 75,
+  "_nos_category": "securities"
+}

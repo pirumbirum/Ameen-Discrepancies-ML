@@ -1,0 +1,31 @@
+{
+  "id": "4316094",
+  "case_name": "Le v. Zuffa, LLC",
+  "case_name_full": "",
+  "docket_number": "2:15-cv-01045",
+  "docket_number_core": "1501045",
+  "court_id": "nvd",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "15:2 Antitrust Litigation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2015-06-03",
+  "date_terminated": "",
+  "date_last_filing": "2025-10-03",
+  "assigned_to_str": "Richard F. Boulware, II",
+  "referred_to_str": "Brenda Weksler",
+  "pacer_case_id": "108274",
+  "source": "9",
+  "slug": "le-v-zuffa-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 47,
+  "_nos_category": "antitrust"
+}

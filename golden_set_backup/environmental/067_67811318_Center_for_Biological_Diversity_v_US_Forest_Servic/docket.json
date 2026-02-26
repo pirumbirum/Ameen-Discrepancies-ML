@@ -1,0 +1,31 @@
+{
+  "id": "67811318",
+  "case_name": "Center for Biological Diversity v. U.S. Forest Service",
+  "case_name_full": "",
+  "docket_number": "9:23-cv-00110",
+  "docket_number_core": "2300110",
+  "court_id": "mtd",
+  "nature_of_suit": "893 Environmental Matters",
+  "cause": "42:4321 Review of Agency Action-Environment",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-09-20",
+  "date_terminated": "2025-12-11",
+  "date_last_filing": "2025-12-16",
+  "assigned_to_str": "Donald W. Molloy",
+  "referred_to_str": "Kathleen L. DeSoto",
+  "pacer_case_id": "74484",
+  "source": "1",
+  "slug": "center-for-biological-diversity-v-us-forest-service",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 67,
+  "_nos_category": "environmental"
+}

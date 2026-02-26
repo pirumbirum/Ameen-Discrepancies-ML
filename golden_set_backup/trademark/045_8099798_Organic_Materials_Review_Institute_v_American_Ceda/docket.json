@@ -1,0 +1,31 @@
+{
+  "id": "8099798",
+  "case_name": "Organic Materials Review Institute v. American Cedar Technology Corporation",
+  "case_name_full": "",
+  "docket_number": "6:18-cv-01881",
+  "docket_number_core": "1801881",
+  "court_id": "ord",
+  "nature_of_suit": "840 Trademark",
+  "cause": "15:1051 Trademark Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2018-10-25",
+  "date_terminated": "2019-05-13",
+  "date_last_filing": "2019-09-24",
+  "assigned_to_str": "Mustafa T. Kasubhai",
+  "referred_to_str": "",
+  "pacer_case_id": "141211",
+  "source": "9",
+  "slug": "organic-materials-review-institute-v-american-cedar-technology-corporation",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 45,
+  "_nos_category": "trademark"
+}

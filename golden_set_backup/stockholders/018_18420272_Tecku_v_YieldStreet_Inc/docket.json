@@ -1,0 +1,31 @@
+{
+  "id": "18420272",
+  "case_name": "Tecku v. YieldStreet Inc.",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-07327",
+  "docket_number_core": "2007327",
+  "court_id": "nysd",
+  "nature_of_suit": "Stockholders Suits",
+  "cause": "28:1332ss Diversity - Stockholders Suits",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2020-09-09",
+  "date_terminated": "2025-02-21",
+  "date_last_filing": "2025-02-21",
+  "assigned_to_str": "Victor Marrero",
+  "referred_to_str": "Stewart D. Aaron",
+  "pacer_case_id": "543818",
+  "source": "1",
+  "slug": "tecku-v-yieldstreet-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 5,
+    "has_scotus": false
+  },
+  "_rank_in_category": 18,
+  "_nos_category": "stockholders"
+}

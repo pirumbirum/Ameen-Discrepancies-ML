@@ -1,0 +1,31 @@
+{
+  "id": "65753687",
+  "case_name": "Don't Cage Our Oceans v. United States Army Corps of Engineers",
+  "case_name_full": "",
+  "docket_number": "2:22-cv-01627",
+  "docket_number_core": "2201627",
+  "court_id": "wawd",
+  "nature_of_suit": "Environmental Matters",
+  "cause": "16:1538  Endangered Species Act",
+  "jurisdiction_type": "U.S. Government Defendant",
+  "date_filed": "2022-11-14",
+  "date_terminated": "2025-03-17",
+  "date_last_filing": "2025-11-13",
+  "assigned_to_str": "Kymberly K. Evanson",
+  "referred_to_str": "",
+  "pacer_case_id": "316229",
+  "source": "1",
+  "slug": "dont-cage-our-oceans-v-united-states-army-corps-of-engineers",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 3,
+    "has_scotus": false
+  },
+  "_rank_in_category": 10,
+  "_nos_category": "environmental"
+}

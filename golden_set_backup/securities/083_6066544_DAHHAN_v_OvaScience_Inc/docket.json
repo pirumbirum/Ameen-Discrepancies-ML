@@ -1,0 +1,31 @@
+{
+  "id": "6066544",
+  "case_name": "DAHHAN v. OvaScience, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:17-cv-10511",
+  "docket_number_core": "1710511",
+  "court_id": "mad",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2017-03-24",
+  "date_terminated": "2022-12-20",
+  "date_last_filing": "2025-12-11",
+  "assigned_to_str": "Indira Talwani",
+  "referred_to_str": "",
+  "pacer_case_id": "187797",
+  "source": "9",
+  "slug": "dahhan-v-ovascience-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 3,
+    "has_scotus": false
+  },
+  "_rank_in_category": 83,
+  "_nos_category": "securities"
+}

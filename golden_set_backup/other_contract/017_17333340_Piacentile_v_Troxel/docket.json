@@ -1,0 +1,31 @@
+{
+  "id": "17333340",
+  "case_name": "Piacentile v. Troxel",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-05252",
+  "docket_number_core": "2005252",
+  "court_id": "nysd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1332 Diversity Action",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2020-07-08",
+  "date_terminated": "2020-12-08",
+  "date_last_filing": "2020-12-08",
+  "assigned_to_str": "Jesse M. Furman",
+  "referred_to_str": "",
+  "pacer_case_id": "539938",
+  "source": "1",
+  "slug": "piacentile-v-troxel",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 17,
+  "_nos_category": "other_contract"
+}

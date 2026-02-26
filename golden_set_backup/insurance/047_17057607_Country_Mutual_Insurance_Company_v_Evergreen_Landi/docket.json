@@ -1,0 +1,31 @@
+{
+  "id": "17057607",
+  "case_name": "Country Mutual Insurance Company v. Evergreen Landing LLC",
+  "case_name_full": "",
+  "docket_number": "3:20-cv-05337",
+  "docket_number_core": "2005337",
+  "court_id": "wawd",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Declaratory Judgment",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2020-04-09",
+  "date_terminated": "2021-07-12",
+  "date_last_filing": "2021-07-12",
+  "assigned_to_str": "Robert J. Bryan",
+  "referred_to_str": "",
+  "pacer_case_id": "285176",
+  "source": "9",
+  "slug": "country-mutual-insurance-company-v-evergreen-landing-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 47,
+  "_nos_category": "insurance"
+}

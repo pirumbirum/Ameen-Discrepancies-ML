@@ -1,0 +1,31 @@
+{
+  "id": "64898908",
+  "case_name": "Belmere, L.P. v. Steadfast Insurance Company",
+  "case_name_full": "",
+  "docket_number": "2:22-cv-02689",
+  "docket_number_core": "2202689",
+  "court_id": "laed",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "",
+  "date_filed": "2022-08-17",
+  "date_terminated": "",
+  "date_last_filing": "2025-08-06",
+  "assigned_to_str": "Jay C. Zainey",
+  "referred_to_str": "Karen Wells Roby",
+  "pacer_case_id": "255507",
+  "source": "1",
+  "slug": "belmere-lp-v-steadfast-insurance-company",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 23,
+  "_nos_category": "insurance"
+}

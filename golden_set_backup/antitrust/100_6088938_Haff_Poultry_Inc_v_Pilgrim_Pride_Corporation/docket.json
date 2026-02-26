@@ -1,0 +1,31 @@
+{
+  "id": "6088938",
+  "case_name": "Haff Poultry, Inc. v. Pilgrim Pride Corporation",
+  "case_name_full": "",
+  "docket_number": "6:17-cv-00033",
+  "docket_number_core": "1700033",
+  "court_id": "oked",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "28:1337 Sherman-Clayton Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2017-01-27",
+  "date_terminated": "2025-01-09",
+  "date_last_filing": "2025-01-09",
+  "assigned_to_str": "Robert J. Shelby",
+  "referred_to_str": "Cecilia M. Romero",
+  "pacer_case_id": "25831",
+  "source": "9",
+  "slug": "haff-poultry-inc-v-pilgrim-pride-corporation",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 100,
+  "_nos_category": "antitrust"
+}

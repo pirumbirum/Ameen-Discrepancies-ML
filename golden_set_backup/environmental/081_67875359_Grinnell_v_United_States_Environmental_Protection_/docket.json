@@ -1,0 +1,31 @@
+{
+  "id": "67875359",
+  "case_name": "Grinnell v. United States Environmental Protection Agency",
+  "case_name_full": "",
+  "docket_number": "8:23-cv-01265",
+  "docket_number_core": "2301265",
+  "court_id": "nynd",
+  "nature_of_suit": "Environmental Matters",
+  "cause": "33:1365 Clean Water Act - Citizen Suits re Environmental Matters",
+  "jurisdiction_type": "",
+  "date_filed": "2023-10-11",
+  "date_terminated": "2024-06-03",
+  "date_last_filing": "2024-06-06",
+  "assigned_to_str": "David N. Hurd",
+  "referred_to_str": "Daniel J. Stewart",
+  "pacer_case_id": "140474",
+  "source": "1",
+  "slug": "grinnell-v-united-states-environmental-protection-agency",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 81,
+  "_nos_category": "environmental"
+}

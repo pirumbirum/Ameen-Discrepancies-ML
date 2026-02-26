@@ -1,0 +1,31 @@
+{
+  "id": "67771396",
+  "case_name": "Murphy v. Capital One",
+  "case_name_full": "",
+  "docket_number": "4:23-cv-01120",
+  "docket_number_core": "2301120",
+  "court_id": "moed",
+  "nature_of_suit": "Banks and Banking",
+  "cause": "12:635 Breach of Insurance Contract",
+  "jurisdiction_type": "",
+  "date_filed": "2023-09-07",
+  "date_terminated": "2023-10-05",
+  "date_last_filing": "2023-10-05",
+  "assigned_to_str": "Rodney H. Holmes",
+  "referred_to_str": "",
+  "pacer_case_id": "205807",
+  "source": "1",
+  "slug": "murphy-v-capital-one",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 69,
+  "_nos_category": "banks"
+}

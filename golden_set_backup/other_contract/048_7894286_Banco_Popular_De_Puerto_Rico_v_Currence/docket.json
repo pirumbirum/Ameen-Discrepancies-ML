@@ -1,0 +1,31 @@
+{
+  "id": "7894286",
+  "case_name": "Banco Popular De Puerto Rico v. Currence",
+  "case_name_full": "",
+  "docket_number": "3:17-cv-00039",
+  "docket_number_core": "1700039",
+  "court_id": "vid",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1332 Diversity-Other Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2017-06-08",
+  "date_terminated": "2020-06-10",
+  "date_last_filing": "2020-06-10",
+  "assigned_to_str": "Robert A. Molloy",
+  "referred_to_str": "Ruth Miller",
+  "pacer_case_id": "33252",
+  "source": "9",
+  "slug": "banco-popular-de-puerto-rico-v-currence",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 48,
+  "_nos_category": "other_contract"
+}

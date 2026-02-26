@@ -1,0 +1,31 @@
+{
+  "id": "71446593",
+  "case_name": "The Maids International, LLC v. Raising Dreams Group LLC",
+  "case_name_full": "",
+  "docket_number": "8:25-cv-00585",
+  "docket_number_core": "2500585",
+  "court_id": "ned",
+  "nature_of_suit": "840 Trademark",
+  "cause": "15:44 Trademark Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2025-09-24",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-10",
+  "assigned_to_str": "Brian C. Buescher",
+  "referred_to_str": "Ryan C. Carson",
+  "pacer_case_id": "108910",
+  "source": "1",
+  "slug": "the-maids-international-llc-v-raising-dreams-group-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 73,
+  "_nos_category": "trademark"
+}

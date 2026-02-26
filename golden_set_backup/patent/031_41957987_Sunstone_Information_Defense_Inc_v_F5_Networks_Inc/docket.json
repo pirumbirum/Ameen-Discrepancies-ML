@@ -1,0 +1,31 @@
+{
+  "id": "41957987",
+  "case_name": "Sunstone Information Defense, Inc. v. F5 Networks, Inc.",
+  "case_name_full": "",
+  "docket_number": "2:21-cv-00050",
+  "docket_number_core": "2100050",
+  "court_id": "vaed",
+  "nature_of_suit": "Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-01-22",
+  "date_terminated": "2021-12-07",
+  "date_last_filing": "2021-12-07",
+  "assigned_to_str": "Roderick C. Young",
+  "referred_to_str": "Lawrence R. Leonard",
+  "pacer_case_id": "503519",
+  "source": "1",
+  "slug": "sunstone-information-defense-inc-v-f5-networks-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 31,
+  "_nos_category": "patent"
+}

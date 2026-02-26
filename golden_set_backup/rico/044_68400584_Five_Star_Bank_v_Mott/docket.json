@@ -1,0 +1,31 @@
+{
+  "id": "68400584",
+  "case_name": "Five Star Bank v. Mott",
+  "case_name_full": "",
+  "docket_number": "6:24-cv-06153",
+  "docket_number_core": "2406153",
+  "court_id": "nywd",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "18:1961 Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-03-11",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-17",
+  "assigned_to_str": "Frank P. Geraci, Jr.",
+  "referred_to_str": "",
+  "pacer_case_id": "149834",
+  "source": "1",
+  "slug": "five-star-bank-v-mott",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 44,
+  "_nos_category": "rico"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "63598805",
+  "case_name": "Utah Physicians for a Healthy Environment v. Harley-Davidson of Salt Lake City",
+  "case_name_full": "",
+  "docket_number": "2:22-cv-00473",
+  "docket_number_core": "2200473",
+  "court_id": "utd",
+  "nature_of_suit": "893 Environmental Matters",
+  "cause": "42:7604 Clear Air Act (Emission Standards)",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-07-18",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-11",
+  "assigned_to_str": "David Barlow",
+  "referred_to_str": "Daphne A. Oberg",
+  "pacer_case_id": "133273",
+  "source": "1",
+  "slug": "utah-physicians-for-a-healthy-environment-v-harley-davidson-of-salt-lake",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 72,
+  "_nos_category": "environmental"
+}

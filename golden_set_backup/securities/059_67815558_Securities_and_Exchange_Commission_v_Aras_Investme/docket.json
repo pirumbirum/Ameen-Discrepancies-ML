@@ -1,0 +1,31 @@
+{
+  "id": "67815558",
+  "case_name": "Securities and Exchange Commission v. Aras Investment Business Group S.A.P.I. de C.V.",
+  "case_name_full": "",
+  "docket_number": "3:23-cv-00353",
+  "docket_number_core": "2300353",
+  "court_id": "txwd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2023-09-21",
+  "date_terminated": "",
+  "date_last_filing": "2025-11-21",
+  "assigned_to_str": "Kathleen Cardone",
+  "referred_to_str": "",
+  "pacer_case_id": "1172757471",
+  "source": "1",
+  "slug": "securities-and-exchange-commission-v-aras-investment-business-group",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 59,
+  "_nos_category": "securities"
+}

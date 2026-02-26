@@ -1,0 +1,31 @@
+{
+  "id": "67861558",
+  "case_name": "QP CAPITAL, LLC v. INDIANA DEPARTMENT OF CHILD SERVICES",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-01800",
+  "docket_number_core": "2301800",
+  "court_id": "insd",
+  "nature_of_suit": "Banks and Banking",
+  "cause": "28:1330 Breach of Contract",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-10-06",
+  "date_terminated": "2023-10-17",
+  "date_last_filing": "2023-10-17",
+  "assigned_to_str": "James Patrick Hanlon",
+  "referred_to_str": "Mark J. Dinsmore",
+  "pacer_case_id": "210349",
+  "source": "1",
+  "slug": "qp-capital-llc-v-indiana-department-of-child-services",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 74,
+  "_nos_category": "banks"
+}

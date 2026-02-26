@@ -1,0 +1,31 @@
+{
+  "id": "68861138",
+  "case_name": "RICE v. WELLS FARGO BANK, NATIONAL ASSOCIATION",
+  "case_name_full": "",
+  "docket_number": "2:24-cv-02647",
+  "docket_number_core": "2402647",
+  "court_id": "paed",
+  "nature_of_suit": "Other Statutes: Banks and Banking",
+  "cause": "15:1693 Electronic Funds Transfer Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-06-17",
+  "date_terminated": "",
+  "date_last_filing": "2025-11-17",
+  "assigned_to_str": "Anita B. Brody",
+  "referred_to_str": "",
+  "pacer_case_id": "623483",
+  "source": "1",
+  "slug": "rice-v-wells-fargo-bank-national-association",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 10,
+  "_nos_category": "banks"
+}

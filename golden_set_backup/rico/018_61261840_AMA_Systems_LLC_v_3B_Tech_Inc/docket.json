@@ -1,0 +1,31 @@
+{
+  "id": "61261840",
+  "case_name": "AMA Systems, LLC v. 3B Tech, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-01472",
+  "docket_number_core": "2101472",
+  "court_id": "mdd",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "18:1964 Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-06-11",
+  "date_terminated": "",
+  "date_last_filing": "2025-04-07",
+  "assigned_to_str": "Julie Rebecca Rubin",
+  "referred_to_str": "J. Mark Coulson",
+  "pacer_case_id": "495736",
+  "source": "1",
+  "slug": "ama-systems-llc-v-3b-tech-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 7,
+    "has_scotus": false
+  },
+  "_rank_in_category": 18,
+  "_nos_category": "rico"
+}

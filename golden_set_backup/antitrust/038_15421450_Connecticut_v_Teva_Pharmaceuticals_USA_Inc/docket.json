@@ -1,0 +1,31 @@
+{
+  "id": "15421450",
+  "case_name": "Connecticut v. Teva Pharmaceuticals USA, Inc.",
+  "case_name_full": "",
+  "docket_number": "3:19-cv-00710",
+  "docket_number_core": "1900710",
+  "court_id": "ctd",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "15:1 Antitrust Litigation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-05-10",
+  "date_terminated": "2019-05-30",
+  "date_last_filing": "2025-12-23",
+  "assigned_to_str": "Michael P. Shea",
+  "referred_to_str": "Robert A. Richardson",
+  "pacer_case_id": "133276",
+  "source": "9",
+  "slug": "connecticut-v-teva-pharmaceuticals-usa-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 38,
+  "_nos_category": "antitrust"
+}

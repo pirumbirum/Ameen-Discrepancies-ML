@@ -1,0 +1,31 @@
+{
+  "id": "18594627",
+  "case_name": "Stiles v. Safeco Insurance",
+  "case_name_full": "",
+  "docket_number": "2:20-cv-01731",
+  "docket_number_core": "2001731",
+  "court_id": "caed",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2020-08-28",
+  "date_terminated": "2022-08-22",
+  "date_last_filing": "2022-08-22",
+  "assigned_to_str": "Judg Kimberly J. Mueller",
+  "referred_to_str": "Dennis M. Cota",
+  "pacer_case_id": "378391",
+  "source": "1",
+  "slug": "stiles-v-safeco-insurance",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 3,
+    "has_scotus": false
+  },
+  "_rank_in_category": 43,
+  "_nos_category": "insurance"
+}

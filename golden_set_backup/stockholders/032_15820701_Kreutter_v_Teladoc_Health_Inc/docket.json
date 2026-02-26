@@ -1,0 +1,31 @@
+{
+  "id": "15820701",
+  "case_name": "Kreutter v. Teladoc Health, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:19-cv-05875",
+  "docket_number_core": "1905875",
+  "court_id": "nysd",
+  "nature_of_suit": "160 Stockholders Suits",
+  "cause": "12:22 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-06-21",
+  "date_terminated": "2021-09-17",
+  "date_last_filing": "2021-09-17",
+  "assigned_to_str": "Gregory H. Woods",
+  "referred_to_str": "Barbara C. Moses",
+  "pacer_case_id": "518139",
+  "source": "9",
+  "slug": "kreutter-v-teladoc-health-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 32,
+  "_nos_category": "stockholders"
+}

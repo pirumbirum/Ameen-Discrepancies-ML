@@ -1,0 +1,31 @@
+{
+  "id": "59703621",
+  "case_name": "BCBSM, Inc. v. Vyera Pharmaceuticals, LLC",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-01884",
+  "docket_number_core": "2101884",
+  "court_id": "nysd",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "15:1 Antitrust Litigation (Monopolizing Trade)",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-03-04",
+  "date_terminated": "2022-06-17",
+  "date_last_filing": "2024-11-20",
+  "assigned_to_str": "Denise L. Cote",
+  "referred_to_str": "Robert W. Lehrburger",
+  "pacer_case_id": "555381",
+  "source": "1",
+  "slug": "bcbsm-inc-v-vyera-pharmaceuticals-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 93,
+  "_nos_category": "antitrust"
+}

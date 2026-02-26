@@ -1,0 +1,31 @@
+{
+  "id": "58987250",
+  "case_name": "Carebourn Capital, L.P. v. Darkpulse, Inc.",
+  "case_name_full": "",
+  "docket_number": "0:21-cv-00288",
+  "docket_number_core": "2100288",
+  "court_id": "mnd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1332 Diversity-Contract Dispute",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2021-02-02",
+  "date_terminated": "2021-02-22",
+  "date_last_filing": "2021-02-18",
+  "assigned_to_str": "Wilhelmina M. Wright",
+  "referred_to_str": "David T. Schultz",
+  "pacer_case_id": "192370",
+  "source": "1",
+  "slug": "carebourn-capital-lp-v-darkpulse-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 81,
+  "_nos_category": "other_contract"
+}

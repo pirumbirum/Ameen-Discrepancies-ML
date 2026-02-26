@@ -1,0 +1,31 @@
+{
+  "id": "61023066",
+  "case_name": "JBS Hair, Inc. v. Hair Zone, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-01858",
+  "docket_number_core": "2101858",
+  "court_id": "gand",
+  "nature_of_suit": "Patent",
+  "cause": "28:1338 Patent Infringement",
+  "jurisdiction_type": "",
+  "date_filed": "2021-05-04",
+  "date_terminated": "2022-03-21",
+  "date_last_filing": "2022-03-21",
+  "assigned_to_str": "Michael L. Brown",
+  "referred_to_str": "",
+  "pacer_case_id": "289933",
+  "source": "1",
+  "slug": "jbs-hair-inc-v-hair-zone-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 23,
+  "_nos_category": "patent"
+}

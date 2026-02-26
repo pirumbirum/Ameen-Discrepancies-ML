@@ -1,0 +1,31 @@
+{
+  "id": "68698131",
+  "case_name": "The Upper Deck Company v. Pixels.com, LLC",
+  "case_name_full": "",
+  "docket_number": "3:24-cv-00923",
+  "docket_number_core": "2400923",
+  "court_id": "casd",
+  "nature_of_suit": "Trademark",
+  "cause": "15:1051 Trademark Infringement",
+  "jurisdiction_type": "",
+  "date_filed": "2024-05-28",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-30",
+  "assigned_to_str": "Cynthia Bashant",
+  "referred_to_str": "Daniel E. Butcher",
+  "pacer_case_id": "785781",
+  "source": "1",
+  "slug": "the-upper-deck-company-v-pixelscom-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 5,
+    "has_scotus": false
+  },
+  "_rank_in_category": 78,
+  "_nos_category": "trademark"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "63345970",
+  "case_name": "Threaded Pear LLC v. Jen & Co. LLC",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-04408",
+  "docket_number_core": "2204408",
+  "court_id": "nysd",
+  "nature_of_suit": "Trademark",
+  "cause": "28:1331dj Fed. Question:  Declaratory Judgment",
+  "jurisdiction_type": "",
+  "date_filed": "2022-05-27",
+  "date_terminated": "2024-12-12",
+  "date_last_filing": "2025-02-03",
+  "assigned_to_str": "Jennifer H. Rearden",
+  "referred_to_str": "",
+  "pacer_case_id": "580677",
+  "source": "1",
+  "slug": "threaded-pear-llc-v-jen-co-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 6,
+  "_nos_category": "trademark"
+}

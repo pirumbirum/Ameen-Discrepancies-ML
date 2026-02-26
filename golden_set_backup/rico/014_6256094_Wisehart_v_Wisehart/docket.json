@@ -1,0 +1,31 @@
+{
+  "id": "6256094",
+  "case_name": "Wisehart v. Wisehart",
+  "case_name_full": "",
+  "docket_number": "1:18-cv-00021",
+  "docket_number_core": "1800021",
+  "court_id": "cod",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "18:1961 Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2018-01-04",
+  "date_terminated": "2020-05-14",
+  "date_last_filing": "2022-02-08",
+  "assigned_to_str": "Marcia S. Krieger",
+  "referred_to_str": "Nina Y. Zzz_wang-Mj",
+  "pacer_case_id": "176810",
+  "source": "9",
+  "slug": "wisehart-v-wisehart",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 14,
+  "_nos_category": "rico"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "6116611",
+  "case_name": "California River Watch v. City of Vacaville",
+  "case_name_full": "",
+  "docket_number": "2:17-cv-00524",
+  "docket_number_core": "1700524",
+  "court_id": "caed",
+  "nature_of_suit": "Environmental Matters",
+  "cause": "42:6901 Resource & Recovery Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2017-03-13",
+  "date_terminated": "2022-07-26",
+  "date_last_filing": "2022-08-30",
+  "assigned_to_str": "",
+  "referred_to_str": "",
+  "pacer_case_id": "312244",
+  "source": "9",
+  "slug": "california-river-watch-v-city-of-vacaville",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 7,
+  "_nos_category": "environmental"
+}

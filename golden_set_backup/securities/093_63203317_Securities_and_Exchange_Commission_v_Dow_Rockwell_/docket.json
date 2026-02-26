@@ -1,0 +1,31 @@
+{
+  "id": "63203317",
+  "case_name": "Securities and Exchange Commission v. Dow Rockwell LLC",
+  "case_name_full": "",
+  "docket_number": "3:22-cv-02069",
+  "docket_number_core": "2202069",
+  "court_id": "cand",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2022-03-31",
+  "date_terminated": "2024-11-25",
+  "date_last_filing": "2025-03-27",
+  "assigned_to_str": "Maxine M. Chesney",
+  "referred_to_str": "Donna M. Ryu",
+  "pacer_case_id": "393903",
+  "source": "1",
+  "slug": "securities-and-exchange-commission-v-dow-rockwell-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 93,
+  "_nos_category": "securities"
+}

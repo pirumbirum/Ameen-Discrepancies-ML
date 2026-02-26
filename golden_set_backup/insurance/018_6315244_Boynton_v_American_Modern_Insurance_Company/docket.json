@@ -1,0 +1,31 @@
+{
+  "id": "6315244",
+  "case_name": "Boynton v. American Modern Insurance Company",
+  "case_name_full": "",
+  "docket_number": "3:18-cv-00374",
+  "docket_number_core": "1800374",
+  "court_id": "cand",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2018-01-17",
+  "date_terminated": "2021-08-30",
+  "date_last_filing": "2021-08-30",
+  "assigned_to_str": "Charles R. Breyer",
+  "referred_to_str": "",
+  "pacer_case_id": "321455",
+  "source": "9",
+  "slug": "boynton-v-american-modern-insurance-company",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 18,
+  "_nos_category": "insurance"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "16470905",
+  "case_name": "San Francisco Baykeeper v. Air Products & Chemicals Inc.",
+  "case_name_full": "",
+  "docket_number": "3:19-cv-07518",
+  "docket_number_core": "1907518",
+  "court_id": "cand",
+  "nature_of_suit": "893 Environmental Matters",
+  "cause": "33:1319 Clean Water Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-11-14",
+  "date_terminated": "2020-12-02",
+  "date_last_filing": "2021-08-18",
+  "assigned_to_str": "Richard Seeborg",
+  "referred_to_str": "",
+  "pacer_case_id": "351512",
+  "source": "9",
+  "slug": "san-francisco-baykeeper-v-air-products-chemicals-inc",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 87,
+  "_nos_category": "environmental"
+}

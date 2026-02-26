@@ -1,0 +1,31 @@
+{
+  "id": "17458159",
+  "case_name": "Patten v. Lown",
+  "case_name_full": "",
+  "docket_number": "2:20-cv-00605",
+  "docket_number_core": "2000605",
+  "court_id": "flmd",
+  "nature_of_suit": "Banks and Banking",
+  "cause": "12:1972 Tying Arrangement Act",
+  "jurisdiction_type": "",
+  "date_filed": "2020-08-18",
+  "date_terminated": "2021-01-25",
+  "date_last_filing": "2021-01-26",
+  "assigned_to_str": "John L. Badalamenti",
+  "referred_to_str": "Mac R. McCoy",
+  "pacer_case_id": "380445",
+  "source": "1",
+  "slug": "patten-v-lown",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 5,
+  "_nos_category": "banks"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "16651838",
+  "case_name": "Monkeymedia, Inc. v. Amazon.Com, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-00010",
+  "docket_number_core": "2000010",
+  "court_id": "txwd",
+  "nature_of_suit": "830 Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-01-03",
+  "date_terminated": "",
+  "date_last_filing": "2025-09-23",
+  "assigned_to_str": "Alan D. Albright",
+  "referred_to_str": "",
+  "pacer_case_id": "1077086",
+  "source": "9",
+  "slug": "monkeymedia-inc-v-amazoncom-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 9,
+  "_nos_category": "patent"
+}

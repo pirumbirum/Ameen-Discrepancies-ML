@@ -1,0 +1,31 @@
+{
+  "id": "18582654",
+  "case_name": "American Spirit and Cheer Essentials, Inc. v. Varsity Brands, LLC",
+  "case_name_full": "",
+  "docket_number": "2:20-cv-02782",
+  "docket_number_core": "2002782",
+  "court_id": "tnwd",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "15:1 Antitrust Litigation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-10-27",
+  "date_terminated": "2023-03-21",
+  "date_last_filing": "2024-04-05",
+  "assigned_to_str": "Sheryl H. Lipman",
+  "referred_to_str": "Tu M. Pham",
+  "pacer_case_id": "89982",
+  "source": "1",
+  "slug": "american-spirit-and-cheer-essentials-inc-v-varsity-brands-llc",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 3,
+    "has_scotus": false
+  },
+  "_rank_in_category": 99,
+  "_nos_category": "antitrust"
+}

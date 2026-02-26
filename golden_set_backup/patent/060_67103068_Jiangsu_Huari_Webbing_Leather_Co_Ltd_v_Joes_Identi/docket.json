@@ -1,0 +1,31 @@
+{
+  "id": "67103068",
+  "case_name": "Jiangsu Huari Webbing Leather Co., Ltd. v. Joes Identified in Schedule A",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-02605",
+  "docket_number_core": "2302605",
+  "court_id": "nysd",
+  "nature_of_suit": "830 Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-03-28",
+  "date_terminated": "2023-04-28",
+  "date_last_filing": "2024-05-14",
+  "assigned_to_str": "Jennifer L. Rochon",
+  "referred_to_str": "",
+  "pacer_case_id": "596309",
+  "source": "1",
+  "slug": "jiangsu-huari-webbing-leather-co-ltd-v-joes-identified-in-schedule-a",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 3,
+    "has_scotus": false
+  },
+  "_rank_in_category": 60,
+  "_nos_category": "patent"
+}

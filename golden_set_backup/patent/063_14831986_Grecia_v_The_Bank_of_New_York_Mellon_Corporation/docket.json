@@ -1,0 +1,31 @@
+{
+  "id": "14831986",
+  "case_name": "Grecia v. The Bank of New York Mellon Corporation",
+  "case_name_full": "",
+  "docket_number": "1:19-cv-02810",
+  "docket_number_core": "1902810",
+  "court_id": "nysd",
+  "nature_of_suit": "Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-03-29",
+  "date_terminated": "2020-03-16",
+  "date_last_filing": "2020-04-28",
+  "assigned_to_str": "Valerie E. Caproni",
+  "referred_to_str": "",
+  "pacer_case_id": "512734",
+  "source": "9",
+  "slug": "grecia-v-the-bank-of-new-york-mellon-corporation",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 3,
+    "has_scotus": false
+  },
+  "_rank_in_category": 63,
+  "_nos_category": "patent"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "4356193",
+  "case_name": "Nypl v. JP Morgan Chase & Co.",
+  "case_name_full": "",
+  "docket_number": "1:15-cv-09300",
+  "docket_number_core": "1509300",
+  "court_id": "nysd",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "15:1 Antitrust Litigation (Monopolizing Trade)",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2015-11-25",
+  "date_terminated": "2023-03-30",
+  "date_last_filing": "2024-07-17",
+  "assigned_to_str": "Lorna G. Schofield",
+  "referred_to_str": "",
+  "pacer_case_id": "450469",
+  "source": "9",
+  "slug": "nypl-v-jp-morgan-chase-co",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 16,
+    "has_scotus": false
+  },
+  "_rank_in_category": 51,
+  "_nos_category": "antitrust"
+}

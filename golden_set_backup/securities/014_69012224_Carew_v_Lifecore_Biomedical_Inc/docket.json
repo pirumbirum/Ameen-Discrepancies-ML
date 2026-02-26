@@ -1,0 +1,31 @@
+{
+  "id": "69012224",
+  "case_name": "Carew v. Lifecore Biomedical, Inc.",
+  "case_name_full": "",
+  "docket_number": "0:24-cv-03028",
+  "docket_number_core": "2403028",
+  "court_id": "mnd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-07-29",
+  "date_terminated": "",
+  "date_last_filing": "2025-11-05",
+  "assigned_to_str": "Laura M. Provinzino",
+  "referred_to_str": "Elsa M. Bullard",
+  "pacer_case_id": "218219",
+  "source": "1",
+  "slug": "carew-v-lifecore-biomedical-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 14,
+  "_nos_category": "securities"
+}

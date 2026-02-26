@@ -1,0 +1,31 @@
+{
+  "id": "16922668",
+  "case_name": "Inland Diamond Products Co v. Cherry Optical Inc",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-00352",
+  "docket_number_core": "2000352",
+  "court_id": "wied",
+  "nature_of_suit": "Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal question",
+  "date_filed": "2020-03-03",
+  "date_terminated": "2023-09-28",
+  "date_last_filing": "2025-12-30",
+  "assigned_to_str": "William C Griesbach",
+  "referred_to_str": "",
+  "pacer_case_id": "89137",
+  "source": "9",
+  "slug": "inland-diamond-products-co-v-cherry-optical-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 3,
+    "has_scotus": false
+  },
+  "_rank_in_category": 86,
+  "_nos_category": "patent"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "61069219",
+  "case_name": "Brown v. Continental Casualty Company",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-02349",
+  "docket_number_core": "2102349",
+  "court_id": "ilnd",
+  "nature_of_suit": "Contract: Insurance",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2021-04-30",
+  "date_terminated": "",
+  "date_last_filing": "2025-09-10",
+  "assigned_to_str": "Georgia N Alexakis",
+  "referred_to_str": "Daniel P. McLaughlin",
+  "pacer_case_id": "402799",
+  "source": "1",
+  "slug": "brown-v-continental-casualty-company",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 65,
+  "_nos_category": "insurance"
+}

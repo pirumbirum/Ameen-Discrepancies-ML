@@ -1,0 +1,31 @@
+{
+  "id": "66576017",
+  "case_name": "United States v. Container Life Cycle Management LLC",
+  "case_name_full": "",
+  "docket_number": "2:22-cv-01423",
+  "docket_number_core": "2201423",
+  "court_id": "wied",
+  "nature_of_suit": "893 Environmental Matters",
+  "cause": "42:7413(b) Clean Air Act",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2022-11-30",
+  "date_terminated": "2023-07-27",
+  "date_last_filing": "2025-12-01",
+  "assigned_to_str": "J. P. Stadtmueller",
+  "referred_to_str": "",
+  "pacer_case_id": "101545",
+  "source": "1",
+  "slug": "united-states-v-container-life-cycle-management-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 57,
+  "_nos_category": "environmental"
+}

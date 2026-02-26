@@ -1,0 +1,31 @@
+{
+  "id": "16034185",
+  "case_name": "Zimmerman v. Facebook, Inc.",
+  "case_name_full": "",
+  "docket_number": "3:19-cv-04591",
+  "docket_number_core": "1904591",
+  "court_id": "cand",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "28:1332 Diversity-Contract Dispute",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2019-08-07",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-18",
+  "assigned_to_str": "Vince Chhabria",
+  "referred_to_str": "",
+  "pacer_case_id": "345985",
+  "source": "9",
+  "slug": "zimmerman-v-facebook-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 64,
+  "_nos_category": "rico"
+}

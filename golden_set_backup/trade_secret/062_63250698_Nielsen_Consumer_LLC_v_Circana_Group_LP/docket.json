@@ -1,0 +1,31 @@
+{
+  "id": "63250698",
+  "case_name": "Nielsen Consumer LLC v. Circana Group, L.P.",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-03235",
+  "docket_number_core": "2203235",
+  "court_id": "nysd",
+  "nature_of_suit": "Defend Trade Secrets Act (of 2016)",
+  "cause": "18:1836(a) Injunction against Misappropriation of Trade Secrets",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-04-20",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-22",
+  "assigned_to_str": "Paul Oetken",
+  "referred_to_str": "Katharine H. Parker",
+  "pacer_case_id": "578583",
+  "source": "1",
+  "slug": "nielsen-consumer-llc-v-circana-group-lp",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 30,
+    "has_scotus": false
+  },
+  "_rank_in_category": 62,
+  "_nos_category": "trade_secret"
+}

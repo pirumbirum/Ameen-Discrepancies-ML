@@ -1,0 +1,31 @@
+{
+  "id": "17370123",
+  "case_name": "Della Ratta v. Broadneck Development Corp.",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-00938",
+  "docket_number_core": "2000938",
+  "court_id": "mdd",
+  "nature_of_suit": "Stockholders Suits",
+  "cause": "28:1446 Notice of Removal - Stockholders Suit",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2020-04-10",
+  "date_terminated": "2020-07-21",
+  "date_last_filing": "2020-07-21",
+  "assigned_to_str": "James K. Bredar",
+  "referred_to_str": "",
+  "pacer_case_id": "480985",
+  "source": "9",
+  "slug": "della-ratta-v-broadneck-development-corp",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 92,
+  "_nos_category": "stockholders"
+}

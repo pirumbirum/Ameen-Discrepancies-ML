@@ -1,0 +1,31 @@
+{
+  "id": "66752581",
+  "case_name": "Conforti v. Owen",
+  "case_name_full": "",
+  "docket_number": "3:23-cv-00059",
+  "docket_number_core": "2300059",
+  "court_id": "tnmd",
+  "nature_of_suit": "Stockholders Suits",
+  "cause": "28:1332 Diversity - Stockholders Suits",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2023-01-20",
+  "date_terminated": "2023-10-12",
+  "date_last_filing": "2023-10-12",
+  "assigned_to_str": "Aleta A. Trauger",
+  "referred_to_str": "",
+  "pacer_case_id": "93275",
+  "source": "1",
+  "slug": "conforti-v-owen",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 57,
+  "_nos_category": "stockholders"
+}

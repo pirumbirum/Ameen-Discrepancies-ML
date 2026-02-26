@@ -1,0 +1,31 @@
+{
+  "id": "68307470",
+  "case_name": "Farella Braun + Martel LLP v. Federal Deposit Insurance Corporation as Receiver for Silicon Valley Bank",
+  "case_name_full": "",
+  "docket_number": "3:24-cv-01306",
+  "docket_number_core": "2401306",
+  "court_id": "cand",
+  "nature_of_suit": "430 Banks and Banking",
+  "cause": "12:1821 Default of Loan by Promissary Note",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-03-04",
+  "date_terminated": "",
+  "date_last_filing": "2025-09-08",
+  "assigned_to_str": "Susan Illston",
+  "referred_to_str": "",
+  "pacer_case_id": "425733",
+  "source": "1",
+  "slug": "farella-braun-martel-llp-v-federal-deposit-insurance-corporation-as",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 3,
+    "has_scotus": false
+  },
+  "_rank_in_category": 75,
+  "_nos_category": "banks"
+}

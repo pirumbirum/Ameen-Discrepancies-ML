@@ -1,0 +1,31 @@
+{
+  "id": "51144334",
+  "case_name": "GSH Trademarks Limited v. Sia \\Baltmark Invest\\\"\"",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-00271",
+  "docket_number_core": "2000271",
+  "court_id": "vaed",
+  "nature_of_suit": "Trademark",
+  "cause": "15:1071 Appeal of Decision of U.S. Patent & Trademark Office",
+  "jurisdiction_type": "",
+  "date_filed": "2020-03-10",
+  "date_terminated": "2021-05-19",
+  "date_last_filing": "2021-05-19",
+  "assigned_to_str": "Liam O'Grady",
+  "referred_to_str": "Michael S. (MJ)Nachmanoff",
+  "pacer_case_id": "470826",
+  "source": "1",
+  "slug": "gsh-trademarks-limited-v-sia-baltmark-invest",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 94,
+  "_nos_category": "trademark"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "16459528",
+  "case_name": "Liveoak v. Loancare LLC",
+  "case_name_full": "",
+  "docket_number": "2:19-cv-01641",
+  "docket_number_core": "1901641",
+  "court_id": "alnd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1441 Petition for Removal- Contract Dispute",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2019-10-07",
+  "date_terminated": "2019-11-08",
+  "date_last_filing": "2019-11-08",
+  "assigned_to_str": "Annemarie Carney Axon",
+  "referred_to_str": "",
+  "pacer_case_id": "171902",
+  "source": "9",
+  "slug": "liveoak-v-loancare-llc",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 29,
+  "_nos_category": "other_contract"
+}

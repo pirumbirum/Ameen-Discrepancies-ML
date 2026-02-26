@@ -1,0 +1,72 @@
+name: "08: Enrich Golden Set"
+
+# Adds 5 data layers to each golden set case via CourtListener API:
+#   1. docket_entries      — full filing timeline
+#   2. recap_documents     — available RECAP filings
+#   3. citations           — citation graph (in + out)
+#   4. parties             — parties & attorneys
+#   5. financial_disclosures — judge financial disclosures
+#
+# Resumable: re-run to continue from where it stopped.
+# Each phase commits periodically to save progress.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: "Enrich: all 5 phases"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+        run: |
+          python3 scripts/enrich_golden_set.py all --commit-every 100
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "=== Enrichment layer counts ==="
+          for layer in docket_entries recap_documents citations parties financial_disclosures; do
+            count=$(find golden_set -path "*/${layer}/_done.json" 2>/dev/null | wc -l)
+            echo "  ${layer}: ${count} cases enriched"
+          done
+          echo ""
+          du -sh golden_set/
+
+      - name: Final commit
+        if: always()
+        run: |
+          git add golden_set/
+          git diff --cached --quiet && echo "All committed during enrichment" && exit 0
+          git commit -m "Enrich golden set: final commit"
+          git push
+
+      - name: Upload artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: golden-set-enriched-${{ github.run_id }}
+          path: golden_set/
+          retention-days: 90

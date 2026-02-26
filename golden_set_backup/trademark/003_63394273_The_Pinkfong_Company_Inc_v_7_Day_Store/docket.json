@@ -1,0 +1,31 @@
+{
+  "id": "63394273",
+  "case_name": "The Pinkfong Company Inc. v. 7 Day Store",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-04133",
+  "docket_number_core": "2204133",
+  "court_id": "nysd",
+  "nature_of_suit": "Trademark",
+  "cause": "15:1051 Trademark Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-05-20",
+  "date_terminated": "2023-11-03",
+  "date_last_filing": "2024-02-22",
+  "assigned_to_str": "Paul A. Engelmayer",
+  "referred_to_str": "James L. Cott",
+  "pacer_case_id": "580213",
+  "source": "1",
+  "slug": "the-pinkfong-company-inc-v-7-day-store",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 3,
+  "_nos_category": "trademark"
+}

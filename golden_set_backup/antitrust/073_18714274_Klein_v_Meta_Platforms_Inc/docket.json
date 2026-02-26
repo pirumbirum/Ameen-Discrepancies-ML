@@ -1,0 +1,31 @@
+{
+  "id": "18714274",
+  "case_name": "Klein v. Meta Platforms, Inc.",
+  "case_name_full": "",
+  "docket_number": "3:20-cv-08570",
+  "docket_number_core": "2008570",
+  "court_id": "cand",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "15:2 Antitrust Litigation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-12-03",
+  "date_terminated": "",
+  "date_last_filing": "2025-11-03",
+  "assigned_to_str": "James Donato",
+  "referred_to_str": "",
+  "pacer_case_id": "369872",
+  "source": "1",
+  "slug": "klein-v-meta-platforms-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 10,
+    "has_scotus": false
+  },
+  "_rank_in_category": 73,
+  "_nos_category": "antitrust"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "67983465",
+  "case_name": "City of Fort Lauderdale General Employees' Retirement System v. Holley Inc.",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-00148",
+  "docket_number_core": "2300148",
+  "court_id": "kywd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-11-06",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-08",
+  "assigned_to_str": "Greg N. Stivers",
+  "referred_to_str": "",
+  "pacer_case_id": "132550",
+  "source": "1",
+  "slug": "city-of-fort-lauderdale-general-employees-retirement-system-v-holley-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 27,
+  "_nos_category": "securities"
+}

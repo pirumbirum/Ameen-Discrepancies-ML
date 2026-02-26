@@ -1,0 +1,31 @@
+{
+  "id": "66628711",
+  "case_name": "DRIVER OPPORTUNITY PARTNERS I, LP v. AMERISERV FINANCIAL, INC.",
+  "case_name_full": "",
+  "docket_number": "3:22-cv-00237",
+  "docket_number_core": "2200237",
+  "court_id": "pawd",
+  "nature_of_suit": "160 Stockholders Suits",
+  "cause": "28:1332 Diversity - Stockholders Suits",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-12-09",
+  "date_terminated": "2024-06-17",
+  "date_last_filing": "2024-06-17",
+  "assigned_to_str": "Stephanie L. Haines",
+  "referred_to_str": "",
+  "pacer_case_id": "294744",
+  "source": "1",
+  "slug": "driver-opportunity-partners-i-lp-v-ameriserv-financial-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 33,
+  "_nos_category": "stockholders"
+}

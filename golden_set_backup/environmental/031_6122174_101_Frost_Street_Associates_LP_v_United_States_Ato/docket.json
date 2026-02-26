@@ -1,0 +1,31 @@
+{
+  "id": "6122174",
+  "case_name": "101 Frost Street Associates, L.P. v. United States Atomic Energy Commission",
+  "case_name_full": "",
+  "docket_number": "2:17-cv-03585",
+  "docket_number_core": "1703585",
+  "court_id": "nyed",
+  "nature_of_suit": "893 Environmental Matters",
+  "cause": "42:6901 Environmental Cleanup Expenses",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2017-06-14",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-10",
+  "assigned_to_str": "Joan M. Azrack",
+  "referred_to_str": "Arlene R. Lindsay",
+  "pacer_case_id": "403061",
+  "source": "9",
+  "slug": "101-frost-street-associates-lp-v-united-states-atomic-energy-commission",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 3,
+    "has_scotus": false
+  },
+  "_rank_in_category": 31,
+  "_nos_category": "environmental"
+}
