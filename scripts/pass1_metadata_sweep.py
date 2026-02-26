@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """
-Pass 1: Metadata Sweep
+Pass 1: Metadata Sweep (v2 — year-by-year slicing)
 Pull lightweight metadata for federal corporate litigation dockets.
 Commits to cases/ folder every 15 minutes.
-Self-contained -- no external imports beyond requests.
+
+Key fix: queries one year at a time per NOS code to avoid CourtListener
+database timeouts on large result sets.
 """
 
 import requests
@@ -28,7 +30,7 @@ DRY_RUN = os.environ.get("DRY_RUN", "false").lower() == "true"
 
 BASE_URL = "https://www.courtlistener.com/api/rest/v4"
 HEADERS = {"Authorization": f"Token {TOKEN}"}
-MAX_PAGES_PER_NOS = 2 if DRY_RUN else None
+MAX_PAGES_PER_SLICE = 2 if DRY_RUN else None
 
 # Save to cases/ folder in repo
 OUTPUT_DIR = "cases"
@@ -59,6 +61,16 @@ else:
     NOS_LIST = TIER1_NOS + TIER2_NOS
 
 
+# Build year slices from date range
+START_YEAR = int(DATE_START[:4])
+END_YEAR = int(DATE_END[:4])
+YEAR_SLICES = []
+for y in range(START_YEAR, END_YEAR + 1):
+    slice_start = f"{y}-01-01" if y > START_YEAR else DATE_START
+    slice_end = f"{y}-12-31" if y < END_YEAR else DATE_END
+    YEAR_SLICES.append((y, slice_start, slice_end))
+
+
 # --- Helpers ---
 
 def save_json(data, filepath):
@@ -78,12 +90,11 @@ def git_commit_and_push(message):
     """Commit cases/ folder and push to remote."""
     try:
         subprocess.run(["git", "add", "cases/"], check=True, capture_output=True)
-        # Check if there's anything to commit
         result = subprocess.run(
             ["git", "diff", "--cached", "--quiet"],
             capture_output=True
         )
-        if result.returncode != 0:  # There are staged changes
+        if result.returncode != 0:
             subprocess.run(
                 ["git", "commit", "-m", message],
                 check=True, capture_output=True
@@ -138,7 +149,7 @@ def api_get(url, params=None, max_retries=5):
 
 # --- Rate limiter ---
 call_timestamps = []
-RATE_LIMIT = 4800  # leave 200 buffer from 5000/hr
+RATE_LIMIT = 4800
 
 
 def rate_limited_get(url, params=None):
@@ -161,7 +172,7 @@ def rate_limited_get(url, params=None):
 
 # --- Progress report ---
 
-def print_report(total_collected, total_api_calls, start_time, current_nos, current_page, nos_counts):
+def print_report(total_collected, total_api_calls, start_time, current_nos, current_year, nos_counts):
     elapsed = time.time() - start_time
     rate = total_collected / max(elapsed, 1) * 3600
 
@@ -173,7 +184,7 @@ def print_report(total_collected, total_api_calls, start_time, current_nos, curr
     print(f"  Rate:             {rate:>8,.0f} dockets/hr")
     print(f"  Elapsed:          {elapsed/60:>8.1f} min")
     print(f"  Current NOS:      {current_nos}")
-    print(f"  Current page:     {current_page}")
+    print(f"  Current year:     {current_year}")
     print(f"  ---")
     print(f"  Per NOS breakdown:")
     for nos, count in nos_counts.items():
@@ -204,8 +215,9 @@ def main():
         nos_counts[nos_text] = checkpoint.get(f"{nos_key}_total", 0)
 
     print("=" * 60)
-    print(f"PASS 1: METADATA SWEEP")
+    print(f"PASS 1: METADATA SWEEP (v2 — year-by-year)")
     print(f"Date range: {DATE_START} to {DATE_END}")
+    print(f"Year slices: {len(YEAR_SLICES)} ({START_YEAR}-{END_YEAR})")
     print(f"NOS tier:   {NOS_TIER} ({len(NOS_LIST)} codes)")
     print(f"Dry run:    {DRY_RUN}")
     print(f"Resuming:   {total_collected} already collected")
@@ -214,7 +226,7 @@ def main():
     for nos_text in NOS_LIST:
         nos_key = nos_text.lower().replace(" ", "_")
 
-        # Skip completed NOS codes
+        # Skip fully completed NOS codes
         if checkpoint.get(f"{nos_key}_completed"):
             print(f"\n[SKIP] {nos_text} -- already completed")
             continue
@@ -229,89 +241,105 @@ def main():
         nos_count = len(nos_data)
         nos_counts[nos_text] = nos_count
 
-        params = {
-            "court__jurisdiction": "FD",
-            "date_filed__gte": DATE_START,
-            "date_filed__lte": DATE_END,
-            "nature_of_suit__contains": nos_text,
-            "order_by": "date_filed,id",
-            "fields": FIELDS,
-        }
+        for year, slice_start, slice_end in YEAR_SLICES:
+            # Skip completed year slices
+            slice_key = f"{nos_key}_{year}"
+            if checkpoint.get(f"{slice_key}_done"):
+                continue
 
-        page = 0
-        next_url = None
+            print(f"\n  --- {nos_text} / {year} ({slice_start} to {slice_end}) ---")
 
-        while True:
-            page += 1
-            if MAX_PAGES_PER_NOS and page > MAX_PAGES_PER_NOS:
-                print(f"  [DRY RUN] Stopping after {MAX_PAGES_PER_NOS} pages")
-                break
+            params = {
+                "court__jurisdiction": "FD",
+                "date_filed__gte": slice_start,
+                "date_filed__lte": slice_end,
+                "nature_of_suit__contains": nos_text,
+                "order_by": "date_filed,id",
+                "fields": FIELDS,
+            }
 
-            # Fetch page
-            if next_url:
-                data = rate_limited_get(next_url)
-            else:
-                data = rate_limited_get(f"{BASE_URL}/dockets/", params=params)
+            page = 0
+            next_url = None
+            slice_count = 0
 
-            total_api_calls += 1
+            while True:
+                page += 1
+                if MAX_PAGES_PER_SLICE and page > MAX_PAGES_PER_SLICE:
+                    print(f"  [DRY RUN] Stopping after {MAX_PAGES_PER_SLICE} pages")
+                    break
 
-            if not data:
-                print(f"  [ERROR] Failed to fetch page {page}, moving to next NOS")
-                break
+                # Fetch page
+                if next_url:
+                    data = rate_limited_get(next_url)
+                else:
+                    data = rate_limited_get(f"{BASE_URL}/dockets/", params=params)
 
-            results = data.get("results", [])
-            nos_count += len(results)
-            nos_counts[nos_text] = nos_count
-            nos_data.extend(results)
+                total_api_calls += 1
 
-            # Add to master index
-            new_this_page = 0
-            for r in results:
-                did = str(r["id"])
-                if did not in master_index["dockets"]:
-                    master_index["dockets"][did] = {
-                        "case_name": r.get("case_name", ""),
-                        "court_id": r.get("court_id", ""),
-                        "nos": r.get("nature_of_suit", ""),
-                        "date_filed": r.get("date_filed", ""),
-                    }
-                    total_collected += 1
-                    new_this_page += 1
+                if not data:
+                    print(f"  [ERROR] Failed to fetch {nos_text}/{year} page {page}")
+                    # Don't mark slice as done — can retry later
+                    break
 
-            print(f"  Page {page}: +{len(results)} ({new_this_page} new) | NOS: {nos_count:,} | Total: {total_collected:,}")
+                results = data.get("results", [])
+                slice_count += len(results)
+                nos_count += len(results)
+                nos_counts[nos_text] = nos_count
+                nos_data.extend(results)
 
-            # Save every 5 pages
-            if page % 5 == 0:
-                save_json(nos_data, nos_file)
+                # Add to master index
+                new_this_page = 0
+                for r in results:
+                    did = str(r["id"])
+                    if did not in master_index["dockets"]:
+                        master_index["dockets"][did] = {
+                            "case_name": r.get("case_name", ""),
+                            "court_id": r.get("court_id", ""),
+                            "nos": r.get("nature_of_suit", ""),
+                            "date_filed": r.get("date_filed", ""),
+                        }
+                        total_collected += 1
+                        new_this_page += 1
 
-            # Every 15 minutes: save, report, commit & push
-            if time.time() - last_save_time >= SAVE_INTERVAL:
-                save_json(nos_data, nos_file)
-                save_json(master_index, f"{OUTPUT_DIR}/pass1_index.json")
-                save_json(checkpoint, f"{OUTPUT_DIR}/pass1_checkpoint.json")
+                print(f"  {year} p{page}: +{len(results)} ({new_this_page} new) | slice: {slice_count} | NOS: {nos_count:,} | Total: {total_collected:,}")
 
-                print_report(total_collected, total_api_calls, start_time, nos_text, page, nos_counts)
+                # Save every 5 pages
+                if page % 5 == 0:
+                    save_json(nos_data, nos_file)
 
-                git_commit_and_push(
-                    f"Pass 1 progress: {total_collected:,} dockets | "
-                    f"{nos_text} page {page} | "
-                    f"{datetime.utcnow().strftime('%H:%M UTC')}"
-                )
-                last_save_time = time.time()
+                # Every 15 minutes: save, report, commit & push
+                if time.time() - last_save_time >= SAVE_INTERVAL:
+                    save_json(nos_data, nos_file)
+                    save_json(master_index, f"{OUTPUT_DIR}/pass1_index.json")
+                    save_json(checkpoint, f"{OUTPUT_DIR}/pass1_checkpoint.json")
 
-            # Next page
-            next_url = data.get("next")
-            if not next_url:
-                break
+                    print_report(total_collected, total_api_calls, start_time, nos_text, year, nos_counts)
 
-        # Save NOS results
+                    git_commit_and_push(
+                        f"Pass 1: {total_collected:,} dockets | "
+                        f"{nos_text} {year} p{page} | "
+                        f"{datetime.utcnow().strftime('%H:%M UTC')}"
+                    )
+                    last_save_time = time.time()
+
+                # Next page
+                next_url = data.get("next")
+                if not next_url:
+                    break
+
+            # Mark year-slice done (only if we didn't error out)
+            if data is not None:
+                checkpoint[f"{slice_key}_done"] = True
+                print(f"  => {nos_text}/{year}: {slice_count} cases")
+
+        # Save NOS results and mark complete
         save_json(nos_data, nos_file)
         checkpoint[f"{nos_key}_completed"] = True
         checkpoint[f"{nos_key}_total"] = nos_count
         checkpoint[f"{nos_key}_completed_at"] = datetime.utcnow().isoformat()
         save_json(checkpoint, f"{OUTPUT_DIR}/pass1_checkpoint.json")
 
-        print(f"\n  => {nos_text}: {nos_count:,} cases collected")
+        print(f"\n  => {nos_text} TOTAL: {nos_count:,} cases collected")
 
     # Final save
     master_index["stats"] = {
@@ -326,7 +354,7 @@ def main():
     save_json(checkpoint, f"{OUTPUT_DIR}/pass1_checkpoint.json")
 
     # Final report
-    print_report(total_collected, total_api_calls, start_time, "DONE", 0, nos_counts)
+    print_report(total_collected, total_api_calls, start_time, "DONE", "ALL", nos_counts)
 
     # Final commit
     git_commit_and_push(
