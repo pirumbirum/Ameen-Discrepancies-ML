@@ -1,0 +1,94 @@
+name: "06: Bulk Data Filter"
+
+# Downloads CourtListener's full dockets CSV dump (~4.6 GB compressed),
+# streams it through a filter for federal corporate litigation cases,
+# and saves results to cases/. Bypasses the slow REST API entirely.
+# ETA: ~15-20 minutes.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  bulk-filter:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install lbzip2 (parallel decompressor)
+        run: sudo apt-get install -y lbzip2
+
+      - name: Check disk space
+        run: df -h .
+
+      - name: Download + decompress + filter (streaming pipeline)
+        run: |
+          echo "Starting streaming pipeline..."
+          echo "Source: dockets-2025-12-31.csv.bz2 (4.6 GB compressed)"
+          echo ""
+
+          # Stream: download -> parallel decompress -> python filter
+          # Never stores full file on disk
+          curl -sL "https://com-courtlistener-storage.s3-us-west-2.amazonaws.com/bulk-data/dockets-2025-12-31.csv.bz2" \
+            | lbzip2 -d \
+            | python3 scripts/filter_bulk_dockets.py
+
+          echo ""
+          echo "Pipeline complete."
+
+      - name: Show results summary
+        run: |
+          echo "=== Files created ==="
+          ls -lh cases/metadata/ || true
+          echo ""
+          echo "=== Checkpoint ==="
+          cat cases/pass1_checkpoint.json || true
+          echo ""
+          echo "=== Index stats ==="
+          python3 -c "
+          import json
+          with open('cases/pass1_index.json') as f:
+              idx = json.load(f)
+          print(f'Total unique dockets: {len(idx[\"dockets\"]):,}')
+          for k, v in idx['stats'].items():
+              print(f'  {k}: {v}')
+          " || true
+
+      - name: Check disk space after
+        run: df -h .
+
+      - name: Commit results
+        run: |
+          git add cases/
+          git diff --cached --quiet || git commit -m "Pass 1 BULK: $(python3 -c "
+          import json
+          with open('cases/pass1_index.json') as f:
+              print(f'{len(json.load(f)[\"dockets\"]):,} federal corporate litigation cases')
+          " 2>/dev/null || echo 'filtered cases') from CourtListener bulk data"
+          git push || true
+
+      - name: Upload backup artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: bulk-pass1-${{ github.run_id }}
+          path: cases/
+          retention-days: 90
