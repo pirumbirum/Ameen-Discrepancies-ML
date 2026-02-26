@@ -1,20 +1,22 @@
 #!/usr/bin/env python3
 """
-Enrich golden_set/ cases with additional CourtListener API data.
+Enrich golden_set/ cases with COMPLETE CourtListener API data.
 
-5 enrichment layers (each run independently):
-  1. docket_entries   — full timeline of every filing
-  2. recap_documents  — available RECAP filing metadata
+Phases (run sequentially):
+  1. full_docket      — re-fetch full docket from /dockets/{id}/ (30+ extra fields
+                         including parties, attorneys, originating court info inline)
+  2. docket_entries   — full timeline + nested RECAP docs with plain_text
   3. citations        — citation graph (citing + cited_by)
-  4. parties          — parties and attorneys
-  5. financial_disclosures — judge financial disclosures
+  4. oral_arguments   — oral argument audio metadata
+  5. judge_profiles   — judge person records (positions, education, etc.)
+  6. financial_disclosures — judge financial disclosures
 
-All phases are resumable: skip cases that already have the subfolder populated.
+All phases are resumable: skip cases that already have a valid _done.json marker.
 Periodic git checkpoints save progress.
 
 Usage:
-  python3 scripts/enrich_golden_set.py docket_entries --commit-every 100
-  python3 scripts/enrich_golden_set.py all --commit-every 100
+  python3 scripts/enrich_golden_set.py all --commit-every 50
+  python3 scripts/enrich_golden_set.py docket_entries --commit-every 50
 """
 
 import argparse
@@ -25,52 +27,78 @@ import sys
 import time
 import urllib.request
 import urllib.error
+import urllib.parse
 
 CL_API = "https://www.courtlistener.com/api/rest/v4"
 GOLDEN_DIR = "golden_set"
 
+# ── Counters for summary ──────────────────────────────────────────
+_stats = {"api_calls": 0, "api_errors": 0, "bytes_downloaded": 0}
 
-def api_get(url, token=None, retries=3, backoff=2):
-    """GET from CourtListener API with retries + pagination handling."""
-    headers = {"User-Agent": "Ameen-Enrich/1.0"}
-    if token:
-        headers["Authorization"] = f"Token {token}"
+
+def api_get(url, token, retries=4, backoff=2):
+    """GET from CourtListener API with retries. Token REQUIRED (v4.3+).
+
+    Returns (data_dict, error_string). On success error is None.
+    On failure data is None.
+    """
+    if not token:
+        return None, "NO_TOKEN"
+
+    headers = {
+        "User-Agent": "Ameen-Enrich/2.0",
+        "Authorization": f"Token {token}",
+    }
 
     for attempt in range(retries):
+        _stats["api_calls"] += 1
         try:
             req = urllib.request.Request(url, headers=headers)
-            with urllib.request.urlopen(req, timeout=30) as resp:
-                return json.loads(resp.read().decode())
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                raw = resp.read()
+                _stats["bytes_downloaded"] += len(raw)
+                return json.loads(raw.decode()), None
         except urllib.error.HTTPError as e:
             if e.code == 429:
                 wait = backoff * (2 ** attempt)
-                print(f"    Rate limited, waiting {wait}s...")
+                print(f"    RATE LIMITED, waiting {wait}s...")
                 time.sleep(wait)
             elif e.code == 404:
-                return None
+                return None, "404"
+            elif e.code == 401:
+                print(f"    AUTH FAILED (401) — check CL_API_TOKEN")
+                _stats["api_errors"] += 1
+                return None, "401"
             else:
-                print(f"    HTTP {e.code} for {url}, retry {attempt+1}/{retries}")
+                _stats["api_errors"] += 1
+                print(f"    HTTP {e.code} for {url[:80]}..., retry {attempt+1}/{retries}")
                 time.sleep(backoff * (2 ** attempt))
         except Exception as e:
+            _stats["api_errors"] += 1
             print(f"    Error: {e}, retry {attempt+1}/{retries}")
             time.sleep(backoff * (2 ** attempt))
-    return None
+    return None, "MAX_RETRIES"
 
 
-def api_get_all_pages(url, token=None, max_pages=50):
-    """Fetch all pages from a paginated CL API endpoint."""
+def api_get_all_pages(url, token, max_pages=200):
+    """Fetch all pages from a paginated CL API endpoint.
+
+    Returns (results_list, error_string). error is None on success.
+    """
     all_results = []
     page = 0
     while url and page < max_pages:
-        data = api_get(url, token=token)
-        if data is None:
-            break
+        data, err = api_get(url, token)
+        if err:
+            if page == 0:
+                return None, err  # first page failed = total failure
+            break  # partial results from later pages — keep what we have
         all_results.extend(data.get("results", []))
         url = data.get("next")
         page += 1
         if url:
-            time.sleep(0.2)  # brief pause between pages
-    return all_results
+            time.sleep(0.15)
+    return all_results, None
 
 
 def git_checkpoint(msg):
@@ -86,7 +114,7 @@ def git_checkpoint(msg):
             ["git", "commit", "-m", msg], check=True, capture_output=True
         )
         subprocess.run(
-            ["git", "push"], check=True, capture_output=True, timeout=60
+            ["git", "push"], check=True, capture_output=True, timeout=120
         )
         print(f"    [checkpoint] {msg}")
     except Exception as e:
@@ -98,7 +126,7 @@ def find_golden_cases():
     cases = []
     for cat in sorted(os.listdir(GOLDEN_DIR)):
         cat_dir = os.path.join(GOLDEN_DIR, cat)
-        if not os.path.isdir(cat_dir) or cat == "index.json":
+        if not os.path.isdir(cat_dir):
             continue
         for case_folder in sorted(os.listdir(cat_dir)):
             case_dir = os.path.join(cat_dir, case_folder)
@@ -113,124 +141,168 @@ def find_golden_cases():
     return cases
 
 
-def is_phase_done(case_dir, subfolder, marker_file="_done.json"):
-    """Check if a phase is already completed for a case."""
-    sub_dir = os.path.join(case_dir, subfolder)
-    return os.path.isfile(os.path.join(sub_dir, marker_file))
+def is_phase_done(case_dir, subfolder):
+    """Check if a phase is already completed for a case (valid marker exists)."""
+    marker = os.path.join(case_dir, subfolder, "_done.json")
+    if not os.path.isfile(marker):
+        return False
+    # Check that the marker indicates actual data was fetched
+    try:
+        with open(marker) as f:
+            m = json.load(f)
+        return m.get("status") == "ok"
+    except Exception:
+        return False
 
 
 def write_marker(sub_dir, stats):
-    """Write a _done.json marker to indicate phase completion."""
+    """Write a _done.json marker indicating successful completion."""
+    stats["status"] = "ok"
+    stats["timestamp"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
     with open(os.path.join(sub_dir, "_done.json"), "w") as f:
         json.dump(stats, f, indent=2)
 
 
-# ── Phase 1: Docket Entries ───────────────────────────────────────
+def progress_line(i, total, fetched, skipped, failed, start):
+    elapsed = time.time() - start
+    rate = fetched / max(elapsed, 1) * 3600
+    mb = _stats["bytes_downloaded"] / 1024 / 1024
+    print(f"  [{i}/{total}] fetched={fetched} skipped={skipped} failed={failed} | "
+          f"{elapsed/60:.1f}m | ~{rate:.0f}/hr | {mb:.1f} MB downloaded")
+    sys.stdout.flush()
 
-def enrich_docket_entries(cases, token, commit_every):
+
+# ── Phase 1: Full Docket Detail ──────────────────────────────────
+
+def enrich_full_docket(cases, token, commit_every):
+    """Re-fetch complete docket from /dockets/{id}/ endpoint.
+
+    The search-result docket.json has ~20 fields.
+    The full endpoint has 40+ fields including:
+    - appeal_from, appeal_from_str
+    - assigned_to (person URL), referred_to (person URL)
+    - originating_court_information
+    - panel (for appellate cases)
+    - idb_data (integrated database)
+    - clusters, audio_files, tags
+    """
     print(f"\n{'=' * 60}")
-    print(f"ENRICHING: DOCKET ENTRIES ({len(cases):,} cases)")
+    print(f"PHASE 1: FULL DOCKET DETAIL ({len(cases):,} cases)")
     print("=" * 60)
 
-    fetched = 0
-    skipped = 0
-    failed = 0
+    fetched = skipped = failed = 0
     start = time.time()
 
     for i, (case_dir, docket_id, docket) in enumerate(cases, 1):
         if i % 25 == 0 or i == 1:
-            elapsed = time.time() - start
-            rate = fetched / max(elapsed, 1) * 3600
-            print(f"  [{i}/{len(cases)}] {fetched} fetched, {skipped} skipped, {failed} failed | "
-                  f"{elapsed/60:.1f} min | ~{rate:.0f} req/hr")
-            sys.stdout.flush()
+            progress_line(i, len(cases), fetched, skipped, failed, start)
 
-        sub_dir = os.path.join(case_dir, "docket_entries")
+        if is_phase_done(case_dir, "full_docket"):
+            skipped += 1
+            continue
+
+        sub_dir = os.path.join(case_dir, "full_docket")
+        os.makedirs(sub_dir, exist_ok=True)
+
+        url = f"{CL_API}/dockets/{docket_id}/?format=json"
+        data, err = api_get(url, token)
+
+        if err:
+            failed += 1
+            print(f"    FAILED {docket_id}: {err}")
+            if err == "401":
+                print("    FATAL: Authentication failed. Aborting phase.")
+                return fetched
+            continue
+
+        with open(os.path.join(sub_dir, "docket_full.json"), "w") as f:
+            json.dump(data, f, indent=2)
+
+        write_marker(sub_dir, {
+            "docket_id": docket_id,
+            "fields_count": len(data),
+        })
+        fetched += 1
+
+        if commit_every > 0 and fetched % commit_every == 0:
+            git_checkpoint(f"Full docket: {fetched}/{len(cases)}")
+
+        time.sleep(0.2)
+
+    elapsed = time.time() - start
+    print(f"\nFull docket done: {fetched} fetched, {skipped} skipped, {failed} failed ({elapsed/60:.1f} min)")
+    return fetched
+
+
+# ── Phase 2: Docket Entries (includes RECAP docs with plain_text) ─
+
+def enrich_docket_entries(cases, token, commit_every):
+    """Fetch all docket entries with nested recap_documents + plain_text.
+
+    This is the BIG one — gives us the actual document text for every
+    court filing available in RECAP, plus the full timeline.
+    """
+    print(f"\n{'=' * 60}")
+    print(f"PHASE 2: DOCKET ENTRIES + RECAP TEXT ({len(cases):,} cases)")
+    print("=" * 60)
+
+    fetched = skipped = failed = 0
+    start = time.time()
+
+    for i, (case_dir, docket_id, docket) in enumerate(cases, 1):
+        if i % 10 == 0 or i == 1:
+            progress_line(i, len(cases), fetched, skipped, failed, start)
+
         if is_phase_done(case_dir, "docket_entries"):
             skipped += 1
             continue
 
+        sub_dir = os.path.join(case_dir, "docket_entries")
         os.makedirs(sub_dir, exist_ok=True)
 
-        url = f"{CL_API}/docket-entries/?docket={docket_id}&format=json&order_by=date_filed"
-        entries = api_get_all_pages(url, token=token, max_pages=100)
+        # Fetch with full nested documents (including plain_text)
+        url = (f"{CL_API}/docket-entries/"
+               f"?docket={docket_id}"
+               f"&order_by=date_filed"
+               f"&format=json")
+        entries, err = api_get_all_pages(url, token, max_pages=200)
 
-        if entries is None:
+        if err:
             failed += 1
+            print(f"    FAILED {docket_id}: {err}")
+            if err == "401":
+                print("    FATAL: Authentication failed. Aborting phase.")
+                return fetched
             continue
 
+        # Save all entries as one file
         with open(os.path.join(sub_dir, "entries.json"), "w") as f:
             json.dump(entries, f, indent=2)
 
-        write_marker(sub_dir, {"count": len(entries), "docket_id": docket_id})
+        # Count documents with actual text
+        docs_with_text = 0
+        total_docs = 0
+        for entry in entries:
+            for doc in entry.get("recap_documents", []):
+                total_docs += 1
+                if doc.get("plain_text"):
+                    docs_with_text += 1
+
+        write_marker(sub_dir, {
+            "docket_id": docket_id,
+            "entry_count": len(entries),
+            "recap_doc_count": total_docs,
+            "docs_with_text": docs_with_text,
+        })
         fetched += 1
 
         if commit_every > 0 and fetched % commit_every == 0:
-            git_checkpoint(f"Docket entries: {fetched}/{len(cases)} cases")
+            git_checkpoint(f"Docket entries: {fetched}/{len(cases)}")
 
-        if not token:
-            time.sleep(0.8)
-        else:
-            time.sleep(0.3)
+        time.sleep(0.2)
 
     elapsed = time.time() - start
     print(f"\nDocket entries done: {fetched} fetched, {skipped} skipped, {failed} failed ({elapsed/60:.1f} min)")
-    return fetched
-
-
-# ── Phase 2: RECAP Documents ─────────────────────────────────────
-
-def enrich_recap_documents(cases, token, commit_every):
-    print(f"\n{'=' * 60}")
-    print(f"ENRICHING: RECAP DOCUMENTS ({len(cases):,} cases)")
-    print("=" * 60)
-
-    fetched = 0
-    skipped = 0
-    failed = 0
-    start = time.time()
-
-    for i, (case_dir, docket_id, docket) in enumerate(cases, 1):
-        if i % 25 == 0 or i == 1:
-            elapsed = time.time() - start
-            rate = fetched / max(elapsed, 1) * 3600
-            print(f"  [{i}/{len(cases)}] {fetched} fetched, {skipped} skipped, {failed} failed | "
-                  f"{elapsed/60:.1f} min | ~{rate:.0f} req/hr")
-            sys.stdout.flush()
-
-        sub_dir = os.path.join(case_dir, "recap_documents")
-        if is_phase_done(case_dir, "recap_documents"):
-            skipped += 1
-            continue
-
-        os.makedirs(sub_dir, exist_ok=True)
-
-        url = f"{CL_API}/recap-documents/?docket_entry__docket={docket_id}&format=json"
-        docs = api_get_all_pages(url, token=token, max_pages=100)
-
-        if docs is None:
-            failed += 1
-            continue
-
-        # Save each doc separately
-        for doc in docs:
-            doc_id = doc.get("id", "unknown")
-            with open(os.path.join(sub_dir, f"doc_{doc_id}.json"), "w") as f:
-                json.dump(doc, f, indent=2)
-
-        write_marker(sub_dir, {"count": len(docs), "docket_id": docket_id})
-        fetched += 1
-
-        if commit_every > 0 and fetched % commit_every == 0:
-            git_checkpoint(f"RECAP docs: {fetched}/{len(cases)} cases")
-
-        if not token:
-            time.sleep(0.8)
-        else:
-            time.sleep(0.3)
-
-    elapsed = time.time() - start
-    print(f"\nRECAP docs done: {fetched} fetched, {skipped} skipped, {failed} failed ({elapsed/60:.1f} min)")
     return fetched
 
 
@@ -238,30 +310,24 @@ def enrich_recap_documents(cases, token, commit_every):
 
 def enrich_citations(cases, token, commit_every):
     print(f"\n{'=' * 60}")
-    print(f"ENRICHING: CITATIONS ({len(cases):,} cases)")
+    print(f"PHASE 3: CITATIONS ({len(cases):,} cases)")
     print("=" * 60)
 
-    fetched = 0
-    skipped = 0
-    failed = 0
+    fetched = skipped = failed = 0
     start = time.time()
 
     for i, (case_dir, docket_id, docket) in enumerate(cases, 1):
         if i % 25 == 0 or i == 1:
-            elapsed = time.time() - start
-            rate = fetched / max(elapsed, 1) * 3600
-            print(f"  [{i}/{len(cases)}] {fetched} fetched, {skipped} skipped, {failed} failed | "
-                  f"{elapsed/60:.1f} min | ~{rate:.0f} req/hr")
-            sys.stdout.flush()
+            progress_line(i, len(cases), fetched, skipped, failed, start)
 
-        sub_dir = os.path.join(case_dir, "citations")
         if is_phase_done(case_dir, "citations"):
             skipped += 1
             continue
 
+        sub_dir = os.path.join(case_dir, "citations")
         os.makedirs(sub_dir, exist_ok=True)
 
-        # Get cluster IDs for this case from opinions/ subfolder
+        # Get cluster IDs from opinions/ subfolder
         opinions_dir = os.path.join(case_dir, "opinions")
         cluster_ids = []
         if os.path.isdir(opinions_dir):
@@ -269,26 +335,32 @@ def enrich_citations(cases, token, commit_every):
                 if cl_folder.startswith("cluster_"):
                     cluster_ids.append(cl_folder.replace("cluster_", ""))
 
-        citing = []   # cases that cite opinions in this docket
-        cited_by = [] # cases that opinions in this docket cite
+        citing = []
+        cited_by = []
+        phase_err = None
 
         for cid in cluster_ids:
-            # Opinions citing this cluster
             url = f"{CL_API}/citations/?cited_opinion__cluster={cid}&format=json"
-            results = api_get_all_pages(url, token=token, max_pages=20)
+            results, err = api_get_all_pages(url, token, max_pages=20)
+            if err == "401":
+                phase_err = err
+                break
             if results:
                 citing.extend(results)
 
-            # Opinions this cluster cites
             url = f"{CL_API}/citations/?citing_opinion__cluster={cid}&format=json"
-            results = api_get_all_pages(url, token=token, max_pages=20)
+            results, err = api_get_all_pages(url, token, max_pages=20)
+            if err == "401":
+                phase_err = err
+                break
             if results:
                 cited_by.extend(results)
 
-            if not token:
-                time.sleep(0.5)
-            else:
-                time.sleep(0.2)
+            time.sleep(0.15)
+
+        if phase_err == "401":
+            print("    FATAL: Authentication failed. Aborting phase.")
+            return fetched
 
         with open(os.path.join(sub_dir, "citing.json"), "w") as f:
             json.dump(citing, f, indent=2)
@@ -296,194 +368,320 @@ def enrich_citations(cases, token, commit_every):
             json.dump(cited_by, f, indent=2)
 
         write_marker(sub_dir, {
+            "docket_id": docket_id,
             "citing_count": len(citing),
             "cited_by_count": len(cited_by),
             "cluster_ids": cluster_ids,
-            "docket_id": docket_id,
         })
         fetched += 1
 
         if commit_every > 0 and fetched % commit_every == 0:
-            git_checkpoint(f"Citations: {fetched}/{len(cases)} cases")
+            git_checkpoint(f"Citations: {fetched}/{len(cases)}")
 
     elapsed = time.time() - start
     print(f"\nCitations done: {fetched} fetched, {skipped} skipped, {failed} failed ({elapsed/60:.1f} min)")
     return fetched
 
 
-# ── Phase 4: Parties & Attorneys ──────────────────────────────────
+# ── Phase 4: Oral Arguments ──────────────────────────────────────
 
-def enrich_parties(cases, token, commit_every):
+def enrich_oral_arguments(cases, token, commit_every):
     print(f"\n{'=' * 60}")
-    print(f"ENRICHING: PARTIES & ATTORNEYS ({len(cases):,} cases)")
+    print(f"PHASE 4: ORAL ARGUMENTS ({len(cases):,} cases)")
     print("=" * 60)
 
-    fetched = 0
-    skipped = 0
-    failed = 0
+    fetched = skipped = failed = 0
     start = time.time()
 
     for i, (case_dir, docket_id, docket) in enumerate(cases, 1):
         if i % 25 == 0 or i == 1:
-            elapsed = time.time() - start
-            rate = fetched / max(elapsed, 1) * 3600
-            print(f"  [{i}/{len(cases)}] {fetched} fetched, {skipped} skipped, {failed} failed | "
-                  f"{elapsed/60:.1f} min | ~{rate:.0f} req/hr")
-            sys.stdout.flush()
+            progress_line(i, len(cases), fetched, skipped, failed, start)
 
-        sub_dir = os.path.join(case_dir, "parties")
-        if is_phase_done(case_dir, "parties"):
+        if is_phase_done(case_dir, "oral_arguments"):
             skipped += 1
             continue
 
+        sub_dir = os.path.join(case_dir, "oral_arguments")
         os.makedirs(sub_dir, exist_ok=True)
 
-        # Parties
-        url = f"{CL_API}/parties/?docket={docket_id}&format=json"
-        parties = api_get_all_pages(url, token=token, max_pages=20)
+        url = f"{CL_API}/audio/?docket={docket_id}&format=json"
+        results, err = api_get_all_pages(url, token, max_pages=10)
 
-        # Attorneys
-        url = f"{CL_API}/attorneys/?docket={docket_id}&format=json"
-        attorneys = api_get_all_pages(url, token=token, max_pages=20)
+        if err:
+            if err == "401":
+                print("    FATAL: Authentication failed. Aborting phase.")
+                return fetched
+            failed += 1
+            continue
 
-        with open(os.path.join(sub_dir, "parties.json"), "w") as f:
-            json.dump(parties or [], f, indent=2)
-        with open(os.path.join(sub_dir, "attorneys.json"), "w") as f:
-            json.dump(attorneys or [], f, indent=2)
+        with open(os.path.join(sub_dir, "audio.json"), "w") as f:
+            json.dump(results or [], f, indent=2)
 
         write_marker(sub_dir, {
-            "parties_count": len(parties or []),
-            "attorneys_count": len(attorneys or []),
             "docket_id": docket_id,
+            "audio_count": len(results or []),
         })
         fetched += 1
 
         if commit_every > 0 and fetched % commit_every == 0:
-            git_checkpoint(f"Parties: {fetched}/{len(cases)} cases")
+            git_checkpoint(f"Oral arguments: {fetched}/{len(cases)}")
 
-        if not token:
-            time.sleep(0.8)
-        else:
-            time.sleep(0.3)
+        time.sleep(0.15)
 
     elapsed = time.time() - start
-    print(f"\nParties done: {fetched} fetched, {skipped} skipped, {failed} failed ({elapsed/60:.1f} min)")
+    print(f"\nOral arguments done: {fetched} fetched, {skipped} skipped, {failed} failed ({elapsed/60:.1f} min)")
     return fetched
 
 
-# ── Phase 5: Financial Disclosures ────────────────────────────────
+# ── Phase 5: Judge Profiles ──────────────────────────────────────
 
-def enrich_financial_disclosures(cases, token, commit_every):
+def enrich_judge_profiles(cases, token, commit_every):
+    """Fetch full judge/person records including positions, education, etc."""
     print(f"\n{'=' * 60}")
-    print(f"ENRICHING: FINANCIAL DISCLOSURES ({len(cases):,} cases)")
+    print(f"PHASE 5: JUDGE PROFILES ({len(cases):,} cases)")
     print("=" * 60)
 
-    # First, collect unique judge names from all cases' opinion clusters
-    judge_cache = {}  # judge_name -> disclosure data (avoid re-fetching same judge)
-
-    fetched = 0
-    skipped = 0
-    failed = 0
+    person_cache = {}  # person_url -> data (avoid re-fetching)
+    fetched = skipped = failed = 0
     start = time.time()
 
     for i, (case_dir, docket_id, docket) in enumerate(cases, 1):
         if i % 25 == 0 or i == 1:
-            elapsed = time.time() - start
-            rate = fetched / max(elapsed, 1) * 3600
-            print(f"  [{i}/{len(cases)}] {fetched} fetched, {skipped} skipped, {failed} failed | "
-                  f"{elapsed/60:.1f} min | ~{rate:.0f} req/hr")
-            sys.stdout.flush()
+            progress_line(i, len(cases), fetched, skipped, failed, start)
 
-        sub_dir = os.path.join(case_dir, "financial_disclosures")
+        if is_phase_done(case_dir, "judge_profiles"):
+            skipped += 1
+            continue
+
+        sub_dir = os.path.join(case_dir, "judge_profiles")
+        os.makedirs(sub_dir, exist_ok=True)
+
+        # Collect person URLs from the full docket (if available)
+        full_docket_path = os.path.join(case_dir, "full_docket", "docket_full.json")
+        person_urls = set()
+
+        if os.path.isfile(full_docket_path):
+            with open(full_docket_path) as f:
+                fd = json.load(f)
+            for field in ["assigned_to", "referred_to"]:
+                url = fd.get(field)
+                if url and isinstance(url, str) and "/people/" in url:
+                    person_urls.add(url)
+            # Panel judges (appellate)
+            for panel_url in fd.get("panel", []):
+                if isinstance(panel_url, str) and "/people/" in panel_url:
+                    person_urls.add(panel_url)
+
+        # Also search by judge name from docket metadata
+        judge_names = set()
+        for field in ["assigned_to_str", "referred_to_str"]:
+            name = docket.get(field, "")
+            if name and name.strip():
+                judge_names.add(name.strip())
+
+        profiles = {}
+        for purl in person_urls:
+            if purl in person_cache:
+                profiles[purl] = person_cache[purl]
+                continue
+
+            # Ensure we have the full URL
+            if not purl.startswith("http"):
+                purl = f"https://www.courtlistener.com{purl}"
+            data, err = api_get(purl + "?format=json", token)
+            if err == "401":
+                print("    FATAL: Authentication failed. Aborting phase.")
+                return fetched
+            if data:
+                person_cache[purl] = data
+                profiles[purl] = data
+            time.sleep(0.15)
+
+        # If no person URLs found, try searching by name
+        if not profiles and judge_names:
+            for name in judge_names:
+                last_name = name.split()[-1]
+                url = f"{CL_API}/people/?name_last={urllib.parse.quote(last_name)}&format=json"
+                results, err = api_get_all_pages(url, token, max_pages=3)
+                if err == "401":
+                    print("    FATAL: Authentication failed. Aborting phase.")
+                    return fetched
+                if results:
+                    for person in results:
+                        pid = person.get("id", "unknown")
+                        profiles[f"person_{pid}"] = person
+                time.sleep(0.15)
+
+        # Save all profiles
+        for key, profile in profiles.items():
+            pid = profile.get("id", "unknown")
+            with open(os.path.join(sub_dir, f"person_{pid}.json"), "w") as f:
+                json.dump(profile, f, indent=2)
+
+        write_marker(sub_dir, {
+            "docket_id": docket_id,
+            "profiles_found": len(profiles),
+            "judge_names": list(judge_names),
+        })
+        fetched += 1
+
+        if commit_every > 0 and fetched % commit_every == 0:
+            git_checkpoint(f"Judge profiles: {fetched}/{len(cases)}")
+
+    elapsed = time.time() - start
+    print(f"\nJudge profiles done: {fetched} fetched, {skipped} skipped, {failed} failed ({elapsed/60:.1f} min)")
+    print(f"  Person cache: {len(person_cache)} unique judges")
+    return fetched
+
+
+# ── Phase 6: Financial Disclosures ────────────────────────────────
+
+def enrich_financial_disclosures(cases, token, commit_every):
+    print(f"\n{'=' * 60}")
+    print(f"PHASE 6: FINANCIAL DISCLOSURES ({len(cases):,} cases)")
+    print("=" * 60)
+
+    judge_cache = {}
+    fetched = skipped = failed = 0
+    start = time.time()
+
+    for i, (case_dir, docket_id, docket) in enumerate(cases, 1):
+        if i % 25 == 0 or i == 1:
+            progress_line(i, len(cases), fetched, skipped, failed, start)
+
         if is_phase_done(case_dir, "financial_disclosures"):
             skipped += 1
             continue
 
+        sub_dir = os.path.join(case_dir, "financial_disclosures")
         os.makedirs(sub_dir, exist_ok=True)
 
-        # Collect judge names from cluster metadata and docket
+        # Collect judge person IDs from judge_profiles phase
+        person_ids = set()
+        jp_dir = os.path.join(case_dir, "judge_profiles")
+        if os.path.isdir(jp_dir):
+            for f in os.listdir(jp_dir):
+                if f.startswith("person_") and f.endswith(".json") and f != "_done.json":
+                    pid = f.replace("person_", "").replace(".json", "")
+                    person_ids.add(pid)
+
+        # Fallback to name search
         judge_names = set()
-        assigned = docket.get("assigned_to_str", "")
-        if assigned:
-            judge_names.add(assigned)
-        referred = docket.get("referred_to_str", "")
-        if referred:
-            judge_names.add(referred)
+        for field in ["assigned_to_str", "referred_to_str"]:
+            name = docket.get(field, "")
+            if name and name.strip():
+                judge_names.add(name.strip())
 
-        opinions_dir = os.path.join(case_dir, "opinions")
-        if os.path.isdir(opinions_dir):
-            for cl_folder in os.listdir(opinions_dir):
-                cl_path = os.path.join(opinions_dir, cl_folder, "cluster.json")
-                if os.path.isfile(cl_path):
-                    with open(cl_path) as f:
-                        cl = json.load(f)
-                    judges = cl.get("judges", "")
-                    if judges:
-                        judge_names.add(judges)
+        disclosures = []
 
-        disclosures_found = 0
-        for judge_name in judge_names:
-            if not judge_name.strip():
-                continue
-
-            # Check cache
-            if judge_name in judge_cache:
-                results = judge_cache[judge_name]
+        # By person ID (preferred — exact match)
+        for pid in person_ids:
+            cache_key = f"pid_{pid}"
+            if cache_key in judge_cache:
+                results = judge_cache[cache_key]
             else:
-                url = f"{CL_API}/financial-disclosures/?person__name_last={urllib.request.quote(judge_name.split()[-1])}&format=json"
-                results = api_get_all_pages(url, token=token, max_pages=5)
-                judge_cache[judge_name] = results or []
-                if not token:
-                    time.sleep(0.5)
-                else:
-                    time.sleep(0.2)
+                url = f"{CL_API}/financial-disclosures/?person={pid}&format=json"
+                results, err = api_get_all_pages(url, token, max_pages=5)
+                if err == "401":
+                    print("    FATAL: Authentication failed. Aborting phase.")
+                    return fetched
+                judge_cache[cache_key] = results or []
+                results = results or []
+                time.sleep(0.15)
+            disclosures.extend(results)
 
-            if results:
-                safe_name = judge_name.replace(" ", "_").replace("/", "_")[:40]
-                with open(os.path.join(sub_dir, f"judge_{safe_name}.json"), "w") as f:
-                    json.dump(results, f, indent=2)
-                disclosures_found += len(results)
+        # Fallback by name
+        if not disclosures and judge_names:
+            for name in judge_names:
+                cache_key = f"name_{name}"
+                if cache_key in judge_cache:
+                    results = judge_cache[cache_key]
+                else:
+                    last_name = name.split()[-1]
+                    url = f"{CL_API}/financial-disclosures/?person__name_last={urllib.parse.quote(last_name)}&format=json"
+                    results, err = api_get_all_pages(url, token, max_pages=5)
+                    if err == "401":
+                        print("    FATAL: Authentication failed. Aborting phase.")
+                        return fetched
+                    judge_cache[cache_key] = results or []
+                    results = results or []
+                    time.sleep(0.15)
+                disclosures.extend(results)
+
+        with open(os.path.join(sub_dir, "disclosures.json"), "w") as f:
+            json.dump(disclosures, f, indent=2)
 
         write_marker(sub_dir, {
-            "judges_searched": list(judge_names),
-            "disclosures_found": disclosures_found,
             "docket_id": docket_id,
+            "disclosures_found": len(disclosures),
+            "person_ids": list(person_ids),
+            "judge_names": list(judge_names),
         })
         fetched += 1
 
         if commit_every > 0 and fetched % commit_every == 0:
-            git_checkpoint(f"Financial disclosures: {fetched}/{len(cases)} cases")
+            git_checkpoint(f"Financial disclosures: {fetched}/{len(cases)}")
 
     elapsed = time.time() - start
     print(f"\nFinancial disclosures done: {fetched} fetched, {skipped} skipped, {failed} failed ({elapsed/60:.1f} min)")
-    print(f"  Judge cache size: {len(judge_cache)} unique judges")
     return fetched
 
 
 # ── CLI ────────────────────────────────────────────────────────────
 
 PHASES = {
+    "full_docket": enrich_full_docket,
     "docket_entries": enrich_docket_entries,
-    "recap_documents": enrich_recap_documents,
     "citations": enrich_citations,
-    "parties": enrich_parties,
+    "oral_arguments": enrich_oral_arguments,
+    "judge_profiles": enrich_judge_profiles,
     "financial_disclosures": enrich_financial_disclosures,
 }
 
 def main():
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(description="Enrich golden set with CourtListener data")
     parser.add_argument("phase", choices=list(PHASES.keys()) + ["all"])
-    parser.add_argument("--commit-every", type=int, default=0)
+    parser.add_argument("--commit-every", type=int, default=0,
+                        help="Git checkpoint every N cases")
+    parser.add_argument("--clean-bad-markers", action="store_true",
+                        help="Remove _done.json markers that lack status=ok")
     args = parser.parse_args()
 
     token = os.environ.get("CL_API_TOKEN", "")
-    if token:
-        print(f"Using API token (5,000 req/hr)")
-    else:
-        print("WARNING: No CL_API_TOKEN — anonymous rate limits apply")
+    if not token:
+        print("FATAL: CL_API_TOKEN is required (v4.3+ requires authentication)")
+        print("Set it: export CL_API_TOKEN=your_token_here")
+        sys.exit(1)
+    print(f"Using API token (authenticated)")
+
+    # Optionally clean bad markers from previous broken runs
+    if args.clean_bad_markers:
+        cleaned = 0
+        for root, dirs, files in os.walk(GOLDEN_DIR):
+            if "_done.json" in files:
+                marker = os.path.join(root, "_done.json")
+                try:
+                    with open(marker) as f:
+                        m = json.load(f)
+                    if m.get("status") != "ok":
+                        os.remove(marker)
+                        cleaned += 1
+                except Exception:
+                    os.remove(marker)
+                    cleaned += 1
+        print(f"Cleaned {cleaned} invalid markers from previous runs")
 
     cases = find_golden_cases()
-    print(f"Found {len(cases):,} golden set cases")
+    print(f"Found {len(cases):,} golden set cases\n")
+
+    # Test API connectivity with a simple call
+    print("Testing API connectivity...")
+    test_data, test_err = api_get(f"{CL_API}/courts/?format=json&page_size=1", token)
+    if test_err:
+        print(f"FATAL: API test failed: {test_err}")
+        print("Check your CL_API_TOKEN and network connectivity")
+        sys.exit(1)
+    print(f"API OK — connected to CourtListener v4\n")
 
     if args.phase == "all":
         phases_to_run = list(PHASES.keys())
@@ -494,12 +692,15 @@ def main():
         fn = PHASES[phase_name]
         count = fn(cases, token, args.commit_every)
 
-        # Checkpoint after each phase
         if args.commit_every > 0 and count > 0:
-            git_checkpoint(f"Enrichment {phase_name}: complete ({count} cases)")
+            git_checkpoint(f"Phase {phase_name}: complete ({count} cases)")
 
+    mb = _stats["bytes_downloaded"] / 1024 / 1024
     print(f"\n{'=' * 60}")
-    print("ALL ENRICHMENT PHASES COMPLETE")
+    print(f"ALL PHASES COMPLETE")
+    print(f"  API calls: {_stats['api_calls']:,}")
+    print(f"  API errors: {_stats['api_errors']:,}")
+    print(f"  Data downloaded: {mb:.1f} MB")
     print("=" * 60)
 
 

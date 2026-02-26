@@ -1,14 +1,18 @@
 name: "08: Enrich Golden Set"
 
-# Adds 5 data layers to each golden set case via CourtListener API:
-#   1. docket_entries      — full filing timeline
-#   2. recap_documents     — available RECAP filings
-#   3. citations           — citation graph (in + out)
-#   4. parties             — parties & attorneys
-#   5. financial_disclosures — judge financial disclosures
+# Fetches COMPLETE structured data for each golden set case:
+#   Phase 1: full_docket           — complete docket (40+ fields, parties inline)
+#   Phase 2: docket_entries        — every filing + nested RECAP docs with FULL TEXT
+#   Phase 3: citations             — citation graph (citing + cited_by)
+#   Phase 4: oral_arguments        — oral argument audio metadata
+#   Phase 5: judge_profiles        — judge person records (positions, education)
+#   Phase 6: financial_disclosures — judge financial disclosures
 #
-# Resumable: re-run to continue from where it stopped.
-# Each phase commits periodically to save progress.
+# Each docket entry contains nested recap_documents with plain_text —
+# this is the actual document text, not just metadata.
+#
+# Resumable: re-run picks up where it stopped.
+# Periodic git checkpoints save progress.
 
 on:
   workflow_dispatch:
@@ -38,20 +42,63 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: "Enrich: all 5 phases"
+      - name: "Clean bad markers from previous runs"
+        run: |
+          python3 scripts/enrich_golden_set.py all --clean-bad-markers --commit-every 0 2>&1 | head -5 || true
+          # The script exits after cleaning if --commit-every=0 and phase=all,
+          # so we just want the cleaning side effect.
+          # Actually, let's just do it inline:
+          python3 -c "
+          import json, os
+          cleaned = 0
+          for root, dirs, files in os.walk('golden_set'):
+              if '_done.json' in files:
+                  marker = os.path.join(root, '_done.json')
+                  try:
+                      m = json.load(open(marker))
+                      if m.get('status') != 'ok':
+                          os.remove(marker)
+                          cleaned += 1
+                  except:
+                      os.remove(marker)
+                      cleaned += 1
+          print(f'Cleaned {cleaned} invalid markers')
+          "
+
+      - name: "Enrich: all 6 phases"
         env:
           CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
         run: |
-          python3 scripts/enrich_golden_set.py all --commit-every 100
+          python3 scripts/enrich_golden_set.py all --commit-every 50
 
       - name: Summary
         if: always()
         run: |
           echo "=== Enrichment layer counts ==="
-          for layer in docket_entries recap_documents citations parties financial_disclosures; do
-            count=$(find golden_set -path "*/${layer}/_done.json" 2>/dev/null | wc -l)
+          for layer in full_docket docket_entries citations oral_arguments judge_profiles financial_disclosures; do
+            count=$(find golden_set -path "*/${layer}/_done.json" -exec grep -l '"status": "ok"' {} \; 2>/dev/null | wc -l)
             echo "  ${layer}: ${count} cases enriched"
           done
+          echo ""
+          echo "=== Docket entries text coverage ==="
+          python3 -c "
+          import json, os
+          total_entries = 0
+          total_docs = 0
+          docs_with_text = 0
+          for root, dirs, files in os.walk('golden_set'):
+              if 'entries.json' in files and 'docket_entries' in root:
+                  entries = json.load(open(os.path.join(root, 'entries.json')))
+                  total_entries += len(entries)
+                  for e in entries:
+                      for d in e.get('recap_documents', []):
+                          total_docs += 1
+                          if d.get('plain_text'):
+                              docs_with_text += 1
+          print(f'  Total docket entries: {total_entries:,}')
+          print(f'  Total RECAP documents: {total_docs:,}')
+          print(f'  Documents with full text: {docs_with_text:,}')
+          " 2>/dev/null || true
           echo ""
           du -sh golden_set/
 
