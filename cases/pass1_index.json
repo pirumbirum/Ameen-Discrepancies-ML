@@ -8999,6 +8999,606 @@
       "court_id": "ilnd",
       "nos": "850 Securities/Commodities",
       "date_filed": "2016-06-13"
+    },
+    "6528836": {
+      "case_name": "Clune v. Barry, Jr.",
+      "court_id": "nysd",
+      "nos": "Securities/Commodities",
+      "date_filed": "2016-06-13"
+    },
+    "13473019": {
+      "case_name": "GRAHAM v. BENTSEN",
+      "court_id": "ncmd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-13"
+    },
+    "4221145": {
+      "case_name": "Securities and Exchange Commission v. Andrew K. Proctor",
+      "court_id": "ded",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-14"
+    },
+    "4276429": {
+      "case_name": "Securities and Exchange Commission v. Chan",
+      "court_id": "mad",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-14"
+    },
+    "4292959": {
+      "case_name": "Monfried v. Sigma Financial Corporation",
+      "court_id": "mied",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-14"
+    },
+    "5247995": {
+      "case_name": "Butikofer v. Nygren",
+      "court_id": "utd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-14"
+    },
+    "4199812": {
+      "case_name": "Audet v. Garza",
+      "court_id": "ctd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-15"
+    },
+    "4357298": {
+      "case_name": "Securities and Exchange Commission v. Valvani",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-15"
+    },
+    "4357299": {
+      "case_name": "Securities and Exchange Commission v. Lumiere",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-15"
+    },
+    "4357303": {
+      "case_name": "IN RE CPI CARD GROUP INC. SECURITIES LITIGATION",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-15"
+    },
+    "4523946": {
+      "case_name": "Securities and Exchange Commission v. Plaford",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-15"
+    },
+    "4523953": {
+      "case_name": "Chipman v. CPI Card Group Inc.",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-15"
+    },
+    "4357313": {
+      "case_name": "Rurode v. Realty Finance Trust, Inc.",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-16"
+    },
+    "4357324": {
+      "case_name": "Cottam v. Global Emerging Capital Group, LLC",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-16"
+    },
+    "4495556": {
+      "case_name": "da Luz v. Fitbit, Inc.",
+      "court_id": "cand",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-16"
+    },
+    "5526502": {
+      "case_name": "United States Securities and Exchange Commission v. Salis",
+      "court_id": "innd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-16"
+    },
+    "64928321": {
+      "case_name": "Cottam v. Global Emerging Capital Group, LLC",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-16"
+    },
+    "4154796": {
+      "case_name": "Michael Wadsworth v. Electro Rent Corporation",
+      "court_id": "cacd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-20"
+    },
+    "4316278": {
+      "case_name": "Securities & Exchange Commission v. Hemp, Inc.",
+      "court_id": "nvd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-20"
+    },
+    "4495561": {
+      "case_name": "BRS v. Volkswagen AG",
+      "court_id": "cand",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-20"
+    },
+    "5161931": {
+      "case_name": "United States v. Luna Flores",
+      "court_id": "iasd",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2016-06-20"
+    },
+    "6179913": {
+      "case_name": "Securities & Exchange Commission v. Hannon",
+      "court_id": "mad",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-20"
+    },
+    "18212932": {
+      "case_name": "BRS v. VOLKSWAGEN AG, ET AL",
+      "court_id": "cand",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2016-06-20"
+    },
+    "4357344": {
+      "case_name": "AMI - Government Employees Provident Fund Management Company Ltd v. Papa",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-21"
+    },
+    "13304617": {
+      "case_name": "U.S. Securities and Exchange Commission v. Rangel",
+      "court_id": "ilnd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-21"
+    },
+    "13304623": {
+      "case_name": "U.S. Securities and Exchange Commission v. Ex Parte Application",
+      "court_id": "ilnd",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2016-06-21"
+    },
+    "4134503": {
+      "case_name": "RiceBran Technologies v. LF-RB Management LLC",
+      "court_id": "azd",
+      "nos": "850 Other Statutes: Securities/Commodities",
+      "date_filed": "2016-06-22"
+    },
+    "6179917": {
+      "case_name": "Securities and Exchange Commission v. Mustapha",
+      "court_id": "nysd",
+      "nos": "Securities/Commodities",
+      "date_filed": "2016-06-22"
+    },
+    "18175979": {
+      "case_name": "Randolph v. United States",
+      "court_id": "tned",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2016-06-22"
+    },
+    "4391824": {
+      "case_name": "Cory v. O'Connor",
+      "court_id": "txnd",
+      "nos": "850 Other Statutes: Securities/Commodities/Exchange",
+      "date_filed": "2016-06-23"
+    },
+    "18176135": {
+      "case_name": "INTERNATIONAL UNION OF PAINTER v. CBL & ASSOCIATES PROPER, ET AL",
+      "court_id": "tned",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2016-06-23"
+    },
+    "4391825": {
+      "case_name": "Securities and Exchange Commission v. Faulkner",
+      "court_id": "txnd",
+      "nos": "850 Other Statutes: Securities/Commodities/Exchange",
+      "date_filed": "2016-06-24"
+    },
+    "4570930": {
+      "case_name": "Xiang v. Inovalon Holdings, Inc.",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-24"
+    },
+    "5412995": {
+      "case_name": "Securities and Exchange Commission v. Toups",
+      "court_id": "flmd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-27"
+    },
+    "4357387": {
+      "case_name": "Jackson v. Avanos Medical, Inc.",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-28"
+    },
+    "4508303": {
+      "case_name": "Commodity Futures Trading Commission v. Wilkinson",
+      "court_id": "ilnd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-28"
+    },
+    "4570932": {
+      "case_name": "Wilbush v. Ambac Financial Group, Inc.",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-28"
+    },
+    "13248988": {
+      "case_name": "Patel v. Inovalon Holdings, Inc.",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-28"
+    },
+    "4182925": {
+      "case_name": "Securities and Exchange Commission v. Kerr",
+      "court_id": "cand",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-29"
+    },
+    "4363868": {
+      "case_name": "Abrahamson v. Jones",
+      "court_id": "ohsd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-29"
+    },
+    "5405917": {
+      "case_name": "Kindratiw v. Family Broodmares V, LLC",
+      "court_id": "flmd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-29"
+    },
+    "13404573": {
+      "case_name": "Rosenfeld v. St. Jude Medical, Inc.",
+      "court_id": "mnd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-06-30"
+    },
+    "4312493": {
+      "case_name": "LEWIS v. LIPOCINE INC.",
+      "court_id": "njd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-01"
+    },
+    "13340547": {
+      "case_name": "Santander Securities LLC v. Rodriguez-Cardona",
+      "court_id": "prd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-06"
+    },
+    "13356031": {
+      "case_name": "MORASSI v. LIPOCINE INC.",
+      "court_id": "njd",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2016-07-06"
+    },
+    "4154894": {
+      "case_name": "Ji-Yong Ryu v. HCP, Inc.",
+      "court_id": "cacd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-07"
+    },
+    "4505436": {
+      "case_name": "Securities and Exchange Commission v. Pirrello",
+      "court_id": "gand",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-07"
+    },
+    "13356035": {
+      "case_name": "BURLESON v. LIPOCINE INC.",
+      "court_id": "njd",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2016-07-07"
+    },
+    "4228199": {
+      "case_name": "Buckley v. Quorum Innovations, LLC",
+      "court_id": "flmd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-08"
+    },
+    "4304539": {
+      "case_name": "LOMAX v. KRISPY KREME DOUGHNUTS, INC.",
+      "court_id": "ncmd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-08"
+    },
+    "4357432": {
+      "case_name": "Archer Capital Master Fund, L.P. v. American Realty Capital Properties, Inc.",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-08"
+    },
+    "4559116": {
+      "case_name": "Atlas Master Fund, Ltd. v. American Realty Capital Properties, Inc.",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-08"
+    },
+    "14434820": {
+      "case_name": "Williams v. FCA US LLC",
+      "court_id": "txnd",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2016-07-08"
+    },
+    "18606920": {
+      "case_name": "BOYKIN v. DAIICHI SANKYO, INC.",
+      "court_id": "njd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-09"
+    },
+    "4357434": {
+      "case_name": "Donoghue v. Mindich",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-10"
+    },
+    "4263866": {
+      "case_name": "St. Lucie County Fire District Firefighters Pension Trust Fund v. Stericycle, Inc.",
+      "court_id": "ilnd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-11"
+    },
+    "4395877": {
+      "case_name": "Mariani v. Memorial Resource Development Corp.",
+      "court_id": "txsd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-11"
+    },
+    "5370627": {
+      "case_name": "Chen v. U.S. Bank National Association",
+      "court_id": "wawd",
+      "nos": "Securities/Commodities",
+      "date_filed": "2016-07-11"
+    },
+    "5370629": {
+      "case_name": "Mao v. US Bank National Association",
+      "court_id": "wawd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-11"
+    },
+    "4182966": {
+      "case_name": "Rosati v. Marketo, Inc.",
+      "court_id": "cand",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-12"
+    },
+    "4408924": {
+      "case_name": "Assad v. Mines Management Inc",
+      "court_id": "waed",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-12"
+    },
+    "4411876": {
+      "case_name": "Veljanoski v. Juno Therapeutics, Inc.",
+      "court_id": "wawd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-12"
+    },
+    "13321009": {
+      "case_name": "CASE NUMBER NOT USED",
+      "court_id": "wawd",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2016-07-12"
+    },
+    "4182971": {
+      "case_name": "Crago v. Charles Schwab & Co., Inc.",
+      "court_id": "cand",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-13"
+    },
+    "4402426": {
+      "case_name": "Fellows v. Sundahl",
+      "court_id": "utd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-13"
+    },
+    "4528112": {
+      "case_name": "JEWELTEX MANUFACTURING INC. RETIREMENT PLAN v. QLIK TECHNOLOGIES, INC.",
+      "court_id": "paed",
+      "nos": "850 Other Statutes: Securities/Commodities",
+      "date_filed": "2016-07-13"
+    },
+    "6297737": {
+      "case_name": "Wan v. Juno Therapeutics, Inc.",
+      "court_id": "wawd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-13"
+    },
+    "4372284": {
+      "case_name": "GANSMAN v. RESOURCE AMERICA, INC.",
+      "court_id": "paed",
+      "nos": "850 Other Statutes: Securities/Commodities",
+      "date_filed": "2016-07-14"
+    },
+    "6054706": {
+      "case_name": "Securities & Exchange Commission v. Roberts",
+      "court_id": "nvd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-14"
+    },
+    "13249064": {
+      "case_name": "Nguyen v. United States Securities and Exchange Commission",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-14"
+    },
+    "13340554": {
+      "case_name": "Santander Securities LLC v. Lopez-Betancourt",
+      "court_id": "prd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-14"
+    },
+    "4154943": {
+      "case_name": "George Assad v. Ceres, Inc.",
+      "court_id": "cacd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-15"
+    },
+    "4312505": {
+      "case_name": "HOEY v. INSMED INCORPORATED",
+      "court_id": "njd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-15"
+    },
+    "13577303": {
+      "case_name": "Securities and Exchange Commission v. Conrad",
+      "court_id": "gand",
+      "nos": "850 Securities, Commodities, Exchange",
+      "date_filed": "2016-07-15"
+    },
+    "4154960": {
+      "case_name": "John Erving v. Search Initiatives, Inc.",
+      "court_id": "cacd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-18"
+    },
+    "4182981": {
+      "case_name": "Hannaford Enterprises, LLC v. Robert R. Weakley",
+      "court_id": "cand",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-18"
+    },
+    "4228206": {
+      "case_name": "Beckel v. Fagron Holding USA, LLC",
+      "court_id": "flmd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-18"
+    },
+    "4357475": {
+      "case_name": "Paraflon Investments, Ltd. v. Fullbridge, Inc.",
+      "court_id": "nysd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-18"
+    },
+    "4518085": {
+      "case_name": "WILSON v. PAPA",
+      "court_id": "njd",
+      "nos": "850 Securities/Commodities",
+      "date_filed": "2016-07-18"
+    },
+    "4528118": {
+      "case_name": "WALKER v. QLIK TECHNOLOGIES, INC.",
+      "court_id": "paed",
+      "nos": "850 Other Statutes: Securities/Commodities",
+      "date_filed": "2016-07-18"
+    },
+    "14440845": {
+      "case_name": "United States v. Avalos-Aguirre",
+      "court_id": "txwd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-01-07"
+    },
+    "5479171": {
+      "case_name": "Boardman v. Pacific Seafood Group",
+      "court_id": "ord",
+      "nos": "Antitrust",
+      "date_filed": "2015-01-22"
+    },
+    "14426122": {
+      "case_name": "United States v. Valdez",
+      "court_id": "flmd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-01-30"
+    },
+    "14409643": {
+      "case_name": "Eclipse IP LLC v. Multi Group Logistics, Inc.",
+      "court_id": "txed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-02-03"
+    },
+    "4382075": {
+      "case_name": "Med-Star Paramedic Ambulance, Inc. v. City of Sioux Falls",
+      "court_id": "sdd",
+      "nos": "410 Other Statutes: Antitrust",
+      "date_filed": "2015-02-04"
+    },
+    "14430845": {
+      "case_name": "United States v. LG CELLULAR FLIP PHONE IMEI: 014162-00-145886-0",
+      "court_id": "pawd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-02-04"
+    },
+    "14442102": {
+      "case_name": "Ashley Furniture Industries, Inc. v. Hickory Springs Manufacturing Company",
+      "court_id": "ohnd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-02-04"
+    },
+    "14448765": {
+      "case_name": "Ming Huang v. Alibaba Group Holding Limited",
+      "court_id": "cacd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-02-04"
+    },
+    "13519913": {
+      "case_name": "Rainbow Chevrolet, Inc. v. Toyo Tire & Rubber Co., Ltd.",
+      "court_id": "mied",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-02-10"
+    },
+    "13519914": {
+      "case_name": "Rainbow Chevrolet, Inc. v. Hitachi Automotive Systems, Ltd., eta l.",
+      "court_id": "mied",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-02-10"
+    },
+    "14499588": {
+      "case_name": "RAINBOW CHEVROLET, INC., ET AL v. HITACHI AUTOMOTIVE SYST, ET AL",
+      "court_id": "mied",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-02-10"
+    },
+    "18208352": {
+      "case_name": "RAINBOW CHEVROLET, INC., ET AL v. TOYO TIRE & RUBBER CO., ET AL",
+      "court_id": "mied",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-02-10"
+    },
+    "18208427": {
+      "case_name": "SEALED v. SEALED",
+      "court_id": "mied",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-02-10"
+    },
+    "13519915": {
+      "case_name": "Rainbow Chevrolet, Inc. v. Hitachi Automotive Systems, Ltd.",
+      "court_id": "mied",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-02-11"
+    },
+    "13519916": {
+      "case_name": "Rainbow Chevrolet, Inc. v. Denso Corporation",
+      "court_id": "mied",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-02-11"
+    },
+    "18208323": {
+      "case_name": "RAINBOW CHEVROLET, INC., ET AL v. DENSO CORPORATION, ET AL",
+      "court_id": "mied",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-02-11"
+    },
+    "18208359": {
+      "case_name": "RAINBOW CHEVROLET, INC., ET AL v. HITACHI AUTOMOTIVE SYST, ET AL",
+      "court_id": "mied",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-02-11"
+    },
+    "14510970": {
+      "case_name": "United States v. Toure",
+      "court_id": "flmd",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-02-27"
+    },
+    "13140549": {
+      "case_name": "Arizona, State of v. Visa USA Incorporated",
+      "court_id": "nyed",
+      "nos": "410 Antitrust",
+      "date_filed": "2015-03-05"
+    },
+    "5091059": {
+      "case_name": "MetroPCS Wireless Inc v. AU Optronics Corporation",
+      "court_id": "txnd",
+      "nos": "Other Statutes: Antitrust",
+      "date_filed": "2015-03-10"
     }
   },
   "stats": {}
