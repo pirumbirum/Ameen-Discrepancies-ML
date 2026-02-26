@@ -1,11 +1,10 @@
 name: "07: Golden Set Builder"
 
-# Option B pipeline:
-#   Phase 1: Stream opinion-clusters CSV (~5 min) → match to 275K docket IDs
-#   Phase 2: Score from cluster data only (citations, published, SCOTUS) → build golden_set/
-#   Phase 3: API-fetch full opinion text for just the ~1,100 golden set cases
+# Option B pipeline (2 jobs):
+#   Job 1 (build):  Stream clusters CSV → score → build golden_set/ → commit
+#   Job 2 (fetch):  API-fetch opinion text for golden set clusters → commit
 #
-# ETA: ~20-30 minutes total.
+# Job 1 always succeeds (~10 min). Job 2 is resumable — re-run to continue.
 
 on:
   workflow_dispatch:
@@ -19,9 +18,10 @@ env:
   STATE_DIR: "/tmp/golden_state"
 
 jobs:
-  golden-set:
+  # ── Job 1: Build scored golden_set structure ────────────────────
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 30
 
     steps:
       - name: Checkout
@@ -43,7 +43,7 @@ jobs:
       - name: Install lbzip2
         run: sudo apt-get install -y lbzip2
 
-      - name: Disk check (before)
+      - name: Disk check
         run: df -h .
 
       - name: "Phase 1: Stream opinion clusters"
@@ -60,52 +60,89 @@ jobs:
 
       - name: "Phase 1 checkpoint"
         run: |
-          echo "Cluster IDs collected:"
           python3 -c "
           import json
           with open('${{ env.STATE_DIR }}/cluster_ids.json') as f:
               ids = json.load(f)
-          print(f'  {len(ids):,} clusters matched')
+          print(f'Phase 1: {len(ids):,} clusters matched')
           "
 
       - name: "Phase 2: Score + build golden_set/"
         run: python3 scripts/build_golden_set.py score --state-dir "$STATE_DIR"
 
-      - name: "Phase 2 checkpoint"
+      - name: "Phase 2 summary"
         run: |
-          echo "=== Golden Set Index ==="
           python3 -c "
           import json
           with open('golden_set/index.json') as f:
               idx = json.load(f)
           print(f'Total golden cases: {idx[\"total_golden_cases\"]}')
           print()
-          for cat, info in idx['categories'].items():
+          for cat, info in sorted(idx['categories'].items()):
               print(f'  {info[\"nos_code\"]} {cat:20s}  '
                     f'top={info[\"top_n_saved\"]:>3}  '
-                    f'score_range={info[\"cutoff_score\"]}-{info[\"top_score\"]}  '
-                    f'(of {info[\"total_with_opinions\"]:,} with opinions)')
+                    f'scores={info[\"cutoff_score\"]}-{info[\"top_score\"]}  '
+                    f'(of {info[\"total_with_opinions\"]:,} with clusters)')
           "
           echo ""
-          echo "=== Clusters to fetch opinions for ==="
           python3 -c "
           import json
           with open('${{ env.STATE_DIR }}/golden_cluster_paths.json') as f:
               paths = json.load(f)
-          print(f'  {len(paths):,} clusters')
+          print(f'Clusters for Phase 3 API fetch: {len(paths):,}')
           "
 
-      - name: "Phase 3: API-fetch opinions for golden set"
+      - name: Commit golden_set structure
+        run: |
+          git add golden_set/
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Golden set: scored structure (clusters-only, no opinion text yet)"
+          git push
+
+      - name: Upload state for fetch job
+        uses: actions/upload-artifact@v4
+        with:
+          name: golden-state-${{ github.run_id }}
+          path: /tmp/golden_state/
+          retention-days: 1
+
+  # ── Job 2: API-fetch opinion text for golden set ────────────────
+  fetch:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+
+    steps:
+      - name: Checkout (with latest commit from build job)
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pull latest (build job's commit)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull origin ${{ github.ref_name }} --rebase
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Download state from build job
+        uses: actions/download-artifact@v4
+        with:
+          name: golden-state-${{ github.run_id }}
+          path: /tmp/golden_state/
+
+      - name: "Phase 3: API-fetch opinions (resumable)"
         env:
           CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
         run: python3 scripts/build_golden_set.py opinions --state-dir "$STATE_DIR"
 
       - name: Show golden set summary
         run: |
-          echo "=== Folder structure (sample) ==="
-          find golden_set -maxdepth 5 -type f | head -30
-          echo "..."
-          echo ""
           echo "=== File counts per category ==="
           for d in golden_set/*/; do
             name=$(basename "$d")
@@ -114,29 +151,17 @@ jobs:
             echo "  $name: $cases cases, $opinions opinion files"
           done
           echo ""
-          echo "=== Disk usage ==="
           du -sh golden_set/
 
-      - name: Commit golden set
+      - name: Commit opinions
         run: |
-          git add golden_set/ cases2.1/
-          COUNT=$(python3 -c "
-          import json
-          with open('golden_set/index.json') as f:
-              print(json.load(f)['total_golden_cases'])
-          " 2>/dev/null || echo "???")
-          git diff --cached --quiet || git commit -m "$(cat <<'EOF'
-          Golden set: top 100 per NOS category (${COUNT} cases total)
+          git add golden_set/
+          git diff --cached --quiet && echo "No new opinions" && exit 0
+          OPINIONS=$(find golden_set -name "opinion_*.json" | wc -l)
+          git commit -m "Golden set: add ${OPINIONS} opinion files via API fetch"
+          git push
 
-          Option B: scored by clusters (citations*5 + published*10 + scotus*100).
-          Each case has docket.json + opinions/ with cluster subfolders,
-          each opinion in its own file. Full opinion text via API.
-          cases2.1/ is a clean backup of cases2/.
-          EOF
-          )"
-          git push || true
-
-      - name: Upload artifact
+      - name: Upload final artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:

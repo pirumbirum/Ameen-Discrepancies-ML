@@ -372,7 +372,10 @@ def phase_score(state_dir):
 # ── Phase 3: API-fetch opinions for golden set only ───────────────
 
 def phase_opinions(state_dir):
-    """Fetch full opinion data via CourtListener API for golden set clusters only."""
+    """Fetch full opinion data via CourtListener API for golden set clusters only.
+
+    Resumable: skips clusters that already have opinion_*.json files.
+    """
     token = os.environ.get("CL_API_TOKEN", "")
 
     with open(f"{state_dir}/golden_cluster_paths.json") as f:
@@ -386,19 +389,41 @@ def phase_opinions(state_dir):
         print("  Using API token (5,000 req/hr limit)")
     else:
         print("  WARNING: No CL_API_TOKEN set, using anonymous rate limit")
+
+    # Check how many already fetched (resumability)
+    already_done = 0
+    for cluster_id, cluster_dir in golden_cluster_paths.items():
+        if os.path.isdir(cluster_dir):
+            existing = [f for f in os.listdir(cluster_dir) if f.startswith("opinion_")]
+            if existing:
+                already_done += 1
+
+    remaining = total - already_done
+    print(f"  Already fetched: {already_done:,}, remaining: {remaining:,}")
     sys.stdout.flush()
 
     fetched = 0
+    skipped = 0
     failed = 0
     start = time.time()
 
     for i, (cluster_id, cluster_dir) in enumerate(golden_cluster_paths.items(), 1):
-        if i % 50 == 0 or i == 1:
+        if (i - skipped) % 50 == 0 or i == 1:
             elapsed = time.time() - start
             rate = fetched / max(elapsed, 1) * 3600
-            print(f"  [{i}/{total}] {fetched} fetched, {failed} failed | "
+            print(f"  [{i}/{total}] {fetched} fetched, {skipped} skipped, {failed} failed | "
                   f"{elapsed/60:.1f} min | ~{rate:.0f} req/hr")
             sys.stdout.flush()
+
+        if not os.path.isdir(cluster_dir):
+            failed += 1
+            continue
+
+        # Skip if already has opinion files (resumable)
+        existing = [f for f in os.listdir(cluster_dir) if f.startswith("opinion_")]
+        if existing:
+            skipped += 1
+            continue
 
         # Fetch opinions for this cluster
         url = f"{CL_API}/opinions/?cluster={cluster_id}&format=json"
@@ -410,8 +435,11 @@ def phase_opinions(state_dir):
 
         opinions = data.get("results", [])
 
-        if not os.path.isdir(cluster_dir):
-            failed += 1
+        # Write a marker even if no opinions, so we don't re-fetch
+        if not opinions:
+            with open(os.path.join(cluster_dir, "opinion_none.json"), "w") as f:
+                json.dump({"_note": "no opinions found via API"}, f)
+            fetched += 1
             continue
 
         # Each opinion gets its own file in the cluster subfolder
@@ -445,7 +473,7 @@ def phase_opinions(state_dir):
             time.sleep(0.3)
 
     elapsed = time.time() - start
-    print(f"\nPhase 3 done: {fetched:,} clusters enriched, {failed:,} failed")
+    print(f"\nPhase 3 done: {fetched:,} fetched, {skipped:,} skipped, {failed:,} failed")
     print(f"Time: {elapsed/60:.1f} min")
 
 
