@@ -53,10 +53,15 @@ jobs:
 
       - name: "Phase 1: Stream opinion clusters"
         run: |
+          set +o pipefail
           echo "Downloading + filtering opinion-clusters-${BULK_DATE}.csv.bz2 ..."
           curl -fSL "${S3_BASE}/opinion-clusters-${BULK_DATE}.csv.bz2" \
             | lbzip2 -d \
             | python3 scripts/build_golden_set.py clusters --state-dir "$STATE_DIR"
+          RESULT=${PIPESTATUS[2]}
+          echo "Python exit code: $RESULT"
+          test -f "$STATE_DIR/cluster_ids.json" || { echo "FATAL: no cluster_ids.json produced"; exit 1; }
+          exit $RESULT
 
       - name: "Phase 1 checkpoint"
         run: |
@@ -70,10 +75,15 @@ jobs:
 
       - name: "Phase 2: Stream opinions"
         run: |
+          set +o pipefail
           echo "Downloading + filtering opinions-${BULK_DATE}.csv.bz2 ..."
           curl -fSL "${S3_BASE}/opinions-${BULK_DATE}.csv.bz2" \
             | lbzip2 -d \
             | python3 scripts/build_golden_set.py opinions --state-dir "$STATE_DIR"
+          RESULT=${PIPESTATUS[2]}
+          echo "Python exit code: $RESULT"
+          test -f "$STATE_DIR/opinions_by_cluster.json" || { echo "FATAL: no opinions_by_cluster.json produced"; exit 1; }
+          exit $RESULT
 
       - name: "Phase 2 checkpoint"
         run: |

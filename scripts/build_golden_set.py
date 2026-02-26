@@ -21,6 +21,9 @@ from collections import defaultdict
 from datetime import datetime
 from io import TextIOWrapper
 
+# CourtListener CSVs have huge HTML fields (headmatter, syllabus, etc.)
+csv.field_size_limit(10 * 1024 * 1024)  # 10 MB
+
 # Must match filter_bulk_dockets.py
 TARGET_NOS = {
     "850": "securities",
@@ -97,44 +100,49 @@ def phase_clusters(state_dir):
     matched = 0
     start = time.time()
 
-    reader = csv.DictReader(
-        TextIOWrapper(sys.stdin.buffer, encoding='utf-8', errors='replace')
-    )
+    wrapper = TextIOWrapper(sys.stdin.buffer, encoding='utf-8', errors='replace')
+    reader = csv.DictReader(wrapper)
 
     if reader.fieldnames:
         print(f"Columns ({len(reader.fieldnames)}): {', '.join(reader.fieldnames[:10])}...")
         sys.stdout.flush()
 
+    errors = 0
     for row in reader:
-        total += 1
-        if total % 500_000 == 0:
-            elapsed = time.time() - start
-            print(f"  [{total/1e6:.1f}M] {matched:,} matched | {elapsed/60:.1f} min")
-            sys.stdout.flush()
+        try:
+            total += 1
+            if total % 500_000 == 0:
+                elapsed = time.time() - start
+                print(f"  [{total/1e6:.1f}M] {matched:,} matched, {errors} errors | {elapsed/60:.1f} min")
+                sys.stdout.flush()
 
-        docket_id = str(row.get("docket_id", ""))
-        if docket_id not in docket_ids:
-            continue
+            docket_id = str(row.get("docket_id", ""))
+            if docket_id not in docket_ids:
+                continue
 
-        cluster_id = str(row.get("id", ""))
-        cluster_ids.add(cluster_id)
+            cluster_id = str(row.get("id", ""))
+            cluster_ids.add(cluster_id)
 
-        clusters_by_docket[docket_id].append({
-            "id": cluster_id,
-            "docket_id": docket_id,
-            "date_filed": row.get("date_filed", ""),
-            "case_name": row.get("case_name", ""),
-            "judges": row.get("judges", ""),
-            "precedential_status": row.get("precedential_status", ""),
-            "citation_count": int(row.get("citation_count", 0) or 0),
-            "scdb_id": row.get("scdb_id", ""),
-            "nature_of_suit": row.get("nature_of_suit", ""),
-            "syllabus": row.get("syllabus", ""),
-        })
-        matched += 1
+            clusters_by_docket[docket_id].append({
+                "id": cluster_id,
+                "docket_id": docket_id,
+                "date_filed": row.get("date_filed", ""),
+                "case_name": row.get("case_name", ""),
+                "judges": row.get("judges", ""),
+                "precedential_status": row.get("precedential_status", ""),
+                "citation_count": int(row.get("citation_count", 0) or 0),
+                "scdb_id": row.get("scdb_id", ""),
+                "nature_of_suit": row.get("nature_of_suit", ""),
+                "syllabus": row.get("syllabus", ""),
+            })
+            matched += 1
+        except Exception as e:
+            errors += 1
+            if errors <= 5:
+                print(f"  WARNING row {total}: {e}", file=sys.stderr)
 
     elapsed = time.time() - start
-    print(f"\nPhase 1 done: {total:,} rows scanned, {matched:,} clusters matched")
+    print(f"\nPhase 1 done: {total:,} rows scanned, {matched:,} clusters matched, {errors} errors")
     print(f"Unique dockets with clusters: {len(clusters_by_docket):,}")
     print(f"Time: {elapsed/60:.1f} min")
 
@@ -162,39 +170,44 @@ def phase_opinions(state_dir):
     matched = 0
     start = time.time()
 
-    reader = csv.DictReader(
-        TextIOWrapper(sys.stdin.buffer, encoding='utf-8', errors='replace')
-    )
+    wrapper = TextIOWrapper(sys.stdin.buffer, encoding='utf-8', errors='replace')
+    reader = csv.DictReader(wrapper)
 
     if reader.fieldnames:
         print(f"Columns ({len(reader.fieldnames)}): {', '.join(reader.fieldnames[:10])}...")
         sys.stdout.flush()
 
+    errors = 0
     for row in reader:
-        total += 1
-        if total % 500_000 == 0:
-            elapsed = time.time() - start
-            print(f"  [{total/1e6:.1f}M] {matched:,} matched | {elapsed/60:.1f} min")
-            sys.stdout.flush()
+        try:
+            total += 1
+            if total % 500_000 == 0:
+                elapsed = time.time() - start
+                print(f"  [{total/1e6:.1f}M] {matched:,} matched, {errors} errors | {elapsed/60:.1f} min")
+                sys.stdout.flush()
 
-        cluster_id = str(row.get("cluster_id", ""))
-        if cluster_id not in cluster_ids:
-            continue
+            cluster_id = str(row.get("cluster_id", ""))
+            if cluster_id not in cluster_ids:
+                continue
 
-        opinions_by_cluster[cluster_id].append({
-            "id": str(row.get("id", "")),
-            "cluster_id": cluster_id,
-            "type": row.get("type", ""),
-            "author_str": row.get("author_str", ""),
-            "per_curiam": row.get("per_curiam", ""),
-            "page_count": row.get("page_count", ""),
-            "download_url": row.get("download_url", ""),
-            "sha1": row.get("sha1", ""),
-        })
-        matched += 1
+            opinions_by_cluster[cluster_id].append({
+                "id": str(row.get("id", "")),
+                "cluster_id": cluster_id,
+                "type": row.get("type", ""),
+                "author_str": row.get("author_str", ""),
+                "per_curiam": row.get("per_curiam", ""),
+                "page_count": row.get("page_count", ""),
+                "download_url": row.get("download_url", ""),
+                "sha1": row.get("sha1", ""),
+            })
+            matched += 1
+        except Exception as e:
+            errors += 1
+            if errors <= 5:
+                print(f"  WARNING row {total}: {e}", file=sys.stderr)
 
     elapsed = time.time() - start
-    print(f"\nPhase 2 done: {total:,} rows scanned, {matched:,} opinions matched")
+    print(f"\nPhase 2 done: {total:,} rows scanned, {matched:,} opinions matched, {errors} errors")
     print(f"Time: {elapsed/60:.1f} min")
 
     with open(f"{state_dir}/opinions_by_cluster.json", "w") as f:
