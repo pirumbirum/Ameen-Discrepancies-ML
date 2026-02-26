@@ -1,0 +1,142 @@
+name: "07: Golden Set Builder"
+
+# Streams CourtListener's opinion-clusters + opinions bulk CSVs,
+# scores all 275K dockets by judicial opinion activity (citations,
+# published/unpublished, dissents, concurrences, SCOTUS links),
+# then builds golden_set/ with top 100 per NOS category.
+#
+# Three streaming phases:
+#   1. clusters CSV (~2 GB bz2) → match to our docket IDs
+#   2. opinions CSV (~3 GB bz2) → match to clusters from phase 1
+#   3. score + rank → build golden_set/
+#
+# ETA: ~25-35 minutes total.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  BULK_DATE: "2025-12-31"
+  S3_BASE: "https://com-courtlistener-storage.s3-us-west-2.amazonaws.com/bulk-data"
+  STATE_DIR: "/tmp/golden_state"
+
+jobs:
+  golden-set:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install lbzip2
+        run: sudo apt-get install -y lbzip2
+
+      - name: Disk check (before)
+        run: df -h .
+
+      - name: "Phase 1: Stream opinion clusters"
+        run: |
+          echo "Downloading + filtering opinion-clusters-${BULK_DATE}.csv.bz2 ..."
+          curl -fSL "${S3_BASE}/opinion-clusters-${BULK_DATE}.csv.bz2" \
+            | lbzip2 -d \
+            | python3 scripts/build_golden_set.py clusters --state-dir "$STATE_DIR"
+
+      - name: "Phase 1 checkpoint"
+        run: |
+          echo "Cluster IDs collected:"
+          python3 -c "
+          import json
+          with open('${{ env.STATE_DIR }}/cluster_ids.json') as f:
+              ids = json.load(f)
+          print(f'  {len(ids):,} clusters matched')
+          "
+
+      - name: "Phase 2: Stream opinions"
+        run: |
+          echo "Downloading + filtering opinions-${BULK_DATE}.csv.bz2 ..."
+          curl -fSL "${S3_BASE}/opinions-${BULK_DATE}.csv.bz2" \
+            | lbzip2 -d \
+            | python3 scripts/build_golden_set.py opinions --state-dir "$STATE_DIR"
+
+      - name: "Phase 2 checkpoint"
+        run: |
+          echo "Opinions collected:"
+          python3 -c "
+          import json
+          with open('${{ env.STATE_DIR }}/opinions_by_cluster.json') as f:
+              data = json.load(f)
+          total = sum(len(v) for v in data.values())
+          print(f'  {total:,} opinions across {len(data):,} clusters')
+          "
+
+      - name: "Phase 3: Score + build golden_set/"
+        run: python3 scripts/build_golden_set.py score --state-dir "$STATE_DIR"
+
+      - name: Show golden set summary
+        run: |
+          echo "=== Golden Set Index ==="
+          python3 -c "
+          import json
+          with open('golden_set/index.json') as f:
+              idx = json.load(f)
+          print(f'Total golden cases: {idx[\"total_golden_cases\"]}')
+          print(f'Created: {idx[\"created_at\"]}')
+          print()
+          for cat, info in idx['categories'].items():
+              print(f'  {info[\"nos_code\"]} {cat:20s}  '
+                    f'top={info[\"top_n_saved\"]:>3}  '
+                    f'score_range={info[\"cutoff_score\"]}-{info[\"top_score\"]}  '
+                    f'(of {info[\"total_with_opinions\"]:,} with opinions)')
+          "
+          echo ""
+          echo "=== Folder structure ==="
+          find golden_set -maxdepth 3 -type d | head -40
+          echo ""
+          echo "=== Disk usage ==="
+          du -sh golden_set/
+
+      - name: Disk check (after)
+        run: df -h .
+
+      - name: Commit golden set
+        run: |
+          git add golden_set/
+          COUNT=$(python3 -c "
+          import json
+          with open('golden_set/index.json') as f:
+              print(json.load(f)['total_golden_cases'])
+          " 2>/dev/null || echo "???")
+          git diff --cached --quiet || git commit -m "$(cat <<EOF
+          Golden set: top 100 per NOS category (${COUNT} cases total)
+
+          Scored by opinion activity: published*10 + unpublished*2 +
+          citations*5 + concurrences*3 + dissents*8 + scotus*100.
+          Each case subfolder has docket.json + opinions/ with clusters.
+          EOF
+          )"
+          git push || true
+
+      - name: Upload artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: golden-set-${{ github.run_id }}
+          path: golden_set/
+          retention-days: 90
