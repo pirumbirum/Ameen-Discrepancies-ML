@@ -1,0 +1,31 @@
+{
+  "id": "69449045",
+  "case_name": "Raiz Federal Credit Union v. Rize Federal Credit Union",
+  "case_name_full": "",
+  "docket_number": "3:24-cv-00440",
+  "docket_number_core": "2400440",
+  "court_id": "txwd",
+  "nature_of_suit": "Trademark",
+  "cause": "15:1114 Trademark Infringement",
+  "jurisdiction_type": "",
+  "date_filed": "2024-12-09",
+  "date_terminated": "2025-05-14",
+  "date_last_filing": "2025-12-08",
+  "assigned_to_str": "David C Guaderrama",
+  "referred_to_str": "",
+  "pacer_case_id": "1172816195",
+  "source": "1",
+  "slug": "raiz-federal-credit-union-v-rize-federal-credit-union",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 42,
+  "_nos_category": "trademark"
+}

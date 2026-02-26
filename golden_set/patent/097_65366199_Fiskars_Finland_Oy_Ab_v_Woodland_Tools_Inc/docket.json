@@ -1,0 +1,31 @@
+{
+  "id": "65366199",
+  "case_name": "Fiskars Finland Oy Ab v. Woodland Tools, Inc.",
+  "case_name_full": "",
+  "docket_number": "3:22-cv-00540",
+  "docket_number_core": "2200540",
+  "court_id": "wiwd",
+  "nature_of_suit": "830 Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-09-21",
+  "date_terminated": "2024-12-27",
+  "date_last_filing": "2025-12-09",
+  "assigned_to_str": "James D. Peterson",
+  "referred_to_str": "Anita Marie Boor",
+  "pacer_case_id": "49856",
+  "source": "1",
+  "slug": "fiskars-finland-oy-ab-v-woodland-tools-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 4,
+    "has_scotus": false
+  },
+  "_rank_in_category": 97,
+  "_nos_category": "patent"
+}

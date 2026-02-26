@@ -1,0 +1,31 @@
+{
+  "id": "71121784",
+  "case_name": "Lawson v. Godderz",
+  "case_name_full": "",
+  "docket_number": "6:25-cv-01179",
+  "docket_number_core": "2501179",
+  "court_id": "ksd",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "18:1964 Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2025-08-15",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-11",
+  "assigned_to_str": "John W. Broomes",
+  "referred_to_str": "Teresa J. James",
+  "pacer_case_id": "159427",
+  "source": "1",
+  "slug": "lawson-v-godderz",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 3,
+    "has_scotus": false
+  },
+  "_rank_in_category": 56,
+  "_nos_category": "rico"
+}

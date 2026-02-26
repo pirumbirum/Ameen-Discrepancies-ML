@@ -1,0 +1,31 @@
+{
+  "id": "15708792",
+  "case_name": "McKesson Corporation v. Dillow",
+  "case_name_full": "",
+  "docket_number": "3:19-cv-00164",
+  "docket_number_core": "1900164",
+  "court_id": "ohsd",
+  "nature_of_suit": "Insurance",
+  "cause": "29:1132 E.R.I.S.A.-Employee Benefits",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-05-31",
+  "date_terminated": "2021-04-06",
+  "date_last_filing": "2021-05-03",
+  "assigned_to_str": "Thomas M. Rose",
+  "referred_to_str": "Stephanie K. Bowman",
+  "pacer_case_id": "226528",
+  "source": "9",
+  "slug": "mckesson-corporation-v-dillow",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 88,
+  "_nos_category": "insurance"
+}

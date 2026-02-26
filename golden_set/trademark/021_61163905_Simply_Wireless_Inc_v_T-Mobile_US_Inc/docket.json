@@ -1,0 +1,31 @@
+{
+  "id": "61163905",
+  "case_name": "Simply Wireless, Inc. v. T-Mobile US, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-00597",
+  "docket_number_core": "2100597",
+  "court_id": "vaed",
+  "nature_of_suit": "Trademark",
+  "cause": "15:1127 Trademark Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-05-12",
+  "date_terminated": "",
+  "date_last_filing": "2025-07-02",
+  "assigned_to_str": "Anthony J Trenga",
+  "referred_to_str": "John F. Anderson",
+  "pacer_case_id": "508239",
+  "source": "1",
+  "slug": "simply-wireless-inc-v-t-mobile-us-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 21,
+  "_nos_category": "trademark"
+}

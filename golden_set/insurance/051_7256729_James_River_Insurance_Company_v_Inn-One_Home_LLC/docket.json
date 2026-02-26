@@ -1,0 +1,31 @@
+{
+  "id": "7256729",
+  "case_name": "James River Insurance Company v. Inn-One Home, LLC",
+  "case_name_full": "",
+  "docket_number": "2:18-cv-00100",
+  "docket_number_core": "1800100",
+  "court_id": "vtd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:2201 Declaratory Judgment (Insurance)",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2018-06-22",
+  "date_terminated": "2021-06-09",
+  "date_last_filing": "2021-10-04",
+  "assigned_to_str": "Christina Reiss",
+  "referred_to_str": "",
+  "pacer_case_id": "29174",
+  "source": "9",
+  "slug": "james-river-insurance-company-v-inn-one-home-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 4,
+    "has_scotus": false
+  },
+  "_rank_in_category": 51,
+  "_nos_category": "insurance"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "67998636",
+  "case_name": "SECURITIES AND EXCHANGE COMMISSION v. MINTZ",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-03201",
+  "docket_number_core": "2303201",
+  "court_id": "njd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "12:22 Securities Fraud",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2023-06-12",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-05",
+  "assigned_to_str": "Renee Marie Bumb",
+  "referred_to_str": "Ann Marie Donio",
+  "pacer_case_id": "536346",
+  "source": "1",
+  "slug": "securities-and-exchange-commission-v-mintz",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 3,
+  "_nos_category": "securities"
+}

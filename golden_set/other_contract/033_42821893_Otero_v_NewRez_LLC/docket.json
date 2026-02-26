@@ -1,0 +1,31 @@
+{
+  "id": "42821893",
+  "case_name": "Otero v. NewRez LLC",
+  "case_name_full": "",
+  "docket_number": "6:21-cv-00118",
+  "docket_number_core": "2100118",
+  "court_id": "flmd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "15:1692 Fair Debt Collection Act",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2021-01-25",
+  "date_terminated": "2023-01-27",
+  "date_last_filing": "2024-04-01",
+  "assigned_to_str": "Paul G. Byron",
+  "referred_to_str": "Daniel C. Irick",
+  "pacer_case_id": "386085",
+  "source": "1",
+  "slug": "otero-v-newrez-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 33,
+  "_nos_category": "other_contract"
+}

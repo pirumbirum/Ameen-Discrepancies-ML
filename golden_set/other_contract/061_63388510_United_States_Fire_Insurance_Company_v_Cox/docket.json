@@ -1,0 +1,31 @@
+{
+  "id": "63388510",
+  "case_name": "United States Fire Insurance Company v. Cox",
+  "case_name_full": "",
+  "docket_number": "3:22-cv-01304",
+  "docket_number_core": "2201304",
+  "court_id": "txnd",
+  "nature_of_suit": "Contract: Other Contract",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "",
+  "date_filed": "2022-06-15",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-08",
+  "assigned_to_str": "David C Godbey",
+  "referred_to_str": "",
+  "pacer_case_id": "363934",
+  "source": "1",
+  "slug": "united-states-fire-insurance-company-v-cox",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 61,
+  "_nos_category": "other_contract"
+}

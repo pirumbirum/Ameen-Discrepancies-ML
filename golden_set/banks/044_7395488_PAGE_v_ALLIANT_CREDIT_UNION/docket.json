@@ -1,0 +1,31 @@
+{
+  "id": "7395488",
+  "case_name": "PAGE v. ALLIANT CREDIT UNION",
+  "case_name_full": "",
+  "docket_number": "2:18-cv-11481",
+  "docket_number_core": "1811481",
+  "court_id": "njd",
+  "nature_of_suit": "Banks and Banking",
+  "cause": "15:1692 Fair Debt Collection Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2018-07-10",
+  "date_terminated": "2019-07-15",
+  "date_last_filing": "2019-08-01",
+  "assigned_to_str": "Susan D. Wigenton",
+  "referred_to_str": "Cathy L. Waldor",
+  "pacer_case_id": "379542",
+  "source": "9",
+  "slug": "page-v-alliant-credit-union",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 44,
+  "_nos_category": "banks"
+}

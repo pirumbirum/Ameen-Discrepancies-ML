@@ -1,0 +1,31 @@
+{
+  "id": "64859548",
+  "case_name": "U.S. Securities and Exchange Commission v. Okhotnikov",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-03978",
+  "docket_number_core": "2203978",
+  "court_id": "ilnd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2022-08-01",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-01",
+  "assigned_to_str": "Jeremy C. Daniel",
+  "referred_to_str": "",
+  "pacer_case_id": "417808",
+  "source": "1",
+  "slug": "us-securities-and-exchange-commission-v-okhotnikov",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 6,
+    "has_scotus": false
+  },
+  "_rank_in_category": 33,
+  "_nos_category": "securities"
+}

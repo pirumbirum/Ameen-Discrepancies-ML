@@ -1,0 +1,31 @@
+{
+  "id": "18699470",
+  "case_name": "LaKamp v. Runft",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-00544",
+  "docket_number_core": "2000544",
+  "court_id": "idd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-11-30",
+  "date_terminated": "2024-04-23",
+  "date_last_filing": "2025-12-08",
+  "assigned_to_str": "David C. Nye",
+  "referred_to_str": "",
+  "pacer_case_id": "46986",
+  "source": "1",
+  "slug": "lakamp-v-runft",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 4,
+    "has_scotus": false
+  },
+  "_rank_in_category": 26,
+  "_nos_category": "securities"
+}

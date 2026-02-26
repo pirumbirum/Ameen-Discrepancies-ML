@@ -1,0 +1,31 @@
+{
+  "id": "67207209",
+  "case_name": "BRANDYWINE HOSPITAL, LLC v. CVS HEALTH CORPORATION",
+  "case_name_full": "",
+  "docket_number": "2:23-cv-01458",
+  "docket_number_core": "2301458",
+  "court_id": "paed",
+  "nature_of_suit": "410 Other Statutes: Anti-Trust",
+  "cause": "15:1 Antitrust Litigation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-04-17",
+  "date_terminated": "2025-05-08",
+  "date_last_filing": "2025-12-08",
+  "assigned_to_str": "MIA ROBERTS PEREZ",
+  "referred_to_str": "",
+  "pacer_case_id": "608523",
+  "source": "1",
+  "slug": "brandywine-hospital-llc-v-cvs-health-corporation",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 3,
+  "_nos_category": "antitrust"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "67561577",
+  "case_name": "SCHREIBER v. KEY",
+  "case_name_full": "",
+  "docket_number": "5:23-cv-00155",
+  "docket_number_core": "2300155",
+  "court_id": "gamd",
+  "nature_of_suit": "Environmental Matters",
+  "cause": "33:1365 Environmental Matters",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-05-09",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-12",
+  "assigned_to_str": "Marc T. Treadwell",
+  "referred_to_str": "",
+  "pacer_case_id": "129254",
+  "source": "1",
+  "slug": "schreiber-v-key",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 4,
+    "has_scotus": false
+  },
+  "_rank_in_category": 41,
+  "_nos_category": "environmental"
+}

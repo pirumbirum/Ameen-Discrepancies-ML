@@ -1,0 +1,31 @@
+{
+  "id": "60276904",
+  "case_name": "Santos Vasquez v. Specialized Loan Servicing LLC",
+  "case_name_full": "",
+  "docket_number": "2:21-cv-06800",
+  "docket_number_core": "2106800",
+  "court_id": "cacd",
+  "nature_of_suit": "Banks and Banking",
+  "cause": "28:1441 Notice of Removal",
+  "jurisdiction_type": "",
+  "date_filed": "2021-08-23",
+  "date_terminated": "2021-10-07",
+  "date_last_filing": "2021-10-26",
+  "assigned_to_str": "George H Wu",
+  "referred_to_str": "Douglas F. McCormick",
+  "pacer_case_id": "829607",
+  "source": "1",
+  "slug": "santos-vasquez-v-specialized-loan-servicing-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 93,
+  "_nos_category": "banks"
+}

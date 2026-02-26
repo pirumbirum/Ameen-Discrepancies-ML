@@ -1,0 +1,31 @@
+{
+  "id": "69736382",
+  "case_name": "Celonis SE v. SAP SE",
+  "case_name_full": "",
+  "docket_number": "3:25-cv-02519",
+  "docket_number_core": "2502519",
+  "court_id": "cand",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "15:2 Antitrust Litigation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2025-03-13",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-29",
+  "assigned_to_str": "Vince Chhabria",
+  "referred_to_str": "Sallie Kim",
+  "pacer_case_id": "446380",
+  "source": "1",
+  "slug": "celonis-se-v-sap-se",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 33,
+  "_nos_category": "antitrust"
+}

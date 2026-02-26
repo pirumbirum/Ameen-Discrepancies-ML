@@ -1,0 +1,31 @@
+{
+  "id": "18721140",
+  "case_name": "Bryant v. Washington Federal Bank, Inc",
+  "case_name_full": "",
+  "docket_number": "2:20-cv-01266",
+  "docket_number_core": "2001266",
+  "court_id": "nmd",
+  "nature_of_suit": "Banks and Banking",
+  "cause": "42:1983 Civil Rights Act",
+  "jurisdiction_type": "",
+  "date_filed": "2020-12-07",
+  "date_terminated": "2024-05-28",
+  "date_last_filing": "2024-05-28",
+  "assigned_to_str": "Robert C. Brack",
+  "referred_to_str": "Damian L. Martinez",
+  "pacer_case_id": "455558",
+  "source": "1",
+  "slug": "bryant-v-washington-federal-bank-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 8,
+    "has_scotus": false
+  },
+  "_rank_in_category": 55,
+  "_nos_category": "banks"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "69391194",
+  "case_name": "Government Employees Insurance Company v. Star Medical Diagnostic, P.C.",
+  "case_name_full": "",
+  "docket_number": "1:24-cv-08049",
+  "docket_number_core": "2408049",
+  "court_id": "nyed",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "18:1962 Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-11-19",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-27",
+  "assigned_to_str": "Frederic Block",
+  "referred_to_str": "Marcia M. Henry",
+  "pacer_case_id": "523989",
+  "source": "1",
+  "slug": "government-employees-insurance-company-v-star-medical-diagnostic-pc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 63,
+  "_nos_category": "rico"
+}

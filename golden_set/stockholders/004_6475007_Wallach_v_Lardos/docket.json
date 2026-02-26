@@ -1,0 +1,31 @@
+{
+  "id": "6475007",
+  "case_name": "Wallach v. Lardos",
+  "case_name_full": "",
+  "docket_number": "1:16-cv-05392",
+  "docket_number_core": "1605392",
+  "court_id": "nysd",
+  "nature_of_suit": "Stockholders Suits",
+  "cause": "28:1332fd Diversity-Breach of Fiduciary Duty",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2016-07-06",
+  "date_terminated": "2021-03-22",
+  "date_last_filing": "2021-07-27",
+  "assigned_to_str": "Ronnie Abrams",
+  "referred_to_str": "",
+  "pacer_case_id": "460047",
+  "source": "9",
+  "slug": "wallach-v-lardos",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 4,
+  "_nos_category": "stockholders"
+}

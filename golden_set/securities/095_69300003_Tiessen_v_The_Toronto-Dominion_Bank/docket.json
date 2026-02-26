@@ -1,0 +1,31 @@
+{
+  "id": "69300003",
+  "case_name": "Tiessen v. The Toronto-Dominion Bank",
+  "case_name_full": "",
+  "docket_number": "1:24-cv-08032",
+  "docket_number_core": "2408032",
+  "court_id": "nysd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-10-22",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-11",
+  "assigned_to_str": "Arun Subramanian",
+  "referred_to_str": "",
+  "pacer_case_id": "630404",
+  "source": "1",
+  "slug": "tiessen-v-the-toronto-dominion-bank",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 3,
+    "has_scotus": false
+  },
+  "_rank_in_category": 95,
+  "_nos_category": "securities"
+}

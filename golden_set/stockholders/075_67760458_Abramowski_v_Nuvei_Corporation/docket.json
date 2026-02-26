@@ -1,0 +1,31 @@
+{
+  "id": "67760458",
+  "case_name": "Abramowski v. Nuvei Corporation",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-00965",
+  "docket_number_core": "2300965",
+  "court_id": "ded",
+  "nature_of_suit": "160 Stockholders Suits",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-09-01",
+  "date_terminated": "2024-11-01",
+  "date_last_filing": "2024-11-20",
+  "assigned_to_str": "Gregory B. Williams",
+  "referred_to_str": "",
+  "pacer_case_id": "83460",
+  "source": "1",
+  "slug": "abramowski-v-nuvei-corporation",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 75,
+  "_nos_category": "stockholders"
+}

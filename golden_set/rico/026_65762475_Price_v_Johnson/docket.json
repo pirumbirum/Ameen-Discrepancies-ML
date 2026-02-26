@@ -1,0 +1,31 @@
+{
+  "id": "65762475",
+  "case_name": "Price v. Johnson",
+  "case_name_full": "",
+  "docket_number": "2:22-cv-12776",
+  "docket_number_core": "2212776",
+  "court_id": "mied",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "No cause code entered",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-11-16",
+  "date_terminated": "2023-02-28",
+  "date_last_filing": "2023-02-28",
+  "assigned_to_str": "Matthew F. Leitman",
+  "referred_to_str": "Anthony P. Patti",
+  "pacer_case_id": "365995",
+  "source": "1",
+  "slug": "price-v-johnson",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 26,
+  "_nos_category": "rico"
+}

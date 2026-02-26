@@ -1,0 +1,31 @@
+{
+  "id": "48514283",
+  "case_name": "U.S. Wholesale Outlet & Distribution, Inc. v. US Wholesale",
+  "case_name_full": "",
+  "docket_number": "2:20-cv-02379",
+  "docket_number_core": "2002379",
+  "court_id": "caed",
+  "nature_of_suit": "Trademark",
+  "cause": "15:1125 Trademark Infringement (Lanham Act)",
+  "jurisdiction_type": "",
+  "date_filed": "2020-11-30",
+  "date_terminated": "2021-09-28",
+  "date_last_filing": "2021-09-28",
+  "assigned_to_str": "Kimberly J. Mueller",
+  "referred_to_str": "Allison Claire",
+  "pacer_case_id": "384113",
+  "source": "1",
+  "slug": "us-wholesale-outlet-distribution-inc-v-us-wholesale",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 47,
+  "_nos_category": "trademark"
+}

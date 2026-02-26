@@ -1,0 +1,31 @@
+{
+  "id": "63383286",
+  "case_name": "Wai Ola Alliance v. United States Department of the Navy",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-00272",
+  "docket_number_core": "2200272",
+  "court_id": "hid",
+  "nature_of_suit": "893 Environmental Matters",
+  "cause": "33:1365 Environmental Matters",
+  "jurisdiction_type": "U.S. Government Defendant",
+  "date_filed": "2022-06-14",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-08",
+  "assigned_to_str": "Leslie E. Kobayashi",
+  "referred_to_str": "Rom Trader",
+  "pacer_case_id": "159895",
+  "source": "1",
+  "slug": "wai-ola-alliance-v-united-states-department-of-the-navy",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 4,
+    "has_scotus": false
+  },
+  "_rank_in_category": 74,
+  "_nos_category": "environmental"
+}

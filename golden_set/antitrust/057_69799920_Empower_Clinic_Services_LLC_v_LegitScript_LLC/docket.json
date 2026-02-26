@@ -1,0 +1,31 @@
+{
+  "id": "69799920",
+  "case_name": "Empower Clinic Services, L.L.C. v. LegitScript LLC",
+  "case_name_full": "",
+  "docket_number": "3:25-cv-00514",
+  "docket_number_core": "2500514",
+  "court_id": "ord",
+  "nature_of_suit": "410 Antitrust",
+  "cause": "15:15 Antitrust Litigation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2025-03-26",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-18",
+  "assigned_to_str": "Amy M. Baggio",
+  "referred_to_str": "",
+  "pacer_case_id": "185431",
+  "source": "1",
+  "slug": "empower-clinic-services-llc-v-legitscript-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 57,
+  "_nos_category": "antitrust"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "63355674",
+  "case_name": "Jacob Lee Enterprises LLC v. Erie Insurance Exchange",
+  "case_name_full": "",
+  "docket_number": "2:22-cv-00654",
+  "docket_number_core": "2200654",
+  "court_id": "wied",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Petition for Removal",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-06-02",
+  "date_terminated": "",
+  "date_last_filing": "2025-11-07",
+  "assigned_to_str": "Pamela Pepper",
+  "referred_to_str": "",
+  "pacer_case_id": "99411",
+  "source": "1",
+  "slug": "jacob-lee-enterprises-llc-v-erie-insurance-exchange",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 34,
+  "_nos_category": "insurance"
+}

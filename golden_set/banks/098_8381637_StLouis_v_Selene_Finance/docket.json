@@ -1,0 +1,31 @@
+{
+  "id": "8381637",
+  "case_name": "St.Louis v. Selene Finance",
+  "case_name_full": "",
+  "docket_number": "1:18-cv-06182",
+  "docket_number_core": "1806182",
+  "court_id": "nyed",
+  "nature_of_suit": "Banks and Banking",
+  "cause": "28:1331 Fed. Question",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2018-11-02",
+  "date_terminated": "2020-10-01",
+  "date_last_filing": "2020-10-01",
+  "assigned_to_str": "Frederic Block",
+  "referred_to_str": "Peggy Kuo",
+  "pacer_case_id": "424616",
+  "source": "9",
+  "slug": "stlouis-v-selene-finance",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 98,
+  "_nos_category": "banks"
+}

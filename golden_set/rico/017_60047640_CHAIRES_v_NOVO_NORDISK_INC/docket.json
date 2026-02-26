@@ -1,0 +1,31 @@
+{
+  "id": "60047640",
+  "case_name": "CHAIRES v. NOVO NORDISK INC.",
+  "case_name_full": "",
+  "docket_number": "2:17-cv-00699",
+  "docket_number_core": "1700699",
+  "court_id": "njd",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "18:1962 Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2017-02-02",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-09",
+  "assigned_to_str": "Brian R. Martinotti",
+  "referred_to_str": "Leda D. Wettre",
+  "pacer_case_id": "477174",
+  "source": "1",
+  "slug": "chaires-v-novo-nordisk-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 17,
+  "_nos_category": "rico"
+}

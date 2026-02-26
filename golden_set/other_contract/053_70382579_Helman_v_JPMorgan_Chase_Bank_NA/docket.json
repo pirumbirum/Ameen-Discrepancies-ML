@@ -1,0 +1,31 @@
+{
+  "id": "70382579",
+  "case_name": "Helman v. JPMorgan Chase Bank, N.A.",
+  "case_name_full": "",
+  "docket_number": "2:25-cv-00589",
+  "docket_number_core": "2500589",
+  "court_id": "ohsd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1441 Petition for Removal- Contract Dispute",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2025-05-27",
+  "date_terminated": "2025-08-28",
+  "date_last_filing": "2025-08-28",
+  "assigned_to_str": "James L. Graham",
+  "referred_to_str": "Chelsey M. Vascura",
+  "pacer_case_id": "303071",
+  "source": "1",
+  "slug": "helman-v-jpmorgan-chase-bank-na",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 53,
+  "_nos_category": "other_contract"
+}

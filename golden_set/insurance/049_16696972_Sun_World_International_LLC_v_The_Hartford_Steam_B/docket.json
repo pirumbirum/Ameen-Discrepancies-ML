@@ -1,0 +1,31 @@
+{
+  "id": "16696972",
+  "case_name": "Sun World International, LLC v. The Hartford Steam Boiler Inspection and Insurance Company",
+  "case_name_full": "",
+  "docket_number": "5:20-cv-00107",
+  "docket_number_core": "2000107",
+  "court_id": "cacd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1441 Notice of Removal - Breach of Contract",
+  "jurisdiction_type": "Diversity of citizenship",
+  "date_filed": "2020-01-15",
+  "date_terminated": "2020-10-16",
+  "date_last_filing": "2020-11-19",
+  "assigned_to_str": "Fernando M. Olguin",
+  "referred_to_str": "Sheri Pym",
+  "pacer_case_id": "769941",
+  "source": "9",
+  "slug": "sun-world-international-llc-v-the-hartford-steam-boiler-inspection-and",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 49,
+  "_nos_category": "insurance"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "65882583",
+  "case_name": "Li v. Karp",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-03028",
+  "docket_number_core": "2203028",
+  "court_id": "cod",
+  "nature_of_suit": "160 Stockholders Suits",
+  "cause": "15:10 Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-11-21",
+  "date_terminated": "2023-05-25",
+  "date_last_filing": "2023-11-28",
+  "assigned_to_str": "Nina Y. Wang",
+  "referred_to_str": "Scott T. Varholak",
+  "pacer_case_id": "219975",
+  "source": "1",
+  "slug": "li-v-karp",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 25,
+  "_nos_category": "stockholders"
+}

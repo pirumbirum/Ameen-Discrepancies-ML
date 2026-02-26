@@ -1,0 +1,1702 @@
+[
+  {
+    "rank": 1,
+    "docket_id": "1074740",
+    "case_name": "Country Club Towne Homes v. Certain Underwriters At Lloyd's London",
+    "court_id": "txsd",
+    "date_filed": "2019-01-04",
+    "score": 75,
+    "score_details": {
+      "score": 75,
+      "published_opinions": 1,
+      "unpublished_opinions": 0,
+      "total_citations": 13,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "001_1074740_Country_Club_Towne_Homes_v_Certain_Underwriters_At"
+  },
+  {
+    "rank": 2,
+    "docket_id": "16229952",
+    "case_name": "Continental Western Insurance Company v. Country Mutual Insurance Company",
+    "court_id": "ilsd",
+    "date_filed": "2017-11-09",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "002_16229952_Continental_Western_Insurance_Company_v_Country_Mu"
+  },
+  {
+    "rank": 3,
+    "docket_id": "16666086",
+    "case_name": "USAA LIFE INSURANCE COMPANY v. CYRANEK",
+    "court_id": "insd",
+    "date_filed": "2019-12-19",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "003_16666086_USAA_LIFE_INSURANCE_COMPANY_v_CYRANEK"
+  },
+  {
+    "rank": 4,
+    "docket_id": "64866876",
+    "case_name": "LM General Insurance Company v. Jessica M. Blackwell",
+    "court_id": "flmd",
+    "date_filed": "2022-08-03",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "004_64866876_LM_General_Insurance_Company_v_Jessica_M_Blackwell"
+  },
+  {
+    "rank": 5,
+    "docket_id": "68317311",
+    "case_name": "Covington Specialty Insurance Company v. G & G Farms, Inc.",
+    "court_id": "oked",
+    "date_filed": "2022-08-15",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "005_68317311_Covington_Specialty_Insurance_Company_v_G_G_Farms_"
+  },
+  {
+    "rank": 6,
+    "docket_id": "16510365",
+    "case_name": "Salda v. Brighthouse Life Insurance Company",
+    "court_id": "okwd",
+    "date_filed": "2019-11-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "006_16510365_Salda_v_Brighthouse_Life_Insurance_Company"
+  },
+  {
+    "rank": 7,
+    "docket_id": "18458879",
+    "case_name": "Great Lakes Insurance SE v. Dunklin",
+    "court_id": "alsd",
+    "date_filed": "2020-09-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "007_18458879_Great_Lakes_Insurance_SE_v_Dunklin"
+  },
+  {
+    "rank": 8,
+    "docket_id": "66687224",
+    "case_name": "Webb v. Auto-Owners Insurance Company",
+    "court_id": "tnmd",
+    "date_filed": "2022-10-28",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "008_66687224_Webb_v_Auto-Owners_Insurance_Company"
+  },
+  {
+    "rank": 9,
+    "docket_id": "64877186",
+    "case_name": "Homesite Insurance Company v. Schlackman",
+    "court_id": "wawd",
+    "date_filed": "2022-08-08",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "009_64877186_Homesite_Insurance_Company_v_Schlackman"
+  },
+  {
+    "rank": 10,
+    "docket_id": "17097568",
+    "case_name": "Scottsdale Insurance Company v. Aqueous Vapor, LLC",
+    "court_id": "mowd",
+    "date_filed": "2020-04-23",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "010_17097568_Scottsdale_Insurance_Company_v_Aqueous_Vapor_LLC"
+  },
+  {
+    "rank": 11,
+    "docket_id": "14761825",
+    "case_name": "Schmidt v. FedNat Insurance Company",
+    "court_id": "flmd",
+    "date_filed": "2019-01-23",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "011_14761825_Schmidt_v_FedNat_Insurance_Company"
+  },
+  {
+    "rank": 12,
+    "docket_id": "15951704",
+    "case_name": "ATAIN Specialty Insurance Company v. All New Plumbing, Inc.",
+    "court_id": "caed",
+    "date_filed": "2018-10-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "012_15951704_ATAIN_Specialty_Insurance_Company_v_All_New_Plumbi"
+  },
+  {
+    "rank": 13,
+    "docket_id": "15814785",
+    "case_name": "Securian Life Insurance Company v. Hillestad",
+    "court_id": "caed",
+    "date_filed": "2019-02-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "013_15814785_Securian_Life_Insurance_Company_v_Hillestad"
+  },
+  {
+    "rank": 14,
+    "docket_id": "16274100",
+    "case_name": "Certain Underwriters at Lloyd's of London Subscribing to Policy No. EH7713140 v. Worldone Presents, LLC",
+    "court_id": "caed",
+    "date_filed": "2018-09-04",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "014_16274100_Certain_Underwriters_at_Lloyds_of_London_Subscribi"
+  },
+  {
+    "rank": 15,
+    "docket_id": "16229575",
+    "case_name": "(PS) Barroga v. Board of Administration, Cal PERS",
+    "court_id": "caed",
+    "date_filed": "2019-05-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "015_16229575_PS_Barroga_v_Board_of_Administration_Cal_PERS"
+  },
+  {
+    "rank": 16,
+    "docket_id": "14587520",
+    "case_name": "Rowan v. State Farm Fire & Casualty Company",
+    "court_id": "okwd",
+    "date_filed": "2019-03-01",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "016_14587520_Rowan_v_State_Farm_Fire_Casualty_Company"
+  },
+  {
+    "rank": 17,
+    "docket_id": "61058944",
+    "case_name": "David Cable, M.D. v. ProAssurance Indemnity Company, Inc",
+    "court_id": "ilnd",
+    "date_filed": "2021-06-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "017_61058944_David_Cable_MD_v_ProAssurance_Indemnity_Company_In"
+  },
+  {
+    "rank": 18,
+    "docket_id": "6315244",
+    "case_name": "Boynton v. American Modern Insurance Company",
+    "court_id": "cand",
+    "date_filed": "2018-01-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "018_6315244_Boynton_v_American_Modern_Insurance_Company"
+  },
+  {
+    "rank": 19,
+    "docket_id": "18633051",
+    "case_name": "Minnesota Life Insurance Company v. Swanner",
+    "court_id": "ilsd",
+    "date_filed": "2020-05-01",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "019_18633051_Minnesota_Life_Insurance_Company_v_Swanner"
+  },
+  {
+    "rank": 20,
+    "docket_id": "18736757",
+    "case_name": "The Travelers Home and Marine Insurance Company v. Layton",
+    "court_id": "idd",
+    "date_filed": "2020-11-03",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "020_18736757_The_Travelers_Home_and_Marine_Insurance_Company_v_"
+  },
+  {
+    "rank": 21,
+    "docket_id": "8495370",
+    "case_name": "Philadelphia Indemnity Insurance Company v. Streb Inc",
+    "court_id": "nysd",
+    "date_filed": "2019-01-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "021_8495370_Philadelphia_Indemnity_Insurance_Company_v_Streb_I"
+  },
+  {
+    "rank": 22,
+    "docket_id": "35837753",
+    "case_name": "Deutsche Bank National Trust Company as Trustee for the Certificateholders of the Morgan Stanley ABS Capital I Inc. Trust 2003-NC10 v. Fidelity National Title Group, Inc.",
+    "court_id": "nvd",
+    "date_filed": "2020-12-15",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "022_35837753_Deutsche_Bank_National_Trust_Company_as_Trustee_fo"
+  },
+  {
+    "rank": 23,
+    "docket_id": "64898908",
+    "case_name": "Belmere, L.P. v. Steadfast Insurance Company",
+    "court_id": "laed",
+    "date_filed": "2022-08-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "023_64898908_Belmere_LP_v_Steadfast_Insurance_Company"
+  },
+  {
+    "rank": 24,
+    "docket_id": "69010118",
+    "case_name": "Plain v. American Modern Home Insurance Company",
+    "court_id": "lamd",
+    "date_filed": "2024-08-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "024_69010118_Plain_v_American_Modern_Home_Insurance_Company"
+  },
+  {
+    "rank": 25,
+    "docket_id": "35840579",
+    "case_name": "Cooper v. Government Employees Insurance Company",
+    "court_id": "nvd",
+    "date_filed": "2020-12-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "025_35840579_Cooper_v_Government_Employees_Insurance_Company"
+  },
+  {
+    "rank": 26,
+    "docket_id": "17534087",
+    "case_name": "Humphries v. Progressive Corporation",
+    "court_id": "txnd",
+    "date_filed": "2020-03-03",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "026_17534087_Humphries_v_Progressive_Corporation"
+  },
+  {
+    "rank": 27,
+    "docket_id": "18631388",
+    "case_name": "Ohio Security Insurance Company v. Black Lake Quarry LLC",
+    "court_id": "wawd",
+    "date_filed": "2020-11-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "027_18631388_Ohio_Security_Insurance_Company_v_Black_Lake_Quarr"
+  },
+  {
+    "rank": 28,
+    "docket_id": "14595685",
+    "case_name": "Hayden v. Benchmark Insurance Company",
+    "court_id": "kywd",
+    "date_filed": "2019-03-04",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "028_14595685_Hayden_v_Benchmark_Insurance_Company"
+  },
+  {
+    "rank": 29,
+    "docket_id": "17003916",
+    "case_name": "UNIQUE INSURANCE MANAGERS INC v. SPILLERS",
+    "court_id": "gamd",
+    "date_filed": "2020-01-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "029_17003916_UNIQUE_INSURANCE_MANAGERS_INC_v_SPILLERS"
+  },
+  {
+    "rank": 30,
+    "docket_id": "15937999",
+    "case_name": "MONTEZUMA WELDING AND RADIATOR WORKS INC v. AUTO-OWNERS INSURANCE COMPANY",
+    "court_id": "gamd",
+    "date_filed": "2019-06-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "030_15937999_MONTEZUMA_WELDING_AND_RADIATOR_WORKS_INC_v_AUTO-OW"
+  },
+  {
+    "rank": 31,
+    "docket_id": "16447840",
+    "case_name": "Allstate Property and Casualty Insurance Company v. O'Connor",
+    "court_id": "ord",
+    "date_filed": "2019-11-08",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "031_16447840_Allstate_Property_and_Casualty_Insurance_Company_v"
+  },
+  {
+    "rank": 32,
+    "docket_id": "69772054",
+    "case_name": "Lilianne Youssef v. Great American Life Insurance Company",
+    "court_id": "cacd",
+    "date_filed": "2025-03-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "032_69772054_Lilianne_Youssef_v_Great_American_Life_Insurance_C"
+  },
+  {
+    "rank": 33,
+    "docket_id": "17328684",
+    "case_name": "Marquez v. National Fire & Marine Insurance Company",
+    "court_id": "flsd",
+    "date_filed": "2020-07-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 7,
+      "has_scotus": false
+    },
+    "folder": "033_17328684_Marquez_v_National_Fire_Marine_Insurance_Company"
+  },
+  {
+    "rank": 34,
+    "docket_id": "63355674",
+    "case_name": "Jacob Lee Enterprises LLC v. Erie Insurance Exchange",
+    "court_id": "wied",
+    "date_filed": "2022-06-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "034_63355674_Jacob_Lee_Enterprises_LLC_v_Erie_Insurance_Exchang"
+  },
+  {
+    "rank": 35,
+    "docket_id": "15904603",
+    "case_name": "Sullivan v. Nationwide Insurance Company of America",
+    "court_id": "azd",
+    "date_filed": "2019-07-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "035_15904603_Sullivan_v_Nationwide_Insurance_Company_of_America"
+  },
+  {
+    "rank": 36,
+    "docket_id": "16536393",
+    "case_name": "CULPEPPER v. HARTFORD LIFE AND ACCIDENT INSURANCE COMPANY",
+    "court_id": "gamd",
+    "date_filed": "2019-11-19",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "036_16536393_CULPEPPER_v_HARTFORD_LIFE_AND_ACCIDENT_INSURANCE_C"
+  },
+  {
+    "rank": 37,
+    "docket_id": "66930488",
+    "case_name": "St Paul Fire & Marine Insurance Company v. Longbow Logistics LLC",
+    "court_id": "okwd",
+    "date_filed": "2023-03-03",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "037_66930488_St_Paul_Fire_Marine_Insurance_Company_v_Longbow_Lo"
+  },
+  {
+    "rank": 38,
+    "docket_id": "67846383",
+    "case_name": "Sprague v. State Farm Fire and Casualty Company",
+    "court_id": "cod",
+    "date_filed": "2023-09-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "038_67846383_Sprague_v_State_Farm_Fire_and_Casualty_Company"
+  },
+  {
+    "rank": 39,
+    "docket_id": "15836679",
+    "case_name": "JM Manufacturing Company, Inc. v. Affiliated FM Insurance Company",
+    "court_id": "cacd",
+    "date_filed": "2019-06-26",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "039_15836679_JM_Manufacturing_Company_Inc_v_Affiliated_FM_Insur"
+  },
+  {
+    "rank": 40,
+    "docket_id": "59979382",
+    "case_name": "Mille Fleurs Inc. v. Nationwide Mutual Insurance Company",
+    "court_id": "casd",
+    "date_filed": "2021-06-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "040_59979382_Mille_Fleurs_Inc_v_Nationwide_Mutual_Insurance_Com"
+  },
+  {
+    "rank": 41,
+    "docket_id": "61580638",
+    "case_name": "Hershenhorn v. American Home Assurance Company",
+    "court_id": "flmd",
+    "date_filed": "2021-11-29",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "041_61580638_Hershenhorn_v_American_Home_Assurance_Company"
+  },
+  {
+    "rank": 42,
+    "docket_id": "69757644",
+    "case_name": "King v. Liberty Mutual Insurance Company",
+    "court_id": "nynd",
+    "date_filed": "2025-03-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "042_69757644_King_v_Liberty_Mutual_Insurance_Company"
+  },
+  {
+    "rank": 43,
+    "docket_id": "18594627",
+    "case_name": "Stiles v. Safeco Insurance",
+    "court_id": "caed",
+    "date_filed": "2020-08-28",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "043_18594627_Stiles_v_Safeco_Insurance"
+  },
+  {
+    "rank": 44,
+    "docket_id": "14644607",
+    "case_name": "City Of New York v. Travelers Property Casualty Company of America",
+    "court_id": "nysd",
+    "date_filed": "2019-03-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "044_14644607_City_Of_New_York_v_Travelers_Property_Casualty_Com"
+  },
+  {
+    "rank": 45,
+    "docket_id": "60412695",
+    "case_name": "Sacramento Downtown Arena LLC v. Factory Mutual Ins. Co.",
+    "court_id": "caed",
+    "date_filed": "2021-03-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 6,
+      "has_scotus": false
+    },
+    "folder": "045_60412695_Sacramento_Downtown_Arena_LLC_v_Factory_Mutual_Ins"
+  },
+  {
+    "rank": 46,
+    "docket_id": "60201183",
+    "case_name": "Duong v. State Farm Mutual Automobile Insurance Company",
+    "court_id": "cod",
+    "date_filed": "2021-08-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "046_60201183_Duong_v_State_Farm_Mutual_Automobile_Insurance_Com"
+  },
+  {
+    "rank": 47,
+    "docket_id": "17057607",
+    "case_name": "Country Mutual Insurance Company v. Evergreen Landing LLC",
+    "court_id": "wawd",
+    "date_filed": "2020-04-09",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "047_17057607_Country_Mutual_Insurance_Company_v_Evergreen_Landi"
+  },
+  {
+    "rank": 48,
+    "docket_id": "6353335",
+    "case_name": "Madison Mechanical, Inc. v. Twin City Fire Insurance Co.",
+    "court_id": "mdd",
+    "date_filed": "2017-05-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "048_6353335_Madison_Mechanical_Inc_v_Twin_City_Fire_Insurance_"
+  },
+  {
+    "rank": 49,
+    "docket_id": "16696972",
+    "case_name": "Sun World International, LLC v. The Hartford Steam Boiler Inspection and Insurance Company",
+    "court_id": "cacd",
+    "date_filed": "2020-01-15",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "049_16696972_Sun_World_International_LLC_v_The_Hartford_Steam_B"
+  },
+  {
+    "rank": 50,
+    "docket_id": "71104310",
+    "case_name": "Koehler v. Farmers Property and Casualty Insurance Company",
+    "court_id": "nvd",
+    "date_filed": "2025-08-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "050_71104310_Koehler_v_Farmers_Property_and_Casualty_Insurance_"
+  },
+  {
+    "rank": 51,
+    "docket_id": "7256729",
+    "case_name": "James River Insurance Company v. Inn-One Home, LLC",
+    "court_id": "vtd",
+    "date_filed": "2018-06-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "051_7256729_James_River_Insurance_Company_v_Inn-One_Home_LLC"
+  },
+  {
+    "rank": 52,
+    "docket_id": "61590499",
+    "case_name": "Atain Specialty Insurance Company v. Bobylandia, LLC",
+    "court_id": "nmd",
+    "date_filed": "2021-12-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "052_61590499_Atain_Specialty_Insurance_Company_v_Bobylandia_LLC"
+  },
+  {
+    "rank": 53,
+    "docket_id": "17172758",
+    "case_name": "Harleysville Worcester Insurance Company v. High Tech Construction, Inc.",
+    "court_id": "rid",
+    "date_filed": "2020-05-18",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "053_17172758_Harleysville_Worcester_Insurance_Company_v_High_Te"
+  },
+  {
+    "rank": 54,
+    "docket_id": "18619248",
+    "case_name": "Evanina v. The First Liberty Insurance Corporation",
+    "court_id": "pamd",
+    "date_filed": "2020-05-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "054_18619248_Evanina_v_The_First_Liberty_Insurance_Corporation"
+  },
+  {
+    "rank": 55,
+    "docket_id": "61059955",
+    "case_name": "Olsen v. O'Malley",
+    "court_id": "ilnd",
+    "date_filed": "2021-07-26",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "055_61059955_Olsen_v_OMalley"
+  },
+  {
+    "rank": 56,
+    "docket_id": "66705695",
+    "case_name": "Detroit Bulk Storage, Inc. v. Travelers Property Casualty Company of America",
+    "court_id": "mied",
+    "date_filed": "2023-01-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "056_66705695_Detroit_Bulk_Storage_Inc_v_Travelers_Property_Casu"
+  },
+  {
+    "rank": 57,
+    "docket_id": "68875880",
+    "case_name": "South Market District C, LLC v. Saddles Blazin, LLC",
+    "court_id": "laed",
+    "date_filed": "2024-06-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "057_68875880_South_Market_District_C_LLC_v_Saddles_Blazin_LLC"
+  },
+  {
+    "rank": 58,
+    "docket_id": "68288941",
+    "case_name": "Morrow v. Certain Underwriters at Lloyds, London",
+    "court_id": "laed",
+    "date_filed": "2024-02-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "058_68288941_Morrow_v_Certain_Underwriters_at_Lloyds_London"
+  },
+  {
+    "rank": 59,
+    "docket_id": "61579843",
+    "case_name": "Chadwick v. State Farm Mutual Automobile Insurance Company",
+    "court_id": "ared",
+    "date_filed": "2021-11-29",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 7,
+      "has_scotus": false
+    },
+    "folder": "059_61579843_Chadwick_v_State_Farm_Mutual_Automobile_Insurance_"
+  },
+  {
+    "rank": 60,
+    "docket_id": "17320601",
+    "case_name": "Franklin EWC, Inc. v. The Hartford Financial Services Group, Inc.",
+    "court_id": "cand",
+    "date_filed": "2020-07-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "060_17320601_Franklin_EWC_Inc_v_The_Hartford_Financial_Services"
+  },
+  {
+    "rank": 61,
+    "docket_id": "15647913",
+    "case_name": "Perez v. Certain Underwriters at Lloyd's, London",
+    "court_id": "flsd",
+    "date_filed": "2019-05-20",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "061_15647913_Perez_v_Certain_Underwriters_at_Lloyds_London"
+  },
+  {
+    "rank": 62,
+    "docket_id": "67547712",
+    "case_name": "Vopatek v. USAA Casualty Insurance Company",
+    "court_id": "casd",
+    "date_filed": "2023-06-30",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "062_67547712_Vopatek_v_USAA_Casualty_Insurance_Company"
+  },
+  {
+    "rank": 63,
+    "docket_id": "70168571",
+    "case_name": "Daugherty v. Allstate Property and Casualty Insurance Company",
+    "court_id": "tnmd",
+    "date_filed": "2025-05-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "063_70168571_Daugherty_v_Allstate_Property_and_Casualty_Insuran"
+  },
+  {
+    "rank": 64,
+    "docket_id": "61065957",
+    "case_name": "Moulopoulos v. Sodexo, Inc.",
+    "court_id": "ilnd",
+    "date_filed": "2021-03-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "064_61065957_Moulopoulos_v_Sodexo_Inc"
+  },
+  {
+    "rank": 65,
+    "docket_id": "61069219",
+    "case_name": "Brown v. Continental Casualty Company",
+    "court_id": "ilnd",
+    "date_filed": "2021-04-30",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "065_61069219_Brown_v_Continental_Casualty_Company"
+  },
+  {
+    "rank": 66,
+    "docket_id": "63303710",
+    "case_name": "TIG Insurance Company v. National Indemnity Company",
+    "court_id": "nhd",
+    "date_filed": "2022-05-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "066_63303710_TIG_Insurance_Company_v_National_Indemnity_Company"
+  },
+  {
+    "rank": 67,
+    "docket_id": "17213889",
+    "case_name": "Myth Clothing Company, Inc. v. Samsung Fire & Marine Insurance Co., Ltd.",
+    "court_id": "nysd",
+    "date_filed": "2020-06-01",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "067_17213889_Myth_Clothing_Company_Inc_v_Samsung_Fire_Marine_In"
+  },
+  {
+    "rank": 68,
+    "docket_id": "61058655",
+    "case_name": "Banner Life Insurance Company v. Kutrubis",
+    "court_id": "ilnd",
+    "date_filed": "2021-06-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "068_61058655_Banner_Life_Insurance_Company_v_Kutrubis"
+  },
+  {
+    "rank": 69,
+    "docket_id": "63408089",
+    "case_name": "Windsor v. State Farm Fire and Casualty Company",
+    "court_id": "wied",
+    "date_filed": "2022-06-23",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "069_63408089_Windsor_v_State_Farm_Fire_and_Casualty_Company"
+  },
+  {
+    "rank": 70,
+    "docket_id": "69012046",
+    "case_name": "Goff v. Ocean Harbor Casualty Insurance Company",
+    "court_id": "laed",
+    "date_filed": "2024-08-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "070_69012046_Goff_v_Ocean_Harbor_Casualty_Insurance_Company"
+  },
+  {
+    "rank": 71,
+    "docket_id": "8365084",
+    "case_name": "Kirk v. Mutual of Enumclaw Insurance Company",
+    "court_id": "ord",
+    "date_filed": "2018-12-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "071_8365084_Kirk_v_Mutual_of_Enumclaw_Insurance_Company"
+  },
+  {
+    "rank": 72,
+    "docket_id": "67724314",
+    "case_name": "Plain v. Safeco Insurance Company of Oregon",
+    "court_id": "lamd",
+    "date_filed": "2023-08-24",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "072_67724314_Plain_v_Safeco_Insurance_Company_of_Oregon"
+  },
+  {
+    "rank": 73,
+    "docket_id": "15700255",
+    "case_name": "Bracken v. USAA General Indemnity Company",
+    "court_id": "ord",
+    "date_filed": "2019-05-30",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "073_15700255_Bracken_v_USAA_General_Indemnity_Company"
+  },
+  {
+    "rank": 74,
+    "docket_id": "69723205",
+    "case_name": "Bankers Life and Casualty Company v. Mallin",
+    "court_id": "cand",
+    "date_filed": "2025-03-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "074_69723205_Bankers_Life_and_Casualty_Company_v_Mallin"
+  },
+  {
+    "rank": 75,
+    "docket_id": "61066781",
+    "case_name": "The Phoenix Insurance Company, a Connecticut Corporation v. The Cincinnati Insurance Company, an Ohio Corporation",
+    "court_id": "ilnd",
+    "date_filed": "2021-04-09",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "075_61066781_The_Phoenix_Insurance_Company_a_Connecticut_Corpor"
+  },
+  {
+    "rank": 76,
+    "docket_id": "61024183",
+    "case_name": "Davis v. State Farm Fire and Casualty Company",
+    "court_id": "gand",
+    "date_filed": "2021-07-26",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "076_61024183_Davis_v_State_Farm_Fire_and_Casualty_Company"
+  },
+  {
+    "rank": 77,
+    "docket_id": "71108439",
+    "case_name": "Metts v. Allstate Indemnity Company",
+    "court_id": "scd",
+    "date_filed": "2025-08-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "077_71108439_Metts_v_Allstate_Indemnity_Company"
+  },
+  {
+    "rank": 78,
+    "docket_id": "61064195",
+    "case_name": "Wing Men LLP v. Society Insurance",
+    "court_id": "ilnd",
+    "date_filed": "2021-01-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "078_61064195_Wing_Men_LLP_v_Society_Insurance"
+  },
+  {
+    "rank": 79,
+    "docket_id": "61087195",
+    "case_name": "Crab Crackin, Inc. v. Society Insurance, Inc.",
+    "court_id": "ilnd",
+    "date_filed": "2021-05-20",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "079_61087195_Crab_Crackin_Inc_v_Society_Insurance_Inc"
+  },
+  {
+    "rank": 80,
+    "docket_id": "71180017",
+    "case_name": "Elkins v. Penn National Security Insurance Company",
+    "court_id": "flmd",
+    "date_filed": "2025-08-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "080_71180017_Elkins_v_Penn_National_Security_Insurance_Company"
+  },
+  {
+    "rank": 81,
+    "docket_id": "61059593",
+    "case_name": "Church Mutual Insurance Company, now known as Church Mutual Insurance, S.I. v. Prairie Village Supportive, LLC, a/k/a Eagle's View Supportive Living",
+    "court_id": "ilnd",
+    "date_filed": "2021-07-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "081_61059593_Church_Mutual_Insurance_Company_now_known_as_Churc"
+  },
+  {
+    "rank": 82,
+    "docket_id": "18615365",
+    "case_name": "Ash v. All-Iowa Contracting Company",
+    "court_id": "mowd",
+    "date_filed": "2020-11-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "082_18615365_Ash_v_All-Iowa_Contracting_Company"
+  },
+  {
+    "rank": 83,
+    "docket_id": "16358356",
+    "case_name": "Dr. Jay's, Inc. v. Liberty Mutual Fire Insurance Company",
+    "court_id": "nysd",
+    "date_filed": "2019-10-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "083_16358356_Dr_Jays_Inc_v_Liberty_Mutual_Fire_Insurance_Compan"
+  },
+  {
+    "rank": 84,
+    "docket_id": "69502292",
+    "case_name": "Rieth-Riley Construction Co., Inc. v. Allied World National Assurance Company",
+    "court_id": "innd",
+    "date_filed": "2024-12-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "084_69502292_Rieth-Riley_Construction_Co_Inc_v_Allied_World_Nat"
+  },
+  {
+    "rank": 85,
+    "docket_id": "48506764",
+    "case_name": "Nautilus Insurance Company v. Gonzalez",
+    "court_id": "caed",
+    "date_filed": "2020-11-24",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "085_48506764_Nautilus_Insurance_Company_v_Gonzalez"
+  },
+  {
+    "rank": 86,
+    "docket_id": "17104681",
+    "case_name": "MILKBOY CENTER CITY LLC v. THE CINCINNATI INSURANCE COMPANY",
+    "court_id": "paed",
+    "date_filed": "2020-04-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "086_17104681_MILKBOY_CENTER_CITY_LLC_v_THE_CINCINNATI_INSURANCE"
+  },
+  {
+    "rank": 87,
+    "docket_id": "67363299",
+    "case_name": "Advaiya Solutions Inc v. Hartford Fire Insurance Company",
+    "court_id": "wawd",
+    "date_filed": "2023-05-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "087_67363299_Advaiya_Solutions_Inc_v_Hartford_Fire_Insurance_Co"
+  },
+  {
+    "rank": 88,
+    "docket_id": "15708792",
+    "case_name": "McKesson Corporation v. Dillow",
+    "court_id": "ohsd",
+    "date_filed": "2019-05-31",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "088_15708792_McKesson_Corporation_v_Dillow"
+  },
+  {
+    "rank": 89,
+    "docket_id": "6261239",
+    "case_name": "McBrayer v. Hartford Insurance Company of the Midwest",
+    "court_id": "wvsd",
+    "date_filed": "2017-11-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "089_6261239_McBrayer_v_Hartford_Insurance_Company_of_the_Midwe"
+  },
+  {
+    "rank": 90,
+    "docket_id": "8022698",
+    "case_name": "Post Holdings, Inc. v. Liberty Mutual Fire Insurance Company",
+    "court_id": "moed",
+    "date_filed": "2018-10-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "090_8022698_Post_Holdings_Inc_v_Liberty_Mutual_Fire_Insurance_"
+  },
+  {
+    "rank": 91,
+    "docket_id": "61360047",
+    "case_name": "Pacific Life Insurance Company v. Wells Fargo Bank, NA",
+    "court_id": "mdd",
+    "date_filed": "2021-03-23",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "091_61360047_Pacific_Life_Insurance_Company_v_Wells_Fargo_Bank_"
+  },
+  {
+    "rank": 92,
+    "docket_id": "15734650",
+    "case_name": "GUERRIER v. STATE FARM",
+    "court_id": "paed",
+    "date_filed": "2019-06-05",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "092_15734650_GUERRIER_v_STATE_FARM"
+  },
+  {
+    "rank": 93,
+    "docket_id": "69008976",
+    "case_name": "Minnesota Life Insurance Company v. Walker",
+    "court_id": "wawd",
+    "date_filed": "2024-08-01",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "093_69008976_Minnesota_Life_Insurance_Company_v_Walker"
+  },
+  {
+    "rank": 94,
+    "docket_id": "41956752",
+    "case_name": "Auto-Owners Insurance Company v. T. Rainwater Construction, LLC",
+    "court_id": "arwd",
+    "date_filed": "2021-01-25",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "094_41956752_Auto-Owners_Insurance_Company_v_T_Rainwater_Constr"
+  },
+  {
+    "rank": 95,
+    "docket_id": "41956801",
+    "case_name": "U.S. Bank National Association, as Trustee for Structured Asset Investment Loan Trust v. Fidelity National Title Group, Inc.",
+    "court_id": "nvd",
+    "date_filed": "2021-01-24",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "095_41956801_US_Bank_National_Association_as_Trustee_for_Struct"
+  },
+  {
+    "rank": 96,
+    "docket_id": "7875981",
+    "case_name": "Spandex House, Inc. v. HartFord Fire Insurance Company",
+    "court_id": "nysd",
+    "date_filed": "2018-09-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "096_7875981_Spandex_House_Inc_v_HartFord_Fire_Insurance_Compan"
+  },
+  {
+    "rank": 97,
+    "docket_id": "41956619",
+    "case_name": "U.S. Specialty Insurance Company v. Silver Electric Builders, Inc.",
+    "court_id": "cand",
+    "date_filed": "2021-01-25",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "097_41956619_US_Specialty_Insurance_Company_v_Silver_Electric_B"
+  },
+  {
+    "rank": 98,
+    "docket_id": "8148317",
+    "case_name": "Westfield Insurance Company v. Crossman",
+    "court_id": "nced",
+    "date_filed": "2018-11-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "098_8148317_Westfield_Insurance_Company_v_Crossman"
+  },
+  {
+    "rank": 99,
+    "docket_id": "7576076",
+    "case_name": "City of Fresno v. Tokio Marine Specialty Insurance Company",
+    "court_id": "caed",
+    "date_filed": "2018-04-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "099_7576076_City_of_Fresno_v_Tokio_Marine_Specialty_Insurance_"
+  },
+  {
+    "rank": 100,
+    "docket_id": "67860806",
+    "case_name": "Acres Apartment, LLC v. Third Coast Insurance Company",
+    "court_id": "ksd",
+    "date_filed": "2023-10-05",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "100_67860806_Acres_Apartment_LLC_v_Third_Coast_Insurance_Compan"
+  }
+]

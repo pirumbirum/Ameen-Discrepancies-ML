@@ -1,0 +1,31 @@
+{
+  "id": "67629948",
+  "case_name": "Yan v. The State Bar of Texas",
+  "case_name_full": "",
+  "docket_number": "4:23-cv-00758",
+  "docket_number_core": "2300758",
+  "court_id": "txnd",
+  "nature_of_suit": "470 Other Statutes: Racketeer Influenced and Corrupt Organizations",
+  "cause": "18:1961 Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-07-21",
+  "date_terminated": "2024-04-23",
+  "date_last_filing": "2025-12-30",
+  "assigned_to_str": "Mark Pittman",
+  "referred_to_str": "Jeffrey L. Cureton",
+  "pacer_case_id": "379435",
+  "source": "1",
+  "slug": "yan-v-the-state-bar-of-texas",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 55,
+  "_nos_category": "rico"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "69513781",
+  "case_name": "AHP Capital Management LLC v. Oak Harbor Capital LLC",
+  "case_name_full": "",
+  "docket_number": "2:25-cv-00007",
+  "docket_number_core": "2500007",
+  "court_id": "wawd",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "18:1962 Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2025-01-02",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-29",
+  "assigned_to_str": "Kymberly K. Evanson",
+  "referred_to_str": "",
+  "pacer_case_id": "343237",
+  "source": "1",
+  "slug": "ahp-capital-management-llc-v-oak-harbor-capital-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 3,
+    "has_scotus": false
+  },
+  "_rank_in_category": 39,
+  "_nos_category": "rico"
+}

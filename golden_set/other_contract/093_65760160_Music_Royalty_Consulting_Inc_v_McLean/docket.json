@@ -1,0 +1,31 @@
+{
+  "id": "65760160",
+  "case_name": "Music Royalty Consulting, Inc. v. McLean",
+  "case_name_full": "",
+  "docket_number": "6:22-cv-02110",
+  "docket_number_core": "2202110",
+  "court_id": "flmd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-11-14",
+  "date_terminated": "2024-09-04",
+  "date_last_filing": "2025-12-09",
+  "assigned_to_str": "Roy B. Dalton, Jr.",
+  "referred_to_str": "Daniel C. Irick",
+  "pacer_case_id": "407971",
+  "source": "1",
+  "slug": "music-royalty-consulting-inc-v-mclean",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 93,
+  "_nos_category": "other_contract"
+}

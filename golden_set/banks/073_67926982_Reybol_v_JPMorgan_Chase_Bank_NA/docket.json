@@ -1,0 +1,31 @@
+{
+  "id": "67926982",
+  "case_name": "Reybol v. JPMorgan Chase Bank, N.A.",
+  "case_name_full": "",
+  "docket_number": "3:23-cv-05546",
+  "docket_number_core": "2305546",
+  "court_id": "cand",
+  "nature_of_suit": "Banks and Banking",
+  "cause": "28:1331 Fed. Question",
+  "jurisdiction_type": "",
+  "date_filed": "2023-10-27",
+  "date_terminated": "2024-03-21",
+  "date_last_filing": "2024-03-21",
+  "assigned_to_str": "Jacqueline Scott Corley",
+  "referred_to_str": "",
+  "pacer_case_id": "420154",
+  "source": "1",
+  "slug": "reybol-v-jpmorgan-chase-bank-na",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 73,
+  "_nos_category": "banks"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "68946028",
+  "case_name": "Hayes v. Enphase Energy, Inc.",
+  "case_name_full": "",
+  "docket_number": "3:24-cv-04249",
+  "docket_number_core": "2404249",
+  "court_id": "cand",
+  "nature_of_suit": "160 Stockholders Suits",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-07-15",
+  "date_terminated": "",
+  "date_last_filing": "2025-10-30",
+  "assigned_to_str": "James Donato",
+  "referred_to_str": "",
+  "pacer_case_id": "432610",
+  "source": "1",
+  "slug": "hayes-v-enphase-energy-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 53,
+  "_nos_category": "stockholders"
+}

@@ -1,0 +1,1702 @@
+[
+  {
+    "rank": 1,
+    "docket_id": "5425",
+    "case_name": "Bot M8 LLC v. Sony Corporation Of America",
+    "court_id": "coloctapp",
+    "date_filed": "2019-10-25",
+    "score": 270,
+    "score_details": {
+      "score": 270,
+      "published_opinions": 1,
+      "unpublished_opinions": 0,
+      "total_citations": 52,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "001_5425_Bot_M8_LLC_v_Sony_Corporation_Of_America"
+  },
+  {
+    "rank": 2,
+    "docket_id": "8276421",
+    "case_name": "Indect USA Corp. v. Park Assist, LLC",
+    "court_id": "casd",
+    "date_filed": "2018-10-19",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 10,
+      "has_scotus": false
+    },
+    "folder": "002_8276421_Indect_USA_Corp_v_Park_Assist_LLC"
+  },
+  {
+    "rank": 3,
+    "docket_id": "66812768",
+    "case_name": "Oil States Energy Services, LLC v. Worldwide Oilfield Machine, Inc.",
+    "court_id": "txsd",
+    "date_filed": "2023-02-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "003_66812768_Oil_States_Energy_Services_LLC_v_Worldwide_Oilfiel"
+  },
+  {
+    "rank": 4,
+    "docket_id": "69009276",
+    "case_name": "DPF Alternatives LLC v. DET Diesel Emission Technologies LLC",
+    "court_id": "txnd",
+    "date_filed": "2024-07-29",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "004_69009276_DPF_Alternatives_LLC_v_DET_Diesel_Emission_Technol"
+  },
+  {
+    "rank": 5,
+    "docket_id": "16693516",
+    "case_name": "ES DISTRIBUTION, LLC v. HANGTIME LLC",
+    "court_id": "njd",
+    "date_filed": "2020-01-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "005_16693516_ES_DISTRIBUTION_LLC_v_HANGTIME_LLC"
+  },
+  {
+    "rank": 6,
+    "docket_id": "14639117",
+    "case_name": "Genentech, Inc. v. Sandoz, Inc.",
+    "court_id": "ded",
+    "date_filed": "2019-01-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "006_14639117_Genentech_Inc_v_Sandoz_Inc"
+  },
+  {
+    "rank": 7,
+    "docket_id": "4374501",
+    "case_name": "LAMBETH MAGNETIC STRUCTURES, LLC v. SEAGATE TECHNOLOGY (US) HOLDINGS, INC",
+    "court_id": "pawd",
+    "date_filed": "2016-04-29",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 5,
+      "has_scotus": false
+    },
+    "folder": "007_4374501_LAMBETH_MAGNETIC_STRUCTURES_LLC_v_SEAGATE_TECHNOLO"
+  },
+  {
+    "rank": 8,
+    "docket_id": "8395848",
+    "case_name": "ChromaDex, Inc. v. Elysium Health, Inc.",
+    "court_id": "ded",
+    "date_filed": "2018-09-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 5,
+      "has_scotus": false
+    },
+    "folder": "008_8395848_ChromaDex_Inc_v_Elysium_Health_Inc"
+  },
+  {
+    "rank": 9,
+    "docket_id": "16651838",
+    "case_name": "Monkeymedia, Inc. v. Amazon.Com, Inc.",
+    "court_id": "txwd",
+    "date_filed": "2020-01-03",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "009_16651838_Monkeymedia_Inc_v_AmazonCom_Inc"
+  },
+  {
+    "rank": 10,
+    "docket_id": "16183711",
+    "case_name": "Omni MedSci, Inc. v. Apple Inc.",
+    "court_id": "cand",
+    "date_filed": "2019-09-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "010_16183711_Omni_MedSci_Inc_v_Apple_Inc"
+  },
+  {
+    "rank": 11,
+    "docket_id": "18641120",
+    "case_name": "CR Bard, Inc. v. ICU Medical, Inc.",
+    "court_id": "ded",
+    "date_filed": "2020-11-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "011_18641120_CR_Bard_Inc_v_ICU_Medical_Inc"
+  },
+  {
+    "rank": 12,
+    "docket_id": "18701693",
+    "case_name": "Ausco Products, Inc. v. Axle, Inc.",
+    "court_id": "nywd",
+    "date_filed": "2019-10-29",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "012_18701693_Ausco_Products_Inc_v_Axle_Inc"
+  },
+  {
+    "rank": 13,
+    "docket_id": "69905308",
+    "case_name": "SoundClear Technologies LLC v. Google, LLC",
+    "court_id": "vaed",
+    "date_filed": "2024-07-25",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "013_69905308_SoundClear_Technologies_LLC_v_Google_LLC"
+  },
+  {
+    "rank": 14,
+    "docket_id": "17126781",
+    "case_name": "MasterObjects, Inc. v. Amazon.com, Inc.",
+    "court_id": "nysd",
+    "date_filed": "2020-05-04",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "014_17126781_MasterObjects_Inc_v_Amazoncom_Inc"
+  },
+  {
+    "rank": 15,
+    "docket_id": "14738884",
+    "case_name": "InVue Security Products Inc. v. Mobile Tech Inc.",
+    "court_id": "ord",
+    "date_filed": "2019-03-18",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "015_14738884_InVue_Security_Products_Inc_v_Mobile_Tech_Inc"
+  },
+  {
+    "rank": 16,
+    "docket_id": "17098881",
+    "case_name": "Rennsli v. Winberg",
+    "court_id": "utd",
+    "date_filed": "2020-04-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "016_17098881_Rennsli_v_Winberg"
+  },
+  {
+    "rank": 17,
+    "docket_id": "18594889",
+    "case_name": "WSOU Investments LLC v. TP-Link Technology Co., LTD.",
+    "court_id": "txwd",
+    "date_filed": "2020-10-31",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "017_18594889_WSOU_Investments_LLC_v_TP-Link_Technology_Co_LTD"
+  },
+  {
+    "rank": 18,
+    "docket_id": "68086542",
+    "case_name": "EscapeX IP, LLC v. Google LLC",
+    "court_id": "nysd",
+    "date_filed": "2023-12-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "018_68086542_EscapeX_IP_LLC_v_Google_LLC"
+  },
+  {
+    "rank": 19,
+    "docket_id": "14880040",
+    "case_name": "Uniloc USA, Inc. v. Apple Inc.",
+    "court_id": "cand",
+    "date_filed": "2019-04-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 7,
+      "has_scotus": false
+    },
+    "folder": "019_14880040_Uniloc_USA_Inc_v_Apple_Inc"
+  },
+  {
+    "rank": 20,
+    "docket_id": "6357197",
+    "case_name": "Vendavo, Inc. v. Price f(x) AG",
+    "court_id": "cand",
+    "date_filed": "2017-12-05",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "020_6357197_Vendavo_Inc_v_Price_fx_AG"
+  },
+  {
+    "rank": 21,
+    "docket_id": "67649153",
+    "case_name": "Astellas Pharma Inc. v. Lupin Ltd.",
+    "court_id": "ded",
+    "date_filed": "2023-07-28",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "021_67649153_Astellas_Pharma_Inc_v_Lupin_Ltd"
+  },
+  {
+    "rank": 22,
+    "docket_id": "6512152",
+    "case_name": "Guardant Health, Inc. v. Foundation Medicine, Inc.",
+    "court_id": "ded",
+    "date_filed": "2017-11-09",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 8,
+      "has_scotus": false
+    },
+    "folder": "022_6512152_Guardant_Health_Inc_v_Foundation_Medicine_Inc"
+  },
+  {
+    "rank": 23,
+    "docket_id": "61023066",
+    "case_name": "JBS Hair, Inc. v. Hair Zone, Inc.",
+    "court_id": "gand",
+    "date_filed": "2021-05-04",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "023_61023066_JBS_Hair_Inc_v_Hair_Zone_Inc"
+  },
+  {
+    "rank": 24,
+    "docket_id": "61030383",
+    "case_name": "Caselas, LLC v. Verifone, Inc.",
+    "court_id": "gand",
+    "date_filed": "2021-09-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "024_61030383_Caselas_LLC_v_Verifone_Inc"
+  },
+  {
+    "rank": 25,
+    "docket_id": "16348320",
+    "case_name": "BNJ Leasing, Inc. v. Portabull Fuel Service, LLC",
+    "court_id": "mssd",
+    "date_filed": "2019-10-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "025_16348320_BNJ_Leasing_Inc_v_Portabull_Fuel_Service_LLC"
+  },
+  {
+    "rank": 26,
+    "docket_id": "59992139",
+    "case_name": "Quicklogic Corporation v. Konda Technologies, Inc.",
+    "court_id": "cand",
+    "date_filed": "2021-06-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 6,
+      "has_scotus": false
+    },
+    "folder": "026_59992139_Quicklogic_Corporation_v_Konda_Technologies_Inc"
+  },
+  {
+    "rank": 27,
+    "docket_id": "16890745",
+    "case_name": "SoClean, Inc. v. Sunset Healthcare Solutions, Inc.",
+    "court_id": "mad",
+    "date_filed": "2020-02-20",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "027_16890745_SoClean_Inc_v_Sunset_Healthcare_Solutions_Inc"
+  },
+  {
+    "rank": 28,
+    "docket_id": "68346875",
+    "case_name": "UMBRA Technologies Ltd. (UK) v. VMware, Inc.",
+    "court_id": "cand",
+    "date_filed": "2024-03-15",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "028_68346875_UMBRA_Technologies_Ltd_UK_v_VMware_Inc"
+  },
+  {
+    "rank": 29,
+    "docket_id": "17064746",
+    "case_name": "Management Science Associates, Inc. v. Datavant, Inc.",
+    "court_id": "ded",
+    "date_filed": "2020-04-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "029_17064746_Management_Science_Associates_Inc_v_Datavant_Inc"
+  },
+  {
+    "rank": 30,
+    "docket_id": "41999981",
+    "case_name": "FrenchPorte, LLC v. C.H.I. Overhead Doors, Inc.",
+    "court_id": "mdd",
+    "date_filed": "2020-02-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "030_41999981_FrenchPorte_LLC_v_CHI_Overhead_Doors_Inc"
+  },
+  {
+    "rank": 31,
+    "docket_id": "41957987",
+    "case_name": "Sunstone Information Defense, Inc. v. F5 Networks, Inc.",
+    "court_id": "vaed",
+    "date_filed": "2021-01-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "031_41957987_Sunstone_Information_Defense_Inc_v_F5_Networks_Inc"
+  },
+  {
+    "rank": 32,
+    "docket_id": "16600306",
+    "case_name": "Mity-Lite, Inc. v. Edsal Sandusky Corp.",
+    "court_id": "caed",
+    "date_filed": "2019-10-18",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "032_16600306_Mity-Lite_Inc_v_Edsal_Sandusky_Corp"
+  },
+  {
+    "rank": 33,
+    "docket_id": "15775241",
+    "case_name": "Nexon America Inc. v. Uniloc 2017 LLC",
+    "court_id": "ded",
+    "date_filed": "2019-06-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "033_15775241_Nexon_America_Inc_v_Uniloc_2017_LLC"
+  },
+  {
+    "rank": 34,
+    "docket_id": "68925513",
+    "case_name": "Ocean Semiconductors LLC v. Analog Devices Inc.",
+    "court_id": "mad",
+    "date_filed": "2024-07-09",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "034_68925513_Ocean_Semiconductors_LLC_v_Analog_Devices_Inc"
+  },
+  {
+    "rank": 35,
+    "docket_id": "62636041",
+    "case_name": "Cyph, Inc. v. Zoom Communication, Inc.",
+    "court_id": "cand",
+    "date_filed": "2022-01-28",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "035_62636041_Cyph_Inc_v_Zoom_Communication_Inc"
+  },
+  {
+    "rank": 36,
+    "docket_id": "6866083",
+    "case_name": "Panduit Corp. v. Corning Incorporated",
+    "court_id": "nced",
+    "date_filed": "2018-05-23",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "036_6866083_Panduit_Corp_v_Corning_Incorporated"
+  },
+  {
+    "rank": 37,
+    "docket_id": "63163410",
+    "case_name": "WellWorx Energy Solutions, LLC v. Oilify New-Tech Solutions, Inc.",
+    "court_id": "txwd",
+    "date_filed": "2022-03-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "037_63163410_WellWorx_Energy_Solutions_LLC_v_Oilify_New-Tech_So"
+  },
+  {
+    "rank": 38,
+    "docket_id": "67769364",
+    "case_name": "DISH Technologies L.L.C. v. fuboTV Media LLC.",
+    "court_id": "ded",
+    "date_filed": "2023-09-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "038_67769364_DISH_Technologies_LLC_v_fuboTV_Media_LLC"
+  },
+  {
+    "rank": 39,
+    "docket_id": "69041625",
+    "case_name": "InnoMemory, LLC v. Xiaomi Corporation",
+    "court_id": "txed",
+    "date_filed": "2024-08-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "039_69041625_InnoMemory_LLC_v_Xiaomi_Corporation"
+  },
+  {
+    "rank": 40,
+    "docket_id": "67709431",
+    "case_name": "ArrMaz Products Inc v. Rieth-Riley Construction Co Inc",
+    "court_id": "innd",
+    "date_filed": "2023-08-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "040_67709431_ArrMaz_Products_Inc_v_Rieth-Riley_Construction_Co_"
+  },
+  {
+    "rank": 41,
+    "docket_id": "15895443",
+    "case_name": "Vascular Solutions LLC v. Medtronic, Inc",
+    "court_id": "mnd",
+    "date_filed": "2019-07-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "041_15895443_Vascular_Solutions_LLC_v_Medtronic_Inc"
+  },
+  {
+    "rank": 42,
+    "docket_id": "17148755",
+    "case_name": "OANDA CORPORATION v. GAIN CAPITAL HOLDINGS, INC.",
+    "court_id": "njd",
+    "date_filed": "2020-05-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 5,
+      "has_scotus": false
+    },
+    "folder": "042_17148755_OANDA_CORPORATION_v_GAIN_CAPITAL_HOLDINGS_INC"
+  },
+  {
+    "rank": 43,
+    "docket_id": "44710461",
+    "case_name": "ATLeisure, LLC v. Sunvilla Corporation",
+    "court_id": "gand",
+    "date_filed": "2020-11-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "043_44710461_ATLeisure_LLC_v_Sunvilla_Corporation"
+  },
+  {
+    "rank": 44,
+    "docket_id": "6795766",
+    "case_name": "XR Communications, LLC v. Ruckus Wireless, Inc.",
+    "court_id": "cand",
+    "date_filed": "2018-04-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "044_6795766_XR_Communications_LLC_v_Ruckus_Wireless_Inc"
+  },
+  {
+    "rank": 45,
+    "docket_id": "15928772",
+    "case_name": "UCB, Inc. v. Mylan Technologies, Inc.",
+    "court_id": "vtd",
+    "date_filed": "2019-07-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "045_15928772_UCB_Inc_v_Mylan_Technologies_Inc"
+  },
+  {
+    "rank": 46,
+    "docket_id": "17384495",
+    "case_name": "Jezign Licensing, LLC v. Maxima Apparel Corp.",
+    "court_id": "casd",
+    "date_filed": "2020-07-26",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "046_17384495_Jezign_Licensing_LLC_v_Maxima_Apparel_Corp"
+  },
+  {
+    "rank": 47,
+    "docket_id": "61690538",
+    "case_name": "Serendia LLC v. Aesthetics Biomedical Incorporated",
+    "court_id": "azd",
+    "date_filed": "2022-01-04",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "047_61690538_Serendia_LLC_v_Aesthetics_Biomedical_Incorporated"
+  },
+  {
+    "rank": 48,
+    "docket_id": "69122743",
+    "case_name": "Mobility Workx, LLC v. Ericsson, Inc.",
+    "court_id": "txed",
+    "date_filed": "2024-09-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "048_69122743_Mobility_Workx_LLC_v_Ericsson_Inc"
+  },
+  {
+    "rank": 49,
+    "docket_id": "63141325",
+    "case_name": "Robocast, Inc. v. Netflix, Inc.",
+    "court_id": "ded",
+    "date_filed": "2022-03-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "049_63141325_Robocast_Inc_v_Netflix_Inc"
+  },
+  {
+    "rank": 50,
+    "docket_id": "7985802",
+    "case_name": "Dareltech, LLC v. Samsung Electronics Co., Ltd.",
+    "court_id": "txed",
+    "date_filed": "2018-10-04",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "050_7985802_Dareltech_LLC_v_Samsung_Electronics_Co_Ltd"
+  },
+  {
+    "rank": 51,
+    "docket_id": "48564784",
+    "case_name": "Oakley, Inc. v. The Partnerships and Unincorporated Associations Identified on Schedule \\A\\\"\"",
+    "court_id": "ilnd",
+    "date_filed": "2020-08-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "051_48564784_Oakley_Inc_v_The_Partnerships_and_Unincorporated_A"
+  },
+  {
+    "rank": 52,
+    "docket_id": "48795045",
+    "case_name": "Northwestern University v. PanaceaNano, Inc.",
+    "court_id": "ilnd",
+    "date_filed": "2020-09-25",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "052_48795045_Northwestern_University_v_PanaceaNano_Inc"
+  },
+  {
+    "rank": 53,
+    "docket_id": "65397468",
+    "case_name": "AZURITY PHARMACEUTICALS, INC. v. NOVITIUM PHARMA, LLC",
+    "court_id": "njd",
+    "date_filed": "2022-10-03",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "053_65397468_AZURITY_PHARMACEUTICALS_INC_v_NOVITIUM_PHARMA_LLC"
+  },
+  {
+    "rank": 54,
+    "docket_id": "17177253",
+    "case_name": "Grace Instrument Industries, LLC v. Chandler Instruments Company, LLC",
+    "court_id": "txsd",
+    "date_filed": "2020-05-19",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "054_17177253_Grace_Instrument_Industries_LLC_v_Chandler_Instrum"
+  },
+  {
+    "rank": 55,
+    "docket_id": "68460113",
+    "case_name": "Shenzhen Mengdan Technology Co v. RVLock & Co",
+    "court_id": "utd",
+    "date_filed": "2024-04-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "055_68460113_Shenzhen_Mengdan_Technology_Co_v_RVLock_Co"
+  },
+  {
+    "rank": 56,
+    "docket_id": "4618715",
+    "case_name": "Motorola Solutions, Inc. v. Hytera Communications Corporation Ltd.",
+    "court_id": "ilnd",
+    "date_filed": "2017-03-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "056_4618715_Motorola_Solutions_Inc_v_Hytera_Communications_Cor"
+  },
+  {
+    "rank": 57,
+    "docket_id": "48854052",
+    "case_name": "OsteoMed LLC v. Stryker Corporation",
+    "court_id": "ilnd",
+    "date_filed": "2020-11-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "057_48854052_OsteoMed_LLC_v_Stryker_Corporation"
+  },
+  {
+    "rank": 58,
+    "docket_id": "62626144",
+    "case_name": "Cao Group, Inc. v. The Procter & Gamble Company",
+    "court_id": "cacd",
+    "date_filed": "2022-01-25",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "058_62626144_Cao_Group_Inc_v_The_Procter_Gamble_Company"
+  },
+  {
+    "rank": 59,
+    "docket_id": "65599531",
+    "case_name": "ACADIA Pharmaceuticals Inc. v. Aurobindo Pharma Limited",
+    "court_id": "ded",
+    "date_filed": "2022-10-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "059_65599531_ACADIA_Pharmaceuticals_Inc_v_Aurobindo_Pharma_Limi"
+  },
+  {
+    "rank": 60,
+    "docket_id": "67103068",
+    "case_name": "Jiangsu Huari Webbing Leather Co., Ltd. v. Joes Identified in Schedule A",
+    "court_id": "nysd",
+    "date_filed": "2023-03-28",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "060_67103068_Jiangsu_Huari_Webbing_Leather_Co_Ltd_v_Joes_Identi"
+  },
+  {
+    "rank": 61,
+    "docket_id": "5721277",
+    "case_name": "CODA Development s.r.o. v. Goodyear Tire & Rubber Company",
+    "court_id": "ohnd",
+    "date_filed": "2015-08-09",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "061_5721277_CODA_Development_sro_v_Goodyear_Tire_Rubber_Compan"
+  },
+  {
+    "rank": 62,
+    "docket_id": "68105170",
+    "case_name": "Slick Slide LLC v. Sports Inovation Corp.",
+    "court_id": "casd",
+    "date_filed": "2023-12-20",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "062_68105170_Slick_Slide_LLC_v_Sports_Inovation_Corp"
+  },
+  {
+    "rank": 63,
+    "docket_id": "14831986",
+    "case_name": "Grecia v. The Bank of New York Mellon Corporation",
+    "court_id": "nysd",
+    "date_filed": "2019-03-29",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "063_14831986_Grecia_v_The_Bank_of_New_York_Mellon_Corporation"
+  },
+  {
+    "rank": 64,
+    "docket_id": "15812675",
+    "case_name": "Araujo v. E. Mishan & Sons, Inc.",
+    "court_id": "nysd",
+    "date_filed": "2019-06-20",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "064_15812675_Araujo_v_E_Mishan_Sons_Inc"
+  },
+  {
+    "rank": 65,
+    "docket_id": "6612181",
+    "case_name": "Xodus Medical, Inc. v. The Soule Co.",
+    "court_id": "flmd",
+    "date_filed": "2018-05-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "065_6612181_Xodus_Medical_Inc_v_The_Soule_Co"
+  },
+  {
+    "rank": 66,
+    "docket_id": "68537243",
+    "case_name": "GoSecure, Inc. v. CrowdStrike, Inc.",
+    "court_id": "txwd",
+    "date_filed": "2024-05-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "066_68537243_GoSecure_Inc_v_CrowdStrike_Inc"
+  },
+  {
+    "rank": 67,
+    "docket_id": "59088227",
+    "case_name": "Gridley IP LLC v. Cabconnect, Inc.",
+    "court_id": "flmd",
+    "date_filed": "2021-02-03",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "067_59088227_Gridley_IP_LLC_v_Cabconnect_Inc"
+  },
+  {
+    "rank": 68,
+    "docket_id": "50263152",
+    "case_name": "EyesMatch Ltd. v. Facebook, Inc.",
+    "court_id": "ded",
+    "date_filed": "2021-01-28",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "068_50263152_EyesMatch_Ltd_v_Facebook_Inc"
+  },
+  {
+    "rank": 69,
+    "docket_id": "50371406",
+    "case_name": "DynaEnergetics Europe GmbH v. Rock Completion Tools, LLC",
+    "court_id": "txwd",
+    "date_filed": "2021-01-28",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "069_50371406_DynaEnergetics_Europe_GmbH_v_Rock_Completion_Tools"
+  },
+  {
+    "rank": 70,
+    "docket_id": "16425151",
+    "case_name": "AGIS Software Development LLC v. Google LLC",
+    "court_id": "txed",
+    "date_filed": "2019-11-04",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "070_16425151_AGIS_Software_Development_LLC_v_Google_LLC"
+  },
+  {
+    "rank": 71,
+    "docket_id": "15745722",
+    "case_name": "General Electric Company v. Lighting Science Group Corporation",
+    "court_id": "nysd",
+    "date_filed": "2019-06-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "071_15745722_General_Electric_Company_v_Lighting_Science_Group_"
+  },
+  {
+    "rank": 72,
+    "docket_id": "6232191",
+    "case_name": "Summer Infant (USA), Inc. v. TOMY International, Inc.",
+    "court_id": "rid",
+    "date_filed": "2017-11-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 6,
+      "has_scotus": false
+    },
+    "folder": "072_6232191_Summer_Infant_USA_Inc_v_TOMY_International_Inc"
+  },
+  {
+    "rank": 73,
+    "docket_id": "17324141",
+    "case_name": "Quartz Auto Technologies LLC v. Lyft, Inc.",
+    "court_id": "txwd",
+    "date_filed": "2020-02-28",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "073_17324141_Quartz_Auto_Technologies_LLC_v_Lyft_Inc"
+  },
+  {
+    "rank": 74,
+    "docket_id": "62653746",
+    "case_name": "Howlink Global LLC v. AT&T Inc.",
+    "court_id": "txed",
+    "date_filed": "2022-02-03",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "074_62653746_Howlink_Global_LLC_v_ATT_Inc"
+  },
+  {
+    "rank": 75,
+    "docket_id": "68437380",
+    "case_name": "Akerson Enterprises LLC v. Shenzhen Conglin E-Commerce Co Ltd",
+    "court_id": "wawd",
+    "date_filed": "2024-04-15",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "075_68437380_Akerson_Enterprises_LLC_v_Shenzhen_Conglin_E-Comme"
+  },
+  {
+    "rank": 76,
+    "docket_id": "17216492",
+    "case_name": "SITO Mobile R&D IP v. Hulu, LLC",
+    "court_id": "txwd",
+    "date_filed": "2020-06-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "076_17216492_SITO_Mobile_RD_IP_v_Hulu_LLC"
+  },
+  {
+    "rank": 77,
+    "docket_id": "67317928",
+    "case_name": "Astellas Pharma Inc. v. Ascent Pharmaceuticals, Inc.",
+    "court_id": "ded",
+    "date_filed": "2023-05-03",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 5,
+      "has_scotus": false
+    },
+    "folder": "077_67317928_Astellas_Pharma_Inc_v_Ascent_Pharmaceuticals_Inc"
+  },
+  {
+    "rank": 78,
+    "docket_id": "59819954",
+    "case_name": "BearBox LLC v. Lancium LLC",
+    "court_id": "ded",
+    "date_filed": "2021-04-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "078_59819954_BearBox_LLC_v_Lancium_LLC"
+  },
+  {
+    "rank": 79,
+    "docket_id": "67815153",
+    "case_name": "Veeva Systems Inc. v. Tact.ai Technologies, Inc.",
+    "court_id": "ded",
+    "date_filed": "2023-09-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "079_67815153_Veeva_Systems_Inc_v_Tactai_Technologies_Inc"
+  },
+  {
+    "rank": 80,
+    "docket_id": "66830799",
+    "case_name": "Tigo Energy Inc. v. SunSpec Alliance",
+    "court_id": "cand",
+    "date_filed": "2023-02-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "080_66830799_Tigo_Energy_Inc_v_SunSpec_Alliance"
+  },
+  {
+    "rank": 81,
+    "docket_id": "68188743",
+    "case_name": "Aylo Freesites Ltd v. DISH Technologies L.L.C.",
+    "court_id": "ded",
+    "date_filed": "2024-01-24",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "081_68188743_Aylo_Freesites_Ltd_v_DISH_Technologies_LLC"
+  },
+  {
+    "rank": 82,
+    "docket_id": "69927742",
+    "case_name": "Justin v. Michele",
+    "court_id": "cand",
+    "date_filed": "2025-04-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "082_69927742_Justin_v_Michele"
+  },
+  {
+    "rank": 83,
+    "docket_id": "68545676",
+    "case_name": "ATX Networks (Toronto) Corp. v. Technetix, Inc.",
+    "court_id": "cod",
+    "date_filed": "2024-05-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "083_68545676_ATX_Networks_Toronto_Corp_v_Technetix_Inc"
+  },
+  {
+    "rank": 84,
+    "docket_id": "51809772",
+    "case_name": "Plastipak Packaging, Inc. v. Nestle Waters North America, Inc.",
+    "court_id": "vaed",
+    "date_filed": "2020-10-30",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "084_51809772_Plastipak_Packaging_Inc_v_Nestle_Waters_North_Amer"
+  },
+  {
+    "rank": 85,
+    "docket_id": "5930503",
+    "case_name": "XY, LLC v. Trans Ova Genetics, LC",
+    "court_id": "cod",
+    "date_filed": "2017-04-18",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 8,
+      "has_scotus": false
+    },
+    "folder": "085_5930503_XY_LLC_v_Trans_Ova_Genetics_LC"
+  },
+  {
+    "rank": 86,
+    "docket_id": "16922668",
+    "case_name": "Inland Diamond Products Co v. Cherry Optical Inc",
+    "court_id": "wied",
+    "date_filed": "2020-03-03",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "086_16922668_Inland_Diamond_Products_Co_v_Cherry_Optical_Inc"
+  },
+  {
+    "rank": 87,
+    "docket_id": "67857345",
+    "case_name": "SportsCastr Inc. v. Sportradar Group, AG",
+    "court_id": "txed",
+    "date_filed": "2023-10-05",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "087_67857345_SportsCastr_Inc_v_Sportradar_Group_AG"
+  },
+  {
+    "rank": 88,
+    "docket_id": "68245284",
+    "case_name": "Cyandia, Inc. v. SAP America, Inc.",
+    "court_id": "txed",
+    "date_filed": "2024-02-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "088_68245284_Cyandia_Inc_v_SAP_America_Inc"
+  },
+  {
+    "rank": 89,
+    "docket_id": "64435016",
+    "case_name": "mate. LLC. v. Advanced Lighting Concepts, LLC",
+    "court_id": "casd",
+    "date_filed": "2022-07-26",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "089_64435016_mate_LLC_v_Advanced_Lighting_Concepts_LLC"
+  },
+  {
+    "rank": 90,
+    "docket_id": "68969054",
+    "case_name": "Dialect, LLC v. Google LLC",
+    "court_id": "cand",
+    "date_filed": "2024-07-19",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "090_68969054_Dialect_LLC_v_Google_LLC"
+  },
+  {
+    "rank": 91,
+    "docket_id": "68459127",
+    "case_name": "Etison LLC v. HighLevel, Inc.",
+    "court_id": "ded",
+    "date_filed": "2024-04-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "091_68459127_Etison_LLC_v_HighLevel_Inc"
+  },
+  {
+    "rank": 92,
+    "docket_id": "63335915",
+    "case_name": "VideoLabs, Inc. v. Meta Platforms, Inc.",
+    "court_id": "ded",
+    "date_filed": "2022-05-24",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "092_63335915_VideoLabs_Inc_v_Meta_Platforms_Inc"
+  },
+  {
+    "rank": 93,
+    "docket_id": "60653261",
+    "case_name": "AI Visualize, Inc. v. Nuance Communications Inc.",
+    "court_id": "ded",
+    "date_filed": "2021-10-15",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "093_60653261_AI_Visualize_Inc_v_Nuance_Communications_Inc"
+  },
+  {
+    "rank": 94,
+    "docket_id": "18449087",
+    "case_name": "Media Content Protection LLC v. Realtek Semiconductor Corp.",
+    "court_id": "ded",
+    "date_filed": "2020-09-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "094_18449087_Media_Content_Protection_LLC_v_Realtek_Semiconduct"
+  },
+  {
+    "rank": 95,
+    "docket_id": "59928752",
+    "case_name": "ParkerVision, Inc. v. LG Electronics Inc.",
+    "court_id": "txwd",
+    "date_filed": "2021-05-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "095_59928752_ParkerVision_Inc_v_LG_Electronics_Inc"
+  },
+  {
+    "rank": 96,
+    "docket_id": "69308696",
+    "case_name": "Uriah Products, LLC v. Curt Manufacturing LLC",
+    "court_id": "innd",
+    "date_filed": "2024-10-24",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "096_69308696_Uriah_Products_LLC_v_Curt_Manufacturing_LLC"
+  },
+  {
+    "rank": 97,
+    "docket_id": "65366199",
+    "case_name": "Fiskars Finland Oy Ab v. Woodland Tools, Inc.",
+    "court_id": "wiwd",
+    "date_filed": "2022-09-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "097_65366199_Fiskars_Finland_Oy_Ab_v_Woodland_Tools_Inc"
+  },
+  {
+    "rank": 98,
+    "docket_id": "60668892",
+    "case_name": "ImmerVision, Inc. v. Apple, Inc.",
+    "court_id": "ded",
+    "date_filed": "2021-10-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "098_60668892_ImmerVision_Inc_v_Apple_Inc"
+  },
+  {
+    "rank": 99,
+    "docket_id": "69097949",
+    "case_name": "Samsara Inc. v. Motive Technologies Inc.",
+    "court_id": "cand",
+    "date_filed": "2024-08-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "099_69097949_Samsara_Inc_v_Motive_Technologies_Inc"
+  },
+  {
+    "rank": 100,
+    "docket_id": "67896599",
+    "case_name": "ASUS Technology Licensing Inc. v. AT&T Inc.",
+    "court_id": "txed",
+    "date_filed": "2023-10-19",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "100_67896599_ASUS_Technology_Licensing_Inc_v_ATT_Inc"
+  }
+]

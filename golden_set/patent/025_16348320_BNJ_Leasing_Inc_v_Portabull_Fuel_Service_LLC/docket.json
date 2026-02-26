@@ -1,0 +1,31 @@
+{
+  "id": "16348320",
+  "case_name": "BNJ Leasing, Inc. v. Portabull Fuel Service, LLC",
+  "case_name_full": "",
+  "docket_number": "2:19-cv-00156",
+  "docket_number_core": "1900156",
+  "court_id": "mssd",
+  "nature_of_suit": "830 Patent",
+  "cause": "28:1338 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-10-17",
+  "date_terminated": "2022-06-17",
+  "date_last_filing": "2022-06-16",
+  "assigned_to_str": "Keith Starrett",
+  "referred_to_str": "Michael T. Parker",
+  "pacer_case_id": "105942",
+  "source": "9",
+  "slug": "bnj-leasing-inc-v-portabull-fuel-service-llc",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 4,
+    "has_scotus": false
+  },
+  "_rank_in_category": 25,
+  "_nos_category": "patent"
+}

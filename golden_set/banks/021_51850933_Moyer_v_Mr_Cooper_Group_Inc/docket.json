@@ -1,0 +1,31 @@
+{
+  "id": "51850933",
+  "case_name": "Moyer v. Mr. Cooper Group, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-03449",
+  "docket_number_core": "2003449",
+  "court_id": "mdd",
+  "nature_of_suit": "430 Banks and Banking",
+  "cause": "28:1446 Notice of Removal",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-11-25",
+  "date_terminated": "2024-10-15",
+  "date_last_filing": "2024-10-16",
+  "assigned_to_str": "Richard D. Bennett",
+  "referred_to_str": "A. David Copperthite",
+  "pacer_case_id": "487484",
+  "source": "1",
+  "slug": "moyer-v-mr-cooper-group-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 21,
+  "_nos_category": "banks"
+}

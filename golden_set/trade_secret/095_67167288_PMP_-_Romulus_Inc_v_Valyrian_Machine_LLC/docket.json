@@ -1,0 +1,31 @@
+{
+  "id": "67167288",
+  "case_name": "PMP - Romulus, Inc. v. Valyrian Machine, LLC",
+  "case_name_full": "",
+  "docket_number": "2:23-cv-10822",
+  "docket_number_core": "2310822",
+  "court_id": "mied",
+  "nature_of_suit": "Defend Trade Secrets Act (of 2016)",
+  "cause": "18:1836(a) Injunction against Misappropriation of Trade Secrets",
+  "jurisdiction_type": "",
+  "date_filed": "2023-04-11",
+  "date_terminated": "",
+  "date_last_filing": "2025-02-21",
+  "assigned_to_str": "Linda V. Parker",
+  "referred_to_str": "Elizabeth A. Stafford",
+  "pacer_case_id": "369061",
+  "source": "1",
+  "slug": "pmp-romulus-inc-v-valyrian-machine-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 95,
+  "_nos_category": "trade_secret"
+}

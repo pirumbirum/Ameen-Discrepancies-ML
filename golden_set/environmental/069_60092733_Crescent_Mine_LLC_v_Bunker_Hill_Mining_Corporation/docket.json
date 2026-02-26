@@ -1,0 +1,31 @@
+{
+  "id": "60092733",
+  "case_name": "Crescent Mine, LLC v. Bunker Hill Mining Corporation",
+  "case_name_full": "",
+  "docket_number": "2:21-cv-00310",
+  "docket_number_core": "2100310",
+  "court_id": "idd",
+  "nature_of_suit": "893 Environmental Matters",
+  "cause": "42:9607 Real Property Tort to Land",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-07-28",
+  "date_terminated": "",
+  "date_last_filing": "2025-07-28",
+  "assigned_to_str": "David C. Nye",
+  "referred_to_str": "",
+  "pacer_case_id": "48508",
+  "source": "1",
+  "slug": "crescent-mine-llc-v-bunker-hill-mining-corporation",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 69,
+  "_nos_category": "environmental"
+}

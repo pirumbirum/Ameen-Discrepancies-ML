@@ -1,0 +1,31 @@
+{
+  "id": "69196375",
+  "case_name": "Antunes v. Federal Deposit Insurance Corporation",
+  "case_name_full": "",
+  "docket_number": "3:24-cv-06737",
+  "docket_number_core": "2406737",
+  "court_id": "cand",
+  "nature_of_suit": "Banks and Banking",
+  "cause": "28:2201 Constitutionality of State Statutes",
+  "jurisdiction_type": "",
+  "date_filed": "2024-09-25",
+  "date_terminated": "2025-01-07",
+  "date_last_filing": "2025-01-08",
+  "assigned_to_str": "Trina L Thompson",
+  "referred_to_str": "",
+  "pacer_case_id": "437113",
+  "source": "1",
+  "slug": "antunes-v-federal-deposit-insurance-corporation",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 79,
+  "_nos_category": "banks"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "8020785",
+  "case_name": "Greenlee v. Hooke",
+  "case_name_full": "",
+  "docket_number": "1:18-cv-09339-VSB",
+  "docket_number_core": "1809339",
+  "court_id": "nysd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2018-10-12",
+  "date_terminated": "2021-10-20",
+  "date_last_filing": "2021-10-20",
+  "assigned_to_str": "Vernon S. Broderick",
+  "referred_to_str": "",
+  "pacer_case_id": "502638",
+  "source": "9",
+  "slug": "greenlee-v-hooke",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 17,
+  "_nos_category": "securities"
+}

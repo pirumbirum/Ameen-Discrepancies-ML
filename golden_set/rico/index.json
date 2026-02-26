@@ -1,0 +1,1702 @@
+[
+  {
+    "rank": 1,
+    "docket_id": "68840301",
+    "case_name": "Nicholls v. Greaves",
+    "court_id": "utd",
+    "date_filed": "2024-06-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "001_68840301_Nicholls_v_Greaves"
+  },
+  {
+    "rank": 2,
+    "docket_id": "68945648",
+    "case_name": "May Flower International, Inc. v. Amoya Food Limited",
+    "court_id": "nyed",
+    "date_filed": "2024-07-15",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "002_68945648_May_Flower_International_Inc_v_Amoya_Food_Limited"
+  },
+  {
+    "rank": 3,
+    "docket_id": "16619600",
+    "case_name": "Solarmore Mgt. Services, Inc. v. Bankruptcy Estate of DC Solar Solutions",
+    "court_id": "caed",
+    "date_filed": "2019-12-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "003_16619600_Solarmore_Mgt_Services_Inc_v_Bankruptcy_Estate_of_"
+  },
+  {
+    "rank": 4,
+    "docket_id": "67681404",
+    "case_name": "Cleveland Communications, Inc. v. Lorain County Board of Commissioners",
+    "court_id": "ohnd",
+    "date_filed": "2023-08-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "004_67681404_Cleveland_Communications_Inc_v_Lorain_County_Board"
+  },
+  {
+    "rank": 5,
+    "docket_id": "8193257",
+    "case_name": "Allstate Insurance Company v. Khotenok",
+    "court_id": "nyed",
+    "date_filed": "2018-10-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "005_8193257_Allstate_Insurance_Company_v_Khotenok"
+  },
+  {
+    "rank": 6,
+    "docket_id": "6829033",
+    "case_name": "KAUL v. CHRISTIE",
+    "court_id": "njd",
+    "date_filed": "2018-04-19",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "006_6829033_KAUL_v_CHRISTIE"
+  },
+  {
+    "rank": 7,
+    "docket_id": "7862301",
+    "case_name": "Melody Yiru v. Worldventures Holdings LLC",
+    "court_id": "txnd",
+    "date_filed": "2017-08-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "007_7862301_Melody_Yiru_v_Worldventures_Holdings_LLC"
+  },
+  {
+    "rank": 8,
+    "docket_id": "68470228",
+    "case_name": "Guotaiqixing Biomedical International (S) PTE Ltd. v. Dai",
+    "court_id": "nysd",
+    "date_filed": "2024-04-24",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "008_68470228_Guotaiqixing_Biomedical_International_S_PTE_Ltd_v_"
+  },
+  {
+    "rank": 9,
+    "docket_id": "69233844",
+    "case_name": "Skywave Networks, LLC v. DiSomma",
+    "court_id": "ilnd",
+    "date_filed": "2024-10-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "009_69233844_Skywave_Networks_LLC_v_DiSomma"
+  },
+  {
+    "rank": 10,
+    "docket_id": "7583326",
+    "case_name": "LEEDER v. FEINSTEIN",
+    "court_id": "njd",
+    "date_filed": "2018-08-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "010_7583326_LEEDER_v_FEINSTEIN"
+  },
+  {
+    "rank": 11,
+    "docket_id": "17663905",
+    "case_name": "MKM Healthcare Solutions LLC v. Biotronik Incorporated",
+    "court_id": "ord",
+    "date_filed": "2020-08-31",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "011_17663905_MKM_Healthcare_Solutions_LLC_v_Biotronik_Incorpora"
+  },
+  {
+    "rank": 12,
+    "docket_id": "63360857",
+    "case_name": "SS Richmond LLC v. Harrison",
+    "court_id": "vaed",
+    "date_filed": "2022-05-31",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "012_63360857_SS_Richmond_LLC_v_Harrison"
+  },
+  {
+    "rank": 13,
+    "docket_id": "4127080",
+    "case_name": "Drummond Company Inc v. Collingsworth",
+    "court_id": "alnd",
+    "date_filed": "2015-03-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "013_4127080_Drummond_Company_Inc_v_Collingsworth"
+  },
+  {
+    "rank": 14,
+    "docket_id": "6256094",
+    "case_name": "Wisehart v. Wisehart",
+    "court_id": "cod",
+    "date_filed": "2018-01-04",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "014_6256094_Wisehart_v_Wisehart"
+  },
+  {
+    "rank": 15,
+    "docket_id": "69653704",
+    "case_name": "WILSON v. PRESCOTT",
+    "court_id": "med",
+    "date_filed": "2025-02-18",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "015_69653704_WILSON_v_PRESCOTT"
+  },
+  {
+    "rank": 16,
+    "docket_id": "69771119",
+    "case_name": "Cottonwood Environmental Law Center v. Cross Harbor Capital Partners, LLC",
+    "court_id": "mtd",
+    "date_filed": "2025-03-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "016_69771119_Cottonwood_Environmental_Law_Center_v_Cross_Harbor"
+  },
+  {
+    "rank": 17,
+    "docket_id": "60047640",
+    "case_name": "CHAIRES v. NOVO NORDISK INC.",
+    "court_id": "njd",
+    "date_filed": "2017-02-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "017_60047640_CHAIRES_v_NOVO_NORDISK_INC"
+  },
+  {
+    "rank": 18,
+    "docket_id": "61261840",
+    "case_name": "AMA Systems, LLC v. 3B Tech, Inc.",
+    "court_id": "mdd",
+    "date_filed": "2021-06-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 7,
+      "has_scotus": false
+    },
+    "folder": "018_61261840_AMA_Systems_LLC_v_3B_Tech_Inc"
+  },
+  {
+    "rank": 19,
+    "docket_id": "63587562",
+    "case_name": "Grant v. Flying Bud Farms, LLC",
+    "court_id": "oknd",
+    "date_filed": "2022-01-03",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "019_63587562_Grant_v_Flying_Bud_Farms_LLC"
+  },
+  {
+    "rank": 20,
+    "docket_id": "71091752",
+    "case_name": "Chan v. Re/Max",
+    "court_id": "scd",
+    "date_filed": "2025-08-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "020_71091752_Chan_v_ReMax"
+  },
+  {
+    "rank": 21,
+    "docket_id": "14813698",
+    "case_name": "ROCHE DIAGNOSTICS CORPORATION v. SMITH",
+    "court_id": "njd",
+    "date_filed": "2019-03-19",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "021_14813698_ROCHE_DIAGNOSTICS_CORPORATION_v_SMITH"
+  },
+  {
+    "rank": 22,
+    "docket_id": "70870537",
+    "case_name": "Foster v. Author Success Publishing (MAG+)",
+    "court_id": "almd",
+    "date_filed": "2025-07-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 5,
+      "has_scotus": false
+    },
+    "folder": "022_70870537_Foster_v_Author_Success_Publishing_MAG"
+  },
+  {
+    "rank": 23,
+    "docket_id": "65390282",
+    "case_name": "Hamilton Advance, Inc. v. Premium Capital Fund",
+    "court_id": "nysd",
+    "date_filed": "2022-09-30",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "023_65390282_Hamilton_Advance_Inc_v_Premium_Capital_Fund"
+  },
+  {
+    "rank": 24,
+    "docket_id": "68159628",
+    "case_name": "Xlink Resource Group, LLC v. Expo Petroleum Oil and Gas, LLC",
+    "court_id": "txed",
+    "date_filed": "2024-01-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "024_68159628_Xlink_Resource_Group_LLC_v_Expo_Petroleum_Oil_and_"
+  },
+  {
+    "rank": 25,
+    "docket_id": "68311637",
+    "case_name": "Stevens v. Stevens",
+    "court_id": "ord",
+    "date_filed": "2024-03-05",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "025_68311637_Stevens_v_Stevens"
+  },
+  {
+    "rank": 26,
+    "docket_id": "65762475",
+    "case_name": "Price v. Johnson",
+    "court_id": "mied",
+    "date_filed": "2022-11-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "026_65762475_Price_v_Johnson"
+  },
+  {
+    "rank": 27,
+    "docket_id": "65748264",
+    "case_name": "Allstate Insurance Company v. Ayman Tarabishy, MC., PLLC",
+    "court_id": "mied",
+    "date_filed": "2022-11-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "027_65748264_Allstate_Insurance_Company_v_Ayman_Tarabishy_MC_PL"
+  },
+  {
+    "rank": 28,
+    "docket_id": "63890700",
+    "case_name": "Bonilla v. Ortez",
+    "court_id": "cand",
+    "date_filed": "2024-12-23",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "028_63890700_Bonilla_v_Ortez"
+  },
+  {
+    "rank": 29,
+    "docket_id": "7830174",
+    "case_name": "Clancy v. Vacationaire Estates, Inc.",
+    "court_id": "mnd",
+    "date_filed": "2018-07-31",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "029_7830174_Clancy_v_Vacationaire_Estates_Inc"
+  },
+  {
+    "rank": 30,
+    "docket_id": "16279174",
+    "case_name": "Evans v. Wanthub, Inc",
+    "court_id": "idd",
+    "date_filed": "2019-10-01",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "030_16279174_Evans_v_Wanthub_Inc"
+  },
+  {
+    "rank": 31,
+    "docket_id": "64865036",
+    "case_name": "ORIENT TURISTIK MAGAZACILIK SAN VE TIC LTD. STI v. AYTEK USA, INC.",
+    "court_id": "njd",
+    "date_filed": "2022-08-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "031_64865036_ORIENT_TURISTIK_MAGAZACILIK_SAN_VE_TIC_LTD_STI_v_A"
+  },
+  {
+    "rank": 32,
+    "docket_id": "70878645",
+    "case_name": "Stallworth v. MPD/MCSO",
+    "court_id": "alsd",
+    "date_filed": "2025-07-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "032_70878645_Stallworth_v_MPDMCSO"
+  },
+  {
+    "rank": 33,
+    "docket_id": "6108779",
+    "case_name": "Benson v. Wells Fargo Bank, N.A.",
+    "court_id": "sdd",
+    "date_filed": "2016-07-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "033_6108779_Benson_v_Wells_Fargo_Bank_NA"
+  },
+  {
+    "rank": 34,
+    "docket_id": "65752306",
+    "case_name": "Dettmering v. VBit Technologies Corp.",
+    "court_id": "ded",
+    "date_filed": "2022-11-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 7,
+      "has_scotus": false
+    },
+    "folder": "034_65752306_Dettmering_v_VBit_Technologies_Corp"
+  },
+  {
+    "rank": 35,
+    "docket_id": "60625201",
+    "case_name": "State Farm Mutual Automobile Insurance Company v. Metro Pain Specialists P.C.",
+    "court_id": "nyed",
+    "date_filed": "2021-10-05",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "035_60625201_State_Farm_Mutual_Automobile_Insurance_Company_v_M"
+  },
+  {
+    "rank": 36,
+    "docket_id": "4520859",
+    "case_name": "Town of Islip v. Datre",
+    "court_id": "nyed",
+    "date_filed": "2016-04-29",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "036_4520859_Town_of_Islip_v_Datre"
+  },
+  {
+    "rank": 37,
+    "docket_id": "69183151",
+    "case_name": "Husidic v. FR8 Solutions, Inc.",
+    "court_id": "flmd",
+    "date_filed": "2024-09-20",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "037_69183151_Husidic_v_FR8_Solutions_Inc"
+  },
+  {
+    "rank": 38,
+    "docket_id": "67874123",
+    "case_name": "Long v. Joaquin",
+    "court_id": "nyed",
+    "date_filed": "2023-10-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "038_67874123_Long_v_Joaquin"
+  },
+  {
+    "rank": 39,
+    "docket_id": "69513781",
+    "case_name": "AHP Capital Management LLC v. Oak Harbor Capital LLC",
+    "court_id": "wawd",
+    "date_filed": "2025-01-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "039_69513781_AHP_Capital_Management_LLC_v_Oak_Harbor_Capital_LL"
+  },
+  {
+    "rank": 40,
+    "docket_id": "68842798",
+    "case_name": "Anderson v. Biegler GmbH",
+    "court_id": "cod",
+    "date_filed": "2024-06-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "040_68842798_Anderson_v_Biegler_GmbH"
+  },
+  {
+    "rank": 41,
+    "docket_id": "69686267",
+    "case_name": "De Oliveira v. Tenet Healthcare",
+    "court_id": "nysd",
+    "date_filed": "2025-02-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 10,
+      "has_scotus": false
+    },
+    "folder": "041_69686267_De_Oliveira_v_Tenet_Healthcare"
+  },
+  {
+    "rank": 42,
+    "docket_id": "67859192",
+    "case_name": "Tang v. Qiao",
+    "court_id": "nysd",
+    "date_filed": "2023-10-05",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "042_67859192_Tang_v_Qiao"
+  },
+  {
+    "rank": 43,
+    "docket_id": "14750908",
+    "case_name": "Navajo Health Foundation - Sage Memorial Hospital, Inc. v. Razaghi Development Company, LLC",
+    "court_id": "nvd",
+    "date_filed": "2019-02-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 5,
+      "has_scotus": false
+    },
+    "folder": "043_14750908_Navajo_Health_Foundation_-_Sage_Memorial_Hospital_"
+  },
+  {
+    "rank": 44,
+    "docket_id": "68400584",
+    "case_name": "Five Star Bank v. Mott",
+    "court_id": "nywd",
+    "date_filed": "2024-03-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "044_68400584_Five_Star_Bank_v_Mott"
+  },
+  {
+    "rank": 45,
+    "docket_id": "66583457",
+    "case_name": "Givens v. Shadyside Police Department",
+    "court_id": "ohsd",
+    "date_filed": "2022-12-01",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "045_66583457_Givens_v_Shadyside_Police_Department"
+  },
+  {
+    "rank": 46,
+    "docket_id": "60495716",
+    "case_name": "Silva v. 13 Management",
+    "court_id": "tnmd",
+    "date_filed": "2021-09-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "046_60495716_Silva_v_13_Management"
+  },
+  {
+    "rank": 47,
+    "docket_id": "18755208",
+    "case_name": "UnitedHealthcare Insurance Company v. Regeneron Pharmaceuticals, Inc.",
+    "court_id": "nysd",
+    "date_filed": "2020-12-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "047_18755208_UnitedHealthcare_Insurance_Company_v_Regeneron_Pha"
+  },
+  {
+    "rank": 48,
+    "docket_id": "67102762",
+    "case_name": "KATZ v. DELUCA",
+    "court_id": "paed",
+    "date_filed": "2023-03-28",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "048_67102762_KATZ_v_DELUCA"
+  },
+  {
+    "rank": 49,
+    "docket_id": "60077047",
+    "case_name": "Humana Inc. v. Regeneron Pharmaceuticals, Inc.",
+    "court_id": "nysd",
+    "date_filed": "2021-07-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "049_60077047_Humana_Inc_v_Regeneron_Pharmaceuticals_Inc"
+  },
+  {
+    "rank": 50,
+    "docket_id": "61416972",
+    "case_name": "Mir v. Naz",
+    "court_id": "nyed",
+    "date_filed": "2021-11-15",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "050_61416972_Mir_v_Naz"
+  },
+  {
+    "rank": 51,
+    "docket_id": "61637180",
+    "case_name": "Hawaii County v. McKinsey & Company, Inc.",
+    "court_id": "hid",
+    "date_filed": "2021-12-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "051_61637180_Hawaii_County_v_McKinsey_Company_Inc"
+  },
+  {
+    "rank": 52,
+    "docket_id": "61600338",
+    "case_name": "Gramercy Distressed Opportunity Fund II LP v. Bakhmatyuk",
+    "court_id": "wyd",
+    "date_filed": "2021-12-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "052_61600338_Gramercy_Distressed_Opportunity_Fund_II_LP_v_Bakhm"
+  },
+  {
+    "rank": 53,
+    "docket_id": "68266060",
+    "case_name": "JAMAL v. ALLY FINANCIAL",
+    "court_id": "njd",
+    "date_filed": "2024-02-15",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "053_68266060_JAMAL_v_ALLY_FINANCIAL"
+  },
+  {
+    "rank": 54,
+    "docket_id": "68146219",
+    "case_name": "Allstate Insurance Company v. Toshner",
+    "court_id": "txwd",
+    "date_filed": "2024-01-09",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "054_68146219_Allstate_Insurance_Company_v_Toshner"
+  },
+  {
+    "rank": 55,
+    "docket_id": "67629948",
+    "case_name": "Yan v. The State Bar of Texas",
+    "court_id": "txnd",
+    "date_filed": "2023-07-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "055_67629948_Yan_v_The_State_Bar_of_Texas"
+  },
+  {
+    "rank": 56,
+    "docket_id": "71121784",
+    "case_name": "Lawson v. Godderz",
+    "court_id": "ksd",
+    "date_filed": "2025-08-15",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "056_71121784_Lawson_v_Godderz"
+  },
+  {
+    "rank": 57,
+    "docket_id": "60606493",
+    "case_name": "Doe v. Limestone University",
+    "court_id": "scd",
+    "date_filed": "2021-09-30",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "057_60606493_Doe_v_Limestone_University"
+  },
+  {
+    "rank": 58,
+    "docket_id": "67886525",
+    "case_name": "San Miguel Hospital Corporation v. Johnson & Johnson",
+    "court_id": "nmd",
+    "date_filed": "2023-10-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 6,
+      "has_scotus": false
+    },
+    "folder": "058_67886525_San_Miguel_Hospital_Corporation_v_Johnson_Johnson"
+  },
+  {
+    "rank": 59,
+    "docket_id": "68990373",
+    "case_name": "N.Z. v. Fenix International Limited",
+    "court_id": "cacd",
+    "date_filed": "2024-07-29",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "059_68990373_NZ_v_Fenix_International_Limited"
+  },
+  {
+    "rank": 60,
+    "docket_id": "70387244",
+    "case_name": "Awan v. MTA",
+    "court_id": "nysd",
+    "date_filed": "2025-05-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "060_70387244_Awan_v_MTA"
+  },
+  {
+    "rank": 61,
+    "docket_id": "16426212",
+    "case_name": "Postpichal v. Cricket Wireless, LLC",
+    "court_id": "cand",
+    "date_filed": "2019-11-04",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 16,
+      "has_scotus": false
+    },
+    "folder": "061_16426212_Postpichal_v_Cricket_Wireless_LLC"
+  },
+  {
+    "rank": 62,
+    "docket_id": "16772334",
+    "case_name": "Edmondson v. Raniere",
+    "court_id": "nyed",
+    "date_filed": "2020-01-28",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "062_16772334_Edmondson_v_Raniere"
+  },
+  {
+    "rank": 63,
+    "docket_id": "69391194",
+    "case_name": "Government Employees Insurance Company v. Star Medical Diagnostic, P.C.",
+    "court_id": "nyed",
+    "date_filed": "2024-11-19",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "063_69391194_Government_Employees_Insurance_Company_v_Star_Medi"
+  },
+  {
+    "rank": 64,
+    "docket_id": "16034185",
+    "case_name": "Zimmerman v. Facebook, Inc.",
+    "court_id": "cand",
+    "date_filed": "2019-08-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "064_16034185_Zimmerman_v_Facebook_Inc"
+  },
+  {
+    "rank": 65,
+    "docket_id": "69170820",
+    "case_name": "Government Employees Insurance Company v. Akiva Imaging Inc.",
+    "court_id": "nyed",
+    "date_filed": "2024-09-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "065_69170820_Government_Employees_Insurance_Company_v_Akiva_Ima"
+  },
+  {
+    "rank": 66,
+    "docket_id": "62984019",
+    "case_name": "AIRTECH INTERNATIONAL INC v. YIM",
+    "court_id": "njd",
+    "date_filed": "2022-02-08",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "066_62984019_AIRTECH_INTERNATIONAL_INC_v_YIM"
+  },
+  {
+    "rank": 67,
+    "docket_id": "68813413",
+    "case_name": "Villarroel v. Recology Inc.",
+    "court_id": "cand",
+    "date_filed": "2024-05-30",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "067_68813413_Villarroel_v_Recology_Inc"
+  },
+  {
+    "rank": 68,
+    "docket_id": "67495147",
+    "case_name": "TBB International Bank Corp. v. Oliveros-Febres-Cordero",
+    "court_id": "prd",
+    "date_filed": "2023-06-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "068_67495147_TBB_International_Bank_Corp_v_Oliveros-Febres-Cord"
+  },
+  {
+    "rank": 69,
+    "docket_id": "68347784",
+    "case_name": "Sound Around, Inc. v. Friedman",
+    "court_id": "nysd",
+    "date_filed": "2024-03-15",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 8,
+      "has_scotus": false
+    },
+    "folder": "069_68347784_Sound_Around_Inc_v_Friedman"
+  },
+  {
+    "rank": 70,
+    "docket_id": "65412626",
+    "case_name": "JALON v. BANK OF AMERICA",
+    "court_id": "paed",
+    "date_filed": "2022-10-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "070_65412626_JALON_v_BANK_OF_AMERICA"
+  },
+  {
+    "rank": 71,
+    "docket_id": "16737974",
+    "case_name": "Faller v. Pelosi",
+    "court_id": "gasd",
+    "date_filed": "2020-01-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "071_16737974_Faller_v_Pelosi"
+  },
+  {
+    "rank": 72,
+    "docket_id": "16045578",
+    "case_name": "San Juan Regional Medical Center v. 21st Century Centennial Insurance Company",
+    "court_id": "nmd",
+    "date_filed": "2019-08-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "072_16045578_San_Juan_Regional_Medical_Center_v_21st_Century_Ce"
+  },
+  {
+    "rank": 73,
+    "docket_id": "71878124",
+    "case_name": "Patrzalek v. Finance Cartel The",
+    "court_id": "okwd",
+    "date_filed": "2025-11-05",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "073_71878124_Patrzalek_v_Finance_Cartel_The"
+  },
+  {
+    "rank": 74,
+    "docket_id": "71327741",
+    "case_name": "Kelly v. Montgomery Real Estate, LLC (MAG+)",
+    "court_id": "almd",
+    "date_filed": "2025-09-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "074_71327741_Kelly_v_Montgomery_Real_Estate_LLC_MAG"
+  },
+  {
+    "rank": 75,
+    "docket_id": "69360012",
+    "case_name": "Golden Foothill Insurance Services, LLC v. Spin Capital, LLC",
+    "court_id": "nysd",
+    "date_filed": "2024-11-08",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "075_69360012_Golden_Foothill_Insurance_Services_LLC_v_Spin_Capi"
+  },
+  {
+    "rank": 76,
+    "docket_id": "8341458",
+    "case_name": "Horne v. Ashbritt, Inc.",
+    "court_id": "cand",
+    "date_filed": "2018-11-28",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "076_8341458_Horne_v_Ashbritt_Inc"
+  },
+  {
+    "rank": 77,
+    "docket_id": "71195644",
+    "case_name": "Gaskey v. Donald John Trump",
+    "court_id": "nysd",
+    "date_filed": "2025-08-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "077_71195644_Gaskey_v_Donald_John_Trump"
+  },
+  {
+    "rank": 78,
+    "docket_id": "69360762",
+    "case_name": "Nowakowski v. Chojnacki",
+    "court_id": "ilnd",
+    "date_filed": "2024-11-08",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "078_69360762_Nowakowski_v_Chojnacki"
+  },
+  {
+    "rank": 79,
+    "docket_id": "59729335",
+    "case_name": "Sake, LLC v. Cain",
+    "court_id": "tnmd",
+    "date_filed": "2021-02-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "079_59729335_Sake_LLC_v_Cain"
+  },
+  {
+    "rank": 80,
+    "docket_id": "71195647",
+    "case_name": "Brown v. Donald John Trump",
+    "court_id": "nysd",
+    "date_filed": "2025-08-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "080_71195647_Brown_v_Donald_John_Trump"
+  },
+  {
+    "rank": 81,
+    "docket_id": "6183251",
+    "case_name": "Painters and Allied Trades District Council 82 Health Care Fund v. Takeda Pharmaceutical Co Ltd",
+    "court_id": "cacd",
+    "date_filed": "2017-09-29",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "081_6183251_Painters_and_Allied_Trades_District_Council_82_Hea"
+  },
+  {
+    "rank": 82,
+    "docket_id": "68948528",
+    "case_name": "Addison v. Huye",
+    "court_id": "lawd",
+    "date_filed": "2024-07-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "082_68948528_Addison_v_Huye"
+  },
+  {
+    "rank": 83,
+    "docket_id": "68827091",
+    "case_name": "BLUEBERRY FUNDING, LLC v. NEUBERGER",
+    "court_id": "njd",
+    "date_filed": "2024-05-31",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "083_68827091_BLUEBERRY_FUNDING_LLC_v_NEUBERGER"
+  },
+  {
+    "rank": 84,
+    "docket_id": "65354965",
+    "case_name": "Liberty Haulers, Inc. v. Fora Financial Advance, LLC",
+    "court_id": "nysd",
+    "date_filed": "2022-09-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "084_65354965_Liberty_Haulers_Inc_v_Fora_Financial_Advance_LLC"
+  },
+  {
+    "rank": 85,
+    "docket_id": "18641621",
+    "case_name": "Hyundai Motor America Corporation v. North American Automotive Services, Inc.",
+    "court_id": "flsd",
+    "date_filed": "2020-11-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 10,
+      "has_scotus": false
+    },
+    "folder": "085_18641621_Hyundai_Motor_America_Corporation_v_North_American"
+  },
+  {
+    "rank": 86,
+    "docket_id": "71081327",
+    "case_name": "Grant v. Hilton",
+    "court_id": "moed",
+    "date_filed": "2025-08-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "086_71081327_Grant_v_Hilton"
+  },
+  {
+    "rank": 87,
+    "docket_id": "68245507",
+    "case_name": "Hoipkemier v. Miller",
+    "court_id": "gand",
+    "date_filed": "2024-02-08",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "087_68245507_Hoipkemier_v_Miller"
+  },
+  {
+    "rank": 88,
+    "docket_id": "69051653",
+    "case_name": "Martin v. Binance Holdings Ltd",
+    "court_id": "wawd",
+    "date_filed": "2024-08-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "088_69051653_Martin_v_Binance_Holdings_Ltd"
+  },
+  {
+    "rank": 89,
+    "docket_id": "17411272",
+    "case_name": "Government Employees Insurance Company v. Zaitsev",
+    "court_id": "nyed",
+    "date_filed": "2020-08-03",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "089_17411272_Government_Employees_Insurance_Company_v_Zaitsev"
+  },
+  {
+    "rank": 90,
+    "docket_id": "60938031",
+    "case_name": "Lateral Recovery, LLC v. Capital Merchant Services, LLC",
+    "court_id": "nysd",
+    "date_filed": "2021-11-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "090_60938031_Lateral_Recovery_LLC_v_Capital_Merchant_Services_L"
+  },
+  {
+    "rank": 91,
+    "docket_id": "4275943",
+    "case_name": "Meijer, Inc. v. Ranbaxy Inc.",
+    "court_id": "mad",
+    "date_filed": "2015-05-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "091_4275943_Meijer_Inc_v_Ranbaxy_Inc"
+  },
+  {
+    "rank": 92,
+    "docket_id": "63321497",
+    "case_name": "Burchfield v. Alibaba Group Holding Limited",
+    "court_id": "cand",
+    "date_filed": "2022-05-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "092_63321497_Burchfield_v_Alibaba_Group_Holding_Limited"
+  },
+  {
+    "rank": 93,
+    "docket_id": "64882474",
+    "case_name": "Huntley v. Rosebud Economic Development Corporation",
+    "court_id": "casd",
+    "date_filed": "2022-08-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "093_64882474_Huntley_v_Rosebud_Economic_Development_Corporation"
+  },
+  {
+    "rank": 94,
+    "docket_id": "8428914",
+    "case_name": "Universitas Education, LLC v. Robinson",
+    "court_id": "mad",
+    "date_filed": "2015-05-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "094_8428914_Universitas_Education_LLC_v_Robinson"
+  },
+  {
+    "rank": 95,
+    "docket_id": "63365483",
+    "case_name": "Tentandtable.com, LLC v. Aljibouri",
+    "court_id": "nywd",
+    "date_filed": "2022-01-26",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "095_63365483_Tentandtablecom_LLC_v_Aljibouri"
+  },
+  {
+    "rank": 96,
+    "docket_id": "60313737",
+    "case_name": "Taylor v. KKR & Co., L.P.",
+    "court_id": "kyed",
+    "date_filed": "2021-07-20",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "096_60313737_Taylor_v_KKR_Co_LP"
+  },
+  {
+    "rank": 97,
+    "docket_id": "60086969",
+    "case_name": "J.B. Plumbing and Heating of Virginia, Inc. v. Yellowstone Capital LLC",
+    "court_id": "nysd",
+    "date_filed": "2021-07-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "097_60086969_JB_Plumbing_and_Heating_of_Virginia_Inc_v_Yellowst"
+  },
+  {
+    "rank": 98,
+    "docket_id": "17417056",
+    "case_name": "Hudock v. FirstEnergy Corp.",
+    "court_id": "ohsd",
+    "date_filed": "2020-08-05",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "098_17417056_Hudock_v_FirstEnergy_Corp"
+  },
+  {
+    "rank": 99,
+    "docket_id": "17248483",
+    "case_name": "Joe Schroeder Legacy, LLC v. Service247 of Illinois, Inc.",
+    "court_id": "ilnd",
+    "date_filed": "2020-05-29",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "099_17248483_Joe_Schroeder_Legacy_LLC_v_Service247_of_Illinois_"
+  },
+  {
+    "rank": 100,
+    "docket_id": "16783422",
+    "case_name": "DANTE v. SCHWARTZ",
+    "court_id": "njd",
+    "date_filed": "2020-01-30",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "100_16783422_DANTE_v_SCHWARTZ"
+  }
+]

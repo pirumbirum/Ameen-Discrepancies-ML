@@ -1,0 +1,31 @@
+{
+  "id": "69645400",
+  "case_name": "Alqosh Enterprises, Inc. v. PepsiCo, Inc.",
+  "case_name_full": "",
+  "docket_number": "2:25-cv-01327",
+  "docket_number_core": "2501327",
+  "court_id": "cacd",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "15:25 Clayton Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2025-02-17",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-05",
+  "assigned_to_str": "Monica Ramirez Almadani",
+  "referred_to_str": "John D. Early",
+  "pacer_case_id": "957902",
+  "source": "1",
+  "slug": "alqosh-enterprises-inc-v-pepsico-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 1,
+  "_nos_category": "antitrust"
+}

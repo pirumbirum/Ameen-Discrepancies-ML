@@ -1,0 +1,31 @@
+{
+  "id": "59690486",
+  "case_name": "Schrader Cellars, LLC v. Roach",
+  "case_name_full": "",
+  "docket_number": "3:21-cv-01431",
+  "docket_number_core": "2101431",
+  "court_id": "cand",
+  "nature_of_suit": "Trademark",
+  "cause": "15:44 Trademark Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-02-26",
+  "date_terminated": "2023-03-13",
+  "date_last_filing": "2025-12-10",
+  "assigned_to_str": "Sallie Kim",
+  "referred_to_str": "Joseph C. Spero",
+  "pacer_case_id": "374352",
+  "source": "1",
+  "slug": "schrader-cellars-llc-v-roach",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 3,
+    "has_scotus": false
+  },
+  "_rank_in_category": 82,
+  "_nos_category": "trademark"
+}

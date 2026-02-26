@@ -1,0 +1,31 @@
+{
+  "id": "68144738",
+  "case_name": "In re ChargePoint Holdings, Inc. Derivative Litigation",
+  "case_name_full": "",
+  "docket_number": "5:24-cv-00149",
+  "docket_number_core": "2400149",
+  "court_id": "cand",
+  "nature_of_suit": "160 Stockholders Suits",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-01-08",
+  "date_terminated": "",
+  "date_last_filing": "2025-10-14",
+  "assigned_to_str": "Noel Wise",
+  "referred_to_str": "Susan Van Keulen",
+  "pacer_case_id": "423169",
+  "source": "1",
+  "slug": "in-re-chargepoint-holdings-inc-derivative-litigation",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 77,
+  "_nos_category": "stockholders"
+}

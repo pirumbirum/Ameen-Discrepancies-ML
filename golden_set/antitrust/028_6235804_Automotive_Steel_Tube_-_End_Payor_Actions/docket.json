@@ -1,0 +1,31 @@
+{
+  "id": "6235804",
+  "case_name": "Automotive Steel Tube - End Payor Actions",
+  "case_name_full": "",
+  "docket_number": "2:16-cv-04003",
+  "docket_number_core": "1604003",
+  "court_id": "mied",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "15:1 Antitrust Litigation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2016-09-19",
+  "date_terminated": "2020-09-29",
+  "date_last_filing": "2025-09-19",
+  "assigned_to_str": "Sean F. Cox",
+  "referred_to_str": "R. Steven Whalen",
+  "pacer_case_id": "314256",
+  "source": "1",
+  "slug": "automotive-steel-tube-end-payor-actions",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 28,
+  "_nos_category": "antitrust"
+}

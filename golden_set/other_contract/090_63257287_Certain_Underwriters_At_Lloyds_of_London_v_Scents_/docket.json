@@ -1,0 +1,31 @@
+{
+  "id": "63257287",
+  "case_name": "Certain Underwriters At Lloyds of London v. Scents Corporations",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-21262",
+  "docket_number_core": "2221262",
+  "court_id": "flsd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1332 Diversity-Notice of Removal",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-04-22",
+  "date_terminated": "2024-06-12",
+  "date_last_filing": "2025-11-07",
+  "assigned_to_str": "Federico A. Moreno",
+  "referred_to_str": "",
+  "pacer_case_id": "611887",
+  "source": "1",
+  "slug": "certain-underwriters-at-lloyds-of-london-v-scents-corporations",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 90,
+  "_nos_category": "other_contract"
+}

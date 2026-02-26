@@ -1,0 +1,31 @@
+{
+  "id": "6664921",
+  "case_name": "BRG HARRISON LOFTS URBAN RENEWAL LLC v. GENERAL ELECTRIC COMPANY",
+  "case_name_full": "",
+  "docket_number": "2:16-cv-06577",
+  "docket_number_core": "1606577",
+  "court_id": "njd",
+  "nature_of_suit": "893 Environmental Matters",
+  "cause": "42:9613 CERCLA",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2016-10-06",
+  "date_terminated": "2020-12-21",
+  "date_last_filing": "2025-02-06",
+  "assigned_to_str": "Stanley R. Chesler",
+  "referred_to_str": "Cathy L. Waldor",
+  "pacer_case_id": "338908",
+  "source": "9",
+  "slug": "brg-harrison-lofts-urban-renewal-llc-v-general-electric-company",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 3,
+    "has_scotus": false
+  },
+  "_rank_in_category": 42,
+  "_nos_category": "environmental"
+}

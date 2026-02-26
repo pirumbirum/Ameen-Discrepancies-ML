@@ -1,0 +1,31 @@
+{
+  "id": "35837753",
+  "case_name": "Deutsche Bank National Trust Company as Trustee for the Certificateholders of the Morgan Stanley ABS Capital I Inc. Trust 2003-NC10 v. Fidelity National Title Group, Inc.",
+  "case_name_full": "",
+  "docket_number": "2:20-cv-02268",
+  "docket_number_core": "2002268",
+  "court_id": "nvd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "",
+  "date_filed": "2020-12-15",
+  "date_terminated": "2021-06-02",
+  "date_last_filing": "2022-04-15",
+  "assigned_to_str": "James C. Mahan",
+  "referred_to_str": "Cam Ferenbach",
+  "pacer_case_id": "147482",
+  "source": "1",
+  "slug": "deutsche-bank-national-trust-company-as-trustee-for-the-certificateholders",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 22,
+  "_nos_category": "insurance"
+}

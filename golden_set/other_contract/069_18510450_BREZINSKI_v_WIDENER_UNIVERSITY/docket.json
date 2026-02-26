@@ -1,0 +1,31 @@
+{
+  "id": "18510450",
+  "case_name": "BREZINSKI v. WIDENER UNIVERSITY",
+  "case_name_full": "",
+  "docket_number": "2:20-cv-04939",
+  "docket_number_core": "2004939",
+  "court_id": "paed",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2020-10-06",
+  "date_terminated": "2022-01-28",
+  "date_last_filing": "2022-01-28",
+  "assigned_to_str": "JOHN M. YOUNGE",
+  "referred_to_str": "",
+  "pacer_case_id": "576571",
+  "source": "1",
+  "slug": "brezinski-v-widener-university",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 69,
+  "_nos_category": "other_contract"
+}

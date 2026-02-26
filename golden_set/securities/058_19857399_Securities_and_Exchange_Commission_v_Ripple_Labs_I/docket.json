@@ -1,0 +1,31 @@
+{
+  "id": "19857399",
+  "case_name": "Securities and Exchange Commission v. Ripple Labs Inc.",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-10832",
+  "docket_number_core": "2010832",
+  "court_id": "nysd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2020-12-22",
+  "date_terminated": "2024-08-07",
+  "date_last_filing": "2025-11-12",
+  "assigned_to_str": "Analisa Torres",
+  "referred_to_str": "Sarah Netburn",
+  "pacer_case_id": "551082",
+  "source": "1",
+  "slug": "securities-and-exchange-commission-v-ripple-labs-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 27,
+    "has_scotus": false
+  },
+  "_rank_in_category": 58,
+  "_nos_category": "securities"
+}

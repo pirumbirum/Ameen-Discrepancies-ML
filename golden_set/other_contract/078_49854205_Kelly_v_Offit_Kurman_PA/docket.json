@@ -1,0 +1,31 @@
+{
+  "id": "49854205",
+  "case_name": "Kelly v. Offit Kurman, P.A.",
+  "case_name_full": "",
+  "docket_number": "1:17-cv-03668",
+  "docket_number_core": "1703668",
+  "court_id": "mdd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2017-12-12",
+  "date_terminated": "2021-08-23",
+  "date_last_filing": "2023-03-20",
+  "assigned_to_str": "Catherine C. Blake",
+  "referred_to_str": "",
+  "pacer_case_id": "409041",
+  "source": "1",
+  "slug": "kelly-v-offit-kurman-pa",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 78,
+  "_nos_category": "other_contract"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "67859192",
+  "case_name": "Tang v. Qiao",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-08760",
+  "docket_number_core": "2308760",
+  "court_id": "nysd",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "18:1961 Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-10-05",
+  "date_terminated": "",
+  "date_last_filing": "2025-11-24",
+  "assigned_to_str": "Dale E. Ho",
+  "referred_to_str": "",
+  "pacer_case_id": "607704",
+  "source": "1",
+  "slug": "tang-v-qiao",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 3,
+    "has_scotus": false
+  },
+  "_rank_in_category": 42,
+  "_nos_category": "rico"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "63348005",
+  "case_name": "Securities and Exchange Commission v. Sumichrast",
+  "case_name_full": "",
+  "docket_number": "3:22-cv-00246",
+  "docket_number_core": "2200246",
+  "court_id": "ncwd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2022-05-31",
+  "date_terminated": "2024-04-29",
+  "date_last_filing": "2024-04-29",
+  "assigned_to_str": "Frank D. Whitney",
+  "referred_to_str": "Susan C. Rodriguez",
+  "pacer_case_id": "108357",
+  "source": "1",
+  "slug": "securities-and-exchange-commission-v-sumichrast",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 97,
+  "_nos_category": "securities"
+}

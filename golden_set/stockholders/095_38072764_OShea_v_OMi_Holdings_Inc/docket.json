@@ -1,0 +1,31 @@
+{
+  "id": "38072764",
+  "case_name": "O'Shea v. OMi Holdings Inc",
+  "case_name_full": "",
+  "docket_number": "2:20-cv-01616",
+  "docket_number_core": "2001616",
+  "court_id": "alnd",
+  "nature_of_suit": "160 Stockholders Suits",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2020-10-14",
+  "date_terminated": "2021-09-21",
+  "date_last_filing": "2023-08-22",
+  "assigned_to_str": "Karon O Bowdre",
+  "referred_to_str": "",
+  "pacer_case_id": "175311",
+  "source": "1",
+  "slug": "oshea-v-omi-holdings-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 95,
+  "_nos_category": "stockholders"
+}

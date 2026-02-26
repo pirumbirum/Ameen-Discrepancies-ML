@@ -1,0 +1,31 @@
+{
+  "id": "67886295",
+  "case_name": "Swann v. Google",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-00240",
+  "docket_number_core": "2300240",
+  "court_id": "tned",
+  "nature_of_suit": "Banks and Banking",
+  "cause": "28:1332 Diversity-Fraud",
+  "jurisdiction_type": "",
+  "date_filed": "2023-10-05",
+  "date_terminated": "2023-12-14",
+  "date_last_filing": "2024-05-03",
+  "assigned_to_str": "Charles E Atchley, Jr",
+  "referred_to_str": "Susan K Lee",
+  "pacer_case_id": "111494",
+  "source": "1",
+  "slug": "swann-v-google",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 72,
+  "_nos_category": "banks"
+}

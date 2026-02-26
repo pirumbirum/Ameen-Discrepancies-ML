@@ -1,0 +1,31 @@
+{
+  "id": "7551540",
+  "case_name": "BAT LLC v. TD Bank N.A.",
+  "case_name_full": "",
+  "docket_number": "1:15-cv-05839",
+  "docket_number_core": "1505839",
+  "court_id": "nyed",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1441 Notice of Removal",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2015-10-09",
+  "date_terminated": "2024-09-26",
+  "date_last_filing": "2025-12-08",
+  "assigned_to_str": "Nina R. Morrison",
+  "referred_to_str": "Cheryl L. Pollak",
+  "pacer_case_id": "376326",
+  "source": "9",
+  "slug": "bat-llc-v-td-bank-na",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 47,
+  "_nos_category": "other_contract"
+}

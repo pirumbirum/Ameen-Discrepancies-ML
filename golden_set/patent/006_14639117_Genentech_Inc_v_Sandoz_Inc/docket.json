@@ -1,0 +1,31 @@
+{
+  "id": "14639117",
+  "case_name": "Genentech, Inc. v. Sandoz, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:19-cv-00078",
+  "docket_number_core": "1900078",
+  "court_id": "ded",
+  "nature_of_suit": "Patent - Abbreviated New Drug Application(ANDA)",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-01-14",
+  "date_terminated": "2022-04-19",
+  "date_last_filing": "2023-02-03",
+  "assigned_to_str": "Richard G. Andrews",
+  "referred_to_str": "",
+  "pacer_case_id": "67445",
+  "source": "1",
+  "slug": "genentech-inc-v-sandoz-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 6,
+  "_nos_category": "patent"
+}

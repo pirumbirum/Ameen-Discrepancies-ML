@@ -1,0 +1,31 @@
+{
+  "id": "67363299",
+  "case_name": "Advaiya Solutions Inc v. Hartford Fire Insurance Company",
+  "case_name_full": "",
+  "docket_number": "2:23-cv-00685",
+  "docket_number_core": "2300685",
+  "court_id": "wawd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1441 Petition for Removal- Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2023-05-10",
+  "date_terminated": "2025-04-09",
+  "date_last_filing": "2025-04-09",
+  "assigned_to_str": "Kymberly K. Evanson",
+  "referred_to_str": "",
+  "pacer_case_id": "322073",
+  "source": "1",
+  "slug": "advaiya-solutions-inc-v-hartford-fire-insurance-company",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 87,
+  "_nos_category": "insurance"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "63353253",
+  "case_name": "Ucharima Alvarado v. Western Range Association",
+  "case_name_full": "",
+  "docket_number": "3:22-cv-00249",
+  "docket_number_core": "2200249",
+  "court_id": "nvd",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "15:1 Antitrust Litigation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-06-01",
+  "date_terminated": "",
+  "date_last_filing": "2025-11-03",
+  "assigned_to_str": "Miranda M. Du",
+  "referred_to_str": "Carla Baldwin",
+  "pacer_case_id": "156588",
+  "source": "1",
+  "slug": "ucharima-alvarado-v-western-range-association",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 7,
+    "has_scotus": false
+  },
+  "_rank_in_category": 74,
+  "_nos_category": "antitrust"
+}

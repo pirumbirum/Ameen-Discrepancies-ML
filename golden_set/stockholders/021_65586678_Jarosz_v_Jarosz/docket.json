@@ -1,0 +1,31 @@
+{
+  "id": "65586678",
+  "case_name": "Jarosz v. Jarosz",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-02594",
+  "docket_number_core": "2202594",
+  "court_id": "mdd",
+  "nature_of_suit": "Stockholders Suits",
+  "cause": "28:1332 Diversity - Stockholders Suits",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-10-11",
+  "date_terminated": "2023-09-15",
+  "date_last_filing": "2024-09-30",
+  "assigned_to_str": "Lydia Kay Griggsby",
+  "referred_to_str": "",
+  "pacer_case_id": "521652",
+  "source": "1",
+  "slug": "jarosz-v-jarosz",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 21,
+  "_nos_category": "stockholders"
+}

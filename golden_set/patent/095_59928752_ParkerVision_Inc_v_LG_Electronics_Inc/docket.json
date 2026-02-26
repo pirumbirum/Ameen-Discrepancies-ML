@@ -1,0 +1,31 @@
+{
+  "id": "59928752",
+  "case_name": "ParkerVision, Inc. v. LG Electronics Inc.",
+  "case_name_full": "",
+  "docket_number": "6:21-cv-00520",
+  "docket_number_core": "2100520",
+  "court_id": "txwd",
+  "nature_of_suit": "830 Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-05-22",
+  "date_terminated": "",
+  "date_last_filing": "2025-09-16",
+  "assigned_to_str": "Alan D. Albright",
+  "referred_to_str": "",
+  "pacer_case_id": "1134973",
+  "source": "1",
+  "slug": "parkervision-inc-v-lg-electronics-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 95,
+  "_nos_category": "patent"
+}

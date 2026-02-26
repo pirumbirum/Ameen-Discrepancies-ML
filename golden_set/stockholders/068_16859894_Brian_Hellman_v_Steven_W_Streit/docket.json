@@ -1,0 +1,31 @@
+{
+  "id": "16859894",
+  "case_name": "Brian Hellman v. Steven W. Streit",
+  "case_name_full": "",
+  "docket_number": "2:20-cv-01572",
+  "docket_number_core": "2001572",
+  "court_id": "cacd",
+  "nature_of_suit": "160 Stockholders Suits",
+  "cause": "28:1331 Fed. Question: Securities Violation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-02-18",
+  "date_terminated": "",
+  "date_last_filing": "2025-08-08",
+  "assigned_to_str": "Fernando L. Aenlle-Rocha",
+  "referred_to_str": "Charles F. Eick",
+  "pacer_case_id": "773392",
+  "source": "9",
+  "slug": "brian-hellman-v-steven-w-streit",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 68,
+  "_nos_category": "stockholders"
+}

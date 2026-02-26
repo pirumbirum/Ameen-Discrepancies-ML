@@ -1,0 +1,31 @@
+{
+  "id": "16343661",
+  "case_name": "NEXT FINANCIAL GROUP, INC. v. GMS MINE REPAIR AND MAINTENANCE, INC.",
+  "case_name_full": "",
+  "docket_number": "3:19-cv-00168",
+  "docket_number_core": "1900168",
+  "court_id": "pawd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "28:2201 Injunction",
+  "jurisdiction_type": "Federal question",
+  "date_filed": "2019-10-16",
+  "date_terminated": "2020-02-26",
+  "date_last_filing": "2020-02-26",
+  "assigned_to_str": "Kim R. Gibson",
+  "referred_to_str": "",
+  "pacer_case_id": "260727",
+  "source": "9",
+  "slug": "next-financial-group-inc-v-gms-mine-repair-and-maintenance-inc",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 22,
+  "_nos_category": "securities"
+}

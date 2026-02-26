@@ -1,0 +1,31 @@
+{
+  "id": "6155447",
+  "case_name": "North American Soccer League, LLC v. United States Soccer Federation, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:17-cv-05495",
+  "docket_number_core": "1705495",
+  "court_id": "nyed",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "15:1 Antitrust Litigation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2017-09-19",
+  "date_terminated": "2025-02-03",
+  "date_last_filing": "2025-12-24",
+  "assigned_to_str": "Hector Gonzalez",
+  "referred_to_str": "",
+  "pacer_case_id": "407178",
+  "source": "9",
+  "slug": "north-american-soccer-league-llc-v-united-states-soccer-federation-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 97,
+  "_nos_category": "antitrust"
+}

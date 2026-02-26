@@ -1,0 +1,31 @@
+{
+  "id": "16183711",
+  "case_name": "Omni MedSci, Inc. v. Apple Inc.",
+  "case_name_full": "",
+  "docket_number": "4:19-cv-05673",
+  "docket_number_core": "1905673",
+  "court_id": "cand",
+  "nature_of_suit": "830 Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-09-11",
+  "date_terminated": "2021-12-21",
+  "date_last_filing": "2022-08-30",
+  "assigned_to_str": "Yvonne Gonzalez Rogers",
+  "referred_to_str": "",
+  "pacer_case_id": "348085",
+  "source": "9",
+  "slug": "omni-medsci-inc-v-apple-inc",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 10,
+  "_nos_category": "patent"
+}

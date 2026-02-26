@@ -1,0 +1,31 @@
+{
+  "id": "67356059",
+  "case_name": "Frisch v. Likeopedia, LLC",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-03904",
+  "docket_number_core": "2303904",
+  "court_id": "nysd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:78j(b)ss Stockholder Suit",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-05-09",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-16",
+  "assigned_to_str": "Victor Marrero",
+  "referred_to_str": "",
+  "pacer_case_id": "598570",
+  "source": "1",
+  "slug": "frisch-v-likeopedia-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 41,
+  "_nos_category": "securities"
+}

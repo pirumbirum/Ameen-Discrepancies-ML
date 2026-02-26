@@ -1,0 +1,31 @@
+{
+  "id": "69746811",
+  "case_name": "Cascadia Wildlands v. Eugene Water & Electric Board",
+  "case_name_full": "",
+  "docket_number": "6:25-cv-00446",
+  "docket_number_core": "2500446",
+  "court_id": "ord",
+  "nature_of_suit": "Environmental Matters",
+  "cause": "16:1538  Endangered Species Act",
+  "jurisdiction_type": "",
+  "date_filed": "2025-03-17",
+  "date_terminated": "",
+  "date_last_filing": "2025-11-20",
+  "assigned_to_str": "Mustafa T. Kasubhai",
+  "referred_to_str": "",
+  "pacer_case_id": "185214",
+  "source": "1",
+  "slug": "cascadia-wildlands-v-eugene-water-electric-board",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 19,
+  "_nos_category": "environmental"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "8193257",
+  "case_name": "Allstate Insurance Company v. Khotenok",
+  "case_name_full": "",
+  "docket_number": "1:18-cv-05650",
+  "docket_number_core": "1805650",
+  "court_id": "nyed",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "18:1964 Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2018-10-10",
+  "date_terminated": "2022-10-14",
+  "date_last_filing": "2022-10-14",
+  "assigned_to_str": "Frederic Block",
+  "referred_to_str": "Ramon E. Reyes Jr.",
+  "pacer_case_id": "423400",
+  "source": "9",
+  "slug": "allstate-insurance-company-v-khotenok",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 5,
+  "_nos_category": "rico"
+}

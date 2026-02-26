@@ -1,0 +1,31 @@
+{
+  "id": "6681331",
+  "case_name": "MW Capital Funding, Inc. v. Magnum Health And Rehab Of Monroe LLC",
+  "case_name_full": "",
+  "docket_number": "2:16-cv-14459",
+  "docket_number_core": "1614459",
+  "court_id": "mied",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1330 Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2016-12-23",
+  "date_terminated": "2017-02-03",
+  "date_last_filing": "2021-10-29",
+  "assigned_to_str": "George Caram Steeh",
+  "referred_to_str": "Mona K. Majzoub",
+  "pacer_case_id": "316609",
+  "source": "9",
+  "slug": "mw-capital-funding-inc-v-magnum-health-and-rehab-of-monroe-llc",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 46,
+  "_nos_category": "other_contract"
+}

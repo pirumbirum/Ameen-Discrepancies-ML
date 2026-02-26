@@ -1,0 +1,31 @@
+{
+  "id": "14595685",
+  "case_name": "Hayden v. Benchmark Insurance Company",
+  "case_name_full": "",
+  "docket_number": "3:19-cv-00154",
+  "docket_number_core": "1900154",
+  "court_id": "kywd",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1446 Breach of Contract- Insurance",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2019-03-04",
+  "date_terminated": "2019-07-12",
+  "date_last_filing": "2019-07-12",
+  "assigned_to_str": "Joseph H. McKinley, Jr",
+  "referred_to_str": "Lanny King",
+  "pacer_case_id": "111078",
+  "source": "9",
+  "slug": "hayden-v-benchmark-insurance-company",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 28,
+  "_nos_category": "insurance"
+}

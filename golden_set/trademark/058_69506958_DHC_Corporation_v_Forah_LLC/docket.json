@@ -1,0 +1,31 @@
+{
+  "id": "69506958",
+  "case_name": "DHC Corporation v. Forah, LLC",
+  "case_name_full": "",
+  "docket_number": "1:24-cv-02245",
+  "docket_number_core": "2402245",
+  "court_id": "pamd",
+  "nature_of_suit": "840 Trademark",
+  "cause": "15:1051 Trademark Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-12-27",
+  "date_terminated": "",
+  "date_last_filing": "2025-05-16",
+  "assigned_to_str": "Jennifer P. Wilson",
+  "referred_to_str": "",
+  "pacer_case_id": "144992",
+  "source": "1",
+  "slug": "dhc-corporation-v-forah-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 58,
+  "_nos_category": "trademark"
+}

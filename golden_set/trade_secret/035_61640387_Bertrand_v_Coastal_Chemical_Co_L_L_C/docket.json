@@ -1,0 +1,31 @@
+{
+  "id": "61640387",
+  "case_name": "Bertrand v. Coastal Chemical Co L L C",
+  "case_name_full": "",
+  "docket_number": "6:21-cv-04398",
+  "docket_number_core": "2104398",
+  "court_id": "lawd",
+  "nature_of_suit": "Defend Trade Secrets Act (of 2016)",
+  "cause": "18:1836(b) - Civil Action to Protect Trade Secrets",
+  "jurisdiction_type": "",
+  "date_filed": "2021-12-22",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-11",
+  "assigned_to_str": "Robert R Summerhays",
+  "referred_to_str": "David J Ayo",
+  "pacer_case_id": "186751",
+  "source": "1",
+  "slug": "bertrand-v-coastal-chemical-co-l-l-c",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 5,
+    "has_scotus": false
+  },
+  "_rank_in_category": 35,
+  "_nos_category": "trade_secret"
+}

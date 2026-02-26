@@ -1,0 +1,31 @@
+{
+  "id": "65363273",
+  "case_name": "George V Eatertainment S.A. v. Elmwood Ventures LLC",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-08047",
+  "docket_number_core": "2208047",
+  "court_id": "nysd",
+  "nature_of_suit": "Trademark",
+  "cause": "15:1114 Trademark Infringement  (Lanham Act)",
+  "jurisdiction_type": "",
+  "date_filed": "2022-09-20",
+  "date_terminated": "2023-03-08",
+  "date_last_filing": "2023-03-08",
+  "assigned_to_str": "Jennifer L. Rochon",
+  "referred_to_str": "",
+  "pacer_case_id": "586648",
+  "source": "1",
+  "slug": "george-v-eatertainment-sa-v-elmwood-ventures-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 92,
+  "_nos_category": "trademark"
+}

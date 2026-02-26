@@ -1,0 +1,31 @@
+{
+  "id": "16221858",
+  "case_name": "BBK Tobacco & Foods LLP v. Central Coast Agriculture Incorporated",
+  "case_name_full": "",
+  "docket_number": "2:19-cv-05216",
+  "docket_number_core": "1905216",
+  "court_id": "azd",
+  "nature_of_suit": "840 Property Rights: Trademark",
+  "cause": "15:1125 Trademark Infringement (Lanham Act)",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-09-18",
+  "date_terminated": "2022-07-19",
+  "date_last_filing": "2025-12-18",
+  "assigned_to_str": "Michael T. Liburdi",
+  "referred_to_str": "",
+  "pacer_case_id": "1203745",
+  "source": "9",
+  "slug": "bbk-tobacco-foods-llp-v-central-coast-agriculture-incorporated",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 14,
+    "has_scotus": false
+  },
+  "_rank_in_category": 85,
+  "_nos_category": "trademark"
+}

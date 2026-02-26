@@ -1,0 +1,31 @@
+{
+  "id": "4127080",
+  "case_name": "Drummond Company Inc v. Collingsworth",
+  "case_name_full": "",
+  "docket_number": "2:15-cv-00506",
+  "docket_number_core": "1500506",
+  "court_id": "alnd",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "18:1961 Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2015-03-27",
+  "date_terminated": "",
+  "date_last_filing": "2025-11-05",
+  "assigned_to_str": "R David Proctor",
+  "referred_to_str": "",
+  "pacer_case_id": "154711",
+  "source": "9",
+  "slug": "drummond-company-inc-v-collingsworth",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 4,
+    "has_scotus": false
+  },
+  "_rank_in_category": 13,
+  "_nos_category": "rico"
+}

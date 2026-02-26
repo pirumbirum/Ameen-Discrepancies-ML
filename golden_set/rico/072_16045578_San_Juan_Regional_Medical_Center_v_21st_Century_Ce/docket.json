@@ -1,0 +1,31 @@
+{
+  "id": "16045578",
+  "case_name": "San Juan Regional Medical Center v. 21st Century Centennial Insurance Company",
+  "case_name_full": "",
+  "docket_number": "1:19-cv-00734",
+  "docket_number_core": "1900734",
+  "court_id": "nmd",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "28:1441 Petition for Removal- Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-08-12",
+  "date_terminated": "2020-10-20",
+  "date_last_filing": "2022-07-25",
+  "assigned_to_str": "Martha Vazquez",
+  "referred_to_str": "John F. Robbenhaar",
+  "pacer_case_id": "427210",
+  "source": "9",
+  "slug": "san-juan-regional-medical-center-v-21st-century-centennial-insurance",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 72,
+  "_nos_category": "rico"
+}

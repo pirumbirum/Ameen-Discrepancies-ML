@@ -1,0 +1,31 @@
+{
+  "id": "68857849",
+  "case_name": "HBK Master Fund L.P. v. Maxlinear, Inc.",
+  "case_name_full": "",
+  "docket_number": "3:24-cv-01033",
+  "docket_number_core": "2401033",
+  "court_id": "casd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:0077 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-06-13",
+  "date_terminated": "",
+  "date_last_filing": "2025-11-07",
+  "assigned_to_str": "Cathy Ann Bencivengo",
+  "referred_to_str": "Valerie E. Torres",
+  "pacer_case_id": "787036",
+  "source": "1",
+  "slug": "hbk-master-fund-lp-v-maxlinear-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 36,
+  "_nos_category": "securities"
+}

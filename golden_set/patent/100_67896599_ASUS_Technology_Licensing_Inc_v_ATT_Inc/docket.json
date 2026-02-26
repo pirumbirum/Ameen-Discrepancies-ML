@@ -1,0 +1,31 @@
+{
+  "id": "67896599",
+  "case_name": "ASUS Technology Licensing Inc. v. AT&T Inc.",
+  "case_name_full": "",
+  "docket_number": "2:23-cv-00486",
+  "docket_number_core": "2300486",
+  "court_id": "txed",
+  "nature_of_suit": "830 Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-10-19",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-09",
+  "assigned_to_str": "Rodney Gilstrap",
+  "referred_to_str": "Roy S. Payne",
+  "pacer_case_id": "225639",
+  "source": "1",
+  "slug": "asus-technology-licensing-inc-v-att-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 100,
+  "_nos_category": "patent"
+}

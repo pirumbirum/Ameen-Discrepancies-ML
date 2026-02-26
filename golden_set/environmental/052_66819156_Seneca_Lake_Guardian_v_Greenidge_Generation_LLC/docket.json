@@ -1,0 +1,31 @@
+{
+  "id": "66819156",
+  "case_name": "Seneca Lake Guardian v. Greenidge Generation LLC",
+  "case_name_full": "",
+  "docket_number": "6:23-cv-06063",
+  "docket_number_core": "2306063",
+  "court_id": "nywd",
+  "nature_of_suit": "Environmental Matters",
+  "cause": "33:1365 Environmental Matters",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-01-24",
+  "date_terminated": "2023-08-22",
+  "date_last_filing": "2023-08-22",
+  "assigned_to_str": "Elizabeth A. Wolford",
+  "referred_to_str": "",
+  "pacer_case_id": "144185",
+  "source": "1",
+  "slug": "seneca-lake-guardian-v-greenidge-generation-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 52,
+  "_nos_category": "environmental"
+}

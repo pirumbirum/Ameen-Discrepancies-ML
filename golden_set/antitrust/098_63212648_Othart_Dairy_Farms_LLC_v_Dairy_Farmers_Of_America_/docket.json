@@ -1,0 +1,31 @@
+{
+  "id": "63212648",
+  "case_name": "Othart Dairy Farms, LLC v. Dairy Farmers Of America, Inc.",
+  "case_name_full": "",
+  "docket_number": "2:22-cv-00251",
+  "docket_number_core": "2200251",
+  "court_id": "nmd",
+  "nature_of_suit": "Antitrust",
+  "cause": "15:1 Antitrust Litigation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-04-04",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-23",
+  "assigned_to_str": "Sarah M. Davenport",
+  "referred_to_str": "Damian L. Martinez",
+  "pacer_case_id": "472627",
+  "source": "1",
+  "slug": "othart-dairy-farms-llc-v-dairy-farmers-of-america-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 5,
+    "has_scotus": false
+  },
+  "_rank_in_category": 98,
+  "_nos_category": "antitrust"
+}

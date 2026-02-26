@@ -1,0 +1,31 @@
+{
+  "id": "61588491",
+  "case_name": "Goodrich v. Cross River Bank",
+  "case_name_full": "",
+  "docket_number": "3:21-cv-09296",
+  "docket_number_core": "2109296",
+  "court_id": "cand",
+  "nature_of_suit": "430 Banks and Banking",
+  "cause": "15:1681 Fair Credit Reporting Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-12-01",
+  "date_terminated": "2024-02-02",
+  "date_last_filing": "2024-02-02",
+  "assigned_to_str": "Maxine M. Chesney",
+  "referred_to_str": "Sallie Kim",
+  "pacer_case_id": "388770",
+  "source": "1",
+  "slug": "goodrich-v-cross-river-bank",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 4,
+    "has_scotus": false
+  },
+  "_rank_in_category": 43,
+  "_nos_category": "banks"
+}

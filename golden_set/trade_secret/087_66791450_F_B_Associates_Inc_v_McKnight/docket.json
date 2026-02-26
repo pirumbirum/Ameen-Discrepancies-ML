@@ -1,0 +1,31 @@
+{
+  "id": "66791450",
+  "case_name": "F & B Associates, Inc. v. McKnight",
+  "case_name_full": "",
+  "docket_number": "3:23-cv-00222",
+  "docket_number_core": "2300222",
+  "court_id": "casd",
+  "nature_of_suit": "Defend Trade Secrets Act (of 2016)",
+  "cause": "18:1836(a) Injunction against Misappropriation of Trade Secrets",
+  "jurisdiction_type": "",
+  "date_filed": "2023-02-06",
+  "date_terminated": "2023-05-16",
+  "date_last_filing": "2023-05-16",
+  "assigned_to_str": "Cathy Ann Bencivengo",
+  "referred_to_str": "Bernard G. Skomal",
+  "pacer_case_id": "752008",
+  "source": "1",
+  "slug": "f-b-associates-inc-v-mcknight",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 87,
+  "_nos_category": "trade_secret"
+}

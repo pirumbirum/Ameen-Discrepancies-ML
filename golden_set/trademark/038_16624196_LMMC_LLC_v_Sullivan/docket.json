@@ -1,0 +1,31 @@
+{
+  "id": "16624196",
+  "case_name": "LMMC, LLC v. Sullivan",
+  "case_name_full": "",
+  "docket_number": "8:19-cv-00560",
+  "docket_number_core": "1900560",
+  "court_id": "ned",
+  "nature_of_suit": "Trademark",
+  "cause": "15:1051 Trademark Infringement",
+  "jurisdiction_type": "Federal question",
+  "date_filed": "2019-12-23",
+  "date_terminated": "",
+  "date_last_filing": "2025-03-20",
+  "assigned_to_str": "",
+  "referred_to_str": "",
+  "pacer_case_id": "86145",
+  "source": "9",
+  "slug": "lmmc-llc-v-sullivan",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 7,
+    "has_scotus": false
+  },
+  "_rank_in_category": 38,
+  "_nos_category": "trademark"
+}

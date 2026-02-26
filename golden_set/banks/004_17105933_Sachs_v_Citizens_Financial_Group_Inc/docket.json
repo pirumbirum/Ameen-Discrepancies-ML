@@ -1,0 +1,31 @@
+{
+  "id": "17105933",
+  "case_name": "Sachs v. Citizens Financial Group, Inc.",
+  "case_name_full": "",
+  "docket_number": "3:20-cv-00570",
+  "docket_number_core": "2000570",
+  "court_id": "ctd",
+  "nature_of_suit": "Banks and Banking",
+  "cause": "28:1331 Fed. Question",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-04-28",
+  "date_terminated": "2021-08-17",
+  "date_last_filing": "2021-08-17",
+  "assigned_to_str": "Janet Bond Arterton",
+  "referred_to_str": "Sarah A. L. Merriam Usmj",
+  "pacer_case_id": "139064",
+  "source": "9",
+  "slug": "sachs-v-citizens-financial-group-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 4,
+  "_nos_category": "banks"
+}

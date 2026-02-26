@@ -1,0 +1,31 @@
+{
+  "id": "18619248",
+  "case_name": "Evanina v. The First Liberty Insurance Corporation",
+  "case_name_full": "",
+  "docket_number": "3:20-cv-00751",
+  "docket_number_core": "2000751",
+  "court_id": "pamd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2020-05-07",
+  "date_terminated": "2022-12-16",
+  "date_last_filing": "2022-12-16",
+  "assigned_to_str": "Malachy E. Mannion",
+  "referred_to_str": "",
+  "pacer_case_id": "124693",
+  "source": "1",
+  "slug": "evanina-v-the-first-liberty-insurance-corporation",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 54,
+  "_nos_category": "insurance"
+}

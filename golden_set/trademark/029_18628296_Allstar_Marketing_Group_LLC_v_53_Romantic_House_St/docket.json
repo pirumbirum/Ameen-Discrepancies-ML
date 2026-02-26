@@ -1,0 +1,31 @@
+{
+  "id": "18628296",
+  "case_name": "Allstar Marketing Group, LLC v. 53 Romantic House Store",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-09072",
+  "docket_number_core": "2009072",
+  "court_id": "nysd",
+  "nature_of_suit": "Trademark",
+  "cause": "15:1051 Trademark Infringement",
+  "jurisdiction_type": "",
+  "date_filed": "2020-10-29",
+  "date_terminated": "2021-06-28",
+  "date_last_filing": "2021-10-12",
+  "assigned_to_str": "Paul A. Engelmayer",
+  "referred_to_str": "",
+  "pacer_case_id": "547259",
+  "source": "1",
+  "slug": "allstar-marketing-group-llc-v-53-romantic-house-store",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 29,
+  "_nos_category": "trademark"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "65597599",
+  "case_name": "Savvidis v. Bank of America NA",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-08982",
+  "docket_number_core": "2208982",
+  "court_id": "nysd",
+  "nature_of_suit": "Banks and Banking",
+  "cause": "28:1331 Fed. Question",
+  "jurisdiction_type": "",
+  "date_filed": "2022-10-18",
+  "date_terminated": "2022-10-31",
+  "date_last_filing": "2022-11-09",
+  "assigned_to_str": "Laura Taylor Swain",
+  "referred_to_str": "",
+  "pacer_case_id": "588181",
+  "source": "1",
+  "slug": "savvidis-v-bank-of-america-na",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 16,
+  "_nos_category": "banks"
+}

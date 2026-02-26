@@ -1,0 +1,31 @@
+{
+  "id": "63356464",
+  "case_name": "Shah v. Fortive Corporation",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-00312",
+  "docket_number_core": "2200312",
+  "court_id": "ohsd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "42:1981 Job Discrimination (Race)",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-06-02",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-01",
+  "assigned_to_str": "Jeffery P. Hopkins",
+  "referred_to_str": "",
+  "pacer_case_id": "269214",
+  "source": "1",
+  "slug": "shah-v-fortive-corporation",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 4,
+    "has_scotus": false
+  },
+  "_rank_in_category": 72,
+  "_nos_category": "other_contract"
+}

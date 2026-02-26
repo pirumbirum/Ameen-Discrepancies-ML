@@ -1,0 +1,31 @@
+{
+  "id": "6543321",
+  "case_name": "SunOpta Grains and Foods, Inc. v. JNK Tech Inc.",
+  "case_name_full": "",
+  "docket_number": "0:17-cv-01607",
+  "docket_number_core": "1701607",
+  "court_id": "mnd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2017-05-15",
+  "date_terminated": "2018-11-19",
+  "date_last_filing": "2018-11-20",
+  "assigned_to_str": "Paul A. Magnuson",
+  "referred_to_str": "Hildy Bowbeer",
+  "pacer_case_id": "164685",
+  "source": "9",
+  "slug": "sunopta-grains-and-foods-inc-v-jnk-tech-inc",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 86,
+  "_nos_category": "other_contract"
+}

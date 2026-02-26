@@ -1,0 +1,31 @@
+{
+  "id": "6512152",
+  "case_name": "Guardant Health, Inc. v. Foundation Medicine, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:17-cv-01616",
+  "docket_number_core": "1701616",
+  "court_id": "ded",
+  "nature_of_suit": "830 Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2017-11-09",
+  "date_terminated": "2022-01-06",
+  "date_last_filing": "2022-01-06",
+  "assigned_to_str": "Leonard P. Stark",
+  "referred_to_str": "Christopher J. Burke",
+  "pacer_case_id": "63680",
+  "source": "9",
+  "slug": "guardant-health-inc-v-foundation-medicine-inc",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 8,
+    "has_scotus": false
+  },
+  "_rank_in_category": 22,
+  "_nos_category": "patent"
+}

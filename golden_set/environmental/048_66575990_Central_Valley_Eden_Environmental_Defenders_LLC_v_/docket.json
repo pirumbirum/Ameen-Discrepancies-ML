@@ -1,0 +1,31 @@
+{
+  "id": "66575990",
+  "case_name": "Central Valley Eden Environmental Defenders, LLC v. Fresno Fab-Tech Inc.",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-01535",
+  "docket_number_core": "2201535",
+  "court_id": "caed",
+  "nature_of_suit": "893 Environmental Matters",
+  "cause": "33:1319 Clean Water Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-11-29",
+  "date_terminated": "2024-05-06",
+  "date_last_filing": "2024-05-06",
+  "assigned_to_str": "Sheila K. Oberto",
+  "referred_to_str": "",
+  "pacer_case_id": "420513",
+  "source": "1",
+  "slug": "central-valley-eden-environmental-defenders-llc-v-fresno-fab-tech-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 48,
+  "_nos_category": "environmental"
+}

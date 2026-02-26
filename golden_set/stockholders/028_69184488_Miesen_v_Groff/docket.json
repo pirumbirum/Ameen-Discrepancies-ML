@@ -1,0 +1,31 @@
+{
+  "id": "69184488",
+  "case_name": "Miesen v. Groff",
+  "case_name_full": "",
+  "docket_number": "1:24-cv-00188",
+  "docket_number_core": "2400188",
+  "court_id": "wyd",
+  "nature_of_suit": "Stockholders Suits",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "",
+  "date_filed": "2024-09-22",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-23",
+  "assigned_to_str": "Scott W Skavdahl",
+  "referred_to_str": "Scott P Klosterman",
+  "pacer_case_id": "68529",
+  "source": "1",
+  "slug": "miesen-v-groff",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 28,
+  "_nos_category": "stockholders"
+}

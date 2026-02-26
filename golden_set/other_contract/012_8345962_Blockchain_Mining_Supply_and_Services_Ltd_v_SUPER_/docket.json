@@ -1,0 +1,31 @@
+{
+  "id": "8345962",
+  "case_name": "Blockchain Mining Supply and Services Ltd. v. SUPER CRYPTO MINING, INC. n/k/a DIGITAL FARMS, INC. and DPW HOLDINGS, INC. n/k/a AULT ALLIANCE, INC.",
+  "case_name_full": "",
+  "docket_number": "1:18-cv-11099",
+  "docket_number_core": "1811099",
+  "court_id": "nysd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1332 Diversity Action",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2018-11-28",
+  "date_terminated": "",
+  "date_last_filing": "2025-03-20",
+  "assigned_to_str": "Andrew L. Carter, Jr",
+  "referred_to_str": "Barbara C. Moses",
+  "pacer_case_id": "505513",
+  "source": "9",
+  "slug": "blockchain-mining-supply-and-services-ltd-v-super-crypto-mining-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 12,
+  "_nos_category": "other_contract"
+}

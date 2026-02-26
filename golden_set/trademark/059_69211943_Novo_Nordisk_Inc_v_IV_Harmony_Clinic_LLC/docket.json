@@ -1,0 +1,31 @@
+{
+  "id": "69211943",
+  "case_name": "Novo Nordisk Inc. v. IV Harmony Clinic LLC",
+  "case_name_full": "",
+  "docket_number": "8:24-cv-02292",
+  "docket_number_core": "2402292",
+  "court_id": "flmd",
+  "nature_of_suit": "840 Trademark",
+  "cause": "15:1051 Trademark Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-09-30",
+  "date_terminated": "",
+  "date_last_filing": "2025-11-12",
+  "assigned_to_str": "Mary S. Scriven",
+  "referred_to_str": "Christopher P. Tuite",
+  "pacer_case_id": "432872",
+  "source": "1",
+  "slug": "novo-nordisk-inc-v-iv-harmony-clinic-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 59,
+  "_nos_category": "trademark"
+}

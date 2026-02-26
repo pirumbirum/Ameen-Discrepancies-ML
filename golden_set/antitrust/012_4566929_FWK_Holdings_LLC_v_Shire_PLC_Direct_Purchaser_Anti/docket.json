@@ -1,0 +1,31 @@
+{
+  "id": "4566929",
+  "case_name": "FWK Holdings LLC v. Shire PLC (Direct Purchaser Antitrust Class Action Complaint)",
+  "case_name_full": "",
+  "docket_number": "1:16-cv-12653",
+  "docket_number_core": "1612653",
+  "court_id": "mad",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "15:1 Antitrust Litigation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2016-12-30",
+  "date_terminated": "2024-11-07",
+  "date_last_filing": "2025-04-15",
+  "assigned_to_str": "Allison D. Burroughs",
+  "referred_to_str": "",
+  "pacer_case_id": "185950",
+  "source": "9",
+  "slug": "fwk-holdings-llc-v-shire-plc-direct-purchaser-antitrust-class-action",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 9,
+    "has_scotus": false
+  },
+  "_rank_in_category": 12,
+  "_nos_category": "antitrust"
+}

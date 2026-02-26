@@ -1,0 +1,31 @@
+{
+  "id": "8020782",
+  "case_name": "In re ALPHABET, INC. SECURITIES LITIGATION",
+  "case_name_full": "",
+  "docket_number": "3:18-cv-06245",
+  "docket_number_core": "1806245",
+  "court_id": "cand",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2018-10-11",
+  "date_terminated": "2024-12-09",
+  "date_last_filing": "2025-11-07",
+  "assigned_to_str": "Trina L. Thompson",
+  "referred_to_str": "Donna M. Ryu",
+  "pacer_case_id": "333322",
+  "source": "9",
+  "slug": "in-re-alphabet-inc-securities-litigation",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 39,
+  "_nos_category": "securities"
+}

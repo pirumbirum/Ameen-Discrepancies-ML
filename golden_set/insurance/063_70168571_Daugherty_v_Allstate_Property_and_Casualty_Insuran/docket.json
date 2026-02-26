@@ -1,0 +1,31 @@
+{
+  "id": "70168571",
+  "case_name": "Daugherty v. Allstate Property and Casualty Insurance Company",
+  "case_name_full": "",
+  "docket_number": "3:25-cv-00518",
+  "docket_number_core": "2500518",
+  "court_id": "tnmd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1441 Notice of Removal- Insurance Contract",
+  "jurisdiction_type": "",
+  "date_filed": "2025-05-06",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-05",
+  "assigned_to_str": "Waverly D. Crenshaw, Jr",
+  "referred_to_str": "Jeffery S. Frensley",
+  "pacer_case_id": "104418",
+  "source": "1",
+  "slug": "daugherty-v-allstate-property-and-casualty-insurance-company",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 63,
+  "_nos_category": "insurance"
+}

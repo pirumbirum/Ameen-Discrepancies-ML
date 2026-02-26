@@ -1,0 +1,31 @@
+{
+  "id": "8372465",
+  "case_name": "Magic Link Garment Ltd. v. ThirdLove, Inc.",
+  "case_name_full": "",
+  "docket_number": "4:18-cv-07366",
+  "docket_number_core": "1807366",
+  "court_id": "cand",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2018-12-06",
+  "date_terminated": "2020-07-21",
+  "date_last_filing": "2020-07-21",
+  "assigned_to_str": "Phyllis J. Hamilton",
+  "referred_to_str": "Kandis A. Westmore",
+  "pacer_case_id": "335667",
+  "source": "9",
+  "slug": "magic-link-garment-ltd-v-thirdlove-inc",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 45,
+  "_nos_category": "other_contract"
+}

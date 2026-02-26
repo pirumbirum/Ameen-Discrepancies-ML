@@ -1,0 +1,31 @@
+{
+  "id": "68146219",
+  "case_name": "Allstate Insurance Company v. Toshner",
+  "case_name_full": "",
+  "docket_number": "1:24-cv-00027",
+  "docket_number_core": "2400027",
+  "court_id": "txwd",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "18:1962 Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-01-09",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-16",
+  "assigned_to_str": "Robert Pitman",
+  "referred_to_str": "",
+  "pacer_case_id": "1172770754",
+  "source": "1",
+  "slug": "allstate-insurance-company-v-toshner",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 54,
+  "_nos_category": "rico"
+}

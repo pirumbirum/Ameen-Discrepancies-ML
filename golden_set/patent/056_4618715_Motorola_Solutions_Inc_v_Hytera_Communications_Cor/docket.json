@@ -1,0 +1,31 @@
+{
+  "id": "4618715",
+  "case_name": "Motorola Solutions, Inc. v. Hytera Communications Corporation Ltd.",
+  "case_name_full": "",
+  "docket_number": "1:17-cv-01972",
+  "docket_number_core": "1701972",
+  "court_id": "ilnd",
+  "nature_of_suit": "830 Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2017-03-14",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-08",
+  "assigned_to_str": "Franklin U. Valderrama",
+  "referred_to_str": "Jeannice W. Appenteng",
+  "pacer_case_id": "337680",
+  "source": "9",
+  "slug": "motorola-solutions-inc-v-hytera-communications-corporation-ltd",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 4,
+    "has_scotus": false
+  },
+  "_rank_in_category": 56,
+  "_nos_category": "patent"
+}

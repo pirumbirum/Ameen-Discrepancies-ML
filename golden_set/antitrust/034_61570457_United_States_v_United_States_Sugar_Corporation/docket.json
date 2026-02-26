@@ -1,0 +1,31 @@
+{
+  "id": "61570457",
+  "case_name": "United States v. United States Sugar Corporation",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-01644",
+  "docket_number_core": "2101644",
+  "court_id": "ded",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "15:25 Clayton Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-11-23",
+  "date_terminated": "2022-10-03",
+  "date_last_filing": "2025-01-07",
+  "assigned_to_str": "Maryellen Noreika",
+  "referred_to_str": "",
+  "pacer_case_id": "77200",
+  "source": "1",
+  "slug": "united-states-v-united-states-sugar-corporation",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 4,
+    "has_scotus": false
+  },
+  "_rank_in_category": 34,
+  "_nos_category": "antitrust"
+}

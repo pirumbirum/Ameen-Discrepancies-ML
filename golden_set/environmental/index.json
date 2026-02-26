@@ -1,0 +1,1702 @@
+[
+  {
+    "rank": 1,
+    "docket_id": "7304450",
+    "case_name": "City of West Sacramento v. R & L Business Management",
+    "court_id": "caed",
+    "date_filed": "2018-04-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 16,
+      "has_scotus": false
+    },
+    "folder": "001_7304450_City_of_West_Sacramento_v_R_L_Business_Management"
+  },
+  {
+    "rank": 2,
+    "docket_id": "8347594",
+    "case_name": "Klamath-Siskiyou Wildlands Center v. Grantham",
+    "court_id": "caed",
+    "date_filed": "2018-10-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "002_8347594_Klamath-Siskiyou_Wildlands_Center_v_Grantham"
+  },
+  {
+    "rank": 3,
+    "docket_id": "4302836",
+    "case_name": "Alliance for the Wild Rockies v. Savage",
+    "court_id": "mtd",
+    "date_filed": "2015-05-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "003_4302836_Alliance_for_the_Wild_Rockies_v_Savage"
+  },
+  {
+    "rank": 4,
+    "docket_id": "17452276",
+    "case_name": "Cascadia Wildlands v. United States Bureau of Land Management",
+    "court_id": "ord",
+    "date_filed": "2020-08-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "004_17452276_Cascadia_Wildlands_v_United_States_Bureau_of_Land_"
+  },
+  {
+    "rank": 5,
+    "docket_id": "35948973",
+    "case_name": "Demoruelle v. Rao",
+    "court_id": "hid",
+    "date_filed": "2020-04-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "005_35948973_Demoruelle_v_Rao"
+  },
+  {
+    "rank": 6,
+    "docket_id": "14587032",
+    "case_name": "Conservation Law Foundation, Inc. v. NH Fish and Game Department",
+    "court_id": "nhd",
+    "date_filed": "2018-10-31",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "006_14587032_Conservation_Law_Foundation_Inc_v_NH_Fish_and_Game"
+  },
+  {
+    "rank": 7,
+    "docket_id": "6116611",
+    "case_name": "California River Watch v. City of Vacaville",
+    "court_id": "caed",
+    "date_filed": "2017-03-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "007_6116611_California_River_Watch_v_City_of_Vacaville"
+  },
+  {
+    "rank": 8,
+    "docket_id": "42546417",
+    "case_name": "Defenders of Wildlife v. US Fish and Wildlife Service",
+    "court_id": "scd",
+    "date_filed": "2020-10-19",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "008_42546417_Defenders_of_Wildlife_v_US_Fish_and_Wildlife_Servi"
+  },
+  {
+    "rank": 9,
+    "docket_id": "16588855",
+    "case_name": "Association of Irritated Residents v. Owens-Illinois, Inc.",
+    "court_id": "caed",
+    "date_filed": "2019-12-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "009_16588855_Association_of_Irritated_Residents_v_Owens-Illinoi"
+  },
+  {
+    "rank": 10,
+    "docket_id": "65753687",
+    "case_name": "Don't Cage Our Oceans v. United States Army Corps of Engineers",
+    "court_id": "wawd",
+    "date_filed": "2022-11-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "010_65753687_Dont_Cage_Our_Oceans_v_United_States_Army_Corps_of"
+  },
+  {
+    "rank": 11,
+    "docket_id": "64452733",
+    "case_name": "United States v. Thunder Diesel & Performance Co.",
+    "court_id": "arwd",
+    "date_filed": "2022-07-28",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "011_64452733_United_States_v_Thunder_Diesel_Performance_Co"
+  },
+  {
+    "rank": 12,
+    "docket_id": "59677904",
+    "case_name": "CTI Development, LLC v. Citigroup Inc.",
+    "court_id": "ilsd",
+    "date_filed": "2021-02-23",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "012_59677904_CTI_Development_LLC_v_Citigroup_Inc"
+  },
+  {
+    "rank": 13,
+    "docket_id": "29092880",
+    "case_name": "Willamette Riverkeeper v. National Marine Fisheries Service",
+    "court_id": "ord",
+    "date_filed": "2021-01-08",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "013_29092880_Willamette_Riverkeeper_v_National_Marine_Fisheries"
+  },
+  {
+    "rank": 14,
+    "docket_id": "8384578",
+    "case_name": "ELG Utica Alloys, Inc. v. Niagara Mohawk Power Corp.",
+    "court_id": "nynd",
+    "date_filed": "2016-12-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "014_8384578_ELG_Utica_Alloys_Inc_v_Niagara_Mohawk_Power_Corp"
+  },
+  {
+    "rank": 15,
+    "docket_id": "60375047",
+    "case_name": "Slauson Super Mall, Inc. v. Broan-Nutone, LLC",
+    "court_id": "cacd",
+    "date_filed": "2021-09-09",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "015_60375047_Slauson_Super_Mall_Inc_v_Broan-Nutone_LLC"
+  },
+  {
+    "rank": 16,
+    "docket_id": "29977836",
+    "case_name": "United States v. Petroff Trucking Co",
+    "court_id": "ilsd",
+    "date_filed": "2020-09-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "016_29977836_United_States_v_Petroff_Trucking_Co"
+  },
+  {
+    "rank": 17,
+    "docket_id": "15984283",
+    "case_name": "Save Our Springs Alliance, Inc. v. Texas Department of Transportation",
+    "court_id": "txwd",
+    "date_filed": "2019-07-29",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "017_15984283_Save_Our_Springs_Alliance_Inc_v_Texas_Department_o"
+  },
+  {
+    "rank": 18,
+    "docket_id": "16877231",
+    "case_name": "Californians for Alternatives to Toxics v. Kernen Construction Co.",
+    "court_id": "cand",
+    "date_filed": "2020-02-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "018_16877231_Californians_for_Alternatives_to_Toxics_v_Kernen_C"
+  },
+  {
+    "rank": 19,
+    "docket_id": "69746811",
+    "case_name": "Cascadia Wildlands v. Eugene Water & Electric Board",
+    "court_id": "ord",
+    "date_filed": "2025-03-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "019_69746811_Cascadia_Wildlands_v_Eugene_Water_Electric_Board"
+  },
+  {
+    "rank": 20,
+    "docket_id": "59866812",
+    "case_name": "United States v. Holcim (US) Inc.",
+    "court_id": "nynd",
+    "date_filed": "2021-04-28",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "020_59866812_United_States_v_Holcim_US_Inc"
+  },
+  {
+    "rank": 21,
+    "docket_id": "69311769",
+    "case_name": "Mayor and City Council of Ocean City, Maryland v. United States Department of the Interior",
+    "court_id": "mdd",
+    "date_filed": "2024-10-25",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "021_69311769_Mayor_and_City_Council_of_Ocean_City_Maryland_v_Un"
+  },
+  {
+    "rank": 22,
+    "docket_id": "7344905",
+    "case_name": "BKK Working Group v. 1700 Santa Fe Ltd",
+    "court_id": "cacd",
+    "date_filed": "2018-07-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "022_7344905_BKK_Working_Group_v_1700_Santa_Fe_Ltd"
+  },
+  {
+    "rank": 23,
+    "docket_id": "16818477",
+    "case_name": "Pacific Resources Associates LLC v. Suzy Cleaners",
+    "court_id": "casd",
+    "date_filed": "2020-02-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 7,
+      "has_scotus": false
+    },
+    "folder": "023_16818477_Pacific_Resources_Associates_LLC_v_Suzy_Cleaners"
+  },
+  {
+    "rank": 24,
+    "docket_id": "7966512",
+    "case_name": "The Blackstone Headwaters Coalition, Inc. v. Gallo Builders, Inc.",
+    "court_id": "mad",
+    "date_filed": "2016-05-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 6,
+      "has_scotus": false
+    },
+    "folder": "024_7966512_The_Blackstone_Headwaters_Coalition_Inc_v_Gallo_Bu"
+  },
+  {
+    "rank": 25,
+    "docket_id": "69052919",
+    "case_name": "Oceana, Inc. v. National Marine Fisheries Service",
+    "court_id": "akd",
+    "date_filed": "2024-08-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "025_69052919_Oceana_Inc_v_National_Marine_Fisheries_Service"
+  },
+  {
+    "rank": 26,
+    "docket_id": "60072464",
+    "case_name": "Centreville Citizens for Change v. City of Cahokia Heights",
+    "court_id": "ilsd",
+    "date_filed": "2021-07-20",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "026_60072464_Centreville_Citizens_for_Change_v_City_of_Cahokia_"
+  },
+  {
+    "rank": 27,
+    "docket_id": "68334040",
+    "case_name": "Center for Biological Diversity v. United States Bureau of Land Management",
+    "court_id": "azd",
+    "date_filed": "2024-03-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "027_68334040_Center_for_Biological_Diversity_v_United_States_Bu"
+  },
+  {
+    "rank": 28,
+    "docket_id": "66704193",
+    "case_name": "BFI WASTE SYSTEMS OF NEW JERSEY, INC. v. TOWNSHIP OF MONROE, MIDDLESEX COUNTY, NEW JERSEY",
+    "court_id": "njd",
+    "date_filed": "2023-01-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "028_66704193_BFI_WASTE_SYSTEMS_OF_NEW_JERSEY_INC_v_TOWNSHIP_OF_"
+  },
+  {
+    "rank": 29,
+    "docket_id": "15885491",
+    "case_name": "NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION v. E.I. DU PONT DE NEMOURS AND COMPANY",
+    "court_id": "njd",
+    "date_filed": "2019-07-05",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 5,
+      "has_scotus": false
+    },
+    "folder": "029_15885491_NEW_JERSEY_DEPARTMENT_OF_ENVIRONMENTAL_PROTECTION_"
+  },
+  {
+    "rank": 30,
+    "docket_id": "65352891",
+    "case_name": "Kentucky Heartwood, Inc. v. Moore",
+    "court_id": "kyed",
+    "date_filed": "2022-09-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "030_65352891_Kentucky_Heartwood_Inc_v_Moore"
+  },
+  {
+    "rank": 31,
+    "docket_id": "6122174",
+    "case_name": "101 Frost Street Associates, L.P. v. United States Atomic Energy Commission",
+    "court_id": "nyed",
+    "date_filed": "2017-06-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "031_6122174_101_Frost_Street_Associates_LP_v_United_States_Ato"
+  },
+  {
+    "rank": 32,
+    "docket_id": "65344000",
+    "case_name": "Center for Biological Diversity v. Moore",
+    "court_id": "azd",
+    "date_filed": "2022-09-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "032_65344000_Center_for_Biological_Diversity_v_Moore"
+  },
+  {
+    "rank": 33,
+    "docket_id": "65598944",
+    "case_name": "Black Warrior Riverkeeper Inc v. Warrior Met Coal Mining LLC",
+    "court_id": "alnd",
+    "date_filed": "2022-09-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "033_65598944_Black_Warrior_Riverkeeper_Inc_v_Warrior_Met_Coal_M"
+  },
+  {
+    "rank": 34,
+    "docket_id": "60013365",
+    "case_name": "Shirley v. Limetree Bay Ventures, LLC",
+    "court_id": "vid",
+    "date_filed": "2021-06-24",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "034_60013365_Shirley_v_Limetree_Bay_Ventures_LLC"
+  },
+  {
+    "rank": 35,
+    "docket_id": "59247337",
+    "case_name": "Bartell Ranch LLC v. McCullough",
+    "court_id": "nvd",
+    "date_filed": "2021-02-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 17,
+      "has_scotus": false
+    },
+    "folder": "035_59247337_Bartell_Ranch_LLC_v_McCullough"
+  },
+  {
+    "rank": 36,
+    "docket_id": "8409865",
+    "case_name": "United States v. R.M. Packer Company, Inc.",
+    "court_id": "mad",
+    "date_filed": "2016-04-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "036_8409865_United_States_v_RM_Packer_Company_Inc"
+  },
+  {
+    "rank": 37,
+    "docket_id": "7551524",
+    "case_name": "Northwest Environmental Defense Center v. U.S. Army Corps of Engineers",
+    "court_id": "ord",
+    "date_filed": "2018-03-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "037_7551524_Northwest_Environmental_Defense_Center_v_US_Army_C"
+  },
+  {
+    "rank": 38,
+    "docket_id": "63318060",
+    "case_name": "United States v. The State of Alaska",
+    "court_id": "akd",
+    "date_filed": "2022-05-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 5,
+      "has_scotus": false
+    },
+    "folder": "038_63318060_United_States_v_The_State_of_Alaska"
+  },
+  {
+    "rank": 39,
+    "docket_id": "68271665",
+    "case_name": "United States v. JR Simplot Company",
+    "court_id": "idd",
+    "date_filed": "2023-07-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "039_68271665_United_States_v_JR_Simplot_Company"
+  },
+  {
+    "rank": 40,
+    "docket_id": "48098273",
+    "case_name": "Tahoe Regional Planning Agency v. Mountain Addiction, LLC",
+    "court_id": "caed",
+    "date_filed": "2020-05-08",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "040_48098273_Tahoe_Regional_Planning_Agency_v_Mountain_Addictio"
+  },
+  {
+    "rank": 41,
+    "docket_id": "67561577",
+    "case_name": "SCHREIBER v. KEY",
+    "court_id": "gamd",
+    "date_filed": "2023-05-09",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "041_67561577_SCHREIBER_v_KEY"
+  },
+  {
+    "rank": 42,
+    "docket_id": "6664921",
+    "case_name": "BRG HARRISON LOFTS URBAN RENEWAL LLC v. GENERAL ELECTRIC COMPANY",
+    "court_id": "njd",
+    "date_filed": "2016-10-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "042_6664921_BRG_HARRISON_LOFTS_URBAN_RENEWAL_LLC_v_GENERAL_ELE"
+  },
+  {
+    "rank": 43,
+    "docket_id": "60692704",
+    "case_name": "Northwest Environmental Advocates v. United State National Marine Fisheries Service (NMFS)",
+    "court_id": "ord",
+    "date_filed": "2021-11-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "043_60692704_Northwest_Environmental_Advocates_v_United_State_N"
+  },
+  {
+    "rank": 44,
+    "docket_id": "18637888",
+    "case_name": "CA Coastkeeper Alliance v. Cosumnes Corp.",
+    "court_id": "caed",
+    "date_filed": "2020-08-25",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 5,
+      "has_scotus": false
+    },
+    "folder": "044_18637888_CA_Coastkeeper_Alliance_v_Cosumnes_Corp"
+  },
+  {
+    "rank": 45,
+    "docket_id": "59833414",
+    "case_name": "United States v. Boulder Mansion LLC",
+    "court_id": "cod",
+    "date_filed": "2021-04-19",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "045_59833414_United_States_v_Boulder_Mansion_LLC"
+  },
+  {
+    "rank": 46,
+    "docket_id": "68035647",
+    "case_name": "Burgess v. Alternative Sierra Investments, LLC",
+    "court_id": "caed",
+    "date_filed": "2023-11-24",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 5,
+      "has_scotus": false
+    },
+    "folder": "046_68035647_Burgess_v_Alternative_Sierra_Investments_LLC"
+  },
+  {
+    "rank": 47,
+    "docket_id": "68094428",
+    "case_name": "LEAD BE GONE v. GOLDEN PHEASANT SPORTSMEN",
+    "court_id": "pawd",
+    "date_filed": "2023-12-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "047_68094428_LEAD_BE_GONE_v_GOLDEN_PHEASANT_SPORTSMEN"
+  },
+  {
+    "rank": 48,
+    "docket_id": "66575990",
+    "case_name": "Central Valley Eden Environmental Defenders, LLC v. Fresno Fab-Tech Inc.",
+    "court_id": "caed",
+    "date_filed": "2022-11-29",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "048_66575990_Central_Valley_Eden_Environmental_Defenders_LLC_v_"
+  },
+  {
+    "rank": 49,
+    "docket_id": "70064753",
+    "case_name": "Los Angeles Waterkeeper v. Saint-Gobain North America",
+    "court_id": "cacd",
+    "date_filed": "2025-05-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "049_70064753_Los_Angeles_Waterkeeper_v_Saint-Gobain_North_Ameri"
+  },
+  {
+    "rank": 50,
+    "docket_id": "69477851",
+    "case_name": "Central Valley Eden Environmental Defenders, LLC v. Airgas USA, LLC",
+    "court_id": "caed",
+    "date_filed": "2024-12-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "050_69477851_Central_Valley_Eden_Environmental_Defenders_LLC_v_"
+  },
+  {
+    "rank": 51,
+    "docket_id": "66573393",
+    "case_name": "Central Valley Eden Environmental Defenders, LLC v. Recyco, Inc.",
+    "court_id": "caed",
+    "date_filed": "2022-11-28",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "051_66573393_Central_Valley_Eden_Environmental_Defenders_LLC_v_"
+  },
+  {
+    "rank": 52,
+    "docket_id": "66819156",
+    "case_name": "Seneca Lake Guardian v. Greenidge Generation LLC",
+    "court_id": "nywd",
+    "date_filed": "2023-01-24",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "052_66819156_Seneca_Lake_Guardian_v_Greenidge_Generation_LLC"
+  },
+  {
+    "rank": 53,
+    "docket_id": "66795503",
+    "case_name": "Center for Biological Diversity v. U.S. Department of the Interior",
+    "court_id": "flsd",
+    "date_filed": "2023-02-08",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "053_66795503_Center_for_Biological_Diversity_v_US_Department_of"
+  },
+  {
+    "rank": 54,
+    "docket_id": "67007094",
+    "case_name": "Sovereign Inupiat for a Living Arctic v. Bureau of Land Management",
+    "court_id": "akd",
+    "date_filed": "2023-03-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "054_67007094_Sovereign_Inupiat_for_a_Living_Arctic_v_Bureau_of_"
+  },
+  {
+    "rank": 55,
+    "docket_id": "66926139",
+    "case_name": "Gallatin Wildlife Association v. Olson",
+    "court_id": "mtd",
+    "date_filed": "2023-03-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "055_66926139_Gallatin_Wildlife_Association_v_Olson"
+  },
+  {
+    "rank": 56,
+    "docket_id": "67140705",
+    "case_name": "Blue Water Baltimore, Inc. v. Fleischmann's Vinegar Company, Inc.",
+    "court_id": "mdd",
+    "date_filed": "2023-04-04",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "056_67140705_Blue_Water_Baltimore_Inc_v_Fleischmanns_Vinegar_Co"
+  },
+  {
+    "rank": 57,
+    "docket_id": "66576017",
+    "case_name": "United States v. Container Life Cycle Management LLC",
+    "court_id": "wied",
+    "date_filed": "2022-11-30",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "057_66576017_United_States_v_Container_Life_Cycle_Management_LL"
+  },
+  {
+    "rank": 58,
+    "docket_id": "68897465",
+    "case_name": "Greenaction for Health and Environmental Justice v. United States Department of the Navy",
+    "court_id": "cand",
+    "date_filed": "2024-06-28",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "058_68897465_Greenaction_for_Health_and_Environmental_Justice_v"
+  },
+  {
+    "rank": 59,
+    "docket_id": "61595545",
+    "case_name": "Center for Biological Diversity v. Little",
+    "court_id": "idd",
+    "date_filed": "2021-12-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "059_61595545_Center_for_Biological_Diversity_v_Little"
+  },
+  {
+    "rank": 60,
+    "docket_id": "61597871",
+    "case_name": "Chesapeake Bay Foundation Inc. v. County Of Henrico",
+    "court_id": "vaed",
+    "date_filed": "2021-12-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "060_61597871_Chesapeake_Bay_Foundation_Inc_v_County_Of_Henrico"
+  },
+  {
+    "rank": 61,
+    "docket_id": "61640183",
+    "case_name": "Ragsdale v. JLM Construction Services, Inc.",
+    "court_id": "txwd",
+    "date_filed": "2021-12-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "061_61640183_Ragsdale_v_JLM_Construction_Services_Inc"
+  },
+  {
+    "rank": 62,
+    "docket_id": "4582027",
+    "case_name": "State of Indiana v. City of Gary",
+    "court_id": "innd",
+    "date_filed": "2016-12-12",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "062_4582027_State_of_Indiana_v_City_of_Gary"
+  },
+  {
+    "rank": 63,
+    "docket_id": "69269037",
+    "case_name": "Tahoe Regional Planning Agency v. Reziapkine",
+    "court_id": "caed",
+    "date_filed": "2024-10-16",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "063_69269037_Tahoe_Regional_Planning_Agency_v_Reziapkine"
+  },
+  {
+    "rank": 64,
+    "docket_id": "61602392",
+    "case_name": "Columbia Riverkeeper v. United States Army Corps of Engineers",
+    "court_id": "waed",
+    "date_filed": "2021-12-08",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "064_61602392_Columbia_Riverkeeper_v_United_States_Army_Corps_of"
+  },
+  {
+    "rank": 65,
+    "docket_id": "69868052",
+    "case_name": "United States v. Deep River Landing LLC",
+    "court_id": "wawd",
+    "date_filed": "2025-04-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "065_69868052_United_States_v_Deep_River_Landing_LLC"
+  },
+  {
+    "rank": 66,
+    "docket_id": "64984481",
+    "case_name": "Cascadia Wildlands v. Adcock",
+    "court_id": "ord",
+    "date_filed": "2022-09-08",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "066_64984481_Cascadia_Wildlands_v_Adcock"
+  },
+  {
+    "rank": 67,
+    "docket_id": "67811318",
+    "case_name": "Center for Biological Diversity v. U.S. Forest Service",
+    "court_id": "mtd",
+    "date_filed": "2023-09-20",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "067_67811318_Center_for_Biological_Diversity_v_US_Forest_Servic"
+  },
+  {
+    "rank": 68,
+    "docket_id": "68455879",
+    "case_name": "Eagle Star Rock Products LLC v. PCC Structurals, Inc.",
+    "court_id": "ord",
+    "date_filed": "2024-04-19",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "068_68455879_Eagle_Star_Rock_Products_LLC_v_PCC_Structurals_Inc"
+  },
+  {
+    "rank": 69,
+    "docket_id": "60092733",
+    "case_name": "Crescent Mine, LLC v. Bunker Hill Mining Corporation",
+    "court_id": "idd",
+    "date_filed": "2021-07-28",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "069_60092733_Crescent_Mine_LLC_v_Bunker_Hill_Mining_Corporation"
+  },
+  {
+    "rank": 70,
+    "docket_id": "68220742",
+    "case_name": "Strebel v. Scoular",
+    "court_id": "ilnd",
+    "date_filed": "2024-02-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "070_68220742_Strebel_v_Scoular"
+  },
+  {
+    "rank": 71,
+    "docket_id": "6089799",
+    "case_name": "Utah Physicians for a Healthy Environment v. DIESELSellerz.com",
+    "court_id": "utd",
+    "date_filed": "2017-01-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 8,
+      "has_scotus": false
+    },
+    "folder": "071_6089799_Utah_Physicians_for_a_Healthy_Environment_v_DIESEL"
+  },
+  {
+    "rank": 72,
+    "docket_id": "63598805",
+    "case_name": "Utah Physicians for a Healthy Environment v. Harley-Davidson of Salt Lake City",
+    "court_id": "utd",
+    "date_filed": "2022-07-18",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "072_63598805_Utah_Physicians_for_a_Healthy_Environment_v_Harley"
+  },
+  {
+    "rank": 73,
+    "docket_id": "70563287",
+    "case_name": "Alliance for the Wild Rockies v. U.S. Department of the Interior",
+    "court_id": "mtd",
+    "date_filed": "2025-06-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "073_70563287_Alliance_for_the_Wild_Rockies_v_US_Department_of_t"
+  },
+  {
+    "rank": 74,
+    "docket_id": "63383286",
+    "case_name": "Wai Ola Alliance v. United States Department of the Navy",
+    "court_id": "hid",
+    "date_filed": "2022-06-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "074_63383286_Wai_Ola_Alliance_v_United_States_Department_of_the"
+  },
+  {
+    "rank": 75,
+    "docket_id": "67980801",
+    "case_name": "Magnate, LLC v. United States Environmental Protection Agency",
+    "court_id": "vawd",
+    "date_filed": "2023-11-05",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "075_67980801_Magnate_LLC_v_United_States_Environmental_Protecti"
+  },
+  {
+    "rank": 76,
+    "docket_id": "67094510",
+    "case_name": "United States v. City of San Diego",
+    "court_id": "casd",
+    "date_filed": "2023-03-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "076_67094510_United_States_v_City_of_San_Diego"
+  },
+  {
+    "rank": 77,
+    "docket_id": "61598622",
+    "case_name": "Northwest Environmental Advocates v. United States Environmental Protection Agency",
+    "court_id": "wawd",
+    "date_filed": "2021-12-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "077_61598622_Northwest_Environmental_Advocates_v_United_States_"
+  },
+  {
+    "rank": 78,
+    "docket_id": "68291246",
+    "case_name": "Pearson v. Port of Morrow",
+    "court_id": "ord",
+    "date_filed": "2024-02-28",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "078_68291246_Pearson_v_Port_of_Morrow"
+  },
+  {
+    "rank": 79,
+    "docket_id": "16827622",
+    "case_name": "Department of Toxic Substances Control v. Lisa Marie Rossi, an individual",
+    "court_id": "cand",
+    "date_filed": "2020-02-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "079_16827622_Department_of_Toxic_Substances_Control_v_Lisa_Mari"
+  },
+  {
+    "rank": 80,
+    "docket_id": "68181217",
+    "case_name": "Harrison County, Mississippi v. U.S. Army Corps of Engineers",
+    "court_id": "mssd",
+    "date_filed": "2024-01-22",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "080_68181217_Harrison_County_Mississippi_v_US_Army_Corps_of_Eng"
+  },
+  {
+    "rank": 81,
+    "docket_id": "67875359",
+    "case_name": "Grinnell v. United States Environmental Protection Agency",
+    "court_id": "nynd",
+    "date_filed": "2023-10-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "081_67875359_Grinnell_v_United_States_Environmental_Protection_"
+  },
+  {
+    "rank": 82,
+    "docket_id": "67183848",
+    "case_name": "Lea-Max Corporation v. Phillips North America LLC and Gould Electronics, Inc.",
+    "court_id": "innd",
+    "date_filed": "2023-04-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "082_67183848_Lea-Max_Corporation_v_Phillips_North_America_LLC_a"
+  },
+  {
+    "rank": 83,
+    "docket_id": "7258264",
+    "case_name": "George Torres v. Harold Igdaloff",
+    "court_id": "cacd",
+    "date_filed": "2017-05-31",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "083_7258264_George_Torres_v_Harold_Igdaloff"
+  },
+  {
+    "rank": 84,
+    "docket_id": "65360429",
+    "case_name": "GUNN v. META PLATFORMS INC",
+    "court_id": "gamd",
+    "date_filed": "2022-07-07",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 3,
+      "has_scotus": false
+    },
+    "folder": "084_65360429_GUNN_v_META_PLATFORMS_INC"
+  },
+  {
+    "rank": 85,
+    "docket_id": "59241388",
+    "case_name": "Courtland Company, Inc. v. Union Carbide Corporation (Courtland III)",
+    "court_id": "wvsd",
+    "date_filed": "2021-02-09",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 6,
+      "has_scotus": false
+    },
+    "folder": "085_59241388_Courtland_Company_Inc_v_Union_Carbide_Corporation_"
+  },
+  {
+    "rank": 86,
+    "docket_id": "15802583",
+    "case_name": "Black Warrior River-Keeper Inc v. US Environmental Protection Agency",
+    "court_id": "alnd",
+    "date_filed": "2019-02-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "086_15802583_Black_Warrior_River-Keeper_Inc_v_US_Environmental_"
+  },
+  {
+    "rank": 87,
+    "docket_id": "16470905",
+    "case_name": "San Francisco Baykeeper v. Air Products & Chemicals Inc.",
+    "court_id": "cand",
+    "date_filed": "2019-11-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "087_16470905_San_Francisco_Baykeeper_v_Air_Products_Chemicals_I"
+  },
+  {
+    "rank": 88,
+    "docket_id": "4580679",
+    "case_name": "Friends of the River v. National Marine Fisheries Service",
+    "court_id": "caed",
+    "date_filed": "2016-04-20",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "088_4580679_Friends_of_the_River_v_National_Marine_Fisheries_S"
+  },
+  {
+    "rank": 89,
+    "docket_id": "8083370",
+    "case_name": "Fresh Air for the Eastside, Inc. v. Waste Management of New York, L.L.C.",
+    "court_id": "nywd",
+    "date_filed": "2018-08-14",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 8,
+      "has_scotus": false
+    },
+    "folder": "089_8083370_Fresh_Air_for_the_Eastside_Inc_v_Waste_Management_"
+  },
+  {
+    "rank": 90,
+    "docket_id": "17507622",
+    "case_name": "United States v. Bayley",
+    "court_id": "wawd",
+    "date_filed": "2020-08-27",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 8,
+      "has_scotus": false
+    },
+    "folder": "090_17507622_United_States_v_Bayley"
+  },
+  {
+    "rank": 91,
+    "docket_id": "60936288",
+    "case_name": "Braziel v. Whitmer",
+    "court_id": "miwd",
+    "date_filed": "2021-11-10",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "091_60936288_Braziel_v_Whitmer"
+  },
+  {
+    "rank": 92,
+    "docket_id": "8095616",
+    "case_name": "South Side Quarry, LLC v. Metropolitan Sewer District",
+    "court_id": "kywd",
+    "date_filed": "2018-10-26",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "092_8095616_South_Side_Quarry_LLC_v_Metropolitan_Sewer_Distric"
+  },
+  {
+    "rank": 93,
+    "docket_id": "66674855",
+    "case_name": "Cook Inletkeeper v. U.S. Department of the Interior",
+    "court_id": "akd",
+    "date_filed": "2022-12-21",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "093_66674855_Cook_Inletkeeper_v_US_Department_of_the_Interior"
+  },
+  {
+    "rank": 94,
+    "docket_id": "66782369",
+    "case_name": "4900 Morse Land Trust v. Occidental Petroleum Corporation",
+    "court_id": "innd",
+    "date_filed": "2023-02-02",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "094_66782369_4900_Morse_Land_Trust_v_Occidental_Petroleum_Corpo"
+  },
+  {
+    "rank": 95,
+    "docket_id": "68154643",
+    "case_name": "Alliance for the Wild Rockies v. Vilsack",
+    "court_id": "mtd",
+    "date_filed": "2024-01-11",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "095_68154643_Alliance_for_the_Wild_Rockies_v_Vilsack"
+  },
+  {
+    "rank": 96,
+    "docket_id": "67630985",
+    "case_name": "United States v. Abbott",
+    "court_id": "txwd",
+    "date_filed": "2023-07-24",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "096_67630985_United_States_v_Abbott"
+  },
+  {
+    "rank": 97,
+    "docket_id": "69556279",
+    "case_name": "Wild Salmon Rivers v. National Marine Fisheries Service",
+    "court_id": "wawd",
+    "date_filed": "2025-01-17",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 1,
+      "has_scotus": false
+    },
+    "folder": "097_69556279_Wild_Salmon_Rivers_v_National_Marine_Fisheries_Ser"
+  },
+  {
+    "rank": 98,
+    "docket_id": "67988717",
+    "case_name": "Institute for Fisheries Resources v. Bridgestone Americas, Inc.",
+    "court_id": "cand",
+    "date_filed": "2023-11-08",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 2,
+      "has_scotus": false
+    },
+    "folder": "098_67988717_Institute_for_Fisheries_Resources_v_Bridgestone_Am"
+  },
+  {
+    "rank": 99,
+    "docket_id": "6089977",
+    "case_name": "Premcor Refining Group, Inc v. Apex Oil Company, Inc.",
+    "court_id": "ilsd",
+    "date_filed": "2017-07-13",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 8,
+      "has_scotus": false
+    },
+    "folder": "099_6089977_Premcor_Refining_Group_Inc_v_Apex_Oil_Company_Inc"
+  },
+  {
+    "rank": 100,
+    "docket_id": "66705073",
+    "case_name": "United States v. White",
+    "court_id": "nced",
+    "date_filed": "2023-01-06",
+    "score": 0,
+    "score_details": {
+      "score": 0,
+      "published_opinions": 0,
+      "unpublished_opinions": 0,
+      "total_citations": 0,
+      "total_clusters": 4,
+      "has_scotus": false
+    },
+    "folder": "100_66705073_United_States_v_White"
+  }
+]

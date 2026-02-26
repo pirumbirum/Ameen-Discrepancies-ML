@@ -1,0 +1,31 @@
+{
+  "id": "59819954",
+  "case_name": "BearBox LLC v. Lancium LLC",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-00534",
+  "docket_number_core": "2100534",
+  "court_id": "ded",
+  "nature_of_suit": "Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-04-14",
+  "date_terminated": "2023-04-05",
+  "date_last_filing": "2025-03-06",
+  "assigned_to_str": "Gregory B. Williams",
+  "referred_to_str": "Christopher J. Burke",
+  "pacer_case_id": "75178",
+  "source": "1",
+  "slug": "bearbox-llc-v-lancium-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 3,
+    "has_scotus": false
+  },
+  "_rank_in_category": 78,
+  "_nos_category": "patent"
+}

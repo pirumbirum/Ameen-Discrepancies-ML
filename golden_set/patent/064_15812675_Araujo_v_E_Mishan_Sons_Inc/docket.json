@@ -1,0 +1,31 @@
+{
+  "id": "15812675",
+  "case_name": "Araujo v. E. Mishan & Sons, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:19-cv-05785",
+  "docket_number_core": "1905785",
+  "court_id": "nysd",
+  "nature_of_suit": "Patent",
+  "cause": "28:1331 Fed. Question",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-06-20",
+  "date_terminated": "2022-10-24",
+  "date_last_filing": "2022-10-24",
+  "assigned_to_str": "John P. Cronan",
+  "referred_to_str": "Sarah Netburn",
+  "pacer_case_id": "517980",
+  "source": "9",
+  "slug": "araujo-v-e-mishan-sons-inc",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 3,
+    "has_scotus": false
+  },
+  "_rank_in_category": 64,
+  "_nos_category": "patent"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "17310702",
+  "case_name": "Splunk Inc. v. Deutsche Telekom AG",
+  "case_name_full": "",
+  "docket_number": "3:20-cv-04377",
+  "docket_number_core": "2004377",
+  "court_id": "cand",
+  "nature_of_suit": "840 Trademark",
+  "cause": "15:1121 Trademark Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-06-30",
+  "date_terminated": "2021-08-13",
+  "date_last_filing": "2021-08-13",
+  "assigned_to_str": "James Donato",
+  "referred_to_str": "",
+  "pacer_case_id": "361782",
+  "source": "9",
+  "slug": "splunk-inc-v-deutsche-telekom-ag",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 19,
+  "_nos_category": "trademark"
+}

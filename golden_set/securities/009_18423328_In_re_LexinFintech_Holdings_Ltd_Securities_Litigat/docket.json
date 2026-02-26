@@ -1,0 +1,31 @@
+{
+  "id": "18423328",
+  "case_name": "In re LexinFintech Holdings Ltd. Securities Litigation",
+  "case_name_full": "",
+  "docket_number": "3:20-cv-01562",
+  "docket_number_core": "2001562",
+  "court_id": "ord",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-09-09",
+  "date_terminated": "2021-12-28",
+  "date_last_filing": "2022-02-22",
+  "assigned_to_str": "Michael H. Simon",
+  "referred_to_str": "",
+  "pacer_case_id": "155085",
+  "source": "1",
+  "slug": "in-re-lexinfintech-holdings-ltd-securities-litigation",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 9,
+  "_nos_category": "securities"
+}

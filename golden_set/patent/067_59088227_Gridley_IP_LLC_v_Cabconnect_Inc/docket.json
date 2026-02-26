@@ -1,0 +1,31 @@
+{
+  "id": "59088227",
+  "case_name": "Gridley IP LLC v. Cabconnect, Inc.",
+  "case_name_full": "",
+  "docket_number": "8:21-cv-00265",
+  "docket_number_core": "2100265",
+  "court_id": "flmd",
+  "nature_of_suit": "Patent",
+  "cause": "15:1126 Patent Infringement",
+  "jurisdiction_type": "",
+  "date_filed": "2021-02-03",
+  "date_terminated": "2021-08-18",
+  "date_last_filing": "2021-08-18",
+  "assigned_to_str": "Charlene Edwards Honeywell",
+  "referred_to_str": "Anthony E. Porcelli",
+  "pacer_case_id": "386406",
+  "source": "1",
+  "slug": "gridley-ip-llc-v-cabconnect-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 67,
+  "_nos_category": "patent"
+}

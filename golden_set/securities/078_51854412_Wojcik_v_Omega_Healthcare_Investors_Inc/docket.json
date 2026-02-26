@@ -1,0 +1,31 @@
+{
+  "id": "51854412",
+  "case_name": "Wojcik v. Omega Healthcare Investors, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-03491",
+  "docket_number_core": "2003491",
+  "court_id": "mdd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-12-01",
+  "date_terminated": "2024-08-08",
+  "date_last_filing": "2024-08-08",
+  "assigned_to_str": "James K. Bredar",
+  "referred_to_str": "",
+  "pacer_case_id": "487603",
+  "source": "1",
+  "slug": "wojcik-v-omega-healthcare-investors-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 78,
+  "_nos_category": "securities"
+}

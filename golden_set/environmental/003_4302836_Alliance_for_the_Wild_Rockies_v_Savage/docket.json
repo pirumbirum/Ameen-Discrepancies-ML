@@ -1,0 +1,31 @@
+{
+  "id": "4302836",
+  "case_name": "Alliance for the Wild Rockies v. Savage",
+  "case_name_full": "",
+  "docket_number": "9:15-cv-00054",
+  "docket_number_core": "1500054",
+  "court_id": "mtd",
+  "nature_of_suit": "893 Environmental Matters",
+  "cause": "05:0701 Maritime Subsidy Board",
+  "jurisdiction_type": "U.S. Government Defendant",
+  "date_filed": "2015-05-11",
+  "date_terminated": "2016-07-19",
+  "date_last_filing": "2025-11-05",
+  "assigned_to_str": "",
+  "referred_to_str": "",
+  "pacer_case_id": "48537",
+  "source": "9",
+  "slug": "alliance-for-the-wild-rockies-v-savage",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 3,
+  "_nos_category": "environmental"
+}

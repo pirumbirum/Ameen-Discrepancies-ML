@@ -1,0 +1,31 @@
+{
+  "id": "2046720",
+  "case_name": "Northstar Financial Advisors, Inc. v. Schwab Investments",
+  "case_name_full": "",
+  "docket_number": "Case 08-CV-04119 LHK",
+  "docket_number_core": "0804119",
+  "court_id": "cand",
+  "nature_of_suit": "850 Securities, Commodities, Exchange",
+  "cause": "",
+  "jurisdiction_type": "Federal question",
+  "date_filed": "2015-03-09",
+  "date_terminated": "2016-02-23",
+  "date_last_filing": "",
+  "assigned_to_str": "",
+  "referred_to_str": "",
+  "pacer_case_id": "",
+  "source": "24",
+  "slug": "northstar-financial-advisors-inc-v-schwab-investments",
+  "federal_dn_case_type": "",
+  "_score": 60,
+  "_score_details": {
+    "score": 60,
+    "published_opinions": 1,
+    "unpublished_opinions": 0,
+    "total_citations": 10,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 1,
+  "_nos_category": "securities"
+}

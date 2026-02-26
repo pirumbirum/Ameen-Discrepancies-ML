@@ -1,0 +1,31 @@
+{
+  "id": "69267890",
+  "case_name": "Morrissey v. A&E Television Networks, LLC",
+  "case_name_full": "",
+  "docket_number": "1:24-cv-07856",
+  "docket_number_core": "2407856",
+  "court_id": "nysd",
+  "nature_of_suit": "840 Trademark",
+  "cause": "15:1125la Trademark Infringement (Lanham Act)",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-10-16",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-09",
+  "assigned_to_str": "Ronnie Abrams",
+  "referred_to_str": "Stewart D. Aaron",
+  "pacer_case_id": "630044",
+  "source": "1",
+  "slug": "morrissey-v-ae-television-networks-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 4,
+    "has_scotus": false
+  },
+  "_rank_in_category": 76,
+  "_nos_category": "trademark"
+}

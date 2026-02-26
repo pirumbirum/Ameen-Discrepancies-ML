@@ -1,0 +1,31 @@
+{
+  "id": "67725235",
+  "case_name": "Bhangal v. Hawaiian Electric Industries, Inc.",
+  "case_name_full": "",
+  "docket_number": "3:23-cv-04332",
+  "docket_number_core": "2304332",
+  "court_id": "cand",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-08-24",
+  "date_terminated": "",
+  "date_last_filing": "2025-11-07",
+  "assigned_to_str": "Jacqueline Scott Corley",
+  "referred_to_str": "",
+  "pacer_case_id": "417333",
+  "source": "1",
+  "slug": "bhangal-v-hawaiian-electric-industries-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 35,
+  "_nos_category": "securities"
+}

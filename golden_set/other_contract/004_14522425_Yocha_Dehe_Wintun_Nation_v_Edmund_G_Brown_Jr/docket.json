@@ -1,0 +1,31 @@
+{
+  "id": "14522425",
+  "case_name": "Yocha Dehe Wintun Nation v. Edmund G. Brown, Jr.",
+  "case_name_full": "",
+  "docket_number": "2:19-cv-00025",
+  "docket_number_core": "1900025",
+  "court_id": "caed",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "25:640 Indian Tribal Rights",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-01-03",
+  "date_terminated": "2019-06-18",
+  "date_last_filing": "2021-01-27",
+  "assigned_to_str": "John A. Mendez",
+  "referred_to_str": "Allison Claire",
+  "pacer_case_id": "349280",
+  "source": "9",
+  "slug": "yocha-dehe-wintun-nation-v-edmund-g-brown-jr",
+  "federal_dn_case_type": "",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 4,
+  "_nos_category": "other_contract"
+}

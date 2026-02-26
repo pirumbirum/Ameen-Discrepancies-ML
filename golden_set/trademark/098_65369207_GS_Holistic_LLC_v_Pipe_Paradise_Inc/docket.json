@@ -1,0 +1,31 @@
+{
+  "id": "65369207",
+  "case_name": "GS Holistic LLC v. Pipe Paradise Inc",
+  "case_name_full": "",
+  "docket_number": "2:22-cv-06846",
+  "docket_number_core": "2206846",
+  "court_id": "cacd",
+  "nature_of_suit": "Trademark",
+  "cause": "15:1114 Trademark Infringement",
+  "jurisdiction_type": "",
+  "date_filed": "2022-09-22",
+  "date_terminated": "2023-01-20",
+  "date_last_filing": "2023-01-23",
+  "assigned_to_str": "Sherilyn Peace Garnett",
+  "referred_to_str": "Michael R. Wilner",
+  "pacer_case_id": "863578",
+  "source": "1",
+  "slug": "gs-holistic-llc-v-pipe-paradise-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 98,
+  "_nos_category": "trademark"
+}

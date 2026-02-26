@@ -1,0 +1,31 @@
+{
+  "id": "71019544",
+  "case_name": "Marie Gutierrez v. Affirm, Inc.",
+  "case_name_full": "",
+  "docket_number": "2:25-cv-07169",
+  "docket_number_core": "2507169",
+  "court_id": "cacd",
+  "nature_of_suit": "Banks and Banking",
+  "cause": "28:1441 Notice of Removal - Fair Credit Reporting Act",
+  "jurisdiction_type": "",
+  "date_filed": "2025-08-04",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-05",
+  "assigned_to_str": "Patricia Donahue",
+  "referred_to_str": "",
+  "pacer_case_id": "981783",
+  "source": "1",
+  "slug": "marie-gutierrez-v-affirm-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 11,
+  "_nos_category": "banks"
+}

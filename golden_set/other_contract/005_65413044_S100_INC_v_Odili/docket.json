@@ -1,0 +1,31 @@
+{
+  "id": "65413044",
+  "case_name": "S100, INC. v. Odili",
+  "case_name_full": "",
+  "docket_number": "8:22-cv-00411",
+  "docket_number_core": "2200411",
+  "court_id": "mdd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1446 Notice of Removal - Other Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-02-17",
+  "date_terminated": "2022-10-25",
+  "date_last_filing": "2022-11-15",
+  "assigned_to_str": "Theodore D. Chuang",
+  "referred_to_str": "Timothy J. Sullivan",
+  "pacer_case_id": "507697",
+  "source": "1",
+  "slug": "s100-inc-v-odili",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 5,
+  "_nos_category": "other_contract"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "41999981",
+  "case_name": "FrenchPorte, LLC v. C.H.I. Overhead Doors, Inc.",
+  "case_name_full": "",
+  "docket_number": "8:20-cv-00467",
+  "docket_number_core": "2000467",
+  "court_id": "mdd",
+  "nature_of_suit": "Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "",
+  "date_filed": "2020-02-21",
+  "date_terminated": "2021-01-25",
+  "date_last_filing": "2021-01-25",
+  "assigned_to_str": "George Jarrod Hazel",
+  "referred_to_str": "",
+  "pacer_case_id": "477152",
+  "source": "1",
+  "slug": "frenchporte-llc-v-chi-overhead-doors-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 30,
+  "_nos_category": "patent"
+}

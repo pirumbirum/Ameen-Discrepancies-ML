@@ -1,0 +1,31 @@
+{
+  "id": "17097568",
+  "case_name": "Scottsdale Insurance Company v. Aqueous Vapor, LLC",
+  "case_name_full": "",
+  "docket_number": "4:20-cv-00328",
+  "docket_number_core": "2000328",
+  "court_id": "mowd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:2201 Declaratory Judgement",
+  "jurisdiction_type": "Government plaintiff",
+  "date_filed": "2020-04-23",
+  "date_terminated": "2021-01-12",
+  "date_last_filing": "2021-01-12",
+  "assigned_to_str": "Roseann A Ketchmark",
+  "referred_to_str": "",
+  "pacer_case_id": "151469",
+  "source": "9",
+  "slug": "scottsdale-insurance-company-v-aqueous-vapor-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 10,
+  "_nos_category": "insurance"
+}

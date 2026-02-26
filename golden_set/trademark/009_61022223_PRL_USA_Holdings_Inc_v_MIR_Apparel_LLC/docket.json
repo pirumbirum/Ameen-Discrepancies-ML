@@ -1,0 +1,31 @@
+{
+  "id": "61022223",
+  "case_name": "PRL USA Holdings, Inc. v. MIR Apparel, LLC",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-01936",
+  "docket_number_core": "2101936",
+  "court_id": "gand",
+  "nature_of_suit": "Trademark",
+  "cause": "15:1051 Trademark Infringement",
+  "jurisdiction_type": "",
+  "date_filed": "2021-05-07",
+  "date_terminated": "2024-03-12",
+  "date_last_filing": "2024-03-14",
+  "assigned_to_str": "Steven D. Grimberg",
+  "referred_to_str": "",
+  "pacer_case_id": "290091",
+  "source": "1",
+  "slug": "prl-usa-holdings-inc-v-mir-apparel-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 9,
+  "_nos_category": "trademark"
+}

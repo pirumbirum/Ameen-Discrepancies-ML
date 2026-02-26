@@ -1,0 +1,31 @@
+{
+  "id": "62634241",
+  "case_name": "Arata v. Standard Lithium Ltd.",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-00507",
+  "docket_number_core": "2200507",
+  "court_id": "nyed",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-01-27",
+  "date_terminated": "2025-09-29",
+  "date_last_filing": "2025-11-05",
+  "assigned_to_str": "Eric R. Komitee",
+  "referred_to_str": "Vera M. Scanlon",
+  "pacer_case_id": "475099",
+  "source": "1",
+  "slug": "arata-v-standard-lithium-ltd",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 8,
+  "_nos_category": "securities"
+}

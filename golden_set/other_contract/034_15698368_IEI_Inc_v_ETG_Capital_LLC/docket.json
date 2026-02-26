@@ -1,0 +1,31 @@
+{
+  "id": "15698368",
+  "case_name": "IEI Inc. v. ETG Capital LLC",
+  "case_name_full": "",
+  "docket_number": "1:19-cv-05049",
+  "docket_number_core": "1905049",
+  "court_id": "nysd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1332oc Diversity-Other Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2019-05-30",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-10",
+  "assigned_to_str": "Andrew L. Carter Jr.",
+  "referred_to_str": "James L. Cott",
+  "pacer_case_id": "516652",
+  "source": "9",
+  "slug": "iei-inc-v-etg-capital-llc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 4,
+    "has_scotus": false
+  },
+  "_rank_in_category": 34,
+  "_nos_category": "other_contract"
+}

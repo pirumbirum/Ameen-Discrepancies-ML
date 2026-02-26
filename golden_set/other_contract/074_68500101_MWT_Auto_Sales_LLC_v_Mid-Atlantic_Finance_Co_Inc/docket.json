@@ -1,0 +1,31 @@
+{
+  "id": "68500101",
+  "case_name": "M.W.T. Auto Sales LLC v. Mid-Atlantic Finance Co., Inc.",
+  "case_name_full": "",
+  "docket_number": "8:24-cv-01071",
+  "docket_number_core": "2401071",
+  "court_id": "flmd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2024-05-03",
+  "date_terminated": "2024-12-02",
+  "date_last_filing": "2025-12-03",
+  "assigned_to_str": "Charlene Edwards Honeywell",
+  "referred_to_str": "Christopher P. Tuite",
+  "pacer_case_id": "427267",
+  "source": "1",
+  "slug": "mwt-auto-sales-llc-v-mid-atlantic-finance-co-inc",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 2,
+    "has_scotus": false
+  },
+  "_rank_in_category": 74,
+  "_nos_category": "other_contract"
+}

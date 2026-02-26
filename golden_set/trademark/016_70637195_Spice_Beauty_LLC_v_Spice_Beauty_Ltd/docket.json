@@ -1,0 +1,31 @@
+{
+  "id": "70637195",
+  "case_name": "Spice Beauty, LLC v. Spice Beauty, Ltd",
+  "case_name_full": "",
+  "docket_number": "2:25-cv-05807",
+  "docket_number_core": "2505807",
+  "court_id": "cacd",
+  "nature_of_suit": "Trademark",
+  "cause": "15:1114 Trademark Infringement",
+  "jurisdiction_type": "",
+  "date_filed": "2025-06-25",
+  "date_terminated": "",
+  "date_last_filing": "2025-09-22",
+  "assigned_to_str": "Serena R. Murillo",
+  "referred_to_str": "Steve Kim",
+  "pacer_case_id": "976236",
+  "source": "1",
+  "slug": "spice-beauty-llc-v-spice-beauty-ltd",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 16,
+  "_nos_category": "trademark"
+}

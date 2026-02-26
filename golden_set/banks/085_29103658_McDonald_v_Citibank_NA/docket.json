@@ -1,0 +1,31 @@
+{
+  "id": "29103658",
+  "case_name": "McDonald v. Citibank N.A.",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-00298",
+  "docket_number_core": "2100298",
+  "court_id": "nysd",
+  "nature_of_suit": "Banks and Banking",
+  "cause": "28:1331vc Fed. Question:  Violation of Constitutional Rights",
+  "jurisdiction_type": "",
+  "date_filed": "2021-01-12",
+  "date_terminated": "2021-02-05",
+  "date_last_filing": "2021-02-12",
+  "assigned_to_str": "Colleen McMahon",
+  "referred_to_str": "",
+  "pacer_case_id": "552101",
+  "source": "1",
+  "slug": "mcdonald-v-citibank-na",
+  "federal_dn_case_type": "cv",
+  "_score": 0,
+  "_score_details": {
+    "score": 0,
+    "published_opinions": 0,
+    "unpublished_opinions": 0,
+    "total_citations": 0,
+    "total_clusters": 1,
+    "has_scotus": false
+  },
+  "_rank_in_category": 85,
+  "_nos_category": "banks"
+}
