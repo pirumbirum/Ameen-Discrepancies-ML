@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-02-26T15:30:39.237766",
+  "created_at": "2026-02-26T20:27:38.059119",
   "top_n_per_category": 100,
   "scoring_formula": "published*10 + unpublished*2 + citations*5 + scotus*100",
   "categories": {
