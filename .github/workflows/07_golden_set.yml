@@ -136,10 +136,13 @@ jobs:
           name: golden-state-${{ github.run_id }}
           path: /tmp/golden_state/
 
-      - name: "Phase 3: API-fetch opinions (resumable)"
+      - name: "Phase 3: API-fetch opinions (resumable, auto-commits)"
         env:
           CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
-        run: python3 scripts/build_golden_set.py opinions --state-dir "$STATE_DIR"
+        run: |
+          python3 scripts/build_golden_set.py opinions \
+            --state-dir "$STATE_DIR" \
+            --commit-every 500
 
       - name: Show golden set summary
         run: |
@@ -153,12 +156,12 @@ jobs:
           echo ""
           du -sh golden_set/
 
-      - name: Commit opinions
+      - name: Final commit (if any uncommitted opinions)
         run: |
           git add golden_set/
-          git diff --cached --quiet && echo "No new opinions" && exit 0
+          git diff --cached --quiet && echo "All committed during Phase 3" && exit 0
           OPINIONS=$(find golden_set -name "opinion_*.json" | wc -l)
-          git commit -m "Golden set: add ${OPINIONS} opinion files via API fetch"
+          git commit -m "Golden set: ${OPINIONS} total opinion files"
           git push
 
       - name: Upload final artifact

@@ -16,6 +16,7 @@ import csv
 import json
 import os
 import re
+import subprocess
 import sys
 import time
 import urllib.request
@@ -371,10 +372,32 @@ def phase_score(state_dir):
 
 # ── Phase 3: API-fetch opinions for golden set only ───────────────
 
-def phase_opinions(state_dir):
+def git_checkpoint(msg):
+    """Git add + commit + push golden_set/ to save progress."""
+    try:
+        subprocess.run(["git", "add", "golden_set/"], check=True, capture_output=True)
+        result = subprocess.run(
+            ["git", "diff", "--cached", "--quiet"], capture_output=True
+        )
+        if result.returncode == 0:
+            print("    [checkpoint] nothing new to commit")
+            return
+        subprocess.run(
+            ["git", "commit", "-m", msg], check=True, capture_output=True
+        )
+        subprocess.run(
+            ["git", "push"], check=True, capture_output=True, timeout=60
+        )
+        print(f"    [checkpoint] committed + pushed: {msg}")
+    except Exception as e:
+        print(f"    [checkpoint] WARNING: {e}")
+
+
+def phase_opinions(state_dir, commit_every=0):
     """Fetch full opinion data via CourtListener API for golden set clusters only.
 
     Resumable: skips clusters that already have opinion_*.json files.
+    If commit_every > 0, does a git commit+push every N fetched clusters.
     """
     token = os.environ.get("CL_API_TOKEN", "")
 
@@ -466,6 +489,10 @@ def phase_opinions(state_dir):
 
         fetched += 1
 
+        # Periodic checkpoint commit
+        if commit_every > 0 and fetched % commit_every == 0:
+            git_checkpoint(f"Phase 3 checkpoint: {fetched + skipped}/{total} clusters processed")
+
         # Respect rate limits: ~1 req/sec for anonymous, faster with token
         if not token:
             time.sleep(0.8)
@@ -476,6 +503,10 @@ def phase_opinions(state_dir):
     print(f"\nPhase 3 done: {fetched:,} fetched, {skipped:,} skipped, {failed:,} failed")
     print(f"Time: {elapsed/60:.1f} min")
 
+    # Final checkpoint
+    if commit_every > 0:
+        git_checkpoint(f"Phase 3 final: {fetched} fetched, {skipped} skipped, {failed} failed")
+
 
 # ── CLI ────────────────────────────────────────────────────────────
 
@@ -483,6 +514,8 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("phase", choices=["clusters", "score", "opinions"])
     parser.add_argument("--state-dir", default="/tmp/golden_state")
+    parser.add_argument("--commit-every", type=int, default=0,
+                        help="Git commit+push every N fetched clusters (Phase 3 only)")
     args = parser.parse_args()
 
     os.makedirs(args.state_dir, exist_ok=True)
@@ -492,7 +525,7 @@ def main():
     elif args.phase == "score":
         phase_score(args.state_dir)
     elif args.phase == "opinions":
-        phase_opinions(args.state_dir)
+        phase_opinions(args.state_dir, commit_every=args.commit_every)
 
 
 if __name__ == "__main__":
