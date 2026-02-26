@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """
-Build golden_set/: top 100 cases per NOS category ranked by judicial opinion activity.
+Build golden_set/: top 100 cases per NOS category ranked by opinion cluster data.
 
-Three-phase pipeline (each reads from stdin via streaming bulk CSV):
-  Phase 1 (clusters): Stream opinion-clusters CSV, match to our 275K docket IDs
-  Phase 2 (opinions): Stream opinions CSV, match to clusters from Phase 1
-  Phase 3 (score):    Score all cases, build golden_set/ with top 100 per category
+Option B pipeline:
+  Phase 1 (clusters):  Stream opinion-clusters CSV, match to our 275K docket IDs
+  Phase 2 (score):     Score from cluster data only (citations, published, SCOTUS),
+                        build golden_set/ with top 100 per category
+  Phase 3 (opinions):  API-fetch full opinions for just the ~1,100 golden set cases
 
 State is persisted between phases in --state-dir (default /tmp/golden_state).
 """
@@ -17,6 +18,8 @@ import os
 import re
 import sys
 import time
+import urllib.request
+import urllib.error
 from collections import defaultdict
 from datetime import datetime
 from io import TextIOWrapper
@@ -41,6 +44,7 @@ TARGET_NOS = {
 
 TOP_N = 100
 OUTPUT_DIR = "golden_set"
+CL_API = "https://www.courtlistener.com/api/rest/v4"
 
 
 def sanitize_dirname(name, max_len=50):
@@ -77,6 +81,33 @@ def load_pass1_data():
 
     print(f"  {'TOTAL':>24s}: {len(docket_ids):>8,}")
     return docket_ids, docket_data, docket_nos
+
+
+def api_get(url, token=None, retries=3, backoff=2):
+    """GET from CourtListener API with retries."""
+    headers = {"User-Agent": "Ameen-GoldenSet/1.0"}
+    if token:
+        headers["Authorization"] = f"Token {token}"
+
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                return json.loads(resp.read().decode())
+        except urllib.error.HTTPError as e:
+            if e.code == 429:  # rate limited
+                wait = backoff * (2 ** attempt)
+                print(f"    Rate limited, waiting {wait}s...")
+                time.sleep(wait)
+            elif e.code == 404:
+                return None
+            else:
+                print(f"    HTTP {e.code} for {url}, retry {attempt+1}/{retries}")
+                time.sleep(backoff * (2 ** attempt))
+        except Exception as e:
+            print(f"    Error: {e}, retry {attempt+1}/{retries}")
+            time.sleep(backoff * (2 ** attempt))
+    return None
 
 
 # ── Phase 1: Clusters ──────────────────────────────────────────────
@@ -151,91 +182,26 @@ def phase_clusters(state_dir):
     with open(f"{state_dir}/cluster_ids.json", "w") as f:
         json.dump(list(cluster_ids), f)
 
-    print(f"State saved ({len(cluster_ids):,} cluster IDs for Phase 2)")
+    print(f"State saved ({len(cluster_ids):,} cluster IDs)")
 
 
-# ── Phase 2: Opinions ──────────────────────────────────────────────
-
-def phase_opinions(state_dir):
-    with open(f"{state_dir}/cluster_ids.json") as f:
-        cluster_ids = set(json.load(f))
-    print(f"Loaded {len(cluster_ids):,} cluster IDs from Phase 1")
-
-    print("\n" + "=" * 60)
-    print("PHASE 2: STREAMING OPINIONS CSV")
-    print("=" * 60)
-
-    opinions_by_cluster = defaultdict(list)
-    total = 0
-    matched = 0
-    start = time.time()
-
-    wrapper = TextIOWrapper(sys.stdin.buffer, encoding='utf-8', errors='replace')
-    reader = csv.DictReader(wrapper)
-
-    if reader.fieldnames:
-        print(f"Columns ({len(reader.fieldnames)}): {', '.join(reader.fieldnames[:10])}...")
-        sys.stdout.flush()
-
-    errors = 0
-    for row in reader:
-        try:
-            total += 1
-            if total % 500_000 == 0:
-                elapsed = time.time() - start
-                print(f"  [{total/1e6:.1f}M] {matched:,} matched, {errors} errors | {elapsed/60:.1f} min")
-                sys.stdout.flush()
-
-            cluster_id = str(row.get("cluster_id", ""))
-            if cluster_id not in cluster_ids:
-                continue
-
-            opinions_by_cluster[cluster_id].append({
-                "id": str(row.get("id", "")),
-                "cluster_id": cluster_id,
-                "type": row.get("type", ""),
-                "author_str": row.get("author_str", ""),
-                "per_curiam": row.get("per_curiam", ""),
-                "page_count": row.get("page_count", ""),
-                "download_url": row.get("download_url", ""),
-                "sha1": row.get("sha1", ""),
-            })
-            matched += 1
-        except Exception as e:
-            errors += 1
-            if errors <= 5:
-                print(f"  WARNING row {total}: {e}", file=sys.stderr)
-
-    elapsed = time.time() - start
-    print(f"\nPhase 2 done: {total:,} rows scanned, {matched:,} opinions matched, {errors} errors")
-    print(f"Time: {elapsed/60:.1f} min")
-
-    with open(f"{state_dir}/opinions_by_cluster.json", "w") as f:
-        json.dump(dict(opinions_by_cluster), f)
-
-    print("State saved")
-
-
-# ── Phase 3: Score + Build ─────────────────────────────────────────
+# ── Phase 2: Score + Build (clusters-only scoring) ────────────────
 
 def phase_score(state_dir):
-    print("Loading state from Phases 1-2...")
+    print("Loading state from Phase 1...")
     with open(f"{state_dir}/docket_data.json") as f:
         docket_data = json.load(f)
     with open(f"{state_dir}/docket_nos.json") as f:
         docket_nos = json.load(f)
     with open(f"{state_dir}/clusters_by_docket.json") as f:
         clusters_by_docket = json.load(f)
-    with open(f"{state_dir}/opinions_by_cluster.json") as f:
-        opinions_by_cluster = json.load(f)
 
     print(f"  {len(docket_data):,} dockets, "
-          f"{sum(len(v) for v in clusters_by_docket.values()):,} clusters, "
-          f"{sum(len(v) for v in opinions_by_cluster.values()):,} opinions")
+          f"{sum(len(v) for v in clusters_by_docket.values()):,} clusters")
 
-    # ── Score ──
+    # ── Score (clusters only — no opinions bulk needed) ──
     print("\n" + "=" * 60)
-    print("SCORING")
+    print("SCORING (clusters-only: citations + published + SCOTUS)")
     print("=" * 60)
 
     scores = {}
@@ -249,9 +215,6 @@ def phase_score(state_dir):
         published = 0
         unpublished = 0
         total_citations = 0
-        dissents = 0
-        concurrences = 0
-        total_opinions = 0
         has_scotus = False
 
         for cl in clusters:
@@ -266,20 +229,10 @@ def phase_score(state_dir):
             if cl.get("scdb_id"):
                 has_scotus = True
 
-            for op in opinions_by_cluster.get(cl["id"], []):
-                total_opinions += 1
-                op_type = (op.get("type") or "").lower()
-                if "dissent" in op_type:
-                    dissents += 1
-                elif "concur" in op_type:
-                    concurrences += 1
-
         score = (
             published * 10
             + unpublished * 2
             + total_citations * 5
-            + concurrences * 3
-            + dissents * 8
             + (100 if has_scotus else 0)
         )
 
@@ -289,18 +242,15 @@ def phase_score(state_dir):
             "published_opinions": published,
             "unpublished_opinions": unpublished,
             "total_citations": total_citations,
-            "dissents": dissents,
-            "concurrences": concurrences,
-            "total_opinions": total_opinions,
             "total_clusters": len(clusters),
             "has_scotus": has_scotus,
         }
 
-    print(f"Scored {len(scores):,} cases (those with ≥1 opinion cluster)")
+    print(f"Scored {len(scores):,} cases (those with >= 1 opinion cluster)")
 
     if scores:
         vals = sorted(scores.values(), reverse=True)
-        print(f"Score range: {vals[-1]} – {vals[0]}")
+        print(f"Score range: {vals[-1]} - {vals[0]}")
         print(f"Median: {vals[len(vals)//2]}")
         print(f"Top 10: {vals[:10]}")
 
@@ -321,11 +271,13 @@ def phase_score(state_dir):
     golden_index = {
         "created_at": datetime.utcnow().isoformat(),
         "top_n_per_category": TOP_N,
-        "scoring_formula": "published*10 + unpublished*2 + citations*5 + concurrences*3 + dissents*8 + scotus*100",
+        "scoring_formula": "published*10 + unpublished*2 + citations*5 + scotus*100",
         "categories": {},
     }
 
     total_golden = 0
+    # Collect all golden cluster IDs for Phase 3
+    golden_cluster_ids = {}  # cluster_id -> case_dir path
 
     for nos_code in sorted(TARGET_NOS.keys()):
         nos_label = TARGET_NOS[nos_code]
@@ -336,7 +288,7 @@ def phase_score(state_dir):
         cat_dir = os.path.join(OUTPUT_DIR, nos_label)
         os.makedirs(cat_dir, exist_ok=True)
 
-        print(f"\n{nos_code} {nos_label}: {len(cases):,} scored → top {len(top)}")
+        print(f"\n{nos_code} {nos_label}: {len(cases):,} scored -> top {len(top)}")
 
         cat_index = []
 
@@ -357,17 +309,20 @@ def phase_score(state_dir):
             with open(os.path.join(case_dir, "docket.json"), "w") as f:
                 json.dump(enriched, f, indent=2)
 
-            # Opinion clusters + nested opinions
+            # Each cluster gets its own subfolder; opinions added in Phase 3
             clusters = clusters_by_docket.get(did, [])
             if clusters:
                 ops_dir = os.path.join(case_dir, "opinions")
                 os.makedirs(ops_dir, exist_ok=True)
 
                 for cl in clusters:
-                    record = dict(cl)
-                    record["opinions"] = opinions_by_cluster.get(cl["id"], [])
-                    with open(os.path.join(ops_dir, f"cluster_{cl['id']}.json"), "w") as f:
-                        json.dump(record, f, indent=2)
+                    cl_dir = os.path.join(ops_dir, f"cluster_{cl['id']}")
+                    os.makedirs(cl_dir, exist_ok=True)
+
+                    with open(os.path.join(cl_dir, "cluster.json"), "w") as f:
+                        json.dump(cl, f, indent=2)
+
+                    golden_cluster_ids[cl["id"]] = cl_dir
 
             # Log top 3 per category
             if rank <= 3:
@@ -403,17 +358,102 @@ def phase_score(state_dir):
     with open(os.path.join(OUTPUT_DIR, "index.json"), "w") as f:
         json.dump(golden_index, f, indent=2)
 
+    # Save golden cluster IDs for Phase 3
+    with open(f"{state_dir}/golden_cluster_paths.json", "w") as f:
+        json.dump(golden_cluster_ids, f)
+
     print(f"\n{'=' * 60}")
     print(f"GOLDEN SET: {total_golden} cases across {len(TARGET_NOS)} categories")
+    print(f"Cluster files to enrich in Phase 3: {len(golden_cluster_ids):,}")
     print(f"Saved to {OUTPUT_DIR}/")
     print("=" * 60)
+
+
+# ── Phase 3: API-fetch opinions for golden set only ───────────────
+
+def phase_opinions(state_dir):
+    """Fetch full opinion data via CourtListener API for golden set clusters only."""
+    token = os.environ.get("CL_API_TOKEN", "")
+
+    with open(f"{state_dir}/golden_cluster_paths.json") as f:
+        golden_cluster_paths = json.load(f)
+
+    total = len(golden_cluster_paths)
+    print(f"\n{'=' * 60}")
+    print(f"PHASE 3: API-FETCH OPINIONS FOR {total:,} GOLDEN SET CLUSTERS")
+    print("=" * 60)
+    if token:
+        print("  Using API token (5,000 req/hr limit)")
+    else:
+        print("  WARNING: No CL_API_TOKEN set, using anonymous rate limit")
+    sys.stdout.flush()
+
+    fetched = 0
+    failed = 0
+    start = time.time()
+
+    for i, (cluster_id, cluster_dir) in enumerate(golden_cluster_paths.items(), 1):
+        if i % 50 == 0 or i == 1:
+            elapsed = time.time() - start
+            rate = fetched / max(elapsed, 1) * 3600
+            print(f"  [{i}/{total}] {fetched} fetched, {failed} failed | "
+                  f"{elapsed/60:.1f} min | ~{rate:.0f} req/hr")
+            sys.stdout.flush()
+
+        # Fetch opinions for this cluster
+        url = f"{CL_API}/opinions/?cluster={cluster_id}&format=json"
+        data = api_get(url, token=token)
+
+        if data is None:
+            failed += 1
+            continue
+
+        opinions = data.get("results", [])
+
+        if not os.path.isdir(cluster_dir):
+            failed += 1
+            continue
+
+        # Each opinion gets its own file in the cluster subfolder
+        for op in opinions:
+            op_id = op.get("id", "unknown")
+            op_type = (op.get("type", "") or "").replace(" ", "_")
+            filename = f"opinion_{op_id}_{op_type}.json" if op_type else f"opinion_{op_id}.json"
+
+            opinion_record = {
+                "id": op_id,
+                "cluster_id": cluster_id,
+                "type": op.get("type", ""),
+                "author_str": op.get("author_str", ""),
+                "per_curiam": op.get("per_curiam", False),
+                "page_count": op.get("page_count"),
+                "download_url": op.get("download_url", ""),
+                "sha1": op.get("sha1", ""),
+                "plain_text": op.get("plain_text", ""),
+                "html_with_citations": op.get("html_with_citations", ""),
+            }
+
+            with open(os.path.join(cluster_dir, filename), "w") as f:
+                json.dump(opinion_record, f, indent=2)
+
+        fetched += 1
+
+        # Respect rate limits: ~1 req/sec for anonymous, faster with token
+        if not token:
+            time.sleep(0.8)
+        else:
+            time.sleep(0.3)
+
+    elapsed = time.time() - start
+    print(f"\nPhase 3 done: {fetched:,} clusters enriched, {failed:,} failed")
+    print(f"Time: {elapsed/60:.1f} min")
 
 
 # ── CLI ────────────────────────────────────────────────────────────
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("phase", choices=["clusters", "opinions", "score"])
+    parser.add_argument("phase", choices=["clusters", "score", "opinions"])
     parser.add_argument("--state-dir", default="/tmp/golden_state")
     args = parser.parse_args()
 
@@ -421,10 +461,10 @@ def main():
 
     if args.phase == "clusters":
         phase_clusters(args.state_dir)
-    elif args.phase == "opinions":
-        phase_opinions(args.state_dir)
     elif args.phase == "score":
         phase_score(args.state_dir)
+    elif args.phase == "opinions":
+        phase_opinions(args.state_dir)
 
 
 if __name__ == "__main__":

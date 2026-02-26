@@ -1,16 +1,11 @@
 name: "07: Golden Set Builder"
 
-# Streams CourtListener's opinion-clusters + opinions bulk CSVs,
-# scores all 275K dockets by judicial opinion activity (citations,
-# published/unpublished, dissents, concurrences, SCOTUS links),
-# then builds golden_set/ with top 100 per NOS category.
+# Option B pipeline:
+#   Phase 1: Stream opinion-clusters CSV (~5 min) → match to 275K docket IDs
+#   Phase 2: Score from cluster data only (citations, published, SCOTUS) → build golden_set/
+#   Phase 3: API-fetch full opinion text for just the ~1,100 golden set cases
 #
-# Three streaming phases:
-#   1. clusters CSV (~2 GB bz2) → match to our docket IDs
-#   2. opinions CSV (~3 GB bz2) → match to clusters from phase 1
-#   3. score + rank → build golden_set/
-#
-# ETA: ~25-35 minutes total.
+# ETA: ~20-30 minutes total.
 
 on:
   workflow_dispatch:
@@ -26,7 +21,7 @@ env:
 jobs:
   golden-set:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 120
 
     steps:
       - name: Checkout
@@ -73,33 +68,10 @@ jobs:
           print(f'  {len(ids):,} clusters matched')
           "
 
-      - name: "Phase 2: Stream opinions"
-        run: |
-          set +o pipefail
-          echo "Downloading + filtering opinions-${BULK_DATE}.csv.bz2 ..."
-          curl -fSL "${S3_BASE}/opinions-${BULK_DATE}.csv.bz2" \
-            | lbzip2 -d \
-            | python3 scripts/build_golden_set.py opinions --state-dir "$STATE_DIR"
-          RESULT=${PIPESTATUS[2]}
-          echo "Python exit code: $RESULT"
-          test -f "$STATE_DIR/opinions_by_cluster.json" || { echo "FATAL: no opinions_by_cluster.json produced"; exit 1; }
-          exit $RESULT
-
-      - name: "Phase 2 checkpoint"
-        run: |
-          echo "Opinions collected:"
-          python3 -c "
-          import json
-          with open('${{ env.STATE_DIR }}/opinions_by_cluster.json') as f:
-              data = json.load(f)
-          total = sum(len(v) for v in data.values())
-          print(f'  {total:,} opinions across {len(data):,} clusters')
-          "
-
-      - name: "Phase 3: Score + build golden_set/"
+      - name: "Phase 2: Score + build golden_set/"
         run: python3 scripts/build_golden_set.py score --state-dir "$STATE_DIR"
 
-      - name: Show golden set summary
+      - name: "Phase 2 checkpoint"
         run: |
           echo "=== Golden Set Index ==="
           python3 -c "
@@ -107,7 +79,6 @@ jobs:
           with open('golden_set/index.json') as f:
               idx = json.load(f)
           print(f'Total golden cases: {idx[\"total_golden_cases\"]}')
-          print(f'Created: {idx[\"created_at\"]}')
           print()
           for cat, info in idx['categories'].items():
               print(f'  {info[\"nos_code\"]} {cat:20s}  '
@@ -116,29 +87,51 @@ jobs:
                     f'(of {info[\"total_with_opinions\"]:,} with opinions)')
           "
           echo ""
-          echo "=== Folder structure ==="
-          find golden_set -maxdepth 3 -type d | head -40
+          echo "=== Clusters to fetch opinions for ==="
+          python3 -c "
+          import json
+          with open('${{ env.STATE_DIR }}/golden_cluster_paths.json') as f:
+              paths = json.load(f)
+          print(f'  {len(paths):,} clusters')
+          "
+
+      - name: "Phase 3: API-fetch opinions for golden set"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+        run: python3 scripts/build_golden_set.py opinions --state-dir "$STATE_DIR"
+
+      - name: Show golden set summary
+        run: |
+          echo "=== Folder structure (sample) ==="
+          find golden_set -maxdepth 5 -type f | head -30
+          echo "..."
+          echo ""
+          echo "=== File counts per category ==="
+          for d in golden_set/*/; do
+            name=$(basename "$d")
+            cases=$(find "$d" -name "docket.json" | wc -l)
+            opinions=$(find "$d" -name "opinion_*.json" | wc -l)
+            echo "  $name: $cases cases, $opinions opinion files"
+          done
           echo ""
           echo "=== Disk usage ==="
           du -sh golden_set/
 
-      - name: Disk check (after)
-        run: df -h .
-
       - name: Commit golden set
         run: |
-          git add golden_set/
+          git add golden_set/ cases2.1/
           COUNT=$(python3 -c "
           import json
           with open('golden_set/index.json') as f:
               print(json.load(f)['total_golden_cases'])
           " 2>/dev/null || echo "???")
-          git diff --cached --quiet || git commit -m "$(cat <<EOF
+          git diff --cached --quiet || git commit -m "$(cat <<'EOF'
           Golden set: top 100 per NOS category (${COUNT} cases total)
 
-          Scored by opinion activity: published*10 + unpublished*2 +
-          citations*5 + concurrences*3 + dissents*8 + scotus*100.
-          Each case subfolder has docket.json + opinions/ with clusters.
+          Option B: scored by clusters (citations*5 + published*10 + scotus*100).
+          Each case has docket.json + opinions/ with cluster subfolders,
+          each opinion in its own file. Full opinion text via API.
+          cases2.1/ is a clean backup of cases2/.
           EOF
           )"
           git push || true
