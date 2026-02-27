@@ -1,0 +1,74 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/clusters/2180146/?format=json",
+    "id": 2180146,
+    "absolute_url": "/opinion/2180146/northstar-financial-advisors-inc-v-schwab-investments/",
+    "panel": [],
+    "non_participating_judges": [],
+    "docket_id": 2046720,
+    "docket": "https://www.courtlistener.com/api/rest/v4/dockets/2046720/?format=json",
+    "sub_opinions": [
+      "https://www.courtlistener.com/api/rest/v4/opinions/2180146/?format=json"
+    ],
+    "citations": [
+      {
+        "date_created": "2025-09-25T21:50:34.120042-07:00",
+        "date_modified": "2025-09-25T21:50:34.139566-07:00",
+        "volume": "781",
+        "reporter": "F. Supp. 2d",
+        "page": "926",
+        "type": 1
+      },
+      {
+        "date_created": "2025-09-25T21:50:34.120042-07:00",
+        "date_modified": "2025-09-25T21:50:34.139566-07:00",
+        "volume": "2011",
+        "reporter": "U.S. Dist. LEXIS",
+        "page": "21166",
+        "type": 6
+      },
+      {
+        "date_created": "2025-09-25T21:50:34.120042-07:00",
+        "date_modified": "2025-09-25T21:50:34.139566-07:00",
+        "volume": "2011",
+        "reporter": "WL",
+        "page": "1312044",
+        "type": 7
+      }
+    ],
+    "date_created": "2015-04-28T11:41:22.637931-07:00",
+    "date_modified": "2024-11-07T02:37:45.411492-08:00",
+    "judges": "Lucy H. Koh",
+    "date_filed": "2011-03-02",
+    "date_filed_is_approximate": false,
+    "slug": "northstar-financial-advisors-inc-v-schwab-investments",
+    "case_name_short": "",
+    "case_name": "Northstar Financial Advisors, Inc. v. Schwab Investments",
+    "case_name_full": "NORTHSTAR FINANCIAL ADVISORS, INC., on Behalf of Itself and All Others Similarly Situated, Plaintiff, v. SCHWAB INVESTMENTS; And Mariann Byerwalter, Donald F. Dorward, William A. Hasler, Robert G. Holmes, Gerald B. Smith, Donald R. Stephens, Michael W. Wilsey, Charles R. Schwab, Randall W. Merk, Joseph H. Wender and John F. Cogan as Trustees of Schwab Investments; And Charles Schwab Investment Management, Inc., Defendants",
+    "scdb_id": "",
+    "scdb_decision_direction": null,
+    "scdb_votes_majority": null,
+    "scdb_votes_minority": null,
+    "source": "LU",
+    "procedural_history": "",
+    "attorneys": "Christopher T. Heffelfinger, James Christopher Magid, Lesley Ann Hale, Anthony David Phillips, Joseph J. Tabacco, Jr., Berman DeValerio, San Francisco, CA, Mare J. Gross, Greenbaum Rowe Smith & Davis LLP, Roseland, NJ, Bryan D. Plocker, Greenbaum Rowe Smith & Davis LLP, Iselin, NJ, Robert C. Finkel, Wolf Popper LLP, New York, NY, Steve W. Berman, Hagens Berman Sobol Shapiro LLP, Seattle, WA, Peter E. Borkon, Hagens Berman Sobol Shapiro LLP, Berkeley, CA, for Plaintiffs., Arthur M. Roberts, John Mark Potter, Patrick C. Doolittle, Quinn Emanuel Urquhart & Sullivan, LLP, San Francisco, CA, Karin A. Kramer, Quinn Emanuel Urquhart & Sullivan, Redwood Shores, CA, Richard Allen Schirtzer, Quinn Emanuel Urquhart and Sullivan LLP, Los Angeles, CA, for Defendants.",
+    "nature_of_suit": "",
+    "posture": "",
+    "syllabus": "",
+    "headnotes": "",
+    "summary": "",
+    "disposition": "",
+    "history": "",
+    "other_dates": "",
+    "cross_reference": "",
+    "correction": "",
+    "citation_count": 10,
+    "precedential_status": "Published",
+    "date_blocked": null,
+    "blocked": false,
+    "filepath_json_harvard": "law.free.cap.f-supp-2d.781/926.4242009.json",
+    "filepath_pdf_harvard": "harvard_pdf/2180146.pdf",
+    "arguments": "",
+    "headmatter": "<parties id=\"b966-8\">\n    NORTHSTAR FINANCIAL ADVISORS, INC., on Behalf of Itself and All Others Similarly Situated, Plaintiff, v. SCHWAB INVESTMENTS; and Mariann Byerwalter, Donald F. Dorward, William A. Hasler, Robert G. Holmes, Gerald B. Smith, Donald R. Stephens, Michael W. Wilsey, Charles R. Schwab, Randall W. Merk, Joseph H. Wender and John F. Cogan as Trustees of Schwab Investments; and Charles Schwab Investment Management, Inc., Defendants.\n   </parties><br><docketnumber id=\"b966-11\">\n    Case No. 08-CV-04119 LHK.\n   </docketnumber><br><court id=\"b966-12\">\n    United States District Court, N.D. California, San Jose Division.\n   </court><br><decisiondate id=\"b966-15\">\n    March 2, 2011.\n   </decisiondate><br><attorneys id=\"b969-8\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"929\"> \n     *929\n     </span>\n    Christopher T. Heffelfinger, James Christopher Magid, Lesley Ann Hale, Anthony David Phillips, Joseph J. Tabacco, Jr., Berman DeValerio, San Francisco, CA, Mare J. Gross, Greenbaum Rowe Smith &amp; Davis LLP, Roseland, NJ, Bryan D. Plocker, Greenbaum Rowe Smith &amp; Davis LLP, Iselin, NJ, Robert C. Finkel, Wolf Popper LLP, New York, NY, Steve W. Berman, Hagens Berman Sobol Shapiro LLP, Seattle, WA, Peter E. Borkon, Hagens Berman Sobol Shapiro LLP, Berkeley, CA, for Plaintiffs.\n   </attorneys><br><attorneys id=\"b969-9\">\n    Arthur M. Roberts, John Mark Potter, Patrick C. Doolittle, Quinn Emanuel Urquhart &amp; Sullivan, LLP, San Francisco, CA, Karin A. Kramer, Quinn Emanuel Urquhart &amp; Sullivan, Redwood Shores, CA, Richard Allen Schirtzer, Quinn Emanuel Urquhart and Sullivan LLP, Los Angeles, CA, for Defendants.\n   </attorneys>"
+  }
+]

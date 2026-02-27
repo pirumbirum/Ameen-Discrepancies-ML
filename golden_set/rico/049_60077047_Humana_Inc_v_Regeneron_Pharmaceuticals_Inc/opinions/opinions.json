@@ -1,0 +1,36 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/opinions/10335598/?format=json",
+    "id": 10335598,
+    "absolute_url": "/opinion/9868988/humana-inc-v-regeneron-pharmaceuticals-inc/",
+    "cluster_id": 9868988,
+    "cluster": "https://www.courtlistener.com/api/rest/v4/clusters/9868988/?format=json",
+    "author_id": null,
+    "author": null,
+    "joined_by": [],
+    "date_created": "2024-06-26T03:39:27.420399-07:00",
+    "date_modified": "2025-06-03T21:45:24.662994-07:00",
+    "author_str": "",
+    "per_curiam": false,
+    "joined_by_str": "",
+    "type": "100trialcourt",
+    "sha1": "9f19a8c62108528eb8ccb7638815b3b0e4598d30",
+    "page_count": 1,
+    "download_url": null,
+    "local_path": "recap/gov.uscourts.nysd.563741/gov.uscourts.nysd.563741.27.0_2.pdf",
+    "plain_text": "UNITED STATES DISTRICT COURT                        \u2018| nocunin\u2019               \u25a1 \nSOUTHERN DISTRICT OF NEW YORK                      \\ E LECERONICALLY    \u25a1\u25a1\u25a1   \n     ern    nnron scene nana     sansa cerns casa cemeceocromernn \u25a1\u25a1\u25a1 \u25a1                  4  He     ee   Lm   \u25a1\u25a1\u25a1\u25a1   i \nHUMANA INC.                                   :              | ovr ete  Q\\y0|n \n                 Plaintiff,             :              |     censeensessemnt      we \u25a1\u25a1 \u25a1\u25a1\u25a1 \nv.                                            :       ORDER \nREGENERON PHARMACEUTICALS, INC.,              :       21 CV 6245 (VB) \n                 Defendant.             : \n\n ee en ene ern oe ee  enn nn ee  nee  X \nOn September 27, 2021, defendant Regeneron Pharmaceuticals, Inc., moved to dismiss \nthe complaint or, in the alternative, to stay this case.  (Doc. #20). \nAccordingly, it is hereby ORDERED that, by no later than October 7, 2021, plaintiff \nmust notify the Court by letter whether it (i) intends to file an amended complaint in response to \nthe motion to dismiss, or (ii) will rely on the complaint that is the subject of the motion to \ndismiss. \nIf plaintiff elects not to file an amended complaint, the motion will proceed in the regular \ncourse, and the Court is unlikely to grant plaintiff a further opportunity to amend to address the \npurported deficiencies made apparent by the fully briefed arguments in defendant\u2019s motion.  See \nLoreley Fin. (Jersey) No. 3 Ltd. v. Wells Fargo Sec., LLC, 797 F.3d 160, 190 (2d Cir. 2015) \n(leaving \u201cunaltered the grounds on which denial of leave to amend has long been held proper, \nsuch as undue delay, bad faith, dilatory motive, and futility\u201d); accord F5 Cap. v. Pappas, 856 \nF.3d 61, 89-90 (2d Cir. 2017).  The time to file opposing and reply papers shall be governed by \nthe Federal Rules of Civil Procedure and the Local Civil Rules, unless otherwise ordered by the \nCourt. \nIf plaintiff elects to file an amended complaint, it must file the amended complaint by no \nlater than 14 days after notifying the Court of its intent to do so.  Within 21 days of such \namendment, defendant may either:  (i) file an answer to the amended complaint; (ii) file  a motion \nto dismiss the amended complaint; or (iii) notify the Court by letter that it is relying on the \ninitially filed motion to dismiss. \nDated: September 30, 2021 \nWhite Plains, NY \n                              SO ORDERED: \n\n                              Vincent L. Briccetti \n                              United States District Judge ",
+    "html": "",
+    "html_lawbox": "",
+    "html_columbia": "",
+    "html_anon_2020": "",
+    "xml_harvard": "",
+    "html_with_citations": "<pre class=\"inline\">UNITED STATES DISTRICT COURT                        \u2018| nocunin\u2019               \u25a1 \nSOUTHERN DISTRICT OF NEW YORK                      \\ E LECERONICALLY    \u25a1\u25a1\u25a1   \n     ern    nnron scene nana     sansa cerns casa cemeceocromernn \u25a1\u25a1\u25a1 \u25a1                  4  He     ee   Lm   \u25a1\u25a1\u25a1\u25a1   i \nHUMANA INC.                                   :              | ovr ete  Q\\y0|n \n                 Plaintiff,             :              |     censeensessemnt      we \u25a1\u25a1 \u25a1\u25a1\u25a1 \nv.                                            :       ORDER \nREGENERON PHARMACEUTICALS, INC.,              :       21 CV 6245 (VB) \n                 Defendant.             : \n\n ee en ene ern oe ee  enn nn ee  nee  X \nOn September 27, 2021, defendant Regeneron Pharmaceuticals, Inc., moved to dismiss \nthe complaint or, in the alternative, to stay this case.  (Doc. #20). \nAccordingly, it is hereby ORDERED that, by no later than October 7, 2021, plaintiff \nmust notify the Court by letter whether it (i) intends to file an amended complaint in response to \nthe motion to dismiss, or (ii) will rely on the complaint that is the subject of the motion to \ndismiss. \nIf plaintiff elects not to file an amended complaint, the motion will proceed in the regular \ncourse, and the Court is unlikely to grant plaintiff a further opportunity to amend to address the \npurported deficiencies made apparent by the fully briefed arguments in defendant\u2019s motion.  See \nLoreley Fin. (Jersey) No. 3 Ltd. v. Wells Fargo Sec., LLC, </pre><span class=\"citation\" data-id=\"2820087\"><a href=\"/opinion/2820087/loreley-financing-jersey-no-3-ltd-v-wells-fargo-securities-llc/#190\" aria-description=\"Citation for case: Loreley Financing (Jersey) No. 3 Ltd. v. Wells Fargo...\">797 F.3d 160, 190</a></span><pre class=\"inline\"> (2d Cir. 2015) \n(leaving \u201cunaltered the grounds on which denial of leave to amend has long been held proper, \nsuch as undue delay, bad faith, dilatory motive, and futility\u201d); accord F5 Cap. v. Pappas, </pre><span class=\"citation\" data-id=\"4163336\"><a href=\"/opinion/4386083/f5-capital-v-pappas/#89\" aria-description=\"Citation for case: F5 Capital v. Pappas\">856 \nF.3d 61, 89-90</a></span><pre class=\"inline\"> (2d Cir. 2017).  The time to file opposing and reply papers shall be governed by \nthe Federal Rules of Civil Procedure and the Local Civil Rules, unless otherwise ordered by the \nCourt. \nIf plaintiff elects to file an amended complaint, it must file the amended complaint by no \nlater than 14 days after notifying the Court of its intent to do so.  Within 21 days of such \namendment, defendant may either:  (i) file an answer to the amended complaint; (ii) file  a motion \nto dismiss the amended complaint; or (iii) notify the Court by letter that it is relying on the \ninitially filed motion to dismiss. \nDated: September 30, 2021 \nWhite Plains, NY \n                              SO ORDERED: \n\n                              Vincent L. Briccetti \n                              United States District Judge </pre>",
+    "extracted_by_ocr": true,
+    "ordering_key": null,
+    "main_version": null,
+    "opinions_cited": [
+      "https://www.courtlistener.com/api/rest/v4/opinions/2820087/?format=json",
+      "https://www.courtlistener.com/api/rest/v4/opinions/4163336/?format=json"
+    ]
+  }
+]

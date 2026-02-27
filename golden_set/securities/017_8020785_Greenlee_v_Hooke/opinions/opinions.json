@@ -1,0 +1,33 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/opinions/10336047/?format=json",
+    "id": 10336047,
+    "absolute_url": "/opinion/9869437/greenlee-v-hooke/",
+    "cluster_id": 9869437,
+    "cluster": "https://www.courtlistener.com/api/rest/v4/clusters/9869437/?format=json",
+    "author_id": null,
+    "author": null,
+    "joined_by": [],
+    "date_created": "2024-06-26T03:55:08.392099-07:00",
+    "date_modified": "2025-06-03T22:02:42.940147-07:00",
+    "author_str": "",
+    "per_curiam": false,
+    "joined_by_str": "",
+    "type": "100trialcourt",
+    "sha1": "0491b5aeb2f8e35a9a1e5207ff7cb1d04f57af52",
+    "page_count": 2,
+    "download_url": null,
+    "local_path": "recap/gov.uscourts.nysd.502638/gov.uscourts.nysd.502638.19.0_2.pdf",
+    "plain_text": "                                                       VOL. OLAIN E \n                                                       DOCUMENT \nUNITED STATES DISTRICT COURT                         ELECTRONICALLY \u25a1\u25a1\u25a1 \nSOUTHERN DISTRICT OF NEW YORK                      DOC # \nmanne XK               DATE FILED: __ 1020/2021 \nRAYMOND GREENLEE, derivatively andon       : \nbehalf of MACQUARIE INFRASTRUCTURE   _: \nCORPORATION,                               : \n                                           :            18-CV-9339 (VSB) \n                          Plaintiff,       : \n                                           :                ORDER \n             Vv.                           : \nJAMES HOOKE et al., \n                          Defendants, \n     -and-                                 : \nMACQUARIE INFRASTRUCTURE \nCORPORATION,                                : \n                    Nominal Defendant. \n\n------------  +         \u25a1                xX \n\nVERNON S. BRODERICK, United States District Judge: \n     On October 31, 2018, via stipulation and order, this action was stayed in light of a related \naction pending before me with the case number 18-cv-3608 (the \u201cRiviera Action\u201d) and an \n\u201canticipated motion to dismiss\u201d the Riviera Action, and the parties agreed that, \u201c[w]ithin thirty \n(30) days\u201d of entry of an order in the Riviera Action concerning any motion to dismiss, they \nwould \u201csubmit a proposed schedule to the Court for further proceedings in this\u201d action.  (Doc. 16 \n(the \u201cStay\u201d).) \n     On September 7, 2021, I entered an Opinion and Order granting a motion to dismiss the \nRiviera Action.  See City of Riviera Beach Gen. Emps. Ret. Sys. v. Macquarie Infrastructure \nCorp., 18-CV-3608 (VSB), 2021 WL 4084572 (S.D.N.Y. Sept. 7, 2021).  The parties\u2019 time to \nsubmit a proposed schedule within the meaning of the Stay has thus expired, and no party has \n\ncommunicated any intent to maintain either action. \n     Accordingly, it is hereby: \n     ORDERED that this action is discontinued without costs to any party and without \nprejudice to restoring the action to this Court\u2019s docket if the application to restore is made within \nthirty (30) days. \n     The Clerk of Court is respectfully directed to close the docket. \nSO ORDERED. \nDated: October 20, 2021 \n    New York, New York                   \n                                       Vernon S. Broderick \n                                       United States District Judge",
+    "html": "",
+    "html_lawbox": "",
+    "html_columbia": "",
+    "html_anon_2020": "",
+    "xml_harvard": "",
+    "html_with_citations": "<pre class=\"inline\">                                                       VOL. OLAIN E \n                                                       DOCUMENT \nUNITED STATES DISTRICT COURT                         ELECTRONICALLY \u25a1\u25a1\u25a1 \nSOUTHERN DISTRICT OF NEW YORK                      DOC # \nmanne XK               DATE FILED: __ 1020/2021 \nRAYMOND GREENLEE, derivatively andon       : \nbehalf of MACQUARIE INFRASTRUCTURE   _: \nCORPORATION,                               : \n                                           :            18-CV-9339 (VSB) \n                          Plaintiff,       : \n                                           :                ORDER \n             Vv.                           : \nJAMES HOOKE et al., \n                          Defendants, \n     -and-                                 : \nMACQUARIE INFRASTRUCTURE \nCORPORATION,                                : \n                    Nominal Defendant. \n\n------------  +         \u25a1                xX \n\nVERNON S. BRODERICK, United States District Judge: \n     On October 31, 2018, via stipulation and order, this action was stayed in light of a related \naction pending before me with the case number 18-cv-3608 (the \u201cRiviera Action\u201d) and an \n\u201canticipated motion to dismiss\u201d the Riviera Action, and the parties agreed that, \u201c[w]ithin thirty \n(30) days\u201d of entry of an order in the Riviera Action concerning any motion to dismiss, they \nwould \u201csubmit a proposed schedule to the Court for further proceedings in this\u201d action.  (Doc. 16 \n(the \u201cStay\u201d).) \n     On September 7, 2021, I entered an Opinion and Order granting a motion to dismiss the \nRiviera Action.  See City of Riviera Beach Gen. Emps. Ret. Sys. v. Macquarie Infrastructure \nCorp., 18-CV-3608 (VSB), </pre><span class=\"citation no-link\">2021 WL 4084572</span><pre class=\"inline\"> (S.D.N.Y. Sept. 7, 2021).  The parties\u2019 time to \nsubmit a proposed schedule within the meaning of the Stay has thus expired, and no party has \n\ncommunicated any intent to maintain either action. \n     Accordingly, it is hereby: \n     ORDERED that this action is discontinued without costs to any party and without \nprejudice to restoring the action to this Court\u2019s docket if the application to restore is made within \nthirty (30) days. \n     The Clerk of Court is respectfully directed to close the docket. \nSO ORDERED. \nDated: October 20, 2021 \n    New York, New York                   \n                                       Vernon S. Broderick \n                                       United States District Judge</pre>",
+    "extracted_by_ocr": true,
+    "ordering_key": null,
+    "main_version": null,
+    "opinions_cited": []
+  }
+]

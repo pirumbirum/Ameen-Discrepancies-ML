@@ -1,0 +1,36 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/opinions/10349657/?format=json",
+    "id": 10349657,
+    "absolute_url": "/opinion/9883047/stein-v-first-eagle-alternative-capital-bdc-inc/",
+    "cluster_id": 9883047,
+    "cluster": "https://www.courtlistener.com/api/rest/v4/clusters/9883047/?format=json",
+    "author_id": null,
+    "author": null,
+    "joined_by": [],
+    "date_created": "2024-06-26T11:48:23.876062-07:00",
+    "date_modified": "2025-06-02T16:49:17.305288-07:00",
+    "author_str": "",
+    "per_curiam": false,
+    "joined_by_str": "",
+    "type": "100trialcourt",
+    "sha1": "838e9e9deddf006818d735eaaf7a21c4017866e3",
+    "page_count": 1,
+    "download_url": null,
+    "local_path": "recap/gov.uscourts.nysd.589913/gov.uscourts.nysd.589913.4.0.pdf",
+    "plain_text": "                                                       UsDC SUNY \n                                                       DOCUMENT \n                                                       ELECTRONICALLY FILED \nUNITED STATES DISTRICT COURT                         DOC #: \nSOUTHERN DISTRICT OF NEW YORK                      DATE FILED:_  3/22/2023 \n SHIVA STEIN, \n                     Plaintiff, \n                       .                               1:22-cv-9932-MKV \n                    -against- \nFIRST EAGLE ALTERNATIVE CAPITAL BDC,           ORDER OF DISMISSAL \nINC., et al., \n                     Defendants. \n\nMARY KAY VYSKOCIL, United States District Judge: \n      Plaintiff initiated this action by filing  a complaint on November 22, 2022.  [ECF No. 1]. \nOn March 6, 2023, the Court directed plaintiff, who had done nothing to prosecute the case, to \nserve the summons and complaint on the defendants on or before March 20, 2023.  ECF No. 3. \nThe Court warned that \u201cif plaintiff fails to show cause, in writing, why service has not been \nmade, the complaint will be dismissed for failure to prosecute pursuant to Rules 4 and 41 of the \nFederal Rules of Civil Procedure.\u201d  ECF No. 3 \n      To date, no proof of service of the summons and complaint has been filed and plaintiff \nhas not prosecuted this case.  Accordingly, IT IS HEREBY ORDERED that the above-captioned \naction is discontinued for failure to prosecute without costs to any party and without prejudice to \nrestoring the action to this Court\u2019s calendar if the application to restore the action is made by \nApril 22, 2023.  Ifno such application is made by that date, today\u2019s dismissal of the action is \nwith prejudice.  See LeSane v. Hall\u2019s Sec. Analyst, Inc., 239 F.3d 206, 209 (2d Cir. 2001) (citing \nLink v. Wabash R.R. Co., 370 U.S. 626, 630 (1962)). \nSO ORDERED. \n\nDate:  March 22, 2023                              they ci     OCIL \n      New York, NY                                 ited States District  Judge ",
+    "html": "",
+    "html_lawbox": "",
+    "html_columbia": "",
+    "html_anon_2020": "",
+    "xml_harvard": "",
+    "html_with_citations": "<pre class=\"inline\">                                                       UsDC SUNY \n                                                       DOCUMENT \n                                                       ELECTRONICALLY FILED \nUNITED STATES DISTRICT COURT                         DOC #: \nSOUTHERN DISTRICT OF NEW YORK                      DATE FILED:_  3/22/2023 \n SHIVA STEIN, \n                     Plaintiff, \n                       .                               1:22-cv-9932-MKV \n                    -against- \nFIRST EAGLE ALTERNATIVE CAPITAL BDC,           ORDER OF DISMISSAL \nINC., et al., \n                     Defendants. \n\nMARY KAY VYSKOCIL, United States District Judge: \n      Plaintiff initiated this action by filing  a complaint on November 22, 2022.  [ECF No. 1]. \nOn March 6, 2023, the Court directed plaintiff, who had done nothing to prosecute the case, to \nserve the summons and complaint on the defendants on or before March 20, 2023.  ECF No. 3. \nThe Court warned that \u201cif plaintiff fails to show cause, in writing, why service has not been \nmade, the complaint will be dismissed for failure to prosecute pursuant to Rules 4 and 41 of the \nFederal Rules of Civil Procedure.\u201d  ECF No. 3 \n      To date, no proof of service of the summons and complaint has been filed and plaintiff \nhas not prosecuted this case.  Accordingly, IT IS HEREBY ORDERED that the above-captioned \naction is discontinued for failure to prosecute without costs to any party and without prejudice to \nrestoring the action to this Court\u2019s calendar if the application to restore the action is made by \nApril 22, 2023.  Ifno such application is made by that date, today\u2019s dismissal of the action is \nwith prejudice.  See LeSane v. Hall\u2019s Sec. Analyst, Inc., </pre><span class=\"citation\" data-id=\"771967\"><a href=\"/opinion/771967/barry-lesane-v-halls-security-analyst-inc/#209\" aria-description=\"Citation for case: Barry Lesane v. Hall&#x27;s Security Analyst, Inc.\">239 F.3d 206, 209</a></span><pre class=\"inline\"> (2d Cir. 2001) (citing \nLink v. Wabash R.R. Co., </pre><span class=\"citation\" data-id=\"9422469\"><a href=\"/opinion/106449/link-v-wabash-railroad/#630\" aria-description=\"Citation for case: Link v. Wabash Railroad\">370 U.S. 626, 630</a></span><pre class=\"inline\"> (1962)). \nSO ORDERED. \n\nDate:  March 22, 2023                              they ci     OCIL \n      New York, NY                                 ited States District  Judge </pre>",
+    "extracted_by_ocr": true,
+    "ordering_key": null,
+    "main_version": null,
+    "opinions_cited": [
+      "https://www.courtlistener.com/api/rest/v4/opinions/771967/?format=json",
+      "https://www.courtlistener.com/api/rest/v4/opinions/9422469/?format=json"
+    ]
+  }
+]
