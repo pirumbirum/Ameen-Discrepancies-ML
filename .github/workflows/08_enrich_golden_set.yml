@@ -1,18 +1,8 @@
 name: "08: Enrich Golden Set"
 
-# Fetches COMPLETE structured data for each golden set case:
-#   Phase 1: full_docket           — complete docket (40+ fields, parties inline)
-#   Phase 2: docket_entries        — every filing + nested RECAP docs with FULL TEXT
-#   Phase 3: citations             — citation graph (citing + cited_by)
-#   Phase 4: oral_arguments        — oral argument audio metadata
-#   Phase 5: judge_profiles        — judge person records (positions, education)
-#   Phase 6: financial_disclosures — judge financial disclosures
-#
-# Each docket entry contains nested recap_documents with plain_text —
-# this is the actual document text, not just metadata.
-#
-# Resumable: re-run picks up where it stopped.
-# Periodic git checkpoints save progress.
+# Downloads COMPLETE data for all 1,100 golden set cases.
+# Saves every 15 minutes with a status report.
+# Resumable — re-run picks up where it stopped.
 
 on:
   workflow_dispatch:
@@ -42,12 +32,8 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: "Clean bad markers from previous runs"
+      - name: "Clean invalid markers"
         run: |
-          python3 scripts/enrich_golden_set.py all --clean-bad-markers --commit-every 0 2>&1 | head -5 || true
-          # The script exits after cleaning if --commit-every=0 and phase=all,
-          # so we just want the cleaning side effect.
-          # Actually, let's just do it inline:
           python3 -c "
           import json, os
           cleaned = 0
@@ -65,49 +51,84 @@ jobs:
           print(f'Cleaned {cleaned} invalid markers')
           "
 
-      - name: "Enrich: all 6 phases"
+      - name: "Enrich: all 6 phases (saves every 15 min)"
         env:
           CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
         run: |
-          python3 scripts/enrich_golden_set.py all --commit-every 50
+          python3 scripts/enrich_golden_set.py all --checkpoint-minutes 15
 
-      - name: Summary
+      - name: "Status Report"
         if: always()
         run: |
-          echo "=== Enrichment layer counts ==="
-          for layer in full_docket docket_entries citations oral_arguments judge_profiles financial_disclosures; do
-            count=$(find golden_set -path "*/${layer}/_done.json" -exec grep -l '"status": "ok"' {} \; 2>/dev/null | wc -l)
-            echo "  ${layer}: ${count} cases enriched"
-          done
-          echo ""
-          echo "=== Docket entries text coverage ==="
           python3 -c "
           import json, os
+
+          print('=' * 60)
+          print('ENRICHMENT STATUS REPORT')
+          print('=' * 60)
+
+          layers = ['full_docket', 'docket_entries', 'citations',
+                    'oral_arguments', 'judge_profiles', 'financial_disclosures']
+
+          total_cases = 0
+          for cat in sorted(os.listdir('golden_set')):
+              cat_dir = os.path.join('golden_set', cat)
+              if os.path.isdir(cat_dir):
+                  total_cases += len([c for c in os.listdir(cat_dir)
+                                     if os.path.isdir(os.path.join(cat_dir, c))])
+
+          print(f'Total cases: {total_cases}')
+          print()
+
+          for layer in layers:
+              done = 0
+              for root, dirs, files in os.walk('golden_set'):
+                  if layer in dirs:
+                      marker = os.path.join(root, layer, '_done.json')
+                      if os.path.isfile(marker):
+                          try:
+                              m = json.load(open(marker))
+                              if m.get('status') == 'ok':
+                                  done += 1
+                          except:
+                              pass
+              pct = done / max(total_cases, 1) * 100
+              bar = '#' * int(pct / 2) + '.' * (50 - int(pct / 2))
+              print(f'  {layer:30s} [{bar}] {done:>5}/{total_cases} ({pct:.0f}%)')
+
+          # Docket entries detail
+          print()
+          print('Docket entries detail:')
           total_entries = 0
           total_docs = 0
           docs_with_text = 0
           for root, dirs, files in os.walk('golden_set'):
-              if 'entries.json' in files and 'docket_entries' in root:
-                  entries = json.load(open(os.path.join(root, 'entries.json')))
-                  total_entries += len(entries)
-                  for e in entries:
-                      for d in e.get('recap_documents', []):
-                          total_docs += 1
-                          if d.get('plain_text'):
-                              docs_with_text += 1
+              if '_done.json' in files and 'docket_entries' in root:
+                  try:
+                      m = json.load(open(os.path.join(root, '_done.json')))
+                      if m.get('status') == 'ok':
+                          total_entries += m.get('entry_count', 0)
+                          total_docs += m.get('recap_doc_count', 0)
+                          docs_with_text += m.get('docs_with_text', 0)
+                  except:
+                      pass
           print(f'  Total docket entries: {total_entries:,}')
           print(f'  Total RECAP documents: {total_docs:,}')
           print(f'  Documents with full text: {docs_with_text:,}')
+
+          print()
+          print('Disk usage:')
           " 2>/dev/null || true
-          echo ""
           du -sh golden_set/
+          du -sh golden_set/*/  2>/dev/null | sort -rh | head -15
 
       - name: Final commit
         if: always()
         run: |
           git add golden_set/
           git diff --cached --quiet && echo "All committed during enrichment" && exit 0
-          git commit -m "Enrich golden set: final commit"
+          git commit -m "Enrich golden set: final save"
+          git pull --rebase origin HEAD || true
           git push
 
       - name: Upload artifact
