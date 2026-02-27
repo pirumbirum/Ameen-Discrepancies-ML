@@ -1,0 +1,177 @@
+name: "09: Build ML Set"
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # ── DIAGNOSTIC: discover 1 category only ──
+      - name: "DIAGNOSTIC: discover antitrust only"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: |
+          python3 -c "
+          import scripts.build_ml_set as b
+          import os, json, time
+          token = os.environ.get('CL_API_TOKEN', '') or os.environ.get('COURTLISTENER_TOKEN', '')
+          b.api_get(b.CL_API + '/courts/?format=json&page_size=1', token)
+          # Test just antitrust - find candidates, score top 10, show results
+          os.makedirs('ml-set/antitrust', exist_ok=True)
+          cat = b.CATEGORIES['antitrust']
+          nos = cat['nos']
+          print('Testing search API type=r for antitrust (NOS 410)...')
+          url = f'{b.CL_API}/search/?type=r&suitNature={nos}&order_by=dateFiled+desc'
+          data, err = b.api_get(url, token)
+          if err:
+              print(f'SEARCH FAILED: {err}')
+              exit(1)
+          results = data.get('results', [])
+          print(f'Search returned {len(results)} results on first page')
+          if not results:
+              print('NO RESULTS - check NOS code')
+              exit(1)
+          print(f'First result: {results[0].get(\"caseName\", \"?\")}')
+          print(f'Has recap_documents: {len(results[0].get(\"recap_documents\", []))}')
+          print()
+          # Score first 5 candidates
+          for i, r in enumerate(results[:5]):
+              did = r.get('docket_id')
+              print(f'Candidate {i+1}: docket_id={did} — {r.get(\"caseName\", \"?\")[:50]}')
+              # Check entries
+              edata, _ = b.api_get(f'{b.CL_API}/docket-entries/?docket={did}&format=json&page_size=1', token)
+              entry_count = 0
+              if edata:
+                  entry_count = edata.get('count', len(edata.get('results', [])))
+                  if not isinstance(entry_count, int): entry_count = len(edata.get('results', []))
+              # Check docs
+              ddata, _ = b.api_get(f'{b.CL_API}/recap-documents/?docket_entry__docket={did}&is_available=true&format=json&page_size=1', token)
+              doc_count = 0
+              if ddata:
+                  doc_count = ddata.get('count', len(ddata.get('results', [])))
+                  if not isinstance(doc_count, int): doc_count = len(ddata.get('results', []))
+              # Check clusters
+              docket, _ = b.api_get(f'{b.CL_API}/dockets/{did}/?fields=id,clusters&format=json', token)
+              cluster_count = len(docket.get('clusters', [])) if docket else 0
+              print(f'  entries={entry_count} docs={doc_count} clusters={cluster_count}')
+              time.sleep(0.2)
+          print()
+          print(f'DIAGNOSTIC PASSED — API calls: {b._stats[\"api_calls\"]}')
+          "
+
+      - name: "Save diagnostic"
+        run: |
+          git add ml-set/ 2>/dev/null || true
+          git diff --cached --quiet && echo "Nothing new" && exit 0
+          git commit -m "ML-set diagnostic" && git push
+
+      # ── PHASE 1: DISCOVER all 11 categories ──
+      - name: "Discover: all categories"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/build_ml_set.py discover
+
+      - name: "Save discovery"
+        if: always()
+        run: |
+          git add ml-set/
+          git diff --cached --quiet && echo "Nothing new" && exit 0
+          git commit -m "ML-set: discovery complete (11 categories ranked)"
+          git push
+
+      # ── PHASE 2: DOWNLOAD in batches with saves ──
+      - name: "Download batch 1: cases 1-200"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/build_ml_set.py download --limit 200
+
+      - name: "Save batch 1"
+        if: always()
+        run: |
+          git add ml-set/ && git diff --cached --quiet && exit 0
+          git commit -m "ML-set download: cases 1-200" && git push
+
+      - name: "Download batch 2: cases 201-400"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/build_ml_set.py download --limit 400
+
+      - name: "Save batch 2"
+        if: always()
+        run: |
+          git add ml-set/ && git diff --cached --quiet && exit 0
+          git commit -m "ML-set download: cases 201-400" && git push
+
+      - name: "Download batch 3: cases 401-600"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/build_ml_set.py download --limit 600
+
+      - name: "Save batch 3"
+        if: always()
+        run: |
+          git add ml-set/ && git diff --cached --quiet && exit 0
+          git commit -m "ML-set download: cases 401-600" && git push
+
+      - name: "Download batch 4: cases 601-800"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/build_ml_set.py download --limit 800
+
+      - name: "Save batch 4"
+        if: always()
+        run: |
+          git add ml-set/ && git diff --cached --quiet && exit 0
+          git commit -m "ML-set download: cases 601-800" && git push
+
+      - name: "Download batch 5: cases 801-1100"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/build_ml_set.py download
+
+      - name: "Save batch 5"
+        if: always()
+        run: |
+          git add ml-set/ && git diff --cached --quiet && exit 0
+          git commit -m "ML-set download: cases 801-1100" && git push
+
+      # ── REPORT ──
+      - name: "Report"
+        if: always()
+        run: |
+          python3 scripts/build_ml_set.py report
+          du -sh ml-set/ 2>/dev/null || true
+
+      - name: Upload artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ml-set-${{ github.run_id }}
+          path: ml-set/
+          retention-days: 90
