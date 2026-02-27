@@ -1,0 +1,66 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/clusters/2588781/?format=json",
+    "id": 2588781,
+    "absolute_url": "/opinion/2588781/double-oak-construction-llc-v-cornerstone-development-international/",
+    "panel": [],
+    "non_participating_judges": [],
+    "docket_id": 5425,
+    "docket": "https://www.courtlistener.com/api/rest/v4/dockets/5425/?format=json",
+    "sub_opinions": [
+      "https://www.courtlistener.com/api/rest/v4/opinions/2588781/?format=json"
+    ],
+    "citations": [
+      {
+        "date_created": "2025-09-25T21:50:34.120042-07:00",
+        "date_modified": "2025-09-25T21:50:34.139566-07:00",
+        "volume": "97",
+        "reporter": "P.3d",
+        "page": "140",
+        "type": 3
+      },
+      {
+        "date_created": "2025-09-25T21:50:34.120042-07:00",
+        "date_modified": "2025-09-25T21:50:34.139566-07:00",
+        "volume": "2003",
+        "reporter": "Colo. App. LEXIS",
+        "page": "1502",
+        "type": 2
+      }
+    ],
+    "date_created": "2014-10-29T22:48:49.622985-07:00",
+    "date_modified": "2024-11-13T03:18:41.778785-08:00",
+    "judges": "Graham, Davidson, Nieto",
+    "date_filed": "2003-09-25",
+    "date_filed_is_approximate": false,
+    "slug": "double-oak-construction-llc-v-cornerstone-development-international",
+    "case_name_short": "",
+    "case_name": "Double Oak Construction L.L.C. v. Cornerstone Development International, L.L.C.",
+    "case_name_full": "DOUBLE OAK CONSTRUCTION, L.L.C., a Colorado Limited Liability Company, Plaintiff-Appellee, v. CORNERSTONE DEVELOPMENT INTERNATIONAL, L.L.C., a Colorado Limited Liability Company; Bongil Ho; Brian Yoo, A/K/A Inhyung B. Yoo; And Muscanto, L.L.C., Defendants-Appellants",
+    "scdb_id": "",
+    "scdb_decision_direction": null,
+    "scdb_votes_majority": null,
+    "scdb_votes_minority": null,
+    "source": "LU",
+    "procedural_history": "",
+    "attorneys": "Kennedy & Christopher, P.C., John R. Mann, Denver, Colorado, for Plaintiff-Appel-lee., Hamil/Hecht LLC, Charles B. Hecht, Denver, Colorado, for Defendants-Appellants.",
+    "nature_of_suit": "",
+    "posture": "",
+    "syllabus": "",
+    "headnotes": "",
+    "summary": "",
+    "disposition": "",
+    "history": "",
+    "other_dates": "Certiorari Denied Aug. 16, 2004.",
+    "cross_reference": "",
+    "correction": "",
+    "citation_count": 52,
+    "precedential_status": "Published",
+    "date_blocked": "2021-04-16",
+    "blocked": true,
+    "filepath_json_harvard": "law.free.cap.p3d.97/140.9193193.json",
+    "filepath_pdf_harvard": "harvard_pdf/2588781.pdf",
+    "arguments": "",
+    "headmatter": "<parties id=\"b168-12\">\n    DOUBLE OAK CONSTRUCTION, L.L.C., a Colorado limited liability company, Plaintiff-Appellee, v. CORNERSTONE DEVELOPMENT INTERNATIONAL, L.L.C., a Colorado limited liability company; Bongil Ho; Brian Yoo, a/k/a Inhyung B. Yoo; and Muscanto, L.L.C., Defendants-Appellants.\n   </parties><docketnumber id=\"Af\">\n    No. 02CA1162.\n   </docketnumber><court id=\"ABv\">\n    Colorado Court of Appeals, Div. IV.\n   </court><decisiondate id=\"AsW\">\n    Sept. 25, 2003.\n   </decisiondate><otherdate id=\"AcV\">\n    Certiorari Denied Aug. 16, 2004.\n   </otherdate><br><attorneys id=\"b172-20\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"144\"> \n     *144\n     </span>\n    Kennedy &amp; Christopher, P.C., John R. Mann, Denver, Colorado, for Plaintiff-Appel-lee.\n   </attorneys><br><attorneys id=\"b172-21\">\n    Hamil/Hecht LLC, Charles B. Hecht, Denver, Colorado, for Defendants-Appellants.\n   </attorneys>"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/opinions/10037084/?format=json",
+    "id": 10037084,
+    "absolute_url": "/opinion/9570471/sun-world-international-llc-v-the-hartford-steam-boiler-inspection-and/",
+    "cluster_id": 9570471,
+    "cluster": "https://www.courtlistener.com/api/rest/v4/clusters/9570471/?format=json",
+    "author_id": null,
+    "author": null,
+    "joined_by": [],
+    "date_created": "2024-06-19T16:15:35.145055-07:00",
+    "date_modified": "2025-07-24T13:21:38.314762-07:00",
+    "author_str": "",
+    "per_curiam": false,
+    "joined_by_str": "",
+    "type": "100trialcourt",
+    "sha1": "aab1c92122ec20392c02fbd0282604bf526dbded",
+    "page_count": 1,
+    "download_url": null,
+    "local_path": "recap/gov.uscourts.cacd.769941/gov.uscourts.cacd.769941.10.0.pdf",
+    "plain_text": "                       CIVIL MINUTES - GENERAL                              \nCase No.  ED CV 20-00107 FMO (SPx)             Date February 25, 2020       \nTitle     Sun World International, LLC v. The Hartford Steam Boiler Inspection and\n          Insurance Company, et al.                                         \nPresent: The Honorable Fernando M. Olguin, United States District Judge     \n         Vanessa Figueroa                      None Present                 \n           Deputy Clerk                   Court Reporter / Recorder         \n     Attorneys Present for Plaintiffs:  Attorneys Present for Defendants:   \n            None Present                       None Present                 \nProceedings:    (In Chambers) Order to Show Cause Re: Dismissal Re: Lack of \n                Prosecution                                                 \n    Absent a showing of good cause, an action must be dismissed without prejudice if the\nsummons and complaint are not served on a defendant within 90 days after the complaint is filed. \nFed. R. Civ. P. 4(m).  Generally, a defendant must answer the complaint within 21 days after\nservice (60 days if the defendant is the United States).  Fed. R. Civ. P. 12(a).  The court may\ndismiss the action prior to the 90 days, however, if plaintiff(s) has/have not diligently prosecuted\nthe action.                                                                  \n    In the present case, it appears that one or more of these time periods has not been met. \nAccordingly, the court, on its own motion, orders plaintiff(s) to show cause in writing on or before\nMarch 3, 2020, why this action should not be dismissed for lack of prosecution.  Pursuant to Fed.\nR. Civ. P. 78(b), the court finds that this matter is appropriate for submission without oral\nargument.  The Order to Show Cause will stand submitted upon the filing of:  \n#    An answer by the following defendant(s):                                \n    PACIFIC COAST PROCESS SOLUTIONS, INC. and GEORGE WHITE                  \n#    Plaintiff\u2019s application for entry of default pursuant to Fed. R. Civ. P. 55(a):\n    PACIFIC COAST PROCESS SOLUTIONS, INC. and GEORGE WHITE                  \non or before the date indicated above.  Failure to file a timely response to this Order to Show\nCause shall result in the action or the above defendant(s) being dismissed for lack of prosecution\nand for failure to comply with the orders of the court.  See Local Rule 41; Fed. R. Civ. P. 4 & 41(b);\nLink v. Wabash R.R. Co., 370 U.S. 626, 629-30, 82 S.Ct. 1386, 1388 (1962).   \n                                                       00   :   00          ",
+    "html": "",
+    "html_lawbox": "",
+    "html_columbia": "",
+    "html_anon_2020": "",
+    "xml_harvard": "",
+    "html_with_citations": "<pre class=\"inline\">                       CIVIL MINUTES - GENERAL                              \nCase No.  ED CV 20-00107 FMO (SPx)             Date February 25, 2020       \nTitle     Sun World International, LLC v. The Hartford Steam Boiler Inspection and\n          Insurance Company, et al.                                         \nPresent: The Honorable Fernando M. Olguin, United States District Judge     \n         Vanessa Figueroa                      None Present                 \n           Deputy Clerk                   Court Reporter / Recorder         \n     Attorneys Present for Plaintiffs:  Attorneys Present for Defendants:   \n            None Present                       None Present                 \nProceedings:    (In Chambers) Order to Show Cause Re: Dismissal Re: Lack of \n                Prosecution                                                 \n    Absent a showing of good cause, an action must be dismissed without prejudice if the\nsummons and complaint are not served on a defendant within 90 days after the complaint is filed. \nFed. R. Civ. P. 4(m).  Generally, a defendant must answer the complaint within 21 days after\nservice (60 days if the defendant is the United States).  Fed. R. Civ. P. 12(a).  The court may\ndismiss the action prior to the 90 days, however, if plaintiff(s) has/have not diligently prosecuted\nthe action.                                                                  \n    In the present case, it appears that one or more of these time periods has not been met. \nAccordingly, the court, on its own motion, orders plaintiff(s) to show cause in writing on or before\nMarch 3, 2020, why this action should not be dismissed for lack of prosecution.  Pursuant to Fed.\nR. Civ. P. 78(b), the court finds that this matter is appropriate for submission without oral\nargument.  The Order to Show Cause will stand submitted upon the filing of:  \n#    An answer by the following defendant(s):                                \n    PACIFIC COAST PROCESS SOLUTIONS, INC. and GEORGE WHITE                  \n#    Plaintiff\u2019s application for entry of default pursuant to Fed. R. Civ. P. 55(a):\n    PACIFIC COAST PROCESS SOLUTIONS, INC. and GEORGE WHITE                  \non or before the date indicated above.  Failure to file a timely response to this Order to Show\nCause shall result in the action or the above defendant(s) being dismissed for lack of prosecution\nand for failure to comply with the orders of the court.  See Local Rule 41; Fed. R. Civ. P. 4 &amp; 41(b);\nLink v. Wabash R.R. Co., </pre><span class=\"citation\" data-id=\"9422469\"><a href=\"/opinion/106449/link-v-wabash-railroad/#629\" aria-description=\"Citation for case: Link v. Wabash Railroad\">370 U.S. 626, 629-30</a></span><pre class=\"inline\">, </pre><span class=\"citation\" data-id=\"9422469\"><a href=\"/opinion/106449/link-v-wabash-railroad/#1388\" aria-description=\"Citation for case: Link v. Wabash Railroad\">82 S.Ct. 1386, 1388</a></span><pre class=\"inline\"> (1962).   \n                                                       00   :   00          </pre>",
+    "extracted_by_ocr": false,
+    "ordering_key": null,
+    "main_version": null,
+    "opinions_cited": [
+      "https://www.courtlistener.com/api/rest/v4/opinions/9422469/?format=json"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/opinions/10324782/?format=json",
+    "id": 10324782,
+    "absolute_url": "/opinion/9858170/dr-jays-inc-v-liberty-mutual-fire-insurance-company/",
+    "cluster_id": 9858170,
+    "cluster": "https://www.courtlistener.com/api/rest/v4/clusters/9858170/?format=json",
+    "author_id": null,
+    "author": null,
+    "joined_by": [],
+    "date_created": "2024-06-25T22:50:42.278502-07:00",
+    "date_modified": "2025-07-24T15:07:54.391074-07:00",
+    "author_str": "",
+    "per_curiam": false,
+    "joined_by_str": "",
+    "type": "100trialcourt",
+    "sha1": "07822a997d4a2c8555c391d2a9e9ffa080fa13b0",
+    "page_count": 1,
+    "download_url": null,
+    "local_path": "recap/gov.uscourts.nysd.524940/gov.uscourts.nysd.524940.35.0.pdf",
+    "plain_text": "                                                   USDC-SDNY \n                                                   DOCUMENT \n                                                   ELECTRONICALLY FILED \nUNITED STATES DISTRICT COURT                     DOC#: \nSOUTHERN DISTRICT OF NEW YORK                  DATE FILED:  7/31/2020 \n\nDR. JAY\u2019S, INC., \n                     Plaintiff, \n                                                No. 19-CV-9700 (RA) \n                 v. \n                                                      ORDER \nLIBERTY MUTUAL FIRE INSURANCE \nCOMPANY, \n                     Defendant. \n\nRONNIE ABRAMS, United States District Judge: \n     It has been reported to the Court that this case has been settled.  Accordingly, it is hereby: \nORDERED that the above-captioned action is discontinued without costs to any party and \nwithout prejudice to restoring the action to this Court\u2019s docket if the application to restore the \naction is made within thirty (30) days.  Any application to reopen this action must be filed within \nthirty (30) days of this order, and any application filed thereafter may be denied solely on that \nbasis.  If the parties seek to have the Court retain jurisdiction to enforce a settlement agreement, \nthe terms of the agreement must be placed on the public record and \u201cso ordered\u201d by the Court \nwithin the same thirty-day period.  See Hendrickson v. United States, 791 F.3d 354, 358 (2d Cir. \n2015).  The Clerk of Court is respectfully directed to close this case. \nSO ORDERED. \nDated:    July 31, 2020                                 \n       New York, New York                kA \n                                      \u25a1 /        Te \n                                      Ronnie Abrams \n                                      United States District Judge ",
+    "html": "",
+    "html_lawbox": "",
+    "html_columbia": "",
+    "html_anon_2020": "",
+    "xml_harvard": "",
+    "html_with_citations": "<pre class=\"inline\">                                                   USDC-SDNY \n                                                   DOCUMENT \n                                                   ELECTRONICALLY FILED \nUNITED STATES DISTRICT COURT                     DOC#: \nSOUTHERN DISTRICT OF NEW YORK                  DATE FILED:  7/31/2020 \n\nDR. JAY\u2019S, INC., \n                     Plaintiff, \n                                                No. 19-CV-9700 (RA) \n                 v. \n                                                      ORDER \nLIBERTY MUTUAL FIRE INSURANCE \nCOMPANY, \n                     Defendant. \n\nRONNIE ABRAMS, United States District Judge: \n     It has been reported to the Court that this case has been settled.  Accordingly, it is hereby: \nORDERED that the above-captioned action is discontinued without costs to any party and \nwithout prejudice to restoring the action to this Court\u2019s docket if the application to restore the \naction is made within thirty (30) days.  Any application to reopen this action must be filed within \nthirty (30) days of this order, and any application filed thereafter may be denied solely on that \nbasis.  If the parties seek to have the Court retain jurisdiction to enforce a settlement agreement, \nthe terms of the agreement must be placed on the public record and \u201cso ordered\u201d by the Court \nwithin the same thirty-day period.  See Hendrickson v. United States, </pre><span class=\"citation\" data-id=\"8413506\"><a href=\"/opinion/8442265/hendrickson-v-united-states/#358\" aria-description=\"Citation for case: Hendrickson v. United States\">791 F.3d 354, 358</a></span><pre class=\"inline\"> (2d Cir. \n2015).  The Clerk of Court is respectfully directed to close this case. \nSO ORDERED. \nDated:    July 31, 2020                                 \n       New York, New York                kA \n                                      \u25a1 /        Te \n                                      Ronnie Abrams \n                                      United States District Judge </pre>",
+    "extracted_by_ocr": true,
+    "ordering_key": null,
+    "main_version": null,
+    "opinions_cited": [
+      "https://www.courtlistener.com/api/rest/v4/opinions/8413506/?format=json"
+    ]
+  }
+]

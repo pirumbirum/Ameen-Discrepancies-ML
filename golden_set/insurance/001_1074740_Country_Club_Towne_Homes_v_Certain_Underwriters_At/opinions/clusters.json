@@ -1,0 +1,74 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/clusters/1528729/?format=json",
+    "id": 1528729,
+    "absolute_url": "/opinion/1528729/national-mediation-board-v-continental-airlines-corp-in-re-continental/",
+    "panel": [],
+    "non_participating_judges": [],
+    "docket_id": 1074740,
+    "docket": "https://www.courtlistener.com/api/rest/v4/dockets/1074740/?format=json",
+    "sub_opinions": [
+      "https://www.courtlistener.com/api/rest/v4/opinions/1528729/?format=json"
+    ],
+    "citations": [
+      {
+        "date_created": "2025-09-25T21:50:34.120042-07:00",
+        "date_modified": "2025-09-25T21:50:34.139566-07:00",
+        "volume": "50",
+        "reporter": "B.R.",
+        "page": "342",
+        "type": 4
+      },
+      {
+        "date_created": "2025-09-25T21:50:34.120042-07:00",
+        "date_modified": "2025-09-25T21:50:34.139566-07:00",
+        "volume": "119",
+        "reporter": "L.R.R.M. (BNA)",
+        "page": "2752",
+        "type": 4
+      },
+      {
+        "date_created": "2025-09-25T21:50:34.120042-07:00",
+        "date_modified": "2025-09-25T21:50:34.139566-07:00",
+        "volume": "1985",
+        "reporter": "U.S. Dist. LEXIS",
+        "page": "19340",
+        "type": 6
+      }
+    ],
+    "date_created": "2014-10-30T07:09:08.016236-07:00",
+    "date_modified": "2024-11-02T10:24:58.224996-07:00",
+    "judges": "Singleton",
+    "date_filed": "1985-05-31",
+    "date_filed_is_approximate": false,
+    "slug": "national-mediation-board-v-continental-airlines-corp-in-re-continental",
+    "case_name_short": "In Re Continental Airlines Corp.",
+    "case_name": "National Mediation Board v. Continental Airlines Corp. (In Re Continental Airlines Corp.)",
+    "case_name_full": "In Re CONTINENTAL AIRLINES CORPORATION, Et Al., Debtors. the NATIONAL MEDIATION BOARD, Walter C. Wallace, Chairman, Robert A. Harris, Member, and Helen Witt, Member, Appellants, v. CONTINENTAL AIRLINES CORPORATION, Et Al., Appellees",
+    "scdb_id": "",
+    "scdb_decision_direction": null,
+    "scdb_votes_majority": null,
+    "scdb_votes_minority": null,
+    "source": "LU",
+    "procedural_history": "",
+    "attorneys": "Lenard Parkins, Sheinfeld, Maley & Kay, Houston, Tex., Richard L. Wyatt, Jr., Fisher & Phillips, Atlanta, Ga., John J. Gallagher, Jr., Akin, Gump, Strauss, Hauer & Feld, Washington, D.C., Weil, Gotshal & Mang-es, New York City, N.Y., for Continental Airlines, debtor, appellee., Allen L. Lear, Dept, of Justice, Washington, D.C., Letitia Z. Taitte, Asst. U.S. Atty., Houston, Tex., for National Mediation Board, appellant., Wilma B. Liebman, Washington, D.C., for International Brotherhood of Teamsters.",
+    "nature_of_suit": "",
+    "posture": "",
+    "syllabus": "",
+    "headnotes": "",
+    "summary": "",
+    "disposition": "",
+    "history": "",
+    "other_dates": "",
+    "cross_reference": "",
+    "correction": "",
+    "citation_count": 13,
+    "precedential_status": "Published",
+    "date_blocked": null,
+    "blocked": false,
+    "filepath_json_harvard": "law.free.cap.br.50/342.6105982.json",
+    "filepath_pdf_harvard": "harvard_pdf/1528729.pdf",
+    "arguments": "",
+    "headmatter": "<parties id=\"b396-8\">\n    In re CONTINENTAL AIRLINES CORPORATION, et al., Debtors. The NATIONAL MEDIATION BOARD, Walter C. Wallace, Chairman, Robert A. Harris, Member, and Helen Witt, Member, Appellants, v. CONTINENTAL AIRLINES CORPORATION, et al., Appellees.\n   </parties><br><docketnumber id=\"b396-12\">\n    No. H-84-1747.\n   </docketnumber><docketnumber id=\"AbP\">\n    Bankruptcy No. 83-04019-H2-5.\n   </docketnumber><docketnumber id=\"Aii\">\n    Adv. No. 83-2493-H3.\n   </docketnumber><br><court id=\"b396-15\">\n    United States District Court, S.D. Texas, Houston Division.\n   </court><br><decisiondate id=\"b396-18\">\n    May 31, 1985.\n   </decisiondate><br><attorneys id=\"b400-23\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"346\"> \n     *346\n     </span>\n    Lenard Parkins, Sheinfeld, Maley &amp; Kay, Houston, Tex., Richard L. Wyatt, Jr., Fish\n    <span citation-index=\"1\" class=\"star-pagination\" label=\"347\"> \n     *347\n     </span>\n    er &amp; Phillips, Atlanta, Ga., John J. Gallagher, Jr., Akin, Gump, Strauss, Hauer &amp; Feld, Washington, D.C., Weil, Gotshal &amp; Mang-es, New York City, N.Y., for Continental Airlines, debtor, appellee.\n   </attorneys><br><attorneys id=\"b401-4\">\n    Allen L. Lear, Dept, of Justice, Washington, D.C., Letitia Z. Taitte, Asst. U.S. Atty., Houston, Tex., for National Mediation Board, appellant.\n   </attorneys><br><attorneys id=\"b401-5\">\n    Wilma B. Liebman, Washington, D.C., for International Brotherhood of Teamsters.\n   </attorneys>"
+  }
+]
