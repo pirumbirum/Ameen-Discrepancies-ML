@@ -21,7 +21,6 @@ Usage:
 import argparse
 import json
 import os
-import subprocess
 import sys
 import time
 import urllib.request
@@ -33,8 +32,6 @@ GOLDEN_DIR = "golden_set"
 
 # ── Global state ──────────────────────────────────────────────────
 _stats = {"api_calls": 0, "api_errors": 0, "bytes_downloaded": 0}
-_last_checkpoint = time.time()
-_checkpoint_interval = 900  # seconds (15 min default, set by CLI)
 
 
 def api_get(url, token, retries=4, backoff=2):
@@ -95,60 +92,6 @@ def api_get_all_pages(url, token, max_pages=200):
     return all_results, None
 
 
-def _get_branch_name():
-    """Get current branch name (works in detached HEAD too)."""
-    r = subprocess.run(["git", "rev-parse", "--abbrev-ref", "HEAD"], capture_output=True, text=True)
-    branch = r.stdout.strip()
-    if branch and branch != "HEAD":
-        return branch
-    # Detached HEAD — get branch from env or remote tracking
-    branch = os.environ.get("GITHUB_REF_NAME", "")
-    if branch:
-        return branch
-    return None
-
-
-def git_checkpoint(msg):
-    """Git add + commit + push. Updates _last_checkpoint even on failure to avoid retry storms."""
-    global _last_checkpoint
-    _last_checkpoint = time.time()  # always update to prevent retry storms
-    try:
-        subprocess.run(["git", "add", "golden_set/"], check=True, capture_output=True)
-        result = subprocess.run(["git", "diff", "--cached", "--quiet"], capture_output=True)
-        if result.returncode == 0:
-            return  # nothing to commit
-
-        subprocess.run(["git", "commit", "-m", msg], check=True, capture_output=True)
-
-        branch = _get_branch_name()
-        if branch:
-            # Pull --rebase to handle any external commits
-            subprocess.run(
-                ["git", "pull", "--rebase", "origin", branch],
-                capture_output=True, timeout=120
-            )
-
-        # Push (with retry)
-        for attempt in range(3):
-            r = subprocess.run(["git", "push"], capture_output=True, text=True, timeout=120)
-            if r.returncode == 0:
-                mb = _stats["bytes_downloaded"] / 1024 / 1024
-                print(f"    [SAVED] {msg} | {mb:.1f} MB total", flush=True)
-                return
-            print(f"    Push attempt {attempt+1}/3 failed: {r.stderr[:100]}", flush=True)
-            time.sleep(2 * (attempt + 1))
-
-        print(f"    [checkpoint] Push failed after 3 attempts", flush=True)
-    except Exception as e:
-        print(f"    [checkpoint] WARNING: {e}", flush=True)
-
-
-def maybe_checkpoint(phase_name, fetched, total):
-    """Checkpoint if enough time has passed since last save."""
-    global _last_checkpoint
-    if time.time() - _last_checkpoint >= _checkpoint_interval:
-        git_checkpoint(f"{phase_name}: {fetched}/{total}")
-
 
 def find_golden_cases():
     """Walk golden_set/ and return list of (case_dir, docket_id, docket_data)."""
@@ -195,9 +138,8 @@ def progress_line(i, total, fetched, skipped, failed, start):
     elapsed = time.time() - start
     rate = fetched / max(elapsed, 1) * 3600
     mb = _stats["bytes_downloaded"] / 1024 / 1024
-    next_save = max(0, _checkpoint_interval - (time.time() - _last_checkpoint))
     print(f"  [{i}/{total}] fetched={fetched} skip={skipped} fail={failed} | "
-          f"{elapsed/60:.1f}m | ~{rate:.0f}/hr | {mb:.1f}MB | save in {next_save/60:.0f}m")
+          f"{elapsed/60:.1f}m | ~{rate:.0f}/hr | {mb:.1f}MB")
     sys.stdout.flush()
 
 
@@ -238,10 +180,8 @@ def enrich_full_docket(cases, token):
 
         write_marker(sub_dir, {"docket_id": docket_id, "fields_count": len(data)})
         fetched += 1
-        maybe_checkpoint("Full docket", fetched, len(cases))
         time.sleep(0.2)
 
-    git_checkpoint(f"Phase full_docket complete ({fetched} cases)")
     elapsed = time.time() - start
     print(f"\nFull docket done: {fetched} fetched, {skipped} skipped, {failed} failed ({elapsed/60:.1f} min)")
     return fetched
@@ -300,10 +240,8 @@ def enrich_docket_entries(cases, token):
             "docs_with_text": docs_with_text,
         })
         fetched += 1
-        maybe_checkpoint("Docket entries", fetched, len(cases))
         time.sleep(0.2)
 
-    git_checkpoint(f"Phase docket_entries complete ({fetched} cases)")
     elapsed = time.time() - start
     print(f"\nDocket entries done: {fetched} fetched, {skipped} skipped, {failed} failed ({elapsed/60:.1f} min)")
     return fetched
@@ -371,9 +309,7 @@ def enrich_citations(cases, token):
             "cluster_ids": cluster_ids,
         })
         fetched += 1
-        maybe_checkpoint("Citations", fetched, len(cases))
 
-    git_checkpoint(f"Phase citations complete ({fetched} cases)")
     elapsed = time.time() - start
     print(f"\nCitations done: {fetched} fetched, {skipped} skipped, {failed} failed ({elapsed/60:.1f} min)")
     return fetched
@@ -418,10 +354,8 @@ def enrich_oral_arguments(cases, token):
             "audio_count": len(results or []),
         })
         fetched += 1
-        maybe_checkpoint("Oral arguments", fetched, len(cases))
         time.sleep(0.15)
 
-    git_checkpoint(f"Phase oral_arguments complete ({fetched} cases)")
     elapsed = time.time() - start
     print(f"\nOral arguments done: {fetched} fetched, {skipped} skipped, {failed} failed ({elapsed/60:.1f} min)")
     return fetched
@@ -510,9 +444,7 @@ def enrich_judge_profiles(cases, token):
             "judge_names": list(judge_names),
         })
         fetched += 1
-        maybe_checkpoint("Judge profiles", fetched, len(cases))
 
-    git_checkpoint(f"Phase judge_profiles complete ({fetched} cases)")
     elapsed = time.time() - start
     print(f"\nJudge profiles done: {fetched} fetched, {skipped} skipped, {failed} failed ({elapsed/60:.1f} min)")
     print(f"  Person cache: {len(person_cache)} unique judges")
@@ -599,9 +531,7 @@ def enrich_financial_disclosures(cases, token):
             "judge_names": list(judge_names),
         })
         fetched += 1
-        maybe_checkpoint("Financial disclosures", fetched, len(cases))
 
-    git_checkpoint(f"Phase financial_disclosures complete ({fetched} cases)")
     elapsed = time.time() - start
     print(f"\nFinancial disclosures done: {fetched} fetched, {skipped} skipped, {failed} failed ({elapsed/60:.1f} min)")
     return fetched
@@ -619,18 +549,11 @@ PHASES = {
 }
 
 def main():
-    global _checkpoint_interval
-
     parser = argparse.ArgumentParser(description="Enrich golden set with CourtListener data")
     parser.add_argument("phase", choices=list(PHASES.keys()) + ["all"])
-    parser.add_argument("--checkpoint-minutes", type=int, default=15,
-                        help="Git save every N minutes (default: 15)")
     parser.add_argument("--clean-bad-markers", action="store_true",
                         help="Remove _done.json markers that lack status=ok")
     args = parser.parse_args()
-
-    _checkpoint_interval = args.checkpoint_minutes * 60
-    print(f"Checkpoint interval: every {args.checkpoint_minutes} minutes")
 
     token = os.environ.get("CL_API_TOKEN", "") or os.environ.get("COURTLISTENER_TOKEN", "")
     if not token:

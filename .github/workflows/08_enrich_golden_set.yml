@@ -1,8 +1,8 @@
 name: "08: Enrich Golden Set"
 
-# Downloads COMPLETE data for all 1,100 golden set cases.
-# Saves every 15 minutes with a status report.
-# Resumable — re-run picks up where it stopped.
+# Downloads COMPLETE data for all golden set cases from CourtListener API.
+# Python script handles data collection only.
+# Bash handles git saves every 15 minutes.
 
 on:
   workflow_dispatch:
@@ -16,26 +16,23 @@ jobs:
     timeout-minutes: 300
 
     steps:
-      - name: Checkout (on actual branch, not detached HEAD)
+      - name: Checkout (on branch)
         uses: actions/checkout@v4
         with:
           ref: ${{ github.ref_name }}
-          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Configure git + verify branch
+      - name: Configure git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           echo "Branch: $(git rev-parse --abbrev-ref HEAD)"
-          echo "Commit: $(git rev-parse --short HEAD)"
-          git status
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: "Clean invalid markers"
+      - name: Clean invalid markers
         run: |
           python3 -c "
           import json, os
@@ -54,12 +51,85 @@ jobs:
           print(f'Cleaned {cleaned} invalid markers')
           "
 
-      - name: "Enrich: all 6 phases (saves every 15 min)"
+      - name: "Run enrichment + periodic git saves"
         env:
           CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
           COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
         run: |
-          python3 scripts/enrich_golden_set.py all --checkpoint-minutes 15
+          # Start the enrichment script in the background
+          python3 scripts/enrich_golden_set.py all &
+          ENRICH_PID=$!
+          echo "Enrichment PID: $ENRICH_PID"
+
+          # Git save loop: every 15 minutes, commit + push whatever is on disk
+          SAVE_INTERVAL=900
+          SAVE_COUNT=0
+
+          while kill -0 $ENRICH_PID 2>/dev/null; do
+            sleep $SAVE_INTERVAL
+
+            # Check if enrichment is still running
+            if ! kill -0 $ENRICH_PID 2>/dev/null; then
+              echo "Enrichment finished during sleep"
+              break
+            fi
+
+            SAVE_COUNT=$((SAVE_COUNT + 1))
+            echo ""
+            echo "=========================================="
+            echo "SAVE #${SAVE_COUNT} ($(date -u +%H:%M:%S) UTC)"
+            echo "=========================================="
+
+            # Status check
+            python3 -c "
+          import json, os
+          layers = ['full_docket', 'docket_entries', 'citations', 'oral_arguments', 'judge_profiles', 'financial_disclosures']
+          for layer in layers:
+              done = 0
+              for root, dirs, files in os.walk('golden_set'):
+                  if layer in dirs:
+                      marker = os.path.join(root, layer, '_done.json')
+                      if os.path.isfile(marker):
+                          try:
+                              m = json.load(open(marker))
+                              if m.get('status') == 'ok': done += 1
+                          except: pass
+              print(f'  {layer}: {done} cases done')
+          " 2>/dev/null || true
+
+            echo ""
+            du -sh golden_set/ 2>/dev/null || true
+
+            # Git save
+            git add golden_set/
+            if ! git diff --cached --quiet; then
+              git commit -m "Enrichment save #${SAVE_COUNT} ($(date -u +%Y-%m-%d %H:%M UTC))"
+              git push && echo "PUSH OK" || echo "PUSH FAILED"
+            else
+              echo "Nothing new to save"
+            fi
+          done
+
+          # Wait for enrichment to finish and capture exit code
+          wait $ENRICH_PID
+          EXIT_CODE=$?
+          echo ""
+          echo "Enrichment exited with code: $EXIT_CODE"
+
+          # Final save
+          echo ""
+          echo "=========================================="
+          echo "FINAL SAVE"
+          echo "=========================================="
+          git add golden_set/
+          if ! git diff --cached --quiet; then
+            git commit -m "Enrichment: final save"
+            git push && echo "FINAL PUSH OK" || echo "FINAL PUSH FAILED"
+          else
+            echo "Nothing new to save (all saved in periodic checkpoints)"
+          fi
+
+          exit $EXIT_CODE
 
       - name: "Status Report"
         if: always()
@@ -92,17 +162,14 @@ jobs:
                       if os.path.isfile(marker):
                           try:
                               m = json.load(open(marker))
-                              if m.get('status') == 'ok':
-                                  done += 1
-                          except:
-                              pass
+                              if m.get('status') == 'ok': done += 1
+                          except: pass
               pct = done / max(total_cases, 1) * 100
               bar = '#' * int(pct / 2) + '.' * (50 - int(pct / 2))
               print(f'  {layer:30s} [{bar}] {done:>5}/{total_cases} ({pct:.0f}%)')
 
           # Docket entries detail
           print()
-          print('Docket entries detail:')
           total_entries = 0
           total_docs = 0
           docs_with_text = 0
@@ -114,26 +181,12 @@ jobs:
                           total_entries += m.get('entry_count', 0)
                           total_docs += m.get('recap_doc_count', 0)
                           docs_with_text += m.get('docs_with_text', 0)
-                  except:
-                      pass
-          print(f'  Total docket entries: {total_entries:,}')
-          print(f'  Total RECAP documents: {total_docs:,}')
-          print(f'  Documents with full text: {docs_with_text:,}')
-
+                  except: pass
+          print(f'Docket entries: {total_entries:,} entries, {total_docs:,} docs, {docs_with_text:,} with text')
           print()
-          print('Disk usage:')
           " 2>/dev/null || true
           du -sh golden_set/
-          du -sh golden_set/*/  2>/dev/null | sort -rh | head -15
-
-      - name: Final commit
-        if: always()
-        run: |
-          git add golden_set/
-          git diff --cached --quiet && echo "All committed during enrichment" && exit 0
-          git commit -m "Enrich golden set: final save"
-          git pull --rebase origin HEAD || true
-          git push
+          du -sh golden_set/*/ 2>/dev/null | sort -rh | head -15
 
       - name: Upload artifact
         if: always()
