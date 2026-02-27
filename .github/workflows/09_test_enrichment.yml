@@ -1,0 +1,90 @@
+name: "09: Test Enrichment (Quick)"
+
+# Quick 3-case test to verify phase 2 (docket entries) is working.
+# Does NOT modify golden_set — writes to /tmp only.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: "Test: fetch 3 docket entries"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+        run: |
+          python3 -c "
+          import json, os, urllib.request, urllib.error, time
+
+          token = os.environ.get('CL_API_TOKEN', '')
+          print(f'Token present: {bool(token)}')
+          print(f'Token length: {len(token)}')
+
+          # Pick 3 docket IDs from golden_set
+          ids = []
+          for cat in sorted(os.listdir('golden_set')):
+              cat_dir = os.path.join('golden_set', cat)
+              if not os.path.isdir(cat_dir): continue
+              for case in sorted(os.listdir(cat_dir))[:1]:
+                  dp = os.path.join(cat_dir, case, 'docket.json')
+                  if os.path.isfile(dp):
+                      d = json.load(open(dp))
+                      ids.append((d['id'], d.get('case_name','')))
+              if len(ids) >= 3: break
+
+          for docket_id, name in ids:
+              print(f'\n--- Docket {docket_id}: {name[:60]} ---')
+              url = f'https://www.courtlistener.com/api/rest/v4/docket-entries/?docket={docket_id}&format=json&order_by=date_filed'
+              print(f'URL: {url}')
+
+              headers = {
+                  'User-Agent': 'Ameen-Test/1.0',
+                  'Authorization': f'Token {token}',
+              }
+              try:
+                  req = urllib.request.Request(url, headers=headers)
+                  with urllib.request.urlopen(req, timeout=30) as resp:
+                      data = json.loads(resp.read().decode())
+                      count = data.get('count', 0)
+                      results = data.get('results', [])
+                      print(f'  count: {count}')
+                      print(f'  results on page 1: {len(results)}')
+                      if results:
+                          entry = results[0]
+                          print(f'  First entry: #{entry.get(\"entry_number\")} - {entry.get(\"description\", \"\")[:80]}')
+                          recap_docs = entry.get('recap_documents', [])
+                          print(f'  recap_documents in first entry: {len(recap_docs)}')
+                          if recap_docs:
+                              doc = recap_docs[0]
+                              text = doc.get('plain_text', '')
+                              print(f'  First doc plain_text length: {len(text)} chars')
+                              if text:
+                                  print(f'  First 200 chars: {text[:200]}')
+                              else:
+                                  print(f'  Doc keys: {sorted(doc.keys())}')
+                      else:
+                          print('  NO RESULTS')
+                          print(f'  Full response: {json.dumps(data, indent=2)[:500]}')
+              except urllib.error.HTTPError as e:
+                  print(f'  HTTP ERROR: {e.code}')
+                  print(f'  Body: {e.read().decode()[:300]}')
+              except Exception as e:
+                  print(f'  ERROR: {e}')
+
+              time.sleep(1)
+
+          print('\n=== TEST COMPLETE ===')
+          "
