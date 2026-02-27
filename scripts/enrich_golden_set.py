@@ -95,26 +95,52 @@ def api_get_all_pages(url, token, max_pages=200):
     return all_results, None
 
 
+def _get_branch_name():
+    """Get current branch name (works in detached HEAD too)."""
+    r = subprocess.run(["git", "rev-parse", "--abbrev-ref", "HEAD"], capture_output=True, text=True)
+    branch = r.stdout.strip()
+    if branch and branch != "HEAD":
+        return branch
+    # Detached HEAD — get branch from env or remote tracking
+    branch = os.environ.get("GITHUB_REF_NAME", "")
+    if branch:
+        return branch
+    return None
+
+
 def git_checkpoint(msg):
-    """Git add + commit + pull --rebase + push."""
+    """Git add + commit + push. Updates _last_checkpoint even on failure to avoid retry storms."""
     global _last_checkpoint
+    _last_checkpoint = time.time()  # always update to prevent retry storms
     try:
         subprocess.run(["git", "add", "golden_set/"], check=True, capture_output=True)
         result = subprocess.run(["git", "diff", "--cached", "--quiet"], capture_output=True)
         if result.returncode == 0:
             return  # nothing to commit
+
         subprocess.run(["git", "commit", "-m", msg], check=True, capture_output=True)
-        # Rebase on remote first to handle any external commits
-        subprocess.run(
-            ["git", "pull", "--rebase", "origin", "HEAD"],
-            capture_output=True, timeout=120
-        )
-        subprocess.run(["git", "push"], check=True, capture_output=True, timeout=120)
-        _last_checkpoint = time.time()
-        mb = _stats["bytes_downloaded"] / 1024 / 1024
-        print(f"    [SAVED] {msg} | {mb:.1f} MB total")
+
+        branch = _get_branch_name()
+        if branch:
+            # Pull --rebase to handle any external commits
+            subprocess.run(
+                ["git", "pull", "--rebase", "origin", branch],
+                capture_output=True, timeout=120
+            )
+
+        # Push (with retry)
+        for attempt in range(3):
+            r = subprocess.run(["git", "push"], capture_output=True, text=True, timeout=120)
+            if r.returncode == 0:
+                mb = _stats["bytes_downloaded"] / 1024 / 1024
+                print(f"    [SAVED] {msg} | {mb:.1f} MB total", flush=True)
+                return
+            print(f"    Push attempt {attempt+1}/3 failed: {r.stderr[:100]}", flush=True)
+            time.sleep(2 * (attempt + 1))
+
+        print(f"    [checkpoint] Push failed after 3 attempts", flush=True)
     except Exception as e:
-        print(f"    [checkpoint] WARNING: {e}")
+        print(f"    [checkpoint] WARNING: {e}", flush=True)
 
 
 def maybe_checkpoint(phase_name, fetched, total):

@@ -16,16 +16,19 @@ jobs:
     timeout-minutes: 300
 
     steps:
-      - name: Checkout
+      - name: Checkout (on actual branch, not detached HEAD)
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.ref }}
+          ref: ${{ github.ref_name }}
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Configure git
+      - name: Configure git + verify branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          echo "Branch: $(git rev-parse --abbrev-ref HEAD)"
+          echo "Commit: $(git rev-parse --short HEAD)"
+          git status
 
       - name: Set up Python
         uses: actions/setup-python@v5
