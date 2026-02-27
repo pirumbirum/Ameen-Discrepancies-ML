@@ -1,0 +1,36 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/opinions/10042533/?format=json",
+    "id": 10042533,
+    "absolute_url": "/opinion/9575920/yz-productions-inc-v-tp-apparel-llc/",
+    "cluster_id": 9575920,
+    "cluster": "https://www.courtlistener.com/api/rest/v4/clusters/9575920/?format=json",
+    "author_id": null,
+    "author": null,
+    "joined_by": [],
+    "date_created": "2024-06-19T20:00:43.446322-07:00",
+    "date_modified": "2025-06-03T13:37:46.997857-07:00",
+    "author_str": "",
+    "per_curiam": false,
+    "joined_by_str": "",
+    "type": "100trialcourt",
+    "sha1": "2209a20c32fcb1e02bf5117cd7abc5ab57770d0a",
+    "page_count": 1,
+    "download_url": null,
+    "local_path": "recap/gov.uscourts.cacd.808366/gov.uscourts.cacd.808366.28.0.pdf",
+    "plain_text": "                       CIVIL MINUTES - GENERAL                              \nCase No.  CV 21-00673-FMO (Skx)               Date  December 13, 2021       \nTitle     YZ Productions, Inc. v. TP Apparel, LLC et al                     \n\nPresent: The Honorable Fernando M. Olguin, United States District Judge     \n          Gabriela Garcia                      None Present                 \n           Deputy Clerk                   Court Reporter / Recorder         \n     Attorneys Present for Plaintiffs:  Attorneys Present for Defendants:   \n            None Present                       None Present                 \nProceedings:    (In Chambers) Order to Show Cause Re: Sanctions or Dismissal\n    Pursuant to the Court\u2019s Order of June 1, 2021, the parties were required to complete a\nsettlement conference before the assigned magistrate judge no later than November 24, 2021. \n(See Dkt. 24, Court\u2019s Order of June 1, 2021, at 17).  If the case settled, the parties were required\nto file a Notice of Settlement no later than 24 hours after settlement.  (See id.).  Otherwise, the\nparties were required to file a Status Report Re: Settlement no later than 48 hours after the\nsettlement conference was complete.  (See id.).                              \n    As of the filing date of this Order, neither a Notice of Settlement nor a Status Report Re:\nSettlement has been filed.  (See, generally, Dkt.).  Accordingly, IT IS ORDERED THAT, no later\nthan December 28, 2021, the parties shall show cause in writing why sanctions should not be\nimposed for failure to comply with the Court\u2019s Order of June 1, 2021.  Failure to submit a\nresponse to this Order by the deadline set forth above may result in the imposition of\nsanctions and/or dismissal of this action for lack of prosecution.  See Fed. R. Civ. P. 41(b);\nLink v. Wabash R.R. Co., 370 U.S. 626, 629-30, 82 S.Ct. 1386, 1388 (1962); Pagtalunan v.\nGalaza, 291 F.3d 639, 642 (9th Cir. 2002), cert. denied, 538 U.S. 909 (2003).\n                                                       00   :   00          \n                                      Initials of Preparer gga              ",
+    "html": "",
+    "html_lawbox": "",
+    "html_columbia": "",
+    "html_anon_2020": "",
+    "xml_harvard": "",
+    "html_with_citations": "<pre class=\"inline\">                       CIVIL MINUTES - GENERAL                              \nCase No.  CV 21-00673-FMO (Skx)               Date  December 13, 2021       \nTitle     YZ Productions, Inc. v. TP Apparel, LLC et al                     \n\nPresent: The Honorable Fernando M. Olguin, United States District Judge     \n          Gabriela Garcia                      None Present                 \n           Deputy Clerk                   Court Reporter / Recorder         \n     Attorneys Present for Plaintiffs:  Attorneys Present for Defendants:   \n            None Present                       None Present                 \nProceedings:    (In Chambers) Order to Show Cause Re: Sanctions or Dismissal\n    Pursuant to the Court\u2019s Order of June 1, 2021, the parties were required to complete a\nsettlement conference before the assigned magistrate judge no later than November 24, 2021. \n(See Dkt. 24, Court\u2019s Order of June 1, 2021, at 17).  If the case settled, the parties were required\nto file a Notice of Settlement no later than 24 hours after settlement.  (See id.).  Otherwise, the\nparties were required to file a Status Report Re: Settlement no later than 48 hours after the\nsettlement conference was complete.  (See id.).                              \n    As of the filing date of this Order, neither a Notice of Settlement nor a Status Report Re:\nSettlement has been filed.  (See, generally, Dkt.).  Accordingly, IT IS ORDERED THAT, no later\nthan December 28, 2021, the parties shall show cause in writing why sanctions should not be\nimposed for failure to comply with the Court\u2019s Order of June 1, 2021.  Failure to submit a\nresponse to this Order by the deadline set forth above may result in the imposition of\nsanctions and/or dismissal of this action for lack of prosecution.  See Fed. R. Civ. P. 41(b);\nLink v. Wabash R.R. Co., </pre><span class=\"citation\" data-id=\"9422469\"><a href=\"/opinion/106449/link-v-wabash-railroad/#629\" aria-description=\"Citation for case: Link v. Wabash Railroad\">370 U.S. 626, 629-30</a></span><pre class=\"inline\">, </pre><span class=\"citation\" data-id=\"9422469\"><a href=\"/opinion/106449/link-v-wabash-railroad/#1388\" aria-description=\"Citation for case: Link v. Wabash Railroad\">82 S.Ct. 1386, 1388</a></span><pre class=\"inline\"> (1962); Pagtalunan v.\nGalaza, </pre><span class=\"citation\" data-id=\"9495049\"><a href=\"/opinion/777790/david-p-pagtalunan-v-george-galaza-warden-thomas-maddock-acting/#642\" aria-description=\"Citation for case: David P. Pagtalunan v. George Galaza, Warden Thomas...\">291 F.3d 639, 642</a></span><pre class=\"inline\"> (9th Cir. 2002), cert. denied, </pre><span class=\"citation multiple-matches\"><a href=\"/c/U.S./538/909/\">538 U.S. 909</a></span><pre class=\"inline\"> (2003).\n                                                       00   :   00          \n                                      Initials of Preparer gga              </pre>",
+    "extracted_by_ocr": false,
+    "ordering_key": null,
+    "main_version": null,
+    "opinions_cited": [
+      "https://www.courtlistener.com/api/rest/v4/opinions/9422469/?format=json",
+      "https://www.courtlistener.com/api/rest/v4/opinions/9495049/?format=json"
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/opinions/10351530/?format=json",
+    "id": 10351530,
+    "absolute_url": "/opinion/9884920/hrb-professional-resources-llc-v-stanton/",
+    "cluster_id": 9884920,
+    "cluster": "https://www.courtlistener.com/api/rest/v4/clusters/9884920/?format=json",
+    "author_id": null,
+    "author": null,
+    "joined_by": [],
+    "date_created": "2024-06-26T12:40:45.196095-07:00",
+    "date_modified": "2025-07-25T13:32:48.244164-07:00",
+    "author_str": "",
+    "per_curiam": false,
+    "joined_by_str": "",
+    "type": "100trialcourt",
+    "sha1": "5323a359a5631a91d6e00347b5250dd50e8db0da",
+    "page_count": 1,
+    "download_url": null,
+    "local_path": "recap/gov.uscourts.nysd.595855/gov.uscourts.nysd.595855.40.0.pdf",
+    "plain_text": "UNITED STATES DISTRICT COURT                                            \nSOUTHERN DISTRICT OF NEW YORK \n             nn nnn      ne  nS \nHRB PROFESSIONAL RESOURCES LLC               : \n(D/B/A H&R BLOCK),                                              OO / \n                Plaintiff,          \u25a1        :        ORDER              (   23 \nV.                                           : \n                                             :        23 CV 2307 (VB) \nDANNY W. STANTON,                            : \n                Defendant. \n    nn ee et   te  een enn        eee ne       seen = === X \n     In light of the parties\u2019 Joint Stipulation to Stay Proceedings and Arbitrate Claims, dated \nMay 31, 2023 (Doc. #37 (the \u201cJoint Stipulation\u201d)), it is hereby ORDERED: \n     1.     The parties shall proceed to arbitration in accordance with the Joint Stipulation \nand the Mutual Arbitration Agreement referenced therein. \n     2.     The stipulated agreement between the parties, set forth on the record during the \nMarch 31, 2023, hearing and so-ordered by the Court, shall remain in place during the pendency \nof the arbitration proceedings. \n     3,     These proceedings otherwise are hereby STAYED. \n     4,     The Clerk is instructed to administratively close this case, without prejudice to \neither party moving by letter motion to reopen the case within thirty days of the conclusion of the \narbitration proceedings.   \nDated: June 1, 2023 \n     White Plains, NY \n                                   SO ORDERED: \n\n                                   Vincent L. Briccetti \n                                   United States District Judge \n\n1      See Zimmerman v. UBS AG, 789 F. App\u2019x 914, 915-16 (2d Cir. 2020) (summary order) \n(\u201cThe district court\u2019s administrative closure of the case does not constitute a final decision:  there \nis no jurisdictional significance to a docket entry marking a case as \u2018closed,\u2019 which we will \nassume was made for administrative or statistical convenience.\u201d). ",
+    "html": "",
+    "html_lawbox": "",
+    "html_columbia": "",
+    "html_anon_2020": "",
+    "xml_harvard": "",
+    "html_with_citations": "<pre class=\"inline\">UNITED STATES DISTRICT COURT                                            \nSOUTHERN DISTRICT OF NEW YORK \n             nn nnn      ne  nS \nHRB PROFESSIONAL RESOURCES LLC               : \n(D/B/A H&amp;R BLOCK),                                              OO / \n                Plaintiff,          \u25a1        :        ORDER              (   23 \nV.                                           : \n                                             :        23 CV 2307 (VB) \nDANNY W. STANTON,                            : \n                Defendant. \n    nn ee et   te  een enn        eee ne       seen = === X \n     In light of the parties\u2019 Joint Stipulation to Stay Proceedings and Arbitrate Claims, dated \nMay 31, 2023 (Doc. #37 (the \u201cJoint Stipulation\u201d)), it is hereby ORDERED: \n     1.     The parties shall proceed to arbitration in accordance with the Joint Stipulation \nand the Mutual Arbitration Agreement referenced therein. \n     2.     The stipulated agreement between the parties, set forth on the record during the \nMarch 31, 2023, hearing and so-ordered by the Court, shall remain in place during the pendency \nof the arbitration proceedings. \n     3,     These proceedings otherwise are hereby STAYED. \n     4,     The Clerk is instructed to administratively close this case, without prejudice to \neither party moving by letter motion to reopen the case within thirty days of the conclusion of the \narbitration proceedings.   \nDated: June 1, 2023 \n     White Plains, NY \n                                   SO ORDERED: \n\n                                   Vincent L. Briccetti \n                                   United States District Judge \n\n1      See Zimmerman v. UBS AG, </pre><span class=\"citation no-link\">789 F. App\u2019x 914</span><pre class=\"inline\">, 915-16 (2d Cir. 2020) (summary order) \n(\u201cThe district court\u2019s administrative closure of the case does not constitute a final decision:  there \nis no jurisdictional significance to a docket entry marking a case as \u2018closed,\u2019 which we will \nassume was made for administrative or statistical convenience.\u201d). </pre>",
+    "extracted_by_ocr": true,
+    "ordering_key": null,
+    "main_version": null,
+    "opinions_cited": []
+  }
+]

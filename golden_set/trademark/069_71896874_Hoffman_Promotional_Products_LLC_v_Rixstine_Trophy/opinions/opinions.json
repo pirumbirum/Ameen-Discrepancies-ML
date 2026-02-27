@@ -1,0 +1,36 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/opinions/11202097/?format=json",
+    "id": 11202097,
+    "absolute_url": "/opinion/10735512/hoffman-promotional-products-llc-v-rixstine-trophy-company-inc/",
+    "cluster_id": 10735512,
+    "cluster": "https://www.courtlistener.com/api/rest/v4/clusters/10735512/?format=json",
+    "author_id": null,
+    "author": null,
+    "joined_by": [],
+    "date_created": "2025-11-13T01:54:55.044684-08:00",
+    "date_modified": "2025-11-13T01:55:15.561980-08:00",
+    "author_str": "",
+    "per_curiam": false,
+    "joined_by_str": "",
+    "type": "100trialcourt",
+    "sha1": "a8795610c91fad29d11e92f38cad718dbde2d534",
+    "page_count": 1,
+    "download_url": null,
+    "local_path": "recap/gov.uscourts.ned.109464/gov.uscourts.ned.109464.6.0.pdf",
+    "plain_text": "              IN THE UNITED STATES DISTRICT COURT                        \n                 FOR THE DISTRICT OF NEBRASKA                            \n\nHOFFMAN PROMOTIONAL PRODUCTS,                                            \nLLC, a Nebraska limited liability company;                               \n                                             4:25CV3229                  \n              Plaintiff,                                                 \n\n    vs.                                       ORDER                      \n\nRIXSTINE TROPHY COMPANY, INC., a                                         \nNebraska corporation;                                                    \n\n              Defendant.                                                 \n\n\n    On November 10, 2025, Craig Hoffman filed a complaint on behalf of a legal entity, \nHoffman Promotional Products, LLC.  (Filing No. 1).  Mr. Hoffman is not a licensed attorney \nauthorized to practice law in this court.  Legal entities, as opposed to natural persons, cannot \nlitigate in this forum without representation by licensed counsel, and pro se parties may not \nrepresent another entity in federal court.  See Knoefler v. United Bank of Bismarck, 20 F.3d 347, \n348 (8th Cir. 1994); Rowland v. California Men\u2019s Colony, 506 U.S. 194, 202 (1993) (\u201c[A] \ncorporation may appear in the federal courts only through licensed counsel.\u201d); Joda, LLC v. Ace \nNC Sys., LLC, No. 4:09 CV 1197 CDP, 2014 WL 2217279, at *1 (E.D. Mo. May 29, 2014) (finding \nthat the same to be true for LLCs).  As such, this case cannot proceed unless and until licensed \ncounsel enters an appearance on behalf of the plaintiff.  Accordingly,    \n    IT IS ORDERED:  Because Craig Hoffman is not a licensed attorney and cannot litigate \nthe interests of the plaintiff in this forum, on or before December 12, 2025, the plaintiff shall \nobtain the services of licensed counsel and have that attorney file an appearance on the plaintiff\u2019s \nbehalf.  If licensed counsel does not enter an appearance by that date, the Court may dismiss this \naction without further notice.                                            \n    Dated this 12th day of November, 2025.                               \n\n                                    BY THE COURT:                        \n\n                                    s/ Michael D. Nelson                 \n                                    United States Magistrate Judge       ",
+    "html": "",
+    "html_lawbox": "",
+    "html_columbia": "",
+    "html_anon_2020": "",
+    "xml_harvard": "",
+    "html_with_citations": "<pre class=\"inline\">              IN THE UNITED STATES DISTRICT COURT                        \n                 FOR THE DISTRICT OF NEBRASKA                            \n\nHOFFMAN PROMOTIONAL PRODUCTS,                                            \nLLC, a Nebraska limited liability company;                               \n                                             4:25CV3229                  \n              Plaintiff,                                                 \n\n    vs.                                       ORDER                      \n\nRIXSTINE TROPHY COMPANY, INC., a                                         \nNebraska corporation;                                                    \n\n              Defendant.                                                 \n\n\n    On November 10, 2025, Craig Hoffman filed a complaint on behalf of a legal entity, \nHoffman Promotional Products, LLC.  (Filing No. 1).  Mr. Hoffman is not a licensed attorney \nauthorized to practice law in this court.  Legal entities, as opposed to natural persons, cannot \nlitigate in this forum without representation by licensed counsel, and pro se parties may not \nrepresent another entity in federal court.  See Knoefler v. United Bank of Bismarck, </pre><span class=\"citation\" data-id=\"6930185\"><a href=\"/opinion/7028373/knoefler-v-united-bank-of-bismarck/#348\" aria-description=\"Citation for case: Knoefler v. United Bank of Bismarck\">20 F.3d 347, \n348</a></span><pre class=\"inline\"> (8th Cir. 1994); Rowland v. California Men\u2019s Colony, </pre><span class=\"citation\" data-id=\"9432712\"><a href=\"/opinion/112802/rowland-v-california-mens-colony-unit-ii-mens-advisory-council/#202\" aria-description=\"Citation for case: Rowland v. California Men&#x27;s Colony, Unit II Men&#x27;s...\">506 U.S. 194, 202</a></span><pre class=\"inline\"> (1993) (\u201c[A] \ncorporation may appear in the federal courts only through licensed counsel.\u201d); Joda, LLC v. Ace \nNC Sys., LLC, No. 4:09 CV 1197 CDP, </pre><span class=\"citation no-link\">2014 WL 2217279</span><pre class=\"inline\">, at *1 (E.D. Mo. May 29, 2014) (finding \nthat the same to be true for LLCs).  As such, this case cannot proceed unless and until licensed \ncounsel enters an appearance on behalf of the plaintiff.  Accordingly,    \n    IT IS ORDERED:  Because Craig Hoffman is not a licensed attorney and cannot litigate \nthe interests of the plaintiff in this forum, on or before December 12, 2025, the plaintiff shall \nobtain the services of licensed counsel and have that attorney file an appearance on the plaintiff\u2019s \nbehalf.  If licensed counsel does not enter an appearance by that date, the Court may dismiss this \naction without further notice.                                            \n    Dated this 12th day of November, 2025.                               \n\n                                    BY THE COURT:                        \n\n                                    s/ Michael D. Nelson                 \n                                    United States Magistrate Judge       </pre>",
+    "extracted_by_ocr": false,
+    "ordering_key": null,
+    "main_version": null,
+    "opinions_cited": [
+      "https://www.courtlistener.com/api/rest/v4/opinions/6930185/?format=json",
+      "https://www.courtlistener.com/api/rest/v4/opinions/9432712/?format=json"
+    ]
+  }
+]

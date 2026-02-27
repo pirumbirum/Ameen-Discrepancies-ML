@@ -1,0 +1,35 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/opinions/10113508/?format=json",
+    "id": 10113508,
+    "absolute_url": "/opinion/9646895/malicious-women-candle-company-llc-v-cox/",
+    "cluster_id": 9646895,
+    "cluster": "https://www.courtlistener.com/api/rest/v4/clusters/9646895/?format=json",
+    "author_id": null,
+    "author": null,
+    "joined_by": [],
+    "date_created": "2024-06-20T22:20:52.369664-07:00",
+    "date_modified": "2025-06-02T11:59:53.137787-07:00",
+    "author_str": "",
+    "per_curiam": false,
+    "joined_by_str": "",
+    "type": "100trialcourt",
+    "sha1": "cba3e7224e9f9fbc933e7d26dd5a631149f7c744",
+    "page_count": 2,
+    "download_url": null,
+    "local_path": "recap/gov.uscourts.flmd.383176/gov.uscourts.flmd.383176.117.0.pdf",
+    "plain_text": "           UNITED STATES DISTRICT COURT                              \n             MIDDLE DISTRICT OF FLORIDA                              \n                  ORLANDO DIVISION                                   \n\nMALICIOUS WOMEN CANDLE                                                    \nCOMPANY, LLC,                                                             \n\nPlaintiff,                                                           \n\nv.                                     Case No. 6:20-cv-2013-RBD-DCI      \nRYNN CARTER COX,                                                          \n\nDefendant.                                                           \n____________________________________                                      \n\n                        ORDER                                        \nIn this trademark dispute, the Court recently granted summary judgment in \nfavor of Plaintiff on liability and referred the matter of damages to Magistrate \nJudge Daniel C. Irick. (Docs. 95, 100.) After a hearing, Judge Irick recommends \nawarding  Plaintiff  $814,053.12  for  Counts  1  through  119  but  no  damages  on \nCount 120. (Doc. 112; Doc. 116 (\u201cR&R\u201d).) Neither party objected, so the Court \nexamines the R&R for clear error only. See Macort v. Prem, Inc., 208 F. App\u2019x 781, \n784 (11th Cir. 2006). Finding none, the R&R is due to be adopted in its entirety. \nAccordingly, it is ORDERED AND ADJUDGED:                             \n1.   The R&R (Doc. 116) is ADOPTED, CONFIRMED, and made a part       \n     of this Order in its entirety.                                  \n2.   The Clerk is DIRECTED to enter judgment on Counts 1-119 in favor \n of Plaintiff and against Defendant in the amount of $814,053.12. \n3.     The Clerk is DIRECTED to enter judgment on Count 120 in favor of \n Plaintiff  and  against  Defendant  on  liability  but  no  damages  are \n awarded. \n4,     The Clerk is DIRECTED to close this file. \nDONE AND ORDERED in Chambers in Orlando, Florida, on July 24, 2023. \n\n                         WY)     Lee.    \n                              a       - \n                            a        ROY B. DALTON JR: \n                                     United States District Judge ",
+    "html": "",
+    "html_lawbox": "",
+    "html_columbia": "",
+    "html_anon_2020": "",
+    "xml_harvard": "",
+    "html_with_citations": "<pre class=\"inline\">           UNITED STATES DISTRICT COURT                              \n             MIDDLE DISTRICT OF FLORIDA                              \n                  ORLANDO DIVISION                                   \n\nMALICIOUS WOMEN CANDLE                                                    \nCOMPANY, LLC,                                                             \n\nPlaintiff,                                                           \n\nv.                                     Case No. 6:20-cv-2013-RBD-DCI      \nRYNN CARTER COX,                                                          \n\nDefendant.                                                           \n____________________________________                                      \n\n                        ORDER                                        \nIn this trademark dispute, the Court recently granted summary judgment in \nfavor of Plaintiff on liability and referred the matter of damages to Magistrate \nJudge Daniel C. Irick. (Docs. 95, 100.) After a hearing, Judge Irick recommends \nawarding  Plaintiff  $814,053.12  for  Counts  1  through  119  but  no  damages  on \nCount 120. (Doc. 112; Doc. 116 (\u201cR&amp;R\u201d).) Neither party objected, so the Court \nexamines the R&amp;R for clear error only. See Macort v. Prem, Inc., </pre><span class=\"citation\" data-id=\"44762\"><a href=\"/opinion/44762/colleen-macort-v-prem-inc/#784\" aria-description=\"Citation for case: Colleen Macort v. Prem, Inc.\">208 F. App\u2019x 781, \n784</a></span><pre class=\"inline\"> (11th Cir. 2006). Finding none, the R&amp;R is due to be adopted in its entirety. \nAccordingly, it is ORDERED AND ADJUDGED:                             \n1.   The R&amp;R (Doc. 116) is ADOPTED, CONFIRMED, and made a part       \n     of this Order in its entirety.                                  \n2.   The Clerk is DIRECTED to enter judgment on Counts 1-119 in favor \n of Plaintiff and against Defendant in the amount of $814,053.12. \n3.     The Clerk is DIRECTED to enter judgment on Count 120 in favor of \n Plaintiff  and  against  Defendant  on  liability  but  no  damages  are \n awarded. \n4,     The Clerk is DIRECTED to close this file. \nDONE AND ORDERED in Chambers in Orlando, Florida, on July 24, 2023. \n\n                         WY)     Lee.    \n                              a       - \n                            a        ROY B. DALTON JR: \n                                     United States District Judge </pre>",
+    "extracted_by_ocr": true,
+    "ordering_key": null,
+    "main_version": null,
+    "opinions_cited": [
+      "https://www.courtlistener.com/api/rest/v4/opinions/44762/?format=json"
+    ]
+  }
+]

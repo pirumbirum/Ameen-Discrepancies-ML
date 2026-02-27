@@ -1,0 +1,35 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/opinions/10391238/?format=json",
+    "id": 10391238,
+    "absolute_url": "/opinion/9924629/organic-materials-review-institute-v-american-cedar-technology-corporation/",
+    "cluster_id": 9924629,
+    "cluster": "https://www.courtlistener.com/api/rest/v4/clusters/9924629/?format=json",
+    "author_id": null,
+    "author": null,
+    "joined_by": [],
+    "date_created": "2024-06-27T03:51:15.412510-07:00",
+    "date_modified": "2025-06-04T13:25:43.471681-07:00",
+    "author_str": "",
+    "per_curiam": false,
+    "joined_by_str": "",
+    "type": "100trialcourt",
+    "sha1": "d577e46687647c6933c3cce2276e7e6adad67ef9",
+    "page_count": 1,
+    "download_url": null,
+    "local_path": "recap/gov.uscourts.ord.141211/gov.uscourts.ord.141211.31.0.pdf",
+    "plain_text": "           IN THE UNITED STATES DISTRICT COURT                       \n\n               FOR THE DISTRICT OF OREGON                            \n\nORGANIC MATERIALS REVIEW                                                  \nINSTITUTE, an Oregon nonprofit                                            \ncorporation,                                                              \n\n     Plaintiff,                         Civ. No. 6:18-cv-1881-MK     \n\nv.                                                     ORDER         \n\nAMERICAN CEDAR TECHNOLOGY                                                 \nCORPORATION, a forfeited Texas                                            \ncorporation, and DAVID L. GLASSEL,                                        \n\n     Defendants.                                                     \n_____________________________                                             \n\nMCSHANE, Judge:                                                           \nMagistrate Judge Mustafa Kasubhai filed a Findings and Recommendation (#29), and the \nmatter is now before this court. See 28 U.S.C. \u00a7 636(b)(1)(B), Fed. R. Civ. P. 72. Although \nneither party filed objections, I reviewed the legal principles de novo. United States v. Bernhardt, \n840 F.2d 1441, 1445 (9th Cir. 1998). I find no error and conclude the report is correct. \nMagistrate Judge Kasubhai\u2019s Findings and Recommendation (#29) is adopted. Plaintiff\u2019s motion \nfor fees (#24) and costs (#26) are GRANTED. Plaintiff is awarded attorney fees of $4,561.00 \nand $621.12 in costs.                                                     \nIT IS SO ORDERED.                                                         \nDATED this 24th day of September, 2019.                              \n                         _______/s/ Michael J. McShane________       \n                               Michael McShane                       \n                            United States District Judge             \n1 \u2013 ORDER                                                                 ",
+    "html": "",
+    "html_lawbox": "",
+    "html_columbia": "",
+    "html_anon_2020": "",
+    "xml_harvard": "",
+    "html_with_citations": "<pre class=\"inline\">           IN THE UNITED STATES DISTRICT COURT                       \n\n               FOR THE DISTRICT OF OREGON                            \n\nORGANIC MATERIALS REVIEW                                                  \nINSTITUTE, an Oregon nonprofit                                            \ncorporation,                                                              \n\n     Plaintiff,                         Civ. No. 6:18-cv-1881-MK     \n\nv.                                                     ORDER         \n\nAMERICAN CEDAR TECHNOLOGY                                                 \nCORPORATION, a forfeited Texas                                            \ncorporation, and DAVID L. GLASSEL,                                        \n\n     Defendants.                                                     \n_____________________________                                             \n\nMCSHANE, Judge:                                                           \nMagistrate Judge Mustafa Kasubhai filed a Findings and Recommendation (#29), and the \nmatter is now before this court. See </pre><span class=\"citation no-link\">28 U.S.C. \u00a7 636</span><pre class=\"inline\">(b)(1)(B), Fed. R. Civ. P. 72. Although \nneither party filed objections, I reviewed the legal principles de novo. United States v. Bernhardt, \n</pre><span class=\"citation\" data-id=\"502465\"><a href=\"/opinion/502465/united-states-v-curtis-j-bernhardt-michael-f-mccarthy-harold-t/#1445\" aria-description=\"Citation for case: United States v. Curtis J. Bernhardt, Michael F. McCarthy...\">840 F.2d 1441, 1445</a></span><pre class=\"inline\"> (9th Cir. 1998). I find no error and conclude the report is correct. \nMagistrate Judge Kasubhai\u2019s Findings and Recommendation (#29) is adopted. Plaintiff\u2019s motion \nfor fees (#24) and costs (#26) are GRANTED. Plaintiff is awarded attorney fees of $4,561.00 \nand $621.12 in costs.                                                     \nIT IS SO ORDERED.                                                         \nDATED this 24th day of September, 2019.                              \n                         _______/s/ Michael J. McShane________       \n                               Michael McShane                       \n                            United States District Judge             \n1 \u2013 ORDER                                                                 </pre>",
+    "extracted_by_ocr": false,
+    "ordering_key": null,
+    "main_version": null,
+    "opinions_cited": [
+      "https://www.courtlistener.com/api/rest/v4/opinions/502465/?format=json"
+    ]
+  }
+]
