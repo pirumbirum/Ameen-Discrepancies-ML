@@ -548,16 +548,55 @@ PHASES = {
     "financial_disclosures": enrich_financial_disclosures,
 }
 
+def report(cases):
+    """Print enrichment status report."""
+    layers = ["full_docket", "docket_entries", "citations",
+              "oral_arguments", "judge_profiles", "financial_disclosures"]
+    print(f"\n{'=' * 60}")
+    print(f"ENRICHMENT REPORT — {len(cases)} cases")
+    print("=" * 60)
+    for layer in layers:
+        done = sum(1 for cd, _, _ in cases if is_phase_done(cd, layer))
+        pct = done / max(len(cases), 1) * 100
+        bar = "#" * int(pct / 5) + "." * (20 - int(pct / 5))
+        print(f"  {layer:30s} [{bar}] {done:>5}/{len(cases)} ({pct:.0f}%)")
+
+    # Docket entries detail
+    total_entries = total_docs = docs_text = 0
+    for cd, _, _ in cases:
+        marker = os.path.join(cd, "docket_entries", "_done.json")
+        if os.path.isfile(marker):
+            try:
+                m = json.load(open(marker))
+                if m.get("status") == "ok":
+                    total_entries += m.get("entry_count", 0)
+                    total_docs += m.get("recap_doc_count", 0)
+                    docs_text += m.get("docs_with_text", 0)
+            except Exception:
+                pass
+    print(f"\n  Docket entries: {total_entries:,}")
+    print(f"  RECAP documents: {total_docs:,}")
+    print(f"  Docs with full text: {docs_text:,}")
+
+    mb = _stats["bytes_downloaded"] / 1024 / 1024
+    print(f"\n  API calls: {_stats['api_calls']:,}")
+    print(f"  API errors: {_stats['api_errors']:,}")
+    print(f"  Downloaded: {mb:.1f} MB")
+    print("=" * 60)
+
+
 def main():
     parser = argparse.ArgumentParser(description="Enrich golden set with CourtListener data")
     parser.add_argument("phase", choices=list(PHASES.keys()) + ["all"])
+    parser.add_argument("--limit", type=int, default=0,
+                        help="Only process first N cases (0=all)")
     parser.add_argument("--clean-bad-markers", action="store_true",
                         help="Remove _done.json markers that lack status=ok")
     args = parser.parse_args()
 
     token = os.environ.get("CL_API_TOKEN", "") or os.environ.get("COURTLISTENER_TOKEN", "")
     if not token:
-        print("FATAL: CL_API_TOKEN or COURTLISTENER_TOKEN is required (v4.3+ requires authentication)")
+        print("FATAL: CL_API_TOKEN or COURTLISTENER_TOKEN required")
         sys.exit(1)
     print(f"Using API token (length={len(token)})")
 
@@ -575,17 +614,19 @@ def main():
                 except Exception:
                     os.remove(marker)
                     cleaned += 1
-        print(f"Cleaned {cleaned} invalid markers from previous runs")
+        print(f"Cleaned {cleaned} invalid markers")
 
     cases = find_golden_cases()
-    print(f"Found {len(cases):,} golden set cases\n")
+    if args.limit > 0:
+        cases = cases[:args.limit]
+    print(f"Processing {len(cases):,} cases\n")
 
-    print("Testing API connectivity...")
+    print("Testing API...")
     test_data, test_err = api_get(f"{CL_API}/courts/?format=json&page_size=1", token)
     if test_err:
         print(f"FATAL: API test failed: {test_err}")
         sys.exit(1)
-    print(f"API OK — connected to CourtListener v4\n")
+    print(f"API OK\n")
 
     if args.phase == "all":
         phases_to_run = list(PHASES.keys())
@@ -596,13 +637,7 @@ def main():
         fn = PHASES[phase_name]
         fn(cases, token)
 
-    mb = _stats["bytes_downloaded"] / 1024 / 1024
-    print(f"\n{'=' * 60}")
-    print(f"ALL PHASES COMPLETE")
-    print(f"  API calls: {_stats['api_calls']:,}")
-    print(f"  API errors: {_stats['api_errors']:,}")
-    print(f"  Data downloaded: {mb:.1f} MB")
-    print("=" * 60)
+    report(cases)
 
 
 if __name__ == "__main__":

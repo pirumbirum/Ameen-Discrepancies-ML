@@ -12,41 +12,38 @@ jobs:
     timeout-minutes: 300
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           ref: ${{ github.ref_name }}
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Setup
-        run: |
+      - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          echo "Branch: $(git rev-parse --abbrev-ref HEAD)"
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Clean markers
-        run: |
-          python3 -c "
-          import json, os
-          cleaned = 0
-          for root, dirs, files in os.walk('golden_set'):
-              if '_done.json' in files:
-                  marker = os.path.join(root, '_done.json')
-                  try:
-                      m = json.load(open(marker))
-                      if m.get('status') != 'ok':
-                          os.remove(marker)
-                          cleaned += 1
-                  except:
-                      os.remove(marker)
-                      cleaned += 1
-          print(f'Cleaned {cleaned} invalid markers')
-          "
+      - name: Clean bad markers
+        run: python3 scripts/enrich_golden_set.py all --clean-bad-markers --limit 0 || true
 
+      # ── DIAGNOSTIC: 5 cases, all phases, prove it works ──
+      - name: "DIAGNOSTIC: 5 cases, all phases"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/enrich_golden_set.py all --limit 5
+
+      - name: "Save diagnostic"
+        run: |
+          git add golden_set/
+          git diff --cached --quiet && echo "Nothing new" && exit 0
+          git commit -m "Diagnostic: 5 cases enriched"
+          git push
+          echo "DIAGNOSTIC SAVED"
+
+      # ── PHASE 1: Full Docket (already done, will skip) ──
       - name: "Phase 1: Full Docket"
         env:
           CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
@@ -56,83 +53,165 @@ jobs:
       - name: "Save Phase 1"
         if: always()
         run: |
-          git add golden_set/
-          git diff --cached --quiet && echo "Nothing new" && exit 0
-          git commit -m "Phase 1: full_docket complete"
-          git push
+          git add golden_set/ && git diff --cached --quiet && exit 0
+          git commit -m "Phase 1 done" && git push
 
-      - name: "Phase 2: Docket Entries"
+      # ── PHASE 2: Docket Entries in batches of 100 ──
+      - name: "Phase 2 batch 1: cases 1-100"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/enrich_golden_set.py docket_entries --limit 100
+
+      - name: "Save batch 1"
+        if: always()
+        run: |
+          git add golden_set/ && git diff --cached --quiet && exit 0
+          git commit -m "Phase 2: docket_entries 1-100" && git push
+
+      - name: "Phase 2 batch 2: cases 101-200"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/enrich_golden_set.py docket_entries --limit 200
+
+      - name: "Save batch 2"
+        if: always()
+        run: |
+          git add golden_set/ && git diff --cached --quiet && exit 0
+          git commit -m "Phase 2: docket_entries 101-200" && git push
+
+      - name: "Phase 2 batch 3: cases 201-300"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/enrich_golden_set.py docket_entries --limit 300
+
+      - name: "Save batch 3"
+        if: always()
+        run: |
+          git add golden_set/ && git diff --cached --quiet && exit 0
+          git commit -m "Phase 2: docket_entries 201-300" && git push
+
+      - name: "Phase 2 batch 4: cases 301-400"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/enrich_golden_set.py docket_entries --limit 400
+
+      - name: "Save batch 4"
+        if: always()
+        run: |
+          git add golden_set/ && git diff --cached --quiet && exit 0
+          git commit -m "Phase 2: docket_entries 301-400" && git push
+
+      - name: "Phase 2 batch 5: cases 401-500"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/enrich_golden_set.py docket_entries --limit 500
+
+      - name: "Save batch 5"
+        if: always()
+        run: |
+          git add golden_set/ && git diff --cached --quiet && exit 0
+          git commit -m "Phase 2: docket_entries 401-500" && git push
+
+      - name: "Phase 2 batch 6: cases 501-600"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/enrich_golden_set.py docket_entries --limit 600
+
+      - name: "Save batch 6"
+        if: always()
+        run: |
+          git add golden_set/ && git diff --cached --quiet && exit 0
+          git commit -m "Phase 2: docket_entries 501-600" && git push
+
+      - name: "Phase 2 batch 7: cases 601-700"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/enrich_golden_set.py docket_entries --limit 700
+
+      - name: "Save batch 7"
+        if: always()
+        run: |
+          git add golden_set/ && git diff --cached --quiet && exit 0
+          git commit -m "Phase 2: docket_entries 601-700" && git push
+
+      - name: "Phase 2 batch 8: cases 701-800"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/enrich_golden_set.py docket_entries --limit 800
+
+      - name: "Save batch 8"
+        if: always()
+        run: |
+          git add golden_set/ && git diff --cached --quiet && exit 0
+          git commit -m "Phase 2: docket_entries 701-800" && git push
+
+      - name: "Phase 2 batch 9: cases 801-900"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/enrich_golden_set.py docket_entries --limit 900
+
+      - name: "Save batch 9"
+        if: always()
+        run: |
+          git add golden_set/ && git diff --cached --quiet && exit 0
+          git commit -m "Phase 2: docket_entries 801-900" && git push
+
+      - name: "Phase 2 batch 10: cases 901-1000"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/enrich_golden_set.py docket_entries --limit 1000
+
+      - name: "Save batch 10"
+        if: always()
+        run: |
+          git add golden_set/ && git diff --cached --quiet && exit 0
+          git commit -m "Phase 2: docket_entries 901-1000" && git push
+
+      - name: "Phase 2 batch 11: cases 1001-1100"
         env:
           CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
           COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
         run: python3 scripts/enrich_golden_set.py docket_entries
 
-      - name: "Save Phase 2"
+      - name: "Save batch 11"
         if: always()
         run: |
-          git add golden_set/
-          git diff --cached --quiet && echo "Nothing new" && exit 0
-          git commit -m "Phase 2: docket_entries complete"
-          git push
+          git add golden_set/ && git diff --cached --quiet && exit 0
+          git commit -m "Phase 2: docket_entries 1001-1100" && git push
 
-      - name: "Phase 3: Citations"
+      # ── PHASES 3-6 ──
+      - name: "Phases 3-6: Citations, Oral Args, Judges, Disclosures"
         env:
           CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
           COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
-        run: python3 scripts/enrich_golden_set.py citations
+        run: |
+          python3 scripts/enrich_golden_set.py citations
+          python3 scripts/enrich_golden_set.py oral_arguments
+          python3 scripts/enrich_golden_set.py judge_profiles
+          python3 scripts/enrich_golden_set.py financial_disclosures
 
-      - name: "Save Phase 3"
+      - name: "Save Phases 3-6"
         if: always()
         run: |
-          git add golden_set/
-          git diff --cached --quiet && echo "Nothing new" && exit 0
-          git commit -m "Phase 3: citations complete"
-          git push
+          git add golden_set/ && git diff --cached --quiet && exit 0
+          git commit -m "Phases 3-6 complete" && git push
 
-      - name: "Phase 4: Oral Arguments"
+      # ── REPORT ──
+      - name: "Report"
+        if: always()
         env:
           CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
           COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
-        run: python3 scripts/enrich_golden_set.py oral_arguments
-
-      - name: "Save Phase 4"
-        if: always()
-        run: |
-          git add golden_set/
-          git diff --cached --quiet && echo "Nothing new" && exit 0
-          git commit -m "Phase 4: oral_arguments complete"
-          git push
-
-      - name: "Phase 5: Judge Profiles"
-        env:
-          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
-          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
-        run: python3 scripts/enrich_golden_set.py judge_profiles
-
-      - name: "Save Phase 5"
-        if: always()
-        run: |
-          git add golden_set/
-          git diff --cached --quiet && echo "Nothing new" && exit 0
-          git commit -m "Phase 5: judge_profiles complete"
-          git push
-
-      - name: "Phase 6: Financial Disclosures"
-        env:
-          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
-          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
-        run: python3 scripts/enrich_golden_set.py financial_disclosures
-
-      - name: "Save Phase 6"
-        if: always()
-        run: |
-          git add golden_set/
-          git diff --cached --quiet && echo "Nothing new" && exit 0
-          git commit -m "Phase 6: financial_disclosures complete"
-          git push
-
-      - name: "Status Report"
-        if: always()
         run: |
           python3 -c "
           import json, os
@@ -140,12 +219,32 @@ jobs:
           total = sum(1 for cat in os.listdir('golden_set') if os.path.isdir(os.path.join('golden_set', cat))
                       for c in os.listdir(os.path.join('golden_set', cat))
                       if os.path.isdir(os.path.join('golden_set', cat, c)))
+          print(f'Total cases: {total}')
           for layer in layers:
-              done = sum(1 for root, dirs, _ in os.walk('golden_set') if layer in dirs
-                        and os.path.isfile(os.path.join(root, layer, '_done.json'))
-                        and json.load(open(os.path.join(root, layer, '_done.json'))).get('status') == 'ok')
+              done = 0
+              for root, dirs, _ in os.walk('golden_set'):
+                  if layer in dirs:
+                      m_path = os.path.join(root, layer, '_done.json')
+                      if os.path.isfile(m_path):
+                          try:
+                              m = json.load(open(m_path))
+                              if m.get('status') == 'ok': done += 1
+                          except: pass
               pct = done / max(total, 1) * 100
               print(f'  {layer:30s} {done:>5}/{total} ({pct:.0f}%)')
+          # docket entries detail
+          te = td = dt = 0
+          for root, dirs, _ in os.walk('golden_set'):
+              m_path = os.path.join(root, 'docket_entries', '_done.json')
+              if os.path.isfile(m_path):
+                  try:
+                      m = json.load(open(m_path))
+                      if m.get('status') == 'ok':
+                          te += m.get('entry_count', 0)
+                          td += m.get('recap_doc_count', 0)
+                          dt += m.get('docs_with_text', 0)
+                  except: pass
+          print(f'\nDocket detail: {te:,} entries, {td:,} docs, {dt:,} with text')
           " 2>/dev/null || true
           du -sh golden_set/
 
