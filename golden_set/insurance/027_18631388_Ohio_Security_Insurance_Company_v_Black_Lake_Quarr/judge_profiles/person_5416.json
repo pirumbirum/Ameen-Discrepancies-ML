@@ -1,0 +1,51 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5416/?format=json",
+  "id": 5416,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1582/?format=json",
+      "id": 1582,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5416/?format=json",
+      "date_created": "2016-04-20T08:26:18.043603-07:00",
+      "date_modified": "2016-04-20T08:26:18.043632-07:00",
+      "url": "http://newsok.com/dick-sterling-jones/article/2555154",
+      "date_accessed": null,
+      "notes": "Senior Years: 7 years during term, unclear which ones"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27472/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27473/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27474/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27475/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:17.959400-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "dick-sterling-jones",
+  "name_first": "Dick",
+  "name_middle": "Sterling",
+  "name_last": "Jones",
+  "name_suffix": "",
+  "date_dob": "1905-01-01",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1996-10-08",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

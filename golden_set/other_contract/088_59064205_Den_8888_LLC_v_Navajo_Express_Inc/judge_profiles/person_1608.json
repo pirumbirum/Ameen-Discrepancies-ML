@@ -1,0 +1,79 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1608/?format=json",
+  "id": 1608,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1332/?format=json",
+      "id": 1332,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4828/?format=json",
+        "id": 4828,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Manhattan College",
+        "ein": 131740468
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1608/?format=json",
+      "date_created": "2016-04-20T08:19:30.180885-07:00",
+      "date_modified": "2016-04-20T08:19:30.180909-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1900
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9871/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9872/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9873/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9874/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9875/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9876/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9870/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1615/?format=json",
+      "id": 1615,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1608/?format=json",
+      "date_created": "2016-04-20T08:19:30.167951-07:00",
+      "date_modified": "2016-04-20T08:19:30.167975-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1937-11-29",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:30.137041-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3320,
+  "slug": "joseph-raymond-jackson",
+  "name_first": "Joseph",
+  "name_middle": "Raymond",
+  "name_last": "Jackson",
+  "name_suffix": "",
+  "date_dob": "1880-08-30",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1969-08-29",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Albany",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "Washington",
+  "dod_state": "DC",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

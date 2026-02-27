@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13900/?format=json",
+  "id": 13900,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11838/?format=json",
+      "id": 11838,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13900/?format=json",
+      "date_created": "2022-03-10T17:33:10.791903-08:00",
+      "date_modified": "2022-03-10T17:33:10.791926-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-10",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11839/?format=json",
+      "id": 11839,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13900/?format=json",
+      "date_created": "2022-03-10T17:33:10.799478-08:00",
+      "date_modified": "2022-03-10T17:33:10.799502-08:00",
+      "url": "https://ballotpedia.org/Gregorio_Roman",
+      "date_accessed": "2022-03-10",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11840/?format=json",
+      "id": 11840,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13900/?format=json",
+      "date_created": "2022-03-10T17:33:10.808145-08:00",
+      "date_modified": "2022-03-10T17:33:10.808170-08:00",
+      "url": "https://www.martindale.com/attorney/gregorio-roman-137653/",
+      "date_accessed": "2022-03-10",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11841/?format=json",
+      "id": 11841,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13900/?format=json",
+      "date_created": "2022-03-10T17:33:10.820942-08:00",
+      "date_modified": "2022-03-10T17:33:10.820966-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-10",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9479/?format=json",
+      "id": 9479,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13900/?format=json",
+      "date_created": "2022-03-10T17:33:10.771647-08:00",
+      "date_modified": "2022-03-10T17:33:10.771671-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1981
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9480/?format=json",
+      "id": 9480,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13900/?format=json",
+      "date_created": "2022-03-10T17:33:10.782331-08:00",
+      "date_modified": "2022-03-10T17:33:10.782355-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1986
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43552/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6730/?format=json",
+      "id": 6730,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13900/?format=json",
+      "date_created": "2022-03-10T17:33:10.748662-08:00",
+      "date_modified": "2022-03-10T17:33:10.748690-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6731/?format=json",
+      "id": 6731,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13900/?format=json",
+      "date_created": "2022-03-10T17:33:10.759744-08:00",
+      "date_modified": "2022-03-10T17:33:10.759767-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:59.605840-07:00",
+  "date_modified": "2022-03-21T14:41:03.918552-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "gregorio-roman",
+  "name_first": "Gregorio",
+  "name_middle": "",
+  "name_last": "Roman",
+  "name_suffix": "",
+  "date_dob": "1960-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,56 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3134/?format=json",
+  "id": 3134,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/19679/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19680/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19681/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19682/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3151/?format=json",
+      "id": 3151,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3134/?format=json",
+      "date_created": "2016-04-20T08:23:05.978918-07:00",
+      "date_modified": "2016-04-20T08:23:05.978942-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1937-08-12",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:23:05.944280-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2313,
+  "slug": "george-f-sullivan",
+  "name_first": "George",
+  "name_middle": "F.",
+  "name_last": "Sullivan",
+  "name_suffix": "",
+  "date_dob": "1886-01-30",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1944-04-14",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Shakopee",
+  "dob_state": "MN",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

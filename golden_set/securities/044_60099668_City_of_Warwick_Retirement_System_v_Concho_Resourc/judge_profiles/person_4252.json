@@ -1,0 +1,88 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4252/?format=json",
+  "id": 4252,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/297/?format=json",
+      "id": 297,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4252/?format=json",
+      "date_created": "2016-04-20T08:24:48.802427-07:00",
+      "date_modified": "2016-04-20T08:24:48.802449-07:00",
+      "url": "https://en.wikipedia.org/wiki/Benjamin_R._Sheldon",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3469/?format=json",
+      "id": 3469,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6223/?format=json",
+        "id": 6223,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Williams College",
+        "ein": 42104847
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4252/?format=json",
+      "date_created": "2016-04-20T08:24:48.761974-07:00",
+      "date_modified": "2016-04-20T08:24:48.762003-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3470/?format=json",
+      "id": 3470,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4252/?format=json",
+      "date_created": "2016-04-20T08:24:48.788657-07:00",
+      "date_modified": "2016-04-20T08:24:48.788686-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24142/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24143/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:48.736811-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "benjamin-r-sheldon",
+  "name_first": "Benjamin",
+  "name_middle": "R.",
+  "name_last": "Sheldon",
+  "name_suffix": "",
+  "date_dob": "1811-04-15",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1897-04-13",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

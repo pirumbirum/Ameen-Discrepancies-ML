@@ -1,0 +1,113 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5519/?format=json",
+  "id": 5519,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1720/?format=json",
+      "id": 1720,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5519/?format=json",
+      "date_created": "2016-04-20T08:26:26.295776-07:00",
+      "date_modified": "2016-04-20T08:26:26.295797-07:00",
+      "url": "http://en.wikipedia.org/wiki/John_C._Bell",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1721/?format=json",
+      "id": 1721,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5519/?format=json",
+      "date_created": "2016-04-20T08:26:26.301707-07:00",
+      "date_modified": "2016-04-20T08:26:26.301728-07:00",
+      "url": "_Jr.",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4541/?format=json",
+      "id": 4541,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4361/?format=json",
+        "id": 4361,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Pennsylvania",
+        "ein": 231352685
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5519/?format=json",
+      "date_created": "2016-04-20T08:26:26.254474-07:00",
+      "date_modified": "2016-04-20T08:26:26.254497-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4542/?format=json",
+      "id": 4542,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4361/?format=json",
+        "id": 4361,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Pennsylvania",
+        "ein": 231352685
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5519/?format=json",
+      "date_created": "2016-04-20T08:26:26.267920-07:00",
+      "date_modified": "2016-04-20T08:26:26.267943-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27768/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27769/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27770/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4371/?format=json",
+      "id": 4371,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5519/?format=json",
+      "date_created": "2016-04-20T08:26:26.290283-07:00",
+      "date_modified": "2016-04-20T08:26:26.290307-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:26.230095-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "john-c-bell-jr",
+  "name_first": "John",
+  "name_middle": "C.",
+  "name_last": "Bell",
+  "name_suffix": "jr",
+  "date_dob": "1892-10-01",
+  "date_granularity_dob": "%Y-%m",
+  "date_dod": "1974-03-21",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

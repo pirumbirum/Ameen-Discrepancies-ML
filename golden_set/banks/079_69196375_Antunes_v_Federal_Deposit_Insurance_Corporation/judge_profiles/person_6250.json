@@ -1,0 +1,103 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6250/?format=json",
+  "id": 6250,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2567/?format=json",
+      "id": 2567,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6250/?format=json",
+      "date_created": "2016-04-20T08:27:24.770112-07:00",
+      "date_modified": "2016-04-20T08:27:24.770137-07:00",
+      "url": "http://courts.ky.gov/courts/coa/Pages/thompson.aspx",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5313/?format=json",
+      "id": 5313,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1979/?format=json",
+        "id": 1979,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Northern Arizona University",
+        "ein": 742579628
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6250/?format=json",
+      "date_created": "2016-04-20T08:27:24.722220-07:00",
+      "date_modified": "2016-04-20T08:27:24.722250-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5314/?format=json",
+      "id": 5314,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/637/?format=json",
+        "id": 637,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Colorado Boulder",
+        "ein": 846000555
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6250/?format=json",
+      "date_created": "2016-04-20T08:27:24.741607-07:00",
+      "date_modified": "2016-04-20T08:27:24.741634-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/29777/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29778/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29779/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4737/?format=json",
+      "id": 4737,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6250/?format=json",
+      "date_created": "2016-04-20T08:27:24.764025-07:00",
+      "date_modified": "2016-04-20T08:27:24.764052-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:24.691208-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jon-w-thompson",
+  "name_first": "Jon",
+  "name_middle": "W.",
+  "name_last": "Thompson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

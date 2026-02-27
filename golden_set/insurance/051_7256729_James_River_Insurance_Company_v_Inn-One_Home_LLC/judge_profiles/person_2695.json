@@ -1,0 +1,67 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2695/?format=json",
+  "id": 2695,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1679/?format=json",
+      "id": 1679,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2695/?format=json",
+      "date_created": "2016-04-20T08:22:03.925474-07:00",
+      "date_modified": "2016-04-20T08:22:03.925496-07:00",
+      "year_rated": 2009,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/16858/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16859/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16860/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16861/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16862/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2703/?format=json",
+      "id": 2703,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2695/?format=json",
+      "date_created": "2016-04-20T08:22:03.918714-07:00",
+      "date_modified": "2016-04-20T08:22:03.918739-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2009-10-13",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:03.886050-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3226,
+  "slug": "christina-clair-reiss",
+  "name_first": "Christina",
+  "name_middle": "Clair",
+  "name_last": "Reiss",
+  "name_suffix": "",
+  "date_dob": "1962-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Denver",
+  "dob_state": "CO",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

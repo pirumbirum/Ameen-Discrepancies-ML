@@ -1,0 +1,68 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4138/?format=json",
+  "id": 4138,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/226/?format=json",
+      "id": 226,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4138/?format=json",
+      "date_created": "2016-04-20T08:24:43.056859-07:00",
+      "date_modified": "2016-04-20T08:24:43.056879-07:00",
+      "url": "http://www.courts.state.hi.us/courts/supreme/justices/justice_michael_wilson_bio.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3424/?format=json",
+      "id": 3424,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3207/?format=json",
+        "id": 3207,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Wisconsin-Madison",
+        "ein": 396006492
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4138/?format=json",
+      "date_created": "2016-04-20T08:24:43.032041-07:00",
+      "date_modified": "2016-04-20T08:24:43.032061-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23936/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:43.011243-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "michael-d-wilson",
+  "name_first": "Michael",
+  "name_middle": "D.",
+  "name_last": "Wilson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

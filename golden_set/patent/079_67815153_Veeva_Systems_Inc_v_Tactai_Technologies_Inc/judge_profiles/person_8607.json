@@ -1,0 +1,117 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8607/?format=json",
+  "id": 8607,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4311/?format=json",
+      "id": 4311,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8607/?format=json",
+      "date_created": "2019-09-22T15:32:10.333053-07:00",
+      "date_modified": "2019-09-22T15:32:10.333076-07:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2019-09-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2354/?format=json",
+      "id": 2354,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8607/?format=json",
+      "date_created": "2019-09-22T15:32:10.329715-07:00",
+      "date_modified": "2019-09-22T15:32:10.329739-07:00",
+      "year_rated": 2019,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6792/?format=json",
+      "id": 6792,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4267/?format=json",
+        "id": 4267,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Miami University-Oxford",
+        "ein": 316402089
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8607/?format=json",
+      "date_created": "2019-09-22T15:32:10.348668-07:00",
+      "date_modified": "2019-09-22T15:32:10.348695-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 2001
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6910/?format=json",
+      "id": 6910,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1057/?format=json",
+        "id": 1057,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Chicago",
+        "ein": 362177139
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8607/?format=json",
+      "date_created": "2019-10-08T16:50:35.401429-07:00",
+      "date_modified": "2019-10-08T16:50:35.401460-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 2005
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/34243/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34246/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34247/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34244/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34245/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4955/?format=json",
+      "id": 4955,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8607/?format=json",
+      "date_created": "2019-09-22T15:32:10.324997-07:00",
+      "date_modified": "2019-09-22T15:32:10.325023-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2019-01-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2019-09-22T15:32:10.282284-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 6105366,
+  "slug": "eric-earl-murphy",
+  "name_first": "Eric",
+  "name_middle": "Earl",
+  "name_last": "Murphy",
+  "name_suffix": "",
+  "date_dob": "1979-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Indianapolis",
+  "dob_state": "IN",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,104 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12647/?format=json",
+  "id": 12647,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6179/?format=json",
+      "id": 6179,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12647/?format=json",
+      "date_created": "2022-02-08T09:01:59.543177-08:00",
+      "date_modified": "2022-02-08T09:01:59.543202-08:00",
+      "url": "https://courtlistener.com",
+      "date_accessed": "2022-02-08",
+      "notes": "Updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6180/?format=json",
+      "id": 6180,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12647/?format=json",
+      "date_created": "2022-02-08T09:01:59.552689-08:00",
+      "date_modified": "2022-02-08T09:01:59.552715-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-08",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6236/?format=json",
+      "id": 6236,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12647/?format=json",
+      "date_created": "2022-02-08T09:50:15.758461-08:00",
+      "date_modified": "2022-02-08T09:50:15.758484-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-08",
+      "notes": "American Bench, 2021 ed."
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7020/?format=json",
+      "id": 7020,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3119/?format=json",
+        "id": 3119,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southwestern Law School",
+        "ein": 951246140
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12647/?format=json",
+      "date_created": "2022-02-08T09:49:50.190868-08:00",
+      "date_modified": "2022-02-08T09:49:50.190893-08:00",
+      "degree_level": "jd",
+      "degree_detail": "1984",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/41670/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5050/?format=json",
+      "id": 5050,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12647/?format=json",
+      "date_created": "2022-02-08T09:01:59.538178-08:00",
+      "date_modified": "2022-02-08T09:01:59.538205-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:09:57.709177-07:00",
+  "date_modified": "2022-02-08T09:50:15.749080-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "matthew-s-anderson",
+  "name_first": "Matthew",
+  "name_middle": "S.",
+  "name_last": "Anderson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

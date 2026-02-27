@@ -1,0 +1,58 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2021/?format=json",
+  "id": 2021,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/12575/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12576/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12577/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12578/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12579/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12574/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2029/?format=json",
+      "id": 2029,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2021/?format=json",
+      "date_created": "2016-04-20T08:20:30.540666-07:00",
+      "date_modified": "2016-04-20T08:20:30.540700-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1934-01-08",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:30.501579-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1467,
+  "slug": "james-earl-major",
+  "name_first": "James",
+  "name_middle": "Earl",
+  "name_last": "Major",
+  "name_suffix": "",
+  "date_dob": "1887-01-05",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1972-01-04",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Donnellson",
+  "dob_state": "IL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

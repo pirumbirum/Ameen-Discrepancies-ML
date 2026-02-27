@@ -1,0 +1,86 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/879/?format=json",
+  "id": 879,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/515/?format=json",
+      "id": 515,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/879/?format=json",
+      "date_created": "2016-04-20T08:17:47.706674-07:00",
+      "date_modified": "2016-04-20T08:17:47.706692-07:00",
+      "year_rated": 2014,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/710/?format=json",
+      "id": 710,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6270/?format=json",
+        "id": 6270,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Wake Forest University",
+        "ein": 560532138
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/879/?format=json",
+      "date_created": "2016-04-20T08:17:47.750065-07:00",
+      "date_modified": "2016-04-20T08:17:47.750085-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1986
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/5336/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5337/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5338/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5339/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/884/?format=json",
+      "id": 884,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/879/?format=json",
+      "date_created": "2016-04-20T08:17:47.701811-07:00",
+      "date_modified": "2016-04-20T08:17:47.701832-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2014-09-18",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:47.676142-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3582,
+  "slug": "elizabeth-kay-dillon",
+  "name_first": "Elizabeth",
+  "name_middle": "Kay",
+  "name_last": "Dillon",
+  "name_suffix": "",
+  "date_dob": "1960-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Omaha",
+  "dob_state": "NE",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,191 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14452/?format=json",
+  "id": 14452,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8460/?format=json",
+      "id": 8460,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14452/?format=json",
+      "date_created": "2022-02-23T14:42:10.381663-08:00",
+      "date_modified": "2022-02-23T14:42:10.381687-08:00",
+      "url": "https://www.martindale.com/attorney/edward-h-meyers-168925382/",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8461/?format=json",
+      "id": 8461,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14452/?format=json",
+      "date_created": "2022-02-23T14:42:10.383813-08:00",
+      "date_modified": "2022-02-23T14:42:10.383837-08:00",
+      "url": "https://www.law.edu/news-and-events/2019/10/2019-1016-Meyers-judicial-nomination.html",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8462/?format=json",
+      "id": 8462,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14452/?format=json",
+      "date_created": "2022-02-23T14:42:10.384974-08:00",
+      "date_modified": "2022-02-23T14:42:10.384998-08:00",
+      "url": "https://www.law.edu/news-and-events/2020/09/2020-0923-alum-news-meyers-judge-confirmation.html",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8463/?format=json",
+      "id": 8463,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14452/?format=json",
+      "date_created": "2022-02-23T14:42:10.386148-08:00",
+      "date_modified": "2022-02-23T14:42:10.386172-08:00",
+      "url": "https://www.bloomberg.com/profile/person/20271542",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8464/?format=json",
+      "id": 8464,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14452/?format=json",
+      "date_created": "2022-02-23T14:42:10.387456-08:00",
+      "date_modified": "2022-02-23T14:42:10.387481-08:00",
+      "url": "https://www.judiciary.senate.gov/imo/media/doc/Edward%20Meyers%20SJQ%20-PUBLIC.pdf",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8465/?format=json",
+      "id": 8465,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14452/?format=json",
+      "date_created": "2022-02-23T14:42:10.388810-08:00",
+      "date_modified": "2022-02-23T14:42:10.388834-08:00",
+      "url": "https://ballotpedia.org/Edward_Meyers",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8466/?format=json",
+      "id": 8466,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14452/?format=json",
+      "date_created": "2022-02-23T14:42:10.390057-08:00",
+      "date_modified": "2022-02-23T14:42:10.390081-08:00",
+      "url": "https://en.wikipedia.org/wiki/Edward_H._Meyers",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8467/?format=json",
+      "id": 8467,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14452/?format=json",
+      "date_created": "2022-02-23T14:42:10.391187-08:00",
+      "date_modified": "2022-02-23T14:42:10.391211-08:00",
+      "url": "http://www.uscfc.uscourts.gov/edward-h-meyers",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8468/?format=json",
+      "id": 8468,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14452/?format=json",
+      "date_created": "2022-02-23T14:42:10.392353-08:00",
+      "date_modified": "2022-02-23T14:42:10.392376-08:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Meyers-EH.%20J1.%20--.%20CC_SR_20.pdf",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8469/?format=json",
+      "id": 8469,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14452/?format=json",
+      "date_created": "2022-02-23T14:42:10.393471-08:00",
+      "date_modified": "2022-02-23T14:42:10.393494-08:00",
+      "url": "https://www.uscourts.gov/judicial-milestones/edward-hulvey-meyers",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7936/?format=json",
+      "id": 7936,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3776/?format=json",
+        "id": 3776,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Vanderbilt University",
+        "ein": 620476822
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14452/?format=json",
+      "date_created": "2022-02-23T14:42:10.374832-08:00",
+      "date_modified": "2022-02-23T14:42:10.374862-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1995
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7937/?format=json",
+      "id": 7937,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6042/?format=json",
+        "id": 6042,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Catholic University of America",
+        "ein": 530196583
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14452/?format=json",
+      "date_created": "2022-02-23T14:42:10.380150-08:00",
+      "date_modified": "2022-02-23T18:34:58.982775-08:00",
+      "degree_level": "jd",
+      "degree_detail": "summa cum laude",
+      "degree_year": 2005
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44353/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5722/?format=json",
+      "id": 5722,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14452/?format=json",
+      "date_created": "2022-02-23T18:34:58.986622-08:00",
+      "date_modified": "2022-02-23T18:34:58.986644-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-02-23T14:42:10.349230-08:00",
+  "date_modified": "2022-02-23T18:34:58.971005-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "edward-hulvey-meyers",
+  "name_first": "Edward",
+  "name_middle": "Hulvey",
+  "name_last": "Meyers",
+  "name_suffix": "",
+  "date_dob": "1972-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Washington",
+  "dob_state": "DC",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "ca",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

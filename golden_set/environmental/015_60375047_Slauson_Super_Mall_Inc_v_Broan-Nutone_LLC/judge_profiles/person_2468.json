@@ -1,0 +1,109 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2468/?format=json",
+  "id": 2468,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1524/?format=json",
+      "id": 1524,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2468/?format=json",
+      "date_created": "2016-04-20T08:21:32.781117-07:00",
+      "date_modified": "2016-04-20T08:21:32.781138-07:00",
+      "year_rated": 1994,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2057/?format=json",
+      "id": 2057,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6296/?format=json",
+        "id": 6296,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The College of Wooster",
+        "ein": 340714654
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2468/?format=json",
+      "date_created": "2016-04-20T08:21:32.809623-07:00",
+      "date_modified": "2016-04-20T08:21:32.809646-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1969
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2058/?format=json",
+      "id": 2058,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1253/?format=json",
+        "id": 1253,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Case Western Reserve University",
+        "ein": 341018992
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2468/?format=json",
+      "date_created": "2016-04-20T08:21:32.852752-07:00",
+      "date_modified": "2016-04-20T08:21:32.852795-07:00",
+      "degree_level": "ma",
+      "degree_detail": "M.A.",
+      "degree_year": 1974
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/15412/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15413/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15414/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15415/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15416/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15417/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15418/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15419/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2476/?format=json",
+      "id": 2476,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2468/?format=json",
+      "date_created": "2016-04-20T08:21:32.774003-07:00",
+      "date_modified": "2016-04-20T08:21:32.774027-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1994-03-09",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:32.741992-07:00",
+  "date_modified": "2020-11-25T08:30:19.742393-08:00",
+  "date_completed": null,
+  "fjc_id": 1812,
+  "slug": "solomon-oliver-jr",
+  "name_first": "Solomon",
+  "name_middle": "",
+  "name_last": "Oliver",
+  "name_suffix": "jr",
+  "date_dob": "1947-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Bessemer",
+  "dob_state": "AL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

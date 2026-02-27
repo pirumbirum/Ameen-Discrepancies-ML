@@ -1,0 +1,170 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15318/?format=json",
+  "id": 15318,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16169/?format=json",
+      "id": 16169,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15318/?format=json",
+      "date_created": "2022-05-19T09:49:03.797535-07:00",
+      "date_modified": "2022-05-19T09:49:03.797586-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Badalamenti-JL.%20J3.%2011.%20FLM_SR_20.pdf",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16170/?format=json",
+      "id": 16170,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15318/?format=json",
+      "date_created": "2022-05-19T09:49:03.836919-07:00",
+      "date_modified": "2022-05-19T09:49:03.836962-07:00",
+      "url": "https://ballotpedia.org/John_L._Badalamenti",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16171/?format=json",
+      "id": 16171,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15318/?format=json",
+      "date_created": "2022-05-19T09:49:03.861085-07:00",
+      "date_modified": "2022-05-19T09:49:03.861110-07:00",
+      "url": "https://www.2dca.org/Judges/Former-Judges/Judge-John-L.-Badalamenti",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16172/?format=json",
+      "id": 16172,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15318/?format=json",
+      "date_created": "2022-05-19T09:49:03.883700-07:00",
+      "date_modified": "2022-05-19T09:49:03.883734-07:00",
+      "url": "https://www.fjc.gov/history/judges/badalamenti-john-leonard",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16173/?format=json",
+      "id": 16173,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15318/?format=json",
+      "date_created": "2022-05-19T10:01:41.140534-07:00",
+      "date_modified": "2022-05-19T10:01:41.140567-07:00",
+      "url": "https://en.wikipedia.org/wiki/John_Badalamenti",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11490/?format=json",
+      "id": 11490,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2145/?format=json",
+        "id": 2145,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Florida",
+        "ein": 596002052
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15318/?format=json",
+      "date_created": "2022-05-19T09:49:03.578528-07:00",
+      "date_modified": "2022-05-19T09:49:03.578559-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Criminology and Law, highest honors",
+      "degree_year": 1995
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11491/?format=json",
+      "id": 11491,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2145/?format=json",
+        "id": 2145,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Florida",
+        "ein": 596002052
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15318/?format=json",
+      "date_created": "2022-05-19T09:49:03.654935-07:00",
+      "date_modified": "2022-05-19T09:49:03.654967-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1999
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11492/?format=json",
+      "id": 11492,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2145/?format=json",
+        "id": 2145,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Florida",
+        "ein": 596002052
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15318/?format=json",
+      "date_created": "2022-05-19T09:49:03.723750-07:00",
+      "date_modified": "2022-05-19T09:49:03.723780-07:00",
+      "degree_level": "ma",
+      "degree_detail": "Sociology",
+      "degree_year": 1999
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47615/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47616/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47617/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47618/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47619/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47620/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47621/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47614/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47622/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7941/?format=json",
+      "id": 7941,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15318/?format=json",
+      "date_created": "2022-05-19T09:49:03.769388-07:00",
+      "date_modified": "2022-05-19T09:49:03.769420-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-05-19T09:49:02.869031-07:00",
+  "date_modified": "2022-05-19T11:08:47.185653-07:00",
+  "date_completed": "2022-05-19T09:29:59-07:00",
+  "fjc_id": null,
+  "slug": "john-leonard-badalamenti",
+  "name_first": "John",
+  "name_middle": "Leonard",
+  "name_last": "Badalamenti",
+  "name_suffix": "",
+  "date_dob": "1973-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Brooklyn, New York",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "ca",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

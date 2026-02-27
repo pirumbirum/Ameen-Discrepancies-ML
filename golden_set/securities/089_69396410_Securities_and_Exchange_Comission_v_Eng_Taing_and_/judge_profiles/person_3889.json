@@ -1,0 +1,62 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3889/?format=json",
+  "id": 3889,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/64/?format=json",
+      "id": 64,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3889/?format=json",
+      "date_created": "2016-04-20T08:24:28.386219-07:00",
+      "date_modified": "2016-04-20T08:24:28.386238-07:00",
+      "url": "http://politicalgraveyard.com/bio/white8.html#377.69.23",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23324/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3746/?format=json",
+      "id": 3746,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3889/?format=json",
+      "date_created": "2016-04-20T08:24:28.380615-07:00",
+      "date_modified": "2016-04-20T08:24:28.380645-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:28.363082-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "sebastian-h-white",
+  "name_first": "Sebastian",
+  "name_middle": "H.",
+  "name_last": "White",
+  "name_suffix": "",
+  "date_dob": "1864-12-24",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1945-01-01",
+  "date_granularity_dod": "%Y",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,59 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8153/?format=json",
+  "id": 8153,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3919/?format=json",
+      "id": 3919,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8153/?format=json",
+      "date_created": "2016-04-20T08:28:52.511890-07:00",
+      "date_modified": "2016-04-20T08:28:52.511915-07:00",
+      "url": "http://www.daytondailynews.com/news/news/local/judge-ending-40-years-on-bench-in-warren-county-1/nMmsh/",
+      "date_accessed": null,
+      "notes": "City Prosecutor; Private Practice; Common Pleas Court Judge;Visiting Judge"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3920/?format=json",
+      "id": 3920,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8153/?format=json",
+      "date_created": "2016-04-20T08:28:52.517893-07:00",
+      "date_modified": "2016-04-20T08:28:52.517918-07:00",
+      "url": "http://ohiobusinessvotes.org/government/judges-of-the-ohio-court-of-appeals",
+      "date_accessed": null,
+      "notes": "City Prosecutor; Private Practice; Common Pleas Court Judge;Visiting Judge"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33137/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33138/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:52.489101-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "william-w-young",
+  "name_first": "William",
+  "name_middle": "W.",
+  "name_last": "Young",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,168 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14819/?format=json",
+  "id": 14819,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14545/?format=json",
+      "id": 14545,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14819/?format=json",
+      "date_created": "2022-04-06T20:29:07.910391-07:00",
+      "date_modified": "2022-04-06T20:29:07.910412-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=mBihneGo37R6krG50pVGpg%3D%3D",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14546/?format=json",
+      "id": 14546,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14819/?format=json",
+      "date_created": "2022-04-06T20:29:07.912071-07:00",
+      "date_modified": "2022-04-06T20:29:07.912095-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14547/?format=json",
+      "id": 14547,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14819/?format=json",
+      "date_created": "2022-04-06T20:29:07.913280-07:00",
+      "date_modified": "2022-04-06T20:29:07.913304-07:00",
+      "url": "https://ballotpedia.org/Laura_Johnson",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14548/?format=json",
+      "id": 14548,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14819/?format=json",
+      "date_created": "2022-04-06T20:29:07.914474-07:00",
+      "date_modified": "2022-04-06T20:29:07.914498-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/New_York_City_Criminal_Court,_Kings_County/Laura_Johnson/Laura_Johnson-50000077.xml",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10755/?format=json",
+      "id": 10755,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3892/?format=json",
+        "id": 3892,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Columbia University in the City of New York",
+        "ein": 603800000
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14819/?format=json",
+      "date_created": "2022-04-06T20:29:07.895058-07:00",
+      "date_modified": "2022-04-06T20:29:07.895083-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10756/?format=json",
+      "id": 10756,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3875/?format=json",
+        "id": 3875,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Barnard College",
+        "ein": 131628149
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14819/?format=json",
+      "date_created": "2022-04-06T20:29:07.900078-07:00",
+      "date_modified": "2022-04-06T20:29:07.900103-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/46236/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46237/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46238/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46239/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46240/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46241/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46242/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46243/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46244/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46245/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7479/?format=json",
+      "id": 7479,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14819/?format=json",
+      "date_created": "2022-04-06T20:29:07.902971-07:00",
+      "date_modified": "2022-04-06T20:29:07.903004-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2013-02-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7480/?format=json",
+      "id": 7480,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14819/?format=json",
+      "date_created": "2022-04-06T20:29:07.906274-07:00",
+      "date_modified": "2022-04-06T20:29:07.906297-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2014-12-31",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7481/?format=json",
+      "id": 7481,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14819/?format=json",
+      "date_created": "2022-04-06T20:29:07.909140-07:00",
+      "date_modified": "2022-04-06T20:29:07.909165-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2015-04-27",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-06T20:29:07.878941-07:00",
+  "date_modified": "2022-05-06T09:27:22.334947-07:00",
+  "date_completed": "2022-05-06T09:05:44-07:00",
+  "fjc_id": null,
+  "slug": "laura-r-johnson",
+  "name_first": "Laura",
+  "name_middle": "R.",
+  "name_last": "Johnson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

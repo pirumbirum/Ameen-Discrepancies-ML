@@ -1,0 +1,143 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/16207/?format=json",
+  "id": 16207,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20746/?format=json",
+      "id": 20746,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16207/?format=json",
+      "date_created": "2022-08-09T16:34:19.383758-07:00",
+      "date_modified": "2022-08-09T16:34:19.383774-07:00",
+      "url": "https://ballotpedia.org/James_Teel",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20747/?format=json",
+      "id": 20747,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16207/?format=json",
+      "date_created": "2022-08-09T16:34:19.385222-07:00",
+      "date_modified": "2022-08-09T16:34:19.385235-07:00",
+      "url": "https://lawyers.justia.com/lawyer/james-charles-teel-236021",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20748/?format=json",
+      "id": 20748,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16207/?format=json",
+      "date_created": "2022-08-09T16:34:19.386474-07:00",
+      "date_modified": "2022-08-09T16:34:19.386489-07:00",
+      "url": "https://govsalaries.com/teel-james-c-52064063",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20749/?format=json",
+      "id": 20749,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16207/?format=json",
+      "date_created": "2022-08-09T16:34:19.387745-07:00",
+      "date_modified": "2022-08-09T16:34:19.387761-07:00",
+      "url": "https://www.avvo.com/attorneys/76111-tx-james-teel-226129.html",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20750/?format=json",
+      "id": 20750,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16207/?format=json",
+      "date_created": "2022-08-09T16:34:19.389610-07:00",
+      "date_modified": "2022-08-09T16:34:19.389626-07:00",
+      "url": "",
+      "date_accessed": "2022-08-09",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12854/?format=json",
+      "id": 12854,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2085/?format=json",
+        "id": 2085,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Wesleyan University",
+        "ein": 750800691
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16207/?format=json",
+      "date_created": "2022-08-09T16:34:19.345570-07:00",
+      "date_modified": "2022-08-09T16:34:19.345583-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1982
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12855/?format=json",
+      "id": 12855,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3164/?format=json",
+        "id": 3164,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Tech University",
+        "ein": 756002622
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16207/?format=json",
+      "date_created": "2022-08-09T16:34:19.350439-07:00",
+      "date_modified": "2022-08-09T16:34:19.350452-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1985
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/52604/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52605/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52606/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8537/?format=json",
+      "id": 8537,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16207/?format=json",
+      "date_created": "2022-08-09T16:34:19.382097-07:00",
+      "date_modified": "2022-08-09T16:34:19.382111-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-08-09T16:34:19.332808-07:00",
+  "date_modified": "2022-08-09T16:37:33.651705-07:00",
+  "date_completed": "2022-08-09T16:31:19-07:00",
+  "fjc_id": null,
+  "slug": "james-charles-teel",
+  "name_first": "James",
+  "name_middle": "Charles",
+  "name_last": "Teel",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Fort Worth",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

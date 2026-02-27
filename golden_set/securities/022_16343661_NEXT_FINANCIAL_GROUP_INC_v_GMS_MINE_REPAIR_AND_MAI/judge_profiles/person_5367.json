@@ -1,0 +1,67 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5367/?format=json",
+  "id": 5367,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1536/?format=json",
+      "id": 1536,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5367/?format=json",
+      "date_created": "2016-04-20T08:26:14.034967-07:00",
+      "date_modified": "2016-04-20T08:26:14.034993-07:00",
+      "url": "http://www.sconet.state.oh.us/SCO/formerjustices/bios/gibson.asp",
+      "date_accessed": null,
+      "notes": "professor at Capital Law School"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27330/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27331/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27332/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27333/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27334/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27335/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4293/?format=json",
+      "id": 4293,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5367/?format=json",
+      "date_created": "2016-04-20T08:26:14.029774-07:00",
+      "date_modified": "2016-04-20T08:26:14.029804-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:13.922796-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "rankin-macdougal-gibson",
+  "name_first": "Rankin",
+  "name_middle": "MacDougal",
+  "name_last": "Gibson",
+  "name_suffix": "",
+  "date_dob": "1916-10-09",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2001-06-01",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

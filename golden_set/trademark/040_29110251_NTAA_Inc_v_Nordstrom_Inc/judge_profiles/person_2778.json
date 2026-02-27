@@ -1,0 +1,131 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2778/?format=json",
+  "id": 2778,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1733/?format=json",
+      "id": 1733,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2778/?format=json",
+      "date_created": "2016-04-20T08:22:14.875616-07:00",
+      "date_modified": "2016-04-20T08:22:14.875638-07:00",
+      "year_rated": 2014,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2319/?format=json",
+      "id": 2319,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4696/?format=json",
+        "id": 4696,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Princeton University",
+        "ein": 210634501
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2778/?format=json",
+      "date_created": "2016-04-20T08:22:14.888473-07:00",
+      "date_modified": "2016-04-20T08:22:14.888497-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1983
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2320/?format=json",
+      "id": 2320,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1749/?format=json",
+        "id": 1749,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Duke University",
+        "ein": 560532129
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2778/?format=json",
+      "date_created": "2016-04-20T08:22:14.901086-07:00",
+      "date_modified": "2016-04-20T08:22:14.901111-07:00",
+      "degree_level": "ma",
+      "degree_detail": "M.A.",
+      "degree_year": 1989
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2321/?format=json",
+      "id": 2321,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1749/?format=json",
+        "id": 1749,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Duke University",
+        "ein": 560532129
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2778/?format=json",
+      "date_created": "2016-04-20T08:22:14.930303-07:00",
+      "date_modified": "2016-04-20T08:22:14.930329-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1989
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/17393/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17394/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17395/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17396/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17397/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17398/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17399/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17400/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17401/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17402/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17392/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2786/?format=json",
+      "id": 2786,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2778/?format=json",
+      "date_created": "2016-04-20T08:22:14.870278-07:00",
+      "date_modified": "2016-04-20T08:22:14.870303-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2014-02-26",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:14.838230-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3557,
+  "slug": "robin-lee-rosenberg",
+  "name_first": "Robin",
+  "name_middle": "Lee",
+  "name_last": "Rosenberg",
+  "name_suffix": "",
+  "date_dob": "1962-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "West Palm Beach",
+  "dob_state": "FL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,133 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12652/?format=json",
+  "id": 12652,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12357/?format=json",
+      "id": 12357,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12652/?format=json",
+      "date_created": "2022-03-14T09:48:35.423605-07:00",
+      "date_modified": "2022-03-14T09:48:35.423627-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-14",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12358/?format=json",
+      "id": 12358,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12652/?format=json",
+      "date_created": "2022-03-14T09:48:35.429222-07:00",
+      "date_modified": "2022-03-14T09:48:35.429243-07:00",
+      "url": "https://www.martindale.com/attorney/philip-lee-soto-105752/",
+      "date_accessed": "2022-03-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12359/?format=json",
+      "id": 12359,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12652/?format=json",
+      "date_created": "2022-03-14T09:48:35.433480-07:00",
+      "date_modified": "2022-03-14T09:48:35.433501-07:00",
+      "url": "https://ballotpedia.org/Philip_Soto",
+      "date_accessed": "2022-03-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12360/?format=json",
+      "id": 12360,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12652/?format=json",
+      "date_created": "2022-03-14T09:48:35.442300-07:00",
+      "date_modified": "2022-03-14T09:48:35.442322-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-14",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9745/?format=json",
+      "id": 9745,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12652/?format=json",
+      "date_created": "2022-03-14T09:48:35.394761-07:00",
+      "date_modified": "2022-03-14T09:48:35.394783-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1981
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9746/?format=json",
+      "id": 9746,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3104/?format=json",
+        "id": 3104,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Loyola Marymount University",
+        "ein": 951643334
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12652/?format=json",
+      "date_created": "2022-03-14T09:48:35.403353-07:00",
+      "date_modified": "2022-03-14T09:48:35.403375-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1986
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/41677/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6900/?format=json",
+      "id": 6900,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12652/?format=json",
+      "date_created": "2022-03-14T09:48:35.383043-07:00",
+      "date_modified": "2022-03-14T09:48:35.383066-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:09:57.941168-07:00",
+  "date_modified": "2022-03-23T11:06:24.273871-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "philip-lee-soto",
+  "name_first": "Philip",
+  "name_middle": "Lee",
+  "name_last": "Soto",
+  "name_suffix": "",
+  "date_dob": "1959-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

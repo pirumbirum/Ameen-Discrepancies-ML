@@ -1,0 +1,49 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4366/?format=json",
+  "id": 4366,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/412/?format=json",
+      "id": 412,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4366/?format=json",
+      "date_created": "2016-04-20T08:24:57.165128-07:00",
+      "date_modified": "2016-04-20T08:24:57.165158-07:00",
+      "url": "http://www.in.gov/judiciary/citc/2805.htm",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24506/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24507/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:57.095992-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "howard-s-young-sr",
+  "name_first": "Howard",
+  "name_middle": "S.",
+  "name_last": "Young",
+  "name_suffix": "sr",
+  "date_dob": "1890-08-07",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1961-10-14",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

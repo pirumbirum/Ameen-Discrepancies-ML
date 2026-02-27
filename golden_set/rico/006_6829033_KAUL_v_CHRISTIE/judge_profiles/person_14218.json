@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14218/?format=json",
+  "id": 14218,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12805/?format=json",
+      "id": 12805,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14218/?format=json",
+      "date_created": "2022-03-15T14:54:45.544919-07:00",
+      "date_modified": "2022-03-15T14:54:45.544969-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-15",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12807/?format=json",
+      "id": 12807,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14218/?format=json",
+      "date_created": "2022-03-15T14:54:45.561425-07:00",
+      "date_modified": "2022-03-15T14:54:45.561472-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-15",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12806/?format=json",
+      "id": 12806,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14218/?format=json",
+      "date_created": "2022-03-15T14:54:45.551840-07:00",
+      "date_modified": "2022-03-15T14:55:55.384084-07:00",
+      "url": "https://www.martindale.com/attorney/rafael-vazquez-5579816/",
+      "date_accessed": "2022-03-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12808/?format=json",
+      "id": 12808,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14218/?format=json",
+      "date_created": "2022-03-15T14:55:55.391054-07:00",
+      "date_modified": "2022-03-15T14:55:55.391079-07:00",
+      "url": "https://www.legalprofessionalsinc.org/monterey-investiture-judge-rafael-vazquez/",
+      "date_accessed": "2022-03-15",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9966/?format=json",
+      "id": 9966,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5233/?format=json",
+        "id": 5233,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "San Jose State University",
+        "ein": 770414438
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14218/?format=json",
+      "date_created": "2022-03-15T14:54:45.530148-07:00",
+      "date_modified": "2022-03-15T14:54:45.530172-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1999
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9967/?format=json",
+      "id": 9967,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5233/?format=json",
+        "id": 5233,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "San Jose State University",
+        "ein": 770414438
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14218/?format=json",
+      "date_created": "2022-03-15T14:54:45.540162-07:00",
+      "date_modified": "2022-03-15T14:54:45.540186-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2004
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43904/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7057/?format=json",
+      "id": 7057,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14218/?format=json",
+      "date_created": "2022-03-15T14:54:45.512938-07:00",
+      "date_modified": "2022-03-15T14:54:45.512968-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7058/?format=json",
+      "id": 7058,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14218/?format=json",
+      "date_created": "2022-03-15T14:54:45.521244-07:00",
+      "date_modified": "2022-03-15T14:54:45.521282-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:12.776323-07:00",
+  "date_modified": "2022-03-23T12:24:05.668979-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "rafael-vazquez",
+  "name_first": "Rafael",
+  "name_middle": "",
+  "name_last": "Vazquez",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

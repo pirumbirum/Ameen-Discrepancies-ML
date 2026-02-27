@@ -1,0 +1,152 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8643/?format=json",
+  "id": 8643,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4349/?format=json",
+      "id": 4349,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8643/?format=json",
+      "date_created": "2019-09-22T15:32:15.114133-07:00",
+      "date_modified": "2019-09-22T15:32:15.114155-07:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2019-09-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2392/?format=json",
+      "id": 2392,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8643/?format=json",
+      "date_created": "2019-09-22T15:32:15.111196-07:00",
+      "date_modified": "2019-09-22T15:32:15.111219-07:00",
+      "year_rated": 2019,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6863/?format=json",
+      "id": 6863,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/425/?format=json",
+        "id": 425,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Lamar University",
+        "ein": 746000298
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8643/?format=json",
+      "date_created": "2019-09-22T15:32:15.128287-07:00",
+      "date_modified": "2019-09-22T15:32:15.128316-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.B.A.",
+      "degree_year": 1978
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6864/?format=json",
+      "id": 6864,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1603/?format=json",
+        "id": 1603,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of North Texas",
+        "ein": 756002149
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8643/?format=json",
+      "date_created": "2019-09-22T15:32:15.143396-07:00",
+      "date_modified": "2019-09-22T15:32:15.143422-07:00",
+      "degree_level": "mba",
+      "degree_detail": "M.B.A.",
+      "degree_year": 1980
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6865/?format=json",
+      "id": 6865,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1481/?format=json",
+        "id": 1481,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southern Methodist University",
+        "ein": 750800689
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8643/?format=json",
+      "date_created": "2019-09-22T15:32:15.158790-07:00",
+      "date_modified": "2019-09-22T15:32:15.158817-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1985
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6866/?format=json",
+      "id": 6866,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6397/?format=json",
+        "id": 6397,
+        "is_alias_of": null,
+        "date_created": "2019-09-22T06:18:12.835541-07:00",
+        "date_modified": "2019-09-22T06:18:12.835590-07:00",
+        "name": "Chartered Institute of Arbitrators",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8643/?format=json",
+      "date_created": "2019-09-22T15:32:15.172750-07:00",
+      "date_modified": "2019-09-22T15:32:15.172780-07:00",
+      "degree_level": "ma",
+      "degree_detail": "Diploma in International Arbitration",
+      "degree_year": 2014
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/34508/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34509/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4992/?format=json",
+      "id": 4992,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8643/?format=json",
+      "date_created": "2019-09-22T15:32:15.106604-07:00",
+      "date_modified": "2019-09-22T15:32:15.106631-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2019-01-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2019-09-22T15:32:15.067225-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 6445071,
+  "slug": "michael-joseph-truncale",
+  "name_first": "Michael",
+  "name_middle": "Joseph",
+  "name_last": "Truncale",
+  "name_suffix": "",
+  "date_dob": "1957-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Beaumont",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

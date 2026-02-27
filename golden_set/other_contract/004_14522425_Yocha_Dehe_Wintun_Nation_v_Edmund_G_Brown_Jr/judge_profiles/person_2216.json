@@ -1,0 +1,109 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2216/?format=json",
+  "id": 2216,
+  "race": [
+    "h"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1360/?format=json",
+      "id": 1360,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2216/?format=json",
+      "date_created": "2016-04-20T08:20:57.523024-07:00",
+      "date_modified": "2016-04-20T08:20:57.523049-07:00",
+      "year_rated": 2007,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1830/?format=json",
+      "id": 1830,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2216/?format=json",
+      "date_created": "2016-04-20T08:20:57.538113-07:00",
+      "date_modified": "2016-04-20T08:20:57.538146-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1977
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1831/?format=json",
+      "id": 1831,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2216/?format=json",
+      "date_created": "2016-04-20T08:20:57.568281-07:00",
+      "date_modified": "2016-04-20T08:20:57.568316-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1980
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/13816/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13817/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13818/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13819/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13820/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13821/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13815/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/41991/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2223/?format=json",
+      "id": 2223,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2216/?format=json",
+      "date_created": "2016-04-20T08:20:57.517766-07:00",
+      "date_modified": "2016-04-20T08:20:57.517794-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2007-09-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:57.483059-07:00",
+  "date_modified": "2020-11-25T08:30:10.655780-08:00",
+  "date_completed": null,
+  "fjc_id": 3172,
+  "slug": "john-a-mendez",
+  "name_first": "John",
+  "name_middle": "A.",
+  "name_last": "Mendez",
+  "name_suffix": "",
+  "date_dob": "1955-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Oakland",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

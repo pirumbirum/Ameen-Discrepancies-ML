@@ -1,0 +1,123 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15342/?format=json",
+  "id": 15342,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16276/?format=json",
+      "id": 16276,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15342/?format=json",
+      "date_created": "2022-05-20T15:11:16.590750-07:00",
+      "date_modified": "2022-05-20T15:11:16.590781-07:00",
+      "url": "https://www.fedbar.org/directory/jonathan-grey/",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16277/?format=json",
+      "id": 16277,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15342/?format=json",
+      "date_created": "2022-05-20T15:11:16.616736-07:00",
+      "date_modified": "2022-05-20T15:11:16.616763-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Grey-J.%20M.%2006.%20MIE%20Ini_SR_20.pdf",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16278/?format=json",
+      "id": 16278,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15342/?format=json",
+      "date_created": "2022-05-20T15:11:16.639295-07:00",
+      "date_modified": "2022-05-20T15:11:16.639322-07:00",
+      "url": "https://ballotpedia.org/Jonathan_Grey",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16279/?format=json",
+      "id": 16279,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15342/?format=json",
+      "date_created": "2022-05-20T15:11:16.661813-07:00",
+      "date_modified": "2022-05-20T15:11:16.661842-07:00",
+      "url": "https://www.mied.uscourts.gov/index.cfm?pageFunction=chambers&judgeid=26",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11528/?format=json",
+      "id": 11528,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/271/?format=json",
+        "id": 271,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Morehouse College",
+        "ein": 50566205
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15342/?format=json",
+      "date_created": "2022-05-20T15:27:21.461239-07:00",
+      "date_modified": "2022-05-20T15:27:21.461269-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 2004
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11529/?format=json",
+      "id": 11529,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6053/?format=json",
+        "id": 6053,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Georgetown University",
+        "ein": 530196603
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15342/?format=json",
+      "date_created": "2022-05-20T15:27:21.537697-07:00",
+      "date_modified": "2022-05-20T15:27:21.537729-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2021
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47760/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47761/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47762/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47763/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47764/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-05-20T15:11:16.507891-07:00",
+  "date_modified": "2022-05-20T15:27:21.021638-07:00",
+  "date_completed": "2022-05-20T15:05:43-07:00",
+  "fjc_id": null,
+  "slug": "jonathan-jc-grey",
+  "name_first": "Jonathan",
+  "name_middle": "J.C.",
+  "name_last": "Grey",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/9020/?format=json",
+  "id": 9020,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4732/?format=json",
+      "id": 4732,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9020/?format=json",
+      "date_created": "2020-05-13T16:56:22.186878-07:00",
+      "date_modified": "2020-05-13T16:56:22.186900-07:00",
+      "url": "https://www.uscourts.gov/judicial-milestones/p-bradley-murray",
+      "date_accessed": "2020-05-13",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/35018/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2020-05-13T16:56:22.179323-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "p-bradley-murray",
+  "name_first": "P.",
+  "name_middle": "Bradley",
+  "name_last": "Murray",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

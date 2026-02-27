@@ -1,0 +1,151 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15607/?format=json",
+  "id": 15607,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17597/?format=json",
+      "id": 17597,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15607/?format=json",
+      "date_created": "2022-06-29T13:12:25.926138-07:00",
+      "date_modified": "2022-06-29T13:12:25.926160-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-06-29",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17598/?format=json",
+      "id": 17598,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15607/?format=json",
+      "date_created": "2022-06-29T13:15:10.291347-07:00",
+      "date_modified": "2022-06-29T13:15:10.291367-07:00",
+      "url": "http://texasjcmh.gov/about-us/commissioners/dubose-camile/",
+      "date_accessed": "2022-06-29",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17599/?format=json",
+      "id": 17599,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15607/?format=json",
+      "date_created": "2022-06-29T13:15:10.294321-07:00",
+      "date_modified": "2022-06-29T13:15:10.294337-07:00",
+      "url": "https://ballotpedia.org/Camile_DuBose",
+      "date_accessed": "2022-06-29",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17600/?format=json",
+      "id": 17600,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15607/?format=json",
+      "date_created": "2022-06-29T13:15:10.295201-07:00",
+      "date_modified": "2022-06-29T13:15:10.295217-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=22042&office=19609",
+      "date_accessed": "2022-06-29",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17601/?format=json",
+      "id": 17601,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15607/?format=json",
+      "date_created": "2022-06-29T13:15:10.297181-07:00",
+      "date_modified": "2022-06-29T13:15:10.297197-07:00",
+      "url": "",
+      "date_accessed": "2022-06-29",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11962/?format=json",
+      "id": 11962,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1296/?format=json",
+        "id": 1296,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas A & M University-College Station",
+        "ein": 746000531
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15607/?format=json",
+      "date_created": "2022-06-29T13:12:25.861945-07:00",
+      "date_modified": "2022-06-29T13:12:25.861961-07:00",
+      "degree_level": "ba",
+      "degree_detail": "English",
+      "degree_year": 1984
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11963/?format=json",
+      "id": 11963,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5152/?format=json",
+        "id": 5152,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "St Mary's University",
+        "ein": 741143128
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15607/?format=json",
+      "date_created": "2022-06-29T13:12:25.881891-07:00",
+      "date_modified": "2022-06-29T13:12:25.881904-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1987
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50009/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50010/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50011/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50012/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50013/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50014/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50015/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50016/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50018/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8131/?format=json",
+      "id": 8131,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15607/?format=json",
+      "date_created": "2022-06-29T13:12:25.884269-07:00",
+      "date_modified": "2022-06-29T13:12:25.884282-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-06-29T13:12:25.596095-07:00",
+  "date_modified": "2022-06-29T13:16:44.356852-07:00",
+  "date_completed": "2022-06-29T12:52:17-07:00",
+  "fjc_id": null,
+  "slug": "camile-glasscock-dubose",
+  "name_first": "Camile",
+  "name_middle": "Glasscock",
+  "name_last": "Dubose",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

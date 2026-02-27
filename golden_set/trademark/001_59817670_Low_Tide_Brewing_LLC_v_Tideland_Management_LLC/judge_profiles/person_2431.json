@@ -1,0 +1,88 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2431/?format=json",
+  "id": 2431,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1498/?format=json",
+      "id": 1498,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2431/?format=json",
+      "date_created": "2016-04-20T08:21:27.567453-07:00",
+      "date_modified": "2016-04-20T08:21:27.567474-07:00",
+      "year_rated": 1990,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2018/?format=json",
+      "id": 2018,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5443/?format=json",
+        "id": 5443,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Sewanee-The University of the South",
+        "ein": 620475697
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2431/?format=json",
+      "date_created": "2016-04-20T08:21:27.581813-07:00",
+      "date_modified": "2016-04-20T08:21:27.581838-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1968
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/15182/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15183/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15184/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15185/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15186/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15187/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2438/?format=json",
+      "id": 2438,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2431/?format=json",
+      "date_created": "2016-04-20T08:21:27.560924-07:00",
+      "date_modified": "2016-04-20T08:21:27.560949-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1990-04-18",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:27.523286-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1785,
+  "slug": "david-c-norton",
+  "name_first": "David",
+  "name_middle": "C.",
+  "name_last": "Norton",
+  "name_suffix": "",
+  "date_dob": "1946-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Washington",
+  "dob_state": "DC",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

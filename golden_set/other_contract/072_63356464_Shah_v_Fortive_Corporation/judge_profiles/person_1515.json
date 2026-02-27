@@ -1,0 +1,66 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1515/?format=json",
+  "id": 1515,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/930/?format=json",
+      "id": 930,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1515/?format=json",
+      "date_created": "2016-04-20T08:19:16.904039-07:00",
+      "date_modified": "2016-04-20T08:19:16.904063-07:00",
+      "year_rated": 2003,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9245/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9246/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9247/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9248/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1523/?format=json",
+      "id": 1523,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1515/?format=json",
+      "date_created": "2016-04-20T08:19:16.897089-07:00",
+      "date_modified": "2016-04-20T08:19:16.897116-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2003-10-14",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:16.858536-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3059,
+  "slug": "virginia-emerson-hopkins",
+  "name_first": "Virginia",
+  "name_middle": "Emerson",
+  "name_last": "Hopkins",
+  "name_suffix": "",
+  "date_dob": "1952-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Anniston",
+  "dob_state": "AL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

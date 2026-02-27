@@ -1,0 +1,133 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14467/?format=json",
+  "id": 14467,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8550/?format=json",
+      "id": 8550,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14467/?format=json",
+      "date_created": "2022-02-23T17:35:47.294634-08:00",
+      "date_modified": "2022-02-23T17:35:47.294656-08:00",
+      "url": "https://en.wikipedia.org/wiki/Franklin_U._Valderrama",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8551/?format=json",
+      "id": 8551,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14467/?format=json",
+      "date_created": "2022-02-23T17:35:47.296233-08:00",
+      "date_modified": "2022-02-23T17:35:47.296257-08:00",
+      "url": "https://ballotpedia.org/Franklin_U._Valderrama",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8552/?format=json",
+      "id": 8552,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14467/?format=json",
+      "date_created": "2022-02-23T17:35:47.297206-08:00",
+      "date_modified": "2022-02-23T17:35:47.297228-08:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Valderrama-FU.%20J3.%2007.%20ILN%20_SR_20.pdf",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8553/?format=json",
+      "id": 8553,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14467/?format=json",
+      "date_created": "2022-02-23T17:35:47.298604-08:00",
+      "date_modified": "2022-02-23T17:35:47.298626-08:00",
+      "url": "https://www.2civility.org/about/commissioners/hon-franklin-u-valderrama/",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7971/?format=json",
+      "id": 7971,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1073/?format=json",
+        "id": 1073,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Illinois at Chicago",
+        "ein": 376000511
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14467/?format=json",
+      "date_created": "2022-02-23T17:35:47.289209-08:00",
+      "date_modified": "2022-02-23T17:35:47.289232-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1985
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7972/?format=json",
+      "id": 7972,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1059/?format=json",
+        "id": 1059,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "DePaul University",
+        "ein": 362167048
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14467/?format=json",
+      "date_created": "2022-02-23T17:35:47.293440-08:00",
+      "date_modified": "2022-02-23T17:35:47.293462-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1988
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44373/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5707/?format=json",
+      "id": 5707,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14467/?format=json",
+      "date_created": "2022-02-23T18:29:53.736630-08:00",
+      "date_modified": "2022-02-23T18:29:53.736654-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-02-23T17:35:47.264368-08:00",
+  "date_modified": "2022-02-23T18:29:53.725213-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "franklin-ulyses-valderrama",
+  "name_first": "Franklin",
+  "name_middle": "Ulyses",
+  "name_last": "Valderrama",
+  "name_suffix": "",
+  "date_dob": "1962-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Panama City",
+  "dob_state": "",
+  "dob_country": "Panama",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,115 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15760/?format=json",
+  "id": 15760,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18405/?format=json",
+      "id": 18405,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15760/?format=json",
+      "date_created": "2022-07-12T11:20:31.050489-07:00",
+      "date_modified": "2022-07-12T11:20:31.050519-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-12",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18406/?format=json",
+      "id": 18406,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15760/?format=json",
+      "date_created": "2022-07-12T11:25:57.591380-07:00",
+      "date_modified": "2022-07-12T11:25:57.591426-07:00",
+      "url": "https://rockyjonesforjudge.com/",
+      "date_accessed": "2022-07-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18407/?format=json",
+      "id": 18407,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15760/?format=json",
+      "date_created": "2022-07-12T11:25:57.643685-07:00",
+      "date_modified": "2022-07-12T11:25:57.643713-07:00",
+      "url": "https://ballotpedia.org/Raquel_Jones",
+      "date_accessed": "2022-07-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18408/?format=json",
+      "id": 18408,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15760/?format=json",
+      "date_created": "2022-07-12T11:25:57.644979-07:00",
+      "date_modified": "2022-07-12T11:25:57.645001-07:00",
+      "url": "",
+      "date_accessed": "2022-07-12",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12192/?format=json",
+      "id": 12192,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5152/?format=json",
+        "id": 5152,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "St Mary's University",
+        "ein": 741143128
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15760/?format=json",
+      "date_created": "2022-07-12T11:20:30.955943-07:00",
+      "date_modified": "2022-07-12T11:20:30.955962-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1996
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50673/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50674/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8237/?format=json",
+      "id": 8237,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15760/?format=json",
+      "date_created": "2022-07-12T11:20:30.996074-07:00",
+      "date_modified": "2022-07-12T11:20:30.996095-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-12T11:20:30.818928-07:00",
+  "date_modified": "2022-07-12T11:35:53.726289-07:00",
+  "date_completed": "2022-07-12T11:17:06-07:00",
+  "fjc_id": null,
+  "slug": "raquel-charise-jones",
+  "name_first": "Raquel",
+  "name_middle": "Charise",
+  "name_last": "Jones",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

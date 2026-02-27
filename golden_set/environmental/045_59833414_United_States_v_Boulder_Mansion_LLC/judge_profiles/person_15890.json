@@ -1,0 +1,188 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15890/?format=json",
+  "id": 15890,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18999/?format=json",
+      "id": 18999,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15890/?format=json",
+      "date_created": "2022-07-21T10:08:42.743437-07:00",
+      "date_modified": "2022-07-21T10:08:42.743449-07:00",
+      "url": "https://ballotpedia.org/Daryl_Moore",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19000/?format=json",
+      "id": 19000,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15890/?format=json",
+      "date_created": "2022-07-21T10:08:42.791318-07:00",
+      "date_modified": "2022-07-21T10:08:42.791338-07:00",
+      "url": "http://www.mooreforjustice.net/",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19001/?format=json",
+      "id": 19001,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15890/?format=json",
+      "date_created": "2022-07-21T10:08:42.791924-07:00",
+      "date_modified": "2022-07-21T10:08:42.791937-07:00",
+      "url": "https://azalaw.com/our-attorneys/daryl-moore/",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19002/?format=json",
+      "id": 19002,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15890/?format=json",
+      "date_created": "2022-07-21T10:08:42.792425-07:00",
+      "date_modified": "2022-07-21T10:08:42.792439-07:00",
+      "url": "https://trellis.law/judge/daryl.l.moore",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19003/?format=json",
+      "id": 19003,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15890/?format=json",
+      "date_created": "2022-07-21T10:08:42.792948-07:00",
+      "date_modified": "2022-07-21T10:08:42.792962-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=179893",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19004/?format=json",
+      "id": 19004,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15890/?format=json",
+      "date_created": "2022-07-21T10:08:42.793454-07:00",
+      "date_modified": "2022-07-21T10:08:42.793465-07:00",
+      "url": "https://www.law.com/texaslawyer/2020/02/24/daryl-moore-and-brittanye-morris-want-your-vote-for-333rd-district-judge/",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19005/?format=json",
+      "id": 19005,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15890/?format=json",
+      "date_created": "2022-07-21T10:08:42.800053-07:00",
+      "date_modified": "2022-07-21T10:08:42.800071-07:00",
+      "url": "",
+      "date_accessed": "2022-07-21",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12362/?format=json",
+      "id": 12362,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/324/?format=json",
+        "id": 324,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas System Office",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15890/?format=json",
+      "date_created": "2022-07-21T10:15:30.754171-07:00",
+      "date_modified": "2022-07-21T10:15:30.754186-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1985
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12363/?format=json",
+      "id": 12363,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3322/?format=json",
+        "id": 3322,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "South Texas College",
+        "ein": 742683499
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15890/?format=json",
+      "date_created": "2022-07-21T10:15:30.776487-07:00",
+      "date_modified": "2022-07-21T10:15:30.776511-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1989
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12364/?format=json",
+      "id": 12364,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2470/?format=json",
+        "id": 2470,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Houston Baptist University",
+        "ein": 741400699
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15890/?format=json",
+      "date_created": "2022-07-21T10:15:30.806457-07:00",
+      "date_modified": "2022-07-21T10:15:30.806523-07:00",
+      "degree_level": "ma",
+      "degree_detail": "Liberal Arts",
+      "degree_year": 2008
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51188/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51189/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51190/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51191/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51192/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51193/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51194/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8315/?format=json",
+      "id": 8315,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15890/?format=json",
+      "date_created": "2022-07-21T10:08:42.731240-07:00",
+      "date_modified": "2022-07-21T10:08:42.731259-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-21T10:07:35.461096-07:00",
+  "date_modified": "2022-07-21T10:29:40.311327-07:00",
+  "date_completed": "2022-07-21T10:05:27-07:00",
+  "fjc_id": null,
+  "slug": "daryl-l-moore",
+  "name_first": "Daryl",
+  "name_middle": "L.",
+  "name_last": "Moore",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

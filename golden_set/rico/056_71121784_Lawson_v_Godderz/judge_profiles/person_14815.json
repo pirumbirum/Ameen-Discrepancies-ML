@@ -1,0 +1,150 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14815/?format=json",
+  "id": 14815,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14528/?format=json",
+      "id": 14528,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14815/?format=json",
+      "date_created": "2022-04-06T19:34:05.847732-07:00",
+      "date_modified": "2022-04-06T19:34:05.847753-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14529/?format=json",
+      "id": 14529,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14815/?format=json",
+      "date_created": "2022-04-06T19:34:05.849430-07:00",
+      "date_modified": "2022-04-06T19:34:05.849451-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=TpBGRmN82gOvVSiujKWCgg%3D%3D",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14530/?format=json",
+      "id": 14530,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14815/?format=json",
+      "date_created": "2022-04-06T19:34:05.850505-07:00",
+      "date_modified": "2022-04-06T19:34:05.850526-07:00",
+      "url": "http://ww2.nycourts.gov/courts/1jd/supctmanh/bio_James.shtml#:~:text=Judge%20James%20is%20a%20Supreme,Civil%20Court%20judge%20in%201995.",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14531/?format=json",
+      "id": 14531,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14815/?format=json",
+      "date_created": "2022-04-06T19:34:05.851550-07:00",
+      "date_modified": "2022-04-06T19:34:05.851571-07:00",
+      "url": "https://www.thehistorymakers.org/biography/honorable-debra-james",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14532/?format=json",
+      "id": 14532,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14815/?format=json",
+      "date_created": "2022-04-06T19:34:05.852642-07:00",
+      "date_modified": "2022-04-06T19:34:05.852664-07:00",
+      "url": "https://ballotpedia.org/Debra_James_(New_York)",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10748/?format=json",
+      "id": 10748,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2624/?format=json",
+        "id": 2624,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Cornell University",
+        "ein": 150532082
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14815/?format=json",
+      "date_created": "2022-04-06T19:34:05.838024-07:00",
+      "date_modified": "2022-04-06T19:34:05.838052-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1978
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10749/?format=json",
+      "id": 10749,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2624/?format=json",
+        "id": 2624,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Cornell University",
+        "ein": 150532082
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14815/?format=json",
+      "date_created": "2022-04-06T19:34:05.843046-07:00",
+      "date_modified": "2022-04-06T19:34:05.843068-07:00",
+      "degree_level": "ba",
+      "degree_detail": "American Government and Political Science",
+      "degree_year": 1975
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/46211/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46212/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46213/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46214/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46215/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46216/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46217/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46218/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7476/?format=json",
+      "id": 7476,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14815/?format=json",
+      "date_created": "2022-04-06T19:34:05.845701-07:00",
+      "date_modified": "2022-04-06T19:34:05.845723-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-06T19:34:05.822115-07:00",
+  "date_modified": "2022-05-05T17:55:25.641064-07:00",
+  "date_completed": "2022-05-05T17:07:25-07:00",
+  "fjc_id": null,
+  "slug": "debra-a-james",
+  "name_first": "Debra",
+  "name_middle": "A.",
+  "name_last": "James",
+  "name_suffix": "",
+  "date_dob": "1953-02-16",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Knoxville",
+  "dob_state": "TN",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

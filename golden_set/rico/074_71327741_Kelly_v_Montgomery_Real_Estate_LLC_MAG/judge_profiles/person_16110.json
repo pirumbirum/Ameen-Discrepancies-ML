@@ -1,0 +1,168 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/16110/?format=json",
+  "id": 16110,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20234/?format=json",
+      "id": 20234,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16110/?format=json",
+      "date_created": "2022-08-03T17:20:41.503782-07:00",
+      "date_modified": "2022-08-03T17:20:41.503813-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-08-03",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20235/?format=json",
+      "id": 20235,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16110/?format=json",
+      "date_created": "2022-08-03T17:21:44.549961-07:00",
+      "date_modified": "2022-08-03T17:21:44.550020-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=189458",
+      "date_accessed": "2022-08-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20236/?format=json",
+      "id": 20236,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16110/?format=json",
+      "date_created": "2022-08-03T17:21:44.554251-07:00",
+      "date_modified": "2022-08-03T17:21:44.554298-07:00",
+      "url": "https://www.martindale.com/attorney/mr-braxton-carter-thompson-2746948/",
+      "date_accessed": "2022-08-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20237/?format=json",
+      "id": 20237,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16110/?format=json",
+      "date_created": "2022-08-03T17:21:44.559013-07:00",
+      "date_modified": "2022-08-03T17:21:44.559060-07:00",
+      "url": "https://www.avvo.com/attorneys/75207-tx-braxton-thompson-229214.html",
+      "date_accessed": "2022-08-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20238/?format=json",
+      "id": 20238,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16110/?format=json",
+      "date_created": "2022-08-03T17:21:44.562125-07:00",
+      "date_modified": "2022-08-03T17:21:44.562165-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=22779&office=20415",
+      "date_accessed": "2022-08-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20239/?format=json",
+      "id": 20239,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16110/?format=json",
+      "date_created": "2022-08-03T17:21:44.564072-07:00",
+      "date_modified": "2022-08-03T17:21:44.564117-07:00",
+      "url": "https://www.reelectjudgethompson.com/about.html",
+      "date_accessed": "2022-08-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20240/?format=json",
+      "id": 20240,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16110/?format=json",
+      "date_created": "2022-08-03T17:21:44.566133-07:00",
+      "date_modified": "2022-08-03T17:21:44.566176-07:00",
+      "url": "",
+      "date_accessed": "2022-08-03",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12713/?format=json",
+      "id": 12713,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5156/?format=json",
+        "id": 5156,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Trinity University",
+        "ein": 741109633
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16110/?format=json",
+      "date_created": "2022-08-03T17:20:41.488016-07:00",
+      "date_modified": "2022-08-03T17:20:41.488059-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1974
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12714/?format=json",
+      "id": 12714,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5152/?format=json",
+        "id": 5152,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "St Mary's University",
+        "ein": 741143128
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16110/?format=json",
+      "date_created": "2022-08-03T17:20:41.495258-07:00",
+      "date_modified": "2022-08-03T17:20:41.495290-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1979
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/52160/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52161/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52162/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52163/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52164/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52165/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8469/?format=json",
+      "id": 8469,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16110/?format=json",
+      "date_created": "2022-08-03T17:20:41.499003-07:00",
+      "date_modified": "2022-08-03T17:20:41.499045-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-08-03T17:00:15.945408-07:00",
+  "date_modified": "2022-08-03T17:32:37.817371-07:00",
+  "date_completed": "2022-08-03T16:57:05-07:00",
+  "fjc_id": null,
+  "slug": "braxton-carter-thompson",
+  "name_first": "Braxton",
+  "name_middle": "Carter",
+  "name_last": "Thompson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

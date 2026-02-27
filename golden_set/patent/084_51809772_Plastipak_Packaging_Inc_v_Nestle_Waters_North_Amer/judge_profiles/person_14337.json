@@ -1,0 +1,123 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14337/?format=json",
+  "id": 14337,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7717/?format=json",
+      "id": 7717,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14337/?format=json",
+      "date_created": "2022-02-19T16:05:49.848688-08:00",
+      "date_modified": "2022-02-19T16:05:49.848719-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-19",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7718/?format=json",
+      "id": 7718,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14337/?format=json",
+      "date_created": "2022-02-19T16:05:49.853484-08:00",
+      "date_modified": "2022-02-19T16:05:49.853517-08:00",
+      "url": "https://trellis.law/judge/laura.j.davis",
+      "date_accessed": "2022-02-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7719/?format=json",
+      "id": 7719,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14337/?format=json",
+      "date_created": "2022-02-19T16:05:49.863525-08:00",
+      "date_modified": "2022-02-19T16:05:49.863548-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-19",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7635/?format=json",
+      "id": 7635,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14337/?format=json",
+      "date_created": "2022-02-19T16:05:49.827850-08:00",
+      "date_modified": "2022-02-19T16:05:49.827885-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7636/?format=json",
+      "id": 7636,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2832/?format=json",
+        "id": 2832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-San Diego",
+        "ein": 956006144
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14337/?format=json",
+      "date_created": "2022-02-19T16:05:49.836985-08:00",
+      "date_modified": "2022-02-19T16:05:49.837019-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Communications, Theater",
+      "degree_year": 1995
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44027/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5503/?format=json",
+      "id": 5503,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14337/?format=json",
+      "date_created": "2022-02-19T16:05:49.843519-08:00",
+      "date_modified": "2022-02-19T16:05:49.843553-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:17.522057-07:00",
+  "date_modified": "2022-02-19T16:05:49.808291-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "laura-j-davis",
+  "name_first": "Laura",
+  "name_middle": "J.",
+  "name_last": "Davis",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

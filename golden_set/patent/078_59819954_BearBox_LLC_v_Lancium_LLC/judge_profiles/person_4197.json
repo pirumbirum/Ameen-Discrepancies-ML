@@ -1,0 +1,69 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4197/?format=json",
+  "id": 4197,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/242/?format=json",
+      "id": 242,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4197/?format=json",
+      "date_created": "2016-04-20T08:24:44.982969-07:00",
+      "date_modified": "2016-04-20T08:24:44.983001-07:00",
+      "url": "http://www.state.il.us/court/SupremeCourt/Justices/Bio_Burke.asp",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3438/?format=json",
+      "id": 3438,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1059/?format=json",
+        "id": 1059,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "DePaul University",
+        "ein": 362167048
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4197/?format=json",
+      "date_created": "2016-04-20T08:24:44.950633-07:00",
+      "date_modified": "2016-04-20T08:24:44.950653-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24010/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24011/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:44.927663-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "anne-m-burke",
+  "name_first": "Anne",
+  "name_middle": "M.",
+  "name_last": "Burke",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": 1083849.5,
+  "ftm_eid": "6485836",
+  "has_photo": false
+}

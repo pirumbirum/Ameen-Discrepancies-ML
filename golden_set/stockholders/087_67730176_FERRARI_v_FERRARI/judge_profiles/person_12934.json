@@ -1,0 +1,163 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12934/?format=json",
+  "id": 12934,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6789/?format=json",
+      "id": 6789,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12934/?format=json",
+      "date_created": "2022-02-13T07:28:06.228562-08:00",
+      "date_modified": "2022-02-13T07:28:06.228590-08:00",
+      "url": "https://www.martindale.com/attorney/leslie-emil-brown-127973/",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6817/?format=json",
+      "id": 6817,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12934/?format=json",
+      "date_created": "2022-02-13T07:50:02.763836-08:00",
+      "date_modified": "2022-02-13T09:02:24.572938-08:00",
+      "url": "https://trellis.law/judge/leslie.e.brown",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6874/?format=json",
+      "id": 6874,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12934/?format=json",
+      "date_created": "2022-02-13T10:57:44.800730-08:00",
+      "date_modified": "2022-02-13T10:57:44.800752-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-13",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6834/?format=json",
+      "id": 6834,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12934/?format=json",
+      "date_created": "2022-02-13T09:02:24.585557-08:00",
+      "date_modified": "2022-02-13T09:48:46.667583-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-13",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6850/?format=json",
+      "id": 6850,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12934/?format=json",
+      "date_created": "2022-02-13T09:48:46.674552-08:00",
+      "date_modified": "2022-02-13T10:57:44.784963-08:00",
+      "url": "https://ballotpedia.org/Leslie_E._Brown",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6872/?format=json",
+      "id": 6872,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12934/?format=json",
+      "date_created": "2022-02-13T10:57:44.789652-08:00",
+      "date_modified": "2022-02-13T10:57:44.789674-08:00",
+      "url": "https://www.linkedin.com/in/leslie-brown-0133903b/",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6873/?format=json",
+      "id": 6873,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12934/?format=json",
+      "date_created": "2022-02-13T10:57:44.794123-08:00",
+      "date_modified": "2022-02-13T10:57:44.794144-08:00",
+      "url": "https://www.bloomberg.com/profile/person/18608375",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7307/?format=json",
+      "id": 7307,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1532/?format=json",
+        "id": 1532,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Davis",
+        "ein": 946036494
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12934/?format=json",
+      "date_created": "2022-02-13T09:02:24.567074-08:00",
+      "date_modified": "2022-02-13T09:02:24.567098-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1977
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7322/?format=json",
+      "id": 7322,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4361/?format=json",
+        "id": 4361,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Pennsylvania",
+        "ein": 231352685
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12934/?format=json",
+      "date_created": "2022-02-13T10:57:44.779699-08:00",
+      "date_modified": "2022-02-13T10:57:44.779723-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Political Science & Environmental Studies",
+      "degree_year": 1982
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42206/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5259/?format=json",
+      "id": 5259,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12934/?format=json",
+      "date_created": "2022-02-13T07:50:02.748544-08:00",
+      "date_modified": "2022-02-13T07:50:02.748570-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:14.061621-07:00",
+  "date_modified": "2022-02-13T10:57:44.766621-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "leslie-emil-brown",
+  "name_first": "Leslie",
+  "name_middle": "Emil",
+  "name_last": "Brown",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

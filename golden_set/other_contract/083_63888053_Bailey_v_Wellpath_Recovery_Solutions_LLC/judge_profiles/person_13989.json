@@ -1,0 +1,147 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13989/?format=json",
+  "id": 13989,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10282/?format=json",
+      "id": 10282,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13989/?format=json",
+      "date_created": "2022-03-06T18:39:30.503133-08:00",
+      "date_modified": "2022-03-06T18:39:30.503160-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-06",
+      "notes": "American Bench, 2018 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10283/?format=json",
+      "id": 10283,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13989/?format=json",
+      "date_created": "2022-03-06T18:39:30.507872-08:00",
+      "date_modified": "2022-03-06T18:39:30.507894-08:00",
+      "url": "https://ballotpedia.org/Terrance_Lewis",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10284/?format=json",
+      "id": 10284,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13989/?format=json",
+      "date_created": "2022-03-06T18:39:30.511966-08:00",
+      "date_modified": "2022-03-06T18:39:30.511988-08:00",
+      "url": "https://www.martindale.com/attorney/terrance-theron-lewis-132993/",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10285/?format=json",
+      "id": 10285,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13989/?format=json",
+      "date_created": "2022-03-06T18:39:30.518649-08:00",
+      "date_modified": "2022-03-06T18:39:30.518673-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-06",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8748/?format=json",
+      "id": 8748,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13989/?format=json",
+      "date_created": "2022-03-06T18:39:30.478284-08:00",
+      "date_modified": "2022-03-06T18:39:30.478307-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8749/?format=json",
+      "id": 8749,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3104/?format=json",
+        "id": 3104,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Loyola Marymount University",
+        "ein": 951643334
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13989/?format=json",
+      "date_created": "2022-03-06T18:39:30.486422-08:00",
+      "date_modified": "2022-03-06T18:39:30.486445-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43654/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44460/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6230/?format=json",
+      "id": 6230,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13989/?format=json",
+      "date_created": "2022-03-06T18:39:30.464604-08:00",
+      "date_modified": "2022-03-06T18:39:30.464630-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6231/?format=json",
+      "id": 6231,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13989/?format=json",
+      "date_created": "2022-03-06T18:39:30.471305-08:00",
+      "date_modified": "2022-03-06T18:39:30.471328-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:03.521809-07:00",
+  "date_modified": "2022-03-20T19:19:00.275584-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "terrance-theron-lewis",
+  "name_first": "Terrance",
+  "name_middle": "Theron",
+  "name_last": "Lewis",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,233 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/681/?format=json",
+  "id": 681,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13322/?format=json",
+      "id": 13322,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/681/?format=json",
+      "date_created": "2022-03-17T10:13:35.374293-07:00",
+      "date_modified": "2022-03-17T10:13:35.374314-07:00",
+      "url": "https://professionals.justia.com/profile/audrey-b-collins-1501789",
+      "date_accessed": "2022-03-17",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13323/?format=json",
+      "id": 13323,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/681/?format=json",
+      "date_created": "2022-03-17T10:13:35.377240-07:00",
+      "date_modified": "2022-03-17T10:13:35.377263-07:00",
+      "url": "https://dbpedia.org/page/Audrey_B._Collins",
+      "date_accessed": "2022-03-17",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13324/?format=json",
+      "id": 13324,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/681/?format=json",
+      "date_created": "2022-03-17T10:13:35.378323-07:00",
+      "date_modified": "2022-03-17T10:13:35.378344-07:00",
+      "url": "https://openjurist.org/judge/audrey-b-collins",
+      "date_accessed": "2022-03-17",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13325/?format=json",
+      "id": 13325,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/681/?format=json",
+      "date_created": "2022-03-17T10:13:35.379351-07:00",
+      "date_modified": "2022-03-17T10:13:35.379374-07:00",
+      "url": "https://ballotpedia.org/Audrey_Collins",
+      "date_accessed": "2022-03-17",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13326/?format=json",
+      "id": 13326,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/681/?format=json",
+      "date_created": "2022-03-17T10:13:35.380661-07:00",
+      "date_modified": "2022-03-17T10:13:35.380697-07:00",
+      "url": "https://www.fedbar.org/wp-content/uploads/2019/10/CollinsSept2009-pdf-3.pdf",
+      "date_accessed": "2022-03-17",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13327/?format=json",
+      "id": 13327,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/681/?format=json",
+      "date_created": "2022-03-17T10:13:35.381968-07:00",
+      "date_modified": "2022-03-17T10:13:35.381991-07:00",
+      "url": "https://en.wikipedia.org/wiki/Audrey_B._Collins",
+      "date_accessed": "2022-03-17",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13328/?format=json",
+      "id": 13328,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/681/?format=json",
+      "date_created": "2022-03-17T10:13:35.383021-07:00",
+      "date_modified": "2022-03-17T10:13:35.383043-07:00",
+      "url": "https://en.wikipedia.org/wiki/Audrey_B._Collins",
+      "date_accessed": "2022-03-17",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13329/?format=json",
+      "id": 13329,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/681/?format=json",
+      "date_created": "2022-03-17T10:13:35.384036-07:00",
+      "date_modified": "2022-03-17T10:13:35.384058-07:00",
+      "url": "https://www.courts.ca.gov/27052.htm",
+      "date_accessed": "2022-03-17",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13330/?format=json",
+      "id": 13330,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/681/?format=json",
+      "date_created": "2022-03-17T10:13:35.385183-07:00",
+      "date_modified": "2022-03-17T10:13:35.385206-07:00",
+      "url": "http://courtlistener.com",
+      "date_accessed": "2022-03-17",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/397/?format=json",
+      "id": 397,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/681/?format=json",
+      "date_created": "2016-04-20T08:17:20.503799-07:00",
+      "date_modified": "2016-04-20T08:17:20.503821-07:00",
+      "year_rated": 1994,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/542/?format=json",
+      "id": 542,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6056/?format=json",
+        "id": 6056,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Howard University",
+        "ein": 530204707
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/681/?format=json",
+      "date_created": "2016-04-20T08:17:20.520328-07:00",
+      "date_modified": "2016-04-20T08:17:20.520351-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1967
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/543/?format=json",
+      "id": 543,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6041/?format=json",
+        "id": 6041,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "American University",
+        "ein": 530196549
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/681/?format=json",
+      "date_created": "2016-04-20T08:17:20.536638-07:00",
+      "date_modified": "2016-04-20T08:17:20.536679-07:00",
+      "degree_level": "ma",
+      "degree_detail": "M.A.",
+      "degree_year": 1969
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10199/?format=json",
+      "id": 10199,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/681/?format=json",
+      "date_created": "2022-03-17T10:13:35.368041-07:00",
+      "date_modified": "2022-03-17T10:13:35.368065-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1977
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/4086/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4085/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4087/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4088/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4089/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4090/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4091/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4092/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44623/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/686/?format=json",
+      "id": 686,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/681/?format=json",
+      "date_created": "2016-04-20T08:17:20.497781-07:00",
+      "date_modified": "2016-04-20T08:17:20.497805-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1994-01-27",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7228/?format=json",
+      "id": 7228,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/681/?format=json",
+      "date_created": "2022-03-17T10:13:35.372104-07:00",
+      "date_modified": "2022-03-17T10:13:35.372128-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:20.465903-07:00",
+  "date_modified": "2022-03-17T13:13:01.847484-07:00",
+  "date_completed": null,
+  "fjc_id": 480,
+  "slug": "audrey-b-collins",
+  "name_first": "Audrey",
+  "name_middle": "B.",
+  "name_last": "Collins",
+  "name_suffix": "",
+  "date_dob": "1945-06-12",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Chester",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,63 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5816/?format=json",
+  "id": 5816,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2019/?format=json",
+      "id": 2019,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5816/?format=json",
+      "date_created": "2016-04-20T08:26:49.310071-07:00",
+      "date_modified": "2016-04-20T08:26:49.310093-07:00",
+      "url": "https://www.supreme.courts.state.tx.us/court/justice_pjohnson.asp",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/28516/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28517/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4520/?format=json",
+      "id": 4520,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5816/?format=json",
+      "date_created": "2016-04-20T08:26:49.305866-07:00",
+      "date_modified": "2016-04-20T08:26:49.305891-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:49.256380-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "phil-johnson",
+  "name_first": "Phil",
+  "name_middle": "",
+  "name_last": "Johnson",
+  "name_suffix": "",
+  "date_dob": "1944-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 2170890.05,
+  "ftm_eid": "6667559",
+  "has_photo": false
+}

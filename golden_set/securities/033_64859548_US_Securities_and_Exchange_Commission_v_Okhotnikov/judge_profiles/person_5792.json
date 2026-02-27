@@ -1,0 +1,113 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5792/?format=json",
+  "id": 5792,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1984/?format=json",
+      "id": 1984,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5792/?format=json",
+      "date_created": "2016-04-20T08:26:47.033170-07:00",
+      "date_modified": "2016-04-20T08:26:47.033192-07:00",
+      "url": "http://en.wikipedia.org/wiki/Price_Daniel",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1985/?format=json",
+      "id": 1985,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5792/?format=json",
+      "date_created": "2016-04-20T08:26:47.037987-07:00",
+      "date_modified": "2016-04-20T08:26:47.038008-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/100016417110",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4773/?format=json",
+      "id": 4773,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6016/?format=json",
+        "id": 6016,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Baylor University",
+        "ein": 741159753
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5792/?format=json",
+      "date_created": "2016-04-20T08:26:46.993182-07:00",
+      "date_modified": "2016-04-20T08:26:46.993223-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4774/?format=json",
+      "id": 4774,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6016/?format=json",
+        "id": 6016,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Baylor University",
+        "ein": 741159753
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5792/?format=json",
+      "date_created": "2016-04-20T08:26:47.007900-07:00",
+      "date_modified": "2016-04-20T08:26:47.007924-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/28431/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28432/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28433/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4495/?format=json",
+      "id": 4495,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5792/?format=json",
+      "date_created": "2016-04-20T08:26:47.029017-07:00",
+      "date_modified": "2016-04-20T08:26:47.029042-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:46.965700-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "price-daniel-sr",
+  "name_first": "Price",
+  "name_middle": "",
+  "name_last": "Daniel",
+  "name_suffix": "sr",
+  "date_dob": "1910-10-10",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1988-08-25",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,86 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/541/?format=json",
+  "id": 541,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/312/?format=json",
+      "id": 312,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/541/?format=json",
+      "date_created": "2016-04-20T08:17:01.498633-07:00",
+      "date_modified": "2016-04-20T08:17:01.498656-07:00",
+      "year_rated": 2003,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/420/?format=json",
+      "id": 420,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/541/?format=json",
+      "date_created": "2016-04-20T08:17:01.548269-07:00",
+      "date_modified": "2016-04-20T08:17:01.548296-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1987
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/3179/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3180/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3181/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/42214/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/547/?format=json",
+      "id": 547,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/541/?format=json",
+      "date_created": "2016-04-20T08:17:01.491615-07:00",
+      "date_modified": "2016-04-20T08:17:01.491640-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2003-01-07",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:01.456799-07:00",
+  "date_modified": "2020-11-25T08:30:16.084165-08:00",
+  "date_completed": null,
+  "fjc_id": 2994,
+  "slug": "cormac-j-carney",
+  "name_first": "Cormac",
+  "name_middle": "J.",
+  "name_last": "Carney",
+  "name_suffix": "",
+  "date_dob": "1959-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Detroit",
+  "dob_state": "MI",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

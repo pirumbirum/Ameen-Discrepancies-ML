@@ -1,0 +1,58 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2318/?format=json",
+  "id": 2318,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14473/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14474/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14475/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14476/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14477/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14478/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2325/?format=json",
+      "id": 2325,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2318/?format=json",
+      "date_created": "2016-04-20T08:21:11.959751-07:00",
+      "date_modified": "2016-04-20T08:21:11.959775-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1939-05-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:11.925586-07:00",
+  "date_modified": "2020-11-25T08:30:21.424981-08:00",
+  "date_completed": null,
+  "fjc_id": 1693,
+  "slug": "james-ward-morris",
+  "name_first": "James",
+  "name_middle": "Ward",
+  "name_last": "Morris",
+  "name_suffix": "",
+  "date_dob": "1890-11-14",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1960-11-15",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Smithfield",
+  "dob_state": "NC",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

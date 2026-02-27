@@ -1,0 +1,228 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15709/?format=json",
+  "id": 15709,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18114/?format=json",
+      "id": 18114,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15709/?format=json",
+      "date_created": "2022-07-07T15:20:45.759286-07:00",
+      "date_modified": "2022-07-07T15:20:45.759301-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-07",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18115/?format=json",
+      "id": 18115,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15709/?format=json",
+      "date_created": "2022-07-07T15:24:14.611077-07:00",
+      "date_modified": "2022-07-07T15:24:14.611098-07:00",
+      "url": "https://trellis.law/judge/kathleen.a.hamilton",
+      "date_accessed": "2022-07-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18116/?format=json",
+      "id": 18116,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15709/?format=json",
+      "date_created": "2022-07-07T15:24:14.612138-07:00",
+      "date_modified": "2022-07-07T15:24:14.612152-07:00",
+      "url": "https://ballotpedia.org/Kathleen_Hamilton",
+      "date_accessed": "2022-07-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18117/?format=json",
+      "id": 18117,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15709/?format=json",
+      "date_created": "2022-07-07T15:24:14.612690-07:00",
+      "date_modified": "2022-07-07T15:24:14.612707-07:00",
+      "url": "https://www.linkedin.com/in/kathleen-hamilton-4bba1914/",
+      "date_accessed": "2022-07-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18118/?format=json",
+      "id": 18118,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15709/?format=json",
+      "date_created": "2022-07-07T15:24:14.613226-07:00",
+      "date_modified": "2022-07-07T15:24:14.613241-07:00",
+      "url": "http://www.texas-lawyers-index.com/attorney/Kathleen%20A.%20%27Kathy%27%20Hamilton-224565",
+      "date_accessed": "2022-07-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18119/?format=json",
+      "id": 18119,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15709/?format=json",
+      "date_created": "2022-07-07T15:24:14.613780-07:00",
+      "date_modified": "2022-07-07T15:24:14.613793-07:00",
+      "url": "",
+      "date_accessed": "2022-07-07",
+      "notes": "catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18120/?format=json",
+      "id": 18120,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15709/?format=json",
+      "date_created": "2022-07-07T15:24:16.258536-07:00",
+      "date_modified": "2022-07-07T15:24:16.258550-07:00",
+      "url": "https://trellis.law/judge/kathleen.a.hamilton",
+      "date_accessed": "2022-07-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18121/?format=json",
+      "id": 18121,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15709/?format=json",
+      "date_created": "2022-07-07T15:24:16.259327-07:00",
+      "date_modified": "2022-07-07T15:24:16.259350-07:00",
+      "url": "https://ballotpedia.org/Kathleen_Hamilton",
+      "date_accessed": "2022-07-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18122/?format=json",
+      "id": 18122,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15709/?format=json",
+      "date_created": "2022-07-07T15:24:16.260011-07:00",
+      "date_modified": "2022-07-07T15:24:16.260022-07:00",
+      "url": "https://www.linkedin.com/in/kathleen-hamilton-4bba1914/",
+      "date_accessed": "2022-07-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18123/?format=json",
+      "id": 18123,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15709/?format=json",
+      "date_created": "2022-07-07T15:24:16.260659-07:00",
+      "date_modified": "2022-07-07T15:24:16.260670-07:00",
+      "url": "http://www.texas-lawyers-index.com/attorney/Kathleen%20A.%20%27Kathy%27%20Hamilton-224565",
+      "date_accessed": "2022-07-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18124/?format=json",
+      "id": 18124,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15709/?format=json",
+      "date_created": "2022-07-07T15:24:16.261283-07:00",
+      "date_modified": "2022-07-07T15:24:16.261294-07:00",
+      "url": "",
+      "date_accessed": "2022-07-07",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12118/?format=json",
+      "id": 12118,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3164/?format=json",
+        "id": 3164,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Tech University",
+        "ein": 756002622
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15709/?format=json",
+      "date_created": "2022-07-07T15:20:45.743597-07:00",
+      "date_modified": "2022-07-07T15:20:45.743609-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1973
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12119/?format=json",
+      "id": 12119,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3164/?format=json",
+        "id": 3164,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Tech University",
+        "ein": 756002622
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15709/?format=json",
+      "date_created": "2022-07-07T15:20:45.750433-07:00",
+      "date_modified": "2022-07-07T15:20:45.750451-07:00",
+      "degree_level": "ma",
+      "degree_detail": "",
+      "degree_year": 1976
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12120/?format=json",
+      "id": 12120,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2480/?format=json",
+        "id": 2480,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Houston",
+        "ein": 746001399
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15709/?format=json",
+      "date_created": "2022-07-07T15:20:45.752252-07:00",
+      "date_modified": "2022-07-07T15:20:45.752268-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1987
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50454/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50455/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50456/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50457/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50458/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50459/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50460/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8204/?format=json",
+      "id": 8204,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15709/?format=json",
+      "date_created": "2022-07-07T15:20:45.754253-07:00",
+      "date_modified": "2022-07-07T15:20:45.754266-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-07T15:20:45.634697-07:00",
+  "date_modified": "2022-07-07T15:24:16.253790-07:00",
+  "date_completed": "2022-07-07T15:13:45-07:00",
+  "fjc_id": null,
+  "slug": "kathleen-a-hamilton",
+  "name_first": "Kathleen",
+  "name_middle": "A.",
+  "name_last": "Hamilton",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

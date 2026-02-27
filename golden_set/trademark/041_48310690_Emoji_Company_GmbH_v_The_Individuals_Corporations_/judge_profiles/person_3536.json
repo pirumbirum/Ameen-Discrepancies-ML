@@ -1,0 +1,81 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3536/?format=json",
+  "id": 3536,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2221/?format=json",
+      "id": 2221,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3536/?format=json",
+      "date_created": "2016-04-20T08:24:02.630604-07:00",
+      "date_modified": "2016-04-20T08:24:02.630625-07:00",
+      "year_rated": 1973,
+      "rating": "wq"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2222/?format=json",
+      "id": 2222,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3536/?format=json",
+      "date_created": "2016-04-20T08:24:02.655216-07:00",
+      "date_modified": "2016-04-20T08:24:02.655237-07:00",
+      "year_rated": 1976,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22263/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22264/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22265/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22266/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22267/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22268/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22269/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22270/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22271/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22262/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3554/?format=json",
+      "id": 3554,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3536/?format=json",
+      "date_created": "2016-04-20T08:24:02.624034-07:00",
+      "date_modified": "2016-04-20T08:24:02.624057-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1973-05-11",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:02.592785-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2637,
+  "slug": "harlington-wood-jr",
+  "name_first": "Harlington",
+  "name_middle": "",
+  "name_last": "Wood",
+  "name_suffix": "jr",
+  "date_dob": "1920-04-17",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2008-12-29",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Springfield",
+  "dob_state": "IL",
+  "dob_country": "United States",
+  "dod_city": "Petersburg",
+  "dod_state": "IL",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,128 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14756/?format=json",
+  "id": 14756,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14279/?format=json",
+      "id": 14279,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14756/?format=json",
+      "date_created": "2022-04-05T11:19:29.594122-07:00",
+      "date_modified": "2022-04-05T11:19:29.594143-07:00",
+      "url": "https://ballotpedia.org/Hugh_A._Gilbert#:~:text=Gilbert%20was%20a%20justice%20for,forced%20to%20retire%20in%202011.",
+      "date_accessed": "2022-04-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14280/?format=json",
+      "id": 14280,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14756/?format=json",
+      "date_created": "2022-04-05T11:19:29.596443-07:00",
+      "date_modified": "2022-04-05T11:19:29.596466-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=18UPC1l_PLUS_BTCzfs0JP9opDg%3D%3D",
+      "date_accessed": "2022-04-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14281/?format=json",
+      "id": 14281,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14756/?format=json",
+      "date_created": "2022-04-05T11:19:29.597604-07:00",
+      "date_modified": "2022-04-05T11:19:29.597621-07:00",
+      "url": "https://trellis.law/judge/hugh.a.gilbert",
+      "date_accessed": "2022-04-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14282/?format=json",
+      "id": 14282,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14756/?format=json",
+      "date_created": "2022-04-05T11:19:29.598653-07:00",
+      "date_modified": "2022-04-05T11:19:29.598676-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/Family_Court,_Fifth_Judicial_District/Hugh_Gilbert/Hugh_Gilbert-306.xml",
+      "date_accessed": "2022-04-05",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10631/?format=json",
+      "id": 10631,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/62/?format=json",
+        "id": 62,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Albany Law School",
+        "ein": 141338309
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14756/?format=json",
+      "date_created": "2022-04-05T11:19:29.588347-07:00",
+      "date_modified": "2022-04-05T11:19:29.588369-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1965
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10632/?format=json",
+      "id": 10632,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/719/?format=json",
+        "id": 719,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Fordham University",
+        "ein": 131740451
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14756/?format=json",
+      "date_created": "2022-04-05T11:19:29.592848-07:00",
+      "date_modified": "2022-04-05T11:19:29.592875-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1962
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/45967/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45968/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45969/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45970/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45971/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45972/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45973/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45974/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45975/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45976/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-04-05T11:19:29.573040-07:00",
+  "date_modified": "2022-05-04T11:07:13.989949-07:00",
+  "date_completed": "2022-05-04T10:42:15-07:00",
+  "fjc_id": null,
+  "slug": "hugh-a-gilbert",
+  "name_first": "Hugh",
+  "name_middle": "A.",
+  "name_last": "Gilbert",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

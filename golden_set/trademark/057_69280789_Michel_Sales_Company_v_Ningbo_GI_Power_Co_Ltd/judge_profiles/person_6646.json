@@ -1,0 +1,127 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6646/?format=json",
+  "id": 6646,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13196/?format=json",
+      "id": 13196,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6646/?format=json",
+      "date_created": "2022-03-16T16:04:20.208094-07:00",
+      "date_modified": "2022-03-16T16:04:20.208119-07:00",
+      "url": "https://en.wikipedia.org/wiki/Donald_Wright#:~:text=In%201968%2C%20Wright%20left%20the,retirement%20on%20February%201%2C%201977.",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13197/?format=json",
+      "id": 13197,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6646/?format=json",
+      "date_created": "2022-03-16T16:04:20.217154-07:00",
+      "date_modified": "2022-03-16T16:04:20.217178-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10140/?format=json",
+      "id": 10140,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6646/?format=json",
+      "date_created": "2022-03-16T16:04:20.165276-07:00",
+      "date_modified": "2022-03-16T16:04:20.165300-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1929
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10141/?format=json",
+      "id": 10141,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6646/?format=json",
+      "date_created": "2022-03-16T16:04:20.173018-07:00",
+      "date_modified": "2022-03-16T16:04:20.173043-07:00",
+      "degree_level": "llb",
+      "degree_detail": "",
+      "degree_year": 1932
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/30259/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44615/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44616/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44617/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7191/?format=json",
+      "id": 7191,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6646/?format=json",
+      "date_created": "2022-03-16T16:04:20.157134-07:00",
+      "date_modified": "2022-03-16T16:04:20.157163-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7192/?format=json",
+      "id": 7192,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6646/?format=json",
+      "date_created": "2022-03-16T16:07:04.602534-07:00",
+      "date_modified": "2022-03-16T16:07:04.602557-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:35.881941-07:00",
+  "date_modified": "2022-03-16T16:07:04.583251-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "donald-richard-wright",
+  "name_first": "Donald",
+  "name_middle": "Richard",
+  "name_last": "Wright",
+  "name_suffix": "",
+  "date_dob": "1970-04-17",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1985-03-21",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Placentia",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

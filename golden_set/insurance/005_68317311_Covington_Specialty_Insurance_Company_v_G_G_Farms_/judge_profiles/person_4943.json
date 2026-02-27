@@ -1,0 +1,78 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4943/?format=json",
+  "id": 4943,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1144/?format=json",
+      "id": 1144,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4943/?format=json",
+      "date_created": "2016-04-20T08:25:42.953693-07:00",
+      "date_modified": "2016-04-20T08:25:42.953714-07:00",
+      "url": "http://news.google.com/newspapers?nid=1893&dat=19980705&id=G6kfAAAAIBAJ&sjid=ctYEAAAAIBAJ&pg=1169",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1145/?format=json",
+      "id": 1145,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4943/?format=json",
+      "date_created": "2016-04-20T08:25:42.957731-07:00",
+      "date_modified": "2016-04-20T08:25:42.957753-07:00",
+      "url": "566025",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4024/?format=json",
+      "id": 4024,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2733/?format=json",
+        "id": 2733,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Missouri-Kansas City",
+        "ein": 436003859
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4943/?format=json",
+      "date_created": "2016-04-20T08:25:42.927325-07:00",
+      "date_modified": "2016-04-20T08:25:42.927349-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26109/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:42.889234-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "edward-d-robertson-jr",
+  "name_first": "Edward",
+  "name_middle": "D.",
+  "name_last": "Robertson",
+  "name_suffix": "jr",
+  "date_dob": "1952-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

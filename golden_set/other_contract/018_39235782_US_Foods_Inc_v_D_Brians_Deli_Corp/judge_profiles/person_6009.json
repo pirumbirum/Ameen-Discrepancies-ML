@@ -1,0 +1,49 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6009/?format=json",
+  "id": 6009,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2308/?format=json",
+      "id": 2308,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6009/?format=json",
+      "date_created": "2016-04-20T08:27:05.384701-07:00",
+      "date_modified": "2016-04-20T08:27:05.384723-07:00",
+      "url": "http://books.google.com/books?id=VDH5w0buMTMC&q=hale#v=snippet&q=williams&f=false",
+      "date_accessed": null,
+      "notes": "Didn't graduate law school; studied under his father, a judge"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/29127/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29128/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:05.356282-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "charles-t-wright",
+  "name_first": "Charles",
+  "name_middle": "T.",
+  "name_last": "Wright",
+  "name_suffix": "",
+  "date_dob": "1911-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": "1980-11-05",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

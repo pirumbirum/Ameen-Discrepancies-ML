@@ -1,0 +1,75 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/9386/?format=json",
+  "id": 9386,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/5098/?format=json",
+      "id": 5098,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9386/?format=json",
+      "date_created": "2020-05-13T16:56:28.520765-07:00",
+      "date_modified": "2020-05-13T16:56:28.520787-07:00",
+      "url": "https://law.rutgers.edu/news/rutgers-law-grad-becomes-first-asian-american-federal-judge-new-jersey",
+      "date_accessed": "2020-05-13",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2427/?format=json",
+      "id": 2427,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9386/?format=json",
+      "date_created": "2022-01-25T16:41:11.107153-08:00",
+      "date_modified": "2022-01-25T16:41:11.107177-08:00",
+      "year_rated": 2022,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/35384/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44251/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5027/?format=json",
+      "id": 5027,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9386/?format=json",
+      "date_created": "2022-01-25T16:41:11.102174-08:00",
+      "date_modified": "2022-01-25T16:41:11.102198-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2021-04-19",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2020-05-13T16:56:28.511465-07:00",
+  "date_modified": "2022-01-25T16:41:11.063514-08:00",
+  "date_completed": "2022-01-25T16:33:46-08:00",
+  "fjc_id": 10236621,
+  "slug": "zahid-nisar-quraishi",
+  "name_first": "Zahid",
+  "name_middle": "Nisar",
+  "name_last": "Quraishi",
+  "name_suffix": "",
+  "date_dob": "1975-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "New York",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

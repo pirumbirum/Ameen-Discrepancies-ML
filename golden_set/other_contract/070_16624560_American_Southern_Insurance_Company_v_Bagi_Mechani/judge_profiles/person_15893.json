@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15893/?format=json",
+  "id": 15893,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19023/?format=json",
+      "id": 19023,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15893/?format=json",
+      "date_created": "2022-07-21T11:38:48.573068-07:00",
+      "date_modified": "2022-07-21T11:38:48.573082-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-21",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19024/?format=json",
+      "id": 19024,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15893/?format=json",
+      "date_created": "2022-07-21T11:43:35.177750-07:00",
+      "date_modified": "2022-07-21T11:43:35.177763-07:00",
+      "url": "https://ballotpedia.org/Michael_Moore_(Texas)",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19025/?format=json",
+      "id": 19025,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15893/?format=json",
+      "date_created": "2022-07-21T11:43:35.178607-07:00",
+      "date_modified": "2022-07-21T11:43:35.178618-07:00",
+      "url": "https://mineralwellsrotary.org/stories/judicial-insight-district-judge-mike-moore-gives-rotarians-a-look-into-his-courtroom",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19026/?format=json",
+      "id": 19026,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15893/?format=json",
+      "date_created": "2022-07-21T11:43:35.179280-07:00",
+      "date_modified": "2022-07-21T11:43:35.179291-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=44635&office=24793",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19027/?format=json",
+      "id": 19027,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15893/?format=json",
+      "date_created": "2022-07-21T11:43:35.180006-07:00",
+      "date_modified": "2022-07-21T11:43:35.180017-07:00",
+      "url": "https://www.co.palo-pinto.tx.us/page/palopinto.District.Court",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19029/?format=json",
+      "id": 19029,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15893/?format=json",
+      "date_created": "2022-07-21T11:43:35.181270-07:00",
+      "date_modified": "2022-07-21T11:43:35.181280-07:00",
+      "url": "",
+      "date_accessed": "2022-07-21",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12369/?format=json",
+      "id": 12369,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15893/?format=json",
+      "date_created": "2022-07-21T11:38:48.558977-07:00",
+      "date_modified": "2022-07-21T11:38:48.558990-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1982
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12370/?format=json",
+      "id": 12370,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15893/?format=json",
+      "date_created": "2022-07-21T11:38:48.567032-07:00",
+      "date_modified": "2022-07-21T11:38:48.567045-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1986
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51210/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51211/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51212/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51213/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8318/?format=json",
+      "id": 8318,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15893/?format=json",
+      "date_created": "2022-07-21T11:38:48.568272-07:00",
+      "date_modified": "2022-07-21T11:38:48.568284-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-21T11:38:48.500339-07:00",
+  "date_modified": "2022-07-21T11:46:05.905558-07:00",
+  "date_completed": "2022-07-21T11:33:51-07:00",
+  "fjc_id": null,
+  "slug": "michael-d-moore",
+  "name_first": "Michael",
+  "name_middle": "D.",
+  "name_last": "Moore",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

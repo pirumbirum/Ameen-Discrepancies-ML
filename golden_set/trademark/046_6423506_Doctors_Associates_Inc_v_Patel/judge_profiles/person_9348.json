@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/9348/?format=json",
+  "id": 9348,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/5060/?format=json",
+      "id": 5060,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9348/?format=json",
+      "date_created": "2020-05-13T16:56:27.878133-07:00",
+      "date_modified": "2020-05-13T16:56:27.878155-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2020-05-13",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/35346/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2020-05-13T16:56:27.870033-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "michael-t-parker",
+  "name_first": "Michael",
+  "name_middle": "T.",
+  "name_last": "Parker",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

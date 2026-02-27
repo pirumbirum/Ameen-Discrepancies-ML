@@ -1,0 +1,71 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/852/?format=json",
+  "id": 852,
+  "race": [
+    "h"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/502/?format=json",
+      "id": 502,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/852/?format=json",
+      "date_created": "2016-04-20T08:17:44.449147-07:00",
+      "date_modified": "2016-04-20T08:17:44.449165-07:00",
+      "year_rated": 2005,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/5158/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5159/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5160/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5161/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5162/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5163/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5164/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5165/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5166/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/857/?format=json",
+      "id": 857,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/852/?format=json",
+      "date_created": "2016-04-20T08:17:44.442412-07:00",
+      "date_modified": "2016-04-20T08:17:44.442432-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2005-10-25",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:44.413614-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3103,
+  "slug": "aida-m-delgado-colon",
+  "name_first": "Aida",
+  "name_middle": "M.",
+  "name_last": "Delgado-Colon",
+  "name_suffix": "",
+  "date_dob": "1955-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Lares",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,117 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14434/?format=json",
+  "id": 14434,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6106/?format=json",
+      "id": 6106,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14434/?format=json",
+      "date_created": "2021-11-23T13:45:32.620917-08:00",
+      "date_modified": "2021-11-23T13:45:32.620939-08:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2021-11-23",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2425/?format=json",
+      "id": 2425,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14434/?format=json",
+      "date_created": "2021-11-23T13:45:32.613693-08:00",
+      "date_modified": "2021-11-23T13:45:32.613716-08:00",
+      "year_rated": 2019,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6964/?format=json",
+      "id": 6964,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4461/?format=json",
+        "id": 4461,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Duquesne University",
+        "ein": 251035663
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14434/?format=json",
+      "date_created": "2021-11-23T13:45:32.643338-08:00",
+      "date_modified": "2021-11-23T13:45:32.643365-08:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 2002
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6965/?format=json",
+      "id": 6965,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4461/?format=json",
+        "id": 4461,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Duquesne University",
+        "ein": 251035663
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14434/?format=json",
+      "date_created": "2021-11-23T13:45:32.684383-08:00",
+      "date_modified": "2021-11-23T13:45:32.684424-08:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 2005
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44236/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44237/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44238/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44239/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44240/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5024/?format=json",
+      "id": 5024,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14434/?format=json",
+      "date_created": "2021-11-23T13:45:32.600802-08:00",
+      "date_modified": "2021-11-23T13:45:32.600827-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2019-05-13",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-11-23T13:45:32.513605-08:00",
+  "date_modified": "2021-11-23T13:45:32.513640-08:00",
+  "date_completed": null,
+  "fjc_id": 6840721,
+  "slug": "william-shaw-stickman-iv",
+  "name_first": "William",
+  "name_middle": "Shaw",
+  "name_last": "Stickman",
+  "name_suffix": "4",
+  "date_dob": "1979-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Pittsburgh",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

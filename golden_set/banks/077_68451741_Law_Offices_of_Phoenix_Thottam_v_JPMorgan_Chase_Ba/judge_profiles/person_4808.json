@@ -1,0 +1,50 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4808/?format=json",
+  "id": 4808,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1019/?format=json",
+      "id": 1019,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4808/?format=json",
+      "date_created": "2016-04-20T08:25:31.094737-07:00",
+      "date_modified": "2016-04-20T08:25:31.094767-07:00",
+      "url": "http://mn.gov/lawlib/judgebio.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25744/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25745/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25746/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:31.009426-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "russell-a-anderson",
+  "name_first": "Russell",
+  "name_middle": "A.",
+  "name_last": "Anderson",
+  "name_suffix": "",
+  "date_dob": "1942-05-28",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 63428.84,
+  "ftm_eid": "6558464",
+  "has_photo": false
+}

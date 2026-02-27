@@ -1,0 +1,73 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/772/?format=json",
+  "id": 772,
+  "race": [
+    "h"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/464/?format=json",
+      "id": 464,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/772/?format=json",
+      "date_created": "2016-04-20T08:17:34.509302-07:00",
+      "date_modified": "2016-04-20T08:17:34.509346-07:00",
+      "year_rated": 2011,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/4653/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4654/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4655/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4656/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4657/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4658/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4659/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4660/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4661/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4652/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/42902/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/778/?format=json",
+      "id": 778,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/772/?format=json",
+      "date_created": "2016-04-20T08:17:34.501586-07:00",
+      "date_modified": "2016-04-20T08:17:34.501636-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2011-11-10",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:34.459244-07:00",
+  "date_modified": "2020-11-25T08:30:17.601008-08:00",
+  "date_completed": null,
+  "fjc_id": 3443,
+  "slug": "gonzalo-paul-curiel",
+  "name_first": "Gonzalo",
+  "name_middle": "Paul",
+  "name_last": "Curiel",
+  "name_suffix": "",
+  "date_dob": "1953-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "East Chicago",
+  "dob_state": "IN",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

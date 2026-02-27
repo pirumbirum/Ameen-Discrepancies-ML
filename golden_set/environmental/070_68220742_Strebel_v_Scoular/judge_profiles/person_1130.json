@@ -1,0 +1,105 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1130/?format=json",
+  "id": 1130,
+  "race": [
+    "h"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/673/?format=json",
+      "id": 673,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1130/?format=json",
+      "date_created": "2016-04-20T08:18:21.417779-07:00",
+      "date_modified": "2016-04-20T08:18:21.417802-07:00",
+      "year_rated": 1999,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/925/?format=json",
+      "id": 925,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3941/?format=json",
+        "id": 3941,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "New York University",
+        "ein": 135562308
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1130/?format=json",
+      "date_created": "2016-04-20T08:18:21.447406-07:00",
+      "date_modified": "2016-04-20T08:18:21.447438-07:00",
+      "degree_level": "ma",
+      "degree_detail": "M.A.",
+      "degree_year": 1972
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/926/?format=json",
+      "id": 926,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3813/?format=json",
+        "id": 3813,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Rutgers University-New Brunswick",
+        "ein": 226001086
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1130/?format=json",
+      "date_created": "2016-04-20T08:18:21.485685-07:00",
+      "date_modified": "2016-04-20T08:18:21.485726-07:00",
+      "degree_level": "ma",
+      "degree_detail": "M.A.",
+      "degree_year": 1993
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/6865/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6866/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6867/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6868/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1135/?format=json",
+      "id": 1135,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1130/?format=json",
+      "date_created": "2016-04-20T08:18:21.412620-07:00",
+      "date_modified": "2016-04-20T08:18:21.412644-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1999-03-08",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:21.384059-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2855,
+  "slug": "julio-m-fuentes",
+  "name_first": "Julio",
+  "name_middle": "M.",
+  "name_last": "Fuentes",
+  "name_suffix": "",
+  "date_dob": "1946-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Humacao",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

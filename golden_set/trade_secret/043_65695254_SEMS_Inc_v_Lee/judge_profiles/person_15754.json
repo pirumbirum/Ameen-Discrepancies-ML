@@ -1,0 +1,165 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15754/?format=json",
+  "id": 15754,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18373/?format=json",
+      "id": 18373,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15754/?format=json",
+      "date_created": "2022-07-11T17:51:20.767177-07:00",
+      "date_modified": "2022-07-11T17:51:20.767192-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-11",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18374/?format=json",
+      "id": 18374,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15754/?format=json",
+      "date_created": "2022-07-11T17:57:06.504430-07:00",
+      "date_modified": "2022-07-11T17:57:06.504455-07:00",
+      "url": "https://www.judgekellijohnson.com/about/",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18375/?format=json",
+      "id": 18375,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15754/?format=json",
+      "date_created": "2022-07-11T17:57:06.505848-07:00",
+      "date_modified": "2022-07-11T17:57:06.505863-07:00",
+      "url": "https://www.linkedin.com/in/kelli-johnson-42b1b8a2/",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18376/?format=json",
+      "id": 18376,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15754/?format=json",
+      "date_created": "2022-07-11T17:57:06.506658-07:00",
+      "date_modified": "2022-07-11T17:57:06.506673-07:00",
+      "url": "https://ballotpedia.org/Kelli_Johnson",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18377/?format=json",
+      "id": 18377,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15754/?format=json",
+      "date_created": "2022-07-11T17:57:06.507917-07:00",
+      "date_modified": "2022-07-11T17:57:06.507934-07:00",
+      "url": "https://www.justex.net/Courts/Criminal/CriminalCourt.aspx?crt=30",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18378/?format=json",
+      "id": 18378,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15754/?format=json",
+      "date_created": "2022-07-11T17:57:06.509460-07:00",
+      "date_modified": "2022-07-11T17:57:06.509474-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=57126&office=23338",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18379/?format=json",
+      "id": 18379,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15754/?format=json",
+      "date_created": "2022-07-11T17:57:06.510077-07:00",
+      "date_modified": "2022-07-11T17:57:06.510091-07:00",
+      "url": "",
+      "date_accessed": "2022-07-11",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12181/?format=json",
+      "id": 12181,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2076/?format=json",
+        "id": 2076,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Christian University",
+        "ein": 750827465
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15754/?format=json",
+      "date_created": "2022-07-11T17:51:20.753376-07:00",
+      "date_modified": "2022-07-11T17:51:20.753388-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1994
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12182/?format=json",
+      "id": 12182,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3322/?format=json",
+        "id": 3322,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "South Texas College",
+        "ein": 742683499
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15754/?format=json",
+      "date_created": "2022-07-11T17:51:20.760531-07:00",
+      "date_modified": "2022-07-11T17:51:20.760543-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1999
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50650/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50651/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50652/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8233/?format=json",
+      "id": 8233,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15754/?format=json",
+      "date_created": "2022-07-11T17:51:20.762248-07:00",
+      "date_modified": "2022-07-11T17:51:20.762260-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-11T17:51:20.603210-07:00",
+  "date_modified": "2022-07-11T18:10:41.464286-07:00",
+  "date_completed": "2022-07-11T17:32:51-07:00",
+  "fjc_id": null,
+  "slug": "kelli-d-johnson",
+  "name_first": "Kelli",
+  "name_middle": "D.",
+  "name_last": "Johnson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

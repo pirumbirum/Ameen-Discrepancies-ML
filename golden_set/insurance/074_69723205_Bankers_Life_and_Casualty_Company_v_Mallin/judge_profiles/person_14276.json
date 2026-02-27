@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14276/?format=json",
+  "id": 14276,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10306/?format=json",
+      "id": 10306,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14276/?format=json",
+      "date_created": "2022-03-06T19:01:56.856416-08:00",
+      "date_modified": "2022-03-06T19:01:56.856443-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10307/?format=json",
+      "id": 10307,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14276/?format=json",
+      "date_created": "2022-03-06T19:01:56.862956-08:00",
+      "date_modified": "2022-03-06T19:01:56.862983-08:00",
+      "url": "https://ballotpedia.org/Rita_Lin",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10308/?format=json",
+      "id": 10308,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14276/?format=json",
+      "date_created": "2022-03-06T19:01:56.869057-08:00",
+      "date_modified": "2022-03-06T19:01:56.869083-08:00",
+      "url": "https://www.martindale.com/attorney/rita-faye-lin-158810125/",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10309/?format=json",
+      "id": 10309,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14276/?format=json",
+      "date_created": "2022-03-06T19:01:56.880394-08:00",
+      "date_modified": "2022-03-06T19:01:56.880420-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-06",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8758/?format=json",
+      "id": 8758,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14276/?format=json",
+      "date_created": "2022-03-06T19:01:56.841905-08:00",
+      "date_modified": "2022-03-06T19:01:56.841932-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 2000
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8759/?format=json",
+      "id": 8759,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14276/?format=json",
+      "date_created": "2022-03-06T19:01:56.851769-08:00",
+      "date_modified": "2022-03-06T19:01:56.851795-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2003
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43964/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6237/?format=json",
+      "id": 6237,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14276/?format=json",
+      "date_created": "2022-03-06T19:01:56.826284-08:00",
+      "date_modified": "2022-03-06T19:01:56.826312-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6238/?format=json",
+      "id": 6238,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14276/?format=json",
+      "date_created": "2022-03-06T19:01:56.833297-08:00",
+      "date_modified": "2022-03-06T19:01:56.833324-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:15.100652-07:00",
+  "date_modified": "2022-03-20T19:20:55.678354-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "rita-faye-lin",
+  "name_first": "Rita",
+  "name_middle": "Faye",
+  "name_last": "Lin",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

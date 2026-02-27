@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13303/?format=json",
+  "id": 13303,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6335/?format=json",
+      "id": 6335,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13303/?format=json",
+      "date_created": "2022-02-09T10:00:00.187291-08:00",
+      "date_modified": "2022-02-09T18:51:46.541090-08:00",
+      "url": "https://trellis.law/pricing?post_purchase_path=L2p1ZGdlL3RlcmVzYS5zLmJlbm5ldHQ=",
+      "date_accessed": "2022-02-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6437/?format=json",
+      "id": 6437,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13303/?format=json",
+      "date_created": "2022-02-09T18:51:46.545509-08:00",
+      "date_modified": "2022-02-09T18:51:46.545530-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-09",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6438/?format=json",
+      "id": 6438,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13303/?format=json",
+      "date_created": "2022-02-09T18:51:46.549748-08:00",
+      "date_modified": "2022-02-09T18:51:46.549769-08:00",
+      "url": "https://ballotpedia.org/Teresa_M._Bennett",
+      "date_accessed": "2022-02-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6439/?format=json",
+      "id": 6439,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13303/?format=json",
+      "date_created": "2022-02-09T18:51:46.557689-08:00",
+      "date_modified": "2022-02-09T18:51:46.557711-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-09",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7139/?format=json",
+      "id": 7139,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2832/?format=json",
+        "id": 2832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-San Diego",
+        "ein": 956006144
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13303/?format=json",
+      "date_created": "2022-02-09T18:51:46.523386-08:00",
+      "date_modified": "2022-02-09T18:51:46.523409-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1975
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7140/?format=json",
+      "id": 7140,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2839/?format=json",
+        "id": 2839,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of La Verne",
+        "ein": 951644026
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13303/?format=json",
+      "date_created": "2022-02-09T18:51:46.531047-08:00",
+      "date_modified": "2022-02-09T18:51:46.531070-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1988
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42768/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5131/?format=json",
+      "id": 5131,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13303/?format=json",
+      "date_created": "2022-02-09T10:00:00.174976-08:00",
+      "date_modified": "2022-02-09T10:00:00.175013-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5155/?format=json",
+      "id": 5155,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13303/?format=json",
+      "date_created": "2022-02-09T18:51:46.536724-08:00",
+      "date_modified": "2022-02-09T18:51:46.536746-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:32.431115-07:00",
+  "date_modified": "2022-02-09T18:51:46.506551-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "teresa-m-bennett",
+  "name_first": "Teresa",
+  "name_middle": "M.",
+  "name_last": "Bennett",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

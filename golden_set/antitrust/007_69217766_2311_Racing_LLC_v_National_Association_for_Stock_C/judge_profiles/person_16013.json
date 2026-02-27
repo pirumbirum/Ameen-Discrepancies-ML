@@ -1,0 +1,187 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/16013/?format=json",
+  "id": 16013,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19713/?format=json",
+      "id": 19713,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16013/?format=json",
+      "date_created": "2022-07-28T15:17:28.045461-07:00",
+      "date_modified": "2022-07-28T15:17:28.045472-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-28",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19714/?format=json",
+      "id": 19714,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16013/?format=json",
+      "date_created": "2022-07-28T15:21:09.929494-07:00",
+      "date_modified": "2022-07-28T15:21:09.929518-07:00",
+      "url": "https://ballotpedia.org/Liza_Rodriguez#:~:text=Liza%20Rodriguez%20(Democratic%20Party)%20is,Fourth%20District%20Court%20of%20Appeals.",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19715/?format=json",
+      "id": 19715,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16013/?format=json",
+      "date_created": "2022-07-28T15:21:09.930554-07:00",
+      "date_modified": "2022-07-28T15:21:09.930571-07:00",
+      "url": "https://www.txcourts.gov/4thcoa/about-the-court/justices/justice-liza-a-rodriguez/",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19716/?format=json",
+      "id": 19716,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16013/?format=json",
+      "date_created": "2022-07-28T15:21:09.931182-07:00",
+      "date_modified": "2022-07-28T15:21:09.931198-07:00",
+      "url": "https://www.linkedin.com/in/liza-rodriguez-28998929/",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19717/?format=json",
+      "id": 19717,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16013/?format=json",
+      "date_created": "2022-07-28T15:21:09.932569-07:00",
+      "date_modified": "2022-07-28T15:21:09.932583-07:00",
+      "url": "https://tlrpac.org/fourth-court-of-appeals-place-5/",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19718/?format=json",
+      "id": 19718,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16013/?format=json",
+      "date_created": "2022-07-28T15:21:09.933111-07:00",
+      "date_modified": "2022-07-28T15:21:09.933125-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=197408",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19719/?format=json",
+      "id": 19719,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16013/?format=json",
+      "date_created": "2022-07-28T15:21:09.933726-07:00",
+      "date_modified": "2022-07-28T15:21:09.933741-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=62582&office=20452",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19720/?format=json",
+      "id": 19720,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16013/?format=json",
+      "date_created": "2022-07-28T15:21:09.934314-07:00",
+      "date_modified": "2022-07-28T15:21:09.934334-07:00",
+      "url": "https://www.martindale.com/attorney/ms-liza-ann-rodriguez-duron-1700963/",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19721/?format=json",
+      "id": 19721,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16013/?format=json",
+      "date_created": "2022-07-28T15:21:09.934877-07:00",
+      "date_modified": "2022-07-28T15:21:09.934892-07:00",
+      "url": "",
+      "date_accessed": "2022-07-28",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12564/?format=json",
+      "id": 12564,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1603/?format=json",
+        "id": 1603,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of North Texas",
+        "ein": 756002149
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16013/?format=json",
+      "date_created": "2022-07-28T15:17:28.033152-07:00",
+      "date_modified": "2022-07-28T15:17:28.033167-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Political Science",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12565/?format=json",
+      "id": 12565,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5152/?format=json",
+        "id": 5152,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "St Mary's University",
+        "ein": 741143128
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16013/?format=json",
+      "date_created": "2022-07-28T15:17:28.040153-07:00",
+      "date_modified": "2022-07-28T15:17:28.040166-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1997
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51698/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51699/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51702/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51700/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51701/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8399/?format=json",
+      "id": 8399,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16013/?format=json",
+      "date_created": "2022-07-28T15:17:28.042120-07:00",
+      "date_modified": "2022-07-28T15:17:28.042132-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-28T15:17:27.945194-07:00",
+  "date_modified": "2022-07-28T15:37:28.049158-07:00",
+  "date_completed": "2022-07-28T15:06:17-07:00",
+  "fjc_id": null,
+  "slug": "liza-ann-rodriguez",
+  "name_first": "Liza",
+  "name_middle": "Ann",
+  "name_last": "Rodriguez",
+  "name_suffix": "",
+  "date_dob": "1971-07-12",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Laredo",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

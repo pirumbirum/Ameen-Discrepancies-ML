@@ -1,0 +1,103 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4526/?format=json",
+  "id": 4526,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/560/?format=json",
+      "id": 560,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4526/?format=json",
+      "date_created": "2016-04-20T08:25:06.369523-07:00",
+      "date_modified": "2016-04-20T08:25:06.369546-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/100003830269",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3633/?format=json",
+      "id": 3633,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2180/?format=json",
+        "id": 2180,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Georgetown College",
+        "ein": 610444695
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4526/?format=json",
+      "date_created": "2016-04-20T08:25:06.320901-07:00",
+      "date_modified": "2016-04-20T08:25:06.320924-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3634/?format=json",
+      "id": 3634,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3136/?format=json",
+        "id": 3136,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Louisville",
+        "ein": 611014882
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4526/?format=json",
+      "date_created": "2016-04-20T08:25:06.335999-07:00",
+      "date_modified": "2016-04-20T08:25:06.336040-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24824/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24825/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24826/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3980/?format=json",
+      "id": 3980,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4526/?format=json",
+      "date_created": "2016-04-20T08:25:06.360326-07:00",
+      "date_modified": "2016-04-20T08:25:06.360360-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:06.296358-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "joseph-e-lambert",
+  "name_first": "Joseph",
+  "name_middle": "E.",
+  "name_last": "Lambert",
+  "name_suffix": "",
+  "date_dob": "1948-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 0.0,
+  "ftm_eid": "6558694",
+  "has_photo": false
+}

@@ -1,0 +1,63 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4315/?format=json",
+  "id": 4315,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/362/?format=json",
+      "id": 362,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4315/?format=json",
+      "date_created": "2016-04-20T08:24:53.087157-07:00",
+      "date_modified": "2016-04-20T08:24:53.087189-07:00",
+      "url": "http://site.ebrary.com/lib/columbia/reader.action?docID=10955894",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24348/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24349/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3907/?format=json",
+      "id": 3907,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4315/?format=json",
+      "date_created": "2016-04-20T08:24:53.080838-07:00",
+      "date_modified": "2016-04-20T08:24:53.080872-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:53.014112-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "james-h-jordan",
+  "name_first": "James",
+  "name_middle": "H.",
+  "name_last": "Jordan",
+  "name_suffix": "",
+  "date_dob": "1842-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": "1912-04-10",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

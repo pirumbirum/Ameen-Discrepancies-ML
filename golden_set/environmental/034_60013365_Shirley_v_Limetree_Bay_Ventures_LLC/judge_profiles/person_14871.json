@@ -1,0 +1,120 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14871/?format=json",
+  "id": 14871,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14778/?format=json",
+      "id": 14778,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14871/?format=json",
+      "date_created": "2022-04-08T14:14:35.721187-07:00",
+      "date_modified": "2022-04-08T14:14:35.721221-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14779/?format=json",
+      "id": 14779,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14871/?format=json",
+      "date_created": "2022-04-08T14:14:35.723575-07:00",
+      "date_modified": "2022-04-08T14:14:35.723609-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=IREyMc7xV167bcEAh7/8vQ%3D%3D",
+      "date_accessed": "2022-04-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14780/?format=json",
+      "id": 14780,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14871/?format=json",
+      "date_created": "2022-04-08T14:14:35.724948-07:00",
+      "date_modified": "2022-04-08T14:14:35.724982-07:00",
+      "url": "https://ballotpedia.org/Daniel_Lewis_(New_York)",
+      "date_accessed": "2022-04-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14781/?format=json",
+      "id": 14781,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14871/?format=json",
+      "date_created": "2022-04-08T14:14:35.726317-07:00",
+      "date_modified": "2022-04-08T14:14:35.726350-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/Supreme_Court,_Queens_County/Daniel_Lewis/Daniel_Lewis-1034.xml",
+      "date_accessed": "2022-04-08",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10872/?format=json",
+      "id": 10872,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4361/?format=json",
+        "id": 4361,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Pennsylvania",
+        "ein": 231352685
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14871/?format=json",
+      "date_created": "2022-04-08T14:14:35.712239-07:00",
+      "date_modified": "2022-04-08T14:14:35.712287-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1970
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10873/?format=json",
+      "id": 10873,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4697/?format=json",
+        "id": 4697,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Brown University",
+        "ein": 50258809
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14871/?format=json",
+      "date_created": "2022-04-08T14:14:35.719237-07:00",
+      "date_modified": "2022-04-08T14:14:35.719274-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1967
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/46634/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46635/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46636/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46637/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-04-08T14:14:35.610098-07:00",
+  "date_modified": "2022-05-10T09:43:24.128850-07:00",
+  "date_completed": "2022-05-10T09:37:45-07:00",
+  "fjc_id": null,
+  "slug": "daniel-lewis",
+  "name_first": "Daniel",
+  "name_middle": "",
+  "name_last": "Lewis",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

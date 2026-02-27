@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14266/?format=json",
+  "id": 14266,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9443/?format=json",
+      "id": 9443,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14266/?format=json",
+      "date_created": "2022-03-02T13:01:59.611724-08:00",
+      "date_modified": "2022-03-02T13:01:59.611747-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-02",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9444/?format=json",
+      "id": 9444,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14266/?format=json",
+      "date_created": "2022-03-02T13:01:59.616502-08:00",
+      "date_modified": "2022-03-02T13:01:59.616524-08:00",
+      "url": "https://ballotpedia.org/Altus_Hudson",
+      "date_accessed": "2022-03-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9445/?format=json",
+      "id": 9445,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14266/?format=json",
+      "date_created": "2022-03-02T13:01:59.620468-08:00",
+      "date_modified": "2022-03-02T13:01:59.620490-08:00",
+      "url": "https://www.martindale.com/attorney/altus-waddell-hudson-156594/",
+      "date_accessed": "2022-03-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9446/?format=json",
+      "id": 9446,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14266/?format=json",
+      "date_created": "2022-03-02T13:01:59.624599-08:00",
+      "date_modified": "2022-03-02T13:01:59.624622-08:00",
+      "url": "https://trellis.law/judge/altus.w.hudson",
+      "date_accessed": "2022-03-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9447/?format=json",
+      "id": 9447,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14266/?format=json",
+      "date_created": "2022-03-02T13:01:59.633370-08:00",
+      "date_modified": "2022-03-02T13:01:59.633393-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-02",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8367/?format=json",
+      "id": 8367,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3069/?format=json",
+        "id": 3069,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "California State University-Long Beach",
+        "ein": 931150363
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14266/?format=json",
+      "date_created": "2022-03-02T13:01:59.598045-08:00",
+      "date_modified": "2022-03-02T13:01:59.598068-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1990
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8368/?format=json",
+      "id": 8368,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3119/?format=json",
+        "id": 3119,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southwestern Law School",
+        "ein": 951246140
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14266/?format=json",
+      "date_created": "2022-03-02T13:01:59.607332-08:00",
+      "date_modified": "2022-03-02T13:01:59.607354-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1994
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43954/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5975/?format=json",
+      "id": 5975,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14266/?format=json",
+      "date_created": "2022-03-02T13:01:59.584081-08:00",
+      "date_modified": "2022-03-02T13:01:59.584108-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5976/?format=json",
+      "id": 5976,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14266/?format=json",
+      "date_created": "2022-03-02T13:01:59.591071-08:00",
+      "date_modified": "2022-03-02T13:01:59.591095-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:14.721913-07:00",
+  "date_modified": "2022-03-20T15:10:53.034094-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "altus-waddell-hudson",
+  "name_first": "Altus",
+  "name_middle": "Waddell",
+  "name_last": "Hudson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

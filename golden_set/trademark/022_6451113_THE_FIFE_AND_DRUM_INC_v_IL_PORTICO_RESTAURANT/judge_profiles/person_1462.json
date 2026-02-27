@@ -1,0 +1,65 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1462/?format=json",
+  "id": 1462,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/904/?format=json",
+      "id": 904,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1462/?format=json",
+      "date_created": "2016-04-20T08:19:09.403365-07:00",
+      "date_modified": "2016-04-20T08:19:09.403388-07:00",
+      "year_rated": 1979,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/8915/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8916/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8917/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1469/?format=json",
+      "id": 1469,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1462/?format=json",
+      "date_created": "2016-04-20T08:19:09.397920-07:00",
+      "date_modified": "2016-04-20T08:19:09.397945-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1979-07-12",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:09.367156-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1049,
+  "slug": "douglas-woodruff-hillman",
+  "name_first": "Douglas",
+  "name_middle": "Woodruff",
+  "name_last": "Hillman",
+  "name_suffix": "",
+  "date_dob": "1922-02-15",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2007-02-01",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Grand Rapids",
+  "dob_state": "MI",
+  "dob_country": "United States",
+  "dod_city": "Muskegon",
+  "dod_state": "MI",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

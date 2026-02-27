@@ -1,0 +1,68 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8425/?format=json",
+  "id": 8425,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4129/?format=json",
+      "id": 4129,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8425/?format=json",
+      "date_created": "2016-04-20T08:29:08.824337-07:00",
+      "date_modified": "2016-04-20T08:29:08.824375-07:00",
+      "url": "http://www.judicial.state.sc.us/appeals/displayJudge.cfm?judgeID=1121",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6524/?format=json",
+      "id": 6524,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4812/?format=json",
+        "id": 4812,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Franklin Pierce University",
+        "ein": 20263136
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8425/?format=json",
+      "date_created": "2016-04-20T08:29:08.817579-07:00",
+      "date_modified": "2016-04-20T08:29:08.817636-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33412/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:29:08.767753-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "glen-a-huff",
+  "name_first": "Glen",
+  "name_middle": "A.",
+  "name_last": "Huff",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

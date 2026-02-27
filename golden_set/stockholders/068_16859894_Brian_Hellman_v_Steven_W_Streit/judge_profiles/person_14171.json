@@ -1,0 +1,200 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14171/?format=json",
+  "id": 14171,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6124/?format=json",
+      "id": 6124,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14171/?format=json",
+      "date_created": "2022-02-07T13:03:45.374304-08:00",
+      "date_modified": "2022-02-07T13:03:45.374330-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6125/?format=json",
+      "id": 6125,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14171/?format=json",
+      "date_created": "2022-02-07T13:03:45.378969-08:00",
+      "date_modified": "2022-02-07T13:03:45.378993-08:00",
+      "url": "https://ballotpedia.org/Fernando_Aenlle-Rocha",
+      "date_accessed": "2022-02-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6123/?format=json",
+      "id": 6123,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14171/?format=json",
+      "date_created": "2022-02-07T12:50:23.681640-08:00",
+      "date_modified": "2022-02-14T18:05:24.664252-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-14",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7029/?format=json",
+      "id": 7029,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14171/?format=json",
+      "date_created": "2022-02-14T18:05:24.667114-08:00",
+      "date_modified": "2022-02-14T18:05:24.667184-08:00",
+      "url": "https://en.wikipedia.org/wiki/Fernando_L._Aenlle-Rocha",
+      "date_accessed": "2022-02-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7030/?format=json",
+      "id": 7030,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14171/?format=json",
+      "date_created": "2022-02-14T18:05:24.669353-08:00",
+      "date_modified": "2022-02-14T18:05:24.669385-08:00",
+      "url": "https://www.bloomberg.com/profile/person/3708742",
+      "date_accessed": "2022-02-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7031/?format=json",
+      "id": 7031,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14171/?format=json",
+      "date_created": "2022-02-14T18:05:24.671005-08:00",
+      "date_modified": "2022-02-14T18:05:24.671031-08:00",
+      "url": "https://www.judiciary.senate.gov/imo/media/doc/Fernando%20Aenlle-Rocha%20SJQ%20-%20PUBLIC.pdf",
+      "date_accessed": "2022-02-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7032/?format=json",
+      "id": 7032,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14171/?format=json",
+      "date_created": "2022-02-14T18:05:24.672369-08:00",
+      "date_modified": "2022-02-14T18:05:24.672394-08:00",
+      "url": "https://trellis.law/judge/fernando.l.aenlle.rocha",
+      "date_accessed": "2022-02-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7033/?format=json",
+      "id": 7033,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14171/?format=json",
+      "date_created": "2022-02-14T18:05:24.673694-08:00",
+      "date_modified": "2022-02-14T18:05:24.673719-08:00",
+      "url": "https://www.law.berkeley.edu/spotlight/federal-bench-addition-fernando-aenlle-rocha/",
+      "date_accessed": "2022-02-14",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6982/?format=json",
+      "id": 6982,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14171/?format=json",
+      "date_created": "2022-02-07T12:50:23.644499-08:00",
+      "date_modified": "2022-02-07T12:50:23.644523-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1986
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6983/?format=json",
+      "id": 6983,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4696/?format=json",
+        "id": 4696,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Princeton University",
+        "ein": 210634501
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14171/?format=json",
+      "date_created": "2022-02-07T12:50:23.654757-08:00",
+      "date_modified": "2022-02-14T18:05:24.661830-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1983
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43855/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44253/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5033/?format=json",
+      "id": 5033,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14171/?format=json",
+      "date_created": "2022-02-07T12:50:23.662233-08:00",
+      "date_modified": "2022-02-07T12:50:23.662256-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5034/?format=json",
+      "id": 5034,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14171/?format=json",
+      "date_created": "2022-02-07T12:50:23.672169-08:00",
+      "date_modified": "2022-02-07T13:03:45.333933-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5035/?format=json",
+      "id": 5035,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14171/?format=json",
+      "date_created": "2022-02-07T13:03:45.340615-08:00",
+      "date_modified": "2022-02-07T13:03:45.340643-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:10.875886-07:00",
+  "date_modified": "2022-02-14T18:05:24.642858-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "fernando-lazoro-aenlle-rocha",
+  "name_first": "Fernando",
+  "name_middle": "Lazoro",
+  "name_last": "Aenlle-Rocha",
+  "name_suffix": "",
+  "date_dob": "1961-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Havana",
+  "dob_state": "",
+  "dob_country": "Cuba",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

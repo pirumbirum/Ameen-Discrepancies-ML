@@ -1,0 +1,133 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13078/?format=json",
+  "id": 13078,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11177/?format=json",
+      "id": 11177,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13078/?format=json",
+      "date_created": "2022-03-08T17:10:34.240863-08:00",
+      "date_modified": "2022-03-08T17:10:34.240886-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11178/?format=json",
+      "id": 11178,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13078/?format=json",
+      "date_created": "2022-03-08T17:10:34.253035-08:00",
+      "date_modified": "2022-03-08T17:10:34.253063-08:00",
+      "url": "https://ballotpedia.org/Nancy_L._Newman",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11179/?format=json",
+      "id": 11179,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13078/?format=json",
+      "date_created": "2022-03-08T17:10:34.258231-08:00",
+      "date_modified": "2022-03-08T17:10:34.258254-08:00",
+      "url": "https://www.martindale.com/attorney/nancy-louise-newman-101928/",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11180/?format=json",
+      "id": 11180,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13078/?format=json",
+      "date_created": "2022-03-08T17:10:34.266308-08:00",
+      "date_modified": "2022-03-08T17:10:34.266331-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-08",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9157/?format=json",
+      "id": 9157,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13078/?format=json",
+      "date_created": "2022-03-08T17:10:34.226633-08:00",
+      "date_modified": "2022-03-08T17:10:34.226656-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9158/?format=json",
+      "id": 9158,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3119/?format=json",
+        "id": 3119,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southwestern Law School",
+        "ein": 951246140
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13078/?format=json",
+      "date_created": "2022-03-08T17:10:34.235876-08:00",
+      "date_modified": "2022-03-08T17:10:34.235900-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42421/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6506/?format=json",
+      "id": 6506,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13078/?format=json",
+      "date_created": "2022-03-08T17:10:34.215156-08:00",
+      "date_modified": "2022-03-08T17:10:34.215181-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:21.147944-07:00",
+  "date_modified": "2022-03-21T11:46:06.352996-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "nancy-louise-newman",
+  "name_first": "Nancy",
+  "name_middle": "Louise",
+  "name_last": "Newman",
+  "name_suffix": "",
+  "date_dob": "1956-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

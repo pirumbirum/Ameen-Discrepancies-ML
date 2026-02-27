@@ -1,0 +1,79 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1616/?format=json",
+  "id": 1616,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1343/?format=json",
+      "id": 1343,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1616/?format=json",
+      "date_created": "2016-04-20T08:19:31.327832-07:00",
+      "date_modified": "2016-04-20T08:19:31.327857-07:00",
+      "degree_level": "",
+      "degree_detail": "",
+      "degree_year": 1838
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9919/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9920/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9921/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9922/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9923/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9924/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/39172/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1623/?format=json",
+      "id": 1623,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1616/?format=json",
+      "date_created": "2016-04-20T08:19:31.296728-07:00",
+      "date_modified": "2016-04-20T08:19:31.296754-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1879-12-01",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:31.264290-07:00",
+  "date_modified": "2020-11-25T08:30:15.536419-08:00",
+  "date_completed": null,
+  "fjc_id": 1164,
+  "slug": "charles-pinckney-james",
+  "name_first": "Charles",
+  "name_middle": "Pinckney",
+  "name_last": "James",
+  "name_suffix": "",
+  "date_dob": "1818-05-11",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1899-08-09",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Cincinnati",
+  "dob_state": "OH",
+  "dob_country": "United States",
+  "dod_city": "Leesburg",
+  "dod_state": "VA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

@@ -1,0 +1,79 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3211/?format=json",
+  "id": 3211,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2706/?format=json",
+      "id": 2706,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3211/?format=json",
+      "date_created": "2016-04-20T08:23:16.721265-07:00",
+      "date_modified": "2016-04-20T08:23:16.721288-07:00",
+      "degree_level": "llb",
+      "degree_detail": "LL.B.",
+      "degree_year": 1936
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/20182/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/20183/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/20184/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/20185/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/38292/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/38293/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/38294/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3227/?format=json",
+      "id": 3227,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3211/?format=json",
+      "date_created": "2016-04-20T08:23:16.672510-07:00",
+      "date_modified": "2016-04-20T08:23:16.672536-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1963-07-09",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:23:16.638097-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2373,
+  "slug": "bruce-rutherford-thompson",
+  "name_first": "Bruce",
+  "name_middle": "Rutherford",
+  "name_last": "Thompson",
+  "name_suffix": "",
+  "date_dob": "1911-07-31",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1992-02-10",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Reno",
+  "dob_state": "NV",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

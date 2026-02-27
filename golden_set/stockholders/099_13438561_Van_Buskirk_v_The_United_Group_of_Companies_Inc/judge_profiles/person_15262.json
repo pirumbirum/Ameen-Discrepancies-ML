@@ -1,0 +1,64 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15262/?format=json",
+  "id": 15262,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16126/?format=json",
+      "id": 16126,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15262/?format=json",
+      "date_created": "2022-04-22T09:29:13.744749-07:00",
+      "date_modified": "2022-04-22T09:29:13.744771-07:00",
+      "url": "https://www.nytimes.com/1984/10/28/obituaries/thomas-e-sharpe-mt-vernon-mayor.html",
+      "date_accessed": "2022-04-22",
+      "notes": "The New York Times, October 28, 1984, Section 1, Page 44."
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44808/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7913/?format=json",
+      "id": 7913,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15262/?format=json",
+      "date_created": "2022-04-22T09:29:13.741241-07:00",
+      "date_modified": "2022-04-22T09:29:13.741264-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-22T09:29:13.711632-07:00",
+  "date_modified": "2022-04-22T09:29:13.711661-07:00",
+  "date_completed": "2022-04-22T09:27:23-07:00",
+  "fjc_id": null,
+  "slug": "thomas-e-sharpe",
+  "name_first": "Thomas",
+  "name_middle": "E.",
+  "name_last": "Sharpe",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

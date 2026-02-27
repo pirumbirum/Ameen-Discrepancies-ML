@@ -1,0 +1,68 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7107/?format=json",
+  "id": 7107,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3105/?format=json",
+      "id": 3105,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7107/?format=json",
+      "date_created": "2016-04-20T08:28:01.917513-07:00",
+      "date_modified": "2016-04-20T08:28:01.917533-07:00",
+      "url": "http://judgepedia.org/Alan_Waldrop",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5873/?format=json",
+      "id": 5873,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2987/?format=json",
+        "id": 2987,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Cumberland University",
+        "ein": 620599339
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7107/?format=json",
+      "date_created": "2016-04-20T08:28:01.913128-07:00",
+      "date_modified": "2016-04-20T08:28:01.913151-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/31242/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:01.889290-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "william-m-walker",
+  "name_first": "William",
+  "name_middle": "M.",
+  "name_last": "Walker",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

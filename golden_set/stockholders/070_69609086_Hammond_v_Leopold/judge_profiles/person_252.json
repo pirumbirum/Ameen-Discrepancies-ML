@@ -1,0 +1,90 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/252/?format=json",
+  "id": 252,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/141/?format=json",
+      "id": 141,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/252/?format=json",
+      "date_created": "2016-04-20T08:16:21.761054-07:00",
+      "date_modified": "2016-04-20T08:16:21.761076-07:00",
+      "year_rated": 1994,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/186/?format=json",
+      "id": 186,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5071/?format=json",
+        "id": 5071,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Gustavus Adolphus College",
+        "ein": 410695524
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/252/?format=json",
+      "date_created": "2016-04-20T08:16:21.776875-07:00",
+      "date_modified": "2016-04-20T08:16:21.776917-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1972
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/1383/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1384/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1385/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1386/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1387/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1388/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1389/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1390/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/254/?format=json",
+      "id": 254,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/252/?format=json",
+      "date_created": "2016-04-20T08:16:21.753885-07:00",
+      "date_modified": "2016-04-20T08:16:21.753909-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1994-06-21",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:21.725420-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 156,
+  "slug": "mark-w-bennett",
+  "name_first": "Mark",
+  "name_middle": "W.",
+  "name_last": "Bennett",
+  "name_suffix": "",
+  "date_dob": "1950-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Milwaukee",
+  "dob_state": "WI",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

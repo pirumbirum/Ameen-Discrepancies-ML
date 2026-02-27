@@ -1,0 +1,127 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15686/?format=json",
+  "id": 15686,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18007/?format=json",
+      "id": 18007,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15686/?format=json",
+      "date_created": "2022-07-06T15:17:00.441702-07:00",
+      "date_modified": "2022-07-06T15:17:00.441727-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18008/?format=json",
+      "id": 18008,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15686/?format=json",
+      "date_created": "2022-07-06T15:17:00.527548-07:00",
+      "date_modified": "2022-07-06T15:17:00.527577-07:00",
+      "url": "https://ballotpedia.org/Brad_Goodwin",
+      "date_accessed": "2022-07-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18009/?format=json",
+      "id": 18009,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15686/?format=json",
+      "date_created": "2022-07-06T15:17:00.528252-07:00",
+      "date_modified": "2022-07-06T15:17:00.528264-07:00",
+      "url": "https://archive.gosanangelo.com/opinion/letters-to-the-editor/letter-goodwin-well-qualified-2be6294b-d1c2-749e-e053-0100007fc64a-369364571.html/",
+      "date_accessed": "2022-07-06",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12083/?format=json",
+      "id": 12083,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6016/?format=json",
+        "id": 6016,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Baylor University",
+        "ein": 741159753
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15686/?format=json",
+      "date_created": "2022-07-06T15:17:00.293509-07:00",
+      "date_modified": "2022-07-06T15:17:00.293526-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Business Administration",
+      "degree_year": 1989
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12084/?format=json",
+      "id": 12084,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5906/?format=json",
+        "id": 5906,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Tulsa",
+        "ein": 730579298
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15686/?format=json",
+      "date_created": "2022-07-06T15:17:00.356898-07:00",
+      "date_modified": "2022-07-06T15:17:00.356920-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1992
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50360/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50361/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50362/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50363/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50364/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8187/?format=json",
+      "id": 8187,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15686/?format=json",
+      "date_created": "2022-07-06T15:17:00.358362-07:00",
+      "date_modified": "2022-07-06T15:17:00.358375-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-06T15:16:59.881793-07:00",
+  "date_modified": "2022-07-06T15:16:59.881816-07:00",
+  "date_completed": "2022-07-06T14:56:07-07:00",
+  "fjc_id": null,
+  "slug": "ronald-brad-goodwin",
+  "name_first": "Ronald",
+  "name_middle": "Brad",
+  "name_last": "Goodwin",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

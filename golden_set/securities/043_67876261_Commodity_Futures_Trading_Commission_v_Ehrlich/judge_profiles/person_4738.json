@@ -1,0 +1,101 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4738/?format=json",
+  "id": 4738,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/933/?format=json",
+      "id": 933,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4738/?format=json",
+      "date_created": "2016-04-20T08:25:24.663086-07:00",
+      "date_modified": "2016-04-20T08:25:24.663120-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/100002440486",
+      "date_accessed": null,
+      "notes": "all sources cite a different birth day"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/934/?format=json",
+      "id": 934,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4738/?format=json",
+      "date_created": "2016-04-20T08:25:24.669121-07:00",
+      "date_modified": "2016-04-20T08:25:24.669154-07:00",
+      "url": "http://www.massreports.com/memorials/default.aspx?m=460maKaplan",
+      "date_accessed": null,
+      "notes": "all sources cite a different birth day"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3865/?format=json",
+      "id": 3865,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3902/?format=json",
+        "id": 3902,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "CUNY City College",
+        "ein": 133893536
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4738/?format=json",
+      "date_created": "2016-04-20T08:25:24.608049-07:00",
+      "date_modified": "2016-04-20T08:25:24.608081-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3866/?format=json",
+      "id": 3866,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3892/?format=json",
+        "id": 3892,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Columbia University in the City of New York",
+        "ein": 603800000
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4738/?format=json",
+      "date_created": "2016-04-20T08:25:24.624197-07:00",
+      "date_modified": "2016-04-20T08:25:24.624227-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25519/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25520/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25521/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25522/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25523/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:24.575354-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "benjamin-kaplan",
+  "name_first": "Benjamin",
+  "name_middle": "",
+  "name_last": "Kaplan",
+  "name_suffix": "",
+  "date_dob": "1911-04-08",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2010-08-19",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

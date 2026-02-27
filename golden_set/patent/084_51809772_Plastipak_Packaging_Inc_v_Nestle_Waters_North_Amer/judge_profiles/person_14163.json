@@ -1,0 +1,148 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14163/?format=json",
+  "id": 14163,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7725/?format=json",
+      "id": 7725,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14163/?format=json",
+      "date_created": "2022-02-19T16:19:25.122661-08:00",
+      "date_modified": "2022-02-19T16:19:25.122686-08:00",
+      "url": "https://www.timesheraldonline.com/2019/01/05/vallejo-woman-named-superior-court-judge-by-jerry-brown/",
+      "date_accessed": "2022-02-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7726/?format=json",
+      "id": 7726,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14163/?format=json",
+      "date_created": "2022-02-19T16:19:25.127547-08:00",
+      "date_modified": "2022-02-19T16:19:25.127572-08:00",
+      "url": "https://www.martindale.com/attorney/terrye-denise-davis-2309608/",
+      "date_accessed": "2022-02-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7727/?format=json",
+      "id": 7727,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14163/?format=json",
+      "date_created": "2022-02-19T16:19:25.131671-08:00",
+      "date_modified": "2022-02-19T16:19:25.131696-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-19",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7728/?format=json",
+      "id": 7728,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14163/?format=json",
+      "date_created": "2022-02-19T16:19:25.141023-08:00",
+      "date_modified": "2022-02-19T16:19:25.141049-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-19",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7639/?format=json",
+      "id": 7639,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2039/?format=json",
+        "id": 2039,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Fort Valley State University",
+        "ein": 586002062
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14163/?format=json",
+      "date_created": "2022-02-19T16:19:25.074071-08:00",
+      "date_modified": "2022-02-19T16:19:25.074097-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7640/?format=json",
+      "id": 7640,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5210/?format=json",
+        "id": 5210,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2025-06-15T22:32:10.957501-07:00",
+        "name": "UC Law San Francisco",
+        "ein": 942581680
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14163/?format=json",
+      "date_created": "2022-02-19T16:19:25.082819-08:00",
+      "date_modified": "2022-02-19T16:19:25.082844-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43846/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44313/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44314/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5506/?format=json",
+      "id": 5506,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14163/?format=json",
+      "date_created": "2022-02-19T16:19:25.090149-08:00",
+      "date_modified": "2022-02-19T16:19:25.090175-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5507/?format=json",
+      "id": 5507,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14163/?format=json",
+      "date_created": "2022-02-19T16:19:25.097431-08:00",
+      "date_modified": "2022-02-19T16:19:25.097457-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:10.550183-07:00",
+  "date_modified": "2022-02-19T16:19:25.053745-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "terrye-denise-davis",
+  "name_first": "Terrye",
+  "name_middle": "Denise",
+  "name_last": "Davis",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

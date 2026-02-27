@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3455/?format=json",
+  "id": 3455,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/21711/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21712/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21713/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21714/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33607/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3473/?format=json",
+      "id": 3473,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3455/?format=json",
+      "date_created": "2016-04-20T08:23:51.274502-07:00",
+      "date_modified": "2016-04-20T08:23:51.274526-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1950-01-30",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4873/?format=json",
+      "id": 4873,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3455/?format=json",
+      "date_created": "2017-01-11T13:13:36.713836-08:00",
+      "date_modified": "2017-01-11T13:13:36.713894-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1950-01-30",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:23:51.243403-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2569,
+  "slug": "george-william-whitehurst",
+  "name_first": "George",
+  "name_middle": "William",
+  "name_last": "Whitehurst",
+  "name_suffix": "",
+  "date_dob": "1891-05-18",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1974-01-13",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Wauchula",
+  "dob_state": "FL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

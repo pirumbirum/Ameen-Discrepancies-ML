@@ -1,0 +1,118 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8595/?format=json",
+  "id": 8595,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4299/?format=json",
+      "id": 4299,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8595/?format=json",
+      "date_created": "2019-09-22T15:32:08.729865-07:00",
+      "date_modified": "2019-09-22T15:32:08.729887-07:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2019-09-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2342/?format=json",
+      "id": 2342,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8595/?format=json",
+      "date_created": "2019-09-22T15:32:08.726941-07:00",
+      "date_modified": "2019-09-22T15:32:08.726966-07:00",
+      "year_rated": 2018,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6770/?format=json",
+      "id": 6770,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2328/?format=json",
+        "id": 2328,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Dartmouth College",
+        "ein": 20222111
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8595/?format=json",
+      "date_created": "2019-09-22T15:32:08.743531-07:00",
+      "date_modified": "2019-09-22T15:32:08.743557-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1998
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6771/?format=json",
+      "id": 6771,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8595/?format=json",
+      "date_created": "2019-09-22T15:32:08.756621-07:00",
+      "date_modified": "2019-09-22T15:32:08.756647-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 2002
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/34143/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34145/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34146/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34147/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34148/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34144/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4943/?format=json",
+      "id": 4943,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8595/?format=json",
+      "date_created": "2019-09-22T15:32:08.721824-07:00",
+      "date_modified": "2019-09-22T15:32:08.721849-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2018-01-24",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2019-09-22T15:32:08.683409-07:00",
+  "date_modified": "2020-11-25T08:30:22.030201-08:00",
+  "date_completed": null,
+  "fjc_id": 5197986,
+  "slug": "dominic-william-lanza",
+  "name_first": "Dominic",
+  "name_middle": "William",
+  "name_last": "Lanza",
+  "name_suffix": "",
+  "date_dob": "1976-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Seattle",
+  "dob_state": "WA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": true
+}

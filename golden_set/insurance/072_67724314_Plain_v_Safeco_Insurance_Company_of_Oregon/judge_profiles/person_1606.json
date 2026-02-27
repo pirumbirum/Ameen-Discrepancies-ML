@@ -1,0 +1,61 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1606/?format=json",
+  "id": 1606,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9852/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9853/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9854/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9855/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9856/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9857/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9858/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9859/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9860/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1613/?format=json",
+      "id": 1613,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1606/?format=json",
+      "date_created": "2016-04-20T08:19:29.876746-07:00",
+      "date_modified": "2016-04-20T08:19:29.876770-07:00",
+      "political_party": "j",
+      "source": "a",
+      "date_start": "1819-02-20",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:29.844454-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1157,
+  "slug": "john-george-jackson",
+  "name_first": "John",
+  "name_middle": "George",
+  "name_last": "Jackson",
+  "name_suffix": "",
+  "date_dob": "1777-09-22",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1825-03-28",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "near Buckhannon",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "Clarksburg",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

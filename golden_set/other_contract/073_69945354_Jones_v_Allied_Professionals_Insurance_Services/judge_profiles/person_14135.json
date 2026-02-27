@@ -1,0 +1,80 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14135/?format=json",
+  "id": 14135,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11133/?format=json",
+      "id": 11133,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14135/?format=json",
+      "date_created": "2022-03-08T16:04:10.466934-08:00",
+      "date_modified": "2022-03-08T16:04:10.466959-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11134/?format=json",
+      "id": 11134,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14135/?format=json",
+      "date_created": "2022-03-08T16:04:10.472447-08:00",
+      "date_modified": "2022-03-08T16:04:10.472481-08:00",
+      "url": "https://ballotpedia.org/Mike_Murray",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11135/?format=json",
+      "id": 11135,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14135/?format=json",
+      "date_created": "2022-03-08T16:04:10.482899-08:00",
+      "date_modified": "2022-03-08T16:04:10.482928-08:00",
+      "url": "https://trellis.law/judge/michael.f.murray",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11136/?format=json",
+      "id": 11136,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14135/?format=json",
+      "date_created": "2022-03-08T16:04:10.492457-08:00",
+      "date_modified": "2022-03-08T16:04:10.492485-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-08",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43816/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:09.445326-07:00",
+  "date_modified": "2022-03-21T11:42:09.299036-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "michael-f-murray",
+  "name_first": "Michael",
+  "name_middle": "F.",
+  "name_last": "Murray",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

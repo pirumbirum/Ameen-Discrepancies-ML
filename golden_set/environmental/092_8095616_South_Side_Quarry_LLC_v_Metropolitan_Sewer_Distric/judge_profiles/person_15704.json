@@ -1,0 +1,160 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15704/?format=json",
+  "id": 15704,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18094/?format=json",
+      "id": 18094,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15704/?format=json",
+      "date_created": "2022-07-07T14:23:27.667931-07:00",
+      "date_modified": "2022-07-07T14:23:27.667943-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-07",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18095/?format=json",
+      "id": 18095,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15704/?format=json",
+      "date_created": "2022-07-07T14:37:06.433555-07:00",
+      "date_modified": "2022-07-07T14:37:06.433570-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=2Col&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=226541",
+      "date_accessed": "2022-07-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18096/?format=json",
+      "id": 18096,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15704/?format=json",
+      "date_created": "2022-07-07T14:37:06.435014-07:00",
+      "date_modified": "2022-07-07T14:37:06.435031-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=22084&office=19663",
+      "date_accessed": "2022-07-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18097/?format=json",
+      "id": 18097,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15704/?format=json",
+      "date_created": "2022-07-07T14:37:06.436144-07:00",
+      "date_modified": "2022-07-07T14:37:06.436157-07:00",
+      "url": "https://ballotpedia.org/Oscar_J._Hale,_Jr.",
+      "date_accessed": "2022-07-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18098/?format=json",
+      "id": 18098,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15704/?format=json",
+      "date_created": "2022-07-07T14:37:06.437186-07:00",
+      "date_modified": "2022-07-07T14:37:06.437204-07:00",
+      "url": "",
+      "date_accessed": "2022-07-07",
+      "notes": "catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18099/?format=json",
+      "id": 18099,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15704/?format=json",
+      "date_created": "2022-07-07T14:37:06.438242-07:00",
+      "date_modified": "2022-07-07T14:37:06.438254-07:00",
+      "url": "https://www.webbcountytx.gov/DC406th/Biography/default.aspx",
+      "date_accessed": "2022-07-07",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12112/?format=json",
+      "id": 12112,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1296/?format=json",
+        "id": 1296,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas A & M University-College Station",
+        "ein": 746000531
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15704/?format=json",
+      "date_created": "2022-07-07T14:23:27.661430-07:00",
+      "date_modified": "2022-07-07T14:23:27.661442-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1991
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12113/?format=json",
+      "id": 12113,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2485/?format=json",
+        "id": 2485,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Southern University",
+        "ein": 746001391
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15704/?format=json",
+      "date_created": "2022-07-07T14:23:27.664358-07:00",
+      "date_modified": "2022-07-07T14:23:27.664369-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1995
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50435/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50436/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50437/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50438/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50439/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50440/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50441/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50442/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8201/?format=json",
+      "id": 8201,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15704/?format=json",
+      "date_created": "2022-07-07T14:23:27.666709-07:00",
+      "date_modified": "2022-07-07T14:23:27.666721-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-07T14:23:27.608792-07:00",
+  "date_modified": "2022-07-07T14:39:12.383325-07:00",
+  "date_completed": "2022-07-07T14:17:32-07:00",
+  "fjc_id": null,
+  "slug": "oscar-jesus-hale-jr",
+  "name_first": "Oscar",
+  "name_middle": "Jes\u00fas",
+  "name_last": "Hale",
+  "name_suffix": "jr",
+  "date_dob": "1968-05-07",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

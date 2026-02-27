@@ -1,0 +1,67 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3597/?format=json",
+  "id": 3597,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2252/?format=json",
+      "id": 2252,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3597/?format=json",
+      "date_created": "2016-04-20T08:24:11.732030-07:00",
+      "date_modified": "2016-04-20T08:24:11.732062-07:00",
+      "year_rated": 1988,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22666/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22667/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22668/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22669/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22670/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3615/?format=json",
+      "id": 3615,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3597/?format=json",
+      "date_created": "2016-04-20T08:24:11.724182-07:00",
+      "date_modified": "2016-04-20T08:24:11.724209-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1988-02-16",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:11.681853-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2686,
+  "slug": "thomas-samuel-zilly",
+  "name_first": "Thomas",
+  "name_middle": "Samuel",
+  "name_last": "Zilly",
+  "name_suffix": "",
+  "date_dob": "1935-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Detroit",
+  "dob_state": "MI",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

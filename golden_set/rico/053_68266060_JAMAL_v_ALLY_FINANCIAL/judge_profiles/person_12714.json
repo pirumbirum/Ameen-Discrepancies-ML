@@ -1,0 +1,134 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12714/?format=json",
+  "id": 12714,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7252/?format=json",
+      "id": 7252,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12714/?format=json",
+      "date_created": "2022-02-16T10:40:23.172227-08:00",
+      "date_modified": "2022-02-16T10:40:23.172252-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7319/?format=json",
+      "id": 7319,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12714/?format=json",
+      "date_created": "2022-02-16T11:33:15.652646-08:00",
+      "date_modified": "2022-02-16T16:15:54.544586-08:00",
+      "url": "https://trellis.law/judge/linda.r.clark",
+      "date_accessed": "2022-02-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7361/?format=json",
+      "id": 7361,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12714/?format=json",
+      "date_created": "2022-02-16T16:15:54.549700-08:00",
+      "date_modified": "2022-02-16T16:15:54.549742-08:00",
+      "url": "https://www.bloomberg.com/profile/person/19667260",
+      "date_accessed": "2022-02-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7362/?format=json",
+      "id": 7362,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12714/?format=json",
+      "date_created": "2022-02-16T16:15:54.556896-08:00",
+      "date_modified": "2022-02-16T16:15:54.556930-08:00",
+      "url": "https://ballotpedia.org/Linda_R._Clark",
+      "date_accessed": "2022-02-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7363/?format=json",
+      "id": 7363,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12714/?format=json",
+      "date_created": "2022-02-16T16:15:54.561243-08:00",
+      "date_modified": "2022-02-16T16:15:54.561275-08:00",
+      "url": "https://www.linkedin.com/in/linda-clark-846a2b3a/",
+      "date_accessed": "2022-02-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7364/?format=json",
+      "id": 7364,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12714/?format=json",
+      "date_created": "2022-02-16T16:15:54.569940-08:00",
+      "date_modified": "2022-02-16T16:15:54.569972-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7456/?format=json",
+      "id": 7456,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6448/?format=json",
+        "id": 6448,
+        "is_alias_of": null,
+        "date_created": "2022-02-10T16:42:28.572504-08:00",
+        "date_modified": "2022-02-10T16:42:28.572559-08:00",
+        "name": "Lincoln Law School of Sacramento",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12714/?format=json",
+      "date_created": "2022-02-16T11:33:15.623734-08:00",
+      "date_modified": "2022-02-16T11:33:15.623760-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1986
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/41825/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5380/?format=json",
+      "id": 5380,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12714/?format=json",
+      "date_created": "2022-02-16T11:33:15.633515-08:00",
+      "date_modified": "2022-02-16T11:33:15.633543-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:02.125109-07:00",
+  "date_modified": "2022-02-16T16:15:54.534699-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "linda-r-clark",
+  "name_first": "Linda",
+  "name_middle": "R.",
+  "name_last": "Clark",
+  "name_suffix": "",
+  "date_dob": "1954-09-28",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

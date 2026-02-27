@@ -1,0 +1,58 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7954/?format=json",
+  "id": 7954,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3650/?format=json",
+      "id": 3650,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7954/?format=json",
+      "date_created": "2016-04-20T08:28:40.902025-07:00",
+      "date_modified": "2016-04-20T08:28:40.902048-07:00",
+      "url": "http://judicial.alabama.gov/library/judges.cfm",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3651/?format=json",
+      "id": 3651,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7954/?format=json",
+      "date_created": "2016-04-20T08:28:40.908387-07:00",
+      "date_modified": "2016-04-20T08:28:40.908409-07:00",
+      "url": "http://en.wikipedia.org/wiki/Alabama_Court_of_Civil_Appeals",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/32730/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:40.884344-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "william-c-thompson",
+  "name_first": "William",
+  "name_middle": "C.",
+  "name_last": "Thompson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

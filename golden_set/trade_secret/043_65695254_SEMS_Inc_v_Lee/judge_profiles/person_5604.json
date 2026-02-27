@@ -1,0 +1,49 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5604/?format=json",
+  "id": 5604,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1820/?format=json",
+      "id": 1820,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5604/?format=json",
+      "date_created": "2016-04-20T08:26:32.165386-07:00",
+      "date_modified": "2016-04-20T08:26:32.165407-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/200010225331",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27980/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27981/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:32.142082-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "clarke-johnson",
+  "name_first": "Clarke",
+  "name_middle": "",
+  "name_last": "Johnson",
+  "name_suffix": "",
+  "date_dob": "1851-11-18",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1930-09-14",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,56 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3501/?format=json",
+  "id": 3501,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22017/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22018/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22019/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22020/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3520/?format=json",
+      "id": 3520,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3501/?format=json",
+      "date_created": "2016-04-20T08:23:57.675630-07:00",
+      "date_modified": "2016-04-20T08:23:57.675655-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1954-07-07",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:23:57.643430-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3315,
+  "slug": "david-john-wilson",
+  "name_first": "David",
+  "name_middle": "John",
+  "name_last": "Wilson",
+  "name_suffix": "",
+  "date_dob": "1887-10-27",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1976-04-23",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Midway",
+  "dob_state": "UT",
+  "dob_country": "United States",
+  "dod_city": "Salt Lake City",
+  "dod_state": "UT",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

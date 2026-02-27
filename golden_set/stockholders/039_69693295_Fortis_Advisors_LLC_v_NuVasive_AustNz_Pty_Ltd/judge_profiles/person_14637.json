@@ -1,0 +1,131 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14637/?format=json",
+  "id": 14637,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13774/?format=json",
+      "id": 13774,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14637/?format=json",
+      "date_created": "2022-03-31T17:33:35.074389-07:00",
+      "date_modified": "2022-03-31T17:33:35.074412-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-31",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13775/?format=json",
+      "id": 13775,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14637/?format=json",
+      "date_created": "2022-03-31T17:33:35.076594-07:00",
+      "date_modified": "2022-03-31T17:33:35.076617-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=9T8IrCxdQR1DJSbdQT1RoQ%3D%3D",
+      "date_accessed": "2022-03-31",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13776/?format=json",
+      "id": 13776,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14637/?format=json",
+      "date_created": "2022-03-31T17:33:35.077930-07:00",
+      "date_modified": "2022-03-31T17:33:35.077953-07:00",
+      "url": "https://ballotpedia.org/Phyllis_Chu",
+      "date_accessed": "2022-03-31",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13777/?format=json",
+      "id": 13777,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14637/?format=json",
+      "date_created": "2022-03-31T17:33:35.081488-07:00",
+      "date_modified": "2022-03-31T17:33:35.081511-07:00",
+      "url": "https://trellis.law/judge/phyllis.chu",
+      "date_accessed": "2022-03-31",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13778/?format=json",
+      "id": 13778,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14637/?format=json",
+      "date_created": "2022-03-31T17:33:35.082476-07:00",
+      "date_modified": "2022-03-31T17:33:35.082496-07:00",
+      "url": "https://trellis.law/judge/phyllis.chu",
+      "date_accessed": "2022-03-31",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10399/?format=json",
+      "id": 10399,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2624/?format=json",
+        "id": 2624,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Cornell University",
+        "ein": 150532082
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14637/?format=json",
+      "date_created": "2022-03-31T17:33:35.067204-07:00",
+      "date_modified": "2022-03-31T17:33:35.067228-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Economics",
+      "degree_year": 1986
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10400/?format=json",
+      "id": 10400,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/627/?format=json",
+        "id": 627,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Northeastern University",
+        "ein": 41679980
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14637/?format=json",
+      "date_created": "2022-03-31T17:33:35.072879-07:00",
+      "date_modified": "2022-03-31T17:33:35.072903-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1990
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/45299/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45300/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45301/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-03-31T17:33:35.053000-07:00",
+  "date_modified": "2022-04-27T16:46:02.395366-07:00",
+  "date_completed": "2022-04-27T16:30:38-07:00",
+  "fjc_id": null,
+  "slug": "phyllis-chu",
+  "name_first": "Phyllis",
+  "name_middle": "",
+  "name_last": "Chu",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

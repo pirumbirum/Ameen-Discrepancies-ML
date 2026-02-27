@@ -1,0 +1,60 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3219/?format=json",
+  "id": 3219,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/20216/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/20217/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/20218/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/20219/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/20220/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/20221/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/20222/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/20223/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3235/?format=json",
+      "id": 3235,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3219/?format=json",
+      "date_created": "2016-04-20T08:23:17.615888-07:00",
+      "date_modified": "2016-04-20T08:23:17.615912-07:00",
+      "political_party": "j",
+      "source": "a",
+      "date_start": "1823-12-05",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:23:17.583531-07:00",
+  "date_modified": "2020-11-25T08:30:20.825290-08:00",
+  "date_completed": null,
+  "fjc_id": 2380,
+  "slug": "smith-thompson",
+  "name_first": "Smith",
+  "name_middle": "",
+  "name_last": "Thompson",
+  "name_suffix": "",
+  "date_dob": "1768-01-17",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1843-12-18",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Amenia",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "Poughkeepsie",
+  "dod_state": "NY",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

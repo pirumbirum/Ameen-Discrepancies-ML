@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15361/?format=json",
+  "id": 15361,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16420/?format=json",
+      "id": 16420,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15361/?format=json",
+      "date_created": "2022-05-24T12:10:12.937589-07:00",
+      "date_modified": "2022-05-24T12:10:12.937634-07:00",
+      "url": "https://www.ilnd.uscourts.gov/judge-info.aspx?+q7AroZFqQJxIXbDV5X8oQ==",
+      "date_accessed": "2022-05-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16421/?format=json",
+      "id": 16421,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15361/?format=json",
+      "date_created": "2022-05-24T12:10:12.963984-07:00",
+      "date_modified": "2022-05-24T12:10:12.964015-07:00",
+      "url": "https://ballotpedia.org/Steven_Seeger",
+      "date_accessed": "2022-05-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16422/?format=json",
+      "id": 16422,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15361/?format=json",
+      "date_created": "2022-05-24T12:10:12.986544-07:00",
+      "date_modified": "2022-05-24T12:10:12.986574-07:00",
+      "url": "https://en.wikipedia.org/wiki/Steven_C._Seeger",
+      "date_accessed": "2022-05-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16423/?format=json",
+      "id": 16423,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15361/?format=json",
+      "date_created": "2022-05-24T12:10:13.011223-07:00",
+      "date_modified": "2022-05-24T12:10:13.011248-07:00",
+      "url": "https://fedsoc.org/contributors/steven-seeger",
+      "date_accessed": "2022-05-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16424/?format=json",
+      "id": 16424,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15361/?format=json",
+      "date_created": "2022-05-24T12:10:13.034827-07:00",
+      "date_modified": "2022-05-24T12:10:13.034854-07:00",
+      "url": "https://www.durbin.senate.gov/newsroom/press-releases/senate-confirms-nomination-of-steven-seeger-to-serve-as-us-district-judge-for-the-northern-district-of-illinois",
+      "date_accessed": "2022-05-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16425/?format=json",
+      "id": 16425,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15361/?format=json",
+      "date_created": "2022-05-24T12:10:13.057218-07:00",
+      "date_modified": "2022-05-24T12:10:13.057252-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Seeger-SC.%20J3.%2007.%20ILN_SPE_SR_20.pdf",
+      "date_accessed": "2022-05-24",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11574/?format=json",
+      "id": 11574,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4092/?format=json",
+        "id": 4092,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Wheaton College",
+        "ein": 42103638
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15361/?format=json",
+      "date_created": "2022-05-24T12:10:12.837911-07:00",
+      "date_modified": "2022-05-24T12:10:12.837942-07:00",
+      "degree_level": "ba",
+      "degree_detail": "summa cum laude",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11575/?format=json",
+      "id": 11575,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/161/?format=json",
+        "id": 161,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Michigan-Ann Arbor",
+        "ein": 386006309
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15361/?format=json",
+      "date_created": "2022-05-24T12:10:12.913409-07:00",
+      "date_modified": "2022-05-24T12:10:12.913457-07:00",
+      "degree_level": "jd",
+      "degree_detail": "magna cum laude",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47872/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47873/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47874/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47875/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7965/?format=json",
+      "id": 7965,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15361/?format=json",
+      "date_created": "2022-05-24T12:19:22.218592-07:00",
+      "date_modified": "2022-05-24T12:19:22.218630-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-05-24T11:12:26.375283-07:00",
+  "date_modified": "2022-05-24T12:21:28.494417-07:00",
+  "date_completed": "2022-05-24T11:12:16-07:00",
+  "fjc_id": null,
+  "slug": "steven-c-seeger",
+  "name_first": "Steven",
+  "name_middle": "C.",
+  "name_last": "Seeger",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

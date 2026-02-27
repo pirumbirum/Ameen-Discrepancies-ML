@@ -1,0 +1,78 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2868/?format=json",
+  "id": 2868,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2401/?format=json",
+      "id": 2401,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2868/?format=json",
+      "date_created": "2016-04-20T08:22:28.178465-07:00",
+      "date_modified": "2016-04-20T08:22:28.178502-07:00",
+      "degree_level": "llb",
+      "degree_detail": "LL.B.",
+      "degree_year": 1883
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/18016/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18017/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18018/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18019/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18020/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18021/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2877/?format=json",
+      "id": 2877,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2868/?format=json",
+      "date_created": "2016-04-20T08:22:28.125310-07:00",
+      "date_modified": "2016-04-20T08:22:28.125360-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1911-05-25",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:28.092636-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2117,
+  "slug": "william-schofield",
+  "name_first": "William",
+  "name_middle": "",
+  "name_last": "Schofield",
+  "name_suffix": "",
+  "date_dob": "1857-02-14",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1912-06-10",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Dudley",
+  "dob_state": "MA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,79 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1100/?format=json",
+  "id": 1100,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/897/?format=json",
+      "id": 897,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3858/?format=json",
+        "id": 3858,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tulane University of Louisiana",
+        "ein": 720423889
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1100/?format=json",
+      "date_created": "2016-04-20T08:18:17.227975-07:00",
+      "date_modified": "2016-04-20T08:18:17.228000-07:00",
+      "degree_level": "llb",
+      "degree_detail": "LL.B.",
+      "degree_year": 1895
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/6671/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6672/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6673/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6674/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6675/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6676/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6677/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1105/?format=json",
+      "id": 1105,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1100/?format=json",
+      "date_created": "2016-04-20T08:18:17.180936-07:00",
+      "date_modified": "2016-04-20T08:18:17.180959-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1909-01-22",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:17.150012-07:00",
+  "date_modified": "2020-11-25T08:30:13.006698-08:00",
+  "date_completed": null,
+  "fjc_id": 785,
+  "slug": "rufus-edward-foster",
+  "name_first": "Rufus",
+  "name_middle": "Edward",
+  "name_last": "Foster",
+  "name_suffix": "",
+  "date_dob": "1871-05-22",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1942-08-23",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Mathews County",
+  "dob_state": "VA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

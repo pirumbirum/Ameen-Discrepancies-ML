@@ -1,0 +1,320 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+  "id": 13492,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10195/?format=json",
+      "id": 10195,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.836414-08:00",
+      "date_modified": "2022-03-06T17:23:16.836439-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10196/?format=json",
+      "id": 10196,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.841088-08:00",
+      "date_modified": "2022-03-06T17:23:16.841111-08:00",
+      "url": "https://www.martindale.com/attorney/jayne-chong-soon-lee-300537448/",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10197/?format=json",
+      "id": 10197,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.845266-08:00",
+      "date_modified": "2022-03-06T17:23:16.845289-08:00",
+      "url": "https://ballotpedia.org/Jayne_Lee",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10198/?format=json",
+      "id": 10198,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.849398-08:00",
+      "date_modified": "2022-03-06T17:23:16.849421-08:00",
+      "url": "https://trellis.law/judge-dashboard/2218/bio",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10199/?format=json",
+      "id": 10199,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.853389-08:00",
+      "date_modified": "2022-03-06T17:23:16.853412-08:00",
+      "url": "https://www.pli.edu/faculty/Jayne-Chong-Soon-Lee-19354",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10200/?format=json",
+      "id": 10200,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.863340-08:00",
+      "date_modified": "2022-03-06T17:23:16.863366-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-06",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10201/?format=json",
+      "id": 10201,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.936736-08:00",
+      "date_modified": "2022-03-06T17:23:16.936759-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10202/?format=json",
+      "id": 10202,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.941270-08:00",
+      "date_modified": "2022-03-06T17:23:16.941292-08:00",
+      "url": "https://www.martindale.com/attorney/jayne-chong-soon-lee-300537448/",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10203/?format=json",
+      "id": 10203,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.945351-08:00",
+      "date_modified": "2022-03-06T17:23:16.945375-08:00",
+      "url": "https://ballotpedia.org/Jayne_Lee",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10204/?format=json",
+      "id": 10204,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.949882-08:00",
+      "date_modified": "2022-03-06T17:23:16.949905-08:00",
+      "url": "https://trellis.law/judge-dashboard/2218/bio",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10205/?format=json",
+      "id": 10205,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.957462-08:00",
+      "date_modified": "2022-03-06T17:23:16.957485-08:00",
+      "url": "https://www.pli.edu/faculty/Jayne-Chong-Soon-Lee-19354",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8709/?format=json",
+      "id": 8709,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.801564-08:00",
+      "date_modified": "2022-03-06T17:23:16.801588-08:00",
+      "degree_level": "llb",
+      "degree_detail": "",
+      "degree_year": 1986
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8710/?format=json",
+      "id": 8710,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.810091-08:00",
+      "date_modified": "2022-03-06T17:23:16.810116-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1991
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8711/?format=json",
+      "id": 8711,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.817409-08:00",
+      "date_modified": "2022-03-06T17:23:16.817434-08:00",
+      "degree_level": "llm",
+      "degree_detail": "1993",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8712/?format=json",
+      "id": 8712,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.908563-08:00",
+      "date_modified": "2022-03-06T17:23:16.908592-08:00",
+      "degree_level": "llb",
+      "degree_detail": "",
+      "degree_year": 1986
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8713/?format=json",
+      "id": 8713,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.916542-08:00",
+      "date_modified": "2022-03-06T17:23:16.916565-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1991
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8714/?format=json",
+      "id": 8714,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.923554-08:00",
+      "date_modified": "2022-03-06T17:23:16.923576-08:00",
+      "degree_level": "llm",
+      "degree_detail": "1993",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43018/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44451/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44452/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6204/?format=json",
+      "id": 6204,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.787441-08:00",
+      "date_modified": "2022-03-06T17:23:16.787467-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6205/?format=json",
+      "id": 6205,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.794937-08:00",
+      "date_modified": "2022-03-06T17:23:16.794961-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6206/?format=json",
+      "id": 6206,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.894454-08:00",
+      "date_modified": "2022-03-06T17:23:16.894492-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6207/?format=json",
+      "id": 6207,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13492/?format=json",
+      "date_created": "2022-03-06T17:23:16.901294-08:00",
+      "date_modified": "2022-03-06T17:23:16.901317-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:41.033538-07:00",
+  "date_modified": "2022-03-20T19:02:28.338765-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jayne-chong-soon-lee",
+  "name_first": "Jayne",
+  "name_middle": "Chong-Soon",
+  "name_last": "Lee",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

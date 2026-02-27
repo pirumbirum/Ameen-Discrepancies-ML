@@ -1,0 +1,67 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/807/?format=json",
+  "id": 807,
+  "race": [
+    "h"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/482/?format=json",
+      "id": 482,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/807/?format=json",
+      "date_created": "2016-04-20T08:17:39.061812-07:00",
+      "date_modified": "2016-04-20T08:17:39.061831-07:00",
+      "year_rated": 2011,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/4875/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4876/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4877/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4878/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/42194/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/812/?format=json",
+      "id": 812,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/807/?format=json",
+      "date_created": "2016-04-20T08:17:39.053951-07:00",
+      "date_modified": "2016-04-20T08:17:39.053993-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2011-01-05",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:39.023593-07:00",
+  "date_modified": "2020-11-25T08:30:18.808672-08:00",
+  "date_completed": null,
+  "fjc_id": 3356,
+  "slug": "edward-john-davila",
+  "name_first": "Edward",
+  "name_middle": "John",
+  "name_last": "Davila",
+  "name_suffix": "",
+  "date_dob": "1952-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Palo Alto",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

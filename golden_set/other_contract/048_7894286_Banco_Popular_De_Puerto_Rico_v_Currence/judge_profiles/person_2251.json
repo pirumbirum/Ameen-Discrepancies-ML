@@ -1,0 +1,110 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2251/?format=json",
+  "id": 2251,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1386/?format=json",
+      "id": 1386,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2251/?format=json",
+      "date_created": "2016-04-20T08:21:02.818607-07:00",
+      "date_modified": "2016-04-20T08:21:02.818630-07:00",
+      "year_rated": 1973,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1864/?format=json",
+      "id": 1864,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4176/?format=json",
+        "id": 4176,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Creighton University",
+        "ein": 470376583
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2251/?format=json",
+      "date_created": "2016-04-20T08:21:02.844506-07:00",
+      "date_modified": "2016-04-20T08:21:02.844530-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1938
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1865/?format=json",
+      "id": 1865,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6042/?format=json",
+        "id": 6042,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Catholic University of America",
+        "ein": 530196583
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2251/?format=json",
+      "date_created": "2016-04-20T08:21:02.859140-07:00",
+      "date_modified": "2016-04-20T08:21:02.859163-07:00",
+      "degree_level": "ma",
+      "degree_detail": "A.M.",
+      "degree_year": 1939
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14076/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14077/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14078/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14075/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14079/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14080/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14081/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14082/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14083/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2258/?format=json",
+      "id": 2258,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2251/?format=json",
+      "date_created": "2016-04-20T08:21:02.813360-07:00",
+      "date_modified": "2016-04-20T08:21:02.813387-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1973-06-28",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:02.781995-07:00",
+  "date_modified": "2020-11-25T08:30:19.818091-08:00",
+  "date_completed": null,
+  "fjc_id": 1644,
+  "slug": "jack-richard-miller",
+  "name_first": "Jack",
+  "name_middle": "Richard",
+  "name_last": "Miller",
+  "name_suffix": "",
+  "date_dob": "1916-06-06",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1994-08-29",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Chicago",
+  "dob_state": "IL",
+  "dob_country": "United States",
+  "dod_city": "Temple Terrace",
+  "dod_state": "FL",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

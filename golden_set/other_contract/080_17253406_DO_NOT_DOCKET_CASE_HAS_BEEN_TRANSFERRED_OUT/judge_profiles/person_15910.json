@@ -1,0 +1,136 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15910/?format=json",
+  "id": 15910,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19134/?format=json",
+      "id": 19134,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15910/?format=json",
+      "date_created": "2022-07-22T10:16:09.404795-07:00",
+      "date_modified": "2022-07-22T10:16:09.404806-07:00",
+      "url": "https://ballotpedia.org/Arturo_Nelson",
+      "date_accessed": "2022-07-22",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19135/?format=json",
+      "id": 19135,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15910/?format=json",
+      "date_created": "2022-07-22T10:16:09.405497-07:00",
+      "date_modified": "2022-07-22T10:16:09.405509-07:00",
+      "url": "https://trellis.law/judge/arturo.c.nelson",
+      "date_accessed": "2022-07-22",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19136/?format=json",
+      "id": 19136,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15910/?format=json",
+      "date_created": "2022-07-22T10:16:09.406271-07:00",
+      "date_modified": "2022-07-22T10:16:09.406287-07:00",
+      "url": "",
+      "date_accessed": "2022-07-22",
+      "notes": "catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19137/?format=json",
+      "id": 19137,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15910/?format=json",
+      "date_created": "2022-07-22T10:37:59.369226-07:00",
+      "date_modified": "2022-07-22T10:37:59.369238-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=21943&office=19473",
+      "date_accessed": "2022-07-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12400/?format=json",
+      "id": 12400,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/161/?format=json",
+        "id": 161,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Michigan-Ann Arbor",
+        "ein": 386006309
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15910/?format=json",
+      "date_created": "2022-07-22T10:16:09.383429-07:00",
+      "date_modified": "2022-07-22T10:18:24.451070-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1979
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12401/?format=json",
+      "id": 12401,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2794/?format=json",
+        "id": 2794,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas A & M University-Kingsville",
+        "ein": 746001530
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15910/?format=json",
+      "date_created": "2022-07-22T10:16:09.390616-07:00",
+      "date_modified": "2022-07-22T10:18:24.456256-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1973
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51286/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51287/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51288/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51289/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8332/?format=json",
+      "id": 8332,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15910/?format=json",
+      "date_created": "2022-07-22T10:16:09.392541-07:00",
+      "date_modified": "2022-07-22T10:16:09.392553-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-22T10:16:09.309042-07:00",
+  "date_modified": "2022-07-22T10:37:59.313683-07:00",
+  "date_completed": "2022-07-22T10:14:36-07:00",
+  "fjc_id": null,
+  "slug": "arturo-cisneros-nelson",
+  "name_first": "Arturo",
+  "name_middle": "Cisneros",
+  "name_last": "Nelson",
+  "name_suffix": "",
+  "date_dob": "1949-03-18",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,123 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14649/?format=json",
+  "id": 14649,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13823/?format=json",
+      "id": 13823,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14649/?format=json",
+      "date_created": "2022-04-01T09:55:20.157560-07:00",
+      "date_modified": "2022-04-01T09:55:20.157583-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-01",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13824/?format=json",
+      "id": 13824,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14649/?format=json",
+      "date_created": "2022-04-01T09:55:20.159291-07:00",
+      "date_modified": "2022-04-01T09:55:20.159314-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=prRiyg1sITppLNV4FjD_PLUS_lg%3D%3D",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13825/?format=json",
+      "id": 13825,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14649/?format=json",
+      "date_created": "2022-04-01T09:55:20.160386-07:00",
+      "date_modified": "2022-04-01T09:55:20.160409-07:00",
+      "url": "https://ww2.nycourts.gov/courts/comdiv/ny/newyork_bio_Cohen.shtml",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13826/?format=json",
+      "id": 13826,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14649/?format=json",
+      "date_created": "2022-04-01T09:55:20.161569-07:00",
+      "date_modified": "2022-04-01T09:55:20.161592-07:00",
+      "url": "https://trellis.law/judge/joel.m.cohen",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10421/?format=json",
+      "id": 10421,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6053/?format=json",
+        "id": 6053,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Georgetown University",
+        "ein": 530196603
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14649/?format=json",
+      "date_created": "2022-04-01T09:55:20.151141-07:00",
+      "date_modified": "2022-04-01T09:55:20.151165-07:00",
+      "degree_level": "jd",
+      "degree_detail": "summa cum laude",
+      "degree_year": 1986
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10422/?format=json",
+      "id": 10422,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5997/?format=json",
+        "id": 5997,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "SUNY at Binghamton",
+        "ein": 146013200
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14649/?format=json",
+      "date_created": "2022-04-01T09:55:20.156098-07:00",
+      "date_modified": "2022-04-01T09:55:20.156121-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Economics",
+      "degree_year": 1983
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/45356/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45357/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45358/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45360/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45359/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-04-01T09:55:20.137048-07:00",
+  "date_modified": "2022-04-28T09:09:49.067053-07:00",
+  "date_completed": "2022-04-28T08:59:16-07:00",
+  "fjc_id": null,
+  "slug": "joel-m-cohen",
+  "name_first": "Joel",
+  "name_middle": "M.",
+  "name_last": "Cohen",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

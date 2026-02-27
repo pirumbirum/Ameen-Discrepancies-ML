@@ -1,0 +1,149 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14702/?format=json",
+  "id": 14702,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14053/?format=json",
+      "id": 14053,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14702/?format=json",
+      "date_created": "2022-04-02T15:45:05.189061-07:00",
+      "date_modified": "2022-04-02T15:45:05.189101-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-02",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14054/?format=json",
+      "id": 14054,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14702/?format=json",
+      "date_created": "2022-04-02T15:45:05.191304-07:00",
+      "date_modified": "2022-04-02T15:45:05.191341-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=DebYb81EAxKYwRzFNrQ1Xw%3D%3D",
+      "date_accessed": "2022-04-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14055/?format=json",
+      "id": 14055,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14702/?format=json",
+      "date_created": "2022-04-02T15:45:05.192833-07:00",
+      "date_modified": "2022-04-02T15:45:05.192869-07:00",
+      "url": "https://hunter.cuny.edu/event/representation-and-justice-african-american-women-in-the-judiciary/",
+      "date_accessed": "2022-04-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14056/?format=json",
+      "id": 14056,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14702/?format=json",
+      "date_created": "2022-04-02T15:45:05.194409-07:00",
+      "date_modified": "2022-04-02T15:45:05.194446-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/New_York_City_Criminal_Court,_New_York_County/Erika_Edwards/Erika_Edwards-50000115.xml",
+      "date_accessed": "2022-04-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14057/?format=json",
+      "id": 14057,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14702/?format=json",
+      "date_created": "2022-04-02T15:45:05.196277-07:00",
+      "date_modified": "2022-04-02T15:45:05.196314-07:00",
+      "url": "https://ballotpedia.org/Erika_M._Edwards",
+      "date_accessed": "2022-04-02",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10523/?format=json",
+      "id": 10523,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5947/?format=json",
+        "id": 5947,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Pennsylvania State University-Main Campus",
+        "ein": 246000376
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14702/?format=json",
+      "date_created": "2022-04-02T15:45:05.173949-07:00",
+      "date_modified": "2022-04-02T15:45:05.173984-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1990
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10524/?format=json",
+      "id": 10524,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6056/?format=json",
+        "id": 6056,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Howard University",
+        "ein": 530204707
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14702/?format=json",
+      "date_created": "2022-04-02T15:45:05.182571-07:00",
+      "date_modified": "2022-04-02T15:45:05.182620-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1993
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/45690/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45691/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45692/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45693/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45694/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45695/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45696/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7344/?format=json",
+      "id": 7344,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14702/?format=json",
+      "date_created": "2022-04-02T15:45:05.186760-07:00",
+      "date_modified": "2022-04-02T15:45:05.186801-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-02T15:45:05.052016-07:00",
+  "date_modified": "2022-04-29T16:58:38.529482-07:00",
+  "date_completed": "2022-04-29T16:44:29-07:00",
+  "fjc_id": null,
+  "slug": "erika-m-edwards",
+  "name_first": "Erika",
+  "name_middle": "M.",
+  "name_last": "Edwards",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

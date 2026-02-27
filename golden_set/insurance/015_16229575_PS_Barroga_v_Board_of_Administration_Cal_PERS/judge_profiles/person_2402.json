@@ -1,0 +1,57 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2402/?format=json",
+  "id": 2402,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14986/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14987/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14988/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14989/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14990/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2409/?format=json",
+      "id": 2409,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2402/?format=json",
+      "date_created": "2016-04-20T08:21:23.325065-07:00",
+      "date_modified": "2016-04-20T08:21:23.325089-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1886-12-09",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:23.284415-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1757,
+  "slug": "william-truslow-newman",
+  "name_first": "William",
+  "name_middle": "Truslow",
+  "name_last": "Newman",
+  "name_suffix": "",
+  "date_dob": "1843-06-23",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1920-02-14",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "near Knoxville",
+  "dob_state": "TN",
+  "dob_country": "United States",
+  "dod_city": "Atlanta",
+  "dod_state": "GA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

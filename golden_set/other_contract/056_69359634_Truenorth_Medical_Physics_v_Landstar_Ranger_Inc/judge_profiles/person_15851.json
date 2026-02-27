@@ -1,0 +1,203 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15851/?format=json",
+  "id": 15851,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18839/?format=json",
+      "id": 18839,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15851/?format=json",
+      "date_created": "2022-07-19T11:05:12.614652-07:00",
+      "date_modified": "2022-07-19T11:05:12.614664-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-19",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18840/?format=json",
+      "id": 18840,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15851/?format=json",
+      "date_created": "2022-07-19T11:07:21.918632-07:00",
+      "date_modified": "2022-07-19T11:07:21.918655-07:00",
+      "url": "https://www.justex.net/Courts/Civil/CivilCourt.aspx?crt=9",
+      "date_accessed": null,
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18841/?format=json",
+      "id": 18841,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15851/?format=json",
+      "date_created": "2022-07-19T11:07:21.920008-07:00",
+      "date_modified": "2022-07-19T11:07:21.920020-07:00",
+      "url": "https://ballotpedia.org/Jaclanel_McFarland",
+      "date_accessed": "2022-07-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18842/?format=json",
+      "id": 18842,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15851/?format=json",
+      "date_created": "2022-07-19T11:07:21.921196-07:00",
+      "date_modified": "2022-07-19T11:07:21.921212-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=34020&office=23330",
+      "date_accessed": "2022-07-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18843/?format=json",
+      "id": 18843,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15851/?format=json",
+      "date_created": "2022-07-19T11:07:21.922355-07:00",
+      "date_modified": "2022-07-19T11:07:21.922366-07:00",
+      "url": "https://trellis.law/judge/jaclanel.mcfarland",
+      "date_accessed": "2022-07-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18844/?format=json",
+      "id": 18844,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15851/?format=json",
+      "date_created": "2022-07-19T11:07:21.923491-07:00",
+      "date_modified": "2022-07-19T11:07:21.923502-07:00",
+      "url": "http://www.houston-opinions.com/Hon-McFarland-Jaclanel-Moore-133rd-District-Court-Judge-Harris-County-Texas.html",
+      "date_accessed": "2022-07-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18845/?format=json",
+      "id": 18845,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15851/?format=json",
+      "date_created": "2022-07-19T11:07:21.924672-07:00",
+      "date_modified": "2022-07-19T11:07:21.924687-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=178602",
+      "date_accessed": "2022-07-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18846/?format=json",
+      "id": 18846,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15851/?format=json",
+      "date_created": "2022-07-19T11:07:21.925867-07:00",
+      "date_modified": "2022-07-19T11:07:21.925880-07:00",
+      "url": "https://www.martindale.com/attorney/judge-jaclanel-moore-mcfarland-1678648/",
+      "date_accessed": "2022-07-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18847/?format=json",
+      "id": 18847,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15851/?format=json",
+      "date_created": "2022-07-19T11:07:21.927037-07:00",
+      "date_modified": "2022-07-19T11:07:21.927048-07:00",
+      "url": "",
+      "date_accessed": "2022-07-19",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12316/?format=json",
+      "id": 12316,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6016/?format=json",
+        "id": 6016,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Baylor University",
+        "ein": 741159753
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15851/?format=json",
+      "date_created": "2022-07-19T11:05:12.580312-07:00",
+      "date_modified": "2022-07-19T11:05:12.580336-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1974
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12317/?format=json",
+      "id": 12317,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6016/?format=json",
+        "id": 6016,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Baylor University",
+        "ein": 741159753
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15851/?format=json",
+      "date_created": "2022-07-19T11:05:12.606650-07:00",
+      "date_modified": "2022-07-19T11:05:12.606667-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1977
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12318/?format=json",
+      "id": 12318,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6345/?format=json",
+        "id": 6345,
+        "is_alias_of": null,
+        "date_created": "2019-06-30T07:36:14.863039-07:00",
+        "date_modified": "2019-07-07T06:06:58.288860-07:00",
+        "name": "University of Oxford",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15851/?format=json",
+      "date_created": "2022-07-19T11:12:31.475950-07:00",
+      "date_modified": "2022-07-19T11:12:31.476029-07:00",
+      "degree_level": "ma",
+      "degree_detail": "Comparative Constitutional Development",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51029/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51030/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51031/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51032/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8293/?format=json",
+      "id": 8293,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15851/?format=json",
+      "date_created": "2022-07-19T11:05:12.609233-07:00",
+      "date_modified": "2022-07-19T11:05:12.609246-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-19T11:05:12.522976-07:00",
+  "date_modified": "2022-07-19T11:21:36.560604-07:00",
+  "date_completed": "2022-07-19T11:02:40-07:00",
+  "fjc_id": null,
+  "slug": "jaclanel-moore-mcfarland",
+  "name_first": "Jaclanel",
+  "name_middle": "Moore",
+  "name_last": "McFarland",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Houston",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

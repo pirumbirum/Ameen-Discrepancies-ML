@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13860/?format=json",
+  "id": 13860,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11846/?format=json",
+      "id": 11846,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13860/?format=json",
+      "date_created": "2022-03-10T17:59:19.965764-08:00",
+      "date_modified": "2022-03-10T17:59:19.965799-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-10",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11847/?format=json",
+      "id": 11847,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13860/?format=json",
+      "date_created": "2022-03-10T17:59:19.970556-08:00",
+      "date_modified": "2022-03-10T17:59:19.970579-08:00",
+      "url": "https://ballotpedia.org/Gilbert_A._Romero",
+      "date_accessed": "2022-03-10",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11848/?format=json",
+      "id": 11848,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13860/?format=json",
+      "date_created": "2022-03-10T17:59:19.974704-08:00",
+      "date_modified": "2022-03-10T17:59:19.974727-08:00",
+      "url": "https://www.martindale.com/attorney/gilbert-ayala-romero-2309655/",
+      "date_accessed": "2022-03-10",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11849/?format=json",
+      "id": 11849,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13860/?format=json",
+      "date_created": "2022-03-10T17:59:19.981627-08:00",
+      "date_modified": "2022-03-10T17:59:19.981650-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-10",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9484/?format=json",
+      "id": 9484,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4091/?format=json",
+        "id": 4091,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "California State University-Northridge",
+        "ein": 946001347
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13860/?format=json",
+      "date_created": "2022-03-10T17:59:19.951365-08:00",
+      "date_modified": "2022-03-10T17:59:19.951389-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1985
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9485/?format=json",
+      "id": 9485,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5210/?format=json",
+        "id": 5210,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2025-06-15T22:32:10.957501-07:00",
+        "name": "UC Law San Francisco",
+        "ein": 942581680
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13860/?format=json",
+      "date_created": "2022-03-10T17:59:19.961415-08:00",
+      "date_modified": "2022-03-10T17:59:19.961438-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1998
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43500/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6733/?format=json",
+      "id": 6733,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13860/?format=json",
+      "date_created": "2022-03-10T17:59:19.937890-08:00",
+      "date_modified": "2022-03-10T17:59:19.937919-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6734/?format=json",
+      "id": 6734,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13860/?format=json",
+      "date_created": "2022-03-10T17:59:19.944631-08:00",
+      "date_modified": "2022-03-10T17:59:19.944653-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:57.757602-07:00",
+  "date_modified": "2022-03-21T14:41:35.777944-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "gilbert-ayala-romero",
+  "name_first": "Gilbert",
+  "name_middle": "Ayala",
+  "name_last": "Romero",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

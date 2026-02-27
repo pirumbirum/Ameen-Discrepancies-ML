@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/9956/?format=json",
+  "id": 9956,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/5745/?format=json",
+      "id": 5745,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9956/?format=json",
+      "date_created": "2020-08-11T13:14:11.602000-07:00",
+      "date_modified": "2020-08-11T13:14:11.602000-07:00",
+      "url": "",
+      "date_accessed": null,
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/36052/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2020-08-11T13:14:11.554000-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "dwight-h-williams",
+  "name_first": "Dwight",
+  "name_middle": "H",
+  "name_last": "Williams",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

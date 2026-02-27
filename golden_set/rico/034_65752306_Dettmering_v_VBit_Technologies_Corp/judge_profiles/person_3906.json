@@ -1,0 +1,113 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3906/?format=json",
+  "id": 3906,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/74/?format=json",
+      "id": 74,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3906/?format=json",
+      "date_created": "2016-04-20T08:24:29.231800-07:00",
+      "date_modified": "2016-04-20T08:24:29.231819-07:00",
+      "url": "http://www.gettyimages.com/detail/news-photo/supreme-court-justice-sworn-in-chief-justice-edward-e-news-photo/162112053",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/75/?format=json",
+      "id": 75,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3906/?format=json",
+      "date_created": "2016-04-20T08:24:29.237253-07:00",
+      "date_modified": "2016-04-20T08:24:29.237272-07:00",
+      "url": "https://books.google.com/books?id=eocJri1hnRYC&pg=PA1121&lpg=PA1121&dq=frank+h.+hall+colorado+supreme+court+university+harvard&source=bl&ots=YnR2IqzQ9x&sig=Ba3yNyU4GhGXc5gZiRSZeUd_XRc&hl=en&sa=X&ei=e-ZDVafiGo24ogS6zICIDw&ved=0CC8Q6AEwAw#v=onepage&q=frank%20h.%20hall%20colorado%20supreme%20court%20university%20harvard&f=false",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3245/?format=json",
+      "id": 3245,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1306/?format=json",
+        "id": 1306,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Colorado College",
+        "ein": 840402510
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3906/?format=json",
+      "date_created": "2016-04-20T08:24:29.191990-07:00",
+      "date_modified": "2016-04-20T08:24:29.192013-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3246/?format=json",
+      "id": 3246,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3906/?format=json",
+      "date_created": "2016-04-20T08:24:29.205318-07:00",
+      "date_modified": "2016-04-20T08:24:29.205353-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23367/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23368/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23369/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3752/?format=json",
+      "id": 3752,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3906/?format=json",
+      "date_created": "2016-04-20T08:24:29.226297-07:00",
+      "date_modified": "2016-04-20T08:24:29.226319-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:29.168016-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "frank-h-hall",
+  "name_first": "Frank",
+  "name_middle": "H.",
+  "name_last": "Hall",
+  "name_suffix": "",
+  "date_dob": "1890-08-14",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1964-12-02",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

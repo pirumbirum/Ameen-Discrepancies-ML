@@ -1,0 +1,87 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2491/?format=json",
+  "id": 2491,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1541/?format=json",
+      "id": 1541,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2491/?format=json",
+      "date_created": "2016-04-20T08:21:35.909866-07:00",
+      "date_modified": "2016-04-20T08:21:35.909895-07:00",
+      "year_rated": 1997,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2077/?format=json",
+      "id": 2077,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5979/?format=json",
+        "id": 5979,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Valparaiso University",
+        "ein": 350868125
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2491/?format=json",
+      "date_created": "2016-04-20T08:21:35.924791-07:00",
+      "date_modified": "2016-04-20T08:21:35.924825-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1976
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/15556/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15557/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15558/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15559/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15560/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2498/?format=json",
+      "id": 2498,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2491/?format=json",
+      "date_created": "2016-04-20T08:21:35.904072-07:00",
+      "date_modified": "2016-04-20T08:21:35.904104-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1997-07-31",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:35.870346-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2802,
+  "slug": "rebecca-r-pallmeyer",
+  "name_first": "Rebecca",
+  "name_middle": "R.",
+  "name_last": "Pallmeyer",
+  "name_suffix": "",
+  "date_dob": "1954-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Tokyo",
+  "dob_state": "",
+  "dob_country": "Japan",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

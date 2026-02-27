@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14321/?format=json",
+  "id": 14321,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9823/?format=json",
+      "id": 9823,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14321/?format=json",
+      "date_created": "2022-03-03T17:12:42.194361-08:00",
+      "date_modified": "2022-03-03T17:12:42.194387-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-03",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9824/?format=json",
+      "id": 9824,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14321/?format=json",
+      "date_created": "2022-03-03T17:12:42.201523-08:00",
+      "date_modified": "2022-03-03T17:12:42.201550-08:00",
+      "url": "https://ballotpedia.org/Michael_Kelley_(California)",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9825/?format=json",
+      "id": 9825,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14321/?format=json",
+      "date_created": "2022-03-03T17:12:42.210226-08:00",
+      "date_modified": "2022-03-03T17:12:42.210258-08:00",
+      "url": "https://www.martindale.com/attorney/michael-cornell-kelley-147032/",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9826/?format=json",
+      "id": 9826,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14321/?format=json",
+      "date_created": "2022-03-03T17:12:42.214513-08:00",
+      "date_modified": "2022-03-03T17:12:42.214537-08:00",
+      "url": "https://trellis.law/judge/michael.c.kelley",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9827/?format=json",
+      "id": 9827,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14321/?format=json",
+      "date_created": "2022-03-03T17:12:42.223184-08:00",
+      "date_modified": "2022-03-03T17:12:42.223222-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-03",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8541/?format=json",
+      "id": 8541,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3117/?format=json",
+        "id": 3117,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Southern California",
+        "ein": 951642394
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14321/?format=json",
+      "date_created": "2022-03-03T17:12:42.180904-08:00",
+      "date_modified": "2022-03-03T17:12:42.180930-08:00",
+      "degree_level": "ba",
+      "degree_detail": "summa cum laude",
+      "degree_year": 1976
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8542/?format=json",
+      "id": 8542,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14321/?format=json",
+      "date_created": "2022-03-03T17:12:42.189712-08:00",
+      "date_modified": "2022-03-03T17:12:42.189755-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1979
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44011/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6093/?format=json",
+      "id": 6093,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14321/?format=json",
+      "date_created": "2022-03-03T17:12:42.167059-08:00",
+      "date_modified": "2022-03-03T17:12:42.167089-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6094/?format=json",
+      "id": 6094,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14321/?format=json",
+      "date_created": "2022-03-03T17:12:42.173494-08:00",
+      "date_modified": "2022-03-03T17:12:42.173520-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:16.914235-07:00",
+  "date_modified": "2022-03-20T16:12:41.422014-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "michael-cornell-kelley",
+  "name_first": "Michael",
+  "name_middle": "Cornell",
+  "name_last": "Kelley",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

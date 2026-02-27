@@ -1,0 +1,102 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4008/?format=json",
+  "id": 4008,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/107/?format=json",
+      "id": 107,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4008/?format=json",
+      "date_created": "2016-04-20T08:24:35.256728-07:00",
+      "date_modified": "2016-04-20T08:24:35.256747-07:00",
+      "url": "https://ballotpedia.org/Myron_Steele",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3342/?format=json",
+      "id": 3342,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1024/?format=json",
+        "id": 1024,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Virginia-Main Campus",
+        "ein": 546001796
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4008/?format=json",
+      "date_created": "2016-04-20T08:24:35.228435-07:00",
+      "date_modified": "2016-04-20T08:24:35.228457-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3343/?format=json",
+      "id": 3343,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1024/?format=json",
+        "id": 1024,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Virginia-Main Campus",
+        "ein": 546001796
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4008/?format=json",
+      "date_created": "2016-04-20T08:24:35.241705-07:00",
+      "date_modified": "2016-04-20T08:24:35.241725-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23653/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23654/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3778/?format=json",
+      "id": 3778,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4008/?format=json",
+      "date_created": "2016-04-20T08:24:35.252697-07:00",
+      "date_modified": "2016-04-20T08:24:35.252720-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:35.203855-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "myron-t-steele",
+  "name_first": "Myron",
+  "name_middle": "T.",
+  "name_last": "Steele",
+  "name_suffix": "",
+  "date_dob": "1945-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

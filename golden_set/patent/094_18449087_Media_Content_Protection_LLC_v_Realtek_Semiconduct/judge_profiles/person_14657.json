@@ -1,0 +1,122 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14657/?format=json",
+  "id": 14657,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13853/?format=json",
+      "id": 13853,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14657/?format=json",
+      "date_created": "2022-04-01T11:21:44.946254-07:00",
+      "date_modified": "2022-04-01T11:21:44.946280-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-01",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13854/?format=json",
+      "id": 13854,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14657/?format=json",
+      "date_created": "2022-04-01T11:21:44.948095-07:00",
+      "date_modified": "2022-04-01T11:21:44.948121-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=eT_PLUS_jxtbUgaH2WqhXr/XbkA%3D%3D",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13855/?format=json",
+      "id": 13855,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14657/?format=json",
+      "date_created": "2022-04-01T11:21:44.949326-07:00",
+      "date_modified": "2022-04-01T11:21:44.949353-07:00",
+      "url": "https://ballotpedia.org/Gerald_William_Connolly",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13856/?format=json",
+      "id": 13856,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14657/?format=json",
+      "date_created": "2022-04-01T11:21:44.950582-07:00",
+      "date_modified": "2022-04-01T11:21:44.950608-07:00",
+      "url": "https://www.law.com/newyorklawjournal/2020/10/27/connolly-named-new-administrative-judge-for-states-3rd-judicial-district/",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13857/?format=json",
+      "id": 13857,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14657/?format=json",
+      "date_created": "2022-04-01T11:21:44.951761-07:00",
+      "date_modified": "2022-04-01T11:21:44.951788-07:00",
+      "url": "https://nysba.org/nys-third-judicial-district-names-new-administrative-judge/",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13858/?format=json",
+      "id": 13858,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14657/?format=json",
+      "date_created": "2022-04-01T11:21:44.953025-07:00",
+      "date_modified": "2022-04-01T11:21:44.953051-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/Supreme_Court,_Albany_County/Gerald_Connolly/Gerald_Connolly-7.xml",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10435/?format=json",
+      "id": 10435,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/719/?format=json",
+        "id": 719,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Fordham University",
+        "ein": 131740451
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14657/?format=json",
+      "date_created": "2022-04-01T11:21:44.943561-07:00",
+      "date_modified": "2022-04-01T11:21:44.943588-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/45392/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45393/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45394/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-04-01T11:21:44.927422-07:00",
+  "date_modified": "2022-04-28T11:19:18.427091-07:00",
+  "date_completed": "2022-04-28T11:10:52-07:00",
+  "fjc_id": null,
+  "slug": "gerald-william-connolly",
+  "name_first": "Gerald",
+  "name_middle": "William",
+  "name_last": "Connolly",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

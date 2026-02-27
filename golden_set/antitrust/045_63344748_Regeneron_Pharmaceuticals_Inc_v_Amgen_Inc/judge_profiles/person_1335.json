@@ -1,0 +1,160 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1335/?format=json",
+  "id": 1335,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/171/?format=json",
+      "id": 171,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1335/?format=json",
+      "date_created": "2016-04-20T08:24:39.619578-07:00",
+      "date_modified": "2016-04-20T08:24:39.619596-07:00",
+      "url": "http://www.gaappeals.us/history/judges.php?id=34",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/822/?format=json",
+      "id": 822,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1335/?format=json",
+      "date_created": "2016-04-20T08:18:50.482696-07:00",
+      "date_modified": "2016-04-20T08:18:50.482715-07:00",
+      "year_rated": 1979,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1115/?format=json",
+      "id": 1115,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/239/?format=json",
+        "id": 239,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Georgia",
+        "ein": 586001998
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1335/?format=json",
+      "date_created": "2016-04-20T08:18:50.500868-07:00",
+      "date_modified": "2016-04-20T08:18:50.500887-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1941
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5926/?format=json",
+      "id": 5926,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/239/?format=json",
+        "id": 239,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Georgia",
+        "ein": 586001998
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1335/?format=json",
+      "date_created": "2016-04-20T08:28:04.889587-07:00",
+      "date_modified": "2016-04-20T08:28:04.889610-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5927/?format=json",
+      "id": 5927,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1024/?format=json",
+        "id": 1024,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Virginia-Main Campus",
+        "ein": 546001796
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1335/?format=json",
+      "date_created": "2016-04-20T08:28:04.905159-07:00",
+      "date_modified": "2016-04-20T08:28:04.905185-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/8104/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8105/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8106/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8107/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8108/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8109/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8110/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8111/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8112/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23808/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23809/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23810/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23811/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23812/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/31359/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/31360/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1341/?format=json",
+      "id": 1341,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1335/?format=json",
+      "date_created": "2016-04-20T08:18:50.473863-07:00",
+      "date_modified": "2016-04-20T08:18:50.473883-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1979-09-28",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3798/?format=json",
+      "id": 3798,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1335/?format=json",
+      "date_created": "2016-04-20T08:24:39.613734-07:00",
+      "date_modified": "2016-04-20T08:24:39.613755-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:50.437525-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 949,
+  "slug": "robert-howell-hall",
+  "name_first": "Robert",
+  "name_middle": "Howell",
+  "name_last": "Hall",
+  "name_suffix": "",
+  "date_dob": "1921-11-28",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1995-10-14",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Soperton",
+  "dob_state": "GA",
+  "dob_country": "United States",
+  "dod_city": "Atlanta",
+  "dod_state": "GA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

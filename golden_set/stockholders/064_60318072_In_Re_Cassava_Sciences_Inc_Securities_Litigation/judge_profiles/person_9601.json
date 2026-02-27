@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/9601/?format=json",
+  "id": 9601,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/5313/?format=json",
+      "id": 5313,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9601/?format=json",
+      "date_created": "2020-05-13T16:56:32.115897-07:00",
+      "date_modified": "2020-05-13T16:56:32.115917-07:00",
+      "url": "https://www.uscourts.gov/judicial-milestones/susan-j-hightower",
+      "date_accessed": "2020-05-13",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/35599/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2020-05-13T16:56:32.107062-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "susan-j-hightower",
+  "name_first": "Susan",
+  "name_middle": "J.",
+  "name_last": "Hightower",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

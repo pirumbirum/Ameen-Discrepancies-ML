@@ -1,0 +1,62 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/835/?format=json",
+  "id": 835,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/5033/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5034/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5035/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5036/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5037/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5038/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5039/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5040/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5041/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5042/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/840/?format=json",
+      "id": 840,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/835/?format=json",
+      "date_created": "2016-04-20T08:17:42.332863-07:00",
+      "date_modified": "2016-04-20T08:17:42.332883-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1899-02-25",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:42.308132-07:00",
+  "date_modified": "2020-11-25T08:30:23.371698-08:00",
+  "date_completed": null,
+  "fjc_id": 588,
+  "slug": "william-rufus-day",
+  "name_first": "William",
+  "name_middle": "Rufus",
+  "name_last": "Day",
+  "name_suffix": "",
+  "date_dob": "1849-04-17",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1923-07-09",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Ravenna",
+  "dob_state": "OH",
+  "dob_country": "United States",
+  "dod_city": "Mackinac Island",
+  "dod_state": "MI",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

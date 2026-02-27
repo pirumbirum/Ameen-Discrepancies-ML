@@ -1,0 +1,87 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3144/?format=json",
+  "id": 3144,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1992/?format=json",
+      "id": 1992,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3144/?format=json",
+      "date_created": "2016-04-20T08:23:07.391469-07:00",
+      "date_modified": "2016-04-20T08:23:07.391492-07:00",
+      "year_rated": 2000,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2650/?format=json",
+      "id": 2650,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3144/?format=json",
+      "date_created": "2016-04-20T08:23:07.442131-07:00",
+      "date_modified": "2016-04-20T08:23:07.442162-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1982
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/19743/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19744/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19745/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19746/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19742/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3159/?format=json",
+      "id": 3159,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3144/?format=json",
+      "date_created": "2016-04-20T08:23:07.386288-07:00",
+      "date_modified": "2016-04-20T08:23:07.386313-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2000-04-25",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:23:07.353223-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2883,
+  "slug": "laura-taylor-swain",
+  "name_first": "Laura",
+  "name_middle": "Taylor",
+  "name_last": "Swain",
+  "name_suffix": "",
+  "date_dob": "1958-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Brooklyn",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,136 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13786/?format=json",
+  "id": 13786,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9586/?format=json",
+      "id": 9586,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13786/?format=json",
+      "date_created": "2022-03-02T17:25:19.388357-08:00",
+      "date_modified": "2022-03-02T17:25:19.388389-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-02",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9587/?format=json",
+      "id": 9587,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13786/?format=json",
+      "date_created": "2022-03-02T17:26:35.425202-08:00",
+      "date_modified": "2022-03-02T17:26:35.425229-08:00",
+      "url": "https://ballotpedia.org/Jacqueline_C._Jackson",
+      "date_accessed": "2022-03-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9588/?format=json",
+      "id": 9588,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13786/?format=json",
+      "date_created": "2022-03-02T17:26:35.429666-08:00",
+      "date_modified": "2022-03-02T17:26:35.429692-08:00",
+      "url": "https://trellis.law/judge-dashboard/1275/bio",
+      "date_accessed": "2022-03-02",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8433/?format=json",
+      "id": 8433,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13786/?format=json",
+      "date_created": "2022-03-02T17:25:19.376174-08:00",
+      "date_modified": "2022-03-02T17:25:19.376205-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8434/?format=json",
+      "id": 8434,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5210/?format=json",
+        "id": 5210,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2025-06-15T22:32:10.957501-07:00",
+        "name": "UC Law San Francisco",
+        "ein": 942581680
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13786/?format=json",
+      "date_created": "2022-03-02T17:26:35.420184-08:00",
+      "date_modified": "2022-03-02T17:26:35.420211-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43406/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6015/?format=json",
+      "id": 6015,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13786/?format=json",
+      "date_created": "2022-03-02T17:25:19.359597-08:00",
+      "date_modified": "2022-03-02T17:25:19.359630-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6016/?format=json",
+      "id": 6016,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13786/?format=json",
+      "date_created": "2022-03-02T17:25:19.368291-08:00",
+      "date_modified": "2022-03-02T17:25:19.368322-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:54.431357-07:00",
+  "date_modified": "2022-03-20T15:33:19.848935-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jacqueline-c-jackson",
+  "name_first": "Jacqueline",
+  "name_middle": "C.",
+  "name_last": "Jackson",
+  "name_suffix": "",
+  "date_dob": "1969-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

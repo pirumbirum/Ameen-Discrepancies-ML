@@ -1,0 +1,49 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/9681/?format=json",
+  "id": 9681,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/5396/?format=json",
+      "id": 5396,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9681/?format=json",
+      "date_created": "2020-06-10T04:15:58.247901-07:00",
+      "date_modified": "2020-06-10T04:15:58.247922-07:00",
+      "url": "https://ballotpedia.org/Randolph_J._Haines",
+      "date_accessed": "2020-06-10",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/35689/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/35690/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2020-06-10T04:15:58.220175-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "randolph-j-haines",
+  "name_first": "Randolph",
+  "name_middle": "J.",
+  "name_last": "Haines",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

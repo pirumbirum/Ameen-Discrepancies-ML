@@ -1,0 +1,50 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13307/?format=json",
+  "id": 13307,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13380/?format=json",
+      "id": 13380,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13307/?format=json",
+      "date_created": "2022-03-20T15:41:07.323987-07:00",
+      "date_modified": "2022-03-20T15:41:07.324013-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-20",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42774/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:32.612384-07:00",
+  "date_modified": "2022-03-20T15:41:07.303747-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "joann-johnson",
+  "name_first": "JoAnn",
+  "name_middle": "",
+  "name_last": "Johnson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

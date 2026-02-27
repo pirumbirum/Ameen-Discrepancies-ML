@@ -1,0 +1,89 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2065/?format=json",
+  "id": 2065,
+  "race": [
+    "h"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1276/?format=json",
+      "id": 1276,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2065/?format=json",
+      "date_created": "2016-04-20T08:20:37.290023-07:00",
+      "date_modified": "2016-04-20T08:20:37.290047-07:00",
+      "year_rated": 2002,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1714/?format=json",
+      "id": 1714,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1426/?format=json",
+        "id": 1426,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Miami",
+        "ein": 590624458
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2065/?format=json",
+      "date_created": "2016-04-20T08:20:37.305504-07:00",
+      "date_modified": "2016-04-20T08:20:37.305530-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.B.A.",
+      "degree_year": 1962
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/12876/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12877/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12878/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12879/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12880/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12881/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12875/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2074/?format=json",
+      "id": 2074,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2065/?format=json",
+      "date_created": "2016-04-20T08:20:37.282570-07:00",
+      "date_modified": "2016-04-20T08:20:37.282596-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2002-01-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:37.241162-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2956,
+  "slug": "jose-e-martinez",
+  "name_first": "Jose",
+  "name_middle": "E.",
+  "name_last": "Martinez",
+  "name_suffix": "",
+  "date_dob": "1941-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Santo Domingo",
+  "dob_state": "",
+  "dob_country": "Dominican Republic",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

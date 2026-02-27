@@ -1,0 +1,85 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5817/?format=json",
+  "id": 5817,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2020/?format=json",
+      "id": 2020,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5817/?format=json",
+      "date_created": "2016-04-20T08:26:49.403813-07:00",
+      "date_modified": "2016-04-20T08:26:49.403835-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/100002435572",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4799/?format=json",
+      "id": 4799,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6016/?format=json",
+        "id": 6016,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Baylor University",
+        "ein": 741159753
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5817/?format=json",
+      "date_created": "2016-04-20T08:26:49.347514-07:00",
+      "date_modified": "2016-04-20T08:26:49.347537-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/28518/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28519/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28520/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28521/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4521/?format=json",
+      "id": 4521,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5817/?format=json",
+      "date_created": "2016-04-20T08:26:49.399588-07:00",
+      "date_modified": "2016-04-20T08:26:49.399612-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:49.320996-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "sam-johnson",
+  "name_first": "Sam",
+  "name_middle": "",
+  "name_last": "Johnson",
+  "name_suffix": "",
+  "date_dob": "1920-11-17",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2002-07-27",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

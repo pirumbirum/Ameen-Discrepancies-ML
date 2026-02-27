@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13555/?format=json",
+  "id": 13555,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9230/?format=json",
+      "id": 9230,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13555/?format=json",
+      "date_created": "2022-03-01T15:51:51.487080-08:00",
+      "date_modified": "2022-03-01T15:51:51.487103-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-01",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9231/?format=json",
+      "id": 9231,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13555/?format=json",
+      "date_created": "2022-03-01T15:51:51.492036-08:00",
+      "date_modified": "2022-03-01T15:51:51.492060-08:00",
+      "url": "https://www.martindale.com/attorney/jorge-cruz-hernandez-165798/",
+      "date_accessed": "2022-03-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9232/?format=json",
+      "id": 9232,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13555/?format=json",
+      "date_created": "2022-03-01T15:51:51.496179-08:00",
+      "date_modified": "2022-03-01T15:51:51.496201-08:00",
+      "url": "https://trellis.law/judge/jorge.c.hernandez",
+      "date_accessed": "2022-03-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9233/?format=json",
+      "id": 9233,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13555/?format=json",
+      "date_created": "2022-03-01T15:51:51.500379-08:00",
+      "date_modified": "2022-03-01T15:51:51.500402-08:00",
+      "url": "https://ballotpedia.org/Jorge_Hernandez_(California)",
+      "date_accessed": "2022-03-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9234/?format=json",
+      "id": 9234,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13555/?format=json",
+      "date_created": "2022-03-01T15:51:51.510070-08:00",
+      "date_modified": "2022-03-01T15:51:51.510106-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-01",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8273/?format=json",
+      "id": 8273,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4833/?format=json",
+        "id": 4833,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Riverside",
+        "ein": 956006142
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13555/?format=json",
+      "date_created": "2022-03-01T15:51:51.474278-08:00",
+      "date_modified": "2022-03-01T15:51:51.474300-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1986
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8274/?format=json",
+      "id": 8274,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5210/?format=json",
+        "id": 5210,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2025-06-15T22:32:10.957501-07:00",
+        "name": "UC Law San Francisco",
+        "ein": 942581680
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13555/?format=json",
+      "date_created": "2022-03-01T15:51:51.482594-08:00",
+      "date_modified": "2022-03-01T15:51:51.482617-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1989
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43097/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5915/?format=json",
+      "id": 5915,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13555/?format=json",
+      "date_created": "2022-03-01T15:51:51.458860-08:00",
+      "date_modified": "2022-03-01T15:51:51.458885-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5916/?format=json",
+      "id": 5916,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13555/?format=json",
+      "date_created": "2022-03-01T15:51:51.467126-08:00",
+      "date_modified": "2022-03-01T15:51:51.467148-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:43.870650-07:00",
+  "date_modified": "2022-03-20T12:45:23.235818-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jorge-cruz-hernandez",
+  "name_first": "Jorge",
+  "name_middle": "Cruz",
+  "name_last": "Hernandez",
+  "name_suffix": "",
+  "date_dob": "1963-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

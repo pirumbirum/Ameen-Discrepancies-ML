@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15579/?format=json",
+  "id": 15579,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17499/?format=json",
+      "id": 17499,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15579/?format=json",
+      "date_created": "2022-06-28T12:16:06.154781-07:00",
+      "date_modified": "2022-06-28T12:16:06.154796-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-06-28",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17500/?format=json",
+      "id": 17500,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15579/?format=json",
+      "date_created": "2022-06-28T12:20:43.454648-07:00",
+      "date_modified": "2022-06-28T12:20:43.454673-07:00",
+      "url": "https://ballotpedia.org/Jessica_Richard_Crawford",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17501/?format=json",
+      "id": 17501,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15579/?format=json",
+      "date_created": "2022-06-28T12:20:43.458362-07:00",
+      "date_modified": "2022-06-28T12:20:43.458381-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=13344&office=21721",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17502/?format=json",
+      "id": 17502,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15579/?format=json",
+      "date_created": "2022-06-28T12:20:43.459240-07:00",
+      "date_modified": "2022-06-28T12:20:43.459255-07:00",
+      "url": "https://www.co.guadalupe.tx.us/225/225.php",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17503/?format=json",
+      "id": 17503,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15579/?format=json",
+      "date_created": "2022-06-28T12:20:43.460054-07:00",
+      "date_modified": "2022-06-28T12:20:43.460068-07:00",
+      "url": "",
+      "date_accessed": "2022-06-28",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11934/?format=json",
+      "id": 11934,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5258/?format=json",
+        "id": 5258,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas State University",
+        "ein": 746002248
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15579/?format=json",
+      "date_created": "2022-06-28T12:16:06.063498-07:00",
+      "date_modified": "2022-06-28T12:16:06.063516-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11935/?format=json",
+      "id": 11935,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5152/?format=json",
+        "id": 5152,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "St Mary's University",
+        "ein": 741143128
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15579/?format=json",
+      "date_created": "2022-06-28T12:16:06.080721-07:00",
+      "date_modified": "2022-06-28T12:16:06.080740-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2007
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49950/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49951/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49952/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49953/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8119/?format=json",
+      "id": 8119,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15579/?format=json",
+      "date_created": "2022-06-28T12:16:06.145374-07:00",
+      "date_modified": "2022-06-28T12:16:06.145397-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-06-28T12:16:05.666069-07:00",
+  "date_modified": "2022-06-28T12:20:43.306268-07:00",
+  "date_completed": "2022-06-28T12:10:38-07:00",
+  "fjc_id": null,
+  "slug": "jessica-richard-crawford",
+  "name_first": "Jessica",
+  "name_middle": "Richard",
+  "name_last": "Crawford",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

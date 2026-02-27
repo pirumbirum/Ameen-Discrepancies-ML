@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14189/?format=json",
+  "id": 14189,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13031/?format=json",
+      "id": 13031,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14189/?format=json",
+      "date_created": "2022-03-16T11:21:21.172885-07:00",
+      "date_modified": "2022-03-16T11:21:21.172910-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13032/?format=json",
+      "id": 13032,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14189/?format=json",
+      "date_created": "2022-03-16T11:21:21.181148-07:00",
+      "date_modified": "2022-03-16T11:21:21.181171-07:00",
+      "url": "https://ballotpedia.org/Kerry_White_(California)",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13033/?format=json",
+      "id": 13033,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14189/?format=json",
+      "date_created": "2022-03-16T11:21:21.188526-07:00",
+      "date_modified": "2022-03-16T11:21:21.188549-07:00",
+      "url": "https://www.martindale.com/attorney/kerry-l-white-155899/",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13034/?format=json",
+      "id": 13034,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14189/?format=json",
+      "date_created": "2022-03-16T11:21:21.196252-07:00",
+      "date_modified": "2022-03-16T11:21:21.196275-07:00",
+      "url": "https://trellis.law/judge/kerry.l.white",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13035/?format=json",
+      "id": 13035,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14189/?format=json",
+      "date_created": "2022-03-16T11:21:21.208250-07:00",
+      "date_modified": "2022-03-16T11:21:21.208275-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10070/?format=json",
+      "id": 10070,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2832/?format=json",
+        "id": 2832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-San Diego",
+        "ein": 956006144
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14189/?format=json",
+      "date_created": "2022-03-16T11:21:21.153730-07:00",
+      "date_modified": "2022-03-16T11:21:21.153754-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10071/?format=json",
+      "id": 10071,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14189/?format=json",
+      "date_created": "2022-03-16T11:21:21.165323-07:00",
+      "date_modified": "2022-03-16T11:21:21.165349-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43873/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7135/?format=json",
+      "id": 7135,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14189/?format=json",
+      "date_created": "2022-03-16T11:21:21.139122-07:00",
+      "date_modified": "2022-03-16T11:21:21.139148-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7136/?format=json",
+      "id": 7136,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14189/?format=json",
+      "date_created": "2022-03-16T11:21:21.146828-07:00",
+      "date_modified": "2022-03-16T11:21:21.146852-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:11.582247-07:00",
+  "date_modified": "2022-03-23T16:07:17.265413-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "kerry-l-white",
+  "name_first": "Kerry",
+  "name_middle": "L.",
+  "name_last": "White",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

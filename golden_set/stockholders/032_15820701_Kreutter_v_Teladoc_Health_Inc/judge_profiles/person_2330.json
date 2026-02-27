@@ -1,0 +1,88 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2330/?format=json",
+  "id": 2330,
+  "race": [
+    "h"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1427/?format=json",
+      "id": 1427,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2330/?format=json",
+      "date_created": "2016-04-20T08:21:13.483134-07:00",
+      "date_modified": "2016-04-20T08:21:13.483156-07:00",
+      "year_rated": 2002,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1933/?format=json",
+      "id": 1933,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1607/?format=json",
+        "id": 1607,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Woman's University",
+        "ein": 756002618
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2330/?format=json",
+      "date_created": "2016-04-20T08:21:13.496815-07:00",
+      "date_modified": "2016-04-20T08:21:13.496839-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.B.A.",
+      "degree_year": 1983
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14539/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14540/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14541/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14542/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14543/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14538/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2336/?format=json",
+      "id": 2336,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2330/?format=json",
+      "date_created": "2016-04-20T08:21:13.477813-07:00",
+      "date_modified": "2016-04-20T08:21:13.477840-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2002-07-11",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:13.444236-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2969,
+  "slug": "alia-moses",
+  "name_first": "Alia",
+  "name_middle": "",
+  "name_last": "Moses",
+  "name_suffix": "",
+  "date_dob": "1962-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Eagle Pass",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

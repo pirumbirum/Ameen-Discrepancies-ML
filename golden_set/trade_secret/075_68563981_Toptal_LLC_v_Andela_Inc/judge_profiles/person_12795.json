@@ -1,0 +1,134 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12795/?format=json",
+  "id": 12795,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13091/?format=json",
+      "id": 13091,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12795/?format=json",
+      "date_created": "2022-03-16T14:32:58.362431-07:00",
+      "date_modified": "2022-03-16T14:32:58.362455-07:00",
+      "url": "https://trellis.law/judge/browder.a.willis.iii",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13092/?format=json",
+      "id": 13092,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12795/?format=json",
+      "date_created": "2022-03-16T14:32:58.368720-07:00",
+      "date_modified": "2022-03-16T14:32:58.368744-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13093/?format=json",
+      "id": 13093,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12795/?format=json",
+      "date_created": "2022-03-16T14:32:58.374192-07:00",
+      "date_modified": "2022-03-16T14:32:58.374217-07:00",
+      "url": "https://ballotpedia.org/Browder_A._Willis_III",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13094/?format=json",
+      "id": 13094,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12795/?format=json",
+      "date_created": "2022-03-16T14:32:58.379704-07:00",
+      "date_modified": "2022-03-16T14:32:58.379728-07:00",
+      "url": "https://www.martindale.com/attorney/browder-alphonso-willis-iii-220267/",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13095/?format=json",
+      "id": 13095,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12795/?format=json",
+      "date_created": "2022-03-16T14:32:58.385519-07:00",
+      "date_modified": "2022-03-16T14:32:58.385542-07:00",
+      "url": "https://www.tjsl.edu/about-tjsl/trustees/browder-willis",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13096/?format=json",
+      "id": 13096,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12795/?format=json",
+      "date_created": "2022-03-16T14:32:58.396061-07:00",
+      "date_modified": "2022-03-16T14:32:58.396086-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10094/?format=json",
+      "id": 10094,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5193/?format=json",
+        "id": 5193,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Thomas Jefferson School of Law",
+        "ein": 330696561
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12795/?format=json",
+      "date_created": "2022-03-16T14:32:58.356473-07:00",
+      "date_modified": "2022-03-16T14:32:58.356497-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1983
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/41983/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7158/?format=json",
+      "id": 7158,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12795/?format=json",
+      "date_created": "2022-03-16T14:32:58.346318-07:00",
+      "date_modified": "2022-03-16T14:32:58.346343-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:06.673126-07:00",
+  "date_modified": "2022-03-23T16:24:27.820651-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "browder-alphonso-willis-iii",
+  "name_first": "Browder",
+  "name_middle": "Alphonso",
+  "name_last": "Willis",
+  "name_suffix": "3",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

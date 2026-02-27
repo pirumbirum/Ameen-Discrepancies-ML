@@ -1,0 +1,94 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/823/?format=json",
+  "id": 823,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/490/?format=json",
+      "id": 490,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/823/?format=json",
+      "date_created": "2016-04-20T08:17:40.973659-07:00",
+      "date_modified": "2016-04-20T08:17:40.973680-07:00",
+      "year_rated": 1993,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/667/?format=json",
+      "id": 667,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5057/?format=json",
+        "id": 5057,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Macalester College",
+        "ein": 410693962
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/823/?format=json",
+      "date_created": "2016-04-20T08:17:40.985241-07:00",
+      "date_modified": "2016-04-20T08:17:40.985273-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1969
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/4963/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4964/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4965/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4966/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4967/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4968/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4969/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4970/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4971/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4972/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4973/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4974/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/828/?format=json",
+      "id": 828,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/823/?format=json",
+      "date_created": "2016-04-20T08:17:40.967060-07:00",
+      "date_modified": "2016-04-20T08:17:40.967082-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1993-11-19",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:40.936302-07:00",
+  "date_modified": "2020-11-25T08:30:12.560847-08:00",
+  "date_completed": null,
+  "fjc_id": 579,
+  "slug": "michael-james-davis",
+  "name_first": "Michael",
+  "name_middle": "James",
+  "name_last": "Davis",
+  "name_suffix": "",
+  "date_dob": "1947-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Cincinnati",
+  "dob_state": "OH",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14117/?format=json",
+  "id": 14117,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9904/?format=json",
+      "id": 9904,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14117/?format=json",
+      "date_created": "2022-03-04T11:34:29.544894-08:00",
+      "date_modified": "2022-03-04T11:34:29.544930-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-04",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9905/?format=json",
+      "id": 9905,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14117/?format=json",
+      "date_created": "2022-03-04T11:34:29.551857-08:00",
+      "date_modified": "2022-03-04T11:34:29.551878-08:00",
+      "url": "https://ballotpedia.org/Andrew_Kim_(California)",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9906/?format=json",
+      "id": 9906,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14117/?format=json",
+      "date_created": "2022-03-04T11:34:29.558199-08:00",
+      "date_modified": "2022-03-04T11:34:29.558219-08:00",
+      "url": "https://trellis.law/judge/andrew.c.kim",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9907/?format=json",
+      "id": 9907,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14117/?format=json",
+      "date_created": "2022-03-04T11:34:29.566411-08:00",
+      "date_modified": "2022-03-04T11:34:29.566440-08:00",
+      "url": "https://www.bloomberg.com/profile/person/21039782",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9908/?format=json",
+      "id": 9908,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14117/?format=json",
+      "date_created": "2022-03-04T11:34:29.577756-08:00",
+      "date_modified": "2022-03-04T11:34:29.577799-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-04",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8578/?format=json",
+      "id": 8578,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14117/?format=json",
+      "date_created": "2022-03-04T11:34:29.526548-08:00",
+      "date_modified": "2022-03-04T11:34:29.526570-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1994
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8579/?format=json",
+      "id": 8579,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5312/?format=json",
+        "id": 5312,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Santa Clara University",
+        "ein": 941156697
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14117/?format=json",
+      "date_created": "2022-03-04T11:34:29.539035-08:00",
+      "date_modified": "2022-03-04T11:34:29.539059-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1998
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43797/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6114/?format=json",
+      "id": 6114,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14117/?format=json",
+      "date_created": "2022-03-04T11:34:29.511005-08:00",
+      "date_modified": "2022-03-04T11:34:29.511030-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6115/?format=json",
+      "id": 6115,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14117/?format=json",
+      "date_created": "2022-03-04T11:34:29.517703-08:00",
+      "date_modified": "2022-03-04T11:34:29.517726-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:08.778329-07:00",
+  "date_modified": "2022-03-20T16:20:47.349708-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "andrew-c-kim",
+  "name_first": "Andrew",
+  "name_middle": "C.",
+  "name_last": "Kim",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

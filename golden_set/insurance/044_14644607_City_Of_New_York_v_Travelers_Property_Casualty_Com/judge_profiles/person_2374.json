@@ -1,0 +1,91 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2374/?format=json",
+  "id": 2374,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1459/?format=json",
+      "id": 1459,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2374/?format=json",
+      "date_created": "2016-04-20T08:21:19.239496-07:00",
+      "date_modified": "2016-04-20T08:21:19.239518-07:00",
+      "year_rated": 2011,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1969/?format=json",
+      "id": 1969,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2624/?format=json",
+        "id": 2624,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Cornell University",
+        "ein": 150532082
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2374/?format=json",
+      "date_created": "2016-04-20T08:21:19.258314-07:00",
+      "date_modified": "2016-04-20T08:21:19.258337-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1994
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14801/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14802/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14803/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14804/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14805/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14806/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14807/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14808/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14800/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2380/?format=json",
+      "id": 2380,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2374/?format=json",
+      "date_created": "2016-04-20T08:21:19.234148-07:00",
+      "date_modified": "2016-04-20T08:21:19.234173-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2011-03-31",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:19.201739-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3393,
+  "slug": "alison-julie-nathan",
+  "name_first": "Alison",
+  "name_middle": "Julie",
+  "name_last": "Nathan",
+  "name_suffix": "",
+  "date_dob": "1972-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Philadelphia",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

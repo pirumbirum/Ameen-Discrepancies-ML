@@ -1,0 +1,129 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3084/?format=json",
+  "id": 3084,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1955/?format=json",
+      "id": 1955,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3084/?format=json",
+      "date_created": "2016-04-20T08:22:58.705690-07:00",
+      "date_modified": "2016-04-20T08:22:58.705711-07:00",
+      "year_rated": 1983,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2592/?format=json",
+      "id": 2592,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6050/?format=json",
+        "id": 6050,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "George Washington University",
+        "ein": 530196584
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3084/?format=json",
+      "date_created": "2016-04-20T08:22:58.720289-07:00",
+      "date_modified": "2016-04-20T08:22:58.720312-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1968
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2593/?format=json",
+      "id": 2593,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4697/?format=json",
+        "id": 4697,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Brown University",
+        "ein": 50258809
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3084/?format=json",
+      "date_created": "2016-04-20T08:22:58.734745-07:00",
+      "date_modified": "2016-04-20T08:22:58.734768-07:00",
+      "degree_level": "ma",
+      "degree_detail": "M.A.",
+      "degree_year": 1969
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2594/?format=json",
+      "id": 2594,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1749/?format=json",
+        "id": 1749,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Duke University",
+        "ein": 560532129
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3084/?format=json",
+      "date_created": "2016-04-20T08:22:58.763225-07:00",
+      "date_modified": "2016-04-20T08:22:58.763251-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1973
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/19365/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19366/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19367/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19368/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19369/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19370/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19371/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19372/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19373/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3100/?format=json",
+      "id": 3100,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3084/?format=json",
+      "date_created": "2016-04-20T08:22:58.699142-07:00",
+      "date_modified": "2016-04-20T08:22:58.699166-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1983-09-13",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:58.666252-07:00",
+  "date_modified": "2020-11-25T08:30:14.235473-08:00",
+  "date_completed": null,
+  "fjc_id": 2276,
+  "slug": "kenneth-winston-starr",
+  "name_first": "Kenneth",
+  "name_middle": "Winston",
+  "name_last": "Starr",
+  "name_suffix": "",
+  "date_dob": "1946-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Vernon",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

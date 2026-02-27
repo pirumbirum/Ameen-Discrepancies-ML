@@ -1,0 +1,147 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14194/?format=json",
+  "id": 14194,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6745/?format=json",
+      "id": 6745,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14194/?format=json",
+      "date_created": "2022-02-11T16:45:45.803197-08:00",
+      "date_modified": "2022-02-11T16:45:45.803219-08:00",
+      "url": "https://www.swlaw.edu/swlawblog/201711/three-southwestern-alums-appointed-county-superior-court-judgeships",
+      "date_accessed": "2022-02-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6746/?format=json",
+      "id": 6746,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14194/?format=json",
+      "date_created": "2022-02-11T16:45:45.808383-08:00",
+      "date_modified": "2022-02-11T16:45:45.808406-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-11",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6747/?format=json",
+      "id": 6747,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14194/?format=json",
+      "date_created": "2022-02-11T16:45:45.817728-08:00",
+      "date_modified": "2022-02-11T16:46:30.317012-08:00",
+      "url": "https://www.bloomberg.com/profile/person/21038209",
+      "date_accessed": "2022-02-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6748/?format=json",
+      "id": 6748,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14194/?format=json",
+      "date_created": "2022-02-11T16:46:30.321583-08:00",
+      "date_modified": "2022-02-11T16:46:30.321606-08:00",
+      "url": "https://trellis.law/judge/bruce.e.brodie",
+      "date_accessed": "2022-02-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6749/?format=json",
+      "id": 6749,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14194/?format=json",
+      "date_created": "2022-02-11T16:46:30.325930-08:00",
+      "date_modified": "2022-02-11T16:46:30.325953-08:00",
+      "url": "https://ballotpedia.org/Bruce_Brodie",
+      "date_accessed": "2022-02-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6750/?format=json",
+      "id": 6750,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14194/?format=json",
+      "date_created": "2022-02-11T16:46:30.334183-08:00",
+      "date_modified": "2022-02-11T16:46:30.334208-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-11",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7271/?format=json",
+      "id": 7271,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2181/?format=json",
+        "id": 2181,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southwestern University",
+        "ein": 741233796
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14194/?format=json",
+      "date_created": "2022-02-11T16:45:45.784780-08:00",
+      "date_modified": "2022-02-11T16:45:45.784804-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43878/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5240/?format=json",
+      "id": 5240,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14194/?format=json",
+      "date_created": "2022-02-11T16:45:45.791851-08:00",
+      "date_modified": "2022-02-11T16:45:45.791874-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5241/?format=json",
+      "id": 5241,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14194/?format=json",
+      "date_created": "2022-02-11T16:45:45.798237-08:00",
+      "date_modified": "2022-02-11T16:45:45.798260-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:11.771073-07:00",
+  "date_modified": "2022-02-11T16:46:30.309071-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "bruce-e-brodie",
+  "name_first": "Bruce",
+  "name_middle": "E.",
+  "name_last": "Brodie",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Yeadon",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

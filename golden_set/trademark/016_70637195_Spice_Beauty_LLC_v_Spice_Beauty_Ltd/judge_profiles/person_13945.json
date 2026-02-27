@@ -1,0 +1,167 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13945/?format=json",
+  "id": 13945,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9909/?format=json",
+      "id": 9909,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13945/?format=json",
+      "date_created": "2022-03-04T11:38:11.249460-08:00",
+      "date_modified": "2022-03-04T11:38:11.249481-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-04",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9910/?format=json",
+      "id": 9910,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13945/?format=json",
+      "date_created": "2022-03-04T11:38:11.256411-08:00",
+      "date_modified": "2022-03-04T11:38:11.256434-08:00",
+      "url": "https://ballotpedia.org/Dorothy_C._Kim",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9911/?format=json",
+      "id": 9911,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13945/?format=json",
+      "date_created": "2022-03-04T11:38:11.263078-08:00",
+      "date_modified": "2022-03-04T11:38:11.263100-08:00",
+      "url": "https://www.martindale.com/attorney/dorothy-chung-soo-kim-134316/",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9912/?format=json",
+      "id": 9912,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13945/?format=json",
+      "date_created": "2022-03-04T11:38:11.268447-08:00",
+      "date_modified": "2022-03-04T11:38:11.268468-08:00",
+      "url": "https://trellis.law/judge/dorothy.c.kim",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9913/?format=json",
+      "id": 9913,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13945/?format=json",
+      "date_created": "2022-03-04T11:38:11.272489-08:00",
+      "date_modified": "2022-03-04T11:38:11.272510-08:00",
+      "url": "https://www.law.uci.edu/centers/korea-law-center/events/conferences/peer-mentorship-2017/law/bio-dorothy-kim.html",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9914/?format=json",
+      "id": 9914,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13945/?format=json",
+      "date_created": "2022-03-04T11:38:11.280892-08:00",
+      "date_modified": "2022-03-04T11:38:11.280914-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-04",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8580/?format=json",
+      "id": 8580,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2624/?format=json",
+        "id": 2624,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Cornell University",
+        "ein": 150532082
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13945/?format=json",
+      "date_created": "2022-03-04T11:38:11.217909-08:00",
+      "date_modified": "2022-03-04T11:38:11.217933-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1994
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8581/?format=json",
+      "id": 8581,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1325/?format=json",
+        "id": 1325,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Columbia College",
+        "ein": 430655867
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13945/?format=json",
+      "date_created": "2022-03-04T11:38:11.226146-08:00",
+      "date_modified": "2022-03-04T11:38:11.226168-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1998
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43604/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/43603/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6116/?format=json",
+      "id": 6116,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13945/?format=json",
+      "date_created": "2022-03-04T11:38:11.204380-08:00",
+      "date_modified": "2022-03-04T11:38:11.204405-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6117/?format=json",
+      "id": 6117,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13945/?format=json",
+      "date_created": "2022-03-04T11:38:11.210909-08:00",
+      "date_modified": "2022-03-04T11:38:11.210932-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:01.562297-07:00",
+  "date_modified": "2022-03-20T16:21:55.393101-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "dorothy-chung-soo-kim",
+  "name_first": "Dorothy",
+  "name_middle": "Chung-Soo",
+  "name_last": "Kim",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "Korea",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

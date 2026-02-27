@@ -1,0 +1,133 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14350/?format=json",
+  "id": 14350,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10950/?format=json",
+      "id": 10950,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14350/?format=json",
+      "date_created": "2022-03-08T10:54:55.652615-08:00",
+      "date_modified": "2022-03-08T10:54:55.652655-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10951/?format=json",
+      "id": 10951,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14350/?format=json",
+      "date_created": "2022-03-08T10:54:55.662638-08:00",
+      "date_modified": "2022-03-08T10:54:55.662690-08:00",
+      "url": "https://ballotpedia.org/Laura_Miller_(California)",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10952/?format=json",
+      "id": 10952,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14350/?format=json",
+      "date_created": "2022-03-08T10:54:55.668021-08:00",
+      "date_modified": "2022-03-08T10:54:55.668056-08:00",
+      "url": "https://www.martindale.com/attorney/laura-helen-miller-215744/",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10953/?format=json",
+      "id": 10953,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14350/?format=json",
+      "date_created": "2022-03-08T10:54:55.693212-08:00",
+      "date_modified": "2022-03-08T10:54:55.693257-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-08",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9046/?format=json",
+      "id": 9046,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1147/?format=json",
+        "id": 1147,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "California State University-Chico",
+        "ein": 951230865
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14350/?format=json",
+      "date_created": "2022-03-08T10:54:55.622029-08:00",
+      "date_modified": "2022-03-08T10:54:55.622061-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1990
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9047/?format=json",
+      "id": 9047,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2137/?format=json",
+        "id": 2137,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Western State College of Law at Argosy University",
+        "ein": 952313875
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14350/?format=json",
+      "date_created": "2022-03-08T10:54:55.631231-08:00",
+      "date_modified": "2022-03-08T10:54:55.631269-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1993
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44043/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6435/?format=json",
+      "id": 6435,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14350/?format=json",
+      "date_created": "2022-03-08T10:54:55.611062-08:00",
+      "date_modified": "2022-03-08T10:54:55.611095-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:18.091233-07:00",
+  "date_modified": "2022-03-21T11:09:55.012762-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "laura-helen-miller",
+  "name_first": "Laura",
+  "name_middle": "Helen",
+  "name_last": "Miller",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

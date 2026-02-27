@@ -1,0 +1,135 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/16180/?format=json",
+  "id": 16180,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20576/?format=json",
+      "id": 20576,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16180/?format=json",
+      "date_created": "2022-08-08T16:08:05.082777-07:00",
+      "date_modified": "2022-08-08T16:08:05.082789-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-08-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20577/?format=json",
+      "id": 20577,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16180/?format=json",
+      "date_created": "2022-08-08T16:12:23.608769-07:00",
+      "date_modified": "2022-08-08T16:12:23.608789-07:00",
+      "url": "https://www.txcourts.gov/11thcoa/about-the-court/justices/justice-bruce-williams/",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20578/?format=json",
+      "id": 20578,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16180/?format=json",
+      "date_created": "2022-08-08T16:12:23.609768-07:00",
+      "date_modified": "2022-08-08T16:12:23.609778-07:00",
+      "url": "https://ballotpedia.org/Bruce_Williams_(Texas)",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20579/?format=json",
+      "id": 20579,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16180/?format=json",
+      "date_created": "2022-08-08T16:12:23.610207-07:00",
+      "date_modified": "2022-08-08T16:12:23.610217-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=192232",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20580/?format=json",
+      "id": 20580,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16180/?format=json",
+      "date_created": "2022-08-08T16:12:23.610641-07:00",
+      "date_modified": "2022-08-08T16:12:23.610651-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=66728&office=20485",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20581/?format=json",
+      "id": 20581,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16180/?format=json",
+      "date_created": "2022-08-08T16:12:23.611114-07:00",
+      "date_modified": "2022-08-08T16:12:23.611124-07:00",
+      "url": "",
+      "date_accessed": "2022-08-08",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12806/?format=json",
+      "id": 12806,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3164/?format=json",
+        "id": 3164,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Tech University",
+        "ein": 756002622
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16180/?format=json",
+      "date_created": "2022-08-08T16:08:05.072047-07:00",
+      "date_modified": "2022-08-08T16:08:05.072059-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1982
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/52466/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52467/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8516/?format=json",
+      "id": 8516,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16180/?format=json",
+      "date_created": "2022-08-08T16:08:05.078781-07:00",
+      "date_modified": "2022-08-08T16:08:05.078821-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-08-08T16:08:05.052565-07:00",
+  "date_modified": "2022-08-08T16:16:15.615020-07:00",
+  "date_completed": "2022-08-08T16:07:02-07:00",
+  "fjc_id": null,
+  "slug": "w-bruce-williams",
+  "name_first": "W.",
+  "name_middle": "Bruce",
+  "name_last": "Williams",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "San Rafael",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

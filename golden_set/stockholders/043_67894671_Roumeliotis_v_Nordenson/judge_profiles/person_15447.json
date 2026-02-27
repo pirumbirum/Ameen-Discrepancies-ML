@@ -1,0 +1,158 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15447/?format=json",
+  "id": 15447,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16924/?format=json",
+      "id": 16924,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15447/?format=json",
+      "date_created": "2022-06-15T15:26:27.490302-07:00",
+      "date_modified": "2022-06-15T15:26:27.490314-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-06-15",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16925/?format=json",
+      "id": 16925,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15447/?format=json",
+      "date_created": "2022-06-15T15:26:27.499632-07:00",
+      "date_modified": "2022-06-15T15:26:27.499645-07:00",
+      "url": "https://www.txcourts.gov/5thcoa/about-the-court/justices/justice-dennise-garcia/#:~:text=Fifth%20Court%20of%20Appeals&text=Justice%20Dennise%20Garcia%20has%20been,of%20the%20303rd%20District%20Court.",
+      "date_accessed": "2022-06-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16926/?format=json",
+      "id": 16926,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15447/?format=json",
+      "date_created": "2022-06-15T15:26:27.500769-07:00",
+      "date_modified": "2022-06-15T15:26:27.500780-07:00",
+      "url": "https://www.linkedin.com/in/dennise-garcia-51b93568/",
+      "date_accessed": "2022-06-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16927/?format=json",
+      "id": 16927,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15447/?format=json",
+      "date_created": "2022-06-15T15:26:27.501846-07:00",
+      "date_modified": "2022-06-15T15:26:27.501856-07:00",
+      "url": "https://ballotpedia.org/Dennise_Garcia",
+      "date_accessed": "2022-06-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16928/?format=json",
+      "id": 16928,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15447/?format=json",
+      "date_created": "2022-06-15T15:26:27.502890-07:00",
+      "date_modified": "2022-06-15T15:26:27.502901-07:00",
+      "url": "https://thsc.org/political-action/texas-judicial-wall-of-shame/judge-dennise-garcia/",
+      "date_accessed": "2022-06-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16929/?format=json",
+      "id": 16929,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15447/?format=json",
+      "date_created": "2022-06-15T15:26:27.503942-07:00",
+      "date_modified": "2022-06-15T15:26:27.503953-07:00",
+      "url": "https://www.ballotready.org/tx/306501/dennise-garcia",
+      "date_accessed": "2022-06-15",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11740/?format=json",
+      "id": 11740,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1481/?format=json",
+        "id": 1481,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southern Methodist University",
+        "ein": 750800689
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15447/?format=json",
+      "date_created": "2022-06-15T15:26:27.475211-07:00",
+      "date_modified": "2022-06-15T15:26:27.475232-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1993
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11741/?format=json",
+      "id": 11741,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1481/?format=json",
+        "id": 1481,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southern Methodist University",
+        "ein": 750800689
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15447/?format=json",
+      "date_created": "2022-06-15T15:26:27.483438-07:00",
+      "date_modified": "2022-06-15T15:26:27.483455-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Sociology, Political Science",
+      "degree_year": 1990
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49423/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49424/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49425/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49426/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49427/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49428/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8036/?format=json",
+      "id": 8036,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15447/?format=json",
+      "date_created": "2022-06-15T15:26:27.485957-07:00",
+      "date_modified": "2022-06-15T15:26:27.485969-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-06-15T15:26:27.435317-07:00",
+  "date_modified": "2022-07-05T10:06:31.453957-07:00",
+  "date_completed": "2022-06-15T15:13:58-07:00",
+  "fjc_id": null,
+  "slug": "kathleene-dennise-garcia",
+  "name_first": "Kathleene",
+  "name_middle": "Dennise",
+  "name_last": "Garcia",
+  "name_suffix": "",
+  "date_dob": "1968-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

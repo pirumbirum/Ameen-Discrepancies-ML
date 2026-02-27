@@ -1,0 +1,104 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14379/?format=json",
+  "id": 14379,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6218/?format=json",
+      "id": 6218,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14379/?format=json",
+      "date_created": "2022-02-08T09:19:23.034190-08:00",
+      "date_modified": "2022-02-08T09:19:23.034214-08:00",
+      "url": "https://courtlistener.com",
+      "date_accessed": "2022-02-08",
+      "notes": "Updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6260/?format=json",
+      "id": 6260,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14379/?format=json",
+      "date_created": "2022-02-08T12:21:57.258941-08:00",
+      "date_modified": "2022-02-08T12:21:57.258970-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-08",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6219/?format=json",
+      "id": 6219,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14379/?format=json",
+      "date_created": "2022-02-08T09:19:23.044311-08:00",
+      "date_modified": "2022-02-08T12:21:57.248713-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-08",
+      "notes": "American Bench, 2021 ed."
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7058/?format=json",
+      "id": 7058,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1278/?format=json",
+        "id": 1278,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "San Joaquin College of Law",
+        "ein": 237067667
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14379/?format=json",
+      "date_created": "2022-02-08T12:21:57.235076-08:00",
+      "date_modified": "2022-02-08T12:21:57.235100-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1994
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44074/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5089/?format=json",
+      "id": 5089,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14379/?format=json",
+      "date_created": "2022-02-08T12:21:57.242399-08:00",
+      "date_modified": "2022-02-08T12:21:57.242423-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:19.253633-07:00",
+  "date_modified": "2022-02-08T12:21:57.215503-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "brian-t-austin",
+  "name_first": "Brian",
+  "name_middle": "T.",
+  "name_last": "Austin",
+  "name_suffix": "",
+  "date_dob": "1959-06-28",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "ca",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

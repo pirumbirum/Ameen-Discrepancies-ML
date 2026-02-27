@@ -1,0 +1,161 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12426/?format=json",
+  "id": 12426,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10926/?format=json",
+      "id": 10926,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12426/?format=json",
+      "date_created": "2022-03-08T10:24:07.179462-08:00",
+      "date_modified": "2022-03-08T10:24:07.179484-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10927/?format=json",
+      "id": 10927,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12426/?format=json",
+      "date_created": "2022-03-08T10:24:07.185801-08:00",
+      "date_modified": "2022-03-08T10:24:07.185827-08:00",
+      "url": "https://ballotpedia.org/Patrick_Timothy_Meyers",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10928/?format=json",
+      "id": 10928,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12426/?format=json",
+      "date_created": "2022-03-08T10:24:07.194538-08:00",
+      "date_modified": "2022-03-08T10:24:07.194581-08:00",
+      "url": "https://www.martindale.com/attorney/patrick-timothy-meyers-140447/",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10929/?format=json",
+      "id": 10929,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12426/?format=json",
+      "date_created": "2022-03-08T10:24:07.205959-08:00",
+      "date_modified": "2022-03-08T10:24:07.205983-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-08",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9032/?format=json",
+      "id": 9032,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12426/?format=json",
+      "date_created": "2022-03-08T10:24:07.150486-08:00",
+      "date_modified": "2022-03-08T10:24:07.150510-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1965
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9033/?format=json",
+      "id": 9033,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3069/?format=json",
+        "id": 3069,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "California State University-Long Beach",
+        "ein": 931150363
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12426/?format=json",
+      "date_created": "2022-03-08T10:24:07.159214-08:00",
+      "date_modified": "2022-03-08T10:24:07.159237-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Education",
+      "degree_year": 1967
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9034/?format=json",
+      "id": 9034,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12426/?format=json",
+      "date_created": "2022-03-08T10:24:07.172022-08:00",
+      "date_modified": "2022-03-08T10:24:07.172045-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1973
+    }
+  ],
+  "positions": [],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6427/?format=json",
+      "id": 6427,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12426/?format=json",
+      "date_created": "2022-03-08T10:24:07.133023-08:00",
+      "date_modified": "2022-03-08T10:24:07.133047-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6428/?format=json",
+      "id": 6428,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12426/?format=json",
+      "date_created": "2022-03-08T10:24:07.139863-08:00",
+      "date_modified": "2022-03-08T10:24:07.139887-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:09:41.778575-07:00",
+  "date_modified": "2022-03-08T10:24:07.116871-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "patrick-timothy-meyers",
+  "name_first": "Patrick",
+  "name_middle": "Timothy",
+  "name_last": "Meyers",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

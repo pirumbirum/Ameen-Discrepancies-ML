@@ -1,0 +1,59 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8028/?format=json",
+  "id": 8028,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3735/?format=json",
+      "id": 3735,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8028/?format=json",
+      "date_created": "2016-04-20T08:28:45.688719-07:00",
+      "date_modified": "2016-04-20T08:28:45.688740-07:00",
+      "url": "http://judgepedia.org/Robert_J._Morris",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3736/?format=json",
+      "id": 3736,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8028/?format=json",
+      "date_created": "2016-04-20T08:28:45.694439-07:00",
+      "date_modified": "2016-04-20T08:28:45.694460-07:00",
+      "url": "_Jr.",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/32904/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32905/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:45.627000-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "naomi-e-morris",
+  "name_first": "Naomi",
+  "name_middle": "E.",
+  "name_last": "Morris",
+  "name_suffix": "",
+  "date_dob": "1921-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": "1986-01-01",
+  "date_granularity_dod": "%Y",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

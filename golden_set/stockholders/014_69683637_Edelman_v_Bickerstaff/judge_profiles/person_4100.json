@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4100/?format=json",
+  "id": 4100,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/193/?format=json",
+      "id": 193,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4100/?format=json",
+      "date_created": "2016-04-20T08:24:40.870240-07:00",
+      "date_modified": "2016-04-20T08:24:40.870259-07:00",
+      "url": "http://www.gasupreme.us/biographies/thompson.php",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23862/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:40.857560-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "hugh-p-thompson",
+  "name_first": "Hugh",
+  "name_middle": "P.",
+  "name_last": "Thompson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": 138598.83,
+  "ftm_eid": "6558089",
+  "has_photo": false
+}

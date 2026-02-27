@@ -1,0 +1,85 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/616/?format=json",
+  "id": 616,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/361/?format=json",
+      "id": 361,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/616/?format=json",
+      "date_created": "2016-04-20T08:17:11.731820-07:00",
+      "date_modified": "2016-04-20T08:17:11.731842-07:00",
+      "year_rated": 2011,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/482/?format=json",
+      "id": 482,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/616/?format=json",
+      "date_created": "2016-04-20T08:17:11.746534-07:00",
+      "date_modified": "2016-04-20T08:17:11.746558-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1973
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/3681/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3682/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3683/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/620/?format=json",
+      "id": 620,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/616/?format=json",
+      "date_created": "2016-04-20T08:17:11.725590-07:00",
+      "date_modified": "2016-04-20T08:17:11.725614-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2011-05-04",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:11.695993-07:00",
+  "date_modified": "2020-11-25T08:30:23.722419-08:00",
+  "date_completed": null,
+  "fjc_id": 3408,
+  "slug": "dana-lewis-christensen",
+  "name_first": "Dana",
+  "name_middle": "Lewis",
+  "name_last": "Christensen",
+  "name_suffix": "",
+  "date_dob": "1951-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "New York",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

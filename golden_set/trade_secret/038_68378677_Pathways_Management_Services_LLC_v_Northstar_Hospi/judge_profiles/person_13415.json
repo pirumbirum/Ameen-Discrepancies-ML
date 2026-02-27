@@ -1,0 +1,110 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13415/?format=json",
+  "id": 13415,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10986/?format=json",
+      "id": 10986,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13415/?format=json",
+      "date_created": "2022-03-08T11:38:31.222329-08:00",
+      "date_modified": "2022-03-08T11:38:31.222355-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10987/?format=json",
+      "id": 10987,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13415/?format=json",
+      "date_created": "2022-03-08T11:38:31.228939-08:00",
+      "date_modified": "2022-03-08T11:38:31.228966-08:00",
+      "url": "https://www.martindale.com/attorney/daviann-lilee-brooks-155698/",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10988/?format=json",
+      "id": 10988,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13415/?format=json",
+      "date_created": "2022-03-08T11:38:31.237812-08:00",
+      "date_modified": "2022-03-08T11:38:31.237839-08:00",
+      "url": "https://ballotpedia.org/Daviann_Mitchell",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10989/?format=json",
+      "id": 10989,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13415/?format=json",
+      "date_created": "2022-03-08T11:38:31.242406-08:00",
+      "date_modified": "2022-03-08T11:38:31.242432-08:00",
+      "url": "http://www.smartvoter.org/2006/06/06/ca/la/vote/mitchell_d/bio.html",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10990/?format=json",
+      "id": 10990,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13415/?format=json",
+      "date_created": "2022-03-08T11:38:31.251766-08:00",
+      "date_modified": "2022-03-08T11:38:31.251793-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-08",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9065/?format=json",
+      "id": 9065,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3119/?format=json",
+        "id": 3119,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southwestern Law School",
+        "ein": 951246140
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13415/?format=json",
+      "date_created": "2022-03-08T11:38:31.214296-08:00",
+      "date_modified": "2022-03-08T11:38:31.214325-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1992
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42913/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:37.523346-07:00",
+  "date_modified": "2022-03-21T11:23:29.349316-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "daviann-lilee-mitchell",
+  "name_first": "Daviann",
+  "name_middle": "Lilee",
+  "name_last": "Mitchell",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,142 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8523/?format=json",
+  "id": 8523,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4214/?format=json",
+      "id": 4214,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8523/?format=json",
+      "date_created": "2019-06-30T07:16:17.773182-07:00",
+      "date_modified": "2019-06-30T07:16:17.773206-07:00",
+      "url": "http://www.almd.uscourts.gov/judges/honorable-susan-russ-walker",
+      "date_accessed": "2019-06-30",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4215/?format=json",
+      "id": 4215,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8523/?format=json",
+      "date_created": "2019-06-30T07:16:17.776773-07:00",
+      "date_modified": "2019-06-30T07:16:17.776796-07:00",
+      "url": "https://www.worldcat.org/title/american-bench-judges-of-the-nation/oclc/3470774",
+      "date_accessed": "2019-06-30",
+      "notes": "The American Bench: Judges of the Nation, (28th ed., 2018)."
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6615/?format=json",
+      "id": 6615,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5073/?format=json",
+        "id": 5073,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Eckerd College",
+        "ein": 590859121
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8523/?format=json",
+      "date_created": "2019-06-30T07:16:17.765286-07:00",
+      "date_modified": "2019-06-30T07:16:17.765323-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1977
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6616/?format=json",
+      "id": 6616,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8523/?format=json",
+      "date_created": "2019-06-30T07:16:17.771762-07:00",
+      "date_modified": "2019-06-30T07:16:17.771790-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1986
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6617/?format=json",
+      "id": 6617,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6345/?format=json",
+        "id": 6345,
+        "is_alias_of": null,
+        "date_created": "2019-06-30T07:36:14.863039-07:00",
+        "date_modified": "2019-07-07T06:06:58.288860-07:00",
+        "name": "University of Oxford",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8523/?format=json",
+      "date_created": "2019-06-30T07:37:55.685528-07:00",
+      "date_modified": "2019-06-30T07:37:55.685560-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1980
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6618/?format=json",
+      "id": 6618,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6345/?format=json",
+        "id": 6345,
+        "is_alias_of": null,
+        "date_created": "2019-06-30T07:36:14.863039-07:00",
+        "date_modified": "2019-07-07T06:06:58.288860-07:00",
+        "name": "University of Oxford",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8523/?format=json",
+      "date_created": "2019-06-30T07:37:55.690724-07:00",
+      "date_modified": "2019-06-30T07:37:55.690751-07:00",
+      "degree_level": "ma",
+      "degree_detail": "",
+      "degree_year": 2011
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33622/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33624/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33625/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33626/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33623/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33627/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2019-06-30T07:16:17.733777-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "susan-russ-walker",
+  "name_first": "Susan",
+  "name_middle": "Russ",
+  "name_last": "Walker",
+  "name_suffix": "",
+  "date_dob": "1956-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

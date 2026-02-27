@@ -1,0 +1,101 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6162/?format=json",
+  "id": 6162,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2476/?format=json",
+      "id": 2476,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6162/?format=json",
+      "date_created": "2016-04-20T08:27:18.369638-07:00",
+      "date_modified": "2016-04-20T08:27:18.369668-07:00",
+      "url": "http://www.jud.ct.gov/external/news/press046.html",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2827/?format=json",
+      "id": 2827,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6162/?format=json",
+      "date_created": "2016-04-20T08:27:42.928605-07:00",
+      "date_modified": "2016-04-20T08:27:42.928626-07:00",
+      "url": "http://www.3dca.flcourts.org/Judges/00-ALLJudges.shtml",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5512/?format=json",
+      "id": 5512,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4699/?format=json",
+        "id": 4699,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Providence College",
+        "ein": 50258932
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6162/?format=json",
+      "date_created": "2016-04-20T08:27:42.893011-07:00",
+      "date_modified": "2016-04-20T08:27:42.893034-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5513/?format=json",
+      "id": 5513,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6218/?format=json",
+        "id": 6218,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "College of William and Mary",
+        "ein": 546001718
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6162/?format=json",
+      "date_created": "2016-04-20T08:27:42.908436-07:00",
+      "date_modified": "2016-04-20T08:27:42.908460-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/29552/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29553/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30533/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30534/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30535/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:18.341938-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "william-sullivan",
+  "name_first": "William",
+  "name_middle": "",
+  "name_last": "Sullivan",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,143 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12786/?format=json",
+  "id": 12786,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9938/?format=json",
+      "id": 9938,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12786/?format=json",
+      "date_created": "2022-03-04T12:12:31.884634-08:00",
+      "date_modified": "2022-03-04T12:12:31.884658-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-04",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9939/?format=json",
+      "id": 9939,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12786/?format=json",
+      "date_created": "2022-03-04T12:12:31.891076-08:00",
+      "date_modified": "2022-03-04T12:12:31.891098-08:00",
+      "url": "https://www.bloomberg.com/profile/person/18692291",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9940/?format=json",
+      "id": 9940,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12786/?format=json",
+      "date_created": "2022-03-04T12:12:31.895604-08:00",
+      "date_modified": "2022-03-04T12:12:31.895630-08:00",
+      "url": "https://trellis.law/judge/richard.m.king",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9941/?format=json",
+      "id": 9941,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12786/?format=json",
+      "date_created": "2022-03-04T12:12:31.899580-08:00",
+      "date_modified": "2022-03-04T12:12:31.899603-08:00",
+      "url": "https://ballotpedia.org/Richard_M._King",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9942/?format=json",
+      "id": 9942,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12786/?format=json",
+      "date_created": "2022-03-04T12:12:31.908316-08:00",
+      "date_modified": "2022-03-04T12:12:31.908340-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-04",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8591/?format=json",
+      "id": 8591,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12786/?format=json",
+      "date_created": "2022-03-04T12:12:31.870405-08:00",
+      "date_modified": "2022-03-04T12:12:31.870434-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1974
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8592/?format=json",
+      "id": 8592,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5191/?format=json",
+        "id": 5191,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of San Diego",
+        "ein": 952544535
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12786/?format=json",
+      "date_created": "2022-03-04T12:12:31.878929-08:00",
+      "date_modified": "2022-03-04T12:12:31.878953-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1977
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/41967/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6126/?format=json",
+      "id": 6126,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12786/?format=json",
+      "date_created": "2022-03-04T12:12:31.861357-08:00",
+      "date_modified": "2022-03-04T12:12:31.861383-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:06.200356-07:00",
+  "date_modified": "2022-03-20T16:24:06.040493-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "richard-m-king",
+  "name_first": "Richard",
+  "name_middle": "M.",
+  "name_last": "King",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

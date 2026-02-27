@@ -1,0 +1,94 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3535/?format=json",
+  "id": 3535,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2220/?format=json",
+      "id": 2220,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3535/?format=json",
+      "date_created": "2016-04-20T08:24:02.460496-07:00",
+      "date_modified": "2016-04-20T08:24:02.460517-07:00",
+      "year_rated": 1995,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2963/?format=json",
+      "id": 2963,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3535/?format=json",
+      "date_created": "2016-04-20T08:24:02.475823-07:00",
+      "date_modified": "2016-04-20T08:24:02.475846-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1971
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22250/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22251/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22252/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22253/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22254/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22255/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22256/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22257/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22258/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22259/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22260/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22261/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3553/?format=json",
+      "id": 3553,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3535/?format=json",
+      "date_created": "2016-04-20T08:24:02.453529-07:00",
+      "date_modified": "2016-04-20T08:24:02.453553-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1995-03-31",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:02.421870-07:00",
+  "date_modified": "2020-11-25T08:30:16.914371-08:00",
+  "date_completed": null,
+  "fjc_id": 2636,
+  "slug": "diane-pamela-wood",
+  "name_first": "Diane",
+  "name_middle": "Pamela",
+  "name_last": "Wood",
+  "name_suffix": "",
+  "date_dob": "1950-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Plainfield",
+  "dob_state": "NJ",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

@@ -1,0 +1,153 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14462/?format=json",
+  "id": 14462,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8527/?format=json",
+      "id": 8527,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14462/?format=json",
+      "date_created": "2022-02-23T16:41:40.672581-08:00",
+      "date_modified": "2022-02-23T16:41:40.672604-08:00",
+      "url": "https://ballotpedia.org/Rachel_Kovner",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8528/?format=json",
+      "id": 8528,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14462/?format=json",
+      "date_created": "2022-02-23T16:41:40.674202-08:00",
+      "date_modified": "2022-02-23T16:41:40.674225-08:00",
+      "url": "https://en.wikipedia.org/wiki/Rachel_Kovner",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8529/?format=json",
+      "id": 8529,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14462/?format=json",
+      "date_created": "2022-02-23T16:41:40.675330-08:00",
+      "date_modified": "2022-02-23T16:41:40.675353-08:00",
+      "url": "https://www.nyed.uscourts.gov/content/judge-rachel-p-kovner",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8530/?format=json",
+      "id": 8530,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14462/?format=json",
+      "date_created": "2022-02-23T16:41:40.676539-08:00",
+      "date_modified": "2022-02-23T16:41:40.676562-08:00",
+      "url": "https://www.uscourts.gov/judicial-milestones/rachel-p-kovner",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8531/?format=json",
+      "id": 8531,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14462/?format=json",
+      "date_created": "2022-02-23T16:41:40.677668-08:00",
+      "date_modified": "2022-02-23T16:41:40.677691-08:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Kovner-RP.%20J3.%2002.%20NYS_SR_20.pdf",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8532/?format=json",
+      "id": 8532,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14462/?format=json",
+      "date_created": "2022-02-23T16:41:40.678851-08:00",
+      "date_modified": "2022-02-23T16:41:40.678873-08:00",
+      "url": "https://images.law.com/contrib/content/uploads/documents/398/19759/Rachel-Kovner-Senate-Questionnaire-PUBLIC.pdf",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7960/?format=json",
+      "id": 7960,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14462/?format=json",
+      "date_created": "2022-02-23T16:41:40.666833-08:00",
+      "date_modified": "2022-02-23T16:41:40.666856-08:00",
+      "degree_level": "ba",
+      "degree_detail": "cum laude",
+      "degree_year": 2001
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7961/?format=json",
+      "id": 7961,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14462/?format=json",
+      "date_created": "2022-02-23T16:41:40.671291-08:00",
+      "date_modified": "2022-02-23T16:41:40.671315-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2006
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44368/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5712/?format=json",
+      "id": 5712,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14462/?format=json",
+      "date_created": "2022-02-23T18:31:21.670443-08:00",
+      "date_modified": "2022-02-23T18:31:21.670479-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-02-23T16:41:40.643459-08:00",
+  "date_modified": "2022-02-23T18:31:21.657771-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "rachel-peter-kovner",
+  "name_first": "Rachel",
+  "name_middle": "Peter",
+  "name_last": "Kovner",
+  "name_suffix": "",
+  "date_dob": "1979-09-29",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "New York",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

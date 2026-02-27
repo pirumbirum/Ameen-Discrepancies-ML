@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7904/?format=json",
+  "id": 7904,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3620/?format=json",
+      "id": 3620,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7904/?format=json",
+      "date_created": "2016-04-20T08:28:39.644075-07:00",
+      "date_modified": "2016-04-20T08:28:39.644101-07:00",
+      "url": "http://www.gaappeals.us/biography/bio_judges.php?jname=M.%20Yvette%20Miller",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/32672/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:39.628142-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "sondra-miller",
+  "name_first": "Sondra",
+  "name_middle": "",
+  "name_last": "Miller",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

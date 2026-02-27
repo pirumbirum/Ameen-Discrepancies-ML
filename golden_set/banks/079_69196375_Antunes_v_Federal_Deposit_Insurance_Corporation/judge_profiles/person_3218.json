@@ -1,0 +1,57 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3218/?format=json",
+  "id": 3218,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/20211/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/20212/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/20213/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/20214/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/20215/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3234/?format=json",
+      "id": 3234,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3218/?format=json",
+      "date_created": "2016-04-20T08:23:17.509004-07:00",
+      "date_modified": "2016-04-20T08:23:17.509034-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1957-08-16",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:23:17.472398-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2379,
+  "slug": "roby-calvin-thompson",
+  "name_first": "Roby",
+  "name_middle": "Calvin",
+  "name_last": "Thompson",
+  "name_suffix": "",
+  "date_dob": "1898-03-30",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1960-07-29",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Saltville",
+  "dob_state": "VA",
+  "dob_country": "United States",
+  "dod_city": "Abingdon",
+  "dod_state": "VA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

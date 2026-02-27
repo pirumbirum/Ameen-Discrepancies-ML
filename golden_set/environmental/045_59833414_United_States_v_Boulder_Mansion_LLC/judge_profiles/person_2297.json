@@ -1,0 +1,108 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2297/?format=json",
+  "id": 2297,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1411/?format=json",
+      "id": 1411,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2297/?format=json",
+      "date_created": "2016-04-20T08:21:08.931446-07:00",
+      "date_modified": "2016-04-20T08:21:08.931479-07:00",
+      "year_rated": 1991,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1900/?format=json",
+      "id": 1900,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5721/?format=json",
+        "id": 5721,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Florida State University",
+        "ein": 591961248
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2297/?format=json",
+      "date_created": "2016-04-20T08:21:08.951935-07:00",
+      "date_modified": "2016-04-20T08:21:08.951970-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1972
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1901/?format=json",
+      "id": 1901,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/719/?format=json",
+        "id": 719,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Fordham University",
+        "ein": 131740451
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2297/?format=json",
+      "date_created": "2016-04-20T08:21:08.988205-07:00",
+      "date_modified": "2016-04-20T08:21:08.988239-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1976
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14345/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14346/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14347/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14348/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14349/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14350/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14344/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2304/?format=json",
+      "id": 2304,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2297/?format=json",
+      "date_created": "2016-04-20T08:21:08.924104-07:00",
+      "date_modified": "2016-04-20T08:21:08.924145-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1991-10-04",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:08.873876-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1678,
+  "slug": "kevin-michael-moore",
+  "name_first": "Kevin",
+  "name_middle": "Michael",
+  "name_last": "Moore",
+  "name_suffix": "",
+  "date_dob": "1951-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Coral Gables",
+  "dob_state": "FL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

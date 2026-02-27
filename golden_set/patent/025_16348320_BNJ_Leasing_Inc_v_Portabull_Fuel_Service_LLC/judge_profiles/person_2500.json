@@ -1,0 +1,92 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2500/?format=json",
+  "id": 2500,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1548/?format=json",
+      "id": 1548,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2500/?format=json",
+      "date_created": "2016-04-20T08:21:37.132469-07:00",
+      "date_modified": "2016-04-20T08:21:37.132491-07:00",
+      "year_rated": 1990,
+      "rating": "wq"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1549/?format=json",
+      "id": 1549,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2500/?format=json",
+      "date_created": "2016-04-20T08:21:37.169887-07:00",
+      "date_modified": "2016-04-20T08:21:37.169910-07:00",
+      "year_rated": 1994,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/15612/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15613/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15614/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15615/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15616/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15617/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15618/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15619/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2508/?format=json",
+      "id": 2508,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2500/?format=json",
+      "date_created": "2016-04-20T08:21:37.125394-07:00",
+      "date_modified": "2016-04-20T08:21:37.157520-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1990-06-21",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": "1994-08-25",
+      "date_granularity_end": "%Y-%m-%d"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2509/?format=json",
+      "id": 2509,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2500/?format=json",
+      "date_created": "2016-04-20T08:21:37.164613-07:00",
+      "date_modified": "2016-04-20T08:21:37.164638-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1994-08-25",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:37.088672-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1835,
+  "slug": "fred-i-parker",
+  "name_first": "Fred",
+  "name_middle": "I.",
+  "name_last": "Parker",
+  "name_suffix": "",
+  "date_dob": "1938-02-02",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2003-08-12",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Boston",
+  "dob_state": "MA",
+  "dob_country": "United States",
+  "dod_city": "Burlington",
+  "dod_state": "VT",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

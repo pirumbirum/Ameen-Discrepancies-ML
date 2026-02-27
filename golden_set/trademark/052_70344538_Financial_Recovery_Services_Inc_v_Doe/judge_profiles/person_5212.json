@@ -1,0 +1,66 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5212/?format=json",
+  "id": 5212,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1372/?format=json",
+      "id": 1372,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5212/?format=json",
+      "date_created": "2016-04-20T08:26:02.148498-07:00",
+      "date_modified": "2016-04-20T08:26:02.148521-07:00",
+      "url": "http://www.courts.state.ny.us/history/elecbook/thereshallbe/pg100.htm",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26837/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26838/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26839/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26840/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32587/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4214/?format=json",
+      "id": 4214,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5212/?format=json",
+      "date_created": "2016-04-20T08:26:02.141635-07:00",
+      "date_modified": "2016-04-20T08:26:02.141660-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:02.067365-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "sydney-francis-foster",
+  "name_first": "Sydney",
+  "name_middle": "Francis",
+  "name_last": "Foster",
+  "name_suffix": "",
+  "date_dob": "1893-03-23",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1973-11-21",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

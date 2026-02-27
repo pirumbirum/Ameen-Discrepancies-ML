@@ -1,0 +1,99 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2761/?format=json",
+  "id": 2761,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2304/?format=json",
+      "id": 2304,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1514/?format=json",
+        "id": 1514,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Centre College",
+        "ein": 610444671
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2761/?format=json",
+      "date_created": "2016-04-20T08:22:12.466415-07:00",
+      "date_modified": "2016-04-20T08:22:12.466440-07:00",
+      "degree_level": "",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2305/?format=json",
+      "id": 2305,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5931/?format=json",
+        "id": 5931,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Mississippi",
+        "ein": 646001159
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2761/?format=json",
+      "date_created": "2016-04-20T08:22:12.479174-07:00",
+      "date_modified": "2016-04-20T08:22:12.479197-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1868
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/17265/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17266/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17267/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17268/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17269/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17270/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17271/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17272/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2769/?format=json",
+      "id": 2769,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2761/?format=json",
+      "date_created": "2016-04-20T08:22:12.453711-07:00",
+      "date_modified": "2016-04-20T08:22:12.453735-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1896-12-08",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:12.410149-07:00",
+  "date_modified": "2020-11-25T08:30:23.305916-08:00",
+  "date_completed": null,
+  "fjc_id": 2040,
+  "slug": "john-henry-rogers",
+  "name_first": "John",
+  "name_middle": "Henry",
+  "name_last": "Rogers",
+  "name_suffix": "",
+  "date_dob": "1845-10-09",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1911-04-17",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Roxobel",
+  "dob_state": "NC",
+  "dob_country": "United States",
+  "dod_city": "Little Rock",
+  "dod_state": "AR",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

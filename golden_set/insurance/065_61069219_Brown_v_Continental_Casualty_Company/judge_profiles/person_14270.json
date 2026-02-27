@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14270/?format=json",
+  "id": 14270,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10844/?format=json",
+      "id": 10844,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14270/?format=json",
+      "date_created": "2022-03-07T16:51:01.142788-08:00",
+      "date_modified": "2022-03-07T16:51:01.142811-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-07",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10845/?format=json",
+      "id": 10845,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14270/?format=json",
+      "date_created": "2022-03-07T16:51:01.149162-08:00",
+      "date_modified": "2022-03-07T16:51:01.149185-08:00",
+      "url": "https://ballotpedia.org/Dorothy_McLaughlin",
+      "date_accessed": "2022-03-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10846/?format=json",
+      "id": 10846,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14270/?format=json",
+      "date_created": "2022-03-07T16:51:01.153467-08:00",
+      "date_modified": "2022-03-07T16:51:01.153488-08:00",
+      "url": "https://www.martindale.com/attorney/dorothy-rebecca-mclaughlin-5013510/",
+      "date_accessed": "2022-03-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10847/?format=json",
+      "id": 10847,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14270/?format=json",
+      "date_created": "2022-03-07T16:51:01.162990-08:00",
+      "date_modified": "2022-03-07T16:51:01.163015-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-07",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8988/?format=json",
+      "id": 8988,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4697/?format=json",
+        "id": 4697,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Brown University",
+        "ein": 50258809
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14270/?format=json",
+      "date_created": "2022-03-07T16:51:01.127819-08:00",
+      "date_modified": "2022-03-07T16:51:01.127843-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1996
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8989/?format=json",
+      "id": 8989,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1886/?format=json",
+        "id": 1886,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Northwestern University",
+        "ein": 362167817
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14270/?format=json",
+      "date_created": "2022-03-07T16:51:01.138367-08:00",
+      "date_modified": "2022-03-07T16:51:01.138391-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2002
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43958/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6400/?format=json",
+      "id": 6400,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14270/?format=json",
+      "date_created": "2022-03-07T16:51:01.112769-08:00",
+      "date_modified": "2022-03-07T16:51:01.112796-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6401/?format=json",
+      "id": 6401,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14270/?format=json",
+      "date_created": "2022-03-07T16:51:01.119751-08:00",
+      "date_modified": "2022-03-07T16:51:01.119775-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:14.858652-07:00",
+  "date_modified": "2022-03-21T10:54:04.343421-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "dorothy-rebecca-mclaughlin",
+  "name_first": "Dorothy",
+  "name_middle": "Rebecca",
+  "name_last": "McLaughlin",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

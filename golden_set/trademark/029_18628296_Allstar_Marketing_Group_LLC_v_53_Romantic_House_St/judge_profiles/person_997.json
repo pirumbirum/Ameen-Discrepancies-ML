@@ -1,0 +1,111 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/997/?format=json",
+  "id": 997,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/585/?format=json",
+      "id": 585,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/997/?format=json",
+      "date_created": "2016-04-20T08:18:03.223011-07:00",
+      "date_modified": "2016-04-20T08:18:03.223049-07:00",
+      "year_rated": 2011,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/813/?format=json",
+      "id": 813,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/997/?format=json",
+      "date_created": "2016-04-20T08:18:03.253584-07:00",
+      "date_modified": "2016-04-20T08:18:03.253614-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1983
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/814/?format=json",
+      "id": 814,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/997/?format=json",
+      "date_created": "2016-04-20T08:18:03.282567-07:00",
+      "date_modified": "2016-04-20T08:18:03.282593-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1987
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/6048/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6049/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6050/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6051/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6052/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6053/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6054/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6055/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6056/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6047/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1001/?format=json",
+      "id": 1001,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/997/?format=json",
+      "date_created": "2016-04-20T08:18:03.215727-07:00",
+      "date_modified": "2016-04-20T08:18:03.215750-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2011-02-02",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:03.187444-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3380,
+  "slug": "paul-adam-engelmayer",
+  "name_first": "Paul",
+  "name_middle": "Adam",
+  "name_last": "Engelmayer",
+  "name_suffix": "",
+  "date_dob": "1961-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "New York",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

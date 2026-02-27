@@ -1,0 +1,113 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4598/?format=json",
+  "id": 4598,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/695/?format=json",
+      "id": 695,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4598/?format=json",
+      "date_created": "2016-04-20T08:25:12.305104-07:00",
+      "date_modified": "2016-04-20T08:25:12.305129-07:00",
+      "url": "http://www.lasc.org/Bicentennial/justices/Simon_James_D.aspx",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/696/?format=json",
+      "id": 696,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4598/?format=json",
+      "date_created": "2016-04-20T08:25:12.322855-07:00",
+      "date_modified": "2016-04-20T08:25:12.322880-07:00",
+      "url": "http://www.lasc.org/Bicentennial/justices.aspx",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3703/?format=json",
+      "id": 3703,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/393/?format=json",
+        "id": 393,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Louisiana State University and Agricultural & Mechanical College",
+        "ein": 726000848
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4598/?format=json",
+      "date_created": "2016-04-20T08:25:12.246904-07:00",
+      "date_modified": "2016-04-20T08:25:12.246936-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3704/?format=json",
+      "id": 3704,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3858/?format=json",
+        "id": 3858,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tulane University of Louisiana",
+        "ein": 720423889
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4598/?format=json",
+      "date_created": "2016-04-20T08:25:12.275497-07:00",
+      "date_modified": "2016-04-20T08:25:12.275526-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25044/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25045/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25046/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4018/?format=json",
+      "id": 4018,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4598/?format=json",
+      "date_created": "2016-04-20T08:25:12.300806-07:00",
+      "date_modified": "2016-04-20T08:25:12.300833-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:12.213925-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "james-d-simon",
+  "name_first": "James",
+  "name_middle": "D.",
+  "name_last": "Simon",
+  "name_suffix": "",
+  "date_dob": "1897-01-30",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1982-10-23",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13276/?format=json",
+  "id": 13276,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12030/?format=json",
+      "id": 12030,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13276/?format=json",
+      "date_created": "2022-03-11T13:28:10.303405-08:00",
+      "date_modified": "2022-03-11T13:28:10.303426-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-11",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12027/?format=json",
+      "id": 12027,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13276/?format=json",
+      "date_created": "2022-03-11T13:26:17.395776-08:00",
+      "date_modified": "2022-03-11T13:28:10.283474-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-11",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12028/?format=json",
+      "id": 12028,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13276/?format=json",
+      "date_created": "2022-03-11T13:28:10.290424-08:00",
+      "date_modified": "2022-03-11T13:28:10.290445-08:00",
+      "url": "https://ballotpedia.org/Patricia_M._Scanlon",
+      "date_accessed": "2022-03-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12029/?format=json",
+      "id": 12029,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13276/?format=json",
+      "date_created": "2022-03-11T13:28:10.294667-08:00",
+      "date_modified": "2022-03-11T13:28:10.294688-08:00",
+      "url": "https://www.martindale.com/attorney/patricia-mary-scanlon-160868/",
+      "date_accessed": "2022-03-11",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9578/?format=json",
+      "id": 9578,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5525/?format=json",
+        "id": 5525,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Mount Holyoke College",
+        "ein": 42103578
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13276/?format=json",
+      "date_created": "2022-03-11T13:28:10.269878-08:00",
+      "date_modified": "2022-03-11T13:28:10.269901-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9579/?format=json",
+      "id": 9579,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13276/?format=json",
+      "date_created": "2022-03-11T13:28:10.278253-08:00",
+      "date_modified": "2022-03-11T13:28:10.278274-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42730/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6792/?format=json",
+      "id": 6792,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13276/?format=json",
+      "date_created": "2022-03-11T13:28:10.251186-08:00",
+      "date_modified": "2022-03-11T13:28:10.251208-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6793/?format=json",
+      "id": 6793,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13276/?format=json",
+      "date_created": "2022-03-11T13:28:10.258321-08:00",
+      "date_modified": "2022-03-11T13:28:10.258344-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:31.100124-07:00",
+  "date_modified": "2022-03-21T15:21:52.109102-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "patricia-mary-scanlon",
+  "name_first": "Patricia",
+  "name_middle": "Mary",
+  "name_last": "Scanlon",
+  "name_suffix": "",
+  "date_dob": "1955-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,39 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15319/?format=json",
+  "id": 15319,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47623/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-05-19T09:51:14.485812-07:00",
+  "date_modified": "2022-05-19T10:57:46.679673-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "rick-scott",
+  "name_first": "Rick",
+  "name_middle": "",
+  "name_last": "Scott",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

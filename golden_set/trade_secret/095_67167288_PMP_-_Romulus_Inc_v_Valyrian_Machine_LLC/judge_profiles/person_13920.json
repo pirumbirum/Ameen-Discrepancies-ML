@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13920/?format=json",
+  "id": 13920,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11393/?format=json",
+      "id": 11393,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13920/?format=json",
+      "date_created": "2022-03-09T13:18:02.162283-08:00",
+      "date_modified": "2022-03-09T13:18:02.162309-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-09",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11394/?format=json",
+      "id": 11394,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13920/?format=json",
+      "date_created": "2022-03-09T13:18:02.169500-08:00",
+      "date_modified": "2022-03-09T13:18:02.169526-08:00",
+      "url": "https://ballotpedia.org/Pamela_M._Parker",
+      "date_accessed": "2022-03-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11395/?format=json",
+      "id": 11395,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13920/?format=json",
+      "date_created": "2022-03-09T13:18:02.173954-08:00",
+      "date_modified": "2022-03-09T13:18:02.173980-08:00",
+      "url": "https://www.martindale.com/attorney/pamela-mante-parker-215375/",
+      "date_accessed": "2022-03-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11396/?format=json",
+      "id": 11396,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13920/?format=json",
+      "date_created": "2022-03-09T13:18:02.189692-08:00",
+      "date_modified": "2022-03-09T13:18:02.189719-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-09",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9260/?format=json",
+      "id": 9260,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5997/?format=json",
+        "id": 5997,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "SUNY at Binghamton",
+        "ein": 146013200
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13920/?format=json",
+      "date_created": "2022-03-09T13:18:02.136391-08:00",
+      "date_modified": "2022-03-09T13:18:02.136437-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9261/?format=json",
+      "id": 9261,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13920/?format=json",
+      "date_created": "2022-03-09T13:18:02.155751-08:00",
+      "date_modified": "2022-03-09T13:18:02.155778-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1982
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43575/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6576/?format=json",
+      "id": 6576,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13920/?format=json",
+      "date_created": "2022-03-09T13:18:02.106230-08:00",
+      "date_modified": "2022-03-09T13:18:02.106257-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6577/?format=json",
+      "id": 6577,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13920/?format=json",
+      "date_created": "2022-03-09T13:18:02.122389-08:00",
+      "date_modified": "2022-03-09T13:18:02.122416-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:00.474512-07:00",
+  "date_modified": "2022-03-18T15:03:50.512275-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "pamela-mante-parker",
+  "name_first": "Pamela",
+  "name_middle": "Mante",
+  "name_last": "Parker",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

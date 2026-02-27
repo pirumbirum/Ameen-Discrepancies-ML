@@ -1,0 +1,206 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8377/?format=json",
+  "id": 8377,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19722/?format=json",
+      "id": 19722,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8377/?format=json",
+      "date_created": "2022-07-28T15:52:55.577717-07:00",
+      "date_modified": "2022-07-28T15:52:55.577731-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-28",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19723/?format=json",
+      "id": 19723,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8377/?format=json",
+      "date_created": "2022-07-28T15:52:55.579218-07:00",
+      "date_modified": "2022-07-28T15:52:55.579231-07:00",
+      "url": "https://texasjudges.org/judicial-comparisons-old/20208coacj/",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19724/?format=json",
+      "id": 19724,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8377/?format=json",
+      "date_created": "2022-07-28T15:52:55.580289-07:00",
+      "date_modified": "2022-07-28T15:52:55.580304-07:00",
+      "url": "https://ballotpedia.org/Yvonne_Rodriguez",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19725/?format=json",
+      "id": 19725,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8377/?format=json",
+      "date_created": "2022-07-28T15:52:55.581344-07:00",
+      "date_modified": "2022-07-28T15:52:55.581355-07:00",
+      "url": "https://theleventhalfirm.com/yvonne-rodriguez-esq/",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19726/?format=json",
+      "id": 19726,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8377/?format=json",
+      "date_created": "2022-07-28T15:52:55.582360-07:00",
+      "date_modified": "2022-07-28T15:52:55.582371-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=44699&office=20477",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19727/?format=json",
+      "id": 19727,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8377/?format=json",
+      "date_created": "2022-07-28T15:52:55.583395-07:00",
+      "date_modified": "2022-07-28T15:52:55.583407-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=151682",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19728/?format=json",
+      "id": 19728,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8377/?format=json",
+      "date_created": "2022-07-28T15:52:55.584435-07:00",
+      "date_modified": "2022-07-28T15:52:55.584448-07:00",
+      "url": "https://lawyers.justia.com/lawyer/judge-yvonne-t-rodriguez-257246",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19729/?format=json",
+      "id": 19729,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8377/?format=json",
+      "date_created": "2022-07-28T15:52:55.585492-07:00",
+      "date_modified": "2022-07-28T15:52:55.585504-07:00",
+      "url": "https://epcountyvotes.com/elected_officials/212",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19730/?format=json",
+      "id": 19730,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8377/?format=json",
+      "date_created": "2022-07-28T15:52:55.586555-07:00",
+      "date_modified": "2022-07-28T15:52:55.586567-07:00",
+      "url": "https://www.txcourts.gov/8thcoa/about-the-court/",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19731/?format=json",
+      "id": 19731,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8377/?format=json",
+      "date_created": "2022-07-28T15:52:55.587648-07:00",
+      "date_modified": "2022-07-28T15:52:55.587660-07:00",
+      "url": "https://www.txcourts.gov/8thcoa/about-the-court/justices/chief-justice-yvonne-t-rodriguez/",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19732/?format=json",
+      "id": 19732,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8377/?format=json",
+      "date_created": "2022-07-28T15:52:55.588686-07:00",
+      "date_modified": "2022-07-28T15:52:55.588700-07:00",
+      "url": "",
+      "date_accessed": "2022-07-28",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12566/?format=json",
+      "id": 12566,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/447/?format=json",
+        "id": 447,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Mary Hardin-Baylor",
+        "ein": 741191640
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8377/?format=json",
+      "date_created": "2022-07-28T15:52:55.569929-07:00",
+      "date_modified": "2022-07-28T15:52:55.569952-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Psychology",
+      "degree_year": 1990
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12567/?format=json",
+      "id": 12567,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6016/?format=json",
+        "id": 6016,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Baylor University",
+        "ein": 741159753
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8377/?format=json",
+      "date_created": "2022-07-28T15:52:55.576234-07:00",
+      "date_modified": "2022-07-28T15:52:55.576251-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1993
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33363/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51703/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51704/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51705/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8400/?format=json",
+      "id": 8400,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8377/?format=json",
+      "date_created": "2022-07-28T16:00:04.871197-07:00",
+      "date_modified": "2022-07-28T16:00:04.871212-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:29:06.224049-07:00",
+  "date_modified": "2022-07-28T16:03:47.206818-07:00",
+  "date_completed": "2022-07-28T15:43:18-07:00",
+  "fjc_id": null,
+  "slug": "yvonne-t-rodriguez",
+  "name_first": "Yvonne",
+  "name_middle": "T.",
+  "name_last": "Rodriguez",
+  "name_suffix": "",
+  "date_dob": "1958-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Wiesbaden",
+  "dob_state": "",
+  "dob_country": "Germany",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

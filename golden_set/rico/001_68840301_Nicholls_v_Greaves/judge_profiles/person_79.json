@@ -1,0 +1,89 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/79/?format=json",
+  "id": 79,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/25/?format=json",
+      "id": 25,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/79/?format=json",
+      "date_created": "2016-04-20T08:15:57.802963-07:00",
+      "date_modified": "2016-04-20T08:15:57.802991-07:00",
+      "year_rated": 1971,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/29/?format=json",
+      "id": 29,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/79/?format=json",
+      "date_created": "2016-04-20T08:15:57.822041-07:00",
+      "date_modified": "2016-04-20T08:15:57.822071-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1941
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/267/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/268/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/269/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/270/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/271/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/272/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/273/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/80/?format=json",
+      "id": 80,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/79/?format=json",
+      "date_created": "2016-04-20T08:15:57.794929-07:00",
+      "date_modified": "2016-04-20T08:15:57.794960-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1971-11-17",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:15:57.756692-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 27,
+  "slug": "charles-mengel-allen",
+  "name_first": "Charles",
+  "name_middle": "Mengel",
+  "name_last": "Allen",
+  "name_suffix": "",
+  "date_dob": "1916-11-22",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2000-01-04",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Louisville",
+  "dob_state": "KY",
+  "dob_country": "United States",
+  "dod_city": "Louisville",
+  "dod_state": "KY",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

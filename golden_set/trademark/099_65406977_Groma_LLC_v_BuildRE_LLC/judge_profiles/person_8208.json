@@ -1,0 +1,160 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8208/?format=json",
+  "id": 8208,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9818/?format=json",
+      "id": 9818,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8208/?format=json",
+      "date_created": "2022-03-03T16:52:50.776969-08:00",
+      "date_modified": "2022-03-03T16:52:50.776996-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-03",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9819/?format=json",
+      "id": 9819,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8208/?format=json",
+      "date_created": "2022-03-03T16:52:50.781575-08:00",
+      "date_modified": "2022-03-03T16:52:50.781601-08:00",
+      "url": "https://ballotpedia.org/James_A._Kelley",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9820/?format=json",
+      "id": 9820,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8208/?format=json",
+      "date_created": "2022-03-03T16:52:50.787408-08:00",
+      "date_modified": "2022-03-03T16:52:50.787434-08:00",
+      "url": "https://www.martindale.com/attorney/james-alexander-kelley-jr-98797/",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9821/?format=json",
+      "id": 9821,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8208/?format=json",
+      "date_created": "2022-03-03T16:52:50.792764-08:00",
+      "date_modified": "2022-03-03T16:52:50.792790-08:00",
+      "url": "https://trellis.law/judge/james.a.kelley",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9822/?format=json",
+      "id": 9822,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8208/?format=json",
+      "date_created": "2022-03-03T16:52:50.801842-08:00",
+      "date_modified": "2022-03-03T16:52:50.801869-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-03",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6405/?format=json",
+      "id": 6405,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2116/?format=json",
+        "id": 2116,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "California State University-Fresno",
+        "ein": 946001347
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8208/?format=json",
+      "date_created": "2016-04-20T08:28:54.502470-07:00",
+      "date_modified": "2022-03-03T16:52:50.737942-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1987
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8539/?format=json",
+      "id": 8539,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2116/?format=json",
+        "id": 2116,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "California State University-Fresno",
+        "ein": 946001347
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8208/?format=json",
+      "date_created": "2022-03-03T16:52:50.746784-08:00",
+      "date_modified": "2022-03-03T16:52:50.746811-08:00",
+      "degree_level": "ma",
+      "degree_detail": "",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8540/?format=json",
+      "id": 8540,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5210/?format=json",
+        "id": 5210,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2025-06-15T22:32:10.957501-07:00",
+        "name": "UC Law San Francisco",
+        "ein": 942581680
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8208/?format=json",
+      "date_created": "2022-03-03T16:52:50.756363-08:00",
+      "date_modified": "2022-03-03T16:52:50.756391-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1992
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43142/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6092/?format=json",
+      "id": 6092,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8208/?format=json",
+      "date_created": "2022-03-03T16:52:50.729834-08:00",
+      "date_modified": "2022-03-03T16:52:50.729864-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:54.469471-07:00",
+  "date_modified": "2022-03-03T16:52:50.717711-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "james-alexander-kelley-jr",
+  "name_first": "James",
+  "name_middle": "Alexander",
+  "name_last": "Kelley",
+  "name_suffix": "jr",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

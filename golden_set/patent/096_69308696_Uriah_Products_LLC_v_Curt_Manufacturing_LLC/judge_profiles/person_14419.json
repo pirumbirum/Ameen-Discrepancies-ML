@@ -1,0 +1,98 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14419/?format=json",
+  "id": 14419,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6091/?format=json",
+      "id": 6091,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14419/?format=json",
+      "date_created": "2021-11-22T12:55:34.892248-08:00",
+      "date_modified": "2021-11-22T12:55:34.892271-08:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2021-11-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2421/?format=json",
+      "id": 2421,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14419/?format=json",
+      "date_created": "2021-11-22T12:55:34.888019-08:00",
+      "date_modified": "2021-11-22T12:55:34.888043-08:00",
+      "year_rated": 2019,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6958/?format=json",
+      "id": 6958,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1443/?format=json",
+        "id": 1443,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Wabash College",
+        "ein": 350868202
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14419/?format=json",
+      "date_created": "2021-11-22T12:55:34.915164-08:00",
+      "date_modified": "2021-11-22T12:55:34.915192-08:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1994
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44194/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44195/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44196/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44197/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44198/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5020/?format=json",
+      "id": 5020,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14419/?format=json",
+      "date_created": "2021-11-22T12:55:34.881643-08:00",
+      "date_modified": "2021-11-22T12:55:34.881667-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2019-01-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-11-22T12:55:34.836794-08:00",
+  "date_modified": "2021-11-22T12:55:34.836861-08:00",
+  "date_completed": null,
+  "fjc_id": 6731091,
+  "slug": "damon-ray-leichty",
+  "name_first": "Damon",
+  "name_middle": "Ray",
+  "name_last": "Leichty",
+  "name_suffix": "",
+  "date_dob": "1971-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Rensselaer",
+  "dob_state": "IN",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

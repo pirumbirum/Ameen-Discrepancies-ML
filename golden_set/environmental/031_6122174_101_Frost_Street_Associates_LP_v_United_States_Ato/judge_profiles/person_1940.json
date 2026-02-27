@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1940/?format=json",
+  "id": 1940,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1201/?format=json",
+      "id": 1201,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1940/?format=json",
+      "date_created": "2016-04-20T08:20:18.477419-07:00",
+      "date_modified": "2016-04-20T08:20:18.477440-07:00",
+      "year_rated": 1997,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/12006/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12007/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12008/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12009/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12010/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12011/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12012/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12013/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1947/?format=json",
+      "id": 1947,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1940/?format=json",
+      "date_created": "2016-04-20T08:20:18.471987-07:00",
+      "date_modified": "2016-04-20T08:20:18.472013-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1997-11-08",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:18.439969-07:00",
+  "date_modified": "2020-11-25T08:30:18.078421-08:00",
+  "date_completed": null,
+  "fjc_id": 2756,
+  "slug": "sam-a-lindsay",
+  "name_first": "Sam",
+  "name_middle": "A.",
+  "name_last": "Lindsay",
+  "name_suffix": "",
+  "date_dob": "1951-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "San Antonio",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

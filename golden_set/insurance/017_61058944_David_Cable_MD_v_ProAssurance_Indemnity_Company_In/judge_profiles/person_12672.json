@@ -1,0 +1,139 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12672/?format=json",
+  "id": 12672,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9657/?format=json",
+      "id": 9657,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12672/?format=json",
+      "date_created": "2022-03-03T10:21:53.618264-08:00",
+      "date_modified": "2022-03-03T10:21:53.618287-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-03",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9658/?format=json",
+      "id": 9658,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12672/?format=json",
+      "date_created": "2022-03-03T10:21:53.623269-08:00",
+      "date_modified": "2022-03-03T10:21:53.623291-08:00",
+      "url": "https://ballotpedia.org/Gerald_Johnston",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9659/?format=json",
+      "id": 9659,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12672/?format=json",
+      "date_created": "2022-03-03T10:21:53.628859-08:00",
+      "date_modified": "2022-03-03T10:21:53.628881-08:00",
+      "url": "https://www.martindale.com/attorney/gerald-gordon-johnston-258180/",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9660/?format=json",
+      "id": 9660,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12672/?format=json",
+      "date_created": "2022-03-03T10:21:53.635022-08:00",
+      "date_modified": "2022-03-03T10:21:53.635047-08:00",
+      "url": "https://trellis.law/judge/gerald.g.johnston",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9661/?format=json",
+      "id": 9661,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12672/?format=json",
+      "date_created": "2022-03-03T10:21:53.644576-08:00",
+      "date_modified": "2022-03-03T10:21:53.644603-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-03",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8467/?format=json",
+      "id": 8467,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4765/?format=json",
+        "id": 4765,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Redlands",
+        "ein": 951643389
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12672/?format=json",
+      "date_created": "2022-03-03T10:21:53.598971-08:00",
+      "date_modified": "2022-03-03T10:21:53.598994-08:00",
+      "degree_level": "ba",
+      "degree_detail": "English",
+      "degree_year": 1980
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8468/?format=json",
+      "id": 8468,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3117/?format=json",
+        "id": 3117,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Southern California",
+        "ein": 951642394
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12672/?format=json",
+      "date_created": "2022-03-03T10:21:53.610044-08:00",
+      "date_modified": "2022-03-03T10:21:53.610067-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1984
+    }
+  ],
+  "positions": [],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6040/?format=json",
+      "id": 6040,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12672/?format=json",
+      "date_created": "2022-03-03T10:21:53.590584-08:00",
+      "date_modified": "2022-03-03T10:21:53.590610-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:09:59.424999-07:00",
+  "date_modified": "2022-03-03T10:21:53.577862-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "gerald-gordon-johnston",
+  "name_first": "Gerald",
+  "name_middle": "Gordon",
+  "name_last": "Johnston",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,84 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5611/?format=json",
+  "id": 5611,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1830/?format=json",
+      "id": 1830,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5611/?format=json",
+      "date_created": "2016-04-20T08:26:32.708397-07:00",
+      "date_modified": "2016-04-20T08:26:32.708424-07:00",
+      "url": "http://en.wikipedia.org/wiki/Florence_K._Murray",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4638/?format=json",
+      "id": 4638,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/601/?format=json",
+        "id": 601,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Boston University",
+        "ein": 42103547
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5611/?format=json",
+      "date_created": "2016-04-20T08:26:32.677804-07:00",
+      "date_modified": "2016-04-20T08:26:32.677837-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27997/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27998/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27999/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4405/?format=json",
+      "id": 4405,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5611/?format=json",
+      "date_created": "2016-04-20T08:26:32.702935-07:00",
+      "date_modified": "2016-04-20T08:26:32.702964-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:32.626902-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "florence-kerins-murray",
+  "name_first": "Florence",
+  "name_middle": "Kerins",
+  "name_last": "Murray",
+  "name_suffix": "",
+  "date_dob": "1916-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": "2004-03-28",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

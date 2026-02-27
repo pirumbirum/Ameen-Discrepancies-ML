@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14260/?format=json",
+  "id": 14260,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10190/?format=json",
+      "id": 10190,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14260/?format=json",
+      "date_created": "2022-03-06T17:15:10.396811-08:00",
+      "date_modified": "2022-03-06T17:15:10.396833-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10191/?format=json",
+      "id": 10191,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14260/?format=json",
+      "date_created": "2022-03-06T17:15:10.402944-08:00",
+      "date_modified": "2022-03-06T17:15:10.402967-08:00",
+      "url": "https://trellis.law/judge-dashboard/2005/bio",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10192/?format=json",
+      "id": 10192,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14260/?format=json",
+      "date_created": "2022-03-06T17:15:10.411848-08:00",
+      "date_modified": "2022-03-06T17:15:10.411871-08:00",
+      "url": "https://www.martindale.com/attorney/eumi-kim-lee-2063249/",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10193/?format=json",
+      "id": 10193,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14260/?format=json",
+      "date_created": "2022-03-06T17:15:10.417445-08:00",
+      "date_modified": "2022-03-06T17:15:10.417467-08:00",
+      "url": "https://ballotpedia.org/Eumi_Lee",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10194/?format=json",
+      "id": 10194,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14260/?format=json",
+      "date_created": "2022-03-06T17:15:10.425874-08:00",
+      "date_modified": "2022-03-06T17:15:10.425898-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-06",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8707/?format=json",
+      "id": 8707,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1207/?format=json",
+        "id": 1207,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Pomona College",
+        "ein": 951664112
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14260/?format=json",
+      "date_created": "2022-03-06T17:15:10.382666-08:00",
+      "date_modified": "2022-03-06T17:15:10.382689-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1994
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8708/?format=json",
+      "id": 8708,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6053/?format=json",
+        "id": 6053,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Georgetown University",
+        "ein": 530196603
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14260/?format=json",
+      "date_created": "2022-03-06T17:15:10.392148-08:00",
+      "date_modified": "2022-03-06T17:15:10.392171-08:00",
+      "degree_level": "jd",
+      "degree_detail": "1999",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43948/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6202/?format=json",
+      "id": 6202,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14260/?format=json",
+      "date_created": "2022-03-06T17:15:10.366570-08:00",
+      "date_modified": "2022-03-06T17:15:10.366606-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6203/?format=json",
+      "id": 6203,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14260/?format=json",
+      "date_created": "2022-03-06T17:15:10.374392-08:00",
+      "date_modified": "2022-03-06T17:15:10.374415-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:14.499753-07:00",
+  "date_modified": "2022-03-20T19:02:01.817310-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "eumi-kim-lee",
+  "name_first": "Eumi",
+  "name_middle": "Kim",
+  "name_last": "Lee",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13891/?format=json",
+  "id": 13891,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9689/?format=json",
+      "id": 9689,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13891/?format=json",
+      "date_created": "2022-03-03T11:03:54.274287-08:00",
+      "date_modified": "2022-03-03T11:03:54.274309-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-03",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9690/?format=json",
+      "id": 9690,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13891/?format=json",
+      "date_created": "2022-03-03T11:03:54.279259-08:00",
+      "date_modified": "2022-03-03T11:03:54.279282-08:00",
+      "url": "https://ballotpedia.org/Michael_W._Jones",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9691/?format=json",
+      "id": 9691,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13891/?format=json",
+      "date_created": "2022-03-03T11:03:54.283115-08:00",
+      "date_modified": "2022-03-03T11:03:54.283138-08:00",
+      "url": "https://trellis.law/judge-dashboard/581/bio",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9692/?format=json",
+      "id": 9692,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13891/?format=json",
+      "date_created": "2022-03-03T11:03:54.290218-08:00",
+      "date_modified": "2022-03-03T11:03:54.290244-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-03",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8482/?format=json",
+      "id": 8482,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4934/?format=json",
+        "id": 4934,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "California State University-Sacramento",
+        "ein": 680365325
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13891/?format=json",
+      "date_created": "2022-03-03T11:03:54.260563-08:00",
+      "date_modified": "2022-03-03T11:03:54.260586-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1980
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8483/?format=json",
+      "id": 8483,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2137/?format=json",
+        "id": 2137,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Western State College of Law at Argosy University",
+        "ein": 952313875
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13891/?format=json",
+      "date_created": "2022-03-03T11:03:54.268789-08:00",
+      "date_modified": "2022-03-03T11:03:54.268812-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1988
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43539/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6049/?format=json",
+      "id": 6049,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13891/?format=json",
+      "date_created": "2022-03-03T11:03:54.243669-08:00",
+      "date_modified": "2022-03-03T11:03:54.243692-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6050/?format=json",
+      "id": 6050,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13891/?format=json",
+      "date_created": "2022-03-03T11:03:54.253410-08:00",
+      "date_modified": "2022-03-03T11:03:54.253435-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:59.175216-07:00",
+  "date_modified": "2022-03-20T15:43:30.252334-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "michael-w-jones",
+  "name_first": "Michael",
+  "name_middle": "W.",
+  "name_last": "Jones",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

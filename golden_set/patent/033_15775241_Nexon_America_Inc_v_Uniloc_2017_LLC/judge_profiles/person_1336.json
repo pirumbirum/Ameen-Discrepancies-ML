@@ -1,0 +1,66 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1336/?format=json",
+  "id": 1336,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/823/?format=json",
+      "id": 823,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1336/?format=json",
+      "date_created": "2016-04-20T08:18:50.656239-07:00",
+      "date_modified": "2016-04-20T08:18:50.656256-07:00",
+      "year_rated": 1985,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/8113/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8114/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8115/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8116/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1342/?format=json",
+      "id": 1342,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1336/?format=json",
+      "date_created": "2016-04-20T08:18:50.646852-07:00",
+      "date_modified": "2016-04-20T08:18:50.646872-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1985-04-17",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:50.613996-07:00",
+  "date_modified": "2020-11-25T08:30:12.704802-08:00",
+  "date_completed": null,
+  "fjc_id": 950,
+  "slug": "sam-blakeley-hall-jr",
+  "name_first": "Sam",
+  "name_middle": "Blakeley",
+  "name_last": "Hall",
+  "name_suffix": "jr",
+  "date_dob": "1924-01-11",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1994-04-10",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Marshall",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "Marshall",
+  "dod_state": "TX",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

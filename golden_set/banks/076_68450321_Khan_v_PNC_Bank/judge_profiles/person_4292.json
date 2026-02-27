@@ -1,0 +1,52 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4292/?format=json",
+  "id": 4292,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/340/?format=json",
+      "id": 340,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4292/?format=json",
+      "date_created": "2016-04-20T08:24:51.595220-07:00",
+      "date_modified": "2016-04-20T08:24:51.595241-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/200010971773",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24267/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24268/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24269/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24270/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24271/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:51.528061-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "dan-c-flanagan",
+  "name_first": "Dan",
+  "name_middle": "C.",
+  "name_last": "Flanagan",
+  "name_suffix": "",
+  "date_dob": "1899-04-23",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1960-02-28",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

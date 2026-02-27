@@ -1,0 +1,182 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15393/?format=json",
+  "id": 15393,
+  "race": [
+    "mena"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16610/?format=json",
+      "id": 16610,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15393/?format=json",
+      "date_created": "2022-05-26T17:36:30.728997-07:00",
+      "date_modified": "2022-05-26T17:36:30.729012-07:00",
+      "url": "https://en.wikipedia.org/wiki/Hala_Y._Jarbou",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16611/?format=json",
+      "id": 16611,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15393/?format=json",
+      "date_created": "2022-05-26T17:36:30.732801-07:00",
+      "date_modified": "2022-05-26T17:36:30.732816-07:00",
+      "url": "https://www.miwd.uscourts.gov/content/judge-hala-y-jarbou",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16612/?format=json",
+      "id": 16612,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15393/?format=json",
+      "date_created": "2022-05-26T17:36:30.733420-07:00",
+      "date_modified": "2022-05-26T17:36:30.733436-07:00",
+      "url": "https://ballotpedia.org/Hala_Jarbou",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16613/?format=json",
+      "id": 16613,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15393/?format=json",
+      "date_created": "2022-05-26T17:36:30.734053-07:00",
+      "date_modified": "2022-05-26T17:36:30.734068-07:00",
+      "url": "https://www.icle.org/modules/directories/contributors/bio.aspx?Pnumber=P55039",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16614/?format=json",
+      "id": 16614,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15393/?format=json",
+      "date_created": "2022-05-26T17:36:30.734616-07:00",
+      "date_modified": "2022-05-26T17:36:30.734630-07:00",
+      "url": "https://www.congress.gov/nomination/116th-congress/1713",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16615/?format=json",
+      "id": 16615,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15393/?format=json",
+      "date_created": "2022-05-26T17:36:30.735211-07:00",
+      "date_modified": "2022-05-26T17:36:30.735226-07:00",
+      "url": "https://dbpedia.org/page/Hala_Y._Jarbou",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16616/?format=json",
+      "id": 16616,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15393/?format=json",
+      "date_created": "2022-05-26T17:36:30.735754-07:00",
+      "date_modified": "2022-05-26T17:36:30.735769-07:00",
+      "url": "https://www.judiciary.senate.gov/imo/media/doc/Jarbou%20Responses%20to%20Hawley%20QFRs.pdf",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11641/?format=json",
+      "id": 11641,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1664/?format=json",
+        "id": 1664,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Wayne State University",
+        "ein": 686028429
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15393/?format=json",
+      "date_created": "2022-05-26T17:36:30.720290-07:00",
+      "date_modified": "2022-05-26T17:36:30.720309-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1997
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11640/?format=json",
+      "id": 11640,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1559/?format=json",
+        "id": 1559,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Michigan-Dearborn",
+        "ein": 386006309
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15393/?format=json",
+      "date_created": "2022-05-26T17:36:30.712679-07:00",
+      "date_modified": "2022-05-26T17:43:01.903886-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Business Administration, with high distinction",
+      "degree_year": 1994
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/48051/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48052/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48053/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48054/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48055/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48056/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48057/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7982/?format=json",
+      "id": 7982,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15393/?format=json",
+      "date_created": "2022-05-26T17:36:30.721933-07:00",
+      "date_modified": "2022-05-26T17:36:30.721949-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2020-03-11",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7983/?format=json",
+      "id": 7983,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15393/?format=json",
+      "date_created": "2022-05-26T17:36:30.728173-07:00",
+      "date_modified": "2022-05-26T17:36:30.728190-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2015-10-20",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-05-26T17:36:30.690650-07:00",
+  "date_modified": "2022-05-26T17:46:33.746915-07:00",
+  "date_completed": "2022-05-26T17:28:58-07:00",
+  "fjc_id": null,
+  "slug": "hala-yalda-jarbou",
+  "name_first": "Hala",
+  "name_middle": "Yalda",
+  "name_last": "Jarbou",
+  "name_suffix": "",
+  "date_dob": "1971-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Tel Kaif, Iraq",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "ca",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

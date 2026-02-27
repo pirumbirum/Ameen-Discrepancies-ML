@@ -1,0 +1,69 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7242/?format=json",
+  "id": 7242,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3216/?format=json",
+      "id": 3216,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7242/?format=json",
+      "date_created": "2016-04-20T08:28:10.396481-07:00",
+      "date_modified": "2016-04-20T08:28:10.396505-07:00",
+      "url": "http://www.azcourts.gov/coa1/HistoryoftheCourt.aspx",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3217/?format=json",
+      "id": 3217,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7242/?format=json",
+      "date_created": "2016-04-20T08:28:10.402529-07:00",
+      "date_modified": "2016-04-20T08:28:10.402553-07:00",
+      "url": "http://www.firstthingsfirstaz.gov/WhoWeAre/Board/Pages/CecilBPatterson.aspx",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3218/?format=json",
+      "id": 3218,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7242/?format=json",
+      "date_created": "2016-04-20T08:28:10.408466-07:00",
+      "date_modified": "2016-04-20T08:28:10.408489-07:00",
+      "url": "http://archive.azcentral.com/ic/pdf/brewer-judge-appointments.pdf",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/31572/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/31573/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:10.373753-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "sebastian-patti",
+  "name_first": "Sebastian",
+  "name_middle": "",
+  "name_last": "Patti",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

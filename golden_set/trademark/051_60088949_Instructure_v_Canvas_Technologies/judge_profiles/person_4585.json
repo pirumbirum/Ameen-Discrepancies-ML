@@ -1,0 +1,94 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4585/?format=json",
+  "id": 4585,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/656/?format=json",
+      "id": 656,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4585/?format=json",
+      "date_created": "2016-04-20T08:25:10.808821-07:00",
+      "date_modified": "2016-04-20T08:25:10.808858-07:00",
+      "url": "http://www.lasc.org/Bicentennial/justices.aspx",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/657/?format=json",
+      "id": 657,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4585/?format=json",
+      "date_created": "2016-04-20T08:25:10.815464-07:00",
+      "date_modified": "2016-04-20T08:25:10.815501-07:00",
+      "url": "http://www.lasc.org/Bicentennial/justices/Kimball_Catherine.aspx",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3689/?format=json",
+      "id": 3689,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/393/?format=json",
+        "id": 393,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Louisiana State University and Agricultural & Mechanical College",
+        "ein": 726000848
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4585/?format=json",
+      "date_created": "2016-04-20T08:25:10.778654-07:00",
+      "date_modified": "2016-04-20T08:25:10.778679-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24996/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24997/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24998/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4008/?format=json",
+      "id": 4008,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4585/?format=json",
+      "date_created": "2016-04-20T08:25:10.802269-07:00",
+      "date_modified": "2016-04-20T08:25:10.802311-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:10.753011-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "catherine-d-kimball",
+  "name_first": "Catherine",
+  "name_middle": "D.",
+  "name_last": "Kimball",
+  "name_suffix": "",
+  "date_dob": "1945-02-07",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

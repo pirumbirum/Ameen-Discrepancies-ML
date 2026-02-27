@@ -1,0 +1,119 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13422/?format=json",
+  "id": 13422,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11890/?format=json",
+      "id": 11890,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13422/?format=json",
+      "date_created": "2022-03-11T10:38:11.679362-08:00",
+      "date_modified": "2022-03-11T10:38:11.679384-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-11",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11891/?format=json",
+      "id": 11891,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13422/?format=json",
+      "date_created": "2022-03-11T10:38:11.686409-08:00",
+      "date_modified": "2022-03-11T10:38:11.686431-08:00",
+      "url": "https://www.courts.ca.gov/23455.htm",
+      "date_accessed": "2022-03-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11892/?format=json",
+      "id": 11892,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13422/?format=json",
+      "date_created": "2022-03-11T10:38:11.690372-08:00",
+      "date_modified": "2022-03-11T10:38:11.690397-08:00",
+      "url": "https://ballotpedia.org/David_Rubin",
+      "date_accessed": "2022-03-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11893/?format=json",
+      "id": 11893,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13422/?format=json",
+      "date_created": "2022-03-11T10:38:11.699603-08:00",
+      "date_modified": "2022-03-11T10:38:11.699626-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-11",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9508/?format=json",
+      "id": 9508,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3858/?format=json",
+        "id": 3858,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tulane University of Louisiana",
+        "ein": 720423889
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13422/?format=json",
+      "date_created": "2022-03-11T10:38:11.665261-08:00",
+      "date_modified": "2022-03-11T10:38:11.665286-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1982
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9509/?format=json",
+      "id": 9509,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3858/?format=json",
+        "id": 3858,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tulane University of Louisiana",
+        "ein": 720423889
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13422/?format=json",
+      "date_created": "2022-03-11T10:38:11.674626-08:00",
+      "date_modified": "2022-03-11T10:38:11.674649-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1986
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42920/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:37.776137-07:00",
+  "date_modified": "2022-03-21T14:54:30.551703-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "david-m-rubin",
+  "name_first": "David",
+  "name_middle": "M.",
+  "name_last": "Rubin",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

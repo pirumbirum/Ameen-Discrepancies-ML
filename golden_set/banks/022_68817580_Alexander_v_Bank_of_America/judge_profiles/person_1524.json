@@ -1,0 +1,53 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1524/?format=json",
+  "id": 1524,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9302/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1532/?format=json",
+      "id": 1532,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1524/?format=json",
+      "date_created": "2016-04-20T08:19:18.124147-07:00",
+      "date_modified": "2016-04-20T08:19:18.124171-07:00",
+      "political_party": "j",
+      "source": "a",
+      "date_start": "1806-04-19",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:18.092696-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1100,
+  "slug": "james-houston",
+  "name_first": "James",
+  "name_middle": "",
+  "name_last": "Houston",
+  "name_suffix": "",
+  "date_dob": "1767-10-10",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1819-06-08",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Chestertown",
+  "dob_state": "MD",
+  "dob_country": "United States",
+  "dod_city": "Chestertown",
+  "dod_state": "MD",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

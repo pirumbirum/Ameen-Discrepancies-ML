@@ -1,0 +1,169 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15847/?format=json",
+  "id": 15847,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18822/?format=json",
+      "id": 18822,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15847/?format=json",
+      "date_created": "2022-07-18T09:40:36.199351-07:00",
+      "date_modified": "2022-07-18T09:40:36.199364-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-18",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18823/?format=json",
+      "id": 18823,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15847/?format=json",
+      "date_created": "2022-07-18T09:51:44.158242-07:00",
+      "date_modified": "2022-07-18T09:51:44.158257-07:00",
+      "url": "https://mccoyforjudge.com/aboutsusanmccoy/",
+      "date_accessed": "2022-07-18",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18824/?format=json",
+      "id": 18824,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15847/?format=json",
+      "date_created": "2022-07-18T09:51:44.178708-07:00",
+      "date_modified": "2022-07-18T09:51:44.178722-07:00",
+      "url": "https://mccoyforjudge.com/",
+      "date_accessed": "2022-07-18",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18825/?format=json",
+      "id": 18825,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15847/?format=json",
+      "date_created": "2022-07-18T09:51:44.179200-07:00",
+      "date_modified": "2022-07-18T09:51:44.179211-07:00",
+      "url": "https://www.tarrantcounty.com/en/civil-courts/district-courts/153rd-district-court.html",
+      "date_accessed": "2022-07-18",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18826/?format=json",
+      "id": 18826,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15847/?format=json",
+      "date_created": "2022-07-18T09:51:44.179631-07:00",
+      "date_modified": "2022-07-18T09:51:44.179642-07:00",
+      "url": "https://www.linkedin.com/in/susan-mccoy-886a244b/",
+      "date_accessed": "2022-07-18",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18827/?format=json",
+      "id": 18827,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15847/?format=json",
+      "date_created": "2022-07-18T09:51:44.180049-07:00",
+      "date_modified": "2022-07-18T09:51:44.180059-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=149025",
+      "date_accessed": "2022-07-18",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18828/?format=json",
+      "id": 18828,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15847/?format=json",
+      "date_created": "2022-07-18T09:51:44.180460-07:00",
+      "date_modified": "2022-07-18T09:51:44.180471-07:00",
+      "url": "",
+      "date_accessed": "2022-07-18",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12311/?format=json",
+      "id": 12311,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2480/?format=json",
+        "id": 2480,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Houston",
+        "ein": 746001399
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15847/?format=json",
+      "date_created": "2022-07-18T09:40:36.189205-07:00",
+      "date_modified": "2022-07-18T09:40:36.189224-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12310/?format=json",
+      "id": 12310,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1296/?format=json",
+        "id": 1296,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas A & M University-College Station",
+        "ein": 746000531
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15847/?format=json",
+      "date_created": "2022-07-18T09:40:36.178860-07:00",
+      "date_modified": "2022-07-18T09:56:43.107608-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Political Science & Government",
+      "degree_year": 1988
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51007/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51008/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51009/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51011/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51012/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51013/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51010/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8290/?format=json",
+      "id": 8290,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15847/?format=json",
+      "date_created": "2022-07-18T09:40:36.191799-07:00",
+      "date_modified": "2022-07-18T09:40:36.191813-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-18T09:40:35.983521-07:00",
+  "date_modified": "2022-07-18T09:56:43.075717-07:00",
+  "date_completed": "2022-07-18T09:13:01-07:00",
+  "fjc_id": null,
+  "slug": "susan-heygood-mccoy",
+  "name_first": "Susan",
+  "name_middle": "Heygood",
+  "name_last": "McCoy",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

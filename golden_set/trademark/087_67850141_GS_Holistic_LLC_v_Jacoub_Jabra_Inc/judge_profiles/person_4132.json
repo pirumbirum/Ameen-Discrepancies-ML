@@ -1,0 +1,84 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4132/?format=json",
+  "id": 4132,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/221/?format=json",
+      "id": 221,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4132/?format=json",
+      "date_created": "2016-04-20T08:24:42.692777-07:00",
+      "date_modified": "2016-04-20T08:24:42.692796-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/100016661704",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3422/?format=json",
+      "id": 3422,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1057/?format=json",
+        "id": 1057,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Chicago",
+        "ein": 362177139
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4132/?format=json",
+      "date_created": "2016-04-20T08:24:42.667772-07:00",
+      "date_modified": "2016-04-20T08:24:42.667795-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23922/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23923/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23924/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3816/?format=json",
+      "id": 3816,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4132/?format=json",
+      "date_created": "2016-04-20T08:24:42.688740-07:00",
+      "date_modified": "2016-04-20T08:24:42.688762-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:42.625883-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "philip-l-rice",
+  "name_first": "Philip",
+  "name_middle": "L.",
+  "name_last": "Rice",
+  "name_suffix": "",
+  "date_dob": "1886-07-22",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1974-01-01",
+  "date_granularity_dod": "%Y",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

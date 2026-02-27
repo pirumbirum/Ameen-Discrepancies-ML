@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13671/?format=json",
+  "id": 13671,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8895/?format=json",
+      "id": 8895,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13671/?format=json",
+      "date_created": "2022-02-24T18:01:05.577574-08:00",
+      "date_modified": "2022-02-24T18:01:05.577680-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-24",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8896/?format=json",
+      "id": 8896,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13671/?format=json",
+      "date_created": "2022-02-24T18:01:05.583974-08:00",
+      "date_modified": "2022-02-24T18:01:05.584002-08:00",
+      "url": "https://www.martindale.com/attorney/beatriz-maria-garcia-gordon-109604/",
+      "date_accessed": "2022-02-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8897/?format=json",
+      "id": 8897,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13671/?format=json",
+      "date_created": "2022-02-24T18:01:05.588273-08:00",
+      "date_modified": "2022-02-24T18:01:05.588307-08:00",
+      "url": "https://ballotpedia.org/Beatriz_Gordon",
+      "date_accessed": "2022-02-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8898/?format=json",
+      "id": 8898,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13671/?format=json",
+      "date_created": "2022-02-24T18:01:05.600010-08:00",
+      "date_modified": "2022-02-24T18:01:05.600051-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-24",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8128/?format=json",
+      "id": 8128,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1749/?format=json",
+        "id": 1749,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Duke University",
+        "ein": 560532129
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13671/?format=json",
+      "date_created": "2022-02-24T18:01:05.560537-08:00",
+      "date_modified": "2022-02-24T18:01:05.560579-08:00",
+      "degree_level": "ba",
+      "degree_detail": "History",
+      "degree_year": 1993
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8129/?format=json",
+      "id": 8129,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13671/?format=json",
+      "date_created": "2022-02-24T18:01:05.570988-08:00",
+      "date_modified": "2022-02-24T18:01:05.571018-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1996
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43243/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5813/?format=json",
+      "id": 5813,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13671/?format=json",
+      "date_created": "2022-02-24T18:01:05.545350-08:00",
+      "date_modified": "2022-02-24T18:01:05.545382-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5814/?format=json",
+      "id": 5814,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13671/?format=json",
+      "date_created": "2022-02-24T18:01:05.553108-08:00",
+      "date_modified": "2022-02-24T18:01:05.553138-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:48.921526-07:00",
+  "date_modified": "2022-03-19T14:53:11.919335-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "beatriz-maria-garcia-gordon",
+  "name_first": "Beatriz",
+  "name_middle": "Maria Garcia",
+  "name_last": "Gordon",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

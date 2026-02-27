@@ -1,0 +1,56 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/440/?format=json",
+  "id": 440,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/2575/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2576/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2577/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2578/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/442/?format=json",
+      "id": 442,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/440/?format=json",
+      "date_created": "2016-04-20T08:16:47.840698-07:00",
+      "date_modified": "2016-04-20T08:16:47.840723-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1920-04-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:47.809195-07:00",
+  "date_modified": "2020-11-25T08:30:15.797179-08:00",
+  "date_completed": null,
+  "fjc_id": 299,
+  "slug": "nathan-philemon-bryan",
+  "name_first": "Nathan",
+  "name_middle": "Philemon",
+  "name_last": "Bryan",
+  "name_suffix": "",
+  "date_dob": "1872-04-23",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1935-08-08",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Fort Mason",
+  "dob_state": "FL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

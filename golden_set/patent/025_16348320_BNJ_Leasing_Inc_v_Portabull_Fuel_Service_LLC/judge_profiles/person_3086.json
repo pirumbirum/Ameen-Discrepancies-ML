@@ -1,0 +1,86 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3086/?format=json",
+  "id": 3086,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1956/?format=json",
+      "id": 1956,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3086/?format=json",
+      "date_created": "2016-04-20T08:22:58.983382-07:00",
+      "date_modified": "2016-04-20T08:22:58.983404-07:00",
+      "year_rated": 2004,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2595/?format=json",
+      "id": 2595,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3603/?format=json",
+        "id": 3603,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Mississippi State University",
+        "ein": 646000819
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3086/?format=json",
+      "date_created": "2016-04-20T08:22:59.006909-07:00",
+      "date_modified": "2016-04-20T08:22:59.006935-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1972
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/19380/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19381/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19382/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19379/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3102/?format=json",
+      "id": 3102,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3086/?format=json",
+      "date_created": "2016-04-20T08:22:58.976768-07:00",
+      "date_modified": "2016-04-20T08:22:58.976792-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2004-07-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:58.936030-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3081,
+  "slug": "keith-starrett",
+  "name_first": "Keith",
+  "name_middle": "",
+  "name_last": "Starrett",
+  "name_suffix": "",
+  "date_dob": "1951-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "McComb",
+  "dob_state": "MS",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,136 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14577/?format=json",
+  "id": 14577,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13544/?format=json",
+      "id": 13544,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14577/?format=json",
+      "date_created": "2022-03-29T13:04:51.200705-07:00",
+      "date_modified": "2022-03-29T13:04:51.200728-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-29",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13545/?format=json",
+      "id": 13545,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14577/?format=json",
+      "date_created": "2022-03-29T13:04:51.202529-07:00",
+      "date_modified": "2022-03-29T13:04:51.202551-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=n_PLUS_TTAhpEJtXy1B3_PLUS_74H7UA%3D%3D",
+      "date_accessed": "2022-03-29",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13546/?format=json",
+      "id": 13546,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14577/?format=json",
+      "date_created": "2022-03-29T13:04:51.203835-07:00",
+      "date_modified": "2022-03-29T13:04:51.203857-07:00",
+      "url": "https://ballotpedia.org/Stacy_D._Bennett",
+      "date_accessed": "2022-03-29",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13547/?format=json",
+      "id": 13547,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14577/?format=json",
+      "date_created": "2022-03-29T13:04:51.205004-07:00",
+      "date_modified": "2022-03-29T13:04:51.205027-07:00",
+      "url": "https://trellis.law/judge/stacy.d.bennett",
+      "date_accessed": "2022-03-29",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10285/?format=json",
+      "id": 10285,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/601/?format=json",
+        "id": 601,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Boston University",
+        "ein": 42103547
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14577/?format=json",
+      "date_created": "2022-03-29T13:04:51.190135-07:00",
+      "date_modified": "2022-03-29T13:04:51.190159-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1989
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10286/?format=json",
+      "id": 10286,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/25/?format=json",
+        "id": 25,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Ohio Northern University",
+        "ein": 344429091
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14577/?format=json",
+      "date_created": "2022-03-29T13:04:51.195503-07:00",
+      "date_modified": "2022-03-29T13:04:51.195535-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1992
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44961/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44962/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44963/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44964/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7265/?format=json",
+      "id": 7265,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14577/?format=json",
+      "date_created": "2022-03-29T13:04:51.198736-07:00",
+      "date_modified": "2022-03-29T13:04:51.198760-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-03-29T13:04:51.175705-07:00",
+  "date_modified": "2022-04-25T13:32:33.035969-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "stacy-d-bennett",
+  "name_first": "Stacy",
+  "name_middle": "D.",
+  "name_last": "Bennett",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

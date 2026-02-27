@@ -1,0 +1,91 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6720/?format=json",
+  "id": 6720,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2801/?format=json",
+      "id": 2801,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6720/?format=json",
+      "date_created": "2016-04-20T08:27:40.548639-07:00",
+      "date_modified": "2016-04-20T08:27:40.548660-07:00",
+      "url": "http://www.jud.ct.gov/external/supapp/appjudge7.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5465/?format=json",
+      "id": 5465,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1909/?format=json",
+        "id": 1909,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Fairfield University",
+        "ein": 60646623
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6720/?format=json",
+      "date_created": "2016-04-20T08:27:40.497251-07:00",
+      "date_modified": "2016-04-20T08:27:40.497275-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5466/?format=json",
+      "id": 5466,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6053/?format=json",
+        "id": 6053,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Georgetown University",
+        "ein": 530196603
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6720/?format=json",
+      "date_created": "2016-04-20T08:27:40.512523-07:00",
+      "date_modified": "2016-04-20T08:27:40.512550-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/30432/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30433/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30434/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30435/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30436/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:40.472771-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "joseph-p-flynn",
+  "name_first": "Joseph",
+  "name_middle": "P.",
+  "name_last": "Flynn",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,162 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12724/?format=json",
+  "id": 12724,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7903/?format=json",
+      "id": 7903,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12724/?format=json",
+      "date_created": "2022-02-21T09:41:50.331754-08:00",
+      "date_modified": "2022-02-21T09:41:50.331777-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-21",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7899/?format=json",
+      "id": 7899,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12724/?format=json",
+      "date_created": "2022-02-21T09:41:50.311873-08:00",
+      "date_modified": "2022-02-21T09:41:50.311896-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-21",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7900/?format=json",
+      "id": 7900,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12724/?format=json",
+      "date_created": "2022-02-21T09:41:50.316304-08:00",
+      "date_modified": "2022-02-21T09:41:50.316327-08:00",
+      "url": "https://www.martindale.com/attorney/hon-patrick-henry-donahue-157981257/",
+      "date_accessed": "2022-02-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7901/?format=json",
+      "id": 7901,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12724/?format=json",
+      "date_created": "2022-02-21T09:41:50.320139-08:00",
+      "date_modified": "2022-02-21T09:41:50.320161-08:00",
+      "url": "https://ballotpedia.org/Patrick_H._Donahue",
+      "date_accessed": "2022-02-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7902/?format=json",
+      "id": 7902,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12724/?format=json",
+      "date_created": "2022-02-21T09:41:50.323899-08:00",
+      "date_modified": "2022-02-21T09:41:50.323921-08:00",
+      "url": "https://trellis.law/judge/patrick.h.donahue",
+      "date_accessed": "2022-02-21",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7708/?format=json",
+      "id": 7708,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/627/?format=json",
+        "id": 627,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Northeastern University",
+        "ein": 41679980
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12724/?format=json",
+      "date_created": "2022-02-21T09:41:50.285733-08:00",
+      "date_modified": "2022-02-21T09:41:50.285757-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7709/?format=json",
+      "id": 7709,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2121/?format=json",
+        "id": 2121,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "California State University-Fullerton",
+        "ein": 330632102
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12724/?format=json",
+      "date_created": "2022-02-21T09:41:50.293548-08:00",
+      "date_modified": "2022-02-21T09:41:50.293571-08:00",
+      "degree_level": "ma",
+      "degree_detail": "Public Administration",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7710/?format=json",
+      "id": 7710,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3104/?format=json",
+        "id": 3104,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Loyola Marymount University",
+        "ein": 951643334
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12724/?format=json",
+      "date_created": "2022-02-21T09:41:50.300099-08:00",
+      "date_modified": "2022-02-21T09:41:50.300124-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1983
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/41837/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5560/?format=json",
+      "id": 5560,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12724/?format=json",
+      "date_created": "2022-02-21T09:41:50.306109-08:00",
+      "date_modified": "2022-02-21T09:41:50.306133-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:02.532840-07:00",
+  "date_modified": "2022-02-21T09:41:50.269639-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "patrick-henry-donahue",
+  "name_first": "Patrick",
+  "name_middle": "Henry",
+  "name_last": "Donahue",
+  "name_suffix": "",
+  "date_dob": "1949-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

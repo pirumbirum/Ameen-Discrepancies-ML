@@ -1,0 +1,141 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14832/?format=json",
+  "id": 14832,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14600/?format=json",
+      "id": 14600,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14832/?format=json",
+      "date_created": "2022-04-07T10:06:35.686553-07:00",
+      "date_modified": "2022-04-07T10:06:35.686575-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-07",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14601/?format=json",
+      "id": 14601,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14832/?format=json",
+      "date_created": "2022-04-07T10:06:35.688238-07:00",
+      "date_modified": "2022-04-07T10:06:35.688258-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=2GnJ51ilms/MmgRkwaSzEA%3D%3D",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14602/?format=json",
+      "id": 14602,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14832/?format=json",
+      "date_created": "2022-04-07T10:06:35.689379-07:00",
+      "date_modified": "2022-04-07T10:06:35.689399-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/Suffolk_County_District_Court/Chris%20Ann_Kelley/Chris_Ann_Kelley-839.xml",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14603/?format=json",
+      "id": 14603,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14832/?format=json",
+      "date_created": "2022-04-07T10:06:35.690457-07:00",
+      "date_modified": "2022-04-07T10:06:35.690477-07:00",
+      "url": "https://www.linkedin.com/in/chris-kelley-1697468/",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10781/?format=json",
+      "id": 10781,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5580/?format=json",
+        "id": 5580,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Western New England University",
+        "ein": 42108376
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14832/?format=json",
+      "date_created": "2022-04-07T10:06:35.673696-07:00",
+      "date_modified": "2022-04-07T10:06:35.673724-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1984
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10782/?format=json",
+      "id": 10782,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5661/?format=json",
+        "id": 5661,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stony Brook University",
+        "ein": 146013200
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14832/?format=json",
+      "date_created": "2022-04-07T10:06:35.678715-07:00",
+      "date_modified": "2022-04-07T10:06:35.678739-07:00",
+      "degree_level": "ba",
+      "degree_detail": "English Literature, cum laude",
+      "degree_year": 1981
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/46328/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46329/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46330/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46331/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46332/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46333/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46334/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46335/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46336/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7498/?format=json",
+      "id": 7498,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14832/?format=json",
+      "date_created": "2022-04-07T10:06:35.684227-07:00",
+      "date_modified": "2022-04-07T10:06:35.684287-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2018-06-20",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-07T10:06:35.162670-07:00",
+  "date_modified": "2022-05-07T15:48:43.724041-07:00",
+  "date_completed": "2022-05-07T15:31:31-07:00",
+  "fjc_id": null,
+  "slug": "chris-ann-kelley",
+  "name_first": "Chris",
+  "name_middle": "Ann",
+  "name_last": "Kelley",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

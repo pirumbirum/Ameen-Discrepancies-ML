@@ -1,0 +1,79 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3504/?format=json",
+  "id": 3504,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2926/?format=json",
+      "id": 2926,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6103/?format=json",
+        "id": 6103,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southwestern Oklahoma State University",
+        "ein": 736017987
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3504/?format=json",
+      "date_created": "2016-04-20T08:23:58.162631-07:00",
+      "date_modified": "2016-04-20T08:23:58.162655-07:00",
+      "degree_level": "",
+      "degree_detail": "",
+      "degree_year": 1889
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22036/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22037/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22038/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22039/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22040/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22041/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22042/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3522/?format=json",
+      "id": 3522,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3504/?format=json",
+      "date_created": "2016-04-20T08:23:58.134781-07:00",
+      "date_modified": "2016-04-20T08:23:58.134805-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1919-05-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:23:58.104599-07:00",
+  "date_modified": "2020-11-25T08:30:17.133822-08:00",
+  "date_completed": null,
+  "fjc_id": 2608,
+  "slug": "james-clifton-wilson",
+  "name_first": "James",
+  "name_middle": "Clifton",
+  "name_last": "Wilson",
+  "name_suffix": "",
+  "date_dob": "1874-06-21",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1951-08-03",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Palo Pino",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "Fort Worth",
+  "dod_state": "TX",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

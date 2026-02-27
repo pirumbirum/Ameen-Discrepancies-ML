@@ -1,0 +1,134 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12881/?format=json",
+  "id": 12881,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8691/?format=json",
+      "id": 8691,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12881/?format=json",
+      "date_created": "2022-02-24T14:43:44.959853-08:00",
+      "date_modified": "2022-02-24T14:43:44.959875-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-24",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8692/?format=json",
+      "id": 8692,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12881/?format=json",
+      "date_created": "2022-02-24T14:43:44.964486-08:00",
+      "date_modified": "2022-02-24T14:43:44.964510-08:00",
+      "url": "https://www.martindale.com/attorney/patricia-diane-garcia-216591/",
+      "date_accessed": "2022-02-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8693/?format=json",
+      "id": 8693,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12881/?format=json",
+      "date_created": "2022-02-24T14:43:44.968507-08:00",
+      "date_modified": "2022-02-24T14:43:44.968529-08:00",
+      "url": "https://ballotpedia.org/Patricia_Garcia",
+      "date_accessed": "2022-02-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8694/?format=json",
+      "id": 8694,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12881/?format=json",
+      "date_created": "2022-02-24T14:43:44.977045-08:00",
+      "date_modified": "2022-02-24T14:43:44.977069-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-24",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8034/?format=json",
+      "id": 8034,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2832/?format=json",
+        "id": 2832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-San Diego",
+        "ein": 956006144
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12881/?format=json",
+      "date_created": "2022-02-24T14:43:44.927628-08:00",
+      "date_modified": "2022-02-24T14:43:44.927651-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1982
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8035/?format=json",
+      "id": 8035,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5191/?format=json",
+        "id": 5191,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of San Diego",
+        "ein": 952544535
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12881/?format=json",
+      "date_created": "2022-02-24T14:43:44.936933-08:00",
+      "date_modified": "2022-02-24T14:43:44.936956-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1989
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42119/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44390/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5746/?format=json",
+      "id": 5746,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12881/?format=json",
+      "date_created": "2022-02-24T14:43:44.942787-08:00",
+      "date_modified": "2022-02-24T14:43:44.942809-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:10.891956-07:00",
+  "date_modified": "2022-03-19T13:46:17.940524-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "patricia-diane-garcia",
+  "name_first": "Patricia",
+  "name_middle": "Diane",
+  "name_last": "Garcia",
+  "name_suffix": "",
+  "date_dob": "1961-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

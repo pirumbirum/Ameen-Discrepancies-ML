@@ -1,0 +1,49 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5336/?format=json",
+  "id": 5336,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1504/?format=json",
+      "id": 1504,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5336/?format=json",
+      "date_created": "2016-04-20T08:26:11.306154-07:00",
+      "date_modified": "2016-04-20T08:26:11.306177-07:00",
+      "url": "https://www.ndcourts.gov/court/bios/Morris.htm",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27220/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27221/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:11.267841-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "james-morris",
+  "name_first": "James",
+  "name_middle": "",
+  "name_last": "Morris",
+  "name_suffix": "",
+  "date_dob": "1893-01-02",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1980-07-20",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

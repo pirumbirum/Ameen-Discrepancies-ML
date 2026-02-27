@@ -1,0 +1,181 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/16182/?format=json",
+  "id": 16182,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20588/?format=json",
+      "id": 20588,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16182/?format=json",
+      "date_created": "2022-08-08T17:09:16.020600-07:00",
+      "date_modified": "2022-08-08T17:09:16.020612-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-08-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20589/?format=json",
+      "id": 20589,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16182/?format=json",
+      "date_created": "2022-08-08T17:31:46.823762-07:00",
+      "date_modified": "2022-08-08T17:31:46.823776-07:00",
+      "url": "https://www.txcourts.gov/14thcoa/about-the-court/justices/justice-randy-wilson/",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20590/?format=json",
+      "id": 20590,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16182/?format=json",
+      "date_created": "2022-08-08T17:31:46.825411-07:00",
+      "date_modified": "2022-08-08T17:31:46.825422-07:00",
+      "url": "https://ballotpedia.org/Randy_Wilson_(Texas)",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20591/?format=json",
+      "id": 20591,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16182/?format=json",
+      "date_created": "2022-08-08T17:31:46.826434-07:00",
+      "date_modified": "2022-08-08T17:31:46.826444-07:00",
+      "url": "https://justicerandywilson.com/",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20592/?format=json",
+      "id": 20592,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16182/?format=json",
+      "date_created": "2022-08-08T17:31:46.827434-07:00",
+      "date_modified": "2022-08-08T17:31:46.827595-07:00",
+      "url": "https://www.law.com/texaslawyer/2020/12/21/a-susman-godfrey-partner-just-rose-to-judge-of-houstons-14th-court-of-appeals/",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20593/?format=json",
+      "id": 20593,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16182/?format=json",
+      "date_created": "2022-08-08T17:31:46.828579-07:00",
+      "date_modified": "2022-08-08T17:31:46.828590-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=192385",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20594/?format=json",
+      "id": 20594,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16182/?format=json",
+      "date_created": "2022-08-08T17:31:46.829541-07:00",
+      "date_modified": "2022-08-08T17:31:46.829552-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=67415&office=28894",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20595/?format=json",
+      "id": 20595,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16182/?format=json",
+      "date_created": "2022-08-08T17:31:46.830529-07:00",
+      "date_modified": "2022-08-08T17:31:46.830539-07:00",
+      "url": "",
+      "date_accessed": "2022-08-08",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12809/?format=json",
+      "id": 12809,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/199/?format=json",
+        "id": 199,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Arlington",
+        "ein": 756000121
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16182/?format=json",
+      "date_created": "2022-08-08T17:09:16.011075-07:00",
+      "date_modified": "2022-08-08T17:09:16.011095-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Government",
+      "degree_year": 1974
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12810/?format=json",
+      "id": 12810,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2480/?format=json",
+        "id": 2480,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Houston",
+        "ein": 746001399
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16182/?format=json",
+      "date_created": "2022-08-08T17:09:16.014368-07:00",
+      "date_modified": "2022-08-08T17:09:16.014384-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1977
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/52476/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52477/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52478/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52479/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52480/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52481/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52482/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52483/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52484/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8518/?format=json",
+      "id": 8518,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16182/?format=json",
+      "date_created": "2022-08-08T17:09:16.016615-07:00",
+      "date_modified": "2022-08-08T17:09:16.016628-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-08-08T17:09:15.997493-07:00",
+  "date_modified": "2022-08-08T17:36:01.700455-07:00",
+  "date_completed": "2022-08-08T17:07:28-07:00",
+  "fjc_id": null,
+  "slug": "randall-william-wilson",
+  "name_first": "Randall",
+  "name_middle": "William",
+  "name_last": "Wilson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

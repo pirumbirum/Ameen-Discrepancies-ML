@@ -1,0 +1,75 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/532/?format=json",
+  "id": 532,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/304/?format=json",
+      "id": 304,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/532/?format=json",
+      "date_created": "2016-04-20T08:17:00.182765-07:00",
+      "date_modified": "2016-04-20T08:17:00.182787-07:00",
+      "year_rated": 2013,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/3119/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3120/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3121/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3122/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3123/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3124/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3125/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3126/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3127/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3128/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3129/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3130/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3118/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/534/?format=json",
+      "id": 534,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/532/?format=json",
+      "date_created": "2016-04-20T08:17:00.175945-07:00",
+      "date_modified": "2016-04-20T08:17:00.175969-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2013-01-04",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:00.144277-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3487,
+  "slug": "valerie-elaine-caproni",
+  "name_first": "Valerie",
+  "name_middle": "Elaine",
+  "name_last": "Caproni",
+  "name_suffix": "",
+  "date_dob": "1955-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Lee County",
+  "dob_state": "AL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

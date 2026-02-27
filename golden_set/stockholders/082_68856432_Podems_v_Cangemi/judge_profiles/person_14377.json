@@ -1,0 +1,143 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14377/?format=json",
+  "id": 14377,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7212/?format=json",
+      "id": 7212,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14377/?format=json",
+      "date_created": "2022-02-16T09:40:49.647043-08:00",
+      "date_modified": "2022-02-16T09:40:49.647074-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7213/?format=json",
+      "id": 7213,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14377/?format=json",
+      "date_created": "2022-02-16T09:40:49.652326-08:00",
+      "date_modified": "2022-02-16T09:40:49.652364-08:00",
+      "url": "https://www.martindale.com/attorney/tony-joon-suk-cho-2432612/",
+      "date_accessed": "2022-02-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7214/?format=json",
+      "id": 7214,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14377/?format=json",
+      "date_created": "2022-02-16T09:40:49.658300-08:00",
+      "date_modified": "2022-02-16T09:40:49.658330-08:00",
+      "url": "https://ballotpedia.org/Tony_Cho",
+      "date_accessed": "2022-02-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7215/?format=json",
+      "id": 7215,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14377/?format=json",
+      "date_created": "2022-02-16T09:40:49.663122-08:00",
+      "date_modified": "2022-02-16T09:40:49.663154-08:00",
+      "url": "https://votersedge.org/ca/en/ballot/election/73-42a135/address/null/zip/90039/contests/contest/17253/candidate/139561",
+      "date_accessed": "2022-02-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7216/?format=json",
+      "id": 7216,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14377/?format=json",
+      "date_created": "2022-02-16T09:40:49.673652-08:00",
+      "date_modified": "2022-02-16T09:40:49.673683-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7432/?format=json",
+      "id": 7432,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2588/?format=json",
+        "id": 2588,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Irvine",
+        "ein": 952226406
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14377/?format=json",
+      "date_created": "2022-02-16T09:40:49.622478-08:00",
+      "date_modified": "2022-02-16T09:40:49.622505-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Political Science",
+      "degree_year": 1998
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7433/?format=json",
+      "id": 7433,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6050/?format=json",
+        "id": 6050,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "George Washington University",
+        "ein": 530196584
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14377/?format=json",
+      "date_created": "2022-02-16T09:40:49.631971-08:00",
+      "date_modified": "2022-02-16T09:40:49.632017-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2001
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44072/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5362/?format=json",
+      "id": 5362,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14377/?format=json",
+      "date_created": "2022-02-16T09:40:49.639810-08:00",
+      "date_modified": "2022-02-16T09:40:49.639857-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:19.189880-07:00",
+  "date_modified": "2022-02-16T09:40:49.598065-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "tony-joon-suk-cho",
+  "name_first": "Tony",
+  "name_middle": "Joon Suk",
+  "name_last": "Cho",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

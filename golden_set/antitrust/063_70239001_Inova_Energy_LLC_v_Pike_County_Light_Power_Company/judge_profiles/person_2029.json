@@ -1,0 +1,110 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2029/?format=json",
+  "id": 2029,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1253/?format=json",
+      "id": 1253,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2029/?format=json",
+      "date_created": "2016-04-20T08:20:31.845929-07:00",
+      "date_modified": "2016-04-20T08:20:31.845954-07:00",
+      "year_rated": 2012,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1689/?format=json",
+      "id": 1689,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5381/?format=json",
+        "id": 5381,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Scranton",
+        "ein": 240795495
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2029/?format=json",
+      "date_created": "2016-04-20T08:20:31.860275-07:00",
+      "date_modified": "2016-04-20T08:20:31.860301-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1976
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1690/?format=json",
+      "id": 1690,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3950/?format=json",
+        "id": 3950,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Pace University-New York",
+        "ein": 135562314
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2029/?format=json",
+      "date_created": "2016-04-20T08:20:31.889617-07:00",
+      "date_modified": "2016-04-20T08:20:31.889643-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1979
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/12636/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12637/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12638/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12639/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12640/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12641/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12642/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12643/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12635/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2037/?format=json",
+      "id": 2037,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2029/?format=json",
+      "date_created": "2016-04-20T08:20:31.840499-07:00",
+      "date_modified": "2016-04-20T08:20:31.840525-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2012-05-17",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:31.806972-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3456,
+  "slug": "malachy-edward-mannion",
+  "name_first": "Malachy",
+  "name_middle": "Edward",
+  "name_last": "Mannion",
+  "name_suffix": "",
+  "date_dob": "1953-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Montreal",
+  "dob_state": "",
+  "dob_country": "Canada",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

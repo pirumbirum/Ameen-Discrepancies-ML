@@ -1,0 +1,151 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/16179/?format=json",
+  "id": 16179,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20571/?format=json",
+      "id": 20571,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16179/?format=json",
+      "date_created": "2022-08-08T15:36:24.146840-07:00",
+      "date_modified": "2022-08-08T15:36:24.146852-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-08-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20572/?format=json",
+      "id": 20572,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16179/?format=json",
+      "date_created": "2022-08-08T15:59:45.205545-07:00",
+      "date_modified": "2022-08-08T15:59:45.205562-07:00",
+      "url": "https://judgestaci.com/",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20573/?format=json",
+      "id": 20573,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16179/?format=json",
+      "date_created": "2022-08-08T15:59:45.209114-07:00",
+      "date_modified": "2022-08-08T15:59:45.209125-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=192215",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20574/?format=json",
+      "id": 20574,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16179/?format=json",
+      "date_created": "2022-08-08T15:59:45.209840-07:00",
+      "date_modified": "2022-08-08T15:59:45.209851-07:00",
+      "url": "https://ballotpedia.org/Staci_Williams",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20575/?format=json",
+      "id": 20575,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16179/?format=json",
+      "date_created": "2022-08-08T15:59:45.210523-07:00",
+      "date_modified": "2022-08-08T15:59:45.210534-07:00",
+      "url": "",
+      "date_accessed": "2022-08-08",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12804/?format=json",
+      "id": 12804,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4087/?format=json",
+        "id": 4087,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Smith College",
+        "ein": 41843040
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16179/?format=json",
+      "date_created": "2022-08-08T15:36:24.142082-07:00",
+      "date_modified": "2022-08-08T15:36:24.142102-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Economics",
+      "degree_year": 1981
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12805/?format=json",
+      "id": 12805,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6053/?format=json",
+        "id": 6053,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Georgetown University",
+        "ein": 530196603
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16179/?format=json",
+      "date_created": "2022-08-08T15:36:24.144664-07:00",
+      "date_modified": "2022-08-08T15:36:24.144678-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1984
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/52457/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52458/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52459/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52460/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52461/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52462/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52463/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52464/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52465/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8515/?format=json",
+      "id": 8515,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16179/?format=json",
+      "date_created": "2022-08-08T15:36:24.146067-07:00",
+      "date_modified": "2022-08-08T15:36:24.146081-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-08-08T15:36:24.081382-07:00",
+  "date_modified": "2022-08-08T16:03:08.775471-07:00",
+  "date_completed": "2022-08-08T15:34:59-07:00",
+  "fjc_id": null,
+  "slug": "stacy-j-williams",
+  "name_first": "Stacy",
+  "name_middle": "J.",
+  "name_last": "Williams",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

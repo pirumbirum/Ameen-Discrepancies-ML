@@ -1,0 +1,80 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7505/?format=json",
+  "id": 7505,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3434/?format=json",
+      "id": 3434,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7505/?format=json",
+      "date_created": "2016-04-20T08:28:25.957366-07:00",
+      "date_modified": "2016-04-20T08:28:25.957386-07:00",
+      "url": "http://www.martindale.com/Mr-William-E-Graham-Jr/1407323-lawyer.htm",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3435/?format=json",
+      "id": 3435,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7505/?format=json",
+      "date_created": "2016-04-20T08:28:25.964610-07:00",
+      "date_modified": "2016-04-20T08:28:25.964634-07:00",
+      "url": "",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6189/?format=json",
+      "id": 6189,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1044/?format=json",
+        "id": 1044,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Boston College",
+        "ein": 42103545
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7505/?format=json",
+      "date_created": "2016-04-20T08:28:25.939586-07:00",
+      "date_modified": "2016-04-20T08:28:25.939615-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/32140/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32141/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32142/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:25.914596-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "r-m-graham",
+  "name_first": "R",
+  "name_middle": "M.",
+  "name_last": "Graham",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

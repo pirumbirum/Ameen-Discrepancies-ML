@@ -1,0 +1,105 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6041/?format=json",
+  "id": 6041,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2389/?format=json",
+      "id": 2389,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6041/?format=json",
+      "date_created": "2016-04-20T08:27:08.294975-07:00",
+      "date_modified": "2016-04-20T08:27:08.295010-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/100028722776",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2390/?format=json",
+      "id": 2390,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6041/?format=json",
+      "date_created": "2016-04-20T08:27:08.300803-07:00",
+      "date_modified": "2016-04-20T08:27:08.300838-07:00",
+      "url": "http://www.courtswv.gov/public-resources/student-resources/LAWS/handbook.pdf",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2391/?format=json",
+      "id": 2391,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6041/?format=json",
+      "date_created": "2016-04-20T08:27:08.305993-07:00",
+      "date_modified": "2016-04-20T08:27:08.306028-07:00",
+      "url": "http://search.proquest.com.ezproxy.cul.columbia.edu/news/docview/331152695/74C3E3FF0F5B48EAPQ/1?accountid=10226",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5070/?format=json",
+      "id": 5070,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3681/?format=json",
+        "id": 3681,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "West Virginia University",
+        "ein": 556000842
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6041/?format=json",
+      "date_created": "2016-04-20T08:27:08.224670-07:00",
+      "date_modified": "2016-04-20T08:27:08.224703-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/29226/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29227/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29228/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29229/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4661/?format=json",
+      "id": 4661,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6041/?format=json",
+      "date_created": "2016-04-20T08:27:08.288406-07:00",
+      "date_modified": "2016-04-20T08:27:08.288449-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:08.195751-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "george-m-scott",
+  "name_first": "George",
+  "name_middle": "M.",
+  "name_last": "Scott",
+  "name_suffix": "",
+  "date_dob": "1929-08-05",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

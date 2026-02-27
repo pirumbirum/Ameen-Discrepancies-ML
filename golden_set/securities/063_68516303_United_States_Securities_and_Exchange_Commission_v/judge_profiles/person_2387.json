@@ -1,0 +1,79 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2387/?format=json",
+  "id": 2387,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1977/?format=json",
+      "id": 1977,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2387/?format=json",
+      "date_created": "2016-04-20T08:21:21.303488-07:00",
+      "date_modified": "2016-04-20T08:21:21.303518-07:00",
+      "degree_level": "",
+      "degree_detail": "",
+      "degree_year": 1846
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14894/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14895/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14896/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14897/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14898/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14899/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14900/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2393/?format=json",
+      "id": 2393,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2387/?format=json",
+      "date_created": "2016-04-20T08:21:21.273410-07:00",
+      "date_modified": "2016-04-20T08:21:21.273438-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1858-05-20",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:21.140392-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1744,
+  "slug": "rensselaer-russell-nelson",
+  "name_first": "Rensselaer",
+  "name_middle": "Russell",
+  "name_last": "Nelson",
+  "name_suffix": "",
+  "date_dob": "1826-05-12",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1904-10-15",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Cooperstown",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "St. Paul",
+  "dod_state": "MN",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,89 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2295/?format=json",
+  "id": 2295,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1409/?format=json",
+      "id": 1409,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2295/?format=json",
+      "date_created": "2016-04-20T08:21:08.596438-07:00",
+      "date_modified": "2016-04-20T08:21:08.596460-07:00",
+      "year_rated": 1981,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1898/?format=json",
+      "id": 1898,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5699/?format=json",
+        "id": 5699,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Syracuse University",
+        "ein": 150532081
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2295/?format=json",
+      "date_created": "2016-04-20T08:21:08.610223-07:00",
+      "date_modified": "2016-04-20T08:21:08.610251-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1952
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14327/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14328/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14329/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14330/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14331/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14332/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14333/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2302/?format=json",
+      "id": 2302,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2295/?format=json",
+      "date_created": "2016-04-20T08:21:08.591000-07:00",
+      "date_modified": "2016-04-20T08:21:08.591024-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1981-11-04",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:08.552069-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1676,
+  "slug": "john-henry-moore-ii",
+  "name_first": "John",
+  "name_middle": "Henry",
+  "name_last": "Moore",
+  "name_suffix": "2",
+  "date_dob": "1929-08-05",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2013-07-19",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Atlantic City",
+  "dob_state": "NJ",
+  "dob_country": "United States",
+  "dod_city": "Jacksonville",
+  "dod_state": "FL",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

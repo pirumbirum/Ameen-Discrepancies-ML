@@ -1,0 +1,124 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1220/?format=json",
+  "id": 1220,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/743/?format=json",
+      "id": 743,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1220/?format=json",
+      "date_created": "2016-04-20T08:18:34.149941-07:00",
+      "date_modified": "2016-04-20T08:18:34.149963-07:00",
+      "year_rated": 2002,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1018/?format=json",
+      "id": 1018,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1481/?format=json",
+        "id": 1481,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southern Methodist University",
+        "ein": 750800689
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1220/?format=json",
+      "date_created": "2016-04-20T08:18:34.162904-07:00",
+      "date_modified": "2016-04-20T08:18:34.162931-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.E.E.",
+      "degree_year": 1978
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1019/?format=json",
+      "id": 1019,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1481/?format=json",
+        "id": 1481,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southern Methodist University",
+        "ein": 750800689
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1220/?format=json",
+      "date_created": "2016-04-20T08:18:34.175897-07:00",
+      "date_modified": "2016-04-20T08:18:34.175926-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1978
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1020/?format=json",
+      "id": 1020,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1220/?format=json",
+      "date_created": "2016-04-20T08:18:34.205120-07:00",
+      "date_modified": "2016-04-20T08:18:34.205149-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1982
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/7414/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7415/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7416/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7417/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1226/?format=json",
+      "id": 1226,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1220/?format=json",
+      "date_created": "2016-04-20T08:18:34.144363-07:00",
+      "date_modified": "2016-04-20T08:18:34.144390-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2002-01-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:34.106686-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2945,
+  "slug": "david-c-godbey",
+  "name_first": "David",
+  "name_middle": "C.",
+  "name_last": "Godbey",
+  "name_suffix": "",
+  "date_dob": "1957-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Temple",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

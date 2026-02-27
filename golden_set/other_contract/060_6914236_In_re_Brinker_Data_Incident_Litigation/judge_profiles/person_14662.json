@@ -1,0 +1,157 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14662/?format=json",
+  "id": 14662,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13877/?format=json",
+      "id": 13877,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14662/?format=json",
+      "date_created": "2022-04-01T12:37:57.070744-07:00",
+      "date_modified": "2022-04-01T12:37:57.070766-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-01",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13878/?format=json",
+      "id": 13878,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14662/?format=json",
+      "date_created": "2022-04-01T12:37:57.073284-07:00",
+      "date_modified": "2022-04-01T12:37:57.073306-07:00",
+      "url": "https://www.linkedin.com/in/tericorrigan/",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13879/?format=json",
+      "id": 13879,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14662/?format=json",
+      "date_created": "2022-04-01T12:37:57.074322-07:00",
+      "date_modified": "2022-04-01T12:37:57.074341-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=IKAWQmXxenD_PLUS_UZhX/13ttw%3D%3D",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13880/?format=json",
+      "id": 13880,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14662/?format=json",
+      "date_created": "2022-04-01T12:37:57.075301-07:00",
+      "date_modified": "2022-04-01T12:37:57.075320-07:00",
+      "url": "https://ballotpedia.org/Teresa_Corrigan",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13881/?format=json",
+      "id": 13881,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14662/?format=json",
+      "date_created": "2022-04-01T12:37:57.076379-07:00",
+      "date_modified": "2022-04-01T12:37:57.076401-07:00",
+      "url": "https://web.archive.org/web/20141019093841/https://www.nycourtsystem.com//Applications/JCEC2012/Bio2012.php?ID=1986",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13882/?format=json",
+      "id": 13882,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14662/?format=json",
+      "date_created": "2022-04-01T12:37:57.077356-07:00",
+      "date_modified": "2022-04-01T12:37:57.077375-07:00",
+      "url": "https://trellis.law/judge/teresa.k.corrigan",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10444/?format=json",
+      "id": 10444,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/68/?format=json",
+        "id": 68,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "SUNY at Albany",
+        "ein": 146013200
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14662/?format=json",
+      "date_created": "2022-04-01T12:37:57.059419-07:00",
+      "date_modified": "2022-04-01T12:37:57.059445-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1986
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10445/?format=json",
+      "id": 10445,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3938/?format=json",
+        "id": 3938,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "New York Law School",
+        "ein": 135645885
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14662/?format=json",
+      "date_created": "2022-04-01T12:37:57.065386-07:00",
+      "date_modified": "2022-04-01T12:37:57.065409-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1990
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/45424/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45425/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45426/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45427/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45428/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7308/?format=json",
+      "id": 7308,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14662/?format=json",
+      "date_created": "2022-04-01T12:37:57.068214-07:00",
+      "date_modified": "2022-04-01T12:37:57.068236-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-01T12:37:57.041113-07:00",
+  "date_modified": "2022-04-28T13:15:00.247825-07:00",
+  "date_completed": "2022-04-28T13:05:10-07:00",
+  "fjc_id": null,
+  "slug": "teresa-k-corrigan",
+  "name_first": "Teresa",
+  "name_middle": "K.",
+  "name_last": "Corrigan",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

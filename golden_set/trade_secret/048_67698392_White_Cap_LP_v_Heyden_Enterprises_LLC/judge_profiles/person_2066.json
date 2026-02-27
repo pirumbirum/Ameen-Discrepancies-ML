@@ -1,0 +1,105 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2066/?format=json",
+  "id": 2066,
+  "race": [
+    "h"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1277/?format=json",
+      "id": 1277,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2066/?format=json",
+      "date_created": "2016-04-20T08:20:37.433038-07:00",
+      "date_modified": "2016-04-20T08:20:37.433059-07:00",
+      "year_rated": 2001,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1715/?format=json",
+      "id": 1715,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1820/?format=json",
+        "id": 1820,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at El Paso",
+        "ein": 746000813
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2066/?format=json",
+      "date_created": "2016-04-20T08:20:37.454573-07:00",
+      "date_modified": "2016-04-20T08:20:37.454598-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1979
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1716/?format=json",
+      "id": 1716,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2066/?format=json",
+      "date_created": "2016-04-20T08:20:37.483624-07:00",
+      "date_modified": "2016-04-20T08:20:37.483665-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1982
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/12883/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12884/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12885/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12882/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2075/?format=json",
+      "id": 2075,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2066/?format=json",
+      "date_created": "2016-04-20T08:20:37.425977-07:00",
+      "date_modified": "2016-04-20T08:20:37.426001-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2001-10-09",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:37.388249-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2917,
+  "slug": "philip-ray-martinez",
+  "name_first": "Philip",
+  "name_middle": "Ray",
+  "name_last": "Martinez",
+  "name_suffix": "",
+  "date_dob": "1957-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "El Paso",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

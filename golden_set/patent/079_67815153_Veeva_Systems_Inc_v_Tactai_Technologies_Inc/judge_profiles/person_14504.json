@@ -1,0 +1,175 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14504/?format=json",
+  "id": 14504,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11128/?format=json",
+      "id": 11128,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14504/?format=json",
+      "date_created": "2022-03-08T15:51:51.699060-08:00",
+      "date_modified": "2022-03-08T15:51:51.699082-08:00",
+      "url": "https://www.linkedin.com/in/stephen-murphy-47b8777/",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11129/?format=json",
+      "id": 11129,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14504/?format=json",
+      "date_created": "2022-03-08T15:51:51.701264-08:00",
+      "date_modified": "2022-03-08T15:54:07.047148-08:00",
+      "url": "https://trellis.law/judge/stephen.m.murphy",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11130/?format=json",
+      "id": 11130,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14504/?format=json",
+      "date_created": "2022-03-08T15:55:32.915614-08:00",
+      "date_modified": "2022-03-08T15:55:32.915640-08:00",
+      "url": "https://ballotpedia.org/Stephen_Murphy_(California)",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11131/?format=json",
+      "id": 11131,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14504/?format=json",
+      "date_created": "2022-03-08T15:55:32.930000-08:00",
+      "date_modified": "2022-03-08T15:57:12.971831-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11132/?format=json",
+      "id": 11132,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14504/?format=json",
+      "date_created": "2022-03-08T15:57:12.984855-08:00",
+      "date_modified": "2022-03-08T15:57:12.984879-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-08",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9133/?format=json",
+      "id": 9133,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5226/?format=json",
+        "id": 5226,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of San Francisco",
+        "ein": 941156628
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14504/?format=json",
+      "date_created": "2022-03-08T15:54:07.036161-08:00",
+      "date_modified": "2022-03-08T15:54:07.036187-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1981
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9134/?format=json",
+      "id": 9134,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6301/?format=json",
+        "id": 6301,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "College of the Holy Cross",
+        "ein": 42103558
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14504/?format=json",
+      "date_created": "2022-03-08T15:54:07.041661-08:00",
+      "date_modified": "2022-03-08T15:54:07.041685-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Political Science, Sociology",
+      "degree_year": 1977
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9135/?format=json",
+      "id": 9135,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6475/?format=json",
+        "id": 6475,
+        "is_alias_of": null,
+        "date_created": "2022-03-08T15:53:31.814549-08:00",
+        "date_modified": "2022-03-08T15:53:31.814617-08:00",
+        "name": "Durham University",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14504/?format=json",
+      "date_created": "2022-03-08T15:54:07.045986-08:00",
+      "date_modified": "2022-03-08T15:54:07.046010-08:00",
+      "degree_level": "",
+      "degree_detail": "",
+      "degree_year": 1976
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44493/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6493/?format=json",
+      "id": 6493,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14504/?format=json",
+      "date_created": "2022-03-08T15:55:32.908437-08:00",
+      "date_modified": "2022-03-08T15:55:32.908464-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6494/?format=json",
+      "id": 6494,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14504/?format=json",
+      "date_created": "2022-03-08T15:57:12.960658-08:00",
+      "date_modified": "2022-03-08T15:57:12.960683-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-03-08T15:51:51.680261-08:00",
+  "date_modified": "2022-03-21T11:41:47.420791-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "stephen-m-murphy",
+  "name_first": "Stephen",
+  "name_middle": "M.",
+  "name_last": "Murphy",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

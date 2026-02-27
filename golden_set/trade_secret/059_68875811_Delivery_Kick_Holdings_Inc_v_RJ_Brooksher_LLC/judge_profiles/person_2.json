@@ -1,0 +1,53 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2/?format=json",
+  "id": 2,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/2/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2/?format=json",
+      "id": 2,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2/?format=json",
+      "date_created": "2016-04-20T08:15:47.604883-07:00",
+      "date_modified": "2016-04-20T08:15:47.604916-07:00",
+      "political_party": "f",
+      "source": "b",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:15:47.586937-07:00",
+  "date_modified": "2025-02-05T12:44:57.465880-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "john-adams",
+  "name_first": "John",
+  "name_middle": "",
+  "name_last": "Adams",
+  "name_suffix": "",
+  "date_dob": "1735-10-30",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1826-07-04",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Quincy",
+  "dob_state": "MA",
+  "dob_country": "United States",
+  "dod_city": "Quincy",
+  "dod_state": "MA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "un",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

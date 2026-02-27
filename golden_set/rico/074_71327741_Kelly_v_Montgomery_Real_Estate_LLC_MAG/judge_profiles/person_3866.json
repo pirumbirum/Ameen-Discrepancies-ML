@@ -1,0 +1,62 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3866/?format=json",
+  "id": 3866,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/40/?format=json",
+      "id": 40,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3866/?format=json",
+      "date_created": "2016-04-20T08:24:27.733024-07:00",
+      "date_modified": "2016-04-20T08:24:27.733044-07:00",
+      "url": "http://politicalgraveyard.com/bio/adams5.html#924.41.14",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23300/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3734/?format=json",
+      "id": 3734,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3866/?format=json",
+      "date_created": "2016-04-20T08:24:27.727494-07:00",
+      "date_modified": "2016-04-20T08:24:27.727519-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:27.710574-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "john-t-adams",
+  "name_first": "John",
+  "name_middle": "T.",
+  "name_last": "Adams",
+  "name_suffix": "",
+  "date_dob": "1973-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": "1942-01-01",
+  "date_granularity_dod": "%Y",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

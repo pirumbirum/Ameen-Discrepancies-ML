@@ -1,0 +1,50 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13801/?format=json",
+  "id": 13801,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13423/?format=json",
+      "id": 13423,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13801/?format=json",
+      "date_created": "2022-03-23T16:47:15.069759-07:00",
+      "date_modified": "2022-03-23T16:47:15.069810-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-23",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43425/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:55.132440-07:00",
+  "date_modified": "2022-03-23T16:47:15.049515-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "ryan-j-wright",
+  "name_first": "Ryan",
+  "name_middle": "J.",
+  "name_last": "Wright",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

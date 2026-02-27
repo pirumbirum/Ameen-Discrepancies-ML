@@ -1,0 +1,57 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7333/?format=json",
+  "id": 7333,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6072/?format=json",
+      "id": 6072,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3007/?format=json",
+        "id": 3007,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Kentucky",
+        "ein": 616001218
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7333/?format=json",
+      "date_created": "2016-04-20T08:28:16.190473-07:00",
+      "date_modified": "2016-04-20T08:28:16.190506-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/31773/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:16.164477-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "allison-jones",
+  "name_first": "Allison",
+  "name_middle": "",
+  "name_last": "Jones",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

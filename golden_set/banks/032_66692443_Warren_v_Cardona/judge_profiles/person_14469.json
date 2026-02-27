@@ -1,0 +1,145 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14469/?format=json",
+  "id": 14469,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8560/?format=json",
+      "id": 8560,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14469/?format=json",
+      "date_created": "2022-02-23T18:05:34.048699-08:00",
+      "date_modified": "2022-02-23T18:05:34.048721-08:00",
+      "url": "https://ballotpedia.org/Wendy_W._Berger",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8561/?format=json",
+      "id": 8561,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14469/?format=json",
+      "date_created": "2022-02-23T18:05:34.050354-08:00",
+      "date_modified": "2022-02-23T18:05:34.050376-08:00",
+      "url": "https://en.wikipedia.org/wiki/Wendy_Berger",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8562/?format=json",
+      "id": 8562,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14469/?format=json",
+      "date_created": "2022-02-23T18:05:34.051499-08:00",
+      "date_modified": "2022-02-23T18:05:34.051522-08:00",
+      "url": "https://www.linkedin.com/in/wendy-williams-berger-10574511/",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8563/?format=json",
+      "id": 8563,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14469/?format=json",
+      "date_created": "2022-02-23T18:05:34.052667-08:00",
+      "date_modified": "2022-02-23T18:05:34.052689-08:00",
+      "url": "https://www.uscourts.gov/judicial-milestones/wendy-williams-berger",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8564/?format=json",
+      "id": 8564,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14469/?format=json",
+      "date_created": "2022-02-23T18:05:34.053817-08:00",
+      "date_modified": "2022-02-23T18:05:34.053840-08:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Berger-WW.%20J3.%2011.%20FLM_SR_20.pdf",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7976/?format=json",
+      "id": 7976,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5721/?format=json",
+        "id": 5721,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Florida State University",
+        "ein": 591961248
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14469/?format=json",
+      "date_created": "2022-02-23T18:05:34.043027-08:00",
+      "date_modified": "2022-02-23T18:05:34.043051-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1990
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7977/?format=json",
+      "id": 7977,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5721/?format=json",
+        "id": 5721,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Florida State University",
+        "ein": 591961248
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14469/?format=json",
+      "date_created": "2022-02-23T18:05:34.047507-08:00",
+      "date_modified": "2022-02-23T18:05:34.047530-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1992
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44375/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44376/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44377/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5705/?format=json",
+      "id": 5705,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14469/?format=json",
+      "date_created": "2022-02-23T18:29:21.932695-08:00",
+      "date_modified": "2022-02-23T18:29:21.932721-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-02-23T18:05:34.010174-08:00",
+  "date_modified": "2022-02-23T18:29:21.920897-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "wendy-williams-berger",
+  "name_first": "Wendy",
+  "name_middle": "Williams",
+  "name_last": "Berger",
+  "name_suffix": "",
+  "date_dob": "1968-12-01",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Athens",
+  "dob_state": "GA",
+  "dob_country": "United States",
+  "dod_city": "Athens",
+  "dod_state": "GA",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

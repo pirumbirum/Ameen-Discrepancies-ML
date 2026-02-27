@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14318/?format=json",
+  "id": 14318,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10178/?format=json",
+      "id": 10178,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14318/?format=json",
+      "date_created": "2022-03-06T17:03:11.797313-08:00",
+      "date_modified": "2022-03-06T17:04:17.511782-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10177/?format=json",
+      "id": 10177,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14318/?format=json",
+      "date_created": "2022-03-06T17:02:27.004307-08:00",
+      "date_modified": "2022-03-06T17:03:11.788746-08:00",
+      "url": "https://www.martindale.com/attorney/amarra-autumn-lee-4941525/",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10179/?format=json",
+      "id": 10179,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14318/?format=json",
+      "date_created": "2022-03-06T17:04:17.516319-08:00",
+      "date_modified": "2022-03-06T17:04:17.516342-08:00",
+      "url": "https://trellis.law/judge/amarra.a.lee",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10180/?format=json",
+      "id": 10180,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14318/?format=json",
+      "date_created": "2022-03-06T17:04:17.524794-08:00",
+      "date_modified": "2022-03-06T17:04:17.524815-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-06",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8700/?format=json",
+      "id": 8700,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14318/?format=json",
+      "date_created": "2022-03-06T17:02:26.992504-08:00",
+      "date_modified": "2022-03-06T17:02:26.992526-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 2003
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8701/?format=json",
+      "id": 8701,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5210/?format=json",
+        "id": 5210,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2025-06-15T22:32:10.957501-07:00",
+        "name": "UC Law San Francisco",
+        "ein": 942581680
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14318/?format=json",
+      "date_created": "2022-03-06T17:03:11.783962-08:00",
+      "date_modified": "2022-03-06T17:03:11.783987-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2006
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44008/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6197/?format=json",
+      "id": 6197,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14318/?format=json",
+      "date_created": "2022-03-06T17:02:26.974222-08:00",
+      "date_modified": "2022-03-06T17:02:26.974245-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6198/?format=json",
+      "id": 6198,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14318/?format=json",
+      "date_created": "2022-03-06T17:02:26.984225-08:00",
+      "date_modified": "2022-03-06T17:02:26.984247-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:16.794878-07:00",
+  "date_modified": "2022-03-20T19:01:05.381839-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "amarra-autumn-lee",
+  "name_first": "Amarra",
+  "name_middle": "Autumn",
+  "name_last": "Lee",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

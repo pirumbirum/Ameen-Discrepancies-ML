@@ -1,0 +1,55 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3487/?format=json",
+  "id": 3487,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/21939/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21940/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21941/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3506/?format=json",
+      "id": 3506,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3487/?format=json",
+      "date_created": "2016-04-20T08:23:55.805495-07:00",
+      "date_modified": "2016-04-20T08:23:55.805519-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1890-08-14",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:23:55.767216-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2597,
+  "slug": "john-a-williams",
+  "name_first": "John",
+  "name_middle": "A.",
+  "name_last": "Williams",
+  "name_suffix": "",
+  "date_dob": "1835-05-01",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1900-07-07",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Remsen",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "Manitou Springs",
+  "dod_state": "CO",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

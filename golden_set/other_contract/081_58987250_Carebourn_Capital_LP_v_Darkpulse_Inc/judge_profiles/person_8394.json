@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8394/?format=json",
+  "id": 8394,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4105/?format=json",
+      "id": 4105,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8394/?format=json",
+      "date_created": "2016-04-20T08:29:07.180075-07:00",
+      "date_modified": "2016-04-20T08:29:07.180097-07:00",
+      "url": "http://www.txcourts.gov/11thcoa/about-the-court/justices/chief-justice-jim-r-wright.aspx",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33381/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:29:07.165918-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jim-r-wright",
+  "name_first": "Jim",
+  "name_middle": "R.",
+  "name_last": "Wright",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

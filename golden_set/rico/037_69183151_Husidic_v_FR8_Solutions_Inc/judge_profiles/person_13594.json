@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13594/?format=json",
+  "id": 13594,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13239/?format=json",
+      "id": 13239,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13594/?format=json",
+      "date_created": "2022-03-16T16:45:31.491615-07:00",
+      "date_modified": "2022-03-16T16:45:31.491638-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13240/?format=json",
+      "id": 13240,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13594/?format=json",
+      "date_created": "2022-03-16T16:45:31.496364-07:00",
+      "date_modified": "2022-03-16T16:45:31.496386-07:00",
+      "url": "https://ballotpedia.org/Mark_A._Young",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13241/?format=json",
+      "id": 13241,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13594/?format=json",
+      "date_created": "2022-03-16T16:45:31.500588-07:00",
+      "date_modified": "2022-03-16T16:45:31.500611-07:00",
+      "url": "https://www.martindale.com/attorney/mark-anthony-young-124212/",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13242/?format=json",
+      "id": 13242,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13594/?format=json",
+      "date_created": "2022-03-16T16:45:31.507559-07:00",
+      "date_modified": "2022-03-16T16:45:31.507583-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10159/?format=json",
+      "id": 10159,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3117/?format=json",
+        "id": 3117,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Southern California",
+        "ein": 951642394
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13594/?format=json",
+      "date_created": "2022-03-16T16:45:31.478653-07:00",
+      "date_modified": "2022-03-16T16:45:31.478677-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1995
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10160/?format=json",
+      "id": 10160,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13594/?format=json",
+      "date_created": "2022-03-16T16:45:31.487253-07:00",
+      "date_modified": "2022-03-16T16:45:31.487277-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1991
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43140/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7204/?format=json",
+      "id": 7204,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13594/?format=json",
+      "date_created": "2022-03-16T16:45:31.465277-07:00",
+      "date_modified": "2022-03-16T16:45:31.465302-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7205/?format=json",
+      "id": 7205,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13594/?format=json",
+      "date_created": "2022-03-16T16:45:31.471547-07:00",
+      "date_modified": "2022-03-16T16:45:31.471571-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:45.538397-07:00",
+  "date_modified": "2022-03-23T16:51:03.505820-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "mark-anthony-young",
+  "name_first": "Mark",
+  "name_middle": "Anthony",
+  "name_last": "Young",
+  "name_suffix": "",
+  "date_dob": "1969-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,125 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2400/?format=json",
+  "id": 2400,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1476/?format=json",
+      "id": 1476,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2400/?format=json",
+      "date_created": "2016-04-20T08:21:22.978600-07:00",
+      "date_modified": "2016-04-20T08:21:22.978623-07:00",
+      "year_rated": 1971,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1987/?format=json",
+      "id": 1987,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4696/?format=json",
+        "id": 4696,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Princeton University",
+        "ein": 210634501
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2400/?format=json",
+      "date_created": "2016-04-20T08:21:23.023292-07:00",
+      "date_modified": "2016-04-20T08:21:23.023316-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1953
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1988/?format=json",
+      "id": 1988,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2400/?format=json",
+      "date_created": "2016-04-20T08:21:23.050447-07:00",
+      "date_modified": "2016-04-20T08:21:23.050471-07:00",
+      "degree_level": "llb",
+      "degree_detail": "LL.B.",
+      "degree_year": 1956
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14970/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14971/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14972/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14973/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14974/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14975/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14976/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14977/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14978/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14979/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14980/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2406/?format=json",
+      "id": 2406,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2400/?format=json",
+      "date_created": "2016-04-20T08:21:22.971409-07:00",
+      "date_modified": "2016-04-20T08:21:23.003046-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1971-12-02",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": "1979-04-30",
+      "date_granularity_end": "%Y-%m-%d"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2407/?format=json",
+      "id": 2407,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2400/?format=json",
+      "date_created": "2016-04-20T08:21:23.010251-07:00",
+      "date_modified": "2016-04-20T08:21:23.010275-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1979-04-30",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:22.933266-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1755,
+  "slug": "jon-ormond-newman",
+  "name_first": "Jon",
+  "name_middle": "Ormond",
+  "name_last": "Newman",
+  "name_suffix": "",
+  "date_dob": "1932-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "New York",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

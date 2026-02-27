@@ -1,0 +1,66 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2889/?format=json",
+  "id": 2889,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1816/?format=json",
+      "id": 1816,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2889/?format=json",
+      "date_created": "2016-04-20T08:22:31.144406-07:00",
+      "date_modified": "2016-04-20T08:22:31.144427-07:00",
+      "year_rated": 1970,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/18142/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18143/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18144/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18145/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2898/?format=json",
+      "id": 2898,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2889/?format=json",
+      "date_created": "2016-04-20T08:22:31.137721-07:00",
+      "date_modified": "2016-04-20T08:22:31.137745-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1970-09-14",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:31.103328-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2131,
+  "slug": "nauman-steele-scott",
+  "name_first": "Nauman",
+  "name_middle": "Steele",
+  "name_last": "Scott",
+  "name_suffix": "",
+  "date_dob": "1916-06-15",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2001-09-19",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "New Roads",
+  "dob_state": "LA",
+  "dob_country": "United States",
+  "dod_city": "Alexandria",
+  "dod_state": "LA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,87 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1735/?format=json",
+  "id": 1735,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1068/?format=json",
+      "id": 1068,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1735/?format=json",
+      "date_created": "2016-04-20T08:19:47.962674-07:00",
+      "date_modified": "2016-04-20T08:19:47.962699-07:00",
+      "year_rated": 2003,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1433/?format=json",
+      "id": 1433,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3012/?format=json",
+        "id": 3012,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Washington and Lee University",
+        "ein": 540505977
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1735/?format=json",
+      "date_created": "2016-04-20T08:19:47.980501-07:00",
+      "date_modified": "2016-04-20T08:19:47.980528-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1977
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/10712/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10713/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10714/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10715/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10716/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1742/?format=json",
+      "id": 1742,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1735/?format=json",
+      "date_created": "2016-04-20T08:19:47.955627-07:00",
+      "date_modified": "2016-04-20T08:19:47.955655-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2003-10-31",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:47.913833-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3069,
+  "slug": "walter-dekalb-kelley-jr",
+  "name_first": "Walter",
+  "name_middle": "DeKalb",
+  "name_last": "Kelley",
+  "name_suffix": "jr",
+  "date_dob": "1955-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Norfolk",
+  "dob_state": "VA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

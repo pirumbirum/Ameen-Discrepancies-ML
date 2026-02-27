@@ -1,0 +1,105 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2014/?format=json",
+  "id": 2014,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1243/?format=json",
+      "id": 1243,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2014/?format=json",
+      "date_created": "2016-04-20T08:20:29.377575-07:00",
+      "date_modified": "2016-04-20T08:20:29.377596-07:00",
+      "year_rated": 1981,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1674/?format=json",
+      "id": 1674,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5071/?format=json",
+        "id": 5071,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Gustavus Adolphus College",
+        "ein": 410695524
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2014/?format=json",
+      "date_created": "2016-04-20T08:20:29.393015-07:00",
+      "date_modified": "2016-04-20T08:20:29.393040-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1959
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1675/?format=json",
+      "id": 1675,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5069/?format=json",
+        "id": 5069,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "William Mitchell College of Law",
+        "ein": 410518750
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2014/?format=json",
+      "date_created": "2016-04-20T08:20:29.407598-07:00",
+      "date_modified": "2016-04-20T08:20:29.407622-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1963
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/12520/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12521/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12522/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12523/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2022/?format=json",
+      "id": 2022,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2014/?format=json",
+      "date_created": "2016-04-20T08:20:29.370825-07:00",
+      "date_modified": "2016-04-20T08:20:29.370850-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1981-09-28",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:29.336178-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1461,
+  "slug": "paul-arthur-magnuson",
+  "name_first": "Paul",
+  "name_middle": "Arthur",
+  "name_last": "Magnuson",
+  "name_suffix": "",
+  "date_dob": "1937-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Carthage",
+  "dob_state": "SD",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

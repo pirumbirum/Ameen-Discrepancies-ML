@@ -1,0 +1,59 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3564/?format=json",
+  "id": 3564,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22439/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22441/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22442/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22443/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22444/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22445/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22440/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3583/?format=json",
+      "id": 3583,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3564/?format=json",
+      "date_created": "2016-04-20T08:24:06.757956-07:00",
+      "date_modified": "2016-04-20T08:24:06.757980-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1902-12-02",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:06.726413-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2660,
+  "slug": "francis-marion-wright",
+  "name_first": "Francis",
+  "name_middle": "Marion",
+  "name_last": "Wright",
+  "name_suffix": "",
+  "date_dob": "1844-08-05",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1917-07-15",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Adams County",
+  "dob_state": "OH",
+  "dob_country": "United States",
+  "dod_city": "Urbana",
+  "dod_state": "IL",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

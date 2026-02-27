@@ -1,0 +1,84 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5557/?format=json",
+  "id": 5557,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1768/?format=json",
+      "id": 1768,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5557/?format=json",
+      "date_created": "2016-04-20T08:26:29.508043-07:00",
+      "date_modified": "2016-04-20T08:26:29.508064-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/200011127806",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4588/?format=json",
+      "id": 4588,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2293/?format=json",
+        "id": 2293,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Grove City College",
+        "ein": 251065148
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5557/?format=json",
+      "date_created": "2016-04-20T08:26:29.481203-07:00",
+      "date_modified": "2016-04-20T08:26:29.481227-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27878/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27879/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27880/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4393/?format=json",
+      "id": 4393,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5557/?format=json",
+      "date_created": "2016-04-20T08:26:29.502451-07:00",
+      "date_modified": "2016-04-20T08:26:29.502476-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:29.435733-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "william-m-parker",
+  "name_first": "William",
+  "name_middle": "M.",
+  "name_last": "Parker",
+  "name_suffix": "",
+  "date_dob": "1870-12-19",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1943-08-15",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

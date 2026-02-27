@@ -1,0 +1,187 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15895/?format=json",
+  "id": 15895,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19030/?format=json",
+      "id": 19030,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15895/?format=json",
+      "date_created": "2022-07-21T11:58:11.619451-07:00",
+      "date_modified": "2022-07-21T11:58:11.619466-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-21",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19031/?format=json",
+      "id": 19031,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15895/?format=json",
+      "date_created": "2022-07-21T12:01:00.334837-07:00",
+      "date_modified": "2022-07-21T12:01:00.334860-07:00",
+      "url": "https://ballotpedia.org/Michelle_Moore_(Texas_judicial_candidate)",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19032/?format=json",
+      "id": 19032,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15895/?format=json",
+      "date_created": "2022-07-21T12:01:00.348167-07:00",
+      "date_modified": "2022-07-21T12:01:00.348189-07:00",
+      "url": "https://www.justex.net/Courts/Juvenile/JuvenileCourt.aspx?crt=50",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19033/?format=json",
+      "id": 19033,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15895/?format=json",
+      "date_created": "2022-07-21T12:01:00.349454-07:00",
+      "date_modified": "2022-07-21T12:01:00.349469-07:00",
+      "url": "https://www.lawdragon.com/news-features/2022-02-15-judicial-limelight-michelle-moore",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19034/?format=json",
+      "id": 19034,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15895/?format=json",
+      "date_created": "2022-07-21T12:01:00.350831-07:00",
+      "date_modified": "2022-07-21T12:01:00.350848-07:00",
+      "url": "https://www.linkedin.com/in/michelle-moore-a64a6673/",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19035/?format=json",
+      "id": 19035,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15895/?format=json",
+      "date_created": "2022-07-21T12:01:00.352060-07:00",
+      "date_modified": "2022-07-21T12:01:00.352075-07:00",
+      "url": "https://issuu.com/houstonbusinessconnections/docs/judge_michelle_moore_is_running_for_re-election_in",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19036/?format=json",
+      "id": 19036,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15895/?format=json",
+      "date_created": "2022-07-21T12:01:00.353282-07:00",
+      "date_modified": "2022-07-21T12:01:00.353297-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=289436",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19037/?format=json",
+      "id": 19037,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15895/?format=json",
+      "date_created": "2022-07-21T12:01:00.354456-07:00",
+      "date_modified": "2022-07-21T12:01:00.354470-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=62544&office=19554",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19038/?format=json",
+      "id": 19038,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15895/?format=json",
+      "date_created": "2022-07-21T12:01:00.356337-07:00",
+      "date_modified": "2022-07-21T12:01:00.356352-07:00",
+      "url": "",
+      "date_accessed": "2022-07-21",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12371/?format=json",
+      "id": 12371,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4678/?format=json",
+        "id": 4678,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Prairie View A & M University",
+        "ein": 746001078
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15895/?format=json",
+      "date_created": "2022-07-21T11:58:11.600167-07:00",
+      "date_modified": "2022-07-21T11:58:11.600181-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Criminal Justice, magna cum laude",
+      "degree_year": 2001
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12372/?format=json",
+      "id": 12372,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2480/?format=json",
+        "id": 2480,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Houston",
+        "ein": 746001399
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15895/?format=json",
+      "date_created": "2022-07-21T11:58:11.610019-07:00",
+      "date_modified": "2022-07-21T11:58:11.610032-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2006
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51214/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51215/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51216/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51217/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51218/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8319/?format=json",
+      "id": 8319,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15895/?format=json",
+      "date_created": "2022-07-21T11:58:11.612168-07:00",
+      "date_modified": "2022-07-21T11:58:11.612180-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-21T11:58:11.496130-07:00",
+  "date_modified": "2022-07-21T12:05:23.089552-07:00",
+  "date_completed": "2022-07-21T11:50:27-07:00",
+  "fjc_id": null,
+  "slug": "michelle-denise-moore",
+  "name_first": "Michelle",
+  "name_middle": "Denise",
+  "name_last": "Moore",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

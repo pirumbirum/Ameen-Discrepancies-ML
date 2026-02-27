@@ -1,0 +1,162 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14833/?format=json",
+  "id": 14833,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14604/?format=json",
+      "id": 14604,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14833/?format=json",
+      "date_created": "2022-04-07T10:12:09.192766-07:00",
+      "date_modified": "2022-04-07T10:12:09.192786-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=/9mjiZ7oFswA5qBUM4k1kw%3D%3D",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14605/?format=json",
+      "id": 14605,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14833/?format=json",
+      "date_created": "2022-04-07T10:12:09.194747-07:00",
+      "date_modified": "2022-04-07T10:12:09.194769-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-07",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14606/?format=json",
+      "id": 14606,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14833/?format=json",
+      "date_created": "2022-04-07T10:12:09.195843-07:00",
+      "date_modified": "2022-04-07T10:12:09.195864-07:00",
+      "url": "https://ww2.nycourts.gov/courts/1jd/supctmanh/bio_JJKelley.shtml",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14607/?format=json",
+      "id": 14607,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14833/?format=json",
+      "date_created": "2022-04-07T10:12:09.196904-07:00",
+      "date_modified": "2022-04-07T10:12:09.196925-07:00",
+      "url": "https://ballotpedia.org/John_J._Kelley",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14608/?format=json",
+      "id": 14608,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14833/?format=json",
+      "date_created": "2022-04-07T10:12:09.197972-07:00",
+      "date_modified": "2022-04-07T10:12:09.197993-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/New_York_City_Family_Court,_Bronx_County/John_Kelley/John_Kelley-50000184.xml",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14609/?format=json",
+      "id": 14609,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14833/?format=json",
+      "date_created": "2022-04-07T10:12:09.199042-07:00",
+      "date_modified": "2022-04-07T10:12:09.199063-07:00",
+      "url": "https://www.linkedin.com/in/john-j-jj-kelley-08869ba/",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10783/?format=json",
+      "id": 10783,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1902/?format=json",
+        "id": 1902,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "George Mason University",
+        "ein": 540836354
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14833/?format=json",
+      "date_created": "2022-04-07T10:12:09.175594-07:00",
+      "date_modified": "2022-04-07T10:12:09.175627-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1987
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10784/?format=json",
+      "id": 10784,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2625/?format=json",
+        "id": 2625,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Ithaca College",
+        "ein": 150532204
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14833/?format=json",
+      "date_created": "2022-04-07T10:12:09.185397-07:00",
+      "date_modified": "2022-04-07T10:12:09.185418-07:00",
+      "degree_level": "ba",
+      "degree_detail": "History, Writing",
+      "degree_year": 1984
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/46337/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46338/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46339/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46340/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46341/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46342/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46343/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46344/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46345/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46346/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7499/?format=json",
+      "id": 7499,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14833/?format=json",
+      "date_created": "2022-04-07T10:12:09.190877-07:00",
+      "date_modified": "2022-04-07T10:12:09.190899-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-07T10:12:09.092076-07:00",
+  "date_modified": "2022-05-07T16:26:45.956916-07:00",
+  "date_completed": "2022-05-07T15:57:10-07:00",
+  "fjc_id": null,
+  "slug": "john-j-kelley",
+  "name_first": "John",
+  "name_middle": "J.",
+  "name_last": "Kelley",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,150 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15532/?format=json",
+  "id": 15532,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17293/?format=json",
+      "id": 17293,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15532/?format=json",
+      "date_created": "2022-06-23T10:26:41.774204-07:00",
+      "date_modified": "2022-06-23T10:26:41.774223-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-06-23",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17294/?format=json",
+      "id": 17294,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15532/?format=json",
+      "date_created": "2022-06-23T10:26:41.791145-07:00",
+      "date_modified": "2022-06-23T10:26:41.791163-07:00",
+      "url": "https://ballotpedia.org/Clifford_A._Brown",
+      "date_accessed": "2022-06-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17295/?format=json",
+      "id": 17295,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15532/?format=json",
+      "date_created": "2022-06-23T10:26:41.791793-07:00",
+      "date_modified": "2022-06-23T10:26:41.791804-07:00",
+      "url": "https://www.linkedin.com/in/clifford-brown-7581b8b/",
+      "date_accessed": "2022-06-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17296/?format=json",
+      "id": 17296,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15532/?format=json",
+      "date_created": "2022-06-23T10:26:41.792347-07:00",
+      "date_modified": "2022-06-23T10:26:41.792362-07:00",
+      "url": "https://www.thebakarifoundation.org/clifford-a-brown.html",
+      "date_accessed": "2022-06-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17297/?format=json",
+      "id": 17297,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15532/?format=json",
+      "date_created": "2022-06-23T10:26:41.792965-07:00",
+      "date_modified": "2022-06-23T10:26:41.792980-07:00",
+      "url": "",
+      "date_accessed": "2022-06-23",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11870/?format=json",
+      "id": 11870,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2171/?format=json",
+        "id": 2171,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Adelphi University",
+        "ein": 111630741
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15532/?format=json",
+      "date_created": "2022-06-23T10:26:41.704844-07:00",
+      "date_modified": "2022-06-23T10:26:41.704860-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Business Management & Finance",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11871/?format=json",
+      "id": 11871,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6050/?format=json",
+        "id": 6050,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "George Washington University",
+        "ein": 530196584
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15532/?format=json",
+      "date_created": "2022-06-23T10:26:41.743462-07:00",
+      "date_modified": "2022-06-23T10:26:41.743483-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1989
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49760/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49761/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49762/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49763/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49764/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49765/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49766/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49767/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8089/?format=json",
+      "id": 8089,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15532/?format=json",
+      "date_created": "2022-06-23T10:26:41.745700-07:00",
+      "date_modified": "2022-06-23T10:26:41.745715-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-06-23T10:26:41.383936-07:00",
+  "date_modified": "2022-06-23T10:26:41.383958-07:00",
+  "date_completed": "2022-06-23T09:55:32-07:00",
+  "fjc_id": null,
+  "slug": "clifford-a-brown",
+  "name_first": "Clifford",
+  "name_middle": "A.",
+  "name_last": "Brown",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

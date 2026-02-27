@@ -1,0 +1,89 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/160/?format=json",
+  "id": 160,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/81/?format=json",
+      "id": 81,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/160/?format=json",
+      "date_created": "2016-04-20T08:16:09.432960-07:00",
+      "date_modified": "2016-04-20T08:16:09.432985-07:00",
+      "year_rated": 1968,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/114/?format=json",
+      "id": 114,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2484/?format=json",
+        "id": 2484,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "South Texas College of Law",
+        "ein": 741554976
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/160/?format=json",
+      "date_created": "2016-04-20T08:16:09.513758-07:00",
+      "date_modified": "2016-04-20T08:16:09.513799-07:00",
+      "degree_level": "",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/798/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/799/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/800/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/801/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/802/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/803/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/797/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/162/?format=json",
+      "id": 162,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/160/?format=json",
+      "date_created": "2016-04-20T08:16:09.425581-07:00",
+      "date_modified": "2016-04-20T08:16:09.425610-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1968-05-29",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:09.390600-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 86,
+  "slug": "phillip-benjamin-baldwin",
+  "name_first": "Phillip",
+  "name_middle": "Benjamin",
+  "name_last": "Baldwin",
+  "name_suffix": "",
+  "date_dob": "1924-12-23",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2002-04-20",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Marshall",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "Shreveport",
+  "dod_state": "LA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

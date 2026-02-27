@@ -1,0 +1,192 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8115/?format=json",
+  "id": 8115,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3887/?format=json",
+      "id": 3887,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8115/?format=json",
+      "date_created": "2016-04-20T08:28:50.936793-07:00",
+      "date_modified": "2022-05-25T14:51:02.129925-07:00",
+      "url": "http://www.gaappeals.us/history/roster.php",
+      "date_accessed": "2022-05-25",
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16536/?format=json",
+      "id": 16536,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8115/?format=json",
+      "date_created": "2022-05-25T14:51:02.133776-07:00",
+      "date_modified": "2022-05-25T14:51:02.133799-07:00",
+      "url": "https://www.supremecourt.ohio.gov/PIO/news/2006/mcfarland_041106.asp",
+      "date_accessed": "2022-05-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16537/?format=json",
+      "id": 16537,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8115/?format=json",
+      "date_created": "2022-05-25T14:51:02.134985-07:00",
+      "date_modified": "2022-05-25T14:51:02.135005-07:00",
+      "url": "https://ballotpedia.org/Matthew_McFarland",
+      "date_accessed": "2022-05-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16538/?format=json",
+      "id": 16538,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8115/?format=json",
+      "date_created": "2022-05-25T14:51:02.135859-07:00",
+      "date_modified": "2022-05-25T14:51:02.135876-07:00",
+      "url": "https://www.ohsd.uscourts.gov/JMcFarland",
+      "date_accessed": "2022-05-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16539/?format=json",
+      "id": 16539,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8115/?format=json",
+      "date_created": "2022-05-25T14:51:02.136720-07:00",
+      "date_modified": "2022-05-25T14:51:02.136735-07:00",
+      "url": "https://en.wikipedia.org/wiki/Matthew_W._McFarland",
+      "date_accessed": "2022-05-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16540/?format=json",
+      "id": 16540,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8115/?format=json",
+      "date_created": "2022-05-25T14:51:02.137550-07:00",
+      "date_modified": "2022-05-25T14:51:02.137575-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/McFarland-MW.%20J3.%2006.%20OHS_SPE_SR_20.pdf",
+      "date_accessed": "2022-05-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16541/?format=json",
+      "id": 16541,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8115/?format=json",
+      "date_created": "2022-05-25T14:51:02.138941-07:00",
+      "date_modified": "2022-05-25T14:51:02.138955-07:00",
+      "url": "https://www.prochoiceamerica.org/wp-content/uploads/2019/06/Matthew-McFarland_NARAL-1.pdf",
+      "date_accessed": "2022-05-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16542/?format=json",
+      "id": 16542,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8115/?format=json",
+      "date_created": "2022-05-25T14:51:02.140414-07:00",
+      "date_modified": "2022-05-25T14:51:02.140429-07:00",
+      "url": "https://www.judiciary.senate.gov/imo/media/doc/McFarland%20SJQ.pdf",
+      "date_accessed": "2022-05-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16543/?format=json",
+      "id": 16543,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8115/?format=json",
+      "date_created": "2022-05-25T14:53:56.258859-07:00",
+      "date_modified": "2022-05-25T14:53:56.258889-07:00",
+      "url": "https://clustrmaps.com/person/Mcfarland-3o4p6j",
+      "date_accessed": "2022-05-25",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11612/?format=json",
+      "id": 11612,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1349/?format=json",
+        "id": 1349,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Capital University",
+        "ein": 314379435
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8115/?format=json",
+      "date_created": "2022-05-25T14:58:32.142130-07:00",
+      "date_modified": "2022-05-25T14:58:32.142147-07:00",
+      "degree_level": "ba",
+      "degree_detail": "cum laude",
+      "degree_year": 1989
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11613/?format=json",
+      "id": 11613,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1349/?format=json",
+        "id": 1349,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Capital University",
+        "ein": 314379435
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8115/?format=json",
+      "date_created": "2022-05-25T14:58:32.150620-07:00",
+      "date_modified": "2022-05-25T14:58:32.150641-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1992
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47972/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47973/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47974/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47975/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47976/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47977/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47978/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47979/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33080/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47971/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7975/?format=json",
+      "id": 7975,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8115/?format=json",
+      "date_created": "2022-05-25T15:00:29.876746-07:00",
+      "date_modified": "2022-05-25T15:00:29.876775-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:50.916848-07:00",
+  "date_modified": "2022-05-25T15:24:49.885083-07:00",
+  "date_completed": "2022-05-25T14:44:17-07:00",
+  "fjc_id": null,
+  "slug": "matthew-walden-mcfarland",
+  "name_first": "Matthew",
+  "name_middle": "Walden",
+  "name_last": "McFarland",
+  "name_suffix": "",
+  "date_dob": "1967-08-05",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Portsmouth",
+  "dob_state": "OH",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,73 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3448/?format=json",
+  "id": 3448,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/21669/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21670/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21671/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21672/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21673/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21674/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21675/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21676/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3465/?format=json",
+      "id": 3465,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3448/?format=json",
+      "date_created": "2016-04-20T08:23:50.131622-07:00",
+      "date_modified": "2016-04-20T08:23:50.187869-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1894-02-19",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": "1910-12-12",
+      "date_granularity_end": "%Y-%m-%d"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3466/?format=json",
+      "id": 3466,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3448/?format=json",
+      "date_created": "2016-04-20T08:23:50.196356-07:00",
+      "date_modified": "2016-04-20T08:23:50.196381-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1910-12-12",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:23:50.070615-07:00",
+  "date_modified": "2020-11-25T08:30:21.013915-08:00",
+  "date_completed": null,
+  "fjc_id": 2567,
+  "slug": "edward-douglass-white",
+  "name_first": "Edward",
+  "name_middle": "Douglass",
+  "name_last": "White",
+  "name_suffix": "",
+  "date_dob": "1845-11-03",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1921-05-19",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Lafourche Parish",
+  "dob_state": "LA",
+  "dob_country": "United States",
+  "dod_city": "Washington",
+  "dod_state": "DC",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

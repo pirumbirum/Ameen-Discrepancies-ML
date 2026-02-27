@@ -1,0 +1,83 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4355/?format=json",
+  "id": 4355,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/400/?format=json",
+      "id": 400,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4355/?format=json",
+      "date_created": "2016-04-20T08:24:56.158319-07:00",
+      "date_modified": "2016-04-20T08:24:56.158362-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/200011051171",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3512/?format=json",
+      "id": 3512,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/161/?format=json",
+        "id": 161,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Michigan-Ann Arbor",
+        "ein": 386006309
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4355/?format=json",
+      "date_created": "2016-04-20T08:24:56.133288-07:00",
+      "date_modified": "2016-04-20T08:24:56.133318-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24466/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24467/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3933/?format=json",
+      "id": 3933,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4355/?format=json",
+      "date_created": "2016-04-20T08:24:56.151108-07:00",
+      "date_modified": "2016-04-20T08:24:56.151154-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:56.089446-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "oliver-starr",
+  "name_first": "Oliver",
+  "name_middle": "",
+  "name_last": "Starr",
+  "name_suffix": "",
+  "date_dob": "1883-12-10",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1961-01-01",
+  "date_granularity_dod": "%Y",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,152 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15896/?format=json",
+  "id": 15896,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19039/?format=json",
+      "id": 19039,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15896/?format=json",
+      "date_created": "2022-07-21T12:20:36.431072-07:00",
+      "date_modified": "2022-07-21T12:20:36.431084-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-21",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19040/?format=json",
+      "id": 19040,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15896/?format=json",
+      "date_created": "2022-07-21T12:24:14.577294-07:00",
+      "date_modified": "2022-07-21T12:24:14.577318-07:00",
+      "url": "https://trellis.law/judge/regina.lachae.moore",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19041/?format=json",
+      "id": 19041,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15896/?format=json",
+      "date_created": "2022-07-21T12:24:14.582155-07:00",
+      "date_modified": "2022-07-21T12:24:14.582171-07:00",
+      "url": "https://www.dallascounty.org/government/courts/family_district/256th/",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19042/?format=json",
+      "id": 19042,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15896/?format=json",
+      "date_created": "2022-07-21T12:24:14.582972-07:00",
+      "date_modified": "2022-07-21T12:24:14.582984-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=298687",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19043/?format=json",
+      "id": 19043,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15896/?format=json",
+      "date_created": "2022-07-21T12:24:14.583721-07:00",
+      "date_modified": "2022-07-21T12:24:14.583737-07:00",
+      "url": "https://www.lawyer.com/regina-l-moore-1090056.html",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19044/?format=json",
+      "id": 19044,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15896/?format=json",
+      "date_created": "2022-07-21T12:24:14.584517-07:00",
+      "date_modified": "2022-07-21T12:24:14.584531-07:00",
+      "url": "https://www.lawyers.com/dallas/texas/regina-lachae-moore-300382620-a/",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19045/?format=json",
+      "id": 19045,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15896/?format=json",
+      "date_created": "2022-07-21T12:24:14.586917-07:00",
+      "date_modified": "2022-07-21T12:24:14.586929-07:00",
+      "url": "",
+      "date_accessed": "2022-07-21",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12373/?format=json",
+      "id": 12373,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2085/?format=json",
+        "id": 2085,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Wesleyan University",
+        "ein": 750800691
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15896/?format=json",
+      "date_created": "2022-07-21T12:20:36.391958-07:00",
+      "date_modified": "2022-07-21T12:20:36.391976-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2006
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12374/?format=json",
+      "id": 12374,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15896/?format=json",
+      "date_created": "2022-07-21T12:20:36.429414-07:00",
+      "date_modified": "2022-07-21T12:20:36.429432-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Government",
+      "degree_year": 2003
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51219/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51221/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51220/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51222/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-07-21T12:20:36.297511-07:00",
+  "date_modified": "2022-07-21T12:26:34.356684-07:00",
+  "date_completed": "2022-07-21T12:16:01-07:00",
+  "fjc_id": null,
+  "slug": "regina-lachae-moore",
+  "name_first": "Regina",
+  "name_middle": "La'Chae",
+  "name_last": "Moore",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

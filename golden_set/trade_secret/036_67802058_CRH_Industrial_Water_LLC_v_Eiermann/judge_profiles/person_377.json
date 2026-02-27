@@ -1,0 +1,162 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/377/?format=json",
+  "id": 377,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1266/?format=json",
+      "id": 1266,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/377/?format=json",
+      "date_created": "2016-04-20T08:25:53.870552-07:00",
+      "date_modified": "2016-04-20T08:25:53.870579-07:00",
+      "url": "http://en.wikipedia.org/wiki/William_J._Brennan",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1267/?format=json",
+      "id": 1267,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/377/?format=json",
+      "date_created": "2016-04-20T08:25:53.876357-07:00",
+      "date_modified": "2016-04-20T08:25:53.876384-07:00",
+      "url": "_Jr.",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/291/?format=json",
+      "id": 291,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4361/?format=json",
+        "id": 4361,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Pennsylvania",
+        "ein": 231352685
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/377/?format=json",
+      "date_created": "2016-04-20T08:16:39.413703-07:00",
+      "date_modified": "2016-04-20T08:16:39.413727-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1928
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/292/?format=json",
+      "id": 292,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/377/?format=json",
+      "date_created": "2016-04-20T08:16:39.441655-07:00",
+      "date_modified": "2016-04-20T08:16:39.441680-07:00",
+      "degree_level": "llb",
+      "degree_detail": "LL.B.",
+      "degree_year": 1931
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4144/?format=json",
+      "id": 4144,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4361/?format=json",
+        "id": 4361,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Pennsylvania",
+        "ein": 231352685
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/377/?format=json",
+      "date_created": "2016-04-20T08:25:53.826359-07:00",
+      "date_modified": "2016-04-20T08:25:53.826389-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4145/?format=json",
+      "id": 4145,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/377/?format=json",
+      "date_created": "2016-04-20T08:25:53.842058-07:00",
+      "date_modified": "2016-04-20T08:25:53.842087-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/2206/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2207/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2208/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2209/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2210/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2211/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2212/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2213/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26513/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26514/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26515/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26516/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/380/?format=json",
+      "id": 380,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/377/?format=json",
+      "date_created": "2016-04-20T08:16:39.399210-07:00",
+      "date_modified": "2016-04-20T08:16:39.399235-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1957-01-14",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:39.367709-07:00",
+  "date_modified": "2020-11-25T08:30:22.104284-08:00",
+  "date_completed": null,
+  "fjc_id": 249,
+  "slug": "william-joseph-brennan-jr",
+  "name_first": "William",
+  "name_middle": "Joseph",
+  "name_last": "Brennan",
+  "name_suffix": "jr",
+  "date_dob": "1906-04-25",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1997-07-24",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Newark",
+  "dob_state": "NJ",
+  "dob_country": "United States",
+  "dod_city": "Arlington",
+  "dod_state": "VA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

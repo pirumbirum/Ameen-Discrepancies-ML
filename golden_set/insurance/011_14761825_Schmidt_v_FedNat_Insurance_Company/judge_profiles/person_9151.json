@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/9151/?format=json",
+  "id": 9151,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4863/?format=json",
+      "id": 4863,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9151/?format=json",
+      "date_created": "2020-05-13T16:56:24.385323-07:00",
+      "date_modified": "2020-05-13T16:56:24.385344-07:00",
+      "url": "https://www.uscourts.gov/judicial-milestones/mac-r-mccoy",
+      "date_accessed": "2020-05-13",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/35149/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2020-05-13T16:56:24.375632-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "mac-r-mccoy",
+  "name_first": "Mac",
+  "name_middle": "R.",
+  "name_last": "McCoy",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

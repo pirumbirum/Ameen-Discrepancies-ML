@@ -1,0 +1,82 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6873/?format=json",
+  "id": 6873,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2949/?format=json",
+      "id": 2949,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6873/?format=json",
+      "date_created": "2016-04-20T08:27:49.808012-07:00",
+      "date_modified": "2016-04-20T08:27:49.808034-07:00",
+      "url": "http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=3797",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2950/?format=json",
+      "id": 2950,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6873/?format=json",
+      "date_created": "2016-04-20T08:27:49.812953-07:00",
+      "date_modified": "2016-04-20T08:27:49.812974-07:00",
+      "url": "http://articles.orlandosentinel.com/1990-06-14/news/9006140452_1_daniel-lake-county-court-of-appeal",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5629/?format=json",
+      "id": 5629,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2145/?format=json",
+        "id": 2145,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Florida",
+        "ein": 596002052
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6873/?format=json",
+      "date_created": "2016-04-20T08:27:49.771772-07:00",
+      "date_modified": "2016-04-20T08:27:49.771802-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/30777/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30778/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30779/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30780/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30781/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:49.746115-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "c-welborn-daniel",
+  "name_first": "C",
+  "name_middle": "Welborn",
+  "name_last": "Daniel",
+  "name_suffix": "",
+  "date_dob": "1926-06-12",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

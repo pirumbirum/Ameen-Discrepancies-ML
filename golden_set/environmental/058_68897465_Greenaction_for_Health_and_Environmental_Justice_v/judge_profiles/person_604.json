@@ -1,0 +1,75 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/604/?format=json",
+  "id": 604,
+  "race": [
+    "a"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/354/?format=json",
+      "id": 354,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/604/?format=json",
+      "date_created": "2016-04-20T08:17:10.034613-07:00",
+      "date_modified": "2016-04-20T08:17:10.034635-07:00",
+      "year_rated": 2014,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/3586/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3587/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3588/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3589/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3590/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3591/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3592/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3593/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3594/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3595/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3596/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3597/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3598/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/609/?format=json",
+      "id": 609,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/604/?format=json",
+      "date_created": "2016-04-20T08:17:10.027649-07:00",
+      "date_modified": "2016-04-20T08:17:10.027673-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2014-01-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:09.993259-07:00",
+  "date_modified": "2020-11-25T08:30:18.367074-08:00",
+  "date_completed": null,
+  "fjc_id": 3510,
+  "slug": "vince-girdhari-chhabria",
+  "name_first": "Vince",
+  "name_middle": "Girdhari",
+  "name_last": "Chhabria",
+  "name_suffix": "",
+  "date_dob": "1969-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "San Francisco",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14428/?format=json",
+  "id": 14428,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6100/?format=json",
+      "id": 6100,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14428/?format=json",
+      "date_created": "2021-11-22T12:57:02.185663-08:00",
+      "date_modified": "2021-11-22T12:57:02.185687-08:00",
+      "url": "https://faculty.utah.edu/u0048409-JARED_CARL_BENNETT/hm/index.hml",
+      "date_accessed": "2021-11-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44230/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-11-22T12:57:02.175445-08:00",
+  "date_modified": "2021-11-22T12:57:02.175468-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jared-c-bennett",
+  "name_first": "Jared",
+  "name_middle": "C.",
+  "name_last": "Bennett",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

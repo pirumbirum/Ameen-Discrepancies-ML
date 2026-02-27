@@ -1,0 +1,85 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5121/?format=json",
+  "id": 5121,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1286/?format=json",
+      "id": 1286,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5121/?format=json",
+      "date_created": "2016-04-20T08:25:55.483244-07:00",
+      "date_modified": "2016-04-20T08:25:55.483265-07:00",
+      "url": "http://www.nytimes.com/1996/10/05/nyregion/haydn-proctor-93-a-judge-and-new-jersey-state-senator.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4171/?format=json",
+      "id": 4171,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5121/?format=json",
+      "date_created": "2016-04-20T08:25:55.448461-07:00",
+      "date_modified": "2016-04-20T08:25:55.448492-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26581/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26582/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26583/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26584/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4174/?format=json",
+      "id": 4174,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5121/?format=json",
+      "date_created": "2016-04-20T08:25:55.478925-07:00",
+      "date_modified": "2016-04-20T08:25:55.478950-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:55.399898-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "haydn-proctor",
+  "name_first": "Haydn",
+  "name_middle": "",
+  "name_last": "Proctor",
+  "name_suffix": "",
+  "date_dob": "1903-06-16",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1996-10-02",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13017/?format=json",
+  "id": 13017,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8756/?format=json",
+      "id": 8756,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13017/?format=json",
+      "date_created": "2022-02-24T15:34:14.242184-08:00",
+      "date_modified": "2022-02-24T15:34:14.242219-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-24",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8757/?format=json",
+      "id": 8757,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13017/?format=json",
+      "date_created": "2022-02-24T15:34:14.251422-08:00",
+      "date_modified": "2022-02-24T15:34:14.251446-08:00",
+      "url": "https://ballotpedia.org/Delbert_C._Gee",
+      "date_accessed": "2022-02-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8758/?format=json",
+      "id": 8758,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13017/?format=json",
+      "date_created": "2022-02-24T15:34:14.259562-08:00",
+      "date_modified": "2022-02-24T15:34:14.259587-08:00",
+      "url": "https://www.martindale.com/attorney/delbert-calvin-gee-231747/",
+      "date_accessed": "2022-02-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8759/?format=json",
+      "id": 8759,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13017/?format=json",
+      "date_created": "2022-02-24T15:34:14.271463-08:00",
+      "date_modified": "2022-02-24T15:34:14.271502-08:00",
+      "url": "https://trellis.law/judge/delbert.c.gee",
+      "date_accessed": "2022-02-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8760/?format=json",
+      "id": 8760,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13017/?format=json",
+      "date_created": "2022-02-24T15:34:14.280036-08:00",
+      "date_modified": "2022-02-24T15:34:14.280061-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-24",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8061/?format=json",
+      "id": 8061,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1532/?format=json",
+        "id": 1532,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Davis",
+        "ein": 946036494
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13017/?format=json",
+      "date_created": "2022-02-24T15:34:14.209536-08:00",
+      "date_modified": "2022-02-24T15:34:14.209577-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1977
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8062/?format=json",
+      "id": 8062,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5312/?format=json",
+        "id": 5312,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Santa Clara University",
+        "ein": 941156697
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13017/?format=json",
+      "date_created": "2022-02-24T15:34:14.221217-08:00",
+      "date_modified": "2022-02-24T15:34:14.221253-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1980
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42333/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5764/?format=json",
+      "id": 5764,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13017/?format=json",
+      "date_created": "2022-02-24T15:34:14.228158-08:00",
+      "date_modified": "2022-02-24T15:34:14.228183-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5765/?format=json",
+      "id": 5765,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13017/?format=json",
+      "date_created": "2022-02-24T15:34:14.236326-08:00",
+      "date_modified": "2022-02-24T15:34:14.236352-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:18.329584-07:00",
+  "date_modified": "2022-03-19T14:32:50.749936-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "delbert-calvin-gee",
+  "name_first": "Delbert",
+  "name_middle": "Calvin",
+  "name_last": "Gee",
+  "name_suffix": "",
+  "date_dob": "1955-07-29",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

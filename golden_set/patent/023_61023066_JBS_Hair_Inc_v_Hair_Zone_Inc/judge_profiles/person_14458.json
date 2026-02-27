@@ -1,0 +1,186 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14458/?format=json",
+  "id": 14458,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8502/?format=json",
+      "id": 8502,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14458/?format=json",
+      "date_created": "2022-02-23T16:01:42.559009-08:00",
+      "date_modified": "2022-02-23T16:01:42.559036-08:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2019/Brown-JV.%20J3.%2005.%20TXS_SR_19.pdf",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8503/?format=json",
+      "id": 8503,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14458/?format=json",
+      "date_created": "2022-02-23T16:01:42.561012-08:00",
+      "date_modified": "2022-02-23T16:01:42.561039-08:00",
+      "url": "https://www.uscourts.gov/judicial-milestones/jeffrey-vincent-brown",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8504/?format=json",
+      "id": 8504,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14458/?format=json",
+      "date_created": "2022-02-23T16:01:42.562360-08:00",
+      "date_modified": "2022-02-23T16:01:42.562387-08:00",
+      "url": "https://www.txs.uscourts.gov/page/united-states-district-judge-jeffrey-v-brown",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8505/?format=json",
+      "id": 8505,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14458/?format=json",
+      "date_created": "2022-02-23T16:01:42.563674-08:00",
+      "date_modified": "2022-02-23T16:01:42.563700-08:00",
+      "url": "https://www.txs.uscourts.gov/content/appointment-united-states-district-judge-jeffrey-v-brown-galveston-division",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8506/?format=json",
+      "id": 8506,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14458/?format=json",
+      "date_created": "2022-02-23T16:01:42.564990-08:00",
+      "date_modified": "2022-02-23T16:01:42.565016-08:00",
+      "url": "https://en.wikipedia.org/wiki/Jeff_Brown_(judge)",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8507/?format=json",
+      "id": 8507,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14458/?format=json",
+      "date_created": "2022-02-23T16:01:42.566289-08:00",
+      "date_modified": "2022-02-23T16:01:42.566316-08:00",
+      "url": "https://fedsoc.org/contributors/jeff-brown",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8508/?format=json",
+      "id": 8508,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14458/?format=json",
+      "date_created": "2022-02-23T16:01:42.567640-08:00",
+      "date_modified": "2022-02-23T16:01:42.567667-08:00",
+      "url": "https://ballotpedia.org/Jeff_Brown_(Texas)",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8509/?format=json",
+      "id": 8509,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14458/?format=json",
+      "date_created": "2022-02-23T16:01:42.568968-08:00",
+      "date_modified": "2022-02-23T16:01:42.568995-08:00",
+      "url": "https://www.afj.org/nominee/jeffrey-brown/",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8510/?format=json",
+      "id": 8510,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14458/?format=json",
+      "date_created": "2022-02-23T16:01:42.570274-08:00",
+      "date_modified": "2022-02-23T16:01:42.570302-08:00",
+      "url": "https://www.tbls.org/profile/41",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7951/?format=json",
+      "id": 7951,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14458/?format=json",
+      "date_created": "2022-02-23T16:01:42.551831-08:00",
+      "date_modified": "2022-02-23T16:01:42.551865-08:00",
+      "degree_level": "ba",
+      "degree_detail": "English",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7952/?format=json",
+      "id": 7952,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2480/?format=json",
+        "id": 2480,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Houston",
+        "ein": 746001399
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14458/?format=json",
+      "date_created": "2022-02-23T16:01:42.557393-08:00",
+      "date_modified": "2022-02-23T16:01:42.557422-08:00",
+      "degree_level": "jd",
+      "degree_detail": "magna cum laude",
+      "degree_year": 1995
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44361/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44362/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44363/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44364/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5716/?format=json",
+      "id": 5716,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14458/?format=json",
+      "date_created": "2022-02-23T18:32:37.679014-08:00",
+      "date_modified": "2022-02-23T18:32:37.679039-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-02-23T16:01:42.505014-08:00",
+  "date_modified": "2022-02-23T18:32:37.668755-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jeffrey-vincent-brown",
+  "name_first": "Jeffrey",
+  "name_middle": "Vincent",
+  "name_last": "Brown",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

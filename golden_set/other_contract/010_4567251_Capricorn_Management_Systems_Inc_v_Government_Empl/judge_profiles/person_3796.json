@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3796/?format=json",
+  "id": 3796,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7201/?format=json",
+      "id": 7201,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3796/?format=json",
+      "date_created": "2022-02-15T17:40:52.444129-08:00",
+      "date_modified": "2022-02-15T17:40:52.444151-08:00",
+      "url": "https://www.courts.ca.gov/5762.htm",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7202/?format=json",
+      "id": 7202,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3796/?format=json",
+      "date_created": "2022-02-15T17:40:52.449017-08:00",
+      "date_modified": "2022-02-15T17:40:52.449039-08:00",
+      "url": "https://en.wikipedia.org/wiki/Ming_Chin#Personal_life",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7203/?format=json",
+      "id": 7203,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3796/?format=json",
+      "date_created": "2022-02-15T17:40:52.453352-08:00",
+      "date_modified": "2022-02-15T17:40:52.453373-08:00",
+      "url": "https://ballotpedia.org/Ming_Chin",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7204/?format=json",
+      "id": 7204,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3796/?format=json",
+      "date_created": "2022-02-15T17:40:52.458095-08:00",
+      "date_modified": "2022-02-15T17:40:52.458117-08:00",
+      "url": "https://www.adrservices.com/neutrals/chin-ming/",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7205/?format=json",
+      "id": 7205,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3796/?format=json",
+      "date_created": "2022-02-15T17:40:52.468192-08:00",
+      "date_modified": "2022-02-15T17:40:52.468215-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-15",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3198/?format=json",
+      "id": 3198,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5226/?format=json",
+        "id": 5226,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of San Francisco",
+        "ein": 941156628
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3796/?format=json",
+      "date_created": "2016-04-20T08:24:24.941842-07:00",
+      "date_modified": "2022-02-15T17:40:52.381135-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1967
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3197/?format=json",
+      "id": 3197,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5226/?format=json",
+        "id": 5226,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of San Francisco",
+        "ein": 941156628
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3796/?format=json",
+      "date_created": "2016-04-20T08:24:24.917566-07:00",
+      "date_modified": "2022-02-15T17:40:52.371810-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Political Science",
+      "degree_year": 1964
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23158/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23156/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44288/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44289/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5359/?format=json",
+      "id": 5359,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3796/?format=json",
+      "date_created": "2022-02-15T17:40:52.387694-08:00",
+      "date_modified": "2022-02-15T17:40:52.387718-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:24.896559-07:00",
+  "date_modified": "2022-02-15T17:40:52.349921-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "ming-william-chin",
+  "name_first": "Ming",
+  "name_middle": "William",
+  "name_last": "Chin",
+  "name_suffix": "",
+  "date_dob": "1942-08-31",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Klamath Falls",
+  "dob_state": "OR",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

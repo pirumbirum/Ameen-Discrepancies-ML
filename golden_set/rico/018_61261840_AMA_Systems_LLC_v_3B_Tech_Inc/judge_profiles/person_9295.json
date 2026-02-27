@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/9295/?format=json",
+  "id": 9295,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/5007/?format=json",
+      "id": 5007,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9295/?format=json",
+      "date_created": "2020-05-13T16:56:26.944456-07:00",
+      "date_modified": "2020-05-13T16:56:26.944478-07:00",
+      "url": "https://www.uscourts.gov/judicial-milestones/j-mark-coulson",
+      "date_accessed": "2020-05-13",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/35293/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2020-05-13T16:56:26.935986-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "j-mark-coulson",
+  "name_first": "J.",
+  "name_middle": "Mark",
+  "name_last": "Coulson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

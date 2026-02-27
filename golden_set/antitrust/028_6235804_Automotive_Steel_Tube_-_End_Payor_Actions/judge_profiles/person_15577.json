@@ -1,0 +1,201 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15577/?format=json",
+  "id": 15577,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17491/?format=json",
+      "id": 17491,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15577/?format=json",
+      "date_created": "2022-06-28T11:25:37.945830-07:00",
+      "date_modified": "2022-06-28T11:25:37.945844-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-06-28",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17492/?format=json",
+      "id": 17492,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15577/?format=json",
+      "date_created": "2022-06-28T12:00:44.406749-07:00",
+      "date_modified": "2022-06-28T12:00:44.406767-07:00",
+      "url": "https://www.linkedin.com/in/judgelonniecox/",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17493/?format=json",
+      "id": 17493,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15577/?format=json",
+      "date_created": "2022-06-28T12:00:44.422608-07:00",
+      "date_modified": "2022-06-28T12:00:44.422625-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=150862",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17494/?format=json",
+      "id": 17494,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15577/?format=json",
+      "date_created": "2022-06-28T12:00:44.425867-07:00",
+      "date_modified": "2022-06-28T12:00:44.425882-07:00",
+      "url": "https://www.galvestoncountytx.gov/our-county/judicial-district-courts/56th-district-court/judge-lonnie-cox",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17495/?format=json",
+      "id": 17495,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15577/?format=json",
+      "date_created": "2022-06-28T12:00:44.426636-07:00",
+      "date_modified": "2022-06-28T12:00:44.426648-07:00",
+      "url": "https://sites.google.com/view/lonnie-cox-galveston/home",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17496/?format=json",
+      "id": 17496,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15577/?format=json",
+      "date_created": "2022-06-28T12:00:44.427463-07:00",
+      "date_modified": "2022-06-28T12:00:44.427473-07:00",
+      "url": "https://www.crunchbase.com/person/lonnie-cox-galveston",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17497/?format=json",
+      "id": 17497,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15577/?format=json",
+      "date_created": "2022-06-28T12:00:44.428266-07:00",
+      "date_modified": "2022-06-28T12:00:44.428280-07:00",
+      "url": "https://www.law.com/texaslawyer/2020/10/09/meet-the-candidates-for-judge-of-galvestons-56th-district-court-george-lindsey-and-lonnie-cox/",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17498/?format=json",
+      "id": 17498,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15577/?format=json",
+      "date_created": "2022-06-28T12:00:44.429047-07:00",
+      "date_modified": "2022-06-28T12:00:44.429057-07:00",
+      "url": "",
+      "date_accessed": "2022-06-28",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11932/?format=json",
+      "id": 11932,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2470/?format=json",
+        "id": 2470,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Houston Baptist University",
+        "ein": 741400699
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15577/?format=json",
+      "date_created": "2022-06-28T11:25:37.931479-07:00",
+      "date_modified": "2022-06-28T11:25:37.931503-07:00",
+      "degree_level": "mba",
+      "degree_detail": "",
+      "degree_year": 1985
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11933/?format=json",
+      "id": 11933,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2480/?format=json",
+        "id": 2480,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Houston",
+        "ein": 746001399
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15577/?format=json",
+      "date_created": "2022-06-28T11:25:37.935306-07:00",
+      "date_modified": "2022-06-28T11:25:37.935325-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1993
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11931/?format=json",
+      "id": 11931,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2480/?format=json",
+        "id": 2480,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Houston",
+        "ein": 746001399
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15577/?format=json",
+      "date_created": "2022-06-28T11:25:37.920355-07:00",
+      "date_modified": "2022-06-28T12:00:44.396476-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Music Education",
+      "degree_year": 1974
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49940/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49941/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49942/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49943/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49944/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49945/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49947/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49948/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49949/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49946/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8118/?format=json",
+      "id": 8118,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15577/?format=json",
+      "date_created": "2022-06-28T11:25:37.937974-07:00",
+      "date_modified": "2022-06-28T11:25:37.938001-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-06-28T11:25:37.867241-07:00",
+  "date_modified": "2022-06-28T12:07:55.926429-07:00",
+  "date_completed": "2022-06-28T11:23:16-07:00",
+  "fjc_id": null,
+  "slug": "obie-alonzo-cox-jr",
+  "name_first": "Obie",
+  "name_middle": "Alonzo",
+  "name_last": "Cox",
+  "name_suffix": "jr",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

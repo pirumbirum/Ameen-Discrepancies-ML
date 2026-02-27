@@ -1,0 +1,99 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7018/?format=json",
+  "id": 7018,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3053/?format=json",
+      "id": 3053,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7018/?format=json",
+      "date_created": "2016-04-20T08:27:57.345508-07:00",
+      "date_modified": "2016-04-20T08:27:57.345530-07:00",
+      "url": "http://judgepedia.org/Sarah_Parker",
+      "date_accessed": null,
+      "notes": "Peace Corps 1964-66; Private Practice 1969-84;Elected to NC Supreme Court; became Chief Justice of NC Supreme Court in 2006; Retired in 2014 when she reached mandatory retirement age of 72"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3054/?format=json",
+      "id": 3054,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7018/?format=json",
+      "date_created": "2016-04-20T08:27:57.350955-07:00",
+      "date_modified": "2016-04-20T08:27:57.350977-07:00",
+      "url": "http://en.wikipedia.org/wiki/Sarah_Parker",
+      "date_accessed": null,
+      "notes": "Peace Corps 1964-66; Private Practice 1969-84;Elected to NC Supreme Court; became Chief Justice of NC Supreme Court in 2006; Retired in 2014 when she reached mandatory retirement age of 72"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5781/?format=json",
+      "id": 5781,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4044/?format=json",
+        "id": 4044,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Oklahoma-Norman Campus",
+        "ein": 736017987
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7018/?format=json",
+      "date_created": "2016-04-20T08:27:57.308586-07:00",
+      "date_modified": "2016-04-20T08:27:57.308610-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5782/?format=json",
+      "id": 5782,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4044/?format=json",
+        "id": 4044,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Oklahoma-Norman Campus",
+        "ein": 736017987
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7018/?format=json",
+      "date_created": "2016-04-20T08:27:57.324219-07:00",
+      "date_modified": "2016-04-20T08:27:57.324246-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/31071/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/31072/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/31073/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:57.282330-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jerry-r-parker",
+  "name_first": "Jerry",
+  "name_middle": "R.",
+  "name_last": "Parker",
+  "name_suffix": "",
+  "date_dob": "1940-03-13",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2003-01-11",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

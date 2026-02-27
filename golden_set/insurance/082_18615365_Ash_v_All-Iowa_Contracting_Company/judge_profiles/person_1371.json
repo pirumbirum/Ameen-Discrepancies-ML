@@ -1,0 +1,65 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1371/?format=json",
+  "id": 1371,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/845/?format=json",
+      "id": 845,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1371/?format=json",
+      "date_created": "2016-04-20T08:18:55.666090-07:00",
+      "date_modified": "2016-04-20T08:18:55.666111-07:00",
+      "year_rated": 2014,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/8335/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8336/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8337/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1378/?format=json",
+      "id": 1378,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1371/?format=json",
+      "date_created": "2016-04-20T08:18:55.660803-07:00",
+      "date_modified": "2016-04-20T08:18:55.660826-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2014-01-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:55.629284-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3517,
+  "slug": "m-douglas-harpool",
+  "name_first": "M.",
+  "name_middle": "Douglas",
+  "name_last": "Harpool",
+  "name_suffix": "",
+  "date_dob": "1956-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Springfield",
+  "dob_state": "MO",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

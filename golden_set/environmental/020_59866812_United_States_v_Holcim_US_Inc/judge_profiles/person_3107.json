@@ -1,0 +1,214 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3107/?format=json",
+  "id": 3107,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16346/?format=json",
+      "id": 16346,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3107/?format=json",
+      "date_created": "2022-05-23T13:47:16.252288-07:00",
+      "date_modified": "2022-05-23T13:47:16.252323-07:00",
+      "url": "https://en.wikipedia.org/wiki/Carl_E._Stewart",
+      "date_accessed": "2022-05-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16347/?format=json",
+      "id": 16347,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3107/?format=json",
+      "date_created": "2022-05-23T13:47:16.280815-07:00",
+      "date_modified": "2022-05-23T13:47:16.280852-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Stewart-CE.%20J3.%2005.%20--_SR_20.pdf",
+      "date_accessed": "2022-05-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16348/?format=json",
+      "id": 16348,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3107/?format=json",
+      "date_created": "2022-05-23T13:47:16.304174-07:00",
+      "date_modified": "2022-05-23T13:47:16.304199-07:00",
+      "url": "https://ballotpedia.org/Carl_Stewart",
+      "date_accessed": "2022-05-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16349/?format=json",
+      "id": 16349,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3107/?format=json",
+      "date_created": "2022-05-23T13:47:16.327608-07:00",
+      "date_modified": "2022-05-23T13:47:16.327642-07:00",
+      "url": "https://www.fedbar.org/wp-content/uploads/2019/10/Stewart-OctNov2013_2-pgs-pdf-3.pdf",
+      "date_accessed": "2022-05-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16350/?format=json",
+      "id": 16350,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3107/?format=json",
+      "date_created": "2022-05-23T13:47:16.351053-07:00",
+      "date_modified": "2022-05-23T13:47:16.351079-07:00",
+      "url": "https://law.nd.edu/news-events/news/judge-carl-stewart-2020-program-on-ethics-compliance-inclusion/",
+      "date_accessed": "2022-05-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16351/?format=json",
+      "id": 16351,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3107/?format=json",
+      "date_created": "2022-05-23T13:47:16.374724-07:00",
+      "date_modified": "2022-05-23T13:47:16.374759-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=23018&office=21054",
+      "date_accessed": "2022-05-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16352/?format=json",
+      "id": 16352,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3107/?format=json",
+      "date_created": "2022-05-23T13:47:16.398226-07:00",
+      "date_modified": "2022-05-23T13:47:16.398253-07:00",
+      "url": "https://home.innsofcourt.org/AIC/Awards_and_Scholarships/A_Sherman_Christensen_Award/Christensen_Recipient_Profiles/2021_Judge_Carl_E._Stewart.aspx",
+      "date_accessed": "2022-05-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16353/?format=json",
+      "id": 16353,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3107/?format=json",
+      "date_created": "2022-05-23T13:47:16.421611-07:00",
+      "date_modified": "2022-05-23T13:47:16.421634-07:00",
+      "url": "https://www.lsba.org/documents/Diversity/JudgeStewartBioPhoto.pdf",
+      "date_accessed": "2022-05-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16354/?format=json",
+      "id": 16354,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3107/?format=json",
+      "date_created": "2022-05-23T13:47:16.444793-07:00",
+      "date_modified": "2022-05-23T13:47:16.444816-07:00",
+      "url": "",
+      "date_accessed": "2022-05-23",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1971/?format=json",
+      "id": 1971,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3107/?format=json",
+      "date_created": "2016-04-20T08:23:02.071870-07:00",
+      "date_modified": "2016-04-20T08:23:02.071891-07:00",
+      "year_rated": 1994,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2616/?format=json",
+      "id": 2616,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3841/?format=json",
+        "id": 3841,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Dillard University",
+        "ein": 720408929
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3107/?format=json",
+      "date_created": "2016-04-20T08:23:02.084691-07:00",
+      "date_modified": "2022-05-23T13:47:16.149909-07:00",
+      "degree_level": "ba",
+      "degree_detail": "magna cum laude",
+      "degree_year": 1971
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11553/?format=json",
+      "id": 11553,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3849/?format=json",
+        "id": 3849,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Loyola University New Orleans",
+        "ein": 720408946
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3107/?format=json",
+      "date_created": "2022-05-23T13:47:16.225293-07:00",
+      "date_modified": "2022-05-23T13:47:16.225321-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1974
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/19526/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19527/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19531/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19525/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19530/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19528/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19529/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19524/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47824/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3123/?format=json",
+      "id": 3123,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3107/?format=json",
+      "date_created": "2016-04-20T08:23:02.066501-07:00",
+      "date_modified": "2016-04-20T08:23:02.066525-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1994-01-27",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7960/?format=json",
+      "id": 7960,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3107/?format=json",
+      "date_created": "2022-05-23T13:52:55.599791-07:00",
+      "date_modified": "2022-05-23T13:52:55.599825-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:23:02.034310-07:00",
+  "date_modified": "2022-05-23T14:04:42.074489-07:00",
+  "date_completed": "2022-05-23T13:40:51-07:00",
+  "fjc_id": 2292,
+  "slug": "carl-e-stewart",
+  "name_first": "Carl",
+  "name_middle": "E.",
+  "name_last": "Stewart",
+  "name_suffix": "",
+  "date_dob": "1950-01-02",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Shreveport",
+  "dob_state": "LA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

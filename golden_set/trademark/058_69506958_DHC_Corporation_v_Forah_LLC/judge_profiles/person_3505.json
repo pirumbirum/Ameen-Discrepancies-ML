@@ -1,0 +1,107 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3505/?format=json",
+  "id": 3505,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2204/?format=json",
+      "id": 2204,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3505/?format=json",
+      "date_created": "2016-04-20T08:23:58.295920-07:00",
+      "date_modified": "2016-04-20T08:23:58.295942-07:00",
+      "year_rated": 1990,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2927/?format=json",
+      "id": 2927,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5941/?format=json",
+        "id": 5941,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Richmond",
+        "ein": 540505965
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3505/?format=json",
+      "date_created": "2016-04-20T08:23:58.310306-07:00",
+      "date_modified": "2016-04-20T08:23:58.310330-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1971
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2928/?format=json",
+      "id": 2928,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6270/?format=json",
+        "id": 6270,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Wake Forest University",
+        "ein": 560532138
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3505/?format=json",
+      "date_created": "2016-04-20T08:23:58.338665-07:00",
+      "date_modified": "2016-04-20T08:23:58.338688-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1974
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22043/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22044/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22045/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22046/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22047/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22048/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3523/?format=json",
+      "id": 3523,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3505/?format=json",
+      "date_created": "2016-04-20T08:23:58.288778-07:00",
+      "date_modified": "2016-04-20T08:23:58.288802-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1990-03-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:23:58.252017-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2609,
+  "slug": "samuel-grayson-wilson",
+  "name_first": "Samuel",
+  "name_middle": "Grayson",
+  "name_last": "Wilson",
+  "name_suffix": "",
+  "date_dob": "1949-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Norfolk",
+  "dob_state": "VA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

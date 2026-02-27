@@ -1,0 +1,79 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3834/?format=json",
+  "id": 3834,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3212/?format=json",
+      "id": 3212,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3834/?format=json",
+      "date_created": "2016-04-20T08:24:26.500719-07:00",
+      "date_modified": "2016-04-20T08:24:26.500752-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3213/?format=json",
+      "id": 3213,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3892/?format=json",
+        "id": 3892,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Columbia University in the City of New York",
+        "ein": 603800000
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3834/?format=json",
+      "date_created": "2016-04-20T08:24:26.513891-07:00",
+      "date_modified": "2016-04-20T08:24:26.513921-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23234/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23235/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23236/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23237/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:26.476464-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "frank-c-newman",
+  "name_first": "Frank",
+  "name_middle": "C.",
+  "name_last": "Newman",
+  "name_suffix": "",
+  "date_dob": "1917-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,105 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5066/?format=json",
+  "id": 5066,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1240/?format=json",
+      "id": 1240,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5066/?format=json",
+      "date_created": "2016-04-20T08:25:51.633450-07:00",
+      "date_modified": "2016-04-20T08:25:51.633471-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/200011076326",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4101/?format=json",
+      "id": 4101,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2328/?format=json",
+        "id": 2328,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Dartmouth College",
+        "ein": 20222111
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5066/?format=json",
+      "date_created": "2016-04-20T08:25:51.591909-07:00",
+      "date_modified": "2016-04-20T08:25:51.591935-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4102/?format=json",
+      "id": 4102,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5066/?format=json",
+      "date_created": "2016-04-20T08:25:51.606046-07:00",
+      "date_modified": "2016-04-20T08:25:51.606071-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26426/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26427/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26428/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/38516/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/38517/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4155/?format=json",
+      "id": 4155,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5066/?format=json",
+      "date_created": "2016-04-20T08:25:51.627627-07:00",
+      "date_modified": "2016-04-20T08:25:51.627653-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:51.564225-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "john-e-allen",
+  "name_first": "John",
+  "name_middle": "E.",
+  "name_last": "Allen",
+  "name_suffix": "",
+  "date_dob": "1873-06-26",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1945-07-24",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

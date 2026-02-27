@@ -1,0 +1,65 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4760/?format=json",
+  "id": 4760,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/968/?format=json",
+      "id": 968,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4760/?format=json",
+      "date_created": "2016-04-20T08:25:26.414664-07:00",
+      "date_modified": "2016-04-20T08:25:26.414687-07:00",
+      "url": "http://www.micourthistory.org/justices/clark-adams/",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25589/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25590/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25591/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25592/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4068/?format=json",
+      "id": 4068,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4760/?format=json",
+      "date_created": "2016-04-20T08:25:26.408845-07:00",
+      "date_modified": "2016-04-20T08:25:26.408871-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:26.337661-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "clark-j-adams",
+  "name_first": "Clark",
+  "name_middle": "J.",
+  "name_last": "Adams",
+  "name_suffix": "",
+  "date_dob": "1904-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

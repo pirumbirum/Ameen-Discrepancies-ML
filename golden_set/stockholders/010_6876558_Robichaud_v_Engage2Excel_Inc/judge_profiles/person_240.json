@@ -1,0 +1,61 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/240/?format=json",
+  "id": 240,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/1302/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1303/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1304/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1305/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1306/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1307/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1308/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1309/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1310/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/242/?format=json",
+      "id": 242,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/240/?format=json",
+      "date_created": "2016-04-20T08:16:20.135399-07:00",
+      "date_modified": "2016-04-20T08:16:20.135425-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1933-06-08",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:20.103412-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 147,
+  "slug": "robert-cook-bell",
+  "name_first": "Robert",
+  "name_middle": "Cook",
+  "name_last": "Bell",
+  "name_suffix": "",
+  "date_dob": "1880-11-01",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1964-03-17",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Harrisonville",
+  "dob_state": "MO",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

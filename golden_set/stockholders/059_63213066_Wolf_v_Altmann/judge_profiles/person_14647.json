@@ -1,0 +1,139 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14647/?format=json",
+  "id": 14647,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13815/?format=json",
+      "id": 13815,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14647/?format=json",
+      "date_created": "2022-04-01T09:39:40.726419-07:00",
+      "date_modified": "2022-04-01T09:39:40.726441-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=GWlLjTQnvYq2j8W3olgDxQ%3D%3D",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13816/?format=json",
+      "id": 13816,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14647/?format=json",
+      "date_created": "2022-04-01T09:39:40.728507-07:00",
+      "date_modified": "2022-04-01T09:39:40.728529-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-01",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13817/?format=json",
+      "id": 13817,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14647/?format=json",
+      "date_created": "2022-04-01T09:39:40.729688-07:00",
+      "date_modified": "2022-04-01T09:39:40.729711-07:00",
+      "url": "https://ballotpedia.org/David_B._Cohen",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13818/?format=json",
+      "id": 13818,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14647/?format=json",
+      "date_created": "2022-04-01T09:39:40.730882-07:00",
+      "date_modified": "2022-04-01T09:39:40.730905-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/New_York_City_Family_Court,_Bronx_County/David_Cohen/David_Cohen-34.xml",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10417/?format=json",
+      "id": 10417,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3963/?format=json",
+        "id": 3963,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yeshiva University",
+        "ein": 131624225
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14647/?format=json",
+      "date_created": "2022-04-01T09:39:40.715006-07:00",
+      "date_modified": "2022-04-01T09:39:40.715031-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10418/?format=json",
+      "id": 10418,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3963/?format=json",
+        "id": 3963,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yeshiva University",
+        "ein": 131624225
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14647/?format=json",
+      "date_created": "2022-04-01T09:39:40.721013-07:00",
+      "date_modified": "2022-04-01T09:39:40.721037-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1990
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/45344/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45345/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45346/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45347/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45348/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45349/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45350/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7296/?format=json",
+      "id": 7296,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14647/?format=json",
+      "date_created": "2022-04-01T09:39:40.724247-07:00",
+      "date_modified": "2022-04-01T09:39:40.724271-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-01T09:39:40.694134-07:00",
+  "date_modified": "2022-04-27T19:17:32.332207-07:00",
+  "date_completed": "2022-04-27T19:06:43-07:00",
+  "fjc_id": null,
+  "slug": "david-b-cohen",
+  "name_first": "David",
+  "name_middle": "B.",
+  "name_last": "Cohen",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "je",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

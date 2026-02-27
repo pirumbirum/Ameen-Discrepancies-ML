@@ -1,0 +1,133 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12999/?format=json",
+  "id": 12999,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11920/?format=json",
+      "id": 11920,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12999/?format=json",
+      "date_created": "2022-03-11T11:08:02.801916-08:00",
+      "date_modified": "2022-03-11T11:08:02.801942-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-11",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11921/?format=json",
+      "id": 11921,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12999/?format=json",
+      "date_created": "2022-03-11T11:08:02.808848-08:00",
+      "date_modified": "2022-03-11T11:08:02.808873-08:00",
+      "url": "https://ballotpedia.org/Tammy_Chung_Ryu",
+      "date_accessed": "2022-03-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11922/?format=json",
+      "id": 11922,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12999/?format=json",
+      "date_created": "2022-03-11T11:08:02.814795-08:00",
+      "date_modified": "2022-03-11T11:08:02.814828-08:00",
+      "url": "https://trellis.law/judge/tammy.chung.ryu",
+      "date_accessed": "2022-03-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11923/?format=json",
+      "id": 11923,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12999/?format=json",
+      "date_created": "2022-03-11T11:08:02.824106-08:00",
+      "date_modified": "2022-03-11T11:08:02.824128-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-11",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9524/?format=json",
+      "id": 9524,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12999/?format=json",
+      "date_created": "2022-03-11T11:08:02.777095-08:00",
+      "date_modified": "2022-03-11T11:08:02.777121-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1984
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9525/?format=json",
+      "id": 9525,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12999/?format=json",
+      "date_created": "2022-03-11T11:08:02.796788-08:00",
+      "date_modified": "2022-03-11T11:08:02.796813-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1987
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42306/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6759/?format=json",
+      "id": 6759,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12999/?format=json",
+      "date_created": "2022-03-11T11:08:02.768382-08:00",
+      "date_modified": "2022-03-11T11:08:02.768411-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:17.419713-07:00",
+  "date_modified": "2022-03-21T14:58:06.226033-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "tammy-chung-ryu",
+  "name_first": "Tammy",
+  "name_middle": "Chung",
+  "name_last": "Ryu",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

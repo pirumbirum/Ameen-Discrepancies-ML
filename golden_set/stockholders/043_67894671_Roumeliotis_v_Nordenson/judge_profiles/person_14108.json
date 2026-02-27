@@ -1,0 +1,143 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14108/?format=json",
+  "id": 14108,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8683/?format=json",
+      "id": 8683,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14108/?format=json",
+      "date_created": "2022-02-24T14:31:39.086382-08:00",
+      "date_modified": "2022-02-24T14:31:39.086406-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-24",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8684/?format=json",
+      "id": 8684,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14108/?format=json",
+      "date_created": "2022-02-24T14:31:39.092993-08:00",
+      "date_modified": "2022-02-24T14:31:39.093016-08:00",
+      "url": "https://ballotpedia.org/Lupe_Garcia",
+      "date_accessed": "2022-02-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8685/?format=json",
+      "id": 8685,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14108/?format=json",
+      "date_created": "2022-02-24T14:31:39.097194-08:00",
+      "date_modified": "2022-02-24T14:31:39.097217-08:00",
+      "url": "https://www.martindale.com/attorney/lupe-cecilia-garcia-225597/",
+      "date_accessed": "2022-02-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8686/?format=json",
+      "id": 8686,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14108/?format=json",
+      "date_created": "2022-02-24T14:31:39.103489-08:00",
+      "date_modified": "2022-02-24T14:31:39.103512-08:00",
+      "url": "https://trellis.law/judge/lupe.c.garcia",
+      "date_accessed": "2022-02-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8687/?format=json",
+      "id": 8687,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14108/?format=json",
+      "date_created": "2022-02-24T14:31:39.115414-08:00",
+      "date_modified": "2022-02-24T14:31:39.115440-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-24",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8030/?format=json",
+      "id": 8030,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3106/?format=json",
+        "id": 3106,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Occidental College",
+        "ein": 951667177
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14108/?format=json",
+      "date_created": "2022-02-24T14:31:39.062350-08:00",
+      "date_modified": "2022-02-24T14:31:39.062378-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Public Administration",
+      "degree_year": 1990
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8031/?format=json",
+      "id": 8031,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5226/?format=json",
+        "id": 5226,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of San Francisco",
+        "ein": 941156628
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14108/?format=json",
+      "date_created": "2022-02-24T14:31:39.072334-08:00",
+      "date_modified": "2022-02-24T14:31:39.072359-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2995
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43788/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5744/?format=json",
+      "id": 5744,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14108/?format=json",
+      "date_created": "2022-02-24T14:31:39.078490-08:00",
+      "date_modified": "2022-02-24T14:31:39.078514-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:08.425172-07:00",
+  "date_modified": "2022-03-19T13:44:56.920372-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "lupe-c-garcia",
+  "name_first": "Lupe",
+  "name_middle": "C.",
+  "name_last": "Garcia",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

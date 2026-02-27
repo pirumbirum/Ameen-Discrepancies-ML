@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8294/?format=json",
+  "id": 8294,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4036/?format=json",
+      "id": 4036,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8294/?format=json",
+      "date_created": "2016-04-20T08:29:00.100137-07:00",
+      "date_modified": "2016-04-20T08:29:00.100158-07:00",
+      "url": "http://www.tsc.state.tn.us/courts/court-criminal-appeals/judges/john-everett-williams",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33280/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:29:00.084576-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "john-everett-williams",
+  "name_first": "John",
+  "name_middle": "Everett",
+  "name_last": "Williams",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

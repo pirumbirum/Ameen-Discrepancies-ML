@@ -1,0 +1,105 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5299/?format=json",
+  "id": 5299,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1469/?format=json",
+      "id": 1469,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5299/?format=json",
+      "date_created": "2016-04-20T08:26:08.688150-07:00",
+      "date_modified": "2016-04-20T08:26:08.688171-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/100002525797",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4344/?format=json",
+      "id": 4344,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/978/?format=json",
+        "id": 978,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of North Carolina at Chapel Hill",
+        "ein": 566001393
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5299/?format=json",
+      "date_created": "2016-04-20T08:26:08.630826-07:00",
+      "date_modified": "2016-04-20T08:26:08.630853-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4345/?format=json",
+      "id": 4345,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/978/?format=json",
+        "id": 978,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of North Carolina at Chapel Hill",
+        "ein": 566001393
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5299/?format=json",
+      "date_created": "2016-04-20T08:26:08.645422-07:00",
+      "date_modified": "2016-04-20T08:26:08.645446-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27115/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27116/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27117/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27118/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27119/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4253/?format=json",
+      "id": 4253,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5299/?format=json",
+      "date_created": "2016-04-20T08:26:08.682339-07:00",
+      "date_modified": "2016-04-20T08:26:08.682364-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:08.606243-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "dan-k-moore",
+  "name_first": "Dan",
+  "name_middle": "K.",
+  "name_last": "Moore",
+  "name_suffix": "",
+  "date_dob": "1906-04-02",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1986-09-07",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

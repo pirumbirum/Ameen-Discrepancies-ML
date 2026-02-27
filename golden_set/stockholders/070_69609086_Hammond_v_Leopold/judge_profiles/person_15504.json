@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15504/?format=json",
+  "id": 15504,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17170/?format=json",
+      "id": 17170,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15504/?format=json",
+      "date_created": "2022-06-21T09:53:57.312811-07:00",
+      "date_modified": "2022-06-21T09:53:57.312824-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-06-21",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17171/?format=json",
+      "id": 17171,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15504/?format=json",
+      "date_created": "2022-06-21T09:57:04.964822-07:00",
+      "date_modified": "2022-06-21T09:57:04.964850-07:00",
+      "url": "https://judgejenniferbennett.com/",
+      "date_accessed": "2022-06-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17172/?format=json",
+      "id": 17172,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15504/?format=json",
+      "date_created": "2022-06-21T09:57:04.968540-07:00",
+      "date_modified": "2022-06-21T09:57:04.968562-07:00",
+      "url": "https://www.linkedin.com/in/jennifer-bennett-961a109/",
+      "date_accessed": "2022-06-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17173/?format=json",
+      "id": 17173,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15504/?format=json",
+      "date_created": "2022-06-21T09:57:04.969433-07:00",
+      "date_modified": "2022-06-21T09:57:04.969450-07:00",
+      "url": "https://ballotpedia.org/Jennifer_Bennett_(Texas)",
+      "date_accessed": "2022-06-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17174/?format=json",
+      "id": 17174,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15504/?format=json",
+      "date_created": "2022-06-21T09:57:04.970270-07:00",
+      "date_modified": "2022-06-21T09:57:04.970287-07:00",
+      "url": "",
+      "date_accessed": "2022-06-21",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11829/?format=json",
+      "id": 11829,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1481/?format=json",
+        "id": 1481,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southern Methodist University",
+        "ein": 750800689
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15504/?format=json",
+      "date_created": "2022-06-21T09:53:57.311525-07:00",
+      "date_modified": "2022-06-21T09:53:57.311544-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1998
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11828/?format=json",
+      "id": 11828,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4030/?format=json",
+        "id": 4030,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Old Dominion University",
+        "ein": 546000884
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15504/?format=json",
+      "date_created": "2022-06-21T09:53:57.304055-07:00",
+      "date_modified": "2022-06-21T09:59:09.714927-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Criminalistics and Criminal Science",
+      "degree_year": 1994
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49662/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49663/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49665/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49664/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8072/?format=json",
+      "id": 8072,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15504/?format=json",
+      "date_created": "2022-06-21T09:41:09.471056-07:00",
+      "date_modified": "2022-06-21T09:41:09.471069-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-06-21T09:41:09.457422-07:00",
+  "date_modified": "2022-06-21T09:59:09.639133-07:00",
+  "date_completed": "2022-06-21T09:40:28-07:00",
+  "fjc_id": null,
+  "slug": "jennifer-l-bennett",
+  "name_first": "Jennifer",
+  "name_middle": "L.",
+  "name_last": "Bennett",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "TX",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

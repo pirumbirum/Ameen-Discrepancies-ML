@@ -1,0 +1,89 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2803/?format=json",
+  "id": 2803,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1755/?format=json",
+      "id": 1755,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2803/?format=json",
+      "date_created": "2016-04-20T08:22:18.524734-07:00",
+      "date_modified": "2016-04-20T08:22:18.524761-07:00",
+      "year_rated": 2002,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2343/?format=json",
+      "id": 2343,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2171/?format=json",
+        "id": 2171,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Adelphi University",
+        "ein": 111630741
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2803/?format=json",
+      "date_created": "2016-04-20T08:22:18.538474-07:00",
+      "date_modified": "2016-04-20T08:22:18.538509-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1970
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/17552/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17553/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17554/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17555/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17556/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17557/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17558/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2811/?format=json",
+      "id": 2811,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2803/?format=json",
+      "date_created": "2016-04-20T08:22:18.519253-07:00",
+      "date_modified": "2016-04-20T08:22:18.519287-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2002-01-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:18.479269-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2936,
+  "slug": "cynthia-m-rufe",
+  "name_first": "Cynthia",
+  "name_middle": "M.",
+  "name_last": "Rufe",
+  "name_suffix": "",
+  "date_dob": "1948-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Philadelphia",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

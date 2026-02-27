@@ -1,0 +1,120 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8550/?format=json",
+  "id": 8550,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4252/?format=json",
+      "id": 4252,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8550/?format=json",
+      "date_created": "2019-09-22T15:32:02.748273-07:00",
+      "date_modified": "2019-09-22T15:32:02.748295-07:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2019-09-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2295/?format=json",
+      "id": 2295,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8550/?format=json",
+      "date_created": "2019-09-22T15:32:02.745168-07:00",
+      "date_modified": "2019-09-22T15:32:02.745192-07:00",
+      "year_rated": 2019,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6671/?format=json",
+      "id": 6671,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3012/?format=json",
+        "id": 3012,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Washington and Lee University",
+        "ein": 540505977
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8550/?format=json",
+      "date_created": "2019-09-22T15:32:02.763360-07:00",
+      "date_modified": "2019-09-22T15:32:02.763387-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1993
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6672/?format=json",
+      "id": 6672,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/239/?format=json",
+        "id": 239,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Georgia",
+        "ein": 586001998
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8550/?format=json",
+      "date_created": "2019-09-22T15:32:02.778259-07:00",
+      "date_modified": "2019-09-22T15:32:02.778289-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1996
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33817/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33818/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33820/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33821/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33822/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33823/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33824/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33819/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4896/?format=json",
+      "id": 4896,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8550/?format=json",
+      "date_created": "2019-09-22T15:32:02.740296-07:00",
+      "date_modified": "2019-09-22T15:32:02.740322-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2019-01-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2019-09-22T15:32:02.698873-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 6595551,
+  "slug": "jean-paul-boulee",
+  "name_first": "Jean-Paul",
+  "name_middle": "",
+  "name_last": "Boulee",
+  "name_suffix": "",
+  "date_dob": "1971-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Kankakee",
+  "dob_state": "IL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

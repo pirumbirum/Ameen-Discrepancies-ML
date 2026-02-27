@@ -1,0 +1,139 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14840/?format=json",
+  "id": 14840,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14642/?format=json",
+      "id": 14642,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14840/?format=json",
+      "date_created": "2022-04-07T13:16:40.372034-07:00",
+      "date_modified": "2022-04-07T13:16:40.372055-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-07",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14643/?format=json",
+      "id": 14643,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14840/?format=json",
+      "date_created": "2022-04-07T13:16:40.373756-07:00",
+      "date_modified": "2022-04-07T13:16:40.373775-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=TBjZTZobNrakemlY9SgxQQ%3D%3D",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14644/?format=json",
+      "id": 14644,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14840/?format=json",
+      "date_created": "2022-04-07T13:16:40.374873-07:00",
+      "date_modified": "2022-04-07T13:16:40.374895-07:00",
+      "url": "https://ballotpedia.org/Judy_Kim",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14645/?format=json",
+      "id": 14645,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14840/?format=json",
+      "date_created": "2022-04-07T13:16:40.375956-07:00",
+      "date_modified": "2022-04-07T13:16:40.375977-07:00",
+      "url": "https://www.spenceschool.org/news-detail?pk=907250",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10797/?format=json",
+      "id": 10797,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4361/?format=json",
+        "id": 4361,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Pennsylvania",
+        "ein": 231352685
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14840/?format=json",
+      "date_created": "2022-04-07T13:16:40.362355-07:00",
+      "date_modified": "2022-04-07T13:16:40.362378-07:00",
+      "degree_level": "ba",
+      "degree_detail": "cum laude",
+      "degree_year": 1993
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10798/?format=json",
+      "id": 10798,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3858/?format=json",
+        "id": 3858,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tulane University of Louisiana",
+        "ein": 720423889
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14840/?format=json",
+      "date_created": "2022-04-07T13:16:40.367359-07:00",
+      "date_modified": "2022-04-07T13:16:40.367382-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1998
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/46387/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46388/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46389/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46390/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46391/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46392/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46393/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7507/?format=json",
+      "id": 7507,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14840/?format=json",
+      "date_created": "2022-04-07T13:16:40.370152-07:00",
+      "date_modified": "2022-04-07T13:16:40.370177-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-07T13:16:40.347276-07:00",
+  "date_modified": "2022-05-07T18:39:42.225512-07:00",
+  "date_completed": "2022-05-07T17:54:13-07:00",
+  "fjc_id": null,
+  "slug": "judy-kim",
+  "name_first": "Judy",
+  "name_middle": "",
+  "name_last": "Kim",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,121 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8592/?format=json",
+  "id": 8592,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4296/?format=json",
+      "id": 4296,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8592/?format=json",
+      "date_created": "2019-09-22T15:32:08.326041-07:00",
+      "date_modified": "2019-09-22T15:32:08.326062-07:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2019-09-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2339/?format=json",
+      "id": 2339,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8592/?format=json",
+      "date_created": "2019-09-22T15:32:08.323164-07:00",
+      "date_modified": "2019-09-22T15:32:08.323215-07:00",
+      "year_rated": 2015,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6764/?format=json",
+      "id": 6764,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4044/?format=json",
+        "id": 4044,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Oklahoma-Norman Campus",
+        "ein": 736017987
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8592/?format=json",
+      "date_created": "2019-09-22T15:32:08.341128-07:00",
+      "date_modified": "2019-09-22T15:32:08.341156-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1986
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6765/?format=json",
+      "id": 6765,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2962/?format=json",
+        "id": 2962,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Kansas",
+        "ein": 481124839
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8592/?format=json",
+      "date_created": "2019-09-22T15:32:08.357006-07:00",
+      "date_modified": "2019-09-22T15:32:08.357032-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1990
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/34115/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34116/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34117/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34118/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34119/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34120/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34121/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34122/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34123/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4940/?format=json",
+      "id": 4940,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8592/?format=json",
+      "date_created": "2019-09-22T15:32:08.318555-07:00",
+      "date_modified": "2019-09-22T15:32:08.318581-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2015-01-07",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2019-09-22T15:32:08.281976-07:00",
+  "date_modified": "2020-11-25T08:30:19.630980-08:00",
+  "date_completed": null,
+  "fjc_id": 3593,
+  "slug": "roseann-ambrosia-ketchmark",
+  "name_first": "Roseann",
+  "name_middle": "Ambrosia",
+  "name_last": "Ketchmark",
+  "name_suffix": "",
+  "date_dob": "1963-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Lindsay",
+  "dob_state": "OK",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": true
+}

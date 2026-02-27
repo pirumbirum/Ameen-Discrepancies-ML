@@ -1,0 +1,163 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13328/?format=json",
+  "id": 13328,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6787/?format=json",
+      "id": 6787,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13328/?format=json",
+      "date_created": "2022-02-13T07:27:18.167898-08:00",
+      "date_modified": "2022-02-13T07:27:18.167935-08:00",
+      "url": "https://www.martindale.com/attorney/lawrence-george-brown-196800/",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6816/?format=json",
+      "id": 6816,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13328/?format=json",
+      "date_created": "2022-02-13T07:49:29.818627-08:00",
+      "date_modified": "2022-02-13T09:01:01.139386-08:00",
+      "url": "https://trellis.law/judge/lawrence.g.brown",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6833/?format=json",
+      "id": 6833,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13328/?format=json",
+      "date_created": "2022-02-13T09:01:01.146824-08:00",
+      "date_modified": "2022-02-13T09:46:38.781137-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-13",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6849/?format=json",
+      "id": 6849,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13328/?format=json",
+      "date_created": "2022-02-13T09:46:38.793620-08:00",
+      "date_modified": "2022-02-13T10:49:50.141902-08:00",
+      "url": "https://www.linkedin.com/in/larry-brown-1b56063b/",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6868/?format=json",
+      "id": 6868,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13328/?format=json",
+      "date_created": "2022-02-13T10:49:50.148329-08:00",
+      "date_modified": "2022-02-13T10:49:50.148353-08:00",
+      "url": "https://www.bloomberg.com/profile/person/16345497",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6869/?format=json",
+      "id": 6869,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13328/?format=json",
+      "date_created": "2022-02-13T10:49:50.153279-08:00",
+      "date_modified": "2022-02-13T10:49:50.153302-08:00",
+      "url": "https://ballotpedia.org/Lawrence_G._Brown",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6871/?format=json",
+      "id": 6871,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13328/?format=json",
+      "date_created": "2022-02-13T10:51:49.033966-08:00",
+      "date_modified": "2022-02-13T10:51:49.033993-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-13",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7289/?format=json",
+      "id": 7289,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1532/?format=json",
+        "id": 1532,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Davis",
+        "ein": 946036494
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13328/?format=json",
+      "date_created": "2022-02-13T07:27:18.163096-08:00",
+      "date_modified": "2022-02-13T07:27:18.163137-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1989
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7288/?format=json",
+      "id": 7288,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1532/?format=json",
+        "id": 1532,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Davis",
+        "ein": 946036494
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13328/?format=json",
+      "date_created": "2022-02-13T07:27:18.153436-08:00",
+      "date_modified": "2022-02-13T10:49:50.137025-08:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A. Political Science - Public Service",
+      "degree_year": 1986
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42802/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5258/?format=json",
+      "id": 5258,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13328/?format=json",
+      "date_created": "2022-02-13T07:49:29.804105-08:00",
+      "date_modified": "2022-02-13T07:49:29.804130-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:33.512201-07:00",
+  "date_modified": "2022-02-13T10:51:49.017830-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "lawrence-george-brown",
+  "name_first": "Lawrence",
+  "name_middle": "George",
+  "name_last": "Brown",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

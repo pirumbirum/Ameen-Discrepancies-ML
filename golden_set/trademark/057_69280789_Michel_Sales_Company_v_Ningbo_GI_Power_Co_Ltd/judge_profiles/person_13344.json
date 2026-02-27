@@ -1,0 +1,133 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13344/?format=json",
+  "id": 13344,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13198/?format=json",
+      "id": 13198,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13344/?format=json",
+      "date_created": "2022-03-16T16:10:03.761353-07:00",
+      "date_modified": "2022-03-16T16:10:03.761381-07:00",
+      "url": "https://trellis.law/judge/victor.l.wright",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13199/?format=json",
+      "id": 13199,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13344/?format=json",
+      "date_created": "2022-03-16T16:10:03.767294-07:00",
+      "date_modified": "2022-03-16T16:10:03.767346-07:00",
+      "url": "https://www.martindale.com/attorney/victor-lamarr-wright-131242/",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13200/?format=json",
+      "id": 13200,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13344/?format=json",
+      "date_created": "2022-03-16T16:10:03.772034-07:00",
+      "date_modified": "2022-03-16T16:10:03.772064-07:00",
+      "url": "https://ballotpedia.org/Victor_L._Wright",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13201/?format=json",
+      "id": 13201,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13344/?format=json",
+      "date_created": "2022-03-16T16:10:03.779644-07:00",
+      "date_modified": "2022-03-16T16:10:03.779673-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10142/?format=json",
+      "id": 10142,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3117/?format=json",
+        "id": 3117,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Southern California",
+        "ein": 951642394
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13344/?format=json",
+      "date_created": "2022-03-16T16:10:03.744629-07:00",
+      "date_modified": "2022-03-16T16:10:03.744661-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Journalism",
+      "degree_year": 1988
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10143/?format=json",
+      "id": 10143,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13344/?format=json",
+      "date_created": "2022-03-16T16:10:03.753242-07:00",
+      "date_modified": "2022-03-16T16:10:03.753270-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1991
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42824/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7193/?format=json",
+      "id": 7193,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13344/?format=json",
+      "date_created": "2022-03-16T16:10:03.736072-07:00",
+      "date_modified": "2022-03-16T16:10:03.736106-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:34.300980-07:00",
+  "date_modified": "2022-03-23T16:47:39.201680-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "victor-lamarr-wright",
+  "name_first": "Victor",
+  "name_middle": "Lamarr",
+  "name_last": "Wright",
+  "name_suffix": "",
+  "date_dob": "1967-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

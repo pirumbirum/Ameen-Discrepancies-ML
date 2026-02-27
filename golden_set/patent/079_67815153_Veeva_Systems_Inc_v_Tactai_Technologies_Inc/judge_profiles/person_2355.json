@@ -1,0 +1,77 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2355/?format=json",
+  "id": 2355,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1447/?format=json",
+      "id": 1447,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2355/?format=json",
+      "date_created": "2016-04-20T08:21:16.670011-07:00",
+      "date_modified": "2016-04-20T08:21:16.670033-07:00",
+      "year_rated": 1979,
+      "rating": "q"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1448/?format=json",
+      "id": 1448,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2355/?format=json",
+      "date_created": "2016-04-20T08:21:16.694731-07:00",
+      "date_modified": "2016-04-20T08:21:16.694753-07:00",
+      "year_rated": 1994,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14687/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14688/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14689/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14690/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14691/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14692/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2361/?format=json",
+      "id": 2361,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2355/?format=json",
+      "date_created": "2016-04-20T08:21:16.663828-07:00",
+      "date_modified": "2016-04-20T08:21:16.663853-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1979-11-30",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:16.630899-07:00",
+  "date_modified": "2020-11-25T08:30:17.902181-08:00",
+  "date_completed": null,
+  "fjc_id": 1720,
+  "slug": "diana-e-murphy",
+  "name_first": "Diana",
+  "name_middle": "E.",
+  "name_last": "Murphy",
+  "name_suffix": "",
+  "date_dob": "1934-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Faribault",
+  "dob_state": "MN",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

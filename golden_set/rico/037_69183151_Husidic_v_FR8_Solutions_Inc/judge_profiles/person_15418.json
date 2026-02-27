@@ -1,0 +1,219 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15418/?format=json",
+  "id": 15418,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16757/?format=json",
+      "id": 16757,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15418/?format=json",
+      "date_created": "2022-06-13T18:14:48.629429-07:00",
+      "date_modified": "2022-06-13T18:14:48.629442-07:00",
+      "url": "https://gov.texas.gov/news/post/governor-abbott-appoints-evan-young-to-the-supreme-court-of-texas",
+      "date_accessed": "2022-06-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16758/?format=json",
+      "id": 16758,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15418/?format=json",
+      "date_created": "2022-06-13T18:14:48.634726-07:00",
+      "date_modified": "2022-06-13T18:14:48.634737-07:00",
+      "url": "https://www.txcourts.gov/supreme/about-the-court/justices/justice-evan-a-young/",
+      "date_accessed": "2022-06-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16759/?format=json",
+      "id": 16759,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15418/?format=json",
+      "date_created": "2022-06-13T18:14:48.635197-07:00",
+      "date_modified": "2022-06-13T18:14:48.635208-07:00",
+      "url": "https://justiceevanyoung.com/",
+      "date_accessed": "2022-06-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16760/?format=json",
+      "id": 16760,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15418/?format=json",
+      "date_created": "2022-06-13T18:14:48.635621-07:00",
+      "date_modified": "2022-06-13T18:14:48.635631-07:00",
+      "url": "https://www.texastribune.org/2021/11/01/evan-young-texas-supreme-court/",
+      "date_accessed": "2022-06-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16761/?format=json",
+      "id": 16761,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15418/?format=json",
+      "date_created": "2022-06-13T18:14:48.636033-07:00",
+      "date_modified": "2022-06-13T18:14:48.636043-07:00",
+      "url": "https://law.utexas.edu/faculty/evan-a-young/",
+      "date_accessed": "2022-06-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16762/?format=json",
+      "id": 16762,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15418/?format=json",
+      "date_created": "2022-06-13T18:14:48.636436-07:00",
+      "date_modified": "2022-06-13T18:14:48.636446-07:00",
+      "url": "https://ballotpedia.org/Evan_Young",
+      "date_accessed": "2022-06-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16763/?format=json",
+      "id": 16763,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15418/?format=json",
+      "date_created": "2022-06-13T18:14:48.636914-07:00",
+      "date_modified": "2022-06-13T18:14:48.636924-07:00",
+      "url": "http://linkedin.com/in/evanayoung/",
+      "date_accessed": "2022-06-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16765/?format=json",
+      "id": 16765,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15418/?format=json",
+      "date_created": "2022-06-13T18:14:48.637738-07:00",
+      "date_modified": "2022-06-13T18:14:48.637748-07:00",
+      "url": "https://fedsoc.org/contributors/evan-young",
+      "date_accessed": "2022-06-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16764/?format=json",
+      "id": 16764,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15418/?format=json",
+      "date_created": "2022-06-13T18:14:48.637315-07:00",
+      "date_modified": "2022-08-09T15:21:40.363298-07:00",
+      "url": "https://en.wikipedia.org/wiki/Evan_A._Young",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16835/?format=json",
+      "id": 16835,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15418/?format=json",
+      "date_created": "2022-06-14T15:37:05.477835-07:00",
+      "date_modified": "2022-08-09T15:21:40.369527-07:00",
+      "url": "",
+      "date_accessed": "2022-08-09",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11692/?format=json",
+      "id": 11692,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15418/?format=json",
+      "date_created": "2022-06-13T18:14:48.615508-07:00",
+      "date_modified": "2022-06-13T18:14:48.615523-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2004
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11693/?format=json",
+      "id": 11693,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6345/?format=json",
+        "id": 6345,
+        "is_alias_of": null,
+        "date_created": "2019-06-30T07:36:14.863039-07:00",
+        "date_modified": "2019-07-07T06:06:58.288860-07:00",
+        "name": "University of Oxford",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15418/?format=json",
+      "date_created": "2022-06-13T18:14:48.621347-07:00",
+      "date_modified": "2022-06-13T18:14:48.621363-07:00",
+      "degree_level": "ma",
+      "degree_detail": "Modern History",
+      "degree_year": 2001
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11694/?format=json",
+      "id": 11694,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1749/?format=json",
+        "id": 1749,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Duke University",
+        "ein": 560532129
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15418/?format=json",
+      "date_created": "2022-06-13T18:14:48.624088-07:00",
+      "date_modified": "2022-08-09T15:24:42.676040-07:00",
+      "degree_level": "ba",
+      "degree_detail": "History, summa cum laude",
+      "degree_year": 1999
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49272/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49273/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49274/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49275/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49276/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49277/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49279/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49278/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8008/?format=json",
+      "id": 8008,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15418/?format=json",
+      "date_created": "2022-06-13T18:14:48.625938-07:00",
+      "date_modified": "2022-06-13T18:14:48.625951-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-06-10T13:02:36.171551-07:00",
+  "date_modified": "2022-08-09T15:24:42.670299-07:00",
+  "date_completed": "2022-06-13T18:07:29-07:00",
+  "fjc_id": null,
+  "slug": "evan-andrew-young",
+  "name_first": "Evan",
+  "name_middle": "Andrew",
+  "name_last": "Young",
+  "name_suffix": "",
+  "date_dob": "1976-09-14",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

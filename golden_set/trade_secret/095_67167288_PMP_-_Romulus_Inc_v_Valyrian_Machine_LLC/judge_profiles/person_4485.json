@@ -1,0 +1,49 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4485/?format=json",
+  "id": 4485,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/526/?format=json",
+      "id": 526,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4485/?format=json",
+      "date_created": "2016-04-20T08:25:03.629525-07:00",
+      "date_modified": "2016-04-20T08:25:03.629546-07:00",
+      "url": "http://www.grahamhistorical.ruraltel.net/parker/parker.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24722/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24723/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:03.584492-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jay-s-parker",
+  "name_first": "Jay",
+  "name_middle": "S.",
+  "name_last": "Parker",
+  "name_suffix": "",
+  "date_dob": "1895-07-01",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1969-04-28",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

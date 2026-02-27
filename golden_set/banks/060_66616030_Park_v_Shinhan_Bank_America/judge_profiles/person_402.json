@@ -1,0 +1,112 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/402/?format=json",
+  "id": 402,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/230/?format=json",
+      "id": 230,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/402/?format=json",
+      "date_created": "2016-04-20T08:16:42.959673-07:00",
+      "date_modified": "2016-04-20T08:16:42.959694-07:00",
+      "year_rated": 1976,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/315/?format=json",
+      "id": 315,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4696/?format=json",
+        "id": 4696,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Princeton University",
+        "ein": 210634501
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/402/?format=json",
+      "date_created": "2016-04-20T08:16:42.973767-07:00",
+      "date_modified": "2016-04-20T08:16:42.973790-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1941
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/316/?format=json",
+      "id": 316,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/402/?format=json",
+      "date_created": "2016-04-20T08:16:43.003298-07:00",
+      "date_modified": "2016-04-20T08:16:43.003340-07:00",
+      "degree_level": "llb",
+      "degree_detail": "LL.B.",
+      "degree_year": 1948
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/2368/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2369/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2370/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2371/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2372/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2373/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2367/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2374/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2375/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2376/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2377/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/405/?format=json",
+      "id": 405,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/402/?format=json",
+      "date_created": "2016-04-20T08:16:42.952574-07:00",
+      "date_modified": "2016-04-20T08:16:42.952598-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1976-08-26",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:42.920857-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 270,
+  "slug": "vincent-lyons-broderick",
+  "name_first": "Vincent",
+  "name_middle": "Lyons",
+  "name_last": "Broderick",
+  "name_suffix": "",
+  "date_dob": "1920-04-26",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1995-03-03",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "New York",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "Needham",
+  "dod_state": "MA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

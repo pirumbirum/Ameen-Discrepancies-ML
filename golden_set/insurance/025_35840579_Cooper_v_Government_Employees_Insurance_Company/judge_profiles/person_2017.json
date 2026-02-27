@@ -1,0 +1,87 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2017/?format=json",
+  "id": 2017,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1244/?format=json",
+      "id": 1244,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2017/?format=json",
+      "date_created": "2016-04-20T08:20:29.933965-07:00",
+      "date_modified": "2016-04-20T08:20:29.933997-07:00",
+      "year_rated": 2001,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1678/?format=json",
+      "id": 1678,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3776/?format=json",
+        "id": 3776,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Vanderbilt University",
+        "ein": 620476822
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2017/?format=json",
+      "date_created": "2016-04-20T08:20:30.006399-07:00",
+      "date_modified": "2016-04-20T08:20:30.006436-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1973
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/12550/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12551/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12552/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12553/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12554/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2025/?format=json",
+      "id": 2025,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2017/?format=json",
+      "date_created": "2016-04-20T08:20:29.925682-07:00",
+      "date_modified": "2016-04-20T08:20:29.925719-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2001-09-10",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:29.879946-07:00",
+  "date_modified": "2020-11-25T08:30:15.662173-08:00",
+  "date_completed": null,
+  "fjc_id": 2915,
+  "slug": "james-c-mahan",
+  "name_first": "James",
+  "name_middle": "C.",
+  "name_last": "Mahan",
+  "name_suffix": "",
+  "date_dob": "1943-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "El Paso",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

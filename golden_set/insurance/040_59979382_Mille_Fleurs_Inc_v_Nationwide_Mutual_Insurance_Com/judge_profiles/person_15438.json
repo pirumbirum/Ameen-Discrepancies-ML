@@ -1,0 +1,155 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15438/?format=json",
+  "id": 15438,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16846/?format=json",
+      "id": 16846,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15438/?format=json",
+      "date_created": "2022-06-14T17:38:24.363030-07:00",
+      "date_modified": "2022-06-14T17:38:24.363046-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-06-14",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16847/?format=json",
+      "id": 16847,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15438/?format=json",
+      "date_created": "2022-06-14T17:39:02.453053-07:00",
+      "date_modified": "2022-06-14T17:39:02.453068-07:00",
+      "url": "https://ballotpedia.org/Robert_D._Burns_III",
+      "date_accessed": "2022-06-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16848/?format=json",
+      "id": 16848,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15438/?format=json",
+      "date_created": "2022-06-14T17:39:02.453992-07:00",
+      "date_modified": "2022-06-14T17:39:02.454008-07:00",
+      "url": "https://www.txcourts.gov/5thcoa/about-the-court/justices/chief-justice-robert-d-burns-iii/",
+      "date_accessed": "2022-06-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16849/?format=json",
+      "id": 16849,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15438/?format=json",
+      "date_created": "2022-06-14T17:39:02.454721-07:00",
+      "date_modified": "2022-06-14T17:39:02.454732-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=62571&office=20458",
+      "date_accessed": "2022-06-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16850/?format=json",
+      "id": 16850,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15438/?format=json",
+      "date_created": "2022-06-14T17:39:02.455359-07:00",
+      "date_modified": "2022-06-14T17:39:02.455370-07:00",
+      "url": "https://www.linkedin.com/in/robert-burns-669002b/",
+      "date_accessed": "2022-06-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16851/?format=json",
+      "id": 16851,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15438/?format=json",
+      "date_created": "2022-06-14T17:39:02.456047-07:00",
+      "date_modified": "2022-06-14T17:39:02.456058-07:00",
+      "url": "",
+      "date_accessed": "2022-06-14",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11718/?format=json",
+      "id": 11718,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5461/?format=json",
+        "id": 5461,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Austin College",
+        "ein": 750827409
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15438/?format=json",
+      "date_created": "2022-06-14T17:38:24.352354-07:00",
+      "date_modified": "2022-06-14T17:38:24.352372-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Business",
+      "degree_year": 1986
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11719/?format=json",
+      "id": 11719,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1481/?format=json",
+        "id": 1481,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southern Methodist University",
+        "ein": 750800689
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15438/?format=json",
+      "date_created": "2022-06-14T17:38:24.356675-07:00",
+      "date_modified": "2022-06-14T17:38:24.356691-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1990
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49345/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49346/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49347/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8025/?format=json",
+      "id": 8025,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15438/?format=json",
+      "date_created": "2022-06-14T17:38:24.359265-07:00",
+      "date_modified": "2022-06-14T17:38:24.359300-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-06-14T17:38:24.302050-07:00",
+  "date_modified": "2022-06-14T17:40:32.909054-07:00",
+  "date_completed": "2022-06-14T17:30:05-07:00",
+  "fjc_id": null,
+  "slug": "robert-d-burns-iii",
+  "name_first": "Robert",
+  "name_middle": "D.",
+  "name_last": "Burns",
+  "name_suffix": "3",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

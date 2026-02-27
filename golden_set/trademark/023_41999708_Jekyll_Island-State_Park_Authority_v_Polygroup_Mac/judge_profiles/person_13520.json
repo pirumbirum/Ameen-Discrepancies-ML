@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13520/?format=json",
+  "id": 13520,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13161/?format=json",
+      "id": 13161,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13520/?format=json",
+      "date_created": "2022-03-16T15:33:05.996471-07:00",
+      "date_modified": "2022-03-16T15:33:05.996494-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13162/?format=json",
+      "id": 13162,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13520/?format=json",
+      "date_created": "2022-03-16T15:33:06.001430-07:00",
+      "date_modified": "2022-03-16T15:33:06.001452-07:00",
+      "url": "https://ballotpedia.org/Gerrit_W._Wood",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13163/?format=json",
+      "id": 13163,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13520/?format=json",
+      "date_created": "2022-03-16T15:33:06.006194-07:00",
+      "date_modified": "2022-03-16T15:33:06.006216-07:00",
+      "url": "https://www.martindale.com/attorney/gerrit-wardell-wood-199249/",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13164/?format=json",
+      "id": 13164,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13520/?format=json",
+      "date_created": "2022-03-16T15:33:06.010548-07:00",
+      "date_modified": "2022-03-16T15:33:06.010570-07:00",
+      "url": "https://trellis.law/judge/gerrit.w.wood",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13165/?format=json",
+      "id": 13165,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13520/?format=json",
+      "date_created": "2022-03-16T15:33:06.017496-07:00",
+      "date_modified": "2022-03-16T15:33:06.017519-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10123/?format=json",
+      "id": 10123,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1532/?format=json",
+        "id": 1532,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Davis",
+        "ein": 946036494
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13520/?format=json",
+      "date_created": "2022-03-16T15:33:05.983746-07:00",
+      "date_modified": "2022-03-16T15:33:05.983769-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1975
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10124/?format=json",
+      "id": 10124,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5646/?format=json",
+        "id": 5646,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of the Pacific",
+        "ein": 941156266
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13520/?format=json",
+      "date_created": "2022-03-16T15:33:05.991663-07:00",
+      "date_modified": "2022-03-16T15:33:05.991687-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1979
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43052/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7179/?format=json",
+      "id": 7179,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13520/?format=json",
+      "date_created": "2022-03-16T15:33:05.968421-07:00",
+      "date_modified": "2022-03-16T15:33:05.968444-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7180/?format=json",
+      "id": 7180,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13520/?format=json",
+      "date_created": "2022-03-16T15:33:05.976501-07:00",
+      "date_modified": "2022-03-16T15:33:05.976526-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:42.247310-07:00",
+  "date_modified": "2022-03-23T16:45:07.549770-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "gerrit-wardell-wood",
+  "name_first": "Gerrit",
+  "name_middle": "Wardell",
+  "name_last": "Wood",
+  "name_suffix": "",
+  "date_dob": "1954-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,58 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2685/?format=json",
+  "id": 2685,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/16813/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16814/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16815/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16816/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16817/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16818/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2693/?format=json",
+      "id": 2693,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2685/?format=json",
+      "date_created": "2016-04-20T08:22:02.749246-07:00",
+      "date_modified": "2016-04-20T08:22:02.749270-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1923-01-16",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:02.716671-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1985,
+  "slug": "albert-l-reeves",
+  "name_first": "Albert",
+  "name_middle": "L.",
+  "name_last": "Reeves",
+  "name_suffix": "",
+  "date_dob": "1873-12-21",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1971-03-24",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Steelville",
+  "dob_state": "MO",
+  "dob_country": "United States",
+  "dod_city": "Dunedin",
+  "dod_state": "FL",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

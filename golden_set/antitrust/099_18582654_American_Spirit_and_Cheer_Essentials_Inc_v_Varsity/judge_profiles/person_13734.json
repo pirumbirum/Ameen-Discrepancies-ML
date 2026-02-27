@@ -1,0 +1,133 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13734/?format=json",
+  "id": 13734,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11501/?format=json",
+      "id": 11501,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13734/?format=json",
+      "date_created": "2022-03-09T17:09:26.797614-08:00",
+      "date_modified": "2022-03-09T17:09:26.797640-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-09",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11502/?format=json",
+      "id": 11502,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13734/?format=json",
+      "date_created": "2022-03-09T17:09:26.802258-08:00",
+      "date_modified": "2022-03-09T17:09:26.802285-08:00",
+      "url": "https://ballotpedia.org/Cheri_T._Pham",
+      "date_accessed": "2022-03-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11503/?format=json",
+      "id": 11503,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13734/?format=json",
+      "date_created": "2022-03-09T17:09:26.806805-08:00",
+      "date_modified": "2022-03-09T17:09:26.806857-08:00",
+      "url": "https://www.martindale.com/attorney/cheri-thi-pham-277144/",
+      "date_accessed": "2022-03-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11504/?format=json",
+      "id": 11504,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13734/?format=json",
+      "date_created": "2022-03-09T17:09:26.813742-08:00",
+      "date_modified": "2022-03-09T17:09:26.813769-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-09",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9312/?format=json",
+      "id": 9312,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13734/?format=json",
+      "date_created": "2022-03-09T17:09:26.783748-08:00",
+      "date_modified": "2022-03-09T17:09:26.783774-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Economics, summa cum laude",
+      "degree_year": 1987
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9313/?format=json",
+      "id": 9313,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13734/?format=json",
+      "date_created": "2022-03-09T17:09:26.792010-08:00",
+      "date_modified": "2022-03-09T17:09:26.792037-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1990
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43338/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6615/?format=json",
+      "id": 6615,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13734/?format=json",
+      "date_created": "2022-03-09T17:09:26.775349-08:00",
+      "date_modified": "2022-03-09T17:09:26.775376-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:51.984941-07:00",
+  "date_modified": "2022-03-21T12:04:44.704530-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "cheri-thi-pham",
+  "name_first": "Cheri",
+  "name_middle": "Thi",
+  "name_last": "Pham",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Dalet",
+  "dob_state": "",
+  "dob_country": "Vietnam",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

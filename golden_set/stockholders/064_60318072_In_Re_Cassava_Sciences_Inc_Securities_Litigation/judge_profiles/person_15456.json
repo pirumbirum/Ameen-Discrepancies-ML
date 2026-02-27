@@ -1,0 +1,187 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15456/?format=json",
+  "id": 15456,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16974/?format=json",
+      "id": 16974,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15456/?format=json",
+      "date_created": "2022-06-16T10:58:06.621468-07:00",
+      "date_modified": "2022-06-16T10:58:06.621486-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-06-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16975/?format=json",
+      "id": 16975,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15456/?format=json",
+      "date_created": "2022-06-16T11:00:49.059916-07:00",
+      "date_modified": "2022-06-16T11:00:49.059937-07:00",
+      "url": "https://www.txcourts.gov/1stcoa/about-the-court/justices/justice-richard-hightower/",
+      "date_accessed": "2022-06-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16976/?format=json",
+      "id": 16976,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15456/?format=json",
+      "date_created": "2022-06-16T11:00:49.061439-07:00",
+      "date_modified": "2022-06-16T11:00:49.061455-07:00",
+      "url": "https://hightowerforjustice.com/",
+      "date_accessed": "2022-06-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16977/?format=json",
+      "id": 16977,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15456/?format=json",
+      "date_created": "2022-06-16T11:00:49.062301-07:00",
+      "date_modified": "2022-06-16T11:00:49.062318-07:00",
+      "url": "https://hightowerforjustice.com/about/",
+      "date_accessed": "2022-06-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16978/?format=json",
+      "id": 16978,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15456/?format=json",
+      "date_created": "2022-06-16T11:00:49.063161-07:00",
+      "date_modified": "2022-06-16T11:00:49.063177-07:00",
+      "url": "https://www.linkedin.com/in/richard-hightower-25002412/",
+      "date_accessed": "2022-06-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16979/?format=json",
+      "id": 16979,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15456/?format=json",
+      "date_created": "2022-06-16T11:00:49.063996-07:00",
+      "date_modified": "2022-06-16T11:00:49.064012-07:00",
+      "url": "https://ballotpedia.org/Richard_Hightower",
+      "date_accessed": "2022-06-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16980/?format=json",
+      "id": 16980,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15456/?format=json",
+      "date_created": "2022-06-16T11:00:49.065475-07:00",
+      "date_modified": "2022-06-16T11:00:49.065490-07:00",
+      "url": "https://tlrpac.org/first-court-of-appeals-place-8/",
+      "date_accessed": "2022-06-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16981/?format=json",
+      "id": 16981,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15456/?format=json",
+      "date_created": "2022-06-16T11:00:49.066323-07:00",
+      "date_modified": "2022-06-16T11:00:49.066338-07:00",
+      "url": "http://appellatelawyerhba.org/interview-of-justice-richard-hightower/",
+      "date_accessed": "2022-06-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16982/?format=json",
+      "id": 16982,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15456/?format=json",
+      "date_created": "2022-06-16T11:00:49.067148-07:00",
+      "date_modified": "2022-06-16T11:00:49.067163-07:00",
+      "url": "",
+      "date_accessed": "2022-06-16",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11759/?format=json",
+      "id": 11759,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6016/?format=json",
+        "id": 6016,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Baylor University",
+        "ein": 741159753
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15456/?format=json",
+      "date_created": "2022-06-16T10:58:06.613517-07:00",
+      "date_modified": "2022-06-16T10:58:06.613534-07:00",
+      "degree_level": "ba",
+      "degree_detail": "English",
+      "degree_year": 1978
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11760/?format=json",
+      "id": 11760,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6016/?format=json",
+        "id": 6016,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Baylor University",
+        "ein": 741159753
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15456/?format=json",
+      "date_created": "2022-06-16T10:58:06.616938-07:00",
+      "date_modified": "2022-06-16T10:58:06.616953-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1980
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49486/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49488/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49489/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49490/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49487/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8044/?format=json",
+      "id": 8044,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15456/?format=json",
+      "date_created": "2022-06-16T10:58:06.618554-07:00",
+      "date_modified": "2022-06-16T10:58:06.618567-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-06-16T10:58:06.598178-07:00",
+  "date_modified": "2022-06-16T11:27:08.545865-07:00",
+  "date_completed": "2022-06-16T10:52:24-07:00",
+  "fjc_id": null,
+  "slug": "richard-f-hightower",
+  "name_first": "Richard",
+  "name_middle": "F.",
+  "name_last": "Hightower",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Livingston",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

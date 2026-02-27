@@ -1,0 +1,177 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15949/?format=json",
+  "id": 15949,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19338/?format=json",
+      "id": 19338,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15949/?format=json",
+      "date_created": "2022-07-26T09:18:03.021126-07:00",
+      "date_modified": "2022-07-26T09:18:03.021150-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-26",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19339/?format=json",
+      "id": 19339,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15949/?format=json",
+      "date_created": "2022-07-26T09:18:03.095840-07:00",
+      "date_modified": "2022-07-26T09:18:03.095865-07:00",
+      "url": "https://www.justex.net/courts/civil/CourtSection.aspx?crt=2&sid=866",
+      "date_accessed": "2022-07-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19340/?format=json",
+      "id": 19340,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15949/?format=json",
+      "date_created": "2022-07-26T09:18:03.097147-07:00",
+      "date_modified": "2022-07-26T09:18:03.097160-07:00",
+      "url": "https://www.linkedin.com/in/judge-latosha-lewis-payne-0907586/",
+      "date_accessed": "2022-07-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19341/?format=json",
+      "id": 19341,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15949/?format=json",
+      "date_created": "2022-07-26T09:18:03.100953-07:00",
+      "date_modified": "2022-07-26T09:18:03.100970-07:00",
+      "url": "https://www.lawdragon.com/news-features/2022-03-14-judicial-limelight-latosha-lewis-payne",
+      "date_accessed": "2022-07-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19342/?format=json",
+      "id": 19342,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15949/?format=json",
+      "date_created": "2022-07-26T09:18:03.102180-07:00",
+      "date_modified": "2022-07-26T09:18:03.102198-07:00",
+      "url": "https://ballotpedia.org/Latosha_Payne",
+      "date_accessed": "2022-07-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19343/?format=json",
+      "id": 19343,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15949/?format=json",
+      "date_created": "2022-07-26T09:18:03.111249-07:00",
+      "date_modified": "2022-07-26T09:18:03.111263-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=204312",
+      "date_accessed": "2022-07-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19344/?format=json",
+      "id": 19344,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15949/?format=json",
+      "date_created": "2022-07-26T09:18:03.112406-07:00",
+      "date_modified": "2022-07-26T09:18:03.112417-07:00",
+      "url": "https://trellis.law/judge/latosha.lewis.payne",
+      "date_accessed": "2022-07-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19345/?format=json",
+      "id": 19345,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15949/?format=json",
+      "date_created": "2022-07-26T09:18:03.114511-07:00",
+      "date_modified": "2022-07-26T09:18:03.114522-07:00",
+      "url": "",
+      "date_accessed": "2022-07-26",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12455/?format=json",
+      "id": 12455,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3858/?format=json",
+        "id": 3858,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tulane University of Louisiana",
+        "ein": 720423889
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15949/?format=json",
+      "date_created": "2022-07-26T09:18:02.915333-07:00",
+      "date_modified": "2022-07-26T09:18:02.915361-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Environmental Studies, Political Science",
+      "degree_year": 1996
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12456/?format=json",
+      "id": 12456,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15949/?format=json",
+      "date_created": "2022-07-26T09:18:02.983333-07:00",
+      "date_modified": "2022-07-26T09:18:02.983356-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2000
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51416/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51417/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51418/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51419/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51420/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8352/?format=json",
+      "id": 8352,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15949/?format=json",
+      "date_created": "2022-07-26T09:18:02.990515-07:00",
+      "date_modified": "2022-07-26T09:18:02.990533-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-26T09:18:02.740050-07:00",
+  "date_modified": "2022-07-26T09:27:13.658168-07:00",
+  "date_completed": "2022-07-26T09:06:32-07:00",
+  "fjc_id": null,
+  "slug": "latosha-terrell-lewis-payne",
+  "name_first": "Latosha",
+  "name_middle": "Terrell Lewis",
+  "name_last": "Payne",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

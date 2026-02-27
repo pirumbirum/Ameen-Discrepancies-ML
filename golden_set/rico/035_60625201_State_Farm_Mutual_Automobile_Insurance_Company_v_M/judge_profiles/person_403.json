@@ -1,0 +1,90 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/403/?format=json",
+  "id": 403,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/231/?format=json",
+      "id": 231,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/403/?format=json",
+      "date_created": "2016-04-20T08:16:43.134494-07:00",
+      "date_modified": "2016-04-20T08:16:43.134517-07:00",
+      "year_rated": 2011,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/317/?format=json",
+      "id": 317,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4330/?format=json",
+        "id": 4330,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Saint Francis Medical Center College of Nursing",
+        "ein": 370662569
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/403/?format=json",
+      "date_created": "2016-04-20T08:16:43.164900-07:00",
+      "date_modified": "2016-04-20T08:16:43.164926-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1988
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/2378/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2379/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2380/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2381/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2382/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2383/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2384/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2385/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/406/?format=json",
+      "id": 406,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/403/?format=json",
+      "date_created": "2016-04-20T08:16:43.128871-07:00",
+      "date_modified": "2016-04-20T08:16:43.128896-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2011-06-07",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:43.096071-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3413,
+  "slug": "margo-kitsy-brodie",
+  "name_first": "Margo",
+  "name_middle": "Kitsy",
+  "name_last": "Brodie",
+  "name_suffix": "",
+  "date_dob": "1966-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "St. John's",
+  "dob_state": "",
+  "dob_country": "Antigua and Barbuda",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

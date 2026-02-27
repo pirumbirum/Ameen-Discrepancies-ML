@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13737/?format=json",
+  "id": 13737,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9047/?format=json",
+      "id": 9047,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13737/?format=json",
+      "date_created": "2022-03-01T09:51:39.478830-08:00",
+      "date_modified": "2022-03-01T09:51:39.478853-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-01",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9048/?format=json",
+      "id": 9048,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13737/?format=json",
+      "date_created": "2022-03-01T09:51:39.484834-08:00",
+      "date_modified": "2022-03-01T09:51:39.484856-08:00",
+      "url": "https://ballotpedia.org/Tamara_Hall",
+      "date_accessed": "2022-03-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9049/?format=json",
+      "id": 9049,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13737/?format=json",
+      "date_created": "2022-03-01T09:51:39.488936-08:00",
+      "date_modified": "2022-03-01T09:51:39.488958-08:00",
+      "url": "https://www.martindale.com/attorney/tamara-elaine-hall-106296/",
+      "date_accessed": "2022-03-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9050/?format=json",
+      "id": 9050,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13737/?format=json",
+      "date_created": "2022-03-01T09:51:39.494169-08:00",
+      "date_modified": "2022-03-01T09:51:39.494191-08:00",
+      "url": "https://trellis.law/judge/tamara.e.hall",
+      "date_accessed": "2022-03-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9051/?format=json",
+      "id": 9051,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13737/?format=json",
+      "date_created": "2022-03-01T09:51:39.502611-08:00",
+      "date_modified": "2022-03-01T09:51:39.502633-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-01",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8197/?format=json",
+      "id": 8197,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3117/?format=json",
+        "id": 3117,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Southern California",
+        "ein": 951642394
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13737/?format=json",
+      "date_created": "2022-03-01T09:51:39.465671-08:00",
+      "date_modified": "2022-03-01T09:51:39.465695-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1993
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8198/?format=json",
+      "id": 8198,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5218/?format=json",
+        "id": 5218,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Golden Gate University-San Francisco",
+        "ein": 941585735
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13737/?format=json",
+      "date_created": "2022-03-01T09:51:39.474132-08:00",
+      "date_modified": "2022-03-01T09:51:39.474162-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1997
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43341/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5867/?format=json",
+      "id": 5867,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13737/?format=json",
+      "date_created": "2022-03-01T09:51:39.449534-08:00",
+      "date_modified": "2022-03-01T09:51:39.449558-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5868/?format=json",
+      "id": 5868,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13737/?format=json",
+      "date_created": "2022-03-01T09:51:39.456868-08:00",
+      "date_modified": "2022-03-01T09:51:39.456891-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:52.110441-07:00",
+  "date_modified": "2022-03-19T15:11:15.622301-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "tamara-elaine-hall",
+  "name_first": "Tamara",
+  "name_middle": "Elaine",
+  "name_last": "Hall",
+  "name_suffix": "",
+  "date_dob": "1971-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,106 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5474/?format=json",
+  "id": 5474,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1660/?format=json",
+      "id": 1660,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5474/?format=json",
+      "date_created": "2016-04-20T08:26:22.585505-07:00",
+      "date_modified": "2016-04-20T08:26:22.585543-07:00",
+      "url": "http://en.wikipedia.org/wiki/Wallace_P._Carson",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1661/?format=json",
+      "id": 1661,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5474/?format=json",
+      "date_created": "2016-04-20T08:26:22.591833-07:00",
+      "date_modified": "2016-04-20T08:26:22.591870-07:00",
+      "url": "_Jr.",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1662/?format=json",
+      "id": 1662,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5474/?format=json",
+      "date_created": "2016-04-20T08:26:22.596721-07:00",
+      "date_modified": "2016-04-20T08:26:22.596758-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/100002741797",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4486/?format=json",
+      "id": 4486,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5474/?format=json",
+      "date_created": "2016-04-20T08:26:22.521185-07:00",
+      "date_modified": "2016-04-20T08:26:22.521214-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27633/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27634/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27635/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27636/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27637/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4362/?format=json",
+      "id": 4362,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5474/?format=json",
+      "date_created": "2016-04-20T08:26:22.579464-07:00",
+      "date_modified": "2016-04-20T08:26:22.579491-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:22.496763-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "wallace-p-carson-jr",
+  "name_first": "Wallace",
+  "name_middle": "P.",
+  "name_last": "Carson",
+  "name_suffix": "jr",
+  "date_dob": "1934-06-10",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 0.0,
+  "ftm_eid": "6559982",
+  "has_photo": false
+}

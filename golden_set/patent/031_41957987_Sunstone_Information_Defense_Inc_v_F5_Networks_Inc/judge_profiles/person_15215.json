@@ -1,0 +1,64 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15215/?format=json",
+  "id": 15215,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16080/?format=json",
+      "id": 16080,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15215/?format=json",
+      "date_created": "2022-04-21T13:44:09.889258-07:00",
+      "date_modified": "2022-04-21T13:44:09.889292-07:00",
+      "url": "https://en.wikipedia.org/w/index.php?title=Thomas_Ganley_Young&action=edit&redlink=1",
+      "date_accessed": "2022-04-21",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44758/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7878/?format=json",
+      "id": 7878,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15215/?format=json",
+      "date_created": "2022-04-21T13:44:09.887415-07:00",
+      "date_modified": "2022-04-21T13:44:09.887450-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-21T13:44:09.858890-07:00",
+  "date_modified": "2022-04-21T13:44:16.941756-07:00",
+  "date_completed": "2022-04-21T13:42:32-07:00",
+  "fjc_id": null,
+  "slug": "thomas-ganley-young",
+  "name_first": "Thomas",
+  "name_middle": "Ganley",
+  "name_last": "Young",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

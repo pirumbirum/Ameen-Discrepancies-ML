@@ -1,0 +1,159 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15891/?format=json",
+  "id": 15891,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19006/?format=json",
+      "id": 19006,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15891/?format=json",
+      "date_created": "2022-07-21T10:39:42.732010-07:00",
+      "date_modified": "2022-07-21T10:39:42.732025-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-21",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19007/?format=json",
+      "id": 19007,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15891/?format=json",
+      "date_created": "2022-07-21T10:43:16.349258-07:00",
+      "date_modified": "2022-07-21T10:43:16.349272-07:00",
+      "url": "https://ballotpedia.org/Jefferson_Moore",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19008/?format=json",
+      "id": 19008,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15891/?format=json",
+      "date_created": "2022-07-21T10:43:16.352853-07:00",
+      "date_modified": "2022-07-21T10:50:13.525719-07:00",
+      "url": "https://www.bexar.org/1786/186th-Criminal-District-Court",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19009/?format=json",
+      "id": 19009,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15891/?format=json",
+      "date_created": "2022-07-21T10:50:13.528048-07:00",
+      "date_modified": "2022-07-21T10:50:13.528064-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=50288&office=19283",
+      "date_accessed": null,
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19010/?format=json",
+      "id": 19010,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15891/?format=json",
+      "date_created": "2022-07-21T10:50:13.530207-07:00",
+      "date_modified": "2022-07-21T10:50:13.530223-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=205795",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19011/?format=json",
+      "id": 19011,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15891/?format=json",
+      "date_created": "2022-07-21T10:50:13.530994-07:00",
+      "date_modified": "2022-07-21T10:50:13.531009-07:00",
+      "url": "",
+      "date_accessed": "2022-07-21",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12366/?format=json",
+      "id": 12366,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3849/?format=json",
+        "id": 3849,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Loyola University New Orleans",
+        "ein": 720408946
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15891/?format=json",
+      "date_created": "2022-07-21T10:39:42.709654-07:00",
+      "date_modified": "2022-07-21T10:39:42.709667-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1991
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12365/?format=json",
+      "id": 12365,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3858/?format=json",
+        "id": 3858,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tulane University of Louisiana",
+        "ein": 720423889
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15891/?format=json",
+      "date_created": "2022-07-21T10:39:42.689340-07:00",
+      "date_modified": "2022-07-21T10:43:16.345966-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Business Management",
+      "degree_year": 1986
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51195/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51196/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51197/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51199/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51200/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51201/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51198/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8316/?format=json",
+      "id": 8316,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15891/?format=json",
+      "date_created": "2022-07-21T10:39:42.712736-07:00",
+      "date_modified": "2022-07-21T10:39:42.712748-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-21T10:39:42.556091-07:00",
+  "date_modified": "2022-07-21T10:52:36.279834-07:00",
+  "date_completed": "2022-07-21T10:32:39-07:00",
+  "fjc_id": null,
+  "slug": "jefferson-kean-moore",
+  "name_first": "Jefferson",
+  "name_middle": "Kean",
+  "name_last": "Moore",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

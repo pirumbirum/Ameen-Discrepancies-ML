@@ -1,0 +1,123 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/54/?format=json",
+  "id": 54,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11/?format=json",
+      "id": 11,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/54/?format=json",
+      "date_created": "2016-04-20T08:15:54.275845-07:00",
+      "date_modified": "2016-04-20T08:15:54.275887-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1865
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12/?format=json",
+      "id": 12,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/54/?format=json",
+      "date_created": "2016-04-20T08:15:54.307473-07:00",
+      "date_modified": "2016-04-20T08:15:54.307501-07:00",
+      "degree_level": "",
+      "degree_detail": "",
+      "degree_year": 1868
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/109/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/110/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/112/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/113/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/114/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/115/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/54/?format=json",
+      "id": 54,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/54/?format=json",
+      "date_created": "2016-04-20T08:15:54.177497-07:00",
+      "date_modified": "2016-04-20T08:15:54.200775-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1895-12-04",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": "1905-12-05",
+      "date_granularity_end": "%Y-%m-%d"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/55/?format=json",
+      "id": 55,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/54/?format=json",
+      "date_created": "2016-04-20T08:15:54.208381-07:00",
+      "date_modified": "2016-04-20T08:15:54.235906-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1905-12-05",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": "1905-12-05",
+      "date_granularity_end": "%Y-%m-%d"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/56/?format=json",
+      "id": 56,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/54/?format=json",
+      "date_created": "2016-04-20T08:15:54.242604-07:00",
+      "date_modified": "2016-04-20T08:15:54.242635-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1905-12-05",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:15:54.143421-07:00",
+  "date_modified": "2021-11-03T15:21:40.550460-07:00",
+  "date_completed": null,
+  "fjc_id": 9,
+  "slug": "elmer-bragg-adams",
+  "name_first": "Elmer",
+  "name_middle": "Bragg",
+  "name_last": "Adams",
+  "name_suffix": "",
+  "date_dob": "1842-10-27",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1916-10-24",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Pomfret",
+  "dob_state": "VT",
+  "dob_country": "United States",
+  "dod_city": "St. Louis",
+  "dod_state": "MO",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": true
+}

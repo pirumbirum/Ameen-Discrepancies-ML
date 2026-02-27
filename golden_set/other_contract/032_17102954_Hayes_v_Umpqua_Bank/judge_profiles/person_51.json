@@ -1,0 +1,68 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/51/?format=json",
+  "id": 51,
+  "race": [
+    "h"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/6/?format=json",
+      "id": 6,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/51/?format=json",
+      "date_created": "2016-04-20T08:15:53.792433-07:00",
+      "date_modified": "2016-04-20T08:15:53.792462-07:00",
+      "year_rated": 1982,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/89/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/90/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/91/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/92/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/93/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/94/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/51/?format=json",
+      "id": 51,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/51/?format=json",
+      "date_created": "2016-04-20T08:15:53.784360-07:00",
+      "date_modified": "2016-04-20T08:15:53.784392-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1982-09-09",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:15:53.744743-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 6,
+  "slug": "raymond-l-acosta",
+  "name_first": "Raymond",
+  "name_middle": "L.",
+  "name_last": "Acosta",
+  "name_suffix": "",
+  "date_dob": "1925-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "New York",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

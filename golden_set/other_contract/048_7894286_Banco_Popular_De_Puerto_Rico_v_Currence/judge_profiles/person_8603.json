@@ -1,0 +1,174 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8603/?format=json",
+  "id": 8603,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4307/?format=json",
+      "id": 4307,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8603/?format=json",
+      "date_created": "2019-09-22T15:32:09.790793-07:00",
+      "date_modified": "2019-09-22T15:32:09.790817-07:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2019-09-22",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16492/?format=json",
+      "id": 16492,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8603/?format=json",
+      "date_created": "2022-05-24T18:39:17.909486-07:00",
+      "date_modified": "2022-05-24T18:39:17.909510-07:00",
+      "url": "https://en.wikipedia.org/wiki/Eric_D._Miller",
+      "date_accessed": "2022-05-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16493/?format=json",
+      "id": 16493,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8603/?format=json",
+      "date_created": "2022-05-24T18:39:17.913469-07:00",
+      "date_modified": "2022-05-24T18:39:17.913482-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Miller-ED.%20J3.%2009.%20--_SR_20.pdf",
+      "date_accessed": "2022-05-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16494/?format=json",
+      "id": 16494,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8603/?format=json",
+      "date_created": "2022-05-24T18:39:17.914186-07:00",
+      "date_modified": "2022-05-24T18:39:17.914202-07:00",
+      "url": "https://ballotpedia.org/Eric_Miller_(Washington)",
+      "date_accessed": "2022-05-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16495/?format=json",
+      "id": 16495,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8603/?format=json",
+      "date_created": "2022-05-24T18:39:17.914985-07:00",
+      "date_modified": "2022-05-24T18:39:17.915001-07:00",
+      "url": "https://www.afj.org/nominee/eric-miller/",
+      "date_accessed": "2022-05-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16496/?format=json",
+      "id": 16496,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8603/?format=json",
+      "date_created": "2022-05-24T18:39:17.915771-07:00",
+      "date_modified": "2022-05-24T18:39:17.915787-07:00",
+      "url": "https://www.judiciary.senate.gov/imo/media/doc/Miller%20SJQ.pdf",
+      "date_accessed": "2022-05-24",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2350/?format=json",
+      "id": 2350,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8603/?format=json",
+      "date_created": "2019-09-22T15:32:09.787315-07:00",
+      "date_modified": "2019-09-22T15:32:09.787342-07:00",
+      "year_rated": 2019,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6786/?format=json",
+      "id": 6786,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8603/?format=json",
+      "date_created": "2019-09-22T15:32:09.805303-07:00",
+      "date_modified": "2019-09-22T15:32:09.805337-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1996
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6911/?format=json",
+      "id": 6911,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1057/?format=json",
+        "id": 1057,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Chicago",
+        "ein": 362177139
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8603/?format=json",
+      "date_created": "2019-10-08T16:55:47.626807-07:00",
+      "date_modified": "2019-10-08T16:55:47.626838-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1999
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/34210/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34215/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34217/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34220/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34211/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34212/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34213/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34214/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34216/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34218/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34219/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47924/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4951/?format=json",
+      "id": 4951,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8603/?format=json",
+      "date_created": "2019-09-22T15:32:09.782892-07:00",
+      "date_modified": "2019-09-22T15:32:09.782925-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2019-01-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2019-09-22T15:32:09.744972-07:00",
+  "date_modified": "2022-05-24T18:44:49.480729-07:00",
+  "date_completed": "2022-05-24T18:35:14-07:00",
+  "fjc_id": 6063776,
+  "slug": "eric-david-miller",
+  "name_first": "Eric",
+  "name_middle": "David",
+  "name_last": "Miller",
+  "name_suffix": "",
+  "date_dob": "1975-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Oak Park",
+  "dob_state": "IL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

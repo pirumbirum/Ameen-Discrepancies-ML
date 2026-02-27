@@ -1,0 +1,115 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6178/?format=json",
+  "id": 6178,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2496/?format=json",
+      "id": 2496,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6178/?format=json",
+      "date_created": "2016-04-20T08:27:19.632467-07:00",
+      "date_modified": "2016-04-20T08:27:19.632488-07:00",
+      "url": "http://www.azcourts.gov/coa1/HistoryoftheCourt.aspx",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2497/?format=json",
+      "id": 2497,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6178/?format=json",
+      "date_created": "2016-04-20T08:27:19.638186-07:00",
+      "date_modified": "2016-04-20T08:27:19.638207-07:00",
+      "url": "http://archive.azcentral.com/ic/pdf/brewer-judge-appointments.pdf",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2498/?format=json",
+      "id": 2498,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6178/?format=json",
+      "date_created": "2016-04-20T08:27:19.643696-07:00",
+      "date_modified": "2016-04-20T08:27:19.643714-07:00",
+      "url": "http://www.azcourts.gov/coa1/JudgeDanielBarkerToRetirefromCourt.aspx",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2499/?format=json",
+      "id": 2499,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6178/?format=json",
+      "date_created": "2016-04-20T08:27:19.649215-07:00",
+      "date_modified": "2016-04-20T08:27:19.649236-07:00",
+      "url": "http://www.jrclsconference.com/Speaker/daniel-barker",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5231/?format=json",
+      "id": 5231,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6178/?format=json",
+      "date_created": "2016-04-20T08:27:19.580617-07:00",
+      "date_modified": "2016-04-20T08:27:19.580641-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/29598/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29599/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29600/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29601/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4707/?format=json",
+      "id": 4707,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6178/?format=json",
+      "date_created": "2016-04-20T08:27:19.626548-07:00",
+      "date_modified": "2016-04-20T08:27:19.626572-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:19.549199-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "daniel-a-barker",
+  "name_first": "Daniel",
+  "name_middle": "A.",
+  "name_last": "Barker",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,96 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1605/?format=json",
+  "id": 1605,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1331/?format=json",
+      "id": 1331,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1024/?format=json",
+        "id": 1024,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Virginia-Main Campus",
+        "ein": 546001796
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1605/?format=json",
+      "date_created": "2016-04-20T08:19:29.751427-07:00",
+      "date_modified": "2016-04-20T08:19:29.751453-07:00",
+      "degree_level": "",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9841/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9842/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9843/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9844/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9845/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9846/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9847/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9848/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9849/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9850/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9851/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1611/?format=json",
+      "id": 1611,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1605/?format=json",
+      "date_created": "2016-04-20T08:19:29.670845-07:00",
+      "date_modified": "2016-04-20T08:19:29.707342-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1886-04-12",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": "1893-02-02",
+      "date_granularity_end": "%Y-%m-%d"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1612/?format=json",
+      "id": 1612,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1605/?format=json",
+      "date_created": "2016-04-20T08:19:29.713953-07:00",
+      "date_modified": "2016-04-20T08:19:29.713977-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1893-02-02",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:29.627548-07:00",
+  "date_modified": "2020-11-25T08:30:10.987746-08:00",
+  "date_completed": null,
+  "fjc_id": 1156,
+  "slug": "howell-edmunds-jackson",
+  "name_first": "Howell",
+  "name_middle": "Edmunds",
+  "name_last": "Jackson",
+  "name_suffix": "",
+  "date_dob": "1832-04-08",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1895-08-08",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Paris",
+  "dob_state": "TN",
+  "dob_country": "United States",
+  "dod_city": "West Meade",
+  "dod_state": "TN",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

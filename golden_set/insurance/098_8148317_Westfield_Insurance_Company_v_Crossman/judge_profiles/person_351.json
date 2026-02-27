@@ -1,0 +1,66 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/351/?format=json",
+  "id": 351,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/202/?format=json",
+      "id": 202,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/351/?format=json",
+      "date_created": "2016-04-20T08:16:36.320318-07:00",
+      "date_modified": "2016-04-20T08:16:36.320340-07:00",
+      "year_rated": 1977,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/2079/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2080/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2081/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2082/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/355/?format=json",
+      "id": 355,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/351/?format=json",
+      "date_created": "2016-04-20T08:16:36.313053-07:00",
+      "date_modified": "2016-04-20T08:16:36.313078-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1977-05-02",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:36.281710-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 229,
+  "slug": "francis-joseph-boyle",
+  "name_first": "Francis",
+  "name_middle": "Joseph",
+  "name_last": "Boyle",
+  "name_suffix": "",
+  "date_dob": "1927-06-14",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2006-09-11",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Providence",
+  "dob_state": "RI",
+  "dob_country": "United States",
+  "dod_city": "Newport",
+  "dod_state": "RI",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

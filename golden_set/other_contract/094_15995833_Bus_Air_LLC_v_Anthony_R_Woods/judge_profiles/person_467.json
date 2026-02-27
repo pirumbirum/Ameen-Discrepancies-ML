@@ -1,0 +1,56 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/467/?format=json",
+  "id": 467,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/2728/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2729/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2730/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2727/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/469/?format=json",
+      "id": 469,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/467/?format=json",
+      "date_created": "2016-04-20T08:16:51.592332-07:00",
+      "date_modified": "2016-04-20T08:16:51.592362-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1937-04-27",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:51.559546-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 321,
+  "slug": "harold-p-burke",
+  "name_first": "Harold",
+  "name_middle": "P.",
+  "name_last": "Burke",
+  "name_suffix": "",
+  "date_dob": "1895-06-06",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1981-07-17",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Rochester",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "Rochester",
+  "dod_state": "NY",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

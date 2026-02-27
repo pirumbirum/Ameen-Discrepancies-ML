@@ -1,0 +1,61 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6612/?format=json",
+  "id": 6612,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2721/?format=json",
+      "id": 2721,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6612/?format=json",
+      "date_created": "2016-04-20T08:27:35.028613-07:00",
+      "date_modified": "2016-04-20T08:27:35.028648-07:00",
+      "url": "http://www.azcourts.gov/coa1/Judges/JONWTHOMPSON.aspx",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2722/?format=json",
+      "id": 2722,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6612/?format=json",
+      "date_created": "2016-04-20T08:27:35.034085-07:00",
+      "date_modified": "2016-04-20T08:27:35.034118-07:00",
+      "url": "http://archive.azcentral.com/ic/pdf/brewer-judge-appointments.pdf",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/30217/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30218/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30219/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30220/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:34.962008-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "ira-thompson",
+  "name_first": "Ira",
+  "name_middle": "",
+  "name_last": "Thompson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": "1937-08-04",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,78 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2621/?format=json",
+  "id": 2621,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1630/?format=json",
+      "id": 1630,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2621/?format=json",
+      "date_created": "2016-04-20T08:21:53.900120-07:00",
+      "date_modified": "2016-04-20T08:21:53.900139-07:00",
+      "year_rated": 1967,
+      "rating": "q"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1631/?format=json",
+      "id": 1631,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2621/?format=json",
+      "date_created": "2016-04-20T08:21:53.920702-07:00",
+      "date_modified": "2016-04-20T08:21:53.920720-07:00",
+      "year_rated": 1979,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/16411/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16412/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16413/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16414/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16415/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16416/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16417/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2628/?format=json",
+      "id": 2628,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2621/?format=json",
+      "date_created": "2016-04-20T08:21:53.893538-07:00",
+      "date_modified": "2016-04-20T08:21:53.893559-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1967-11-29",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:53.862908-07:00",
+  "date_modified": "2020-11-25T08:30:17.323961-08:00",
+  "date_completed": null,
+  "fjc_id": 1934,
+  "slug": "harry-pregerson",
+  "name_first": "Harry",
+  "name_middle": "",
+  "name_last": "Pregerson",
+  "name_suffix": "",
+  "date_dob": "1923-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Los Angeles",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

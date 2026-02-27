@@ -1,0 +1,135 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15146/?format=json",
+  "id": 15146,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15920/?format=json",
+      "id": 15920,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15146/?format=json",
+      "date_created": "2022-04-19T13:43:38.971932-07:00",
+      "date_modified": "2022-04-19T13:43:38.971953-07:00",
+      "url": "https://en.wikipedia.org/wiki/Raymond_Walter",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15921/?format=json",
+      "id": 15921,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15146/?format=json",
+      "date_created": "2022-04-19T13:43:38.973545-07:00",
+      "date_modified": "2022-04-19T13:43:38.973567-07:00",
+      "url": "https://ballotpedia.org/Raymond_Walter",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15922/?format=json",
+      "id": 15922,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15146/?format=json",
+      "date_created": "2022-04-19T13:43:38.974645-07:00",
+      "date_modified": "2022-04-19T13:43:38.974666-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=Uza3EZAeyZ8Z1d2ugNzioA%3D%3D",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15923/?format=json",
+      "id": 15923,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15146/?format=json",
+      "date_created": "2022-04-19T13:43:38.975732-07:00",
+      "date_modified": "2022-04-19T13:43:38.975753-07:00",
+      "url": "https://www.billtrack50.com/legislatordetail/7531",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11426/?format=json",
+      "id": 11426,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2177/?format=json",
+        "id": 2177,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "SUNY College at Geneseo",
+        "ein": 166013200
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15146/?format=json",
+      "date_created": "2022-04-19T13:43:38.963110-07:00",
+      "date_modified": "2022-04-19T13:43:38.963133-07:00",
+      "degree_level": "ba",
+      "degree_detail": "History",
+      "degree_year": 1994
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11427/?format=json",
+      "id": 11427,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/813/?format=json",
+        "id": 813,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University at Buffalo",
+        "ein": 146013200
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15146/?format=json",
+      "date_created": "2022-04-19T13:43:38.967627-07:00",
+      "date_modified": "2022-04-19T13:43:38.967649-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2007
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/48904/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48903/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48905/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7801/?format=json",
+      "id": 7801,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15146/?format=json",
+      "date_created": "2022-04-19T13:43:38.970213-07:00",
+      "date_modified": "2022-04-19T13:43:38.970234-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-19T13:43:38.948375-07:00",
+  "date_modified": "2022-06-07T18:29:03.561708-07:00",
+  "date_completed": "2022-06-07T17:57:49-07:00",
+  "fjc_id": null,
+  "slug": "raymond-william-walter",
+  "name_first": "Raymond",
+  "name_middle": "William",
+  "name_last": "Walter",
+  "name_suffix": "",
+  "date_dob": "1972-02-04",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

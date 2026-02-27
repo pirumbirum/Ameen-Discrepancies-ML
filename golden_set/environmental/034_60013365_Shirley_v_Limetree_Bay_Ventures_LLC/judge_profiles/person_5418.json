@@ -1,0 +1,74 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5418/?format=json",
+  "id": 5418,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1584/?format=json",
+      "id": 1584,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5418/?format=json",
+      "date_created": "2016-04-20T08:26:18.229633-07:00",
+      "date_modified": "2016-04-20T08:26:18.229654-07:00",
+      "url": "http://lwvtulsa.org/wp-content/uploads/Judge-David-B.-Lewis-Court-of-Criminal-Appeals-Judicial-Retention-2012.pdf",
+      "date_accessed": null,
+      "notes": "Senior Years: 2013-14"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1585/?format=json",
+      "id": 1585,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5418/?format=json",
+      "date_created": "2016-04-20T08:26:18.235224-07:00",
+      "date_modified": "2016-04-20T08:26:18.235244-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/100015717408",
+      "date_accessed": null,
+      "notes": "Senior Years: 2013-14"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27479/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27480/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27481/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4335/?format=json",
+      "id": 4335,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5418/?format=json",
+      "date_created": "2016-04-20T08:26:18.223713-07:00",
+      "date_modified": "2016-04-20T08:26:18.223737-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:18.144735-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "david-b-lewis",
+  "name_first": "David",
+  "name_middle": "B.",
+  "name_last": "Lewis",
+  "name_suffix": "",
+  "date_dob": "1958-04-30",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

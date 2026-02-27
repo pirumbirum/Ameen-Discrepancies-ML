@@ -1,0 +1,110 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1675/?format=json",
+  "id": 1675,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1020/?format=json",
+      "id": 1020,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1675/?format=json",
+      "date_created": "2016-04-20T08:19:39.364725-07:00",
+      "date_modified": "2016-04-20T08:19:39.364749-07:00",
+      "year_rated": 1967,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1375/?format=json",
+      "id": 1375,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3287/?format=json",
+        "id": 3287,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Mars Hill University",
+        "ein": 560554207
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1675/?format=json",
+      "date_created": "2016-04-20T08:19:39.394354-07:00",
+      "date_modified": "2016-04-20T08:19:39.394387-07:00",
+      "degree_level": "aa",
+      "degree_detail": "A.A.",
+      "degree_year": 1934
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1376/?format=json",
+      "id": 1376,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6270/?format=json",
+        "id": 6270,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Wake Forest University",
+        "ein": 560532138
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1675/?format=json",
+      "date_created": "2016-04-20T08:19:39.423050-07:00",
+      "date_modified": "2016-04-20T08:19:39.423075-07:00",
+      "degree_level": "llb",
+      "degree_detail": "LL.B.",
+      "degree_year": 1937
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/10310/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10311/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10312/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10313/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10314/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10315/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10316/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10317/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10318/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1682/?format=json",
+      "id": 1682,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1675/?format=json",
+      "date_created": "2016-04-20T08:19:39.359387-07:00",
+      "date_modified": "2016-04-20T08:19:39.359416-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1967-06-27",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:39.327158-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1209,
+  "slug": "woodrow-wilson-jones",
+  "name_first": "Woodrow",
+  "name_middle": "Wilson",
+  "name_last": "Jones",
+  "name_suffix": "",
+  "date_dob": "1914-01-26",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2002-11-25",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Rutherfordton",
+  "dob_state": "NC",
+  "dob_country": "United States",
+  "dod_city": "Rutherfordton",
+  "dod_state": "NC",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

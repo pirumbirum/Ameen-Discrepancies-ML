@@ -1,0 +1,102 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3588/?format=json",
+  "id": 3588,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3006/?format=json",
+      "id": 3006,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3588/?format=json",
+      "date_created": "2016-04-20T08:24:10.404872-07:00",
+      "date_modified": "2016-04-20T08:24:10.404895-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1962
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3007/?format=json",
+      "id": 3007,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3588/?format=json",
+      "date_created": "2016-04-20T08:24:10.433699-07:00",
+      "date_modified": "2016-04-20T08:24:10.433724-07:00",
+      "degree_level": "llb",
+      "degree_detail": "LL.B.",
+      "degree_year": 1967
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22602/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22603/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22604/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22605/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22606/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22607/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22608/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22609/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22610/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22611/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22612/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3606/?format=json",
+      "id": 3606,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3588/?format=json",
+      "date_created": "2016-04-20T08:24:10.390177-07:00",
+      "date_modified": "2016-04-20T08:24:10.390201-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1985-03-08",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:10.358754-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2678,
+  "slug": "william-g-young",
+  "name_first": "William",
+  "name_middle": "G.",
+  "name_last": "Young",
+  "name_suffix": "",
+  "date_dob": "1940-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Huntington",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,82 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/632/?format=json",
+  "id": 632,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/494/?format=json",
+      "id": 494,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2328/?format=json",
+        "id": 2328,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Dartmouth College",
+        "ein": 20222111
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/632/?format=json",
+      "date_created": "2016-04-20T08:17:13.875581-07:00",
+      "date_modified": "2016-04-20T08:17:13.875606-07:00",
+      "degree_level": "",
+      "degree_detail": "",
+      "degree_year": 1834
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/3782/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3783/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3784/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3785/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3786/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3787/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3788/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3789/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3790/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3791/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/636/?format=json",
+      "id": 636,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/632/?format=json",
+      "date_created": "2016-04-20T08:17:13.861014-07:00",
+      "date_modified": "2016-04-20T08:17:13.861038-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1866-07-27",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:13.829444-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 441,
+  "slug": "daniel-clark",
+  "name_first": "Daniel",
+  "name_middle": "",
+  "name_last": "Clark",
+  "name_suffix": "",
+  "date_dob": "1809-10-24",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1891-01-02",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Stratham",
+  "dob_state": "NH",
+  "dob_country": "United States",
+  "dod_city": "Manchester",
+  "dod_state": "NH",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

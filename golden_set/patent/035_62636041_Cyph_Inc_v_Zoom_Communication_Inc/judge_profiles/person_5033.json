@@ -1,0 +1,71 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5033/?format=json",
+  "id": 5033,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1219/?format=json",
+      "id": 1219,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5033/?format=json",
+      "date_created": "2016-04-20T08:25:49.478512-07:00",
+      "date_modified": "2016-04-20T08:25:49.478534-07:00",
+      "url": "http://books.google.com/books?id=GFtcbLh1snMC&pg=PA196&lpg=PA196&dq=paul+e+boslaugh&source=bl&ots=YTrcLb_zJs&sig=WjeAtAl03ZVBcBXDQZveceRgXNU&hl=en&sa=X&ei=mxQFU4rpD_LksASy6IGgBA&ved=0CFEQ6AEwBQ#v=onepage&q=paul%20e%20boslaugh&f=false",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4077/?format=json",
+      "id": 4077,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4176/?format=json",
+        "id": 4176,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Creighton University",
+        "ein": 470376583
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5033/?format=json",
+      "date_created": "2016-04-20T08:25:49.451275-07:00",
+      "date_modified": "2016-04-20T08:25:49.451303-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26338/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26339/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26340/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26341/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:49.418452-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "c-thomas-white",
+  "name_first": "C",
+  "name_middle": "Thomas",
+  "name_last": "White",
+  "name_suffix": "",
+  "date_dob": "1928-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,133 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13225/?format=json",
+  "id": 13225,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12099/?format=json",
+      "id": 12099,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13225/?format=json",
+      "date_created": "2022-03-11T15:32:47.306782-08:00",
+      "date_modified": "2022-03-11T15:32:47.306804-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-11",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12100/?format=json",
+      "id": 12100,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13225/?format=json",
+      "date_created": "2022-03-11T15:32:47.311463-08:00",
+      "date_modified": "2022-03-11T15:32:47.311486-08:00",
+      "url": "https://ballotpedia.org/Nathan_Scott",
+      "date_accessed": "2022-03-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12101/?format=json",
+      "id": 12101,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13225/?format=json",
+      "date_created": "2022-03-11T15:32:47.315701-08:00",
+      "date_modified": "2022-03-11T15:32:47.315732-08:00",
+      "url": "https://www.martindale.com/attorney/nathan-ray-scott-122394/",
+      "date_accessed": "2022-03-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12102/?format=json",
+      "id": 12102,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13225/?format=json",
+      "date_created": "2022-03-11T15:32:47.323580-08:00",
+      "date_modified": "2022-03-11T15:32:47.323605-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-11",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9613/?format=json",
+      "id": 9613,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13225/?format=json",
+      "date_created": "2022-03-11T15:32:47.292957-08:00",
+      "date_modified": "2022-03-11T15:32:47.292980-08:00",
+      "degree_level": "ba",
+      "degree_detail": "summa cum laude",
+      "degree_year": 1995
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9614/?format=json",
+      "id": 9614,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13225/?format=json",
+      "date_created": "2022-03-11T15:32:47.302051-08:00",
+      "date_modified": "2022-03-11T15:32:47.302101-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1999
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42661/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6815/?format=json",
+      "id": 6815,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13225/?format=json",
+      "date_created": "2022-03-11T15:32:47.282292-08:00",
+      "date_modified": "2022-03-11T15:32:47.282332-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:28.630478-07:00",
+  "date_modified": "2022-03-23T10:14:48.250353-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "nathan-ray-scott",
+  "name_first": "Nathan",
+  "name_middle": "Ray",
+  "name_last": "Scott",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

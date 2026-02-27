@@ -1,0 +1,58 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3722/?format=json",
+  "id": 3722,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3153/?format=json",
+      "id": 3153,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2584/?format=json",
+        "id": 2584,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Iowa",
+        "ein": 426004813
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3722/?format=json",
+      "date_created": "2016-04-20T08:24:21.208679-07:00",
+      "date_modified": "2016-04-20T08:24:21.208707-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22990/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22991/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:21.186397-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "henry-d-ross",
+  "name_first": "Henry",
+  "name_middle": "D.",
+  "name_last": "Ross",
+  "name_suffix": "",
+  "date_dob": "1861-09-12",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,67 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3449/?format=json",
+  "id": 3449,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2168/?format=json",
+      "id": 2168,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3449/?format=json",
+      "date_created": "2016-04-20T08:23:50.382121-07:00",
+      "date_modified": "2016-04-20T08:23:50.382145-07:00",
+      "year_rated": 1980,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/21677/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21678/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21679/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21680/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21681/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3467/?format=json",
+      "id": 3467,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3449/?format=json",
+      "date_created": "2016-04-20T08:23:50.374626-07:00",
+      "date_modified": "2016-04-20T08:23:50.374652-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1980-03-28",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:23:50.334921-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2568,
+  "slug": "george-washington-white",
+  "name_first": "George",
+  "name_middle": "Washington",
+  "name_last": "White",
+  "name_suffix": "",
+  "date_dob": "1931-05-06",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2011-11-12",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Duquesne",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "Mayfield Heights",
+  "dod_state": "OH",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

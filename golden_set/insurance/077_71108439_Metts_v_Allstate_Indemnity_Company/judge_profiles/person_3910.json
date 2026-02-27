@@ -1,0 +1,51 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3910/?format=json",
+  "id": 3910,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23378/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3754/?format=json",
+      "id": 3754,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3910/?format=json",
+      "date_created": "2016-04-20T08:24:29.494127-07:00",
+      "date_modified": "2016-04-20T08:24:29.494149-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:29.413615-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "paul-v-hodges",
+  "name_first": "Paul",
+  "name_middle": "V.",
+  "name_last": "Hodges",
+  "name_suffix": "",
+  "date_dob": "1913-12-27",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,107 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/633/?format=json",
+  "id": 633,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/370/?format=json",
+      "id": 370,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/633/?format=json",
+      "date_created": "2016-04-20T08:17:14.021121-07:00",
+      "date_modified": "2016-04-20T08:17:14.021160-07:00",
+      "year_rated": 2002,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/495/?format=json",
+      "id": 495,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5665/?format=json",
+        "id": 5665,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Connecticut",
+        "ein": 60772160
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/633/?format=json",
+      "date_created": "2016-04-20T08:17:14.035982-07:00",
+      "date_modified": "2016-04-20T08:17:14.036006-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1973
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/496/?format=json",
+      "id": 496,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5665/?format=json",
+        "id": 5665,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Connecticut",
+        "ein": 60772160
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/633/?format=json",
+      "date_created": "2016-04-20T08:17:14.050342-07:00",
+      "date_modified": "2016-04-20T08:17:14.050366-07:00",
+      "degree_level": "ma",
+      "degree_detail": "M.A.",
+      "degree_year": 1974
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/3792/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3793/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3794/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3795/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3796/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3797/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/637/?format=json",
+      "id": 637,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/633/?format=json",
+      "date_created": "2016-04-20T08:17:14.013488-07:00",
+      "date_modified": "2016-04-20T08:17:14.013513-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2002-01-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:13.979184-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2960,
+  "slug": "ron-clark",
+  "name_first": "Ron",
+  "name_middle": "",
+  "name_last": "Clark",
+  "name_suffix": "",
+  "date_dob": "1953-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Caripito",
+  "dob_state": "",
+  "dob_country": "Venezuela",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

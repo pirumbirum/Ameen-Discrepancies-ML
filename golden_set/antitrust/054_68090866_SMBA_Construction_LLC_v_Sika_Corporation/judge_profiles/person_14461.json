@@ -1,0 +1,165 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14461/?format=json",
+  "id": 14461,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8523/?format=json",
+      "id": 8523,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14461/?format=json",
+      "date_created": "2022-02-23T16:33:28.424905-08:00",
+      "date_modified": "2022-02-23T16:33:28.424928-08:00",
+      "url": "https://en.wikipedia.org/wiki/Lewis_J._Liman",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8524/?format=json",
+      "id": 8524,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14461/?format=json",
+      "date_created": "2022-02-23T16:33:28.426718-08:00",
+      "date_modified": "2022-02-23T16:33:28.426740-08:00",
+      "url": "https://ballotpedia.org/Lewis_Liman",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8525/?format=json",
+      "id": 8525,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14461/?format=json",
+      "date_created": "2022-02-23T16:33:28.427942-08:00",
+      "date_modified": "2022-02-23T16:33:28.427964-08:00",
+      "url": "https://www.nysd.uscourts.gov/hon-lewis-j-liman",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8526/?format=json",
+      "id": 8526,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14461/?format=json",
+      "date_created": "2022-02-23T16:33:28.429081-08:00",
+      "date_modified": "2022-02-23T16:33:28.429101-08:00",
+      "url": "https://www.uscourts.gov/judicial-milestones/lewis-j-liman",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7957/?format=json",
+      "id": 7957,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14461/?format=json",
+      "date_created": "2022-02-23T16:33:28.410323-08:00",
+      "date_modified": "2022-02-23T16:33:28.410345-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1987
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7958/?format=json",
+      "id": 7958,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6386/?format=json",
+        "id": 6386,
+        "is_alias_of": null,
+        "date_created": "2019-07-09T16:48:38.393566-07:00",
+        "date_modified": "2019-07-09T16:48:38.393611-07:00",
+        "name": "London School of Economics and Political Science",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14461/?format=json",
+      "date_created": "2022-02-23T16:33:28.415424-08:00",
+      "date_modified": "2022-02-23T16:33:28.415446-08:00",
+      "degree_level": "ma",
+      "degree_detail": "with distinction",
+      "degree_year": 1984
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7959/?format=json",
+      "id": 7959,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14461/?format=json",
+      "date_created": "2022-02-23T16:33:28.419625-08:00",
+      "date_modified": "2022-02-23T16:33:28.419648-08:00",
+      "degree_level": "ba",
+      "degree_detail": "magna cum laude",
+      "degree_year": 1982
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44367/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5701/?format=json",
+      "id": 5701,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14461/?format=json",
+      "date_created": "2022-02-23T16:33:28.422801-08:00",
+      "date_modified": "2022-02-23T16:33:28.422824-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5713/?format=json",
+      "id": 5713,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14461/?format=json",
+      "date_created": "2022-02-23T18:31:46.856951-08:00",
+      "date_modified": "2022-02-23T18:31:46.856974-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-02-23T16:33:28.386555-08:00",
+  "date_modified": "2022-02-23T18:31:46.846449-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "lewis-jeffrey-liman",
+  "name_first": "Lewis",
+  "name_middle": "Jeffrey",
+  "name_last": "Liman",
+  "name_suffix": "",
+  "date_dob": "1960-12-03",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "New York",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "je",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,111 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1136/?format=json",
+  "id": 1136,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/677/?format=json",
+      "id": 677,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1136/?format=json",
+      "date_created": "2016-04-20T08:18:22.215885-07:00",
+      "date_modified": "2016-04-20T08:18:22.215910-07:00",
+      "year_rated": 2011,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/931/?format=json",
+      "id": 931,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1136/?format=json",
+      "date_created": "2016-04-20T08:18:22.230972-07:00",
+      "date_modified": "2016-04-20T08:18:22.230998-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1994
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/932/?format=json",
+      "id": 932,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1136/?format=json",
+      "date_created": "2016-04-20T08:18:22.260032-07:00",
+      "date_modified": "2016-04-20T08:18:22.260058-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1998
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/6897/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6898/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6899/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6900/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6901/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6902/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6903/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6904/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6905/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6896/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1141/?format=json",
+      "id": 1141,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1136/?format=json",
+      "date_created": "2016-04-20T08:18:22.208585-07:00",
+      "date_modified": "2016-04-20T08:18:22.208612-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2011-06-07",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:22.174995-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3412,
+  "slug": "jesse-matthew-furman",
+  "name_first": "Jesse",
+  "name_middle": "Matthew",
+  "name_last": "Furman",
+  "name_suffix": "",
+  "date_dob": "1972-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "New York",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

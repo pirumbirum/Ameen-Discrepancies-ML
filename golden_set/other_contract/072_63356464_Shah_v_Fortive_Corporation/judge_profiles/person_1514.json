@@ -1,0 +1,60 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1514/?format=json",
+  "id": 1514,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9237/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9238/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9239/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9240/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9241/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9242/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9243/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9244/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1522/?format=json",
+      "id": 1522,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1514/?format=json",
+      "date_created": "2016-04-20T08:19:16.766698-07:00",
+      "date_modified": "2016-04-20T08:19:16.766722-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1929-10-17",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:16.735694-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1092,
+  "slug": "richard-joseph-hopkins",
+  "name_first": "Richard",
+  "name_middle": "Joseph",
+  "name_last": "Hopkins",
+  "name_suffix": "",
+  "date_dob": "1873-04-04",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1943-08-28",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Jefferson City",
+  "dob_state": "MO",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

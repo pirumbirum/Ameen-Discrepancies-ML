@@ -1,0 +1,57 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1528/?format=json",
+  "id": 1528,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9323/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9324/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9325/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9326/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9327/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1536/?format=json",
+      "id": 1536,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1528/?format=json",
+      "date_created": "2016-04-20T08:19:18.637719-07:00",
+      "date_modified": "2016-04-20T08:19:18.637747-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1912-12-03",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:18.601497-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2715,
+  "slug": "clinton-woodbury-howard",
+  "name_first": "Clinton",
+  "name_middle": "Woodbury",
+  "name_last": "Howard",
+  "name_suffix": "",
+  "date_dob": "1864-07-25",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1937-02-23",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Lima",
+  "dob_state": "OH",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

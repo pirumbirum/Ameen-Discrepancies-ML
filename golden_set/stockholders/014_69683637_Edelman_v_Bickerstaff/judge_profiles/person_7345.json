@@ -1,0 +1,58 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7345/?format=json",
+  "id": 7345,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6086/?format=json",
+      "id": 6086,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/665/?format=json",
+        "id": 665,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Western Kentucky University",
+        "ein": 616055628
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7345/?format=json",
+      "date_created": "2016-04-20T08:28:17.291915-07:00",
+      "date_modified": "2016-04-20T08:28:17.291949-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/31816/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/31817/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:17.265886-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "kelly-thompson",
+  "name_first": "Kelly",
+  "name_middle": "",
+  "name_last": "Thompson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

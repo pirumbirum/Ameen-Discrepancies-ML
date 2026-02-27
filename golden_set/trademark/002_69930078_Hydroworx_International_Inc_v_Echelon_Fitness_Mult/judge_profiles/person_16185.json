@@ -1,0 +1,188 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/16185/?format=json",
+  "id": 16185,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20602/?format=json",
+      "id": 20602,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16185/?format=json",
+      "date_created": "2022-08-09T09:37:52.106816-07:00",
+      "date_modified": "2022-08-09T09:37:52.106829-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-08-09",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20603/?format=json",
+      "id": 20603,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16185/?format=json",
+      "date_created": "2022-08-09T09:50:26.028615-07:00",
+      "date_modified": "2022-08-09T09:50:26.028629-07:00",
+      "url": "https://ballotpedia.org/Russell_Wilson",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20604/?format=json",
+      "id": 20604,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16185/?format=json",
+      "date_created": "2022-08-09T09:50:26.030440-07:00",
+      "date_modified": "2022-08-09T09:50:26.030451-07:00",
+      "url": "https://www.co.wilson.tx.us/page/wilson.District.Court",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20605/?format=json",
+      "id": 20605,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16185/?format=json",
+      "date_created": "2022-08-09T09:50:26.030903-07:00",
+      "date_modified": "2022-08-09T09:50:26.030914-07:00",
+      "url": "https://www.co.karnes.tx.us/page/karnes.218thDC",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20606/?format=json",
+      "id": 20606,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16185/?format=json",
+      "date_created": "2022-08-09T09:50:26.031343-07:00",
+      "date_modified": "2022-08-09T09:50:26.031354-07:00",
+      "url": "https://81-218.txcourts.gov/contact-us.php",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20607/?format=json",
+      "id": 20607,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16185/?format=json",
+      "date_created": "2022-08-09T09:50:26.031766-07:00",
+      "date_modified": "2022-08-09T09:50:26.031776-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=192400",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20608/?format=json",
+      "id": 20608,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16185/?format=json",
+      "date_created": "2022-08-09T09:50:26.032187-07:00",
+      "date_modified": "2022-08-09T09:50:26.032197-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=50561&office=19738",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20609/?format=json",
+      "id": 20609,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16185/?format=json",
+      "date_created": "2022-08-09T09:50:26.032588-07:00",
+      "date_modified": "2022-08-09T09:50:26.032598-07:00",
+      "url": "https://www.atascosacounty.texas.gov/page/atascosa.District.Court",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20610/?format=json",
+      "id": 20610,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16185/?format=json",
+      "date_created": "2022-08-09T09:50:26.033005-07:00",
+      "date_modified": "2022-08-09T09:50:26.033015-07:00",
+      "url": "",
+      "date_accessed": "2022-08-09",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12813/?format=json",
+      "id": 12813,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3164/?format=json",
+        "id": 3164,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Tech University",
+        "ein": 756002622
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16185/?format=json",
+      "date_created": "2022-08-09T09:37:52.094723-07:00",
+      "date_modified": "2022-08-09T09:37:52.094739-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1991
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12814/?format=json",
+      "id": 12814,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5429/?format=json",
+        "id": 5429,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Lutheran University",
+        "ein": 741109748
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16185/?format=json",
+      "date_created": "2022-08-09T09:37:52.100776-07:00",
+      "date_modified": "2022-08-09T09:37:52.100789-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1988
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/52488/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52489/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52490/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52491/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52493/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52492/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8520/?format=json",
+      "id": 8520,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16185/?format=json",
+      "date_created": "2022-08-09T09:37:52.102715-07:00",
+      "date_modified": "2022-08-09T09:37:52.102727-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-08-09T09:37:52.080252-07:00",
+  "date_modified": "2022-08-09T10:05:46.968423-07:00",
+  "date_completed": "2022-08-09T09:36:23-07:00",
+  "fjc_id": null,
+  "slug": "russell-henry-wilson",
+  "name_first": "Russell",
+  "name_middle": "Henry",
+  "name_last": "Wilson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

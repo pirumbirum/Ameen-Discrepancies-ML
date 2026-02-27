@@ -1,0 +1,181 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15332/?format=json",
+  "id": 15332,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16219/?format=json",
+      "id": 16219,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15332/?format=json",
+      "date_created": "2022-05-19T18:31:51.252535-07:00",
+      "date_modified": "2022-05-19T18:31:51.252563-07:00",
+      "url": "https://www.nysd.uscourts.gov/hon-john-p-cronan",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16220/?format=json",
+      "id": 16220,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15332/?format=json",
+      "date_created": "2022-05-19T18:31:51.278343-07:00",
+      "date_modified": "2022-05-19T18:31:51.278371-07:00",
+      "url": "https://en.wikipedia.org/wiki/John_P._Cronan",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16221/?format=json",
+      "id": 16221,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15332/?format=json",
+      "date_created": "2022-05-19T18:31:51.300214-07:00",
+      "date_modified": "2022-05-19T18:31:51.300238-07:00",
+      "url": "https://www.judiciary.senate.gov/imo/media/doc/John%20Cronan%20SJQ%20-%20PUBLIC.pdf",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16222/?format=json",
+      "id": 16222,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15332/?format=json",
+      "date_created": "2022-05-19T18:31:51.322001-07:00",
+      "date_modified": "2022-05-19T18:31:51.322026-07:00",
+      "url": "https://ballotpedia.org/John_Cronan_(New_York)",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16223/?format=json",
+      "id": 16223,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15332/?format=json",
+      "date_created": "2022-05-19T18:31:51.343664-07:00",
+      "date_modified": "2022-05-19T18:31:51.343695-07:00",
+      "url": "https://www.judiciary.senate.gov/imo/media/doc/John%20Cronan%20SJQ%20-%20PUBLIC.pdf",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16224/?format=json",
+      "id": 16224,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15332/?format=json",
+      "date_created": "2022-05-19T18:31:51.365368-07:00",
+      "date_modified": "2022-05-19T18:31:51.365406-07:00",
+      "url": "https://www.justice.gov/archives/criminal/staff-profile/former-acting-assistant-attorney-general-john-p-cronan",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16225/?format=json",
+      "id": 16225,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15332/?format=json",
+      "date_created": "2022-05-19T18:31:51.389298-07:00",
+      "date_modified": "2022-05-19T18:31:51.389335-07:00",
+      "url": "https://www.pli.edu/faculty/john-p.-cronan-i1628843",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16226/?format=json",
+      "id": 16226,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15332/?format=json",
+      "date_created": "2022-05-19T18:31:51.410992-07:00",
+      "date_modified": "2022-05-19T18:31:51.411017-07:00",
+      "url": "https://www.linkedin.com/in/john-cronan-77b3755/",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16227/?format=json",
+      "id": 16227,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15332/?format=json",
+      "date_created": "2022-05-19T18:31:51.433127-07:00",
+      "date_modified": "2022-05-19T18:31:51.433152-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Cronan-JP.%20J3.%2002.%20NYS%20Resp_SR_20.pdf",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11508/?format=json",
+      "id": 11508,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15332/?format=json",
+      "date_created": "2022-05-19T18:31:51.159267-07:00",
+      "date_modified": "2022-05-19T18:31:51.159299-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2001
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11509/?format=json",
+      "id": 11509,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6053/?format=json",
+        "id": 6053,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Georgetown University",
+        "ein": 530196603
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15332/?format=json",
+      "date_created": "2022-05-19T18:31:51.229913-07:00",
+      "date_modified": "2022-05-19T18:31:51.229946-07:00",
+      "degree_level": "ba",
+      "degree_detail": "magna cum laude",
+      "degree_year": 1998
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47698/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47699/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47700/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47701/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47702/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47703/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47704/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47705/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47707/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47708/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47697/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47709/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47706/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-05-19T18:31:51.021128-07:00",
+  "date_modified": "2022-05-19T19:18:37.932918-07:00",
+  "date_completed": "2022-05-19T18:03:39-07:00",
+  "fjc_id": null,
+  "slug": "john-peter-cronan",
+  "name_first": "John",
+  "name_middle": "Peter",
+  "name_last": "Cronan",
+  "name_suffix": "",
+  "date_dob": "1976-09-01",
+  "date_granularity_dob": "%Y-%m",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Teaneck",
+  "dob_state": "NJ",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

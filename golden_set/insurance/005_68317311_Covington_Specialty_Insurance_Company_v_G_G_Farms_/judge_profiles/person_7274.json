@@ -1,0 +1,81 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7274/?format=json",
+  "id": 7274,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3247/?format=json",
+      "id": 3247,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7274/?format=json",
+      "date_created": "2016-04-20T08:28:12.726347-07:00",
+      "date_modified": "2016-04-20T08:28:12.726377-07:00",
+      "url": "http://judicial.alabama.gov/library/bios/WilliamERobertson.pdf",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3248/?format=json",
+      "id": 3248,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7274/?format=json",
+      "date_created": "2016-04-20T08:28:12.731727-07:00",
+      "date_modified": "2016-04-20T08:28:12.731757-07:00",
+      "url": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=85104889",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6030/?format=json",
+      "id": 6030,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3776/?format=json",
+        "id": 3776,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Vanderbilt University",
+        "ein": 620476822
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7274/?format=json",
+      "date_created": "2016-04-20T08:28:12.694646-07:00",
+      "date_modified": "2016-04-20T08:28:12.694682-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/31648/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/31649/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/31650/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/31651/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:12.627646-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jonathan-joseph-robertson",
+  "name_first": "Jonathan",
+  "name_middle": "Joseph",
+  "name_last": "Robertson",
+  "name_suffix": "",
+  "date_dob": "1932-07-13",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,53 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6/?format=json",
+  "id": 6,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/6/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6/?format=json",
+      "id": 6,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6/?format=json",
+      "date_created": "2016-04-20T08:15:47.737767-07:00",
+      "date_modified": "2016-04-20T08:15:47.737791-07:00",
+      "political_party": "j",
+      "source": "b",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:15:47.719578-07:00",
+  "date_modified": "2025-02-05T12:44:47.996079-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "john-quincy-adams",
+  "name_first": "John",
+  "name_middle": "Quincy",
+  "name_last": "Adams",
+  "name_suffix": "",
+  "date_dob": "1767-07-11",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1848-02-23",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Quincy",
+  "dob_state": "MA",
+  "dob_country": "United States",
+  "dod_city": "Washington",
+  "dod_state": "DC",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "un",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

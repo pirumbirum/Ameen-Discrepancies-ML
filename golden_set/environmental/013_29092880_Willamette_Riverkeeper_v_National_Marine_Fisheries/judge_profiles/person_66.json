@@ -1,0 +1,109 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/66/?format=json",
+  "id": 66,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/14/?format=json",
+      "id": 14,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/66/?format=json",
+      "date_created": "2016-04-20T08:15:55.822243-07:00",
+      "date_modified": "2016-04-20T08:15:55.822268-07:00",
+      "year_rated": 1997,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/19/?format=json",
+      "id": 19,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1880/?format=json",
+        "id": 1880,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Oregon",
+        "ein": 936001786
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/66/?format=json",
+      "date_created": "2016-04-20T08:15:55.840294-07:00",
+      "date_modified": "2016-04-20T08:15:55.840321-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1974
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/20/?format=json",
+      "id": 20,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3813/?format=json",
+        "id": 3813,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Rutgers University-New Brunswick",
+        "ein": 226001086
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/66/?format=json",
+      "date_created": "2016-04-20T08:15:55.860152-07:00",
+      "date_modified": "2016-04-20T08:15:55.860196-07:00",
+      "degree_level": "ma",
+      "degree_detail": "M.A.",
+      "degree_year": 1976
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/180/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/181/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/182/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/183/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/184/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/185/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/186/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/187/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/67/?format=json",
+      "id": 67,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/66/?format=json",
+      "date_created": "2016-04-20T08:15:55.816444-07:00",
+      "date_modified": "2016-04-20T08:15:55.816471-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1997-01-07",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:15:55.781502-07:00",
+  "date_modified": "2020-11-25T08:30:23.658529-08:00",
+  "date_completed": null,
+  "fjc_id": 2750,
+  "slug": "ann-l-aiken",
+  "name_first": "Ann",
+  "name_middle": "L.",
+  "name_last": "Aiken",
+  "name_suffix": "",
+  "date_dob": "1951-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Salem",
+  "dob_state": "OR",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

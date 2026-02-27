@@ -1,0 +1,169 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15757/?format=json",
+  "id": 15757,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18394/?format=json",
+      "id": 18394,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15757/?format=json",
+      "date_created": "2022-07-12T10:13:24.537933-07:00",
+      "date_modified": "2022-07-12T10:13:24.537951-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-12",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18395/?format=json",
+      "id": 18395,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15757/?format=json",
+      "date_created": "2022-07-12T10:37:45.318915-07:00",
+      "date_modified": "2022-07-12T10:37:45.318961-07:00",
+      "url": "https://ballotpedia.org/Hazel_Jones",
+      "date_accessed": "2022-07-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18396/?format=json",
+      "id": 18396,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15757/?format=json",
+      "date_created": "2022-07-12T10:37:45.322299-07:00",
+      "date_modified": "2022-07-12T10:37:45.322312-07:00",
+      "url": "https://www.hazeljonesforjudge.com/",
+      "date_accessed": "2022-07-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18397/?format=json",
+      "id": 18397,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15757/?format=json",
+      "date_created": "2022-07-12T10:37:45.322802-07:00",
+      "date_modified": "2022-07-12T10:37:45.322813-07:00",
+      "url": "https://www.linkedin.com/in/hazel-jones-52411326/",
+      "date_accessed": "2022-07-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18398/?format=json",
+      "id": 18398,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15757/?format=json",
+      "date_created": "2022-07-12T10:37:45.323268-07:00",
+      "date_modified": "2022-07-12T10:37:45.323278-07:00",
+      "url": "https://www.justex.net/Courts/Criminal/CriminalCourt.aspx?crt=26",
+      "date_accessed": "2022-07-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18399/?format=json",
+      "id": 18399,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15757/?format=json",
+      "date_created": "2022-07-12T10:37:45.323690-07:00",
+      "date_modified": "2022-07-12T10:37:45.323700-07:00",
+      "url": "https://www.ballotready.org/tx/306616/396311",
+      "date_accessed": "2022-07-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18400/?format=json",
+      "id": 18400,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15757/?format=json",
+      "date_created": "2022-07-12T10:37:45.324095-07:00",
+      "date_modified": "2022-07-12T10:37:45.324105-07:00",
+      "url": "",
+      "date_accessed": "2022-07-12",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12189/?format=json",
+      "id": 12189,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6056/?format=json",
+        "id": 6056,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Howard University",
+        "ein": 530204707
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15757/?format=json",
+      "date_created": "2022-07-12T10:13:24.530261-07:00",
+      "date_modified": "2022-07-12T10:13:24.530279-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1996
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12188/?format=json",
+      "id": 12188,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15757/?format=json",
+      "date_created": "2022-07-12T10:13:24.520511-07:00",
+      "date_modified": "2022-07-12T10:42:23.346126-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Biology",
+      "degree_year": 1984
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50664/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50665/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50666/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50667/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50668/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50669/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50670/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8236/?format=json",
+      "id": 8236,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15757/?format=json",
+      "date_created": "2022-07-12T10:13:24.532998-07:00",
+      "date_modified": "2022-07-12T10:13:24.533016-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-12T10:13:24.498706-07:00",
+  "date_modified": "2022-07-12T10:48:52.978511-07:00",
+  "date_completed": "2022-07-12T10:11:25-07:00",
+  "fjc_id": null,
+  "slug": "hazel-b-jones",
+  "name_first": "Hazel",
+  "name_middle": "B.",
+  "name_last": "Jones",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Houston",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

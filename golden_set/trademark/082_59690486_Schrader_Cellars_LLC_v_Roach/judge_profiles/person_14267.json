@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14267/?format=json",
+  "id": 14267,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9923/?format=json",
+      "id": 9923,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14267/?format=json",
+      "date_created": "2022-03-04T11:47:50.178534-08:00",
+      "date_modified": "2022-03-04T11:49:01.933545-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-04",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9924/?format=json",
+      "id": 9924,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14267/?format=json",
+      "date_created": "2022-03-04T11:49:01.938074-08:00",
+      "date_modified": "2022-03-04T11:49:01.938096-08:00",
+      "url": "https://trellis.law/judge/michelle.c.kim",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9925/?format=json",
+      "id": 9925,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14267/?format=json",
+      "date_created": "2022-03-04T11:49:01.942480-08:00",
+      "date_modified": "2022-03-04T11:49:01.942504-08:00",
+      "url": "https://alumni.ucla.edu/excellence-in-action/michelle-kim-j-d-02/",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9926/?format=json",
+      "id": 9926,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14267/?format=json",
+      "date_created": "2022-03-04T11:49:01.946674-08:00",
+      "date_modified": "2022-03-04T11:49:01.946698-08:00",
+      "url": "https://ballotpedia.org/Michelle_Kim",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9927/?format=json",
+      "id": 9927,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14267/?format=json",
+      "date_created": "2022-03-04T11:49:01.953170-08:00",
+      "date_modified": "2022-03-04T11:49:01.953192-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-04",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8585/?format=json",
+      "id": 8585,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14267/?format=json",
+      "date_created": "2022-03-04T11:49:01.920927-08:00",
+      "date_modified": "2022-03-04T11:49:01.920949-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8586/?format=json",
+      "id": 8586,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14267/?format=json",
+      "date_created": "2022-03-04T11:49:01.929231-08:00",
+      "date_modified": "2022-03-04T11:49:01.929255-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2002
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43955/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6121/?format=json",
+      "id": 6121,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14267/?format=json",
+      "date_created": "2022-03-04T11:47:50.167949-08:00",
+      "date_modified": "2022-03-04T11:47:50.167976-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6122/?format=json",
+      "id": 6122,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14267/?format=json",
+      "date_created": "2022-03-04T11:49:01.913277-08:00",
+      "date_modified": "2022-03-04T11:49:01.913310-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:14.758478-07:00",
+  "date_modified": "2022-03-20T16:22:27.743001-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "michelle-c-kim",
+  "name_first": "Michelle",
+  "name_middle": "C.",
+  "name_last": "Kim",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

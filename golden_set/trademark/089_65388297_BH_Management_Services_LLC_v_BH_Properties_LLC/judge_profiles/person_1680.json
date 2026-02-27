@@ -1,0 +1,72 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1680/?format=json",
+  "id": 1680,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1027/?format=json",
+      "id": 1027,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1680/?format=json",
+      "date_created": "2016-04-20T08:19:40.086147-07:00",
+      "date_modified": "2016-04-20T08:19:40.086169-07:00",
+      "year_rated": 1988,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/10344/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10345/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10346/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10347/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10348/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10349/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10350/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10351/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10352/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10353/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1687/?format=json",
+      "id": 1687,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1680/?format=json",
+      "date_created": "2016-04-20T08:19:40.079134-07:00",
+      "date_modified": "2016-04-20T08:19:40.079158-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1988-07-25",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:40.045656-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1210,
+  "slug": "robert-leon-jordan",
+  "name_first": "Robert",
+  "name_middle": "Leon",
+  "name_last": "Jordan",
+  "name_suffix": "",
+  "date_dob": "1934-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Woodlawn",
+  "dob_state": "TN",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

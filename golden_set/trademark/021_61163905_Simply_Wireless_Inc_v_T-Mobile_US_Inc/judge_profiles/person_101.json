@@ -1,0 +1,107 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/101/?format=json",
+  "id": 101,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/39/?format=json",
+      "id": 39,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/101/?format=json",
+      "date_created": "2016-04-20T08:16:00.958723-07:00",
+      "date_modified": "2016-04-20T08:16:00.958745-07:00",
+      "year_rated": 1980,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/49/?format=json",
+      "id": 49,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2884/?format=json",
+        "id": 2884,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southeastern University",
+        "ein": 590722789
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/101/?format=json",
+      "date_created": "2016-04-20T08:16:00.973171-07:00",
+      "date_modified": "2016-04-20T08:16:00.973196-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.C.S.",
+      "degree_year": 1949
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/50/?format=json",
+      "id": 50,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6050/?format=json",
+        "id": 6050,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "George Washington University",
+        "ein": 530196584
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/101/?format=json",
+      "date_created": "2016-04-20T08:16:00.987628-07:00",
+      "date_modified": "2016-04-20T08:16:00.987652-07:00",
+      "degree_level": "",
+      "degree_detail": "",
+      "degree_year": 1951
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/418/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/419/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/420/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/421/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/422/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/423/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/102/?format=json",
+      "id": 102,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/101/?format=json",
+      "date_created": "2016-04-20T08:16:00.951521-07:00",
+      "date_modified": "2016-04-20T08:16:00.951546-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1980-04-18",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:00.919762-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 43,
+  "slug": "george-ross-anderson-jr",
+  "name_first": "George",
+  "name_middle": "Ross",
+  "name_last": "Anderson",
+  "name_suffix": "jr",
+  "date_dob": "1929-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Anderson",
+  "dob_state": "SC",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

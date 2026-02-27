@@ -1,0 +1,145 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15469/?format=json",
+  "id": 15469,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17050/?format=json",
+      "id": 17050,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15469/?format=json",
+      "date_created": "2022-06-17T12:46:35.027014-07:00",
+      "date_modified": "2022-06-17T12:46:35.027031-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-06-17",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17051/?format=json",
+      "id": 17051,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15469/?format=json",
+      "date_created": "2022-06-17T12:46:35.038715-07:00",
+      "date_modified": "2022-06-17T12:46:35.038731-07:00",
+      "url": "https://ballotpedia.org/Keli_Aiken",
+      "date_accessed": "2022-06-17",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17052/?format=json",
+      "id": 17052,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15469/?format=json",
+      "date_created": "2022-06-17T12:46:35.039994-07:00",
+      "date_modified": "2022-06-17T12:46:35.040011-07:00",
+      "url": "https://trellis.law/judge/keli.michelle.aiken",
+      "date_accessed": null,
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17053/?format=json",
+      "id": 17053,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15469/?format=json",
+      "date_created": "2022-06-17T12:46:35.041171-07:00",
+      "date_modified": "2022-06-17T12:46:35.041188-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=277112",
+      "date_accessed": "2022-06-17",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17054/?format=json",
+      "id": 17054,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15469/?format=json",
+      "date_created": "2022-06-17T12:46:35.042511-07:00",
+      "date_modified": "2022-06-17T12:46:35.042527-07:00",
+      "url": "",
+      "date_accessed": "2022-06-17",
+      "notes": "American Bench, 2021 ed."
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11786/?format=json",
+      "id": 11786,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5920/?format=json",
+        "id": 5920,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Tyler",
+        "ein": 751396988
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15469/?format=json",
+      "date_created": "2022-06-17T12:46:35.009412-07:00",
+      "date_modified": "2022-06-17T12:46:35.009435-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11787/?format=json",
+      "id": 11787,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2085/?format=json",
+        "id": 2085,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Wesleyan University",
+        "ein": 750800691
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15469/?format=json",
+      "date_created": "2022-06-17T12:46:35.018483-07:00",
+      "date_modified": "2022-06-17T12:46:35.018497-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2005
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49545/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49546/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49547/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8056/?format=json",
+      "id": 8056,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15469/?format=json",
+      "date_created": "2022-06-17T12:46:35.021922-07:00",
+      "date_modified": "2022-06-17T12:46:35.021935-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-06-17T12:46:34.919068-07:00",
+  "date_modified": "2022-06-17T13:57:45.326962-07:00",
+  "date_completed": "2022-06-17T12:20:52-07:00",
+  "fjc_id": null,
+  "slug": "keli-michelle-aiken",
+  "name_first": "Keli",
+  "name_middle": "Michelle",
+  "name_last": "Aiken",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

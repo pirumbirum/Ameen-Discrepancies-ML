@@ -1,0 +1,64 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15208/?format=json",
+  "id": 15208,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16073/?format=json",
+      "id": 16073,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15208/?format=json",
+      "date_created": "2022-04-21T12:30:58.886471-07:00",
+      "date_modified": "2022-04-21T12:30:58.886490-07:00",
+      "url": "https://en.wikipedia.org/wiki/Byron_Brown",
+      "date_accessed": "2022-04-21",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44751/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7871/?format=json",
+      "id": 7871,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15208/?format=json",
+      "date_created": "2022-04-21T12:30:58.884882-07:00",
+      "date_modified": "2022-04-21T12:30:58.884902-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-21T12:30:58.865702-07:00",
+  "date_modified": "2022-04-21T12:30:58.865734-07:00",
+  "date_completed": "2022-04-21T12:28:51-07:00",
+  "fjc_id": null,
+  "slug": "byron-brown",
+  "name_first": "Byron",
+  "name_middle": "",
+  "name_last": "Brown",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Buffalo",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

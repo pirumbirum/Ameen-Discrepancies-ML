@@ -1,0 +1,103 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4766/?format=json",
+  "id": 4766,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/975/?format=json",
+      "id": 975,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4766/?format=json",
+      "date_created": "2016-04-20T08:25:26.951500-07:00",
+      "date_modified": "2016-04-20T08:25:26.951530-07:00",
+      "url": "http://www.micourthistory.org/justices/thomas-brennan/",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3900/?format=json",
+      "id": 3900,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1657/?format=json",
+        "id": 1657,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Detroit Mercy",
+        "ein": 381360586
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4766/?format=json",
+      "date_created": "2016-04-20T08:25:26.885280-07:00",
+      "date_modified": "2016-04-20T08:25:26.885314-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3901/?format=json",
+      "id": 3901,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1657/?format=json",
+        "id": 1657,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Detroit Mercy",
+        "ein": 381360586
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4766/?format=json",
+      "date_created": "2016-04-20T08:25:26.917463-07:00",
+      "date_modified": "2016-04-20T08:25:26.917500-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25609/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25610/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25611/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4072/?format=json",
+      "id": 4072,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4766/?format=json",
+      "date_created": "2016-04-20T08:25:26.943348-07:00",
+      "date_modified": "2016-04-20T08:25:26.943383-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:26.841409-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "thomas-e-brennan",
+  "name_first": "Thomas",
+  "name_middle": "E.",
+  "name_last": "Brennan",
+  "name_suffix": "",
+  "date_dob": "1929-05-27",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

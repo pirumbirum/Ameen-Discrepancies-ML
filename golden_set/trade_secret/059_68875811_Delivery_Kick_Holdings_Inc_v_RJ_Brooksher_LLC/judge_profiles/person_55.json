@@ -1,0 +1,63 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/55/?format=json",
+  "id": 55,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33538/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/116/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/117/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/118/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/119/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/120/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/121/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/122/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/123/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/124/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/125/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/57/?format=json",
+      "id": 57,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/55/?format=json",
+      "date_created": "2016-04-20T08:15:54.383134-07:00",
+      "date_modified": "2016-04-20T08:15:54.383158-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1836-01-12",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:15:54.352893-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 10,
+  "slug": "george-adams",
+  "name_first": "George",
+  "name_middle": "",
+  "name_last": "Adams",
+  "name_suffix": "",
+  "date_dob": "1784-08-01",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1844-08-14",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Lynchburg",
+  "dob_state": "VA",
+  "dob_country": "United States",
+  "dod_city": "Jackson",
+  "dod_state": "MS",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

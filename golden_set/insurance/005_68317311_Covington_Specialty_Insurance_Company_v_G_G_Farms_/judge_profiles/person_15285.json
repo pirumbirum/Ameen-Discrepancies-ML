@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15285/?format=json",
+  "id": 15285,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16149/?format=json",
+      "id": 16149,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15285/?format=json",
+      "date_created": "2022-04-22T11:35:36.387800-07:00",
+      "date_modified": "2022-04-22T11:35:36.387820-07:00",
+      "url": "https://en.wikipedia.org/wiki/Kingston,_New_York",
+      "date_accessed": "2022-04-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44833/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-04-22T11:35:36.372070-07:00",
+  "date_modified": "2022-04-22T11:35:36.372098-07:00",
+  "date_completed": "2022-04-22T11:34:04-07:00",
+  "fjc_id": null,
+  "slug": "richard-white",
+  "name_first": "Richard",
+  "name_middle": "",
+  "name_last": "White",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

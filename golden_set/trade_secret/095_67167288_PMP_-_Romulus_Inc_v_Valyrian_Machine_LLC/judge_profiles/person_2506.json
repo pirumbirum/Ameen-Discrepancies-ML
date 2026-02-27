@@ -1,0 +1,99 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2506/?format=json",
+  "id": 2506,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1553/?format=json",
+      "id": 1553,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2506/?format=json",
+      "date_created": "2016-04-20T08:21:37.965274-07:00",
+      "date_modified": "2016-04-20T08:21:37.965296-07:00",
+      "year_rated": 1979,
+      "rating": "q"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1554/?format=json",
+      "id": 1554,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2506/?format=json",
+      "date_created": "2016-04-20T08:21:37.989571-07:00",
+      "date_modified": "2016-04-20T08:21:37.989594-07:00",
+      "year_rated": 1994,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2086/?format=json",
+      "id": 2086,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2506/?format=json",
+      "date_created": "2016-04-20T08:21:38.005415-07:00",
+      "date_modified": "2016-04-20T08:21:38.005439-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.B.A.",
+      "degree_year": 1961
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/15652/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15653/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15654/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15655/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15656/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15657/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15658/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15659/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2515/?format=json",
+      "id": 2515,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2506/?format=json",
+      "date_created": "2016-04-20T08:21:37.959303-07:00",
+      "date_modified": "2016-04-20T08:21:37.959328-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1979-02-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:37.926524-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1840,
+  "slug": "robert-manley-parker",
+  "name_first": "Robert",
+  "name_middle": "Manley",
+  "name_last": "Parker",
+  "name_suffix": "",
+  "date_dob": "1937-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Longview",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

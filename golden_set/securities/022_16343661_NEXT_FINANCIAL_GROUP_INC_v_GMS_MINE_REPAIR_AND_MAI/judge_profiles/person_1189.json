@@ -1,0 +1,68 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1189/?format=json",
+  "id": 1189,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/721/?format=json",
+      "id": 721,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1189/?format=json",
+      "date_created": "2016-04-20T08:18:29.926192-07:00",
+      "date_modified": "2016-04-20T08:18:29.926214-07:00",
+      "year_rated": 1979,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/7218/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7219/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7220/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7221/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7222/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7223/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1195/?format=json",
+      "id": 1195,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1189/?format=json",
+      "date_created": "2016-04-20T08:18:29.919032-07:00",
+      "date_modified": "2016-04-20T08:18:29.919057-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1979-07-12",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:29.887727-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 846,
+  "slug": "benjamin-f-gibson",
+  "name_first": "Benjamin",
+  "name_middle": "F.",
+  "name_last": "Gibson",
+  "name_suffix": "",
+  "date_dob": "1931-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Safford",
+  "dob_state": "AL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

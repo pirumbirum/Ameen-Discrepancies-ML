@@ -1,0 +1,76 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2360/?format=json",
+  "id": 2360,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1962/?format=json",
+      "id": 1962,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4361/?format=json",
+        "id": 4361,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Pennsylvania",
+        "ein": 231352685
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2360/?format=json",
+      "date_created": "2016-04-20T08:21:17.420859-07:00",
+      "date_modified": "2016-04-20T08:21:17.420888-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1926
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14722/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14723/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14724/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14721/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2366/?format=json",
+      "id": 2366,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2360/?format=json",
+      "date_created": "2016-04-20T08:21:17.405406-07:00",
+      "date_modified": "2016-04-20T08:21:17.405431-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1946-05-07",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:17.365242-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1724,
+  "slug": "john-william-murphy",
+  "name_first": "John",
+  "name_middle": "William",
+  "name_last": "Murphy",
+  "name_suffix": "",
+  "date_dob": "1902-04-26",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1962-03-28",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Avoca",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "Scranton",
+  "dod_state": "PA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

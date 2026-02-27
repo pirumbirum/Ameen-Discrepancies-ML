@@ -1,0 +1,111 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14136/?format=json",
+  "id": 14136,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9589/?format=json",
+      "id": 9589,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14136/?format=json",
+      "date_created": "2022-03-02T17:46:00.942511-08:00",
+      "date_modified": "2022-03-02T17:46:00.942546-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-02",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9590/?format=json",
+      "id": 9590,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14136/?format=json",
+      "date_created": "2022-03-02T17:46:00.947722-08:00",
+      "date_modified": "2022-03-02T17:46:00.947756-08:00",
+      "url": "https://www.martindale.com/attorney/scott-benjamin-jackson-176008/",
+      "date_accessed": "2022-03-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9591/?format=json",
+      "id": 9591,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14136/?format=json",
+      "date_created": "2022-03-02T17:46:00.952760-08:00",
+      "date_modified": "2022-03-02T17:46:00.952794-08:00",
+      "url": "https://trellis.law/judge/scott.jackson",
+      "date_accessed": "2022-03-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9592/?format=json",
+      "id": 9592,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14136/?format=json",
+      "date_created": "2022-03-02T17:46:00.958146-08:00",
+      "date_modified": "2022-03-02T17:46:00.958180-08:00",
+      "url": "https://www.linkedin.com/in/scott-jackson-3563a418/",
+      "date_accessed": "2022-03-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9593/?format=json",
+      "id": 9593,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14136/?format=json",
+      "date_created": "2022-03-02T17:46:00.970058-08:00",
+      "date_modified": "2022-03-02T17:46:00.970094-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-02",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8435/?format=json",
+      "id": 8435,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6050/?format=json",
+        "id": 6050,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "George Washington University",
+        "ein": 530196584
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14136/?format=json",
+      "date_created": "2022-03-02T17:46:00.908780-08:00",
+      "date_modified": "2022-03-02T17:46:00.908816-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1997
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43817/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44419/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:09.479765-07:00",
+  "date_modified": "2022-03-20T15:33:28.592851-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "scott-benjamin-jackson",
+  "name_first": "Scott",
+  "name_middle": "Benjamin",
+  "name_last": "Jackson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

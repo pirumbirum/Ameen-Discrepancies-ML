@@ -1,0 +1,68 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8098/?format=json",
+  "id": 8098,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3874/?format=json",
+      "id": 3874,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8098/?format=json",
+      "date_created": "2016-04-20T08:28:50.040392-07:00",
+      "date_modified": "2016-04-20T08:28:50.040414-07:00",
+      "url": "http://www.azcourts.gov/coa1/HistoryoftheCourt.aspx",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3875/?format=json",
+      "id": 3875,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8098/?format=json",
+      "date_created": "2016-04-20T08:28:50.047934-07:00",
+      "date_modified": "2016-04-20T08:28:50.047955-07:00",
+      "url": "http://archive.azcentral.com/ic/pdf/brewer-judge-appointments.pdf",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3876/?format=json",
+      "id": 3876,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8098/?format=json",
+      "date_created": "2016-04-20T08:28:50.058563-07:00",
+      "date_modified": "2016-04-20T08:28:50.058584-07:00",
+      "url": "http://ballotpedia.org/Philip_Hall",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33057/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:50.026451-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "michael-t-hall",
+  "name_first": "Michael",
+  "name_middle": "T.",
+  "name_last": "Hall",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2093/?format=json",
+  "id": 2093,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1295/?format=json",
+      "id": 1295,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2093/?format=json",
+      "date_created": "2016-04-20T08:20:41.472446-07:00",
+      "date_modified": "2016-04-20T08:20:41.472481-07:00",
+      "year_rated": 2014,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/13074/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13075/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13076/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13077/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13078/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13079/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13080/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13081/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2102/?format=json",
+      "id": 2102,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2093/?format=json",
+      "date_created": "2016-04-20T08:20:41.464328-07:00",
+      "date_modified": "2016-04-20T08:20:41.464365-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2014-06-26",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:41.433095-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3584,
+  "slug": "amos-louis-mazzant-iii",
+  "name_first": "Amos",
+  "name_middle": "Louis",
+  "name_last": "Mazzant",
+  "name_suffix": "3",
+  "date_dob": "1965-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Ellwood City",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

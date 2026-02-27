@@ -1,0 +1,58 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2770/?format=json",
+  "id": 2770,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/17341/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17342/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17343/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17344/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17345/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17346/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2778/?format=json",
+      "id": 2778,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2770/?format=json",
+      "date_created": "2016-04-20T08:22:13.852181-07:00",
+      "date_modified": "2016-04-20T08:22:13.852205-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1910-03-25",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:13.820638-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2046,
+  "slug": "john-carter-rose",
+  "name_first": "John",
+  "name_middle": "Carter",
+  "name_last": "Rose",
+  "name_suffix": "",
+  "date_dob": "1861-04-27",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1927-03-26",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Baltimore",
+  "dob_state": "MD",
+  "dob_country": "United States",
+  "dod_city": "Atlantic City",
+  "dod_state": "NJ",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,57 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1261/?format=json",
+  "id": 1261,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/7663/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7664/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7665/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7666/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7667/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1267/?format=json",
+      "id": 1267,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1261/?format=json",
+      "date_created": "2016-04-20T08:18:39.852479-07:00",
+      "date_modified": "2016-04-20T08:18:39.852507-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1924-05-26",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:39.816272-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3325,
+  "slug": "william-johnson-graham",
+  "name_first": "William",
+  "name_middle": "Johnson",
+  "name_last": "Graham",
+  "name_suffix": "",
+  "date_dob": "1872-02-07",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1937-11-10",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "New Castle",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "Washington",
+  "dod_state": "DC",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

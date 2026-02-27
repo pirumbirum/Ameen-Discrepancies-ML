@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/9755/?format=json",
+  "id": 9755,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/5500/?format=json",
+      "id": 5500,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9755/?format=json",
+      "date_created": "2020-08-04T17:58:34.151991-07:00",
+      "date_modified": "2020-08-04T17:58:34.152023-07:00",
+      "url": "",
+      "date_accessed": "2020-08-04",
+      "notes": "Information scraped from Wikipedia https://en.wikipedia.org/wiki/List_of_Judges_of_the_United_States_Tax_Court"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/35807/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2020-07-16T17:58:34.127705-07:00",
+  "date_modified": "2025-02-05T09:29:58.147150-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "william-r-green-jr",
+  "name_first": "William",
+  "name_middle": "R.",
+  "name_last": "Green",
+  "name_suffix": "jr",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

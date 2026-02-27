@@ -1,0 +1,91 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3639/?format=json",
+  "id": 3639,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3068/?format=json",
+      "id": 3068,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5917/?format=json",
+        "id": 5917,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Alabama",
+        "ein": 636001138
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3639/?format=json",
+      "date_created": "2016-04-20T08:24:16.366134-07:00",
+      "date_modified": "2016-04-20T08:24:16.366167-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3069/?format=json",
+      "id": 3069,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5917/?format=json",
+        "id": 5917,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Alabama",
+        "ein": 636001138
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3639/?format=json",
+      "date_created": "2016-04-20T08:24:16.385942-07:00",
+      "date_modified": "2016-04-20T08:24:16.385997-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22792/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22793/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3649/?format=json",
+      "id": 3649,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3639/?format=json",
+      "date_created": "2016-04-20T08:24:16.402118-07:00",
+      "date_modified": "2016-04-20T08:24:16.402158-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:16.340528-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "alva-hugh-maddox",
+  "name_first": "Alva",
+  "name_middle": "Hugh",
+  "name_last": "Maddox",
+  "name_suffix": "",
+  "date_dob": "1930-04-17",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

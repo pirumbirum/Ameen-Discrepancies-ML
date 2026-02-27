@@ -1,0 +1,178 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15035/?format=json",
+  "id": 15035,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15457/?format=json",
+      "id": 15457,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15035/?format=json",
+      "date_created": "2022-04-14T12:56:43.275655-07:00",
+      "date_modified": "2022-04-14T12:56:43.275676-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-14",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15458/?format=json",
+      "id": 15458,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15035/?format=json",
+      "date_created": "2022-04-14T12:56:43.277629-07:00",
+      "date_modified": "2022-04-14T12:56:43.277650-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=4daGXjLTe2_PLUS_mmcMgouYW0g%3D%3D",
+      "date_accessed": "2022-04-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15459/?format=json",
+      "id": 15459,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15035/?format=json",
+      "date_created": "2022-04-14T12:56:43.278628-07:00",
+      "date_modified": "2022-04-14T12:56:43.278649-07:00",
+      "url": "https://ballotpedia.org/Clark_V._Richardson#:~:text=Richardson%20is%20a%20judge%20for,that%20will%20expire%20in%202025.",
+      "date_accessed": "2022-04-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15460/?format=json",
+      "id": 15460,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15035/?format=json",
+      "date_created": "2022-04-14T12:56:43.279708-07:00",
+      "date_modified": "2022-04-14T12:56:43.279729-07:00",
+      "url": "https://www2.nycbar.org/pdf/fivefromfive/fivefromfivebios.pdf",
+      "date_accessed": "2022-04-14",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11210/?format=json",
+      "id": 11210,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15035/?format=json",
+      "date_created": "2022-04-14T12:56:43.255579-07:00",
+      "date_modified": "2022-04-14T12:56:43.256846-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1977
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11211/?format=json",
+      "id": 11211,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2624/?format=json",
+        "id": 2624,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Cornell University",
+        "ein": 150532082
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15035/?format=json",
+      "date_created": "2022-04-14T12:56:43.263106-07:00",
+      "date_modified": "2022-04-14T12:56:43.263128-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1980
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/48144/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48145/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48146/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48147/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48148/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48149/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48150/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7694/?format=json",
+      "id": 7694,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15035/?format=json",
+      "date_created": "2022-04-14T12:56:43.265670-07:00",
+      "date_modified": "2022-04-14T12:56:43.265691-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2004-08-01",
+      "date_granularity_start": "%Y-%m",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7695/?format=json",
+      "id": 7695,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15035/?format=json",
+      "date_created": "2022-04-14T12:56:43.268916-07:00",
+      "date_modified": "2022-04-14T12:56:43.268938-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2014-08-01",
+      "date_granularity_start": "%Y-%m",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7696/?format=json",
+      "id": 7696,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15035/?format=json",
+      "date_created": "2022-04-14T12:56:43.271325-07:00",
+      "date_modified": "2022-04-14T12:56:43.271347-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1995-01-01",
+      "date_granularity_start": "%Y",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7697/?format=json",
+      "id": 7697,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15035/?format=json",
+      "date_created": "2022-04-14T12:56:43.274356-07:00",
+      "date_modified": "2022-04-14T12:56:43.274377-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2015-04-27",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-14T12:56:43.237089-07:00",
+  "date_modified": "2022-05-27T14:13:09.166733-07:00",
+  "date_completed": "2022-05-27T13:49:12-07:00",
+  "fjc_id": null,
+  "slug": "clark-v-richardson",
+  "name_first": "Clark",
+  "name_middle": "V.",
+  "name_last": "Richardson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,98 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14771/?format=json",
+  "id": 14771,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14347/?format=json",
+      "id": 14347,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14771/?format=json",
+      "date_created": "2022-04-06T10:14:55.431873-07:00",
+      "date_modified": "2022-04-06T10:14:55.431893-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14348/?format=json",
+      "id": 14348,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14771/?format=json",
+      "date_created": "2022-04-06T10:14:55.433687-07:00",
+      "date_modified": "2022-04-06T10:14:55.433708-07:00",
+      "url": "https://ballotpedia.org/Desmond_Green",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14349/?format=json",
+      "id": 14349,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14771/?format=json",
+      "date_created": "2022-04-06T10:14:55.434675-07:00",
+      "date_modified": "2022-04-06T10:14:55.434697-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=A4TiGS2GwxGUOKrIuJN/Lw%3D%3D",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14350/?format=json",
+      "id": 14350,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14771/?format=json",
+      "date_created": "2022-04-06T10:14:55.435693-07:00",
+      "date_modified": "2022-04-06T10:14:55.435712-07:00",
+      "url": "https://trellis.law/judge/desmond.a.green",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10662/?format=json",
+      "id": 10662,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4581/?format=json",
+        "id": 4581,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Lewis & Clark College",
+        "ein": 930386858
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14771/?format=json",
+      "date_created": "2022-04-06T10:14:55.429066-07:00",
+      "date_modified": "2022-04-06T10:14:55.429089-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-04-06T10:14:55.411552-07:00",
+  "date_modified": "2022-04-06T10:14:55.411580-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "desmond-green",
+  "name_first": "Desmond",
+  "name_middle": "",
+  "name_last": "Green",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

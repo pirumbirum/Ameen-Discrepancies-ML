@@ -1,0 +1,144 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/11808/?format=json",
+  "id": 11808,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10265/?format=json",
+      "id": 10265,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11808/?format=json",
+      "date_created": "2022-03-06T18:23:42.387847-08:00",
+      "date_modified": "2022-03-06T18:23:42.387870-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10266/?format=json",
+      "id": 10266,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11808/?format=json",
+      "date_created": "2022-03-06T18:23:42.392465-08:00",
+      "date_modified": "2022-03-06T18:23:42.392487-08:00",
+      "url": "https://ballotpedia.org/Gregory_H._Lewis",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10267/?format=json",
+      "id": 10267,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11808/?format=json",
+      "date_created": "2022-03-06T18:23:42.398075-08:00",
+      "date_modified": "2022-03-06T18:23:42.398098-08:00",
+      "url": "https://www.martindale.com/attorney/gregory-horrell-lewis-116183/",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10268/?format=json",
+      "id": 10268,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11808/?format=json",
+      "date_created": "2022-03-06T18:23:42.402219-08:00",
+      "date_modified": "2022-03-06T18:23:42.402242-08:00",
+      "url": "https://trellis.law/judge-dashboard/399/bio",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10269/?format=json",
+      "id": 10269,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11808/?format=json",
+      "date_created": "2022-03-06T18:23:42.410725-08:00",
+      "date_modified": "2022-03-06T18:23:42.410747-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-06",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8740/?format=json",
+      "id": 8740,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3069/?format=json",
+        "id": 3069,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "California State University-Long Beach",
+        "ein": 931150363
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11808/?format=json",
+      "date_created": "2022-03-06T18:23:42.355319-08:00",
+      "date_modified": "2022-03-06T18:23:42.355342-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1963
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8741/?format=json",
+      "id": 8741,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2137/?format=json",
+        "id": 2137,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Western State College of Law at Argosy University",
+        "ein": 952313875
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11808/?format=json",
+      "date_created": "2022-03-06T18:23:42.363192-08:00",
+      "date_modified": "2022-03-06T18:23:42.363216-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1973
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/39627/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/39628/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6225/?format=json",
+      "id": 6225,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11808/?format=json",
+      "date_created": "2022-03-06T18:23:42.346085-08:00",
+      "date_modified": "2022-03-06T18:23:42.346110-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:09:01.097089-07:00",
+  "date_modified": "2022-03-20T19:16:44.977898-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "gregory-horrell-lewis",
+  "name_first": "Gregory",
+  "name_middle": "Horrell",
+  "name_last": "Lewis",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Long Beach",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

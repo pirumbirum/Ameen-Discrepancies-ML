@@ -1,0 +1,151 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14972/?format=json",
+  "id": 14972,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15207/?format=json",
+      "id": 15207,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14972/?format=json",
+      "date_created": "2022-04-13T12:27:26.699147-07:00",
+      "date_modified": "2022-04-13T12:27:26.699171-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-13",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15208/?format=json",
+      "id": 15208,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14972/?format=json",
+      "date_created": "2022-04-13T12:27:26.701798-07:00",
+      "date_modified": "2022-04-13T12:27:26.701823-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=nyjaMFOf0xfklqwnBeoc8g%3D%3D",
+      "date_accessed": "2022-04-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15209/?format=json",
+      "id": 15209,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14972/?format=json",
+      "date_created": "2022-04-13T12:27:26.703049-07:00",
+      "date_modified": "2022-04-13T12:27:26.703073-07:00",
+      "url": "https://ww2.nycourts.gov/Admin/directory/murphy_p_james.shtml",
+      "date_accessed": "2022-04-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15210/?format=json",
+      "id": 15210,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14972/?format=json",
+      "date_created": "2022-04-13T12:27:26.704280-07:00",
+      "date_modified": "2022-04-13T12:27:26.704304-07:00",
+      "url": "https://archive.nysba.org/CLE/Biographies/Murphy,_James_-_Bio/",
+      "date_accessed": "2022-04-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15211/?format=json",
+      "id": 15211,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14972/?format=json",
+      "date_created": "2022-04-13T12:27:26.705379-07:00",
+      "date_modified": "2022-04-13T12:27:26.705403-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/5th_Judicial_District/James_Murphy/James_Murphy-662.xml",
+      "date_accessed": "2022-04-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15212/?format=json",
+      "id": 15212,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14972/?format=json",
+      "date_created": "2022-04-13T12:27:26.706608-07:00",
+      "date_modified": "2022-04-13T12:27:26.706632-07:00",
+      "url": "https://ballotpedia.org/James_P._Murphy_(New_York_supreme_court)",
+      "date_accessed": "2022-04-13",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11084/?format=json",
+      "id": 11084,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5699/?format=json",
+        "id": 5699,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Syracuse University",
+        "ein": 150532081
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14972/?format=json",
+      "date_created": "2022-04-13T12:27:26.690920-07:00",
+      "date_modified": "2022-04-13T12:27:26.690945-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1984
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11085/?format=json",
+      "id": 11085,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/886/?format=json",
+        "id": 886,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "St Lawrence University",
+        "ein": 150532239
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14972/?format=json",
+      "date_created": "2022-04-13T12:27:26.697325-07:00",
+      "date_modified": "2022-04-13T12:27:26.697350-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1981
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/45324/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45325/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45323/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47311/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47312/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47313/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47314/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47315/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47316/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47317/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47318/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47319/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47320/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-04-13T12:27:26.671995-07:00",
+  "date_modified": "2022-05-16T16:13:35.256125-07:00",
+  "date_completed": "2022-05-16T15:42:33-07:00",
+  "fjc_id": null,
+  "slug": "james-p-murphy",
+  "name_first": "James",
+  "name_middle": "P.",
+  "name_last": "Murphy",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Syracuse",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

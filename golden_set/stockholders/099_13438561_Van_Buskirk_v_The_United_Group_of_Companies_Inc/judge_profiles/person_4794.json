@@ -1,0 +1,63 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4794/?format=json",
+  "id": 4794,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1004/?format=json",
+      "id": 1004,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4794/?format=json",
+      "date_created": "2016-04-20T08:25:29.699775-07:00",
+      "date_modified": "2016-04-20T08:25:29.699801-07:00",
+      "url": "http://www.micourthistory.org/justices/edward-sharpe/",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25696/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25697/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4089/?format=json",
+      "id": 4089,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4794/?format=json",
+      "date_created": "2016-04-20T08:25:29.693902-07:00",
+      "date_modified": "2016-04-20T08:25:29.693932-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:29.620646-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "edward-m-sharpe",
+  "name_first": "Edward",
+  "name_middle": "M.",
+  "name_last": "Sharpe",
+  "name_suffix": "",
+  "date_dob": "1887-12-18",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1975-03-03",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

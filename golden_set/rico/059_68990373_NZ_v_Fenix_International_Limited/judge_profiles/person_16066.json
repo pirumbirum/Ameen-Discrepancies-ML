@@ -1,0 +1,157 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/16066/?format=json",
+  "id": 16066,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20037/?format=json",
+      "id": 20037,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16066/?format=json",
+      "date_created": "2022-08-02T10:18:47.404774-07:00",
+      "date_modified": "2022-08-02T10:18:47.404787-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-08-02",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20038/?format=json",
+      "id": 20038,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16066/?format=json",
+      "date_created": "2022-08-02T10:23:22.135343-07:00",
+      "date_modified": "2022-08-02T10:23:22.135362-07:00",
+      "url": "https://ballotpedia.org/Gena_Slaughter",
+      "date_accessed": "2022-08-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20039/?format=json",
+      "id": 20039,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16066/?format=json",
+      "date_created": "2022-08-02T10:23:22.139025-07:00",
+      "date_modified": "2022-08-02T10:23:22.139040-07:00",
+      "url": "https://yellow.place/en/judge-gena-slaughter-dallas-usa",
+      "date_accessed": "2022-08-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20040/?format=json",
+      "id": 20040,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16066/?format=json",
+      "date_created": "2022-08-02T10:23:22.140272-07:00",
+      "date_modified": "2022-08-02T10:23:22.140289-07:00",
+      "url": "https://www.martindale.com/attorney/ms-gena-nicole-slaughter-2171656/",
+      "date_accessed": "2022-08-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20041/?format=json",
+      "id": 20041,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16066/?format=json",
+      "date_created": "2022-08-02T10:23:22.141403-07:00",
+      "date_modified": "2022-08-02T10:23:22.141418-07:00",
+      "url": "https://www.mas.law/blog/2015/june/judge-gena-slaughter-s-reception/",
+      "date_accessed": "2022-08-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20042/?format=json",
+      "id": 20042,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16066/?format=json",
+      "date_created": "2022-08-02T10:23:22.206500-07:00",
+      "date_modified": "2022-08-02T10:23:22.206521-07:00",
+      "url": "",
+      "date_accessed": "2022-08-02",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12649/?format=json",
+      "id": 12649,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1481/?format=json",
+        "id": 1481,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southern Methodist University",
+        "ein": 750800689
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16066/?format=json",
+      "date_created": "2022-08-02T10:18:47.385855-07:00",
+      "date_modified": "2022-08-02T10:18:47.385867-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1999
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12648/?format=json",
+      "id": 12648,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3164/?format=json",
+        "id": 3164,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Tech University",
+        "ein": 756002622
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16066/?format=json",
+      "date_created": "2022-08-02T10:18:47.368875-07:00",
+      "date_modified": "2022-08-02T10:25:31.380408-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51961/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51962/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51963/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51964/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51965/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8439/?format=json",
+      "id": 8439,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16066/?format=json",
+      "date_created": "2022-08-02T10:18:47.388539-07:00",
+      "date_modified": "2022-08-02T10:18:47.388551-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-08-02T10:18:47.204662-07:00",
+  "date_modified": "2022-08-02T10:25:31.339118-07:00",
+  "date_completed": "2022-08-02T10:09:46-07:00",
+  "fjc_id": null,
+  "slug": "gena-nicole-slaughter",
+  "name_first": "Gena",
+  "name_middle": "Nicole",
+  "name_last": "Slaughter",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

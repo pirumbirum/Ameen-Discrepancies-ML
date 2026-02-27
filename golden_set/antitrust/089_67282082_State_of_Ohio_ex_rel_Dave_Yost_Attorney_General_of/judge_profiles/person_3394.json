@@ -1,0 +1,73 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3394/?format=json",
+  "id": 3394,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2144/?format=json",
+      "id": 2144,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3394/?format=json",
+      "date_created": "2016-04-20T08:23:42.533137-07:00",
+      "date_modified": "2016-04-20T08:23:42.533159-07:00",
+      "year_rated": 2004,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/21318/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21319/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21320/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21321/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21322/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21323/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21324/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21325/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21326/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21327/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21317/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3411/?format=json",
+      "id": 3411,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3394/?format=json",
+      "date_created": "2016-04-20T08:23:42.526094-07:00",
+      "date_modified": "2016-04-20T08:23:42.526118-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2004-04-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:23:42.488247-07:00",
+  "date_modified": "2020-11-25T08:30:19.380910-08:00",
+  "date_completed": null,
+  "fjc_id": 3079,
+  "slug": "michael-h-watson",
+  "name_first": "Michael",
+  "name_middle": "H.",
+  "name_last": "Watson",
+  "name_suffix": "",
+  "date_dob": "1956-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Akron",
+  "dob_state": "OH",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

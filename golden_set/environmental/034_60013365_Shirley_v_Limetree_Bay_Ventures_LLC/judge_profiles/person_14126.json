@@ -1,0 +1,147 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14126/?format=json",
+  "id": 14126,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10274/?format=json",
+      "id": 10274,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14126/?format=json",
+      "date_created": "2022-03-06T18:32:28.339665-08:00",
+      "date_modified": "2022-03-06T18:33:26.692945-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10275/?format=json",
+      "id": 10275,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14126/?format=json",
+      "date_created": "2022-03-06T18:33:26.697586-08:00",
+      "date_modified": "2022-03-06T18:33:26.697610-08:00",
+      "url": "http://martindale.com/attorney/katherine-e-lewis-260474/",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10276/?format=json",
+      "id": 10276,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14126/?format=json",
+      "date_created": "2022-03-06T18:33:26.702157-08:00",
+      "date_modified": "2022-03-06T18:33:26.702178-08:00",
+      "url": "https://ballotpedia.org/Katherine_Lewis",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10277/?format=json",
+      "id": 10277,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14126/?format=json",
+      "date_created": "2022-03-06T18:33:26.710579-08:00",
+      "date_modified": "2022-03-06T18:33:26.710602-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-06",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8744/?format=json",
+      "id": 8744,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1749/?format=json",
+        "id": 1749,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Duke University",
+        "ein": 560532129
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14126/?format=json",
+      "date_created": "2022-03-06T18:32:28.308638-08:00",
+      "date_modified": "2022-03-06T18:32:28.308660-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8745/?format=json",
+      "id": 8745,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14126/?format=json",
+      "date_created": "2022-03-06T18:32:28.317728-08:00",
+      "date_modified": "2022-03-06T18:32:28.317751-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43807/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44459/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6226/?format=json",
+      "id": 6226,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14126/?format=json",
+      "date_created": "2022-03-06T18:32:28.295837-08:00",
+      "date_modified": "2022-03-06T18:32:28.295860-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6227/?format=json",
+      "id": 6227,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14126/?format=json",
+      "date_created": "2022-03-06T18:32:28.301843-08:00",
+      "date_modified": "2022-03-06T18:32:28.301866-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:09.145818-07:00",
+  "date_modified": "2022-03-20T19:18:23.748501-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "katherine-e-lewis",
+  "name_first": "Katherine",
+  "name_middle": "E.",
+  "name_last": "Lewis",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

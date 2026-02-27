@@ -1,0 +1,51 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5387/?format=json",
+  "id": 5387,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27393/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4313/?format=json",
+      "id": 4313,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5387/?format=json",
+      "date_created": "2016-04-20T08:26:15.704447-07:00",
+      "date_modified": "2016-04-20T08:26:15.704481-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:15.678746-07:00",
+  "date_modified": "2020-11-25T08:30:19.398936-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "william-michael-oneill",
+  "name_first": "William",
+  "name_middle": "Michael",
+  "name_last": "O'Neill",
+  "name_suffix": "",
+  "date_dob": "1947-05-06",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": 119735.35,
+  "ftm_eid": "2901848",
+  "has_photo": true
+}

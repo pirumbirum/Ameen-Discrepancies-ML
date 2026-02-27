@@ -1,0 +1,120 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8660/?format=json",
+  "id": 8660,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4366/?format=json",
+      "id": 4366,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8660/?format=json",
+      "date_created": "2019-09-22T15:32:17.336590-07:00",
+      "date_modified": "2019-09-22T15:32:17.336613-07:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2019-09-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2409/?format=json",
+      "id": 2409,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8660/?format=json",
+      "date_created": "2019-09-22T15:32:17.333409-07:00",
+      "date_modified": "2019-09-22T15:32:17.333431-07:00",
+      "year_rated": 2019,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6901/?format=json",
+      "id": 6901,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3892/?format=json",
+        "id": 3892,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Columbia University in the City of New York",
+        "ein": 603800000
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8660/?format=json",
+      "date_created": "2019-09-22T15:32:17.351821-07:00",
+      "date_modified": "2019-09-22T15:32:17.351847-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 2004
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6902/?format=json",
+      "id": 6902,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8660/?format=json",
+      "date_created": "2019-09-22T15:32:17.368518-07:00",
+      "date_modified": "2019-09-22T15:32:17.368542-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 2007
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/34618/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34620/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34621/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34622/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34623/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34624/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34625/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34619/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5009/?format=json",
+      "id": 5009,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8660/?format=json",
+      "date_created": "2019-09-22T15:32:17.328364-07:00",
+      "date_modified": "2019-09-22T15:32:17.328391-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2019-01-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2019-09-22T15:32:17.287640-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 6244926,
+  "slug": "roy-kalman-altman",
+  "name_first": "Roy",
+  "name_middle": "Kalman",
+  "name_last": "Altman",
+  "name_suffix": "",
+  "date_dob": "1982-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Caracas",
+  "dob_state": "",
+  "dob_country": "Venezuela",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

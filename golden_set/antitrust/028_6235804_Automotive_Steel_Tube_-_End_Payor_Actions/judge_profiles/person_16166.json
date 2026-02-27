@@ -1,0 +1,178 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/16166/?format=json",
+  "id": 16166,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20510/?format=json",
+      "id": 20510,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16166/?format=json",
+      "date_created": "2022-08-08T11:27:57.660071-07:00",
+      "date_modified": "2022-08-08T11:27:57.660083-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-08-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20511/?format=json",
+      "id": 20511,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16166/?format=json",
+      "date_created": "2022-08-08T11:27:57.661280-07:00",
+      "date_modified": "2022-08-08T11:27:57.661291-07:00",
+      "url": "https://ballotpedia.org/Denn_Whalen",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20512/?format=json",
+      "id": 20512,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16166/?format=json",
+      "date_created": "2022-08-08T11:27:57.661984-07:00",
+      "date_modified": "2022-08-08T11:27:57.661994-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=191723",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20513/?format=json",
+      "id": 20513,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16166/?format=json",
+      "date_created": "2022-08-08T11:27:57.662634-07:00",
+      "date_modified": "2022-08-08T11:27:57.662644-07:00",
+      "url": "https://trellis.law/judge/denn.whalen",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20514/?format=json",
+      "id": 20514,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16166/?format=json",
+      "date_created": "2022-08-08T11:27:57.663331-07:00",
+      "date_modified": "2022-08-08T11:27:57.663342-07:00",
+      "url": "https://www.co.ector.tx.us/page/ector.JudgeWhalen",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20515/?format=json",
+      "id": 20515,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16166/?format=json",
+      "date_created": "2022-08-08T11:27:57.664078-07:00",
+      "date_modified": "2022-08-08T11:27:57.664091-07:00",
+      "url": "https://www.martindale.com/attorney/mr-denn-whalen-1697380/",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20516/?format=json",
+      "id": 20516,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16166/?format=json",
+      "date_created": "2022-08-08T11:27:57.664803-07:00",
+      "date_modified": "2022-08-08T11:27:57.664813-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=21951&office=19491https://www.txdirectory.com/online/person/?id=21951&office=19491",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20517/?format=json",
+      "id": 20517,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16166/?format=json",
+      "date_created": "2022-08-08T11:27:57.665473-07:00",
+      "date_modified": "2022-08-08T11:27:57.665483-07:00",
+      "url": "",
+      "date_accessed": "2022-08-08",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12786/?format=json",
+      "id": 12786,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16166/?format=json",
+      "date_created": "2022-08-08T11:27:57.647011-07:00",
+      "date_modified": "2022-08-08T11:27:57.647023-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1979
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12787/?format=json",
+      "id": 12787,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3164/?format=json",
+        "id": 3164,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Tech University",
+        "ein": 756002622
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16166/?format=json",
+      "date_created": "2022-08-08T11:27:57.653661-07:00",
+      "date_modified": "2022-08-08T11:27:57.653674-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1982
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/52400/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52401/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52402/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52403/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52404/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52405/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8506/?format=json",
+      "id": 8506,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16166/?format=json",
+      "date_created": "2022-08-08T11:27:57.655897-07:00",
+      "date_modified": "2022-08-08T11:27:57.655909-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-08-08T11:27:57.596965-07:00",
+  "date_modified": "2022-08-08T11:31:22.289758-07:00",
+  "date_completed": "2022-08-08T11:20:13-07:00",
+  "fjc_id": null,
+  "slug": "w-denn-whalen",
+  "name_first": "W.",
+  "name_middle": "Denn",
+  "name_last": "Whalen",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

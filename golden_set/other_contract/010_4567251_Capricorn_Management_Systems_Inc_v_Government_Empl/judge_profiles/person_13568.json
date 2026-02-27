@@ -1,0 +1,173 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13568/?format=json",
+  "id": 13568,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7193/?format=json",
+      "id": 7193,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13568/?format=json",
+      "date_created": "2022-02-15T17:20:27.031074-08:00",
+      "date_modified": "2022-02-15T17:20:27.031097-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-15",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7194/?format=json",
+      "id": 7194,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13568/?format=json",
+      "date_created": "2022-02-15T17:20:27.036288-08:00",
+      "date_modified": "2022-02-15T17:20:27.036311-08:00",
+      "url": "https://trellis.law/judge/jason.b.chin",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7195/?format=json",
+      "id": 7195,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13568/?format=json",
+      "date_created": "2022-02-15T17:20:27.040260-08:00",
+      "date_modified": "2022-02-15T17:20:27.040283-08:00",
+      "url": "https://www.martindale.com/attorney/jason-barrett-chin-168921104/",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7196/?format=json",
+      "id": 7196,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13568/?format=json",
+      "date_created": "2022-02-15T17:20:27.044121-08:00",
+      "date_modified": "2022-02-15T17:20:27.044144-08:00",
+      "url": "https://ballotpedia.org/Jason_Chin",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7197/?format=json",
+      "id": 7197,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13568/?format=json",
+      "date_created": "2022-02-15T17:20:27.048210-08:00",
+      "date_modified": "2022-02-15T17:20:27.048232-08:00",
+      "url": "https://law.pepperdine.edu/surf-report/posts/jason-b-chin-jd-02-appointed-to-alameda-county-superior-court-judgeship.htm",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7198/?format=json",
+      "id": 7198,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13568/?format=json",
+      "date_created": "2022-02-15T17:20:27.052381-08:00",
+      "date_modified": "2022-02-15T17:20:27.052404-08:00",
+      "url": "https://www.dailycal.org/2018/11/04/gov-jerry-brown-appoints-jason-chin-as-alameda-county-superior-court-judge/",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7199/?format=json",
+      "id": 7199,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13568/?format=json",
+      "date_created": "2022-02-15T17:20:27.056467-08:00",
+      "date_modified": "2022-02-15T17:20:27.056490-08:00",
+      "url": "https://www.imperialvalleynews.com/index.php/8-news/16876-governor-brown-appoints-6-superior-court-judges.html",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7200/?format=json",
+      "id": 7200,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13568/?format=json",
+      "date_created": "2022-02-15T17:20:27.065401-08:00",
+      "date_modified": "2022-02-15T17:20:27.065425-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-15",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7428/?format=json",
+      "id": 7428,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2832/?format=json",
+        "id": 2832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-San Diego",
+        "ein": 956006144
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13568/?format=json",
+      "date_created": "2022-02-15T17:20:27.010292-08:00",
+      "date_modified": "2022-02-15T17:20:27.010318-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7429/?format=json",
+      "id": 7429,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3219/?format=json",
+        "id": 3219,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Pepperdine University",
+        "ein": 951644037
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13568/?format=json",
+      "date_created": "2022-02-15T17:20:27.018670-08:00",
+      "date_modified": "2022-02-15T17:20:27.018694-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2002
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43110/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5358/?format=json",
+      "id": 5358,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13568/?format=json",
+      "date_created": "2022-02-15T17:20:27.025651-08:00",
+      "date_modified": "2022-02-15T17:20:27.025685-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:44.384944-07:00",
+  "date_modified": "2022-02-15T17:20:26.992473-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jason-barrett-chin",
+  "name_first": "Jason",
+  "name_middle": "Barrett",
+  "name_last": "Chin",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

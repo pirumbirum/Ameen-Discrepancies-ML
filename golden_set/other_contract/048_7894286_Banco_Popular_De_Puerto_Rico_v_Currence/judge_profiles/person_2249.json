@@ -1,0 +1,149 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2249/?format=json",
+  "id": 2249,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1384/?format=json",
+      "id": 1384,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2249/?format=json",
+      "date_created": "2016-04-20T08:21:02.561406-07:00",
+      "date_modified": "2016-04-20T08:21:02.561429-07:00",
+      "year_rated": 2007,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1861/?format=json",
+      "id": 1861,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1404/?format=json",
+        "id": 1404,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Central Arkansas",
+        "ein": 716001828
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2249/?format=json",
+      "date_created": "2016-04-20T08:21:02.597432-07:00",
+      "date_modified": "2016-04-20T08:21:02.597465-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1862/?format=json",
+      "id": 1862,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3776/?format=json",
+        "id": 3776,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Vanderbilt University",
+        "ein": 620476822
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2249/?format=json",
+      "date_created": "2016-04-20T08:21:02.626349-07:00",
+      "date_modified": "2016-04-20T08:21:02.626379-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1995
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5355/?format=json",
+      "id": 5355,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1404/?format=json",
+        "id": 1404,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Central Arkansas",
+        "ein": 716001828
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2249/?format=json",
+      "date_created": "2016-04-20T08:27:26.989242-07:00",
+      "date_modified": "2016-04-20T08:27:26.989265-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5356/?format=json",
+      "id": 5356,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3776/?format=json",
+        "id": 3776,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Vanderbilt University",
+        "ein": 620476822
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2249/?format=json",
+      "date_created": "2016-04-20T08:27:27.010572-07:00",
+      "date_modified": "2016-04-20T08:27:27.010595-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14066/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14067/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14068/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14069/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14070/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14071/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14072/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29856/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29857/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29858/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2256/?format=json",
+      "id": 2256,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2249/?format=json",
+      "date_created": "2016-04-20T08:21:02.554207-07:00",
+      "date_modified": "2016-04-20T08:21:02.554236-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2007-10-16",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:02.516325-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3170,
+  "slug": "brian-stacy-miller",
+  "name_first": "Brian",
+  "name_middle": "Stacy",
+  "name_last": "Miller",
+  "name_suffix": "",
+  "date_dob": "1967-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Pine Bluff",
+  "dob_state": "AR",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

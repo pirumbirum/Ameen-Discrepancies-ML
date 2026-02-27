@@ -1,0 +1,124 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12653/?format=json",
+  "id": 12653,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6784/?format=json",
+      "id": 6784,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12653/?format=json",
+      "date_created": "2022-02-13T07:25:54.696136-08:00",
+      "date_modified": "2022-02-13T07:25:54.696159-08:00",
+      "url": "https://www.martindale.com/attorney/kevin-lamont-brown-122469/",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6785/?format=json",
+      "id": 6785,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12653/?format=json",
+      "date_created": "2022-02-13T07:25:54.701993-08:00",
+      "date_modified": "2022-02-13T07:25:54.702016-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-13",
+      "notes": "American Bench, 2021"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6786/?format=json",
+      "id": 6786,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12653/?format=json",
+      "date_created": "2022-02-13T07:25:54.710924-08:00",
+      "date_modified": "2022-02-13T08:59:12.474923-08:00",
+      "url": "https://trellis.law/judge/kevin.l.brown",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6832/?format=json",
+      "id": 6832,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12653/?format=json",
+      "date_created": "2022-02-13T08:59:12.483831-08:00",
+      "date_modified": "2022-02-13T10:44:59.223185-08:00",
+      "url": "https://ballotpedia.org/Kevin_L._Brown",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6867/?format=json",
+      "id": 6867,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12653/?format=json",
+      "date_created": "2022-02-13T10:44:59.236969-08:00",
+      "date_modified": "2022-02-13T10:44:59.236998-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-13",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7287/?format=json",
+      "id": 7287,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2322/?format=json",
+        "id": 2322,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Hampton University",
+        "ein": 540505990
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12653/?format=json",
+      "date_created": "2022-02-13T07:25:54.689080-08:00",
+      "date_modified": "2022-02-13T07:25:54.689109-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1977
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/41679/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5257/?format=json",
+      "id": 5257,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12653/?format=json",
+      "date_created": "2022-02-13T07:48:54.474954-08:00",
+      "date_modified": "2022-02-13T07:48:54.474979-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:09:57.996885-07:00",
+  "date_modified": "2022-02-13T10:44:59.214357-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "kevin-lamont-brown",
+  "name_first": "Kevin",
+  "name_middle": "LaMont",
+  "name_last": "Brown",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "01/01/1958",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

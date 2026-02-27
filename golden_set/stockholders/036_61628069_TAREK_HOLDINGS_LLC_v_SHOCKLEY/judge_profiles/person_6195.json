@@ -1,0 +1,111 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6195/?format=json",
+  "id": 6195,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2526/?format=json",
+      "id": 2526,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6195/?format=json",
+      "date_created": "2016-04-20T08:27:20.915534-07:00",
+      "date_modified": "2016-04-20T08:27:20.915559-07:00",
+      "url": "http://www.apltwo.ct.state.az.us/courtInformation.cfm",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2527/?format=json",
+      "id": 2527,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6195/?format=json",
+      "date_created": "2016-04-20T08:27:20.921296-07:00",
+      "date_modified": "2016-04-20T08:27:20.921321-07:00",
+      "url": "http://archive.azcentral.com/ic/pdf/brewer-judge-appointments.pdf",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5251/?format=json",
+      "id": 5251,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5867/?format=json",
+        "id": 5867,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Arizona",
+        "ein": 866004791
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6195/?format=json",
+      "date_created": "2016-04-20T08:27:20.884123-07:00",
+      "date_modified": "2016-04-20T08:27:20.884153-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5252/?format=json",
+      "id": 5252,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5867/?format=json",
+        "id": 5867,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Arizona",
+        "ein": 866004791
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6195/?format=json",
+      "date_created": "2016-04-20T08:27:20.901795-07:00",
+      "date_modified": "2016-04-20T08:27:20.901825-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/29645/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4713/?format=json",
+      "id": 4713,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6195/?format=json",
+      "date_created": "2016-04-20T08:27:20.909534-07:00",
+      "date_modified": "2016-04-20T08:27:20.909563-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:20.854197-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "philip-g-espinosa",
+  "name_first": "Philip",
+  "name_middle": "G.",
+  "name_last": "Espinosa",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

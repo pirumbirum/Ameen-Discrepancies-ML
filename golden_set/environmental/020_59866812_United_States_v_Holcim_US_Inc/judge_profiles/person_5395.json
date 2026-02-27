@@ -1,0 +1,86 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5395/?format=json",
+  "id": 5395,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1557/?format=json",
+      "id": 1557,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5395/?format=json",
+      "date_created": "2016-04-20T08:26:16.387534-07:00",
+      "date_modified": "2016-04-20T08:26:16.387562-07:00",
+      "url": "http://www.sos.state.oh.us/sos/elections/Research/electResultsMain/HistoricalElectionComparisons/Justices%20of%20the%20Supreme%20Court%20of%20Ohio%201787%20-%20present.aspx",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4439/?format=json",
+      "id": 4439,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2170/?format=json",
+        "id": 2170,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Kenyon College",
+        "ein": 314379507
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5395/?format=json",
+      "date_created": "2016-04-20T08:26:16.328184-07:00",
+      "date_modified": "2016-04-20T08:26:16.328223-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27416/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27417/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27418/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/38211/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/38212/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4320/?format=json",
+      "id": 4320,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5395/?format=json",
+      "date_created": "2016-04-20T08:26:16.381523-07:00",
+      "date_modified": "2016-04-20T08:26:16.381555-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:16.283185-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "james-garfield-stewart",
+  "name_first": "James",
+  "name_middle": "Garfield",
+  "name_last": "Stewart",
+  "name_suffix": "",
+  "date_dob": "1880-11-17",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1959-04-03",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,200 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15739/?format=json",
+  "id": 15739,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18284/?format=json",
+      "id": 18284,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15739/?format=json",
+      "date_created": "2022-07-11T09:04:15.698044-07:00",
+      "date_modified": "2022-07-11T09:04:15.698107-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-11",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18285/?format=json",
+      "id": 18285,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15739/?format=json",
+      "date_created": "2022-07-11T09:34:32.206637-07:00",
+      "date_modified": "2022-07-11T09:34:32.206655-07:00",
+      "url": "https://co.jefferson.tx.us/ccourts/cc2.htm",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18286/?format=json",
+      "id": 18286,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15739/?format=json",
+      "date_created": "2022-07-11T09:34:32.241986-07:00",
+      "date_modified": "2022-07-11T09:34:32.242015-07:00",
+      "url": "https://ballotpedia.org/Terrence_Holmes",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18287/?format=json",
+      "id": 18287,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15739/?format=json",
+      "date_created": "2022-07-11T09:34:32.242886-07:00",
+      "date_modified": "2022-07-11T09:34:32.242902-07:00",
+      "url": "https://texashistory.unt.edu/ark:/67531/metapth984543/",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18288/?format=json",
+      "id": 18288,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15739/?format=json",
+      "date_created": "2022-07-11T09:34:32.250067-07:00",
+      "date_modified": "2022-07-11T09:34:32.250080-07:00",
+      "url": "https://docplayer.net/6705277-Judge-terrence-l-holmes.html",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18289/?format=json",
+      "id": 18289,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15739/?format=json",
+      "date_created": "2022-07-11T09:34:32.251636-07:00",
+      "date_modified": "2022-07-11T09:34:32.251653-07:00",
+      "url": "https://silo.tips/download/judge-terrence-l-holmes",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18290/?format=json",
+      "id": 18290,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15739/?format=json",
+      "date_created": "2022-07-11T09:34:32.252488-07:00",
+      "date_modified": "2022-07-11T09:34:32.252505-07:00",
+      "url": "https://www.beaumontenterprise.com/news/government/article/Crenshaw-resigns-Holmes-to-take-Jefferson-County-10682918.php",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18291/?format=json",
+      "id": 18291,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15739/?format=json",
+      "date_created": "2022-07-11T09:34:32.254810-07:00",
+      "date_modified": "2022-07-11T09:34:32.254827-07:00",
+      "url": "",
+      "date_accessed": "2022-07-11",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12159/?format=json",
+      "id": 12159,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4678/?format=json",
+        "id": 4678,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Prairie View A & M University",
+        "ein": 746001078
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15739/?format=json",
+      "date_created": "2022-07-11T09:04:15.617659-07:00",
+      "date_modified": "2022-07-11T09:33:10.845625-07:00",
+      "degree_level": "ma",
+      "degree_detail": "Soil Science",
+      "degree_year": 1982
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12158/?format=json",
+      "id": 12158,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/404/?format=json",
+        "id": 404,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southern University Law Center",
+        "ein": 726000817
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15739/?format=json",
+      "date_created": "2022-07-11T09:04:15.530475-07:00",
+      "date_modified": "2022-07-11T09:34:32.205316-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Liberal Studies",
+      "degree_year": 1980
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12160/?format=json",
+      "id": 12160,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2485/?format=json",
+        "id": 2485,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Southern University",
+        "ein": 746001391
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15739/?format=json",
+      "date_created": "2022-07-11T09:04:15.622811-07:00",
+      "date_modified": "2022-07-11T09:37:35.384840-07:00",
+      "degree_level": "jd",
+      "degree_detail": "magna cum laude",
+      "degree_year": 1990
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50580/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50581/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50582/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50583/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50584/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50585/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50586/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50587/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50588/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8224/?format=json",
+      "id": 8224,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15739/?format=json",
+      "date_created": "2022-07-11T09:04:15.625746-07:00",
+      "date_modified": "2022-07-11T09:04:15.625762-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-11T09:04:15.320391-07:00",
+  "date_modified": "2022-07-11T10:12:04.450467-07:00",
+  "date_completed": "2022-07-11T08:51:07-07:00",
+  "fjc_id": null,
+  "slug": "terrence-l-holmes",
+  "name_first": "Terrence",
+  "name_middle": "L.",
+  "name_last": "Holmes",
+  "name_suffix": "",
+  "date_dob": "1956-11-05",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Houma",
+  "dob_state": "LA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

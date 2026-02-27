@@ -1,0 +1,63 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6210/?format=json",
+  "id": 6210,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2548/?format=json",
+      "id": 2548,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6210/?format=json",
+      "date_created": "2016-04-20T08:27:21.996443-07:00",
+      "date_modified": "2016-04-20T08:27:21.996480-07:00",
+      "url": "http://www.legacy.com/obituaries/tucson/obituary.aspx?pid=172526400",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/29680/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29681/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4719/?format=json",
+      "id": 4719,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6210/?format=json",
+      "date_created": "2016-04-20T08:27:21.989807-07:00",
+      "date_modified": "2016-04-20T08:27:21.989849-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:21.919374-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "joseph-w-howard",
+  "name_first": "Joseph",
+  "name_middle": "W.",
+  "name_last": "Howard",
+  "name_suffix": "",
+  "date_dob": "1950-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

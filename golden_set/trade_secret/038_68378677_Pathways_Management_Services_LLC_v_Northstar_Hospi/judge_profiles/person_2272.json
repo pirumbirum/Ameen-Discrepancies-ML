@@ -1,0 +1,92 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2272/?format=json",
+  "id": 2272,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1398/?format=json",
+      "id": 1398,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2272/?format=json",
+      "date_created": "2016-04-20T08:21:05.673071-07:00",
+      "date_modified": "2016-04-20T08:21:05.673106-07:00",
+      "year_rated": 1979,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1885/?format=json",
+      "id": 1885,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/796/?format=json",
+        "id": 796,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Bowdoin College",
+        "ein": 10215213
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2272/?format=json",
+      "date_created": "2016-04-20T08:21:05.689806-07:00",
+      "date_modified": "2016-04-20T08:21:05.689855-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1954
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14196/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14197/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14198/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14199/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14200/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14201/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14202/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14203/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14204/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14205/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2279/?format=json",
+      "id": 2279,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2272/?format=json",
+      "date_created": "2016-04-20T08:21:05.665786-07:00",
+      "date_modified": "2016-04-20T08:21:05.665826-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1979-07-31",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:05.626340-07:00",
+  "date_modified": "2020-11-25T08:30:22.346662-08:00",
+  "date_completed": null,
+  "fjc_id": 1660,
+  "slug": "george-john-mitchell",
+  "name_first": "George",
+  "name_middle": "John",
+  "name_last": "Mitchell",
+  "name_suffix": "",
+  "date_dob": "1933-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Waterville",
+  "dob_state": "ME",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

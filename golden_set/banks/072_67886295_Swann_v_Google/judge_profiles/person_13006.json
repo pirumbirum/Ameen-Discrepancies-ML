@@ -1,0 +1,143 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13006/?format=json",
+  "id": 13006,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10206/?format=json",
+      "id": 10206,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13006/?format=json",
+      "date_created": "2022-03-06T17:27:37.809410-08:00",
+      "date_modified": "2022-03-06T17:27:37.809442-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10207/?format=json",
+      "id": 10207,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13006/?format=json",
+      "date_created": "2022-03-06T17:27:37.818003-08:00",
+      "date_modified": "2022-03-06T17:27:37.818045-08:00",
+      "url": "https://trellis.law/judge-dashboard/352/bio",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10208/?format=json",
+      "id": 10208,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13006/?format=json",
+      "date_created": "2022-03-06T17:27:37.825676-08:00",
+      "date_modified": "2022-03-06T17:27:37.825702-08:00",
+      "url": "https://www.martindale.com/attorney/jo-lynne-quong-lee-2172652/",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10209/?format=json",
+      "id": 10209,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13006/?format=json",
+      "date_created": "2022-03-06T17:27:37.833103-08:00",
+      "date_modified": "2022-03-06T17:27:37.833130-08:00",
+      "url": "https://ballotpedia.org/Jo-Lynne_Q._Lee",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10210/?format=json",
+      "id": 10210,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13006/?format=json",
+      "date_created": "2022-03-06T17:27:37.845751-08:00",
+      "date_modified": "2022-03-06T17:27:37.845793-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-06",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8715/?format=json",
+      "id": 8715,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/740/?format=json",
+        "id": 740,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "CUNY Brooklyn College",
+        "ein": 133893536
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13006/?format=json",
+      "date_created": "2022-03-06T17:27:37.791883-08:00",
+      "date_modified": "2022-03-06T17:27:37.791911-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1971
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8716/?format=json",
+      "id": 8716,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3892/?format=json",
+        "id": 3892,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Columbia University in the City of New York",
+        "ein": 603800000
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13006/?format=json",
+      "date_created": "2022-03-06T17:27:37.802148-08:00",
+      "date_modified": "2022-03-06T17:27:37.802181-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1974
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42317/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6208/?format=json",
+      "id": 6208,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13006/?format=json",
+      "date_created": "2022-03-06T17:27:37.783317-08:00",
+      "date_modified": "2022-03-06T17:27:37.783346-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:17.794436-07:00",
+  "date_modified": "2022-03-20T19:02:57.393491-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jo-lynne-quong-lee",
+  "name_first": "Jo-Lynne",
+  "name_middle": "Quong",
+  "name_last": "Lee",
+  "name_suffix": "",
+  "date_dob": "1950-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

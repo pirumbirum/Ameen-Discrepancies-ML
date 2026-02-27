@@ -1,0 +1,77 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/472/?format=json",
+  "id": 472,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/370/?format=json",
+      "id": 370,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3858/?format=json",
+        "id": 3858,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tulane University of Louisiana",
+        "ein": 720423889
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/472/?format=json",
+      "date_created": "2016-04-20T08:16:52.206964-07:00",
+      "date_modified": "2016-04-20T08:16:52.206986-07:00",
+      "degree_level": "llb",
+      "degree_detail": "LL.B.",
+      "degree_year": 1904
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/2754/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2755/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2756/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2757/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2758/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/474/?format=json",
+      "id": 474,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/472/?format=json",
+      "date_created": "2016-04-20T08:16:52.177777-07:00",
+      "date_modified": "2016-04-20T08:16:52.177798-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1925-12-08",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:52.150266-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 325,
+  "slug": "louis-henry-burns",
+  "name_first": "Louis",
+  "name_middle": "Henry",
+  "name_last": "Burns",
+  "name_suffix": "",
+  "date_dob": "1878-05-11",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1928-06-09",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "New Orleans",
+  "dob_state": "LA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

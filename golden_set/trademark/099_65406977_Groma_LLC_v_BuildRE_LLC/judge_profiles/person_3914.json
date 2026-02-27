@@ -1,0 +1,64 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3914/?format=json",
+  "id": 3914,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/80/?format=json",
+      "id": 80,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3914/?format=json",
+      "date_created": "2016-04-20T08:24:29.731292-07:00",
+      "date_modified": "2016-04-20T08:24:29.731313-07:00",
+      "url": "http://www.inmanflynn.com/assets/files/Kelley-Profile.pdf",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23385/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23386/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23387/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3756/?format=json",
+      "id": 3756,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3914/?format=json",
+      "date_created": "2016-04-20T08:24:29.725726-07:00",
+      "date_modified": "2016-04-20T08:24:29.725756-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:29.660807-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "donald-e-kelley",
+  "name_first": "Donald",
+  "name_middle": "E.",
+  "name_last": "Kelley",
+  "name_suffix": "",
+  "date_dob": "1908-01-29",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1995-01-01",
+  "date_granularity_dod": "%Y",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

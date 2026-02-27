@@ -1,0 +1,141 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14418/?format=json",
+  "id": 14418,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6089/?format=json",
+      "id": 6089,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14418/?format=json",
+      "date_created": "2021-11-22T12:55:34.683830-08:00",
+      "date_modified": "2021-11-22T12:55:34.683863-08:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2021-11-22",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6090/?format=json",
+      "id": 6090,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14418/?format=json",
+      "date_created": "2021-11-22T12:55:34.732243-08:00",
+      "date_modified": "2021-11-22T12:55:34.732266-08:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2021-11-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2419/?format=json",
+      "id": 2419,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14418/?format=json",
+      "date_created": "2021-11-22T12:55:34.679379-08:00",
+      "date_modified": "2021-11-22T12:55:34.679415-08:00",
+      "year_rated": 2019,
+      "rating": "nq"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2420/?format=json",
+      "id": 2420,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14418/?format=json",
+      "date_created": "2021-11-22T12:55:34.728080-08:00",
+      "date_modified": "2021-11-22T12:55:34.728104-08:00",
+      "year_rated": 2020,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6956/?format=json",
+      "id": 6956,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1749/?format=json",
+        "id": 1749,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Duke University",
+        "ein": 560532129
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14418/?format=json",
+      "date_created": "2021-11-22T12:55:34.748966-08:00",
+      "date_modified": "2021-11-22T12:55:34.748990-08:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 2004
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6957/?format=json",
+      "id": 6957,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14418/?format=json",
+      "date_created": "2021-11-22T12:55:34.767509-08:00",
+      "date_modified": "2021-11-22T12:55:34.767533-08:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 2009
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44184/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44185/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44186/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44187/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44188/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44189/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44190/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44191/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44192/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44193/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5019/?format=json",
+      "id": 5019,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14418/?format=json",
+      "date_created": "2021-11-22T12:55:34.673152-08:00",
+      "date_modified": "2021-11-22T12:55:34.673180-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2019-06-24",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-11-22T12:55:34.623538-08:00",
+  "date_modified": "2021-11-22T12:55:34.623571-08:00",
+  "date_completed": null,
+  "fjc_id": 7263221,
+  "slug": "justin-reed-walker",
+  "name_first": "Justin",
+  "name_middle": "Reed",
+  "name_last": "Walker",
+  "name_suffix": "",
+  "date_dob": "1982-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Louisville",
+  "dob_state": "KY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

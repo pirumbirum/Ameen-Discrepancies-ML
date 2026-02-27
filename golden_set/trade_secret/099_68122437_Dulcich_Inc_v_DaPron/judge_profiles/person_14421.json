@@ -1,0 +1,122 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14421/?format=json",
+  "id": 14421,
+  "race": [
+    "b",
+    "i"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6093/?format=json",
+      "id": 6093,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14421/?format=json",
+      "date_created": "2021-11-22T12:55:35.221257-08:00",
+      "date_modified": "2021-11-22T12:55:35.221280-08:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2021-11-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2423/?format=json",
+      "id": 2423,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14421/?format=json",
+      "date_created": "2021-11-22T12:55:35.217231-08:00",
+      "date_modified": "2021-11-22T12:55:35.217256-08:00",
+      "year_rated": 2019,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6961/?format=json",
+      "id": 6961,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/276/?format=json",
+        "id": 276,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Spelman College",
+        "ein": 580566243
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14421/?format=json",
+      "date_created": "2021-11-22T12:55:35.238852-08:00",
+      "date_modified": "2021-11-22T12:55:35.238878-08:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1996
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6962/?format=json",
+      "id": 6962,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/265/?format=json",
+        "id": 265,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Emory University",
+        "ein": 580566256
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14421/?format=json",
+      "date_created": "2021-11-22T12:55:35.256458-08:00",
+      "date_modified": "2021-11-22T12:55:35.256486-08:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1999
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44207/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44208/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44209/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44210/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44211/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44212/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44213/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44214/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44215/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5022/?format=json",
+      "id": 5022,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14421/?format=json",
+      "date_created": "2021-11-22T12:55:35.211619-08:00",
+      "date_modified": "2021-11-22T12:55:35.211642-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2019-03-26",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-11-22T12:55:35.156413-08:00",
+  "date_modified": "2021-11-22T12:55:35.156491-08:00",
+  "date_completed": null,
+  "fjc_id": 7049261,
+  "slug": "ada-elene-brown",
+  "name_first": "Ada",
+  "name_middle": "Elene",
+  "name_last": "Brown",
+  "name_suffix": "",
+  "date_dob": "1974-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Oklahoma City",
+  "dob_state": "OK",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

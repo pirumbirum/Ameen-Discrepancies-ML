@@ -1,0 +1,188 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/16148/?format=json",
+  "id": 16148,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20422/?format=json",
+      "id": 20422,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16148/?format=json",
+      "date_created": "2022-08-05T12:59:36.283220-07:00",
+      "date_modified": "2022-08-05T12:59:36.283236-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-08-05",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20423/?format=json",
+      "id": 20423,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16148/?format=json",
+      "date_created": "2022-08-05T13:16:30.290527-07:00",
+      "date_modified": "2022-08-05T13:16:30.290542-07:00",
+      "url": "https://www.txcourts.gov/2ndcoa/about-the-court/justices/justice-brian-walker/#:~:text=Justice%20Walker%20is%20a%20former,and%20Tinker%20AFB%20(Oklahoma).",
+      "date_accessed": "2022-08-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20424/?format=json",
+      "id": 20424,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16148/?format=json",
+      "date_created": "2022-08-05T13:16:30.296001-07:00",
+      "date_modified": "2022-08-05T13:16:30.296016-07:00",
+      "url": "https://ballotpedia.org/Brian_Walker_(Texas)",
+      "date_accessed": "2022-08-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20425/?format=json",
+      "id": 20425,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16148/?format=json",
+      "date_created": "2022-08-05T13:16:30.296519-07:00",
+      "date_modified": "2022-08-05T13:16:30.296530-07:00",
+      "url": "https://www.law.uh.edu/news/spring2021/0322walker.asp",
+      "date_accessed": "2022-08-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20426/?format=json",
+      "id": 20426,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16148/?format=json",
+      "date_created": "2022-08-05T13:16:30.296953-07:00",
+      "date_modified": "2022-08-05T13:16:30.296963-07:00",
+      "url": "https://www.potawatomi.org/blog/2021/08/31/like-father-like-son/",
+      "date_accessed": "2022-08-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20427/?format=json",
+      "id": 20427,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16148/?format=json",
+      "date_created": "2022-08-05T13:16:30.297368-07:00",
+      "date_modified": "2022-08-05T13:16:30.297378-07:00",
+      "url": "http://voteforwalker.com/",
+      "date_accessed": "2022-08-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20428/?format=json",
+      "id": 20428,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16148/?format=json",
+      "date_created": "2022-08-05T13:16:30.297973-07:00",
+      "date_modified": "2022-08-05T13:16:30.297983-07:00",
+      "url": "",
+      "date_accessed": "2022-08-05",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12758/?format=json",
+      "id": 12758,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5258/?format=json",
+        "id": 5258,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas State University",
+        "ein": 746002248
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16148/?format=json",
+      "date_created": "2022-08-05T12:59:36.272433-07:00",
+      "date_modified": "2022-08-05T12:59:36.272448-07:00",
+      "degree_level": "ba",
+      "degree_detail": "magna cum laude",
+      "degree_year": 2000
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12759/?format=json",
+      "id": 12759,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2480/?format=json",
+        "id": 2480,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Houston",
+        "ein": 746001399
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16148/?format=json",
+      "date_created": "2022-08-05T12:59:36.277805-07:00",
+      "date_modified": "2022-08-05T12:59:36.277825-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2003
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12760/?format=json",
+      "id": 12760,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4044/?format=json",
+        "id": 4044,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Oklahoma-Norman Campus",
+        "ein": 736017987
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16148/?format=json",
+      "date_created": "2022-08-05T13:16:30.283371-07:00",
+      "date_modified": "2022-08-05T13:16:30.283391-07:00",
+      "degree_level": "ma",
+      "degree_detail": "International Relations",
+      "degree_year": 2018
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/52311/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52312/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52313/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52314/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52315/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52316/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52317/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8492/?format=json",
+      "id": 8492,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16148/?format=json",
+      "date_created": "2022-08-05T12:59:36.281463-07:00",
+      "date_modified": "2022-08-05T12:59:36.281481-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-08-05T12:59:36.255819-07:00",
+  "date_modified": "2022-08-05T13:33:21.869051-07:00",
+  "date_completed": "2022-08-05T12:57:30-07:00",
+  "fjc_id": null,
+  "slug": "brian-k-walker",
+  "name_first": "Brian",
+  "name_middle": "K.",
+  "name_last": "Walker",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Dallas",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

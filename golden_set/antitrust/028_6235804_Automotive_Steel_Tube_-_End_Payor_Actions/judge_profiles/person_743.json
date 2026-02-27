@@ -1,0 +1,76 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/743/?format=json",
+  "id": 743,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/447/?format=json",
+      "id": 447,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/743/?format=json",
+      "date_created": "2016-04-20T08:17:29.477926-07:00",
+      "date_modified": "2016-04-20T08:17:29.477948-07:00",
+      "year_rated": 1981,
+      "rating": "q"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/448/?format=json",
+      "id": 448,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/743/?format=json",
+      "date_created": "2016-04-20T08:17:29.504532-07:00",
+      "date_modified": "2016-04-20T08:17:29.504571-07:00",
+      "year_rated": 1987,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/4494/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4495/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4496/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4497/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4493/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/748/?format=json",
+      "id": 748,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/743/?format=json",
+      "date_created": "2016-04-20T08:17:29.470995-07:00",
+      "date_modified": "2016-04-20T08:17:29.471020-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1981-10-14",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:29.440779-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 522,
+  "slug": "emmett-ripley-cox",
+  "name_first": "Emmett",
+  "name_middle": "Ripley",
+  "name_last": "Cox",
+  "name_suffix": "",
+  "date_dob": "1935-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Cottonwood",
+  "dob_state": "AL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

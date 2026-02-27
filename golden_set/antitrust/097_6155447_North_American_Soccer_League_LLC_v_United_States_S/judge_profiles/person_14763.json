@@ -1,0 +1,141 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14763/?format=json",
+  "id": 14763,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14307/?format=json",
+      "id": 14307,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14763/?format=json",
+      "date_created": "2022-04-05T12:55:15.573483-07:00",
+      "date_modified": "2022-04-05T12:55:15.573504-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=VRwDBEIv/JGFPxgL/Tpfjw%3D%3D",
+      "date_accessed": "2022-04-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14308/?format=json",
+      "id": 14308,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14763/?format=json",
+      "date_created": "2022-04-05T12:55:15.575117-07:00",
+      "date_modified": "2022-04-05T12:55:15.575138-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-05",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14309/?format=json",
+      "id": 14309,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14763/?format=json",
+      "date_created": "2022-04-05T12:55:15.576195-07:00",
+      "date_modified": "2022-04-05T12:55:15.576216-07:00",
+      "url": "https://ballotpedia.org/Doris_M._Gonzalez",
+      "date_accessed": "2022-04-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14310/?format=json",
+      "id": 14310,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14763/?format=json",
+      "date_created": "2022-04-05T12:55:15.577313-07:00",
+      "date_modified": "2022-04-05T12:55:15.577342-07:00",
+      "url": "https://www.schnepsmedia.com/power-women/hon-doris-gonzalez/",
+      "date_accessed": "2022-04-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14311/?format=json",
+      "id": 14311,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14763/?format=json",
+      "date_created": "2022-04-05T12:55:15.578254-07:00",
+      "date_modified": "2022-04-05T12:55:15.578272-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/Supreme_Court,_Bronx_County,_Criminal/Doris_Gonzalez/Doris_Gonzalez-935.xml",
+      "date_accessed": "2022-04-05",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10645/?format=json",
+      "id": 10645,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3073/?format=json",
+        "id": 3073,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "CUNY School of Law at Queens College",
+        "ein": 133893536
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14763/?format=json",
+      "date_created": "2022-04-05T12:55:15.564581-07:00",
+      "date_modified": "2022-04-05T12:55:15.564608-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10646/?format=json",
+      "id": 10646,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/719/?format=json",
+        "id": 719,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Fordham University",
+        "ein": 131740451
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14763/?format=json",
+      "date_created": "2022-04-05T12:55:15.569176-07:00",
+      "date_modified": "2022-04-05T12:55:15.569199-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7401/?format=json",
+      "id": 7401,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14763/?format=json",
+      "date_created": "2022-04-05T12:55:15.571718-07:00",
+      "date_modified": "2022-04-05T12:55:15.571740-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": "2016-11-08",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-05T12:55:15.551072-07:00",
+  "date_modified": "2022-04-05T12:55:15.551108-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "doris-m-gonzalez",
+  "name_first": "Doris",
+  "name_middle": "M.",
+  "name_last": "Gonzalez",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Brooklyn, New York City",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

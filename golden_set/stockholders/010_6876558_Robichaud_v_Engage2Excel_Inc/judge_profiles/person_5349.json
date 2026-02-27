@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5349/?format=json",
+  "id": 5349,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1517/?format=json",
+      "id": 1517,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5349/?format=json",
+      "date_created": "2016-04-20T08:26:12.188708-07:00",
+      "date_modified": "2016-04-20T08:26:12.188737-07:00",
+      "url": "http://www.supremecourt.ohio.gov/SCO/formerjustices/bios/bellCS.asp",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4412/?format=json",
+      "id": 4412,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2412/?format=json",
+        "id": 2412,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Northern Kentucky University",
+        "ein": 611010545
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5349/?format=json",
+      "date_created": "2016-04-20T08:26:12.165876-07:00",
+      "date_modified": "2016-04-20T08:26:12.165912-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27254/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27255/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27256/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:12.132560-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "edward-steele-bell",
+  "name_first": "Edward",
+  "name_middle": "Steele",
+  "name_last": "Bell",
+  "name_suffix": "",
+  "date_dob": "1880-10-08",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1965-05-06",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

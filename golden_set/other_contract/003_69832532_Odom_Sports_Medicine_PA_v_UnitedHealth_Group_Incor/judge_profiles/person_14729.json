@@ -1,0 +1,136 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14729/?format=json",
+  "id": 14729,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14166/?format=json",
+      "id": 14166,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14729/?format=json",
+      "date_created": "2022-04-04T15:25:00.562180-07:00",
+      "date_modified": "2022-04-04T15:25:00.562200-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=H1krwPM/avS0U5/cHm6rZw%3D%3D",
+      "date_accessed": "2022-04-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14167/?format=json",
+      "id": 14167,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14729/?format=json",
+      "date_created": "2022-04-04T15:25:00.564215-07:00",
+      "date_modified": "2022-04-04T15:25:00.564235-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-04",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14168/?format=json",
+      "id": 14168,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14729/?format=json",
+      "date_created": "2022-04-04T15:25:00.565443-07:00",
+      "date_modified": "2022-04-04T15:25:00.565464-07:00",
+      "url": "https://ballotpedia.org/Lyle_Frank",
+      "date_accessed": "2022-04-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14169/?format=json",
+      "id": 14169,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14729/?format=json",
+      "date_created": "2022-04-04T15:25:00.566633-07:00",
+      "date_modified": "2022-04-04T15:25:00.566653-07:00",
+      "url": "https://town-village.com/2015/04/06/former-community-board-chair-running-for-civil-court-judge/",
+      "date_accessed": "2022-04-04",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10579/?format=json",
+      "id": 10579,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/738/?format=json",
+        "id": 738,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Brooklyn Law School",
+        "ein": 237227990
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14729/?format=json",
+      "date_created": "2022-04-04T15:25:00.551772-07:00",
+      "date_modified": "2022-04-04T15:25:00.551796-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1997
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10580/?format=json",
+      "id": 10580,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3941/?format=json",
+        "id": 3941,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "New York University",
+        "ein": 135562308
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14729/?format=json",
+      "date_created": "2022-04-04T15:25:00.556484-07:00",
+      "date_modified": "2022-04-04T15:25:00.556506-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1994
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/45836/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45837/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45838/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45839/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7370/?format=json",
+      "id": 7370,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14729/?format=json",
+      "date_created": "2022-04-04T15:25:00.559140-07:00",
+      "date_modified": "2022-04-04T15:25:00.559162-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-04T15:25:00.536693-07:00",
+  "date_modified": "2022-05-02T17:08:30.164347-07:00",
+  "date_completed": "2022-05-02T16:58:23-07:00",
+  "fjc_id": null,
+  "slug": "lyle-frank",
+  "name_first": "Lyle",
+  "name_middle": "",
+  "name_last": "Frank",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

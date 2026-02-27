@@ -1,0 +1,102 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2866/?format=json",
+  "id": 2866,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2046/?format=json",
+      "id": 2046,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2866/?format=json",
+      "date_created": "2016-04-20T08:26:51.306298-07:00",
+      "date_modified": "2016-04-20T08:26:51.306320-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/100030525454",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1799/?format=json",
+      "id": 1799,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2866/?format=json",
+      "date_created": "2016-04-20T08:22:27.738114-07:00",
+      "date_modified": "2016-04-20T08:22:27.738136-07:00",
+      "year_rated": 2004,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/18001/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18002/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18003/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18004/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18005/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18006/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18007/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18008/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18009/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18010/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18011/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28588/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28589/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28590/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28591/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28592/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2875/?format=json",
+      "id": 2875,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2866/?format=json",
+      "date_created": "2016-04-20T08:22:27.730964-07:00",
+      "date_modified": "2016-04-20T08:22:27.730988-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2004-05-17",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4539/?format=json",
+      "id": 4539,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2866/?format=json",
+      "date_created": "2016-04-20T08:26:51.300391-07:00",
+      "date_modified": "2016-04-20T08:26:51.300415-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:27.696382-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3078,
+  "slug": "michael-h-schneider-sr",
+  "name_first": "Michael",
+  "name_middle": "H.",
+  "name_last": "Schneider",
+  "name_suffix": "sr",
+  "date_dob": "1943-01-06",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "San Antonio",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

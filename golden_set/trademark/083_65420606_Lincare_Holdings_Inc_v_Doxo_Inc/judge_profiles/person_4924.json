@@ -1,0 +1,71 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4924/?format=json",
+  "id": 4924,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1129/?format=json",
+      "id": 1129,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4924/?format=json",
+      "date_created": "2016-04-20T08:25:41.628715-07:00",
+      "date_modified": "2016-04-20T08:25:41.628737-07:00",
+      "url": "http://www.americanbar.org/content/dam/aba/directories/women_trailblazers/covington_bio.authcheckdam.pdf",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4018/?format=json",
+      "id": 4018,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1749/?format=json",
+        "id": 1749,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Duke University",
+        "ein": 560532129
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4924/?format=json",
+      "date_created": "2016-04-20T08:25:41.577486-07:00",
+      "date_modified": "2016-04-20T08:25:41.577519-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26062/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26063/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26064/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26065/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:41.555814-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "ann-k-covington",
+  "name_first": "Ann",
+  "name_middle": "K.",
+  "name_last": "Covington",
+  "name_suffix": "",
+  "date_dob": "1942-03-05",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,59 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1099/?format=json",
+  "id": 1099,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/6664/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6665/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6666/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6667/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6668/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6669/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6670/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1104/?format=json",
+      "id": 1104,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1099/?format=json",
+      "date_created": "2016-04-20T08:18:17.061701-07:00",
+      "date_modified": "2016-04-20T08:18:17.061725-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1874-03-09",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:17.029919-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 784,
+  "slug": "cassius-gaius-foster",
+  "name_first": "Cassius",
+  "name_middle": "Gaius",
+  "name_last": "Foster",
+  "name_suffix": "",
+  "date_dob": "1837-06-22",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1899-06-21",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Webster",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "Topeka",
+  "dod_state": "KS",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

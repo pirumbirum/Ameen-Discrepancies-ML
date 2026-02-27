@@ -1,0 +1,71 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5263/?format=json",
+  "id": 5263,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1434/?format=json",
+      "id": 1434,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5263/?format=json",
+      "date_created": "2016-04-20T08:26:05.707781-07:00",
+      "date_modified": "2016-04-20T08:26:05.707818-07:00",
+      "url": "https://en.wikipedia.org/wiki/William_C._Thompson_(judge)",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4292/?format=json",
+      "id": 4292,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/738/?format=json",
+        "id": 738,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Brooklyn Law School",
+        "ein": 237227990
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5263/?format=json",
+      "date_created": "2016-04-20T08:26:05.679446-07:00",
+      "date_modified": "2016-04-20T08:26:05.679475-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26995/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26996/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26997/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26998/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:05.654040-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "william-c-thompson",
+  "name_first": "William",
+  "name_middle": "C.",
+  "name_last": "Thompson",
+  "name_suffix": "",
+  "date_dob": "1924-10-26",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

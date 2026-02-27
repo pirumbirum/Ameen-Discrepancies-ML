@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13551/?format=json",
+  "id": 13551,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11086/?format=json",
+      "id": 11086,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13551/?format=json",
+      "date_created": "2022-03-08T14:37:05.296460-08:00",
+      "date_modified": "2022-03-08T14:37:05.296483-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11087/?format=json",
+      "id": 11087,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13551/?format=json",
+      "date_created": "2022-03-08T14:37:05.305472-08:00",
+      "date_modified": "2022-03-08T14:37:05.305495-08:00",
+      "url": "https://ballotpedia.org/Jared_D._Moses",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11088/?format=json",
+      "id": 11088,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13551/?format=json",
+      "date_created": "2022-03-08T14:37:05.320228-08:00",
+      "date_modified": "2022-03-08T14:37:05.320252-08:00",
+      "url": "https://www.martindale.com/attorney/jared-daniel-moses-233987/",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11089/?format=json",
+      "id": 11089,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13551/?format=json",
+      "date_created": "2022-03-08T14:37:05.334599-08:00",
+      "date_modified": "2022-03-08T14:37:05.334623-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-08",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9113/?format=json",
+      "id": 9113,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3941/?format=json",
+        "id": 3941,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "New York University",
+        "ein": 135562308
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13551/?format=json",
+      "date_created": "2022-03-08T14:37:05.272532-08:00",
+      "date_modified": "2022-03-08T14:37:05.272560-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9114/?format=json",
+      "id": 9114,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1532/?format=json",
+        "id": 1532,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Davis",
+        "ein": 946036494
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13551/?format=json",
+      "date_created": "2022-03-08T14:37:05.288056-08:00",
+      "date_modified": "2022-03-08T14:37:05.288086-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1993
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43092/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6480/?format=json",
+      "id": 6480,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13551/?format=json",
+      "date_created": "2022-03-08T14:37:05.222495-08:00",
+      "date_modified": "2022-03-08T14:37:05.222534-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6481/?format=json",
+      "id": 6481,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13551/?format=json",
+      "date_created": "2022-03-08T14:37:05.237478-08:00",
+      "date_modified": "2022-03-08T14:37:05.237503-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:43.697476-07:00",
+  "date_modified": "2022-03-21T11:37:32.131199-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jared-daniel-moses",
+  "name_first": "Jared",
+  "name_middle": "Daniel",
+  "name_last": "Moses",
+  "name_suffix": "",
+  "date_dob": "1962-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

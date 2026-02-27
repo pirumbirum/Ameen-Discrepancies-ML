@@ -1,0 +1,61 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2247/?format=json",
+  "id": 2247,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14053/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14054/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14055/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14056/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14057/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14058/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14059/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14060/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14061/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2254/?format=json",
+      "id": 2254,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2247/?format=json",
+      "date_created": "2016-04-20T08:21:02.291872-07:00",
+      "date_modified": "2016-04-20T08:21:02.291896-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1921-12-19",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:02.259532-07:00",
+  "date_modified": "2020-11-25T08:30:21.110677-08:00",
+  "date_completed": null,
+  "fjc_id": 1642,
+  "slug": "andrew-miller",
+  "name_first": "Andrew",
+  "name_middle": "",
+  "name_last": "Miller",
+  "name_suffix": "",
+  "date_dob": "1870-11-16",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1960-03-17",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

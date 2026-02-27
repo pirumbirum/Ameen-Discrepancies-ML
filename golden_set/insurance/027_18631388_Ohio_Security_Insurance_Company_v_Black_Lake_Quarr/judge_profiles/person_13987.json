@@ -1,0 +1,134 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13987/?format=json",
+  "id": 13987,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9681/?format=json",
+      "id": 9681,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13987/?format=json",
+      "date_created": "2022-03-03T10:50:54.867231-08:00",
+      "date_modified": "2022-03-03T10:50:54.867257-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-03",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9682/?format=json",
+      "id": 9682,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13987/?format=json",
+      "date_created": "2022-03-03T10:50:54.872019-08:00",
+      "date_modified": "2022-03-03T10:50:54.872044-08:00",
+      "url": "https://ballotpedia.org/Heather_Jones",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9683/?format=json",
+      "id": 9683,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13987/?format=json",
+      "date_created": "2022-03-03T10:50:54.876338-08:00",
+      "date_modified": "2022-03-03T10:50:54.876364-08:00",
+      "url": "https://trellis.law/judge-dashboard/5758/bio",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9684/?format=json",
+      "id": 9684,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13987/?format=json",
+      "date_created": "2022-03-03T10:50:54.885580-08:00",
+      "date_modified": "2022-03-03T10:50:54.885607-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-03",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8478/?format=json",
+      "id": 8478,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2116/?format=json",
+        "id": 2116,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "California State University-Fresno",
+        "ein": 946001347
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13987/?format=json",
+      "date_created": "2022-03-03T10:50:54.841284-08:00",
+      "date_modified": "2022-03-03T10:50:54.841310-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1999
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8479/?format=json",
+      "id": 8479,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5312/?format=json",
+        "id": 5312,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Santa Clara University",
+        "ein": 941156697
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13987/?format=json",
+      "date_created": "2022-03-03T10:50:54.850925-08:00",
+      "date_modified": "2022-03-03T10:50:54.850952-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2002
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43652/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44433/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6046/?format=json",
+      "id": 6046,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13987/?format=json",
+      "date_created": "2022-03-03T10:50:54.832530-08:00",
+      "date_modified": "2022-03-03T10:50:54.832558-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:03.439600-07:00",
+  "date_modified": "2022-03-20T15:42:47.852887-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "heather-mardel-jones",
+  "name_first": "Heather",
+  "name_middle": "Mardel",
+  "name_last": "Jones",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

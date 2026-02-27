@@ -1,0 +1,62 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/112/?format=json",
+  "id": 112,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/480/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/481/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/482/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/483/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/484/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/485/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/486/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/487/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/488/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/489/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/114/?format=json",
+      "id": 114,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/112/?format=json",
+      "date_created": "2016-04-20T08:16:02.476443-07:00",
+      "date_modified": "2016-04-20T08:16:02.476468-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1950-01-05",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:02.445432-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2691,
+  "slug": "maurice-neil-andrews",
+  "name_first": "Maurice",
+  "name_middle": "Neil",
+  "name_last": "Andrews",
+  "name_suffix": "",
+  "date_dob": "1894-12-24",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1967-08-31",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "LaFayette",
+  "dob_state": "GA",
+  "dob_country": "United States",
+  "dod_city": "Chattanooga",
+  "dod_state": "TN",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

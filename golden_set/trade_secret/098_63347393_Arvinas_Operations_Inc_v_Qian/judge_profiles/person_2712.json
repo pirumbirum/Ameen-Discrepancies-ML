@@ -1,0 +1,61 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2712/?format=json",
+  "id": 2712,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/16963/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16964/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16965/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16966/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16967/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16968/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16969/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16970/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16971/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2720/?format=json",
+      "id": 2720,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2712/?format=json",
+      "date_created": "2016-04-20T08:22:06.200117-07:00",
+      "date_modified": "2016-04-20T08:22:06.200141-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1957-03-04",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:06.164006-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3214,
+  "slug": "scovel-richardson",
+  "name_first": "Scovel",
+  "name_middle": "",
+  "name_last": "Richardson",
+  "name_suffix": "",
+  "date_dob": "1912-02-04",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1982-03-30",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Nashville",
+  "dob_state": "TN",
+  "dob_country": "United States",
+  "dod_city": "New Rochelle",
+  "dod_state": "NY",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

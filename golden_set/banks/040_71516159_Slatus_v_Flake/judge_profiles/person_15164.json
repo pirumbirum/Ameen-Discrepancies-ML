@@ -1,0 +1,126 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15164/?format=json",
+  "id": 15164,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15996/?format=json",
+      "id": 15996,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15164/?format=json",
+      "date_created": "2022-04-19T17:28:08.908621-07:00",
+      "date_modified": "2022-04-19T17:28:08.908645-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=m3gXiJQN91NT91WFzaZknQ%3D%3D",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15997/?format=json",
+      "id": 15997,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15164/?format=json",
+      "date_created": "2022-04-19T17:28:08.910322-07:00",
+      "date_modified": "2022-04-19T17:28:08.910346-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-19",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15998/?format=json",
+      "id": 15998,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15164/?format=json",
+      "date_created": "2022-04-19T17:28:08.911410-07:00",
+      "date_modified": "2022-04-19T17:28:08.911434-07:00",
+      "url": "https://ballotpedia.org/Charles_Wood",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15999/?format=json",
+      "id": 15999,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15164/?format=json",
+      "date_created": "2022-04-19T17:28:08.912498-07:00",
+      "date_modified": "2022-04-19T17:28:08.912522-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/Charles_D._Wood/Charles_Wood_-976.xml",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11464/?format=json",
+      "id": 11464,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3938/?format=json",
+        "id": 3938,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "New York Law School",
+        "ein": 135645885
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15164/?format=json",
+      "date_created": "2022-04-19T17:28:08.902451-07:00",
+      "date_modified": "2022-04-19T17:28:08.902476-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1994
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11465/?format=json",
+      "id": 11465,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4674/?format=json",
+        "id": 4674,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Vassar College",
+        "ein": 141338587
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15164/?format=json",
+      "date_created": "2022-04-19T17:28:08.907135-07:00",
+      "date_modified": "2022-04-19T17:28:08.907160-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1991
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49037/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49039/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49040/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49041/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49042/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49043/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49038/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49044/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-04-19T17:28:08.888326-07:00",
+  "date_modified": "2022-06-08T17:45:49.532236-07:00",
+  "date_completed": "2022-06-08T17:32:09-07:00",
+  "fjc_id": null,
+  "slug": "charles-d-wood",
+  "name_first": "Charles",
+  "name_middle": "D.",
+  "name_last": "Wood",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "ca",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

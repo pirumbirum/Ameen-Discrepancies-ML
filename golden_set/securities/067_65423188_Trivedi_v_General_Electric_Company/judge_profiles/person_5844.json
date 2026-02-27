@@ -1,0 +1,83 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5844/?format=json",
+  "id": 5844,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2060/?format=json",
+      "id": 2060,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5844/?format=json",
+      "date_created": "2016-04-20T08:26:52.505412-07:00",
+      "date_modified": "2016-04-20T08:26:52.505434-07:00",
+      "url": "http://tarlton.law.utexas.edu/justices/profile/view/110",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4832/?format=json",
+      "id": 4832,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5844/?format=json",
+      "date_created": "2016-04-20T08:26:52.450265-07:00",
+      "date_modified": "2016-04-20T08:26:52.450296-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/28629/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28630/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4552/?format=json",
+      "id": 4552,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5844/?format=json",
+      "date_created": "2016-04-20T08:26:52.499665-07:00",
+      "date_modified": "2016-04-20T08:26:52.499690-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:52.407509-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "ruel-c-walker",
+  "name_first": "Ruel",
+  "name_middle": "C.",
+  "name_last": "Walker",
+  "name_suffix": "",
+  "date_dob": "1910-02-26",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1998-05-09",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

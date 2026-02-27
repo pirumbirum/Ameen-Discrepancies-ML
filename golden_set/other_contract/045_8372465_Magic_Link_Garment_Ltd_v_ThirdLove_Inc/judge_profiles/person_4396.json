@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4396/?format=json",
+  "id": 4396,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/439/?format=json",
+      "id": 439,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4396/?format=json",
+      "date_created": "2016-04-20T08:24:58.481909-07:00",
+      "date_modified": "2016-04-20T08:24:58.481941-07:00",
+      "url": "https://en.wikipedia.org/wiki/Wilson_H._Hamilton",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24551/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:58.467145-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "wilson-h-hamilton",
+  "name_first": "Wilson",
+  "name_middle": "H.",
+  "name_last": "Hamilton",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

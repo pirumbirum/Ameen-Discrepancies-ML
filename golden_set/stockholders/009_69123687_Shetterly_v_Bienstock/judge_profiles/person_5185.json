@@ -1,0 +1,49 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5185/?format=json",
+  "id": 5185,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1346/?format=json",
+      "id": 1346,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5185/?format=json",
+      "date_created": "2016-04-20T08:26:00.374136-07:00",
+      "date_modified": "2016-04-20T08:26:00.374165-07:00",
+      "url": "https://en.wikipedia.org/wiki/Charles_Andrews_(judge)",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26766/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26767/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:00.349512-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "charles-andrews",
+  "name_first": "Charles",
+  "name_middle": "",
+  "name_last": "Andrews",
+  "name_suffix": "",
+  "date_dob": "1827-05-27",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1918-10-22",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

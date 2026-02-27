@@ -1,0 +1,129 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15165/?format=json",
+  "id": 15165,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16000/?format=json",
+      "id": 16000,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15165/?format=json",
+      "date_created": "2022-04-19T17:32:55.192225-07:00",
+      "date_modified": "2022-04-19T17:32:55.192246-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-19",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16001/?format=json",
+      "id": 16001,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15165/?format=json",
+      "date_created": "2022-04-19T17:32:55.193760-07:00",
+      "date_modified": "2022-04-19T17:32:55.193795-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=btO3ZxwAyB1PFjkL7RgwHw%3D%3D",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16002/?format=json",
+      "id": 16002,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15165/?format=json",
+      "date_created": "2022-04-19T17:32:55.194943-07:00",
+      "date_modified": "2022-04-19T17:32:55.194963-07:00",
+      "url": "https://ballotpedia.org/Lori_Currier_Woods",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16003/?format=json",
+      "id": 16003,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15165/?format=json",
+      "date_created": "2022-04-19T17:32:55.196060-07:00",
+      "date_modified": "2022-04-19T17:32:55.196081-07:00",
+      "url": "http://judgecurrierwoods.com/meet-lori/",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11466/?format=json",
+      "id": 11466,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4195/?format=json",
+        "id": 4195,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "SUNY Oneonta",
+        "ein": 146013200
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15165/?format=json",
+      "date_created": "2022-04-19T17:32:55.185945-07:00",
+      "date_modified": "2022-04-19T17:32:55.185967-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1979
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11467/?format=json",
+      "id": 11467,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3119/?format=json",
+        "id": 3119,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southwestern Law School",
+        "ein": 951246140
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15165/?format=json",
+      "date_created": "2022-04-19T17:32:55.190707-07:00",
+      "date_modified": "2022-04-19T17:32:55.190730-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1982
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49045/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49046/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49047/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49048/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49049/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49050/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49051/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49052/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49053/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49054/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49055/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-04-19T17:32:55.173481-07:00",
+  "date_modified": "2022-06-08T18:00:42.950329-07:00",
+  "date_completed": "2022-06-08T17:47:59-07:00",
+  "fjc_id": null,
+  "slug": "lori-currier-woods",
+  "name_first": "Lori",
+  "name_middle": "Currier",
+  "name_last": "Woods",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

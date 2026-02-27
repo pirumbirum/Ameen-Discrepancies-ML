@@ -1,0 +1,62 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3878/?format=json",
+  "id": 3878,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/52/?format=json",
+      "id": 52,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3878/?format=json",
+      "date_created": "2016-04-20T08:24:28.065583-07:00",
+      "date_modified": "2016-04-20T08:24:28.065602-07:00",
+      "url": "http://politicalgraveyard.com/bio/godard-goder.html#007.13.63",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23312/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3741/?format=json",
+      "id": 3741,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3878/?format=json",
+      "date_created": "2016-04-20T08:24:28.061741-07:00",
+      "date_modified": "2016-04-20T08:24:28.061762-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:28.049324-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "luther-m-goddard",
+  "name_first": "Luther",
+  "name_middle": "M.",
+  "name_last": "Goddard",
+  "name_suffix": "",
+  "date_dob": "1840-10-02",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5227/?format=json",
+  "id": 5227,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1390/?format=json",
+      "id": 1390,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5227/?format=json",
+      "date_created": "2016-04-20T08:26:03.243562-07:00",
+      "date_modified": "2016-04-20T08:26:03.243584-07:00",
+      "url": "http://www.newyorklawjournal.com/PubArticleNY.jsp?id=1202577408754&Court_of_Appeals_Judge_Jones_Dies",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4261/?format=json",
+      "id": 4261,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2322/?format=json",
+        "id": 2322,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Hampton University",
+        "ein": 540505990
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5227/?format=json",
+      "date_created": "2016-04-20T08:26:03.202831-07:00",
+      "date_modified": "2016-04-20T08:26:03.202854-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26885/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26886/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26887/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:03.181738-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "theodore-theopolis-jones",
+  "name_first": "Theodore",
+  "name_middle": "Theopolis",
+  "name_last": "Jones",
+  "name_suffix": "",
+  "date_dob": "1944-03-10",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2012-11-06",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

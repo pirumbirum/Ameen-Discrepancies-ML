@@ -1,0 +1,88 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8053/?format=json",
+  "id": 8053,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3782/?format=json",
+      "id": 3782,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8053/?format=json",
+      "date_created": "2016-04-20T08:28:47.891572-07:00",
+      "date_modified": "2016-04-20T08:28:47.891597-07:00",
+      "url": "https://advance.lexis.com/lpsreport/?pdmfid=1000547&crid=c466b8ba-f490-4c82-8f21-83877083de76&ecomp=5rfk&earg=sr0&prid=bad5fd85-c90f-4608-9e2a-e056f720d03f",
+      "date_accessed": null,
+      "notes": "Ohio Supreme Court Judge; Ohio Attorney General; Ohio National Bank; Ohio Supreme Court again; private practice;visiting judge"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3783/?format=json",
+      "id": 3783,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8053/?format=json",
+      "date_created": "2016-04-20T08:28:47.895630-07:00",
+      "date_modified": "2016-04-20T08:28:47.895652-07:00",
+      "url": "",
+      "date_accessed": null,
+      "notes": "Ohio Supreme Court Judge; Ohio Attorney General; Ohio National Bank; Ohio Supreme Court again; private practice;visiting judge"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3784/?format=json",
+      "id": 3784,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8053/?format=json",
+      "date_created": "2016-04-20T08:28:47.899494-07:00",
+      "date_modified": "2016-04-20T08:28:47.899516-07:00",
+      "url": "",
+      "date_accessed": null,
+      "notes": "Ohio Supreme Court Judge; Ohio Attorney General; Ohio National Bank; Ohio Supreme Court again; private practice;visiting judge"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6367/?format=json",
+      "id": 6367,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5827/?format=json",
+        "id": 5827,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Toledo",
+        "ein": 346401483
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8053/?format=json",
+      "date_created": "2016-04-20T08:28:47.887172-07:00",
+      "date_modified": "2016-04-20T08:28:47.887199-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/32986/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:47.845570-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "donna-bowman",
+  "name_first": "Donna",
+  "name_middle": "",
+  "name_last": "Bowman",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,127 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14933/?format=json",
+  "id": 14933,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15037/?format=json",
+      "id": 15037,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14933/?format=json",
+      "date_created": "2022-04-12T10:14:02.492976-07:00",
+      "date_modified": "2022-04-12T10:14:02.492997-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=BV4OL9p_PLUS_WwpfvOoJR5ySwA%3D%3D",
+      "date_accessed": "2022-04-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15038/?format=json",
+      "id": 15038,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14933/?format=json",
+      "date_created": "2022-04-12T10:14:02.494576-07:00",
+      "date_modified": "2022-04-12T10:14:02.494597-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-12",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15039/?format=json",
+      "id": 15039,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14933/?format=json",
+      "date_created": "2022-04-12T10:14:02.495540-07:00",
+      "date_modified": "2022-04-12T10:14:02.495561-07:00",
+      "url": "https://ballotpedia.org/Judith_McMahon",
+      "date_accessed": "2022-04-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15040/?format=json",
+      "id": 15040,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14933/?format=json",
+      "date_created": "2022-04-12T10:14:02.496579-07:00",
+      "date_modified": "2022-04-12T10:14:02.496599-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/Judith_N._McMahon/Judith_McMahon-1049.xml",
+      "date_accessed": "2022-04-12",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11000/?format=json",
+      "id": 11000,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3938/?format=json",
+        "id": 3938,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "New York Law School",
+        "ein": 135645885
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14933/?format=json",
+      "date_created": "2022-04-12T10:05:21.138413-07:00",
+      "date_modified": "2022-04-12T10:05:21.138449-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1985
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11001/?format=json",
+      "id": 11001,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3813/?format=json",
+        "id": 3813,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Rutgers University-New Brunswick",
+        "ein": 226001086
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14933/?format=json",
+      "date_created": "2022-04-12T10:14:02.491303-07:00",
+      "date_modified": "2022-04-12T10:14:02.491333-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1977
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47035/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47036/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47037/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47038/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47039/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47040/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47041/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47042/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47043/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-04-12T10:05:16.334182-07:00",
+  "date_modified": "2022-05-12T17:34:22.924748-07:00",
+  "date_completed": "2022-05-12T17:16:59-07:00",
+  "fjc_id": null,
+  "slug": "judith-n-mcmahon",
+  "name_first": "Judith",
+  "name_middle": "N.",
+  "name_last": "McMahon",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "NJ",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

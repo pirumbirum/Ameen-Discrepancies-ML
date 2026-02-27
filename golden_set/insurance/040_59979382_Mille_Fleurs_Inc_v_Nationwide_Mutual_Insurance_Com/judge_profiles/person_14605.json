@@ -1,0 +1,138 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14605/?format=json",
+  "id": 14605,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13641/?format=json",
+      "id": 13641,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14605/?format=json",
+      "date_created": "2022-03-30T11:49:35.781116-07:00",
+      "date_modified": "2022-03-30T11:49:35.781139-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-30",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13642/?format=json",
+      "id": 13642,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14605/?format=json",
+      "date_created": "2022-03-30T11:49:35.783107-07:00",
+      "date_modified": "2022-03-30T11:49:35.783128-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=4Sk2Dw3/1Jn4XOIWo6ZphA%3D%3D",
+      "date_accessed": "2022-03-30",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13643/?format=json",
+      "id": 13643,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14605/?format=json",
+      "date_created": "2022-03-30T11:49:35.784278-07:00",
+      "date_modified": "2022-03-30T11:49:35.784298-07:00",
+      "url": "https://ballotpedia.org/Brian_D._Burns",
+      "date_accessed": "2022-03-30",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13644/?format=json",
+      "id": 13644,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14605/?format=json",
+      "date_created": "2022-03-30T11:49:35.785325-07:00",
+      "date_modified": "2022-03-30T11:49:35.785344-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/Sixth_Judicial_District,_Town_and_Village_Courts/Brian_Burns/Brian_Burns-685.xml",
+      "date_accessed": "2022-03-30",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10337/?format=json",
+      "id": 10337,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5699/?format=json",
+        "id": 5699,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Syracuse University",
+        "ein": 150532081
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14605/?format=json",
+      "date_created": "2022-03-30T11:49:35.770197-07:00",
+      "date_modified": "2022-03-30T11:49:35.770223-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1985
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10338/?format=json",
+      "id": 10338,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/629/?format=json",
+        "id": 629,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Suffolk University",
+        "ein": 42133255
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14605/?format=json",
+      "date_created": "2022-03-30T11:49:35.775489-07:00",
+      "date_modified": "2022-03-30T11:49:35.775516-07:00",
+      "degree_level": "jd",
+      "degree_detail": "cum laude",
+      "degree_year": 1991
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/45124/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45125/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45126/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45127/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45128/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45129/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7280/?format=json",
+      "id": 7280,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14605/?format=json",
+      "date_created": "2022-03-30T11:49:35.778603-07:00",
+      "date_modified": "2022-03-30T11:49:35.778626-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-03-30T11:49:35.754677-07:00",
+  "date_modified": "2022-04-26T14:20:07.053587-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "brian-d-burns",
+  "name_first": "Brian",
+  "name_middle": "D.",
+  "name_last": "Burns",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

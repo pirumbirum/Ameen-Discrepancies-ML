@@ -1,0 +1,129 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1247/?format=json",
+  "id": 1247,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/764/?format=json",
+      "id": 764,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1247/?format=json",
+      "date_created": "2016-04-20T08:18:37.916995-07:00",
+      "date_modified": "2016-04-20T08:18:37.917024-07:00",
+      "year_rated": 1967,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1046/?format=json",
+      "id": 1046,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1247/?format=json",
+      "date_created": "2016-04-20T08:18:37.980291-07:00",
+      "date_modified": "2016-04-20T08:18:37.980358-07:00",
+      "degree_level": "llb",
+      "degree_detail": "LL.B.",
+      "degree_year": 1942
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5105/?format=json",
+      "id": 5105,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3524/?format=json",
+        "id": 3524,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Mount Mary University",
+        "ein": 390806154
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1247/?format=json",
+      "date_created": "2016-04-20T08:27:10.153067-07:00",
+      "date_modified": "2016-04-20T08:27:10.153099-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5106/?format=json",
+      "id": 5106,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1247/?format=json",
+      "date_created": "2016-04-20T08:27:10.168863-07:00",
+      "date_modified": "2016-04-20T08:27:10.168895-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/7595/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7596/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7597/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7598/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7599/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7600/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29295/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29296/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29297/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1253/?format=json",
+      "id": 1253,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1247/?format=json",
+      "date_created": "2016-04-20T08:18:37.909076-07:00",
+      "date_modified": "2016-04-20T08:18:37.909108-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1967-01-16",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:37.875000-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 890,
+  "slug": "myron-l-gordon",
+  "name_first": "Myron",
+  "name_middle": "L.",
+  "name_last": "Gordon",
+  "name_suffix": "",
+  "date_dob": "1918-02-11",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2009-11-03",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Kenosha",
+  "dob_state": "WI",
+  "dob_country": "United States",
+  "dod_city": "Palm Desert",
+  "dod_state": "CA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

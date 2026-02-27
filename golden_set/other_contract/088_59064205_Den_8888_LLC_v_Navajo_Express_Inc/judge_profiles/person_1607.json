@@ -1,0 +1,61 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1607/?format=json",
+  "id": 1607,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9861/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9862/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9863/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9864/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9865/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9866/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9867/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9868/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9869/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1614/?format=json",
+      "id": 1614,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1607/?format=json",
+      "date_created": "2016-04-20T08:19:30.009846-07:00",
+      "date_modified": "2016-04-20T08:19:30.009870-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1861-07-26",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:29.976138-07:00",
+  "date_modified": "2020-11-25T08:30:21.324924-08:00",
+  "date_completed": null,
+  "fjc_id": 1158,
+  "slug": "john-jay-jackson-jr",
+  "name_first": "John",
+  "name_middle": "Jay",
+  "name_last": "Jackson",
+  "name_suffix": "jr",
+  "date_dob": "1824-08-04",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1907-09-02",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Parkersburg",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "Atlantic City",
+  "dod_state": "NJ",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

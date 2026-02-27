@@ -1,0 +1,119 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8586/?format=json",
+  "id": 8586,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4290/?format=json",
+      "id": 4290,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8586/?format=json",
+      "date_created": "2019-09-22T15:32:07.496998-07:00",
+      "date_modified": "2019-09-22T15:32:07.497021-07:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2019-09-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2333/?format=json",
+      "id": 2333,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8586/?format=json",
+      "date_created": "2019-09-22T15:32:07.494127-07:00",
+      "date_modified": "2019-09-22T15:32:07.494152-07:00",
+      "year_rated": 2017,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6752/?format=json",
+      "id": 6752,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3776/?format=json",
+        "id": 3776,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Vanderbilt University",
+        "ein": 620476822
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8586/?format=json",
+      "date_created": "2019-09-22T15:32:07.511027-07:00",
+      "date_modified": "2019-09-22T15:32:07.511053-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1980
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6753/?format=json",
+      "id": 6753,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/954/?format=json",
+        "id": 954,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Illinois at Urbana-Champaign",
+        "ein": 376000511
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8586/?format=json",
+      "date_created": "2019-09-22T15:32:07.526117-07:00",
+      "date_modified": "2019-09-22T15:32:07.526143-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1983
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/34058/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34061/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34062/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34063/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34064/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34059/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34060/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4934/?format=json",
+      "id": 4934,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8586/?format=json",
+      "date_created": "2019-09-22T15:32:07.489473-07:00",
+      "date_modified": "2019-09-22T15:32:07.489498-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2017-12-21",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2019-09-22T15:32:07.452505-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 5197976,
+  "slug": "william-frederic-jung",
+  "name_first": "William",
+  "name_middle": "Frederic",
+  "name_last": "Jung",
+  "name_suffix": "",
+  "date_dob": "1958-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Fort Belvoir",
+  "dob_state": "VA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

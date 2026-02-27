@@ -1,0 +1,92 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2296/?format=json",
+  "id": 2296,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1410/?format=json",
+      "id": 1410,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2296/?format=json",
+      "date_created": "2016-04-20T08:21:08.729269-07:00",
+      "date_modified": "2016-04-20T08:21:08.729291-07:00",
+      "year_rated": 1995,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1899/?format=json",
+      "id": 1899,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2296/?format=json",
+      "date_created": "2016-04-20T08:21:08.780711-07:00",
+      "date_modified": "2016-04-20T08:21:08.780738-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1973
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14334/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14335/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14336/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14337/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14338/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14339/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14340/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14341/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14342/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14343/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2303/?format=json",
+      "id": 2303,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2296/?format=json",
+      "date_created": "2016-04-20T08:21:08.722224-07:00",
+      "date_modified": "2016-04-20T08:21:08.722248-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1995-01-24",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:08.690316-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1677,
+  "slug": "karen-nelson-moore",
+  "name_first": "Karen",
+  "name_middle": "Nelson",
+  "name_last": "Moore",
+  "name_suffix": "",
+  "date_dob": "1948-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Washington",
+  "dob_state": "DC",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

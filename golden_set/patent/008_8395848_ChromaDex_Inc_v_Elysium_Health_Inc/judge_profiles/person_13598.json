@@ -1,0 +1,139 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13598/?format=json",
+  "id": 13598,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7443/?format=json",
+      "id": 7443,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13598/?format=json",
+      "date_created": "2022-02-17T10:36:18.327229-08:00",
+      "date_modified": "2022-02-17T10:36:18.327253-08:00",
+      "url": "https://ballotpedia.org/Patrick_Connolly",
+      "date_accessed": "2022-02-17",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7444/?format=json",
+      "id": 7444,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13598/?format=json",
+      "date_created": "2022-02-17T10:36:18.332214-08:00",
+      "date_modified": "2022-02-17T10:36:18.332237-08:00",
+      "url": "https://trellis.law/judge/patrick.connolly",
+      "date_accessed": "2022-02-17",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7445/?format=json",
+      "id": 7445,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13598/?format=json",
+      "date_created": "2022-02-17T10:36:18.336483-08:00",
+      "date_modified": "2022-02-17T10:36:18.336505-08:00",
+      "url": "https://www.linkedin.com/in/pat-connolly-a7006a80/",
+      "date_accessed": "2022-02-17",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7446/?format=json",
+      "id": 7446,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13598/?format=json",
+      "date_created": "2022-02-17T10:36:18.340598-08:00",
+      "date_modified": "2022-02-17T10:36:18.340620-08:00",
+      "url": "https://ballotpedia.org/Patrick_Connolly#:~:text=Patrick%20Connolly%20is%20a%20judge,and%20general%20election%20were%20canceled.",
+      "date_accessed": "2022-02-17",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7447/?format=json",
+      "id": 7447,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13598/?format=json",
+      "date_created": "2022-02-17T10:36:18.346386-08:00",
+      "date_modified": "2022-02-17T10:36:18.346408-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-17",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7448/?format=json",
+      "id": 7448,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13598/?format=json",
+      "date_created": "2022-02-17T10:36:18.355104-08:00",
+      "date_modified": "2022-02-17T10:36:18.355128-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-17",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7527/?format=json",
+      "id": 7527,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5191/?format=json",
+        "id": 5191,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of San Diego",
+        "ein": 952544535
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13598/?format=json",
+      "date_created": "2022-02-17T10:36:18.311670-08:00",
+      "date_modified": "2022-02-17T10:36:18.311698-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1988
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7528/?format=json",
+      "id": 7528,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5191/?format=json",
+        "id": 5191,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of San Diego",
+        "ein": 952544535
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13598/?format=json",
+      "date_created": "2022-02-17T10:36:18.321480-08:00",
+      "date_modified": "2022-02-17T10:36:18.321505-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1991
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43148/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:45.762846-07:00",
+  "date_modified": "2022-02-17T10:36:18.290537-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "patrick-connolly",
+  "name_first": "Patrick",
+  "name_middle": "",
+  "name_last": "Connolly",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

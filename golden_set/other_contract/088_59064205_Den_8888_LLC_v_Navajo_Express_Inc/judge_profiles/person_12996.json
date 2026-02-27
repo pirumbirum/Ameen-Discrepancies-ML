@@ -1,0 +1,148 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12996/?format=json",
+  "id": 12996,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9594/?format=json",
+      "id": 9594,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12996/?format=json",
+      "date_created": "2022-03-02T17:52:51.881859-08:00",
+      "date_modified": "2022-03-02T17:52:51.881888-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-02",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9595/?format=json",
+      "id": 9595,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12996/?format=json",
+      "date_created": "2022-03-02T17:52:51.888768-08:00",
+      "date_modified": "2022-03-02T17:52:51.888789-08:00",
+      "url": "https://ballotpedia.org/Teri_L._Jackson",
+      "date_accessed": "2022-03-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9596/?format=json",
+      "id": 9596,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12996/?format=json",
+      "date_created": "2022-03-02T17:52:51.892799-08:00",
+      "date_modified": "2022-03-02T17:52:51.892821-08:00",
+      "url": "https://www.martindale.com/attorney/teri-leatrice-jackson-237345/",
+      "date_accessed": "2022-03-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9597/?format=json",
+      "id": 9597,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12996/?format=json",
+      "date_created": "2022-03-02T17:52:51.897437-08:00",
+      "date_modified": "2022-03-02T17:52:51.897459-08:00",
+      "url": "https://trellis.law/judge-dashboard/102/bio",
+      "date_accessed": "2022-03-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9598/?format=json",
+      "id": 9598,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12996/?format=json",
+      "date_created": "2022-03-02T17:52:51.906383-08:00",
+      "date_modified": "2022-03-02T17:52:51.906407-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-02",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8436/?format=json",
+      "id": 8436,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5315/?format=json",
+        "id": 5315,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Santa Cruz",
+        "ein": 941539563
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12996/?format=json",
+      "date_created": "2022-03-02T17:52:51.808153-08:00",
+      "date_modified": "2022-03-02T17:52:51.808216-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Political Science, History",
+      "degree_year": 1977
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8437/?format=json",
+      "id": 8437,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6053/?format=json",
+        "id": 6053,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Georgetown University",
+        "ein": 530196603
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12996/?format=json",
+      "date_created": "2022-03-02T17:52:51.817273-08:00",
+      "date_modified": "2022-03-02T17:52:51.817299-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1980
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42300/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/42295/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/42296/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/42297/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/42298/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/42299/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6017/?format=json",
+      "id": 6017,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12996/?format=json",
+      "date_created": "2022-03-02T17:52:51.794599-08:00",
+      "date_modified": "2022-03-02T17:52:51.794627-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:17.160157-07:00",
+  "date_modified": "2022-03-20T15:33:47.324777-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "teri-leatrice-jackson",
+  "name_first": "Teri",
+  "name_middle": "Leatrice",
+  "name_last": "Jackson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

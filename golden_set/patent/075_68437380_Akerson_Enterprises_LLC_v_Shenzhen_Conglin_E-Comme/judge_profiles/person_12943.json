@@ -1,0 +1,143 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12943/?format=json",
+  "id": 12943,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13047/?format=json",
+      "id": 13047,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12943/?format=json",
+      "date_created": "2022-03-16T11:35:18.996056-07:00",
+      "date_modified": "2022-03-16T11:35:18.996078-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13048/?format=json",
+      "id": 13048,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12943/?format=json",
+      "date_created": "2022-03-16T11:35:19.003544-07:00",
+      "date_modified": "2022-03-16T11:35:19.003582-07:00",
+      "url": "https://trellis.law/judge/denise.lee.whitehead",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13049/?format=json",
+      "id": 13049,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12943/?format=json",
+      "date_created": "2022-03-16T11:35:19.008311-07:00",
+      "date_modified": "2022-03-16T11:35:19.008347-07:00",
+      "url": "https://ballotpedia.org/Denise_Lee_Whitehead",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13050/?format=json",
+      "id": 13050,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12943/?format=json",
+      "date_created": "2022-03-16T11:35:19.014052-07:00",
+      "date_modified": "2022-03-16T11:35:19.014088-07:00",
+      "url": "https://www.martindale.com/attorney/denise-lee-whitehead-99035/",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13051/?format=json",
+      "id": 13051,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12943/?format=json",
+      "date_created": "2022-03-16T11:35:19.027024-07:00",
+      "date_modified": "2022-03-16T11:35:19.027063-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10076/?format=json",
+      "id": 10076,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5226/?format=json",
+        "id": 5226,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of San Francisco",
+        "ein": 941156628
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12943/?format=json",
+      "date_created": "2022-03-16T11:35:18.979661-07:00",
+      "date_modified": "2022-03-16T11:35:18.979690-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1986
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10077/?format=json",
+      "id": 10077,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2116/?format=json",
+        "id": 2116,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "California State University-Fresno",
+        "ein": 946001347
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12943/?format=json",
+      "date_created": "2022-03-16T11:35:18.990581-07:00",
+      "date_modified": "2022-03-16T11:35:18.990605-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1976
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42220/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7140/?format=json",
+      "id": 7140,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12943/?format=json",
+      "date_created": "2022-03-16T11:35:18.967357-07:00",
+      "date_modified": "2022-03-16T11:35:18.967389-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:14.550247-07:00",
+  "date_modified": "2022-03-23T16:10:16.578111-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "denise-lee-whitehead",
+  "name_first": "Denise",
+  "name_middle": "Lee",
+  "name_last": "Whitehead",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

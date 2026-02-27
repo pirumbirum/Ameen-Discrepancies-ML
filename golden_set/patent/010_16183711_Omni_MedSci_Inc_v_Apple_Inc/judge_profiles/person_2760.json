@@ -1,0 +1,61 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2760/?format=json",
+  "id": 2760,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/17256/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17257/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17258/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17259/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17260/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17261/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17262/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17263/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17264/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2768/?format=json",
+      "id": 2768,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2760/?format=json",
+      "date_created": "2016-04-20T08:22:12.290592-07:00",
+      "date_modified": "2016-04-20T08:22:12.290616-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1913-09-18",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:12.257035-07:00",
+  "date_modified": "2020-11-25T08:30:23.892977-08:00",
+  "date_completed": null,
+  "fjc_id": 2039,
+  "slug": "henry-wade-rogers",
+  "name_first": "Henry",
+  "name_middle": "Wade",
+  "name_last": "Rogers",
+  "name_suffix": "",
+  "date_dob": "1853-10-10",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1926-08-16",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Holland Patent",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "Pennington",
+  "dod_state": "NJ",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

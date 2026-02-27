@@ -1,0 +1,59 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/737/?format=json",
+  "id": 737,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/4451/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4452/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4453/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4454/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4455/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4456/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4457/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/742/?format=json",
+      "id": 742,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/737/?format=json",
+      "date_created": "2016-04-20T08:17:28.633825-07:00",
+      "date_modified": "2016-04-20T08:17:28.633851-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1914-06-08",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:28.601169-07:00",
+  "date_modified": "2020-11-25T08:30:16.404716-08:00",
+  "date_completed": null,
+  "fjc_id": 518,
+  "slug": "james-harry-covington",
+  "name_first": "James",
+  "name_middle": "Harry",
+  "name_last": "Covington",
+  "name_suffix": "",
+  "date_dob": "1870-05-03",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1942-02-04",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Talbot County",
+  "dob_state": "MD",
+  "dob_country": "United States",
+  "dod_city": "Washington",
+  "dod_state": "DC",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

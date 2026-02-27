@@ -1,0 +1,129 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14472/?format=json",
+  "id": 14472,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8573/?format=json",
+      "id": 8573,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14472/?format=json",
+      "date_created": "2022-02-23T18:49:26.932560-08:00",
+      "date_modified": "2022-02-23T18:49:26.932581-08:00",
+      "url": "https://www.uscourts.gov/judicial-milestones/carmen-e-henderson",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8574/?format=json",
+      "id": 8574,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14472/?format=json",
+      "date_created": "2022-02-23T18:49:26.934098-08:00",
+      "date_modified": "2022-02-23T18:49:26.934119-08:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Henderson-CE.%20M.%2006.%20OHN%20Resp_SR_20.pdf",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8575/?format=json",
+      "id": 8575,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14472/?format=json",
+      "date_created": "2022-02-23T18:49:26.935099-08:00",
+      "date_modified": "2022-02-23T18:49:26.935120-08:00",
+      "url": "https://www.bloomberg.com/profile/person/21853870",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8576/?format=json",
+      "id": 8576,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14472/?format=json",
+      "date_created": "2022-02-23T18:49:26.936187-08:00",
+      "date_modified": "2022-02-23T18:49:26.936208-08:00",
+      "url": "http://www.dlnnews.com/editorial/29141",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8577/?format=json",
+      "id": 8577,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14472/?format=json",
+      "date_created": "2022-02-23T18:49:26.937180-08:00",
+      "date_modified": "2022-02-23T18:49:26.937201-08:00",
+      "url": "https://www.ohnd.uscourts.gov/content/magistrate-judge-carmen-e-henderson",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7982/?format=json",
+      "id": 7982,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4267/?format=json",
+        "id": 4267,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Miami University-Oxford",
+        "ein": 316402089
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14472/?format=json",
+      "date_created": "2022-02-23T18:49:26.926941-08:00",
+      "date_modified": "2022-02-23T18:49:26.926963-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Accounting",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7983/?format=json",
+      "id": 7983,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1365/?format=json",
+        "id": 1365,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Ohio State University-Main Campus",
+        "ein": 316025986
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14472/?format=json",
+      "date_created": "2022-02-23T18:49:26.931260-08:00",
+      "date_modified": "2022-02-23T18:49:26.931281-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2012
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44381/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-02-23T18:49:26.904827-08:00",
+  "date_modified": "2022-02-23T18:49:26.904864-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "carmen-e-henderson",
+  "name_first": "Carmen",
+  "name_middle": "E.",
+  "name_last": "Henderson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

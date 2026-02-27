@@ -1,0 +1,69 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4066/?format=json",
+  "id": 4066,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/156/?format=json",
+      "id": 156,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4066/?format=json",
+      "date_created": "2016-04-20T08:24:38.630207-07:00",
+      "date_modified": "2016-04-20T08:24:38.630255-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/100002784646",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3373/?format=json",
+      "id": 3373,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/265/?format=json",
+        "id": 265,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Emory University",
+        "ein": 580566256
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4066/?format=json",
+      "date_created": "2016-04-20T08:24:38.617262-07:00",
+      "date_modified": "2016-04-20T08:24:38.617283-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23775/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23776/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:38.577554-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "richard-bell",
+  "name_first": "Richard",
+  "name_middle": "",
+  "name_last": "Bell",
+  "name_suffix": "",
+  "date_dob": "1920-07-05",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2005-11-28",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

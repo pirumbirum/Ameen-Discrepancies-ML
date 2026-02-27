@@ -1,0 +1,133 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14239/?format=json",
+  "id": 14239,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10657/?format=json",
+      "id": 10657,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14239/?format=json",
+      "date_created": "2022-03-07T12:45:01.108828-08:00",
+      "date_modified": "2022-03-07T12:45:01.108850-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-07",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10658/?format=json",
+      "id": 10658,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14239/?format=json",
+      "date_created": "2022-03-07T12:45:01.114765-08:00",
+      "date_modified": "2022-03-07T12:45:01.114787-08:00",
+      "url": "https://www.martindale.com/attorney/leonard-enrique-marquez-2058215/",
+      "date_accessed": "2022-03-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10659/?format=json",
+      "id": 10659,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14239/?format=json",
+      "date_created": "2022-03-07T12:45:01.118789-08:00",
+      "date_modified": "2022-03-07T12:45:01.118812-08:00",
+      "url": "https://trellis.law/judge/leonard.e.marquez",
+      "date_accessed": "2022-03-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10660/?format=json",
+      "id": 10660,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14239/?format=json",
+      "date_created": "2022-03-07T12:45:01.127253-08:00",
+      "date_modified": "2022-03-07T12:45:01.127275-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-07",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8906/?format=json",
+      "id": 8906,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4696/?format=json",
+        "id": 4696,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Princeton University",
+        "ein": 210634501
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14239/?format=json",
+      "date_created": "2022-03-07T12:45:01.091548-08:00",
+      "date_modified": "2022-03-07T12:45:01.091571-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1996
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8907/?format=json",
+      "id": 8907,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14239/?format=json",
+      "date_created": "2022-03-07T12:45:01.100127-08:00",
+      "date_modified": "2022-03-07T12:45:01.100150-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1999
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43927/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6343/?format=json",
+      "id": 6343,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14239/?format=json",
+      "date_created": "2022-03-07T12:45:01.079233-08:00",
+      "date_modified": "2022-03-07T12:45:01.079257-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:13.688613-07:00",
+  "date_modified": "2022-03-21T10:35:13.453180-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "leonard-enrique-marquez",
+  "name_first": "Leonard",
+  "name_middle": "Enrique",
+  "name_last": "Marquez",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

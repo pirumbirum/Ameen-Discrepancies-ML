@@ -1,0 +1,133 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14061/?format=json",
+  "id": 14061,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8326/?format=json",
+      "id": 8326,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14061/?format=json",
+      "date_created": "2022-02-22T18:30:11.232648-08:00",
+      "date_modified": "2022-02-22T18:30:11.232671-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-22",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8327/?format=json",
+      "id": 8327,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14061/?format=json",
+      "date_created": "2022-02-22T18:30:11.242739-08:00",
+      "date_modified": "2022-02-22T18:30:11.242781-08:00",
+      "url": "https://ballotpedia.org/Ronald_F._Frank",
+      "date_accessed": "2022-02-22",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8328/?format=json",
+      "id": 8328,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14061/?format=json",
+      "date_created": "2022-02-22T18:30:11.253269-08:00",
+      "date_modified": "2022-02-22T18:30:11.253299-08:00",
+      "url": "https://trellis.law/judge/ronald.f.frank",
+      "date_accessed": "2022-02-22",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8329/?format=json",
+      "id": 8329,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14061/?format=json",
+      "date_created": "2022-02-22T18:30:11.264362-08:00",
+      "date_modified": "2022-02-22T18:30:11.264391-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-22",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7893/?format=json",
+      "id": 7893,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2999/?format=json",
+        "id": 2999,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Bucknell University",
+        "ein": 240772407
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14061/?format=json",
+      "date_created": "2022-02-22T18:30:11.208964-08:00",
+      "date_modified": "2022-02-22T18:30:11.208987-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1979
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7894/?format=json",
+      "id": 7894,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1024/?format=json",
+        "id": 1024,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Virginia-Main Campus",
+        "ein": 546001796
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14061/?format=json",
+      "date_created": "2022-02-22T18:30:11.222982-08:00",
+      "date_modified": "2022-02-22T18:30:11.223005-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1982
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43737/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7241/?format=json",
+      "id": 7241,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14061/?format=json",
+      "date_created": "2022-03-19T11:12:58.127772-07:00",
+      "date_modified": "2022-03-19T11:12:58.127797-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:06.466535-07:00",
+  "date_modified": "2022-03-19T11:12:58.112763-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "ronald-f-frank",
+  "name_first": "Ronald",
+  "name_middle": "F.",
+  "name_last": "Frank",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "je",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

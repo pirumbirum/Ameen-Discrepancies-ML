@@ -1,0 +1,138 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14723/?format=json",
+  "id": 14723,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14143/?format=json",
+      "id": 14143,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14723/?format=json",
+      "date_created": "2022-04-04T14:18:05.935744-07:00",
+      "date_modified": "2022-04-04T14:18:05.935788-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-04",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14144/?format=json",
+      "id": 14144,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14723/?format=json",
+      "date_created": "2022-04-04T14:18:05.937559-07:00",
+      "date_modified": "2022-04-04T14:18:05.937580-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=JSKm32KjMEEi99OjzHh8RQ%3D%3D",
+      "date_accessed": "2022-04-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14145/?format=json",
+      "id": 14145,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14723/?format=json",
+      "date_created": "2022-04-04T14:18:05.938690-07:00",
+      "date_modified": "2022-04-04T14:18:05.938711-07:00",
+      "url": "https://www.nycourts.gov/ad3/Bios/ReynoldsFitzgeraldBios.html",
+      "date_accessed": "2022-04-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14146/?format=json",
+      "id": 14146,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14723/?format=json",
+      "date_created": "2022-04-04T14:18:05.939810-07:00",
+      "date_modified": "2022-04-04T14:18:05.939841-07:00",
+      "url": "https://ballotpedia.org/Molly_R._Fitzgerald",
+      "date_accessed": "2022-04-04",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10568/?format=json",
+      "id": 10568,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6058/?format=json",
+        "id": 6058,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Trinity Washington University",
+        "ein": 530196640
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14723/?format=json",
+      "date_created": "2022-04-04T14:18:05.925955-07:00",
+      "date_modified": "2022-04-04T14:18:05.925988-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Political Science",
+      "degree_year": 1982
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10569/?format=json",
+      "id": 10569,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6042/?format=json",
+        "id": 6042,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Catholic University of America",
+        "ein": 530196583
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14723/?format=json",
+      "date_created": "2022-04-04T14:18:05.931130-07:00",
+      "date_modified": "2022-04-04T14:18:05.931151-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1986
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/45805/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45806/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45807/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45808/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45809/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45810/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7367/?format=json",
+      "id": 7367,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14723/?format=json",
+      "date_created": "2022-04-04T14:18:05.933870-07:00",
+      "date_modified": "2022-04-04T14:18:05.933893-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-04T14:18:05.908893-07:00",
+  "date_modified": "2022-05-02T14:23:41.976987-07:00",
+  "date_completed": "2022-05-02T13:57:13-07:00",
+  "fjc_id": null,
+  "slug": "molly-reynolds-fitzgerald",
+  "name_first": "Molly",
+  "name_middle": "Reynolds",
+  "name_last": "Fitzgerald",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Binghamton",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

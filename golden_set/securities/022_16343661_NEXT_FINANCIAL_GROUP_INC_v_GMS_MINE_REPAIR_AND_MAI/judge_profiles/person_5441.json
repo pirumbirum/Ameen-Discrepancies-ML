@@ -1,0 +1,63 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5441/?format=json",
+  "id": 5441,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1617/?format=json",
+      "id": 1617,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5441/?format=json",
+      "date_created": "2016-04-20T08:26:20.050106-07:00",
+      "date_modified": "2016-04-20T08:26:20.050144-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/200010631879",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27543/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27544/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4347/?format=json",
+      "id": 4347,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5441/?format=json",
+      "date_created": "2016-04-20T08:26:20.043749-07:00",
+      "date_modified": "2016-04-20T08:26:20.043791-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:19.976058-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "nelson-l-gibson",
+  "name_first": "Nelson",
+  "name_middle": "L.",
+  "name_last": "Gibson",
+  "name_suffix": "",
+  "date_dob": "1881-09-03",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

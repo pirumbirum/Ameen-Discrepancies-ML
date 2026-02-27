@@ -1,0 +1,106 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3549/?format=json",
+  "id": 3549,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2229/?format=json",
+      "id": 2229,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3549/?format=json",
+      "date_created": "2016-04-20T08:24:04.703340-07:00",
+      "date_modified": "2016-04-20T08:24:04.703361-07:00",
+      "year_rated": 2013,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2974/?format=json",
+      "id": 2974,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6223/?format=json",
+        "id": 6223,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Williams College",
+        "ein": 42104847
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3549/?format=json",
+      "date_created": "2016-04-20T08:24:04.718108-07:00",
+      "date_modified": "2016-04-20T08:24:04.718132-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1991
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2975/?format=json",
+      "id": 2975,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3549/?format=json",
+      "date_created": "2016-04-20T08:24:04.746884-07:00",
+      "date_modified": "2016-04-20T08:24:04.746908-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1995
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22347/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22348/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22349/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22350/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22346/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3567/?format=json",
+      "id": 3567,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3549/?format=json",
+      "date_created": "2016-04-20T08:24:04.696062-07:00",
+      "date_modified": "2016-04-20T08:24:04.696087-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2013-05-09",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:04.664796-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3494,
+  "slug": "gregory-howard-woods-iii",
+  "name_first": "Gregory",
+  "name_middle": "Howard",
+  "name_last": "Woods",
+  "name_suffix": "3",
+  "date_dob": "1969-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Lewes",
+  "dob_state": "DE",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,66 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/110/?format=json",
+  "id": 110,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/47/?format=json",
+      "id": 47,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/110/?format=json",
+      "date_created": "2016-04-20T08:16:02.269017-07:00",
+      "date_modified": "2016-04-20T08:16:02.269039-07:00",
+      "year_rated": 1985,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/470/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/471/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/472/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/473/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/112/?format=json",
+      "id": 112,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/110/?format=json",
+      "date_created": "2016-04-20T08:16:02.262933-07:00",
+      "date_modified": "2016-04-20T08:16:02.262958-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1985-07-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:02.230965-07:00",
+  "date_modified": "2020-11-25T08:30:14.679342-08:00",
+  "date_completed": null,
+  "fjc_id": 50,
+  "slug": "stephen-hale-anderson",
+  "name_first": "Stephen",
+  "name_middle": "Hale",
+  "name_last": "Anderson",
+  "name_suffix": "",
+  "date_dob": "1932-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Salt Lake City",
+  "dob_state": "UT",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

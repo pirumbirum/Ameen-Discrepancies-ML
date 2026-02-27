@@ -1,0 +1,51 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4911/?format=json",
+  "id": 4911,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1120/?format=json",
+      "id": 1120,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4911/?format=json",
+      "date_created": "2016-04-20T08:25:40.702776-07:00",
+      "date_modified": "2016-04-20T08:25:40.702798-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/100002677825",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26027/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26028/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26029/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26030/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:40.622540-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "harry-grey-walker",
+  "name_first": "Harry",
+  "name_middle": "Grey",
+  "name_last": "Walker",
+  "name_suffix": "",
+  "date_dob": "1924-09-30",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2000-04-15",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

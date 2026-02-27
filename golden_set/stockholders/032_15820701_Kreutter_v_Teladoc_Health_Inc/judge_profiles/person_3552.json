@@ -1,0 +1,81 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3552/?format=json",
+  "id": 3552,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2978/?format=json",
+      "id": 2978,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3552/?format=json",
+      "date_created": "2016-04-20T08:24:05.158101-07:00",
+      "date_modified": "2016-04-20T08:24:05.158141-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1845
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22365/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22366/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22367/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22368/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22369/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22370/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22371/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22372/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22373/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3570/?format=json",
+      "id": 3570,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3552/?format=json",
+      "date_created": "2016-04-20T08:24:05.110536-07:00",
+      "date_modified": "2016-04-20T08:24:05.110560-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1869-12-08",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:05.076191-07:00",
+  "date_modified": "2020-11-25T08:30:15.983961-08:00",
+  "date_completed": null,
+  "fjc_id": 2650,
+  "slug": "william-burnham-woods",
+  "name_first": "William",
+  "name_middle": "Burnham",
+  "name_last": "Woods",
+  "name_suffix": "",
+  "date_dob": "1824-08-03",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1887-05-14",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Newark",
+  "dob_state": "OH",
+  "dob_country": "United States",
+  "dod_city": "Washington",
+  "dod_state": "DC",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

@@ -1,0 +1,60 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/818/?format=json",
+  "id": 818,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/4930/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4931/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4932/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4933/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4934/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4935/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4936/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4937/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/823/?format=json",
+      "id": 823,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/818/?format=json",
+      "date_created": "2016-04-20T08:17:40.285575-07:00",
+      "date_modified": "2016-04-20T08:17:40.285595-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1885-01-15",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:40.255376-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3265,
+  "slug": "john-davis",
+  "name_first": "John",
+  "name_middle": "",
+  "name_last": "Davis",
+  "name_suffix": "",
+  "date_dob": "1851-09-16",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1902-05-05",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Newton",
+  "dob_state": "MA",
+  "dob_country": "United States",
+  "dod_city": "Washington",
+  "dod_state": "DC",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13725/?format=json",
+  "id": 13725,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9418/?format=json",
+      "id": 9418,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13725/?format=json",
+      "date_created": "2022-03-02T10:21:01.975880-08:00",
+      "date_modified": "2022-03-02T10:23:07.577934-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-02",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9419/?format=json",
+      "id": 9419,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13725/?format=json",
+      "date_created": "2022-03-02T10:23:07.582913-08:00",
+      "date_modified": "2022-03-02T10:23:07.582936-08:00",
+      "url": "https://ballotpedia.org/Theodore_Howard_(California)",
+      "date_accessed": "2022-03-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9420/?format=json",
+      "id": 9420,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13725/?format=json",
+      "date_created": "2022-03-02T10:23:07.589204-08:00",
+      "date_modified": "2022-03-02T10:23:07.589226-08:00",
+      "url": "https://www.martindale.com/attorney/theodore-randolph-howard-259312/",
+      "date_accessed": "2022-03-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9421/?format=json",
+      "id": 9421,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13725/?format=json",
+      "date_created": "2022-03-02T10:23:07.593215-08:00",
+      "date_modified": "2022-03-02T10:23:07.593237-08:00",
+      "url": "https://trellis.law/judge-dashboard/1177/bio",
+      "date_accessed": "2022-03-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9422/?format=json",
+      "id": 9422,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13725/?format=json",
+      "date_created": "2022-03-02T10:23:07.604557-08:00",
+      "date_modified": "2022-03-02T10:23:07.604581-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-02",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8356/?format=json",
+      "id": 8356,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/851/?format=json",
+        "id": 851,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "St John's Seminary",
+        "ein": 951642384
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13725/?format=json",
+      "date_created": "2022-03-02T10:21:01.964551-08:00",
+      "date_modified": "2022-03-02T10:23:07.563055-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Philosophy",
+      "degree_year": 1964
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8357/?format=json",
+      "id": 8357,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3104/?format=json",
+        "id": 3104,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Loyola Marymount University",
+        "ein": 951643334
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13725/?format=json",
+      "date_created": "2022-03-02T10:23:07.571602-08:00",
+      "date_modified": "2022-03-02T10:23:07.571626-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1968
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43329/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5966/?format=json",
+      "id": 5966,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13725/?format=json",
+      "date_created": "2022-03-02T10:21:01.948778-08:00",
+      "date_modified": "2022-03-02T10:21:01.948805-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5967/?format=json",
+      "id": 5967,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13725/?format=json",
+      "date_created": "2022-03-02T10:21:01.956298-08:00",
+      "date_modified": "2022-03-02T10:21:01.956329-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:51.605417-07:00",
+  "date_modified": "2022-03-20T15:00:27.002555-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "theodore-randolph-howard",
+  "name_first": "Theodore",
+  "name_middle": "Randolph",
+  "name_last": "Howard",
+  "name_suffix": "",
+  "date_dob": "1943-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

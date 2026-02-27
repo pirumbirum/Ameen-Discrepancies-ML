@@ -1,0 +1,68 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6780/?format=json",
+  "id": 6780,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2849/?format=json",
+      "id": 2849,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6780/?format=json",
+      "date_created": "2016-04-20T08:27:44.496731-07:00",
+      "date_modified": "2016-04-20T08:27:44.496755-07:00",
+      "url": "https://courts.arkansas.gov/courts/court-of-appeals/judges/Mike-Kinard",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5533/?format=json",
+      "id": 5533,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5859/?format=json",
+        "id": 5859,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Rensselaer Polytechnic Institute",
+        "ein": 141340095
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6780/?format=json",
+      "date_created": "2016-04-20T08:27:44.467857-07:00",
+      "date_modified": "2016-04-20T08:27:44.467881-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/30589/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:44.443013-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "warren-king",
+  "name_first": "Warren",
+  "name_middle": "",
+  "name_last": "King",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

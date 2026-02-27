@@ -1,0 +1,59 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7626/?format=json",
+  "id": 7626,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3483/?format=json",
+      "id": 3483,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7626/?format=json",
+      "date_created": "2016-04-20T08:28:29.711443-07:00",
+      "date_modified": "2016-04-20T08:28:29.711459-07:00",
+      "url": "http://judgepedia.org/Robin_Hudson",
+      "date_accessed": null,
+      "notes": "Private practice 1976-2000;Elected to NC Supreme Court 2007-22"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3484/?format=json",
+      "id": 3484,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7626/?format=json",
+      "date_created": "2016-04-20T08:28:29.717002-07:00",
+      "date_modified": "2016-04-20T08:28:29.717018-07:00",
+      "url": "",
+      "date_accessed": null,
+      "notes": "Private practice 1976-2000;Elected to NC Supreme Court 2007-22"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/32308/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32309/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:29.666899-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "natalie-hudson",
+  "name_first": "Natalie",
+  "name_middle": "",
+  "name_last": "Hudson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

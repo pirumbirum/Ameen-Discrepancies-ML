@@ -1,0 +1,147 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14470/?format=json",
+  "id": 14470,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8565/?format=json",
+      "id": 8565,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14470/?format=json",
+      "date_created": "2022-02-23T18:22:25.724280-08:00",
+      "date_modified": "2022-02-23T18:22:25.724303-08:00",
+      "url": "https://ballotpedia.org/Cory_Wilson",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8566/?format=json",
+      "id": 8566,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14470/?format=json",
+      "date_created": "2022-02-23T18:22:25.726120-08:00",
+      "date_modified": "2022-02-23T18:22:25.726143-08:00",
+      "url": "https://en.wikipedia.org/wiki/Cory_T._Wilson",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8567/?format=json",
+      "id": 8567,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14470/?format=json",
+      "date_created": "2022-02-23T18:22:25.727202-08:00",
+      "date_modified": "2022-02-23T18:22:25.727224-08:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Wilson-%20CT.%20J3.%2005.%20--_SR_20.pdf",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8568/?format=json",
+      "id": 8568,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14470/?format=json",
+      "date_created": "2022-02-23T18:22:25.728353-08:00",
+      "date_modified": "2022-02-23T18:22:25.728377-08:00",
+      "url": "https://www.uscourts.gov/judicial-milestones/cory-t-wilson",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7978/?format=json",
+      "id": 7978,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5931/?format=json",
+        "id": 5931,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Mississippi",
+        "ein": 646001159
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14470/?format=json",
+      "date_created": "2022-02-23T18:22:25.714059-08:00",
+      "date_modified": "2022-02-23T18:22:25.714106-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Business Administration, summa cum laude",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7979/?format=json",
+      "id": 7979,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14470/?format=json",
+      "date_created": "2022-02-23T18:22:25.719696-08:00",
+      "date_modified": "2022-02-23T18:22:25.719720-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1995
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44378/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44379/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5702/?format=json",
+      "id": 5702,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14470/?format=json",
+      "date_created": "2022-02-23T18:22:25.722476-08:00",
+      "date_modified": "2022-02-23T18:22:25.722499-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5704/?format=json",
+      "id": 5704,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14470/?format=json",
+      "date_created": "2022-02-23T18:29:08.067540-08:00",
+      "date_modified": "2022-02-23T18:29:08.067564-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-02-23T18:22:25.681176-08:00",
+  "date_modified": "2022-02-23T18:29:08.055927-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "cory-todd-wilson",
+  "name_first": "Cory",
+  "name_middle": "Todd",
+  "name_last": "Wilson",
+  "name_suffix": "",
+  "date_dob": "1970-08-08",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Pascagoula",
+  "dob_state": "MS",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

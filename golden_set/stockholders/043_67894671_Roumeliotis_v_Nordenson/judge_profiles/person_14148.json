@@ -1,0 +1,133 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14148/?format=json",
+  "id": 14148,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8695/?format=json",
+      "id": 8695,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14148/?format=json",
+      "date_created": "2022-02-24T14:47:34.241086-08:00",
+      "date_modified": "2022-02-24T14:47:34.241109-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-24",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8696/?format=json",
+      "id": 8696,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14148/?format=json",
+      "date_created": "2022-02-24T14:47:34.248400-08:00",
+      "date_modified": "2022-02-24T14:47:34.248422-08:00",
+      "url": "https://ballotpedia.org/Ruben_Garcia_(California)",
+      "date_accessed": "2022-02-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8697/?format=json",
+      "id": 8697,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14148/?format=json",
+      "date_created": "2022-02-24T14:47:34.255804-08:00",
+      "date_modified": "2022-02-24T14:47:34.255827-08:00",
+      "url": "https://www.martindale.com/attorney/ruben-garcia-270121/",
+      "date_accessed": "2022-02-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8698/?format=json",
+      "id": 8698,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14148/?format=json",
+      "date_created": "2022-02-24T14:47:34.265990-08:00",
+      "date_modified": "2022-02-24T14:47:34.266013-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-24",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8036/?format=json",
+      "id": 8036,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3892/?format=json",
+        "id": 3892,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Columbia University in the City of New York",
+        "ein": 603800000
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14148/?format=json",
+      "date_created": "2022-02-24T14:47:34.218953-08:00",
+      "date_modified": "2022-02-24T14:47:34.218978-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1990
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8037/?format=json",
+      "id": 8037,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14148/?format=json",
+      "date_created": "2022-02-24T14:47:34.228002-08:00",
+      "date_modified": "2022-02-24T14:47:34.228024-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1993
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43829/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5747/?format=json",
+      "id": 5747,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14148/?format=json",
+      "date_created": "2022-02-24T14:47:34.235571-08:00",
+      "date_modified": "2022-02-24T14:47:34.235594-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:09.884721-07:00",
+  "date_modified": "2022-03-19T13:46:50.089449-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "ruben-n-garcia",
+  "name_first": "Ruben",
+  "name_middle": "N.",
+  "name_last": "Garcia",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

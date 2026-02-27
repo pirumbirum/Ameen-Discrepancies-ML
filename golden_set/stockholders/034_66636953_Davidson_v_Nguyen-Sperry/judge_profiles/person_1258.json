@@ -1,0 +1,68 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1258/?format=json",
+  "id": 1258,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/771/?format=json",
+      "id": 771,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1258/?format=json",
+      "date_created": "2016-04-20T08:18:39.501411-07:00",
+      "date_modified": "2016-04-20T08:18:39.501433-07:00",
+      "year_rated": 1991,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/7652/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7653/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7654/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7655/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7656/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7651/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1264/?format=json",
+      "id": 1264,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1258/?format=json",
+      "date_created": "2016-04-20T08:18:39.494309-07:00",
+      "date_modified": "2016-04-20T08:18:39.494333-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1991-06-17",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:39.458397-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 898,
+  "slug": "donald-l-graham",
+  "name_first": "Donald",
+  "name_middle": "L.",
+  "name_last": "Graham",
+  "name_suffix": "",
+  "date_dob": "1948-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Salisbury",
+  "dob_state": "NC",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

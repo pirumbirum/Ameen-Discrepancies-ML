@@ -1,0 +1,52 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4348/?format=json",
+  "id": 4348,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/393/?format=json",
+      "id": 393,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4348/?format=json",
+      "date_created": "2016-04-20T08:24:55.617020-07:00",
+      "date_modified": "2016-04-20T08:24:55.617052-07:00",
+      "url": "http://site.ebrary.com/lib/columbia/reader.action?docID=10955894",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24441/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24442/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24443/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24444/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24445/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:55.567645-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "james-scott",
+  "name_first": "James",
+  "name_middle": "",
+  "name_last": "Scott",
+  "name_suffix": "",
+  "date_dob": "1767-05-28",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1855-03-02",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

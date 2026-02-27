@@ -1,0 +1,177 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15672/?format=json",
+  "id": 15672,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17940/?format=json",
+      "id": 17940,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15672/?format=json",
+      "date_created": "2022-07-06T08:45:53.005185-07:00",
+      "date_modified": "2022-07-06T08:45:53.005212-07:00",
+      "url": "https://trellis.law/judge/tracy.a.gilbert",
+      "date_accessed": "2022-07-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17941/?format=json",
+      "id": 17941,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15672/?format=json",
+      "date_created": "2022-07-06T08:45:53.045407-07:00",
+      "date_modified": "2022-07-06T08:45:53.045422-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17942/?format=json",
+      "id": 17942,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15672/?format=json",
+      "date_created": "2022-07-06T08:45:53.046528-07:00",
+      "date_modified": "2022-07-06T08:45:53.046540-07:00",
+      "url": "https://ballotpedia.org/Tracy_Gilbert#:~:text=Gilbert%20is%20the%20judge%20of,terms%20in%202012%20and%202016.",
+      "date_accessed": "2022-07-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17943/?format=json",
+      "id": 17943,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15672/?format=json",
+      "date_created": "2022-07-06T08:45:53.047601-07:00",
+      "date_modified": "2022-07-06T08:45:53.047613-07:00",
+      "url": "https://www.chron.com/neighborhood/article/Tracy-A-Gilbert-9397151.php",
+      "date_accessed": "2022-07-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17944/?format=json",
+      "id": 17944,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15672/?format=json",
+      "date_created": "2022-07-06T08:45:53.048613-07:00",
+      "date_modified": "2022-07-06T08:45:53.048624-07:00",
+      "url": "https://thegoldenhammer.net/power-top-ten-9-418th-district-judge-tracy-gilbert/",
+      "date_accessed": "2022-07-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17945/?format=json",
+      "id": 17945,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15672/?format=json",
+      "date_created": "2022-07-06T08:45:53.049614-07:00",
+      "date_modified": "2022-07-06T08:45:53.049625-07:00",
+      "url": "https://www.justice-integrity.org/index.php?option=com_content&view=article&id=302:jan-28&catid=69:jan-2011&Itemid=203",
+      "date_accessed": "2022-07-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17946/?format=json",
+      "id": 17946,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15672/?format=json",
+      "date_created": "2022-07-06T08:45:53.050625-07:00",
+      "date_modified": "2022-07-06T08:45:53.050636-07:00",
+      "url": "https://www.martindale.com/attorney/judge-tracy-a-gilbert-2133336/",
+      "date_accessed": "2022-07-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17947/?format=json",
+      "id": 17947,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15672/?format=json",
+      "date_created": "2022-07-06T08:45:53.051689-07:00",
+      "date_modified": "2022-07-06T08:45:53.051700-07:00",
+      "url": "",
+      "date_accessed": "2022-07-06",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12061/?format=json",
+      "id": 12061,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1296/?format=json",
+        "id": 1296,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas A & M University-College Station",
+        "ein": 746000531
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15672/?format=json",
+      "date_created": "2022-07-06T08:56:47.098615-07:00",
+      "date_modified": "2022-07-06T08:56:47.098631-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Business Administration",
+      "degree_year": 1989
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12062/?format=json",
+      "id": 12062,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6016/?format=json",
+        "id": 6016,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Baylor University",
+        "ein": 741159753
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15672/?format=json",
+      "date_created": "2022-07-06T08:56:47.125247-07:00",
+      "date_modified": "2022-07-06T08:56:47.125269-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1992
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50303/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50299/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50300/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50301/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50302/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8176/?format=json",
+      "id": 8176,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15672/?format=json",
+      "date_created": "2022-07-06T08:56:47.127303-07:00",
+      "date_modified": "2022-07-06T08:56:47.127317-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-06T08:45:52.919563-07:00",
+  "date_modified": "2022-07-06T09:00:59.063013-07:00",
+  "date_completed": "2022-07-06T08:42:28-07:00",
+  "fjc_id": null,
+  "slug": "tracy-a-gilbert",
+  "name_first": "Tracy",
+  "name_middle": "A.",
+  "name_last": "Gilbert",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,69 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6974/?format=json",
+  "id": 6974,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3021/?format=json",
+      "id": 3021,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6974/?format=json",
+      "date_created": "2016-04-20T08:27:55.061412-07:00",
+      "date_modified": "2016-04-20T08:27:55.061434-07:00",
+      "url": "http://www.txcourts.gov/13thcoa/about-the-court/justices/justice-nora-longoria.aspx",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5731/?format=json",
+      "id": 5731,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2145/?format=json",
+        "id": 2145,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Florida",
+        "ein": 596002052
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6974/?format=json",
+      "date_created": "2016-04-20T08:27:55.049679-07:00",
+      "date_modified": "2016-04-20T08:27:55.049702-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/30986/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30987/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:55.026068-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "aquilino-lopez-jr",
+  "name_first": "Aquilino",
+  "name_middle": "",
+  "name_last": "Lopez",
+  "name_suffix": "jr",
+  "date_dob": "1910-01-09",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

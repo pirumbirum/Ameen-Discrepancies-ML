@@ -1,0 +1,74 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/308/?format=json",
+  "id": 308,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/179/?format=json",
+      "id": 179,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/308/?format=json",
+      "date_created": "2016-04-20T08:16:29.886567-07:00",
+      "date_modified": "2016-04-20T08:16:29.886591-07:00",
+      "year_rated": 1994,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/1776/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1777/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1778/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1779/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1780/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1781/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1782/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1783/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1784/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1785/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1786/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1787/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/310/?format=json",
+      "id": 310,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/308/?format=json",
+      "date_created": "2016-04-20T08:16:29.880404-07:00",
+      "date_modified": "2016-04-20T08:16:29.880432-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1994-07-22",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:29.846742-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 196,
+  "slug": "frederic-block",
+  "name_first": "Frederic",
+  "name_middle": "",
+  "name_last": "Block",
+  "name_suffix": "",
+  "date_dob": "1934-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Brooklyn",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

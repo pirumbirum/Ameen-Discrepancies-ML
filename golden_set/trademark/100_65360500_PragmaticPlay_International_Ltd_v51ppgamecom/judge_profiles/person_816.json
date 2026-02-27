@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/816/?format=json",
+  "id": 816,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7707/?format=json",
+      "id": 7707,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/816/?format=json",
+      "date_created": "2022-02-19T15:12:51.695780-08:00",
+      "date_modified": "2022-02-19T15:12:51.695812-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-19",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7708/?format=json",
+      "id": 7708,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/816/?format=json",
+      "date_created": "2022-02-19T15:12:51.700947-08:00",
+      "date_modified": "2022-02-19T15:12:51.700970-08:00",
+      "url": "https://trellis.law/judge/john.m.davis",
+      "date_accessed": "2022-02-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7709/?format=json",
+      "id": 7709,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/816/?format=json",
+      "date_created": "2022-02-19T15:12:51.705012-08:00",
+      "date_modified": "2022-02-19T15:12:51.705033-08:00",
+      "url": "https://ballotpedia.org/John_M._Davis_(California)",
+      "date_accessed": "2022-02-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7710/?format=json",
+      "id": 7710,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/816/?format=json",
+      "date_created": "2022-02-19T15:12:51.711514-08:00",
+      "date_modified": "2022-02-19T15:12:51.711536-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-19",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/660/?format=json",
+      "id": 660,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/816/?format=json",
+      "date_created": "2016-04-20T08:17:40.077897-07:00",
+      "date_modified": "2022-02-19T15:12:51.622967-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Psychology",
+      "degree_year": 1971
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7632/?format=json",
+      "id": 7632,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3119/?format=json",
+        "id": 3119,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southwestern Law School",
+        "ein": 951246140
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/816/?format=json",
+      "date_created": "2022-02-19T15:12:51.631920-08:00",
+      "date_modified": "2022-02-19T15:12:51.631947-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1983
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43345/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/821/?format=json",
+      "id": 821,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/816/?format=json",
+      "date_created": "2016-04-20T08:17:40.064703-07:00",
+      "date_modified": "2022-02-19T15:12:51.643012-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5500/?format=json",
+      "id": 5500,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/816/?format=json",
+      "date_created": "2022-02-19T15:12:51.650112-08:00",
+      "date_modified": "2022-02-19T15:12:51.650139-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:40.035474-07:00",
+  "date_modified": "2022-02-19T15:12:51.609410-08:00",
+  "date_completed": null,
+  "fjc_id": 577,
+  "slug": "john-morgan-davis",
+  "name_first": "John",
+  "name_middle": "Morgan",
+  "name_last": "Davis",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": "1984-03-08",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "San Diego",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

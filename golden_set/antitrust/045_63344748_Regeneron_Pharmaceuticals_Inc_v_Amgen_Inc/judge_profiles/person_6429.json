@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6429/?format=json",
+  "id": 6429,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9046/?format=json",
+      "id": 9046,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6429/?format=json",
+      "date_created": "2022-03-01T09:45:07.360885-08:00",
+      "date_modified": "2022-03-01T09:45:07.360912-08:00",
+      "url": "https://www.legacy.com/us/obituaries/eastbaytimes/name/sam-hall-obituary?id=26842746",
+      "date_accessed": "2022-03-01",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/40178/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:30.487556-07:00",
+  "date_modified": "2022-03-16T12:56:10.556699-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "samuel-w-hall",
+  "name_first": "Samuel",
+  "name_middle": "W.",
+  "name_last": "Hall",
+  "name_suffix": "",
+  "date_dob": "1921-10-15",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1981-03-02",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

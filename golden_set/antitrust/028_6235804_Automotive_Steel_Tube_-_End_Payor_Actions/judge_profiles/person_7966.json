@@ -1,0 +1,78 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7966/?format=json",
+  "id": 7966,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6292/?format=json",
+      "id": 6292,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1426/?format=json",
+        "id": 1426,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Miami",
+        "ein": 590624458
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7966/?format=json",
+      "date_created": "2016-04-20T08:28:41.222254-07:00",
+      "date_modified": "2016-04-20T08:28:41.222295-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6293/?format=json",
+      "id": 6293,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1426/?format=json",
+        "id": 1426,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Miami",
+        "ein": 590624458
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7966/?format=json",
+      "date_created": "2016-04-20T08:28:41.239361-07:00",
+      "date_modified": "2016-04-20T08:28:41.239394-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/32743/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32744/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32745/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:41.193502-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "gerald-j-whalen",
+  "name_first": "Gerald",
+  "name_middle": "J.",
+  "name_last": "Whalen",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

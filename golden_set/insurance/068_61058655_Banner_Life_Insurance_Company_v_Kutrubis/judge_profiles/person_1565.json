@@ -1,0 +1,79 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1565/?format=json",
+  "id": 1565,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1296/?format=json",
+      "id": 1296,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/383/?format=json",
+        "id": 383,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Union College",
+        "ein": 610461768
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1565/?format=json",
+      "date_created": "2016-04-20T08:19:24.023991-07:00",
+      "date_modified": "2016-04-20T08:19:24.024017-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1828
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9586/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9587/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9588/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9589/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9590/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9591/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9592/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1572/?format=json",
+      "id": 1572,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1565/?format=json",
+      "date_created": "2016-04-20T08:19:24.007633-07:00",
+      "date_modified": "2016-04-20T08:19:24.007658-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1872-12-03",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:23.975401-07:00",
+  "date_modified": "2020-11-25T08:30:20.180891-08:00",
+  "date_completed": null,
+  "fjc_id": 1125,
+  "slug": "ward-hunt",
+  "name_first": "Ward",
+  "name_middle": "",
+  "name_last": "Hunt",
+  "name_suffix": "",
+  "date_dob": "1810-06-14",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1886-03-24",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Utica",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "Washington",
+  "dod_state": "DC",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

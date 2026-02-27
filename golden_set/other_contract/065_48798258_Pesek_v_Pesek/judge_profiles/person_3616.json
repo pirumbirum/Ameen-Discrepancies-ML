@@ -1,0 +1,114 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3616/?format=json",
+  "id": 3616,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1/?format=json",
+      "id": 1,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3616/?format=json",
+      "date_created": "2016-04-20T08:24:14.994613-07:00",
+      "date_modified": "2016-04-20T08:24:14.994635-07:00",
+      "url": "http://judicial.alabama.gov/library/bios/JamesSamuelColemanJr.pdf",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2/?format=json",
+      "id": 2,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3616/?format=json",
+      "date_created": "2016-04-20T08:24:15.001130-07:00",
+      "date_modified": "2016-04-20T08:24:15.001152-07:00",
+      "url": "http://www.newspapers.com/newspage/17127784/",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3038/?format=json",
+      "id": 3038,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/171/?format=json",
+        "id": 171,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "United States Naval Academy",
+        "ein": 973806000
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3616/?format=json",
+      "date_created": "2016-04-20T08:24:14.946444-07:00",
+      "date_modified": "2016-04-20T08:24:14.946468-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3039/?format=json",
+      "id": 3039,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5917/?format=json",
+        "id": 5917,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Alabama",
+        "ein": 636001138
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3616/?format=json",
+      "date_created": "2016-04-20T08:24:14.961276-07:00",
+      "date_modified": "2016-04-20T08:24:14.961300-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22731/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22732/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22733/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22734/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3632/?format=json",
+      "id": 3632,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3616/?format=json",
+      "date_created": "2016-04-20T08:24:14.989486-07:00",
+      "date_modified": "2016-04-20T08:24:14.989510-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:14.921419-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "james-s-coleman",
+  "name_first": "James",
+  "name_middle": "S.",
+  "name_last": "Coleman",
+  "name_suffix": "",
+  "date_dob": "1906-06-08",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1987-08-24",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,85 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4725/?format=json",
+  "id": 4725,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/914/?format=json",
+      "id": 914,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4725/?format=json",
+      "date_created": "2016-04-20T08:25:23.294720-07:00",
+      "date_modified": "2016-04-20T08:25:23.294743-07:00",
+      "url": "http://www.massreports.com/memorials/default.aspx?m=345ma798",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3848/?format=json",
+      "id": 3848,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2328/?format=json",
+        "id": 2328,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Dartmouth College",
+        "ein": 20222111
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4725/?format=json",
+      "date_created": "2016-04-20T08:25:23.237286-07:00",
+      "date_modified": "2016-04-20T08:25:23.237310-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25474/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25475/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25476/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25477/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4061/?format=json",
+      "id": 4061,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4725/?format=json",
+      "date_created": "2016-04-20T08:25:23.288858-07:00",
+      "date_modified": "2016-04-20T08:25:23.288882-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:23.212603-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "louis-cox",
+  "name_first": "Louis",
+  "name_middle": "",
+  "name_last": "Cox",
+  "name_suffix": "",
+  "date_dob": "1874-11-22",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1961-05-12",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

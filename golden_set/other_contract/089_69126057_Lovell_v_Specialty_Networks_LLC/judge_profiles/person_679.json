@@ -1,0 +1,105 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/679/?format=json",
+  "id": 679,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/395/?format=json",
+      "id": 395,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/679/?format=json",
+      "date_created": "2016-04-20T08:17:20.217826-07:00",
+      "date_modified": "2016-04-20T08:17:20.217852-07:00",
+      "year_rated": 1995,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/538/?format=json",
+      "id": 538,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3774/?format=json",
+        "id": 3774,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tennessee State University",
+        "ein": 620786119
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/679/?format=json",
+      "date_created": "2016-04-20T08:17:20.234472-07:00",
+      "date_modified": "2016-04-20T08:17:20.234513-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1971
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/539/?format=json",
+      "id": 539,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1749/?format=json",
+        "id": 1749,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Duke University",
+        "ein": 560532129
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/679/?format=json",
+      "date_created": "2016-04-20T08:17:20.266061-07:00",
+      "date_modified": "2016-04-20T08:17:20.266093-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1974
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/4077/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4078/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4079/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4080/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/684/?format=json",
+      "id": 684,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/679/?format=json",
+      "date_created": "2016-04-20T08:17:20.211093-07:00",
+      "date_modified": "2016-04-20T08:17:20.211122-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1995-02-13",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:20.173711-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 478,
+  "slug": "curtis-lynn-collier",
+  "name_first": "Curtis",
+  "name_middle": "Lynn",
+  "name_last": "Collier",
+  "name_suffix": "",
+  "date_dob": "1949-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Marianna",
+  "dob_state": "AR",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,67 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2068/?format=json",
+  "id": 2068,
+  "race": [
+    "h"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1279/?format=json",
+      "id": 1279,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2068/?format=json",
+      "date_created": "2016-04-20T08:20:37.691226-07:00",
+      "date_modified": "2016-04-20T08:20:37.691249-07:00",
+      "year_rated": 2010,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/12890/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12891/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12892/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12893/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12894/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2077/?format=json",
+      "id": 2077,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2068/?format=json",
+      "date_created": "2016-04-20T08:20:37.684354-07:00",
+      "date_modified": "2016-04-20T08:20:37.684379-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2010-02-24",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:37.652121-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3348,
+  "slug": "william-joseph-martinez",
+  "name_first": "William",
+  "name_middle": "Joseph",
+  "name_last": "Martinez",
+  "name_suffix": "",
+  "date_dob": "1954-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Mexico City",
+  "dob_state": "",
+  "dob_country": "Mexico",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

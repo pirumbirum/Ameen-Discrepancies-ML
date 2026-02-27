@@ -1,0 +1,151 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6468/?format=json",
+  "id": 6468,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2647/?format=json",
+      "id": 2647,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6468/?format=json",
+      "date_created": "2016-04-20T08:27:31.440185-07:00",
+      "date_modified": "2016-04-20T08:27:31.440206-07:00",
+      "url": "https://courts.ms.gov/appellate_courts/sc/bios/justiceking.html",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9933/?format=json",
+      "id": 9933,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6468/?format=json",
+      "date_created": "2022-03-04T12:07:10.615497-08:00",
+      "date_modified": "2022-03-04T12:07:10.615523-08:00",
+      "url": "https://www.courts.ca.gov/3135.htm",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9934/?format=json",
+      "id": 9934,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6468/?format=json",
+      "date_created": "2022-03-04T12:07:10.619923-08:00",
+      "date_modified": "2022-03-04T12:07:10.619944-08:00",
+      "url": "https://www.jamsadr.com/jeffrey-king/",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9935/?format=json",
+      "id": 9935,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6468/?format=json",
+      "date_created": "2022-03-04T12:07:10.623652-08:00",
+      "date_modified": "2022-03-04T12:07:10.623673-08:00",
+      "url": "https://ballotpedia.org/Jeffrey_King",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9936/?format=json",
+      "id": 9936,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6468/?format=json",
+      "date_created": "2022-03-04T12:07:10.627445-08:00",
+      "date_modified": "2022-03-04T12:07:10.627468-08:00",
+      "url": "https://www.martindale.com/attorney/jeffrey-king-80592/",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9937/?format=json",
+      "id": 9937,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6468/?format=json",
+      "date_created": "2022-03-04T12:07:10.634959-08:00",
+      "date_modified": "2022-03-04T12:07:10.634982-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-04",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8589/?format=json",
+      "id": 8589,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4765/?format=json",
+        "id": 4765,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Redlands",
+        "ein": 951643389
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6468/?format=json",
+      "date_created": "2022-03-04T12:07:10.578185-08:00",
+      "date_modified": "2022-03-04T12:07:10.578207-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1972
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8590/?format=json",
+      "id": 8590,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5646/?format=json",
+        "id": 5646,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of the Pacific",
+        "ein": 941156266
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6468/?format=json",
+      "date_created": "2022-03-04T12:07:10.588167-08:00",
+      "date_modified": "2022-03-04T12:07:10.588189-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1976
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/41172/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6125/?format=json",
+      "id": 6125,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6468/?format=json",
+      "date_created": "2022-03-04T12:07:10.570549-08:00",
+      "date_modified": "2022-03-04T12:07:10.570572-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:31.424776-07:00",
+  "date_modified": "2022-03-04T12:07:10.559139-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jeffrey-king",
+  "name_first": "Jeffrey",
+  "name_middle": "",
+  "name_last": "King",
+  "name_suffix": "",
+  "date_dob": "1950-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

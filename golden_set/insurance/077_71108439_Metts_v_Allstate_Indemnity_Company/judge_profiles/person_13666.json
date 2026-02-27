@@ -1,0 +1,133 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13666/?format=json",
+  "id": 13666,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10261/?format=json",
+      "id": 10261,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13666/?format=json",
+      "date_created": "2022-03-06T18:19:13.129144-08:00",
+      "date_modified": "2022-03-06T18:19:13.129165-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10262/?format=json",
+      "id": 10262,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13666/?format=json",
+      "date_created": "2022-03-06T18:19:13.133858-08:00",
+      "date_modified": "2022-03-06T18:19:13.133881-08:00",
+      "url": "https://ballotpedia.org/Alyson_Lewis",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10263/?format=json",
+      "id": 10263,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13666/?format=json",
+      "date_created": "2022-03-06T18:19:13.138010-08:00",
+      "date_modified": "2022-03-06T18:19:13.138033-08:00",
+      "url": "https://www.martindale.com/attorney/alyson-lewis-huber-226471/",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10264/?format=json",
+      "id": 10264,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13666/?format=json",
+      "date_created": "2022-03-06T18:19:13.144959-08:00",
+      "date_modified": "2022-03-06T18:19:13.144981-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-06",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8738/?format=json",
+      "id": 8738,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2624/?format=json",
+        "id": 2624,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Cornell University",
+        "ein": 150532082
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13666/?format=json",
+      "date_created": "2022-03-06T18:19:13.115944-08:00",
+      "date_modified": "2022-03-06T18:19:13.115966-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1996
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8739/?format=json",
+      "id": 8739,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5210/?format=json",
+        "id": 5210,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2025-06-15T22:32:10.957501-07:00",
+        "name": "UC Law San Francisco",
+        "ein": 942581680
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13666/?format=json",
+      "date_created": "2022-03-06T18:19:13.124456-08:00",
+      "date_modified": "2022-03-06T18:19:13.124493-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1999
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43235/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6224/?format=json",
+      "id": 6224,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13666/?format=json",
+      "date_created": "2022-03-06T18:19:13.107534-08:00",
+      "date_modified": "2022-03-06T18:19:13.107559-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:48.666061-07:00",
+  "date_modified": "2022-03-20T19:16:15.137517-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "alyson-lynn-lewis",
+  "name_first": "Alyson",
+  "name_middle": "Lynn",
+  "name_last": "Lewis",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,153 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14646/?format=json",
+  "id": 14646,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13809/?format=json",
+      "id": 13809,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14646/?format=json",
+      "date_created": "2022-04-01T09:35:53.430255-07:00",
+      "date_modified": "2022-04-01T09:35:53.430276-07:00",
+      "url": "https://www.jba.af.mil/News/Features/Display/Article/338321/jewish-community-celebrates-sukkoth/",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13810/?format=json",
+      "id": 13810,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14646/?format=json",
+      "date_created": "2022-04-01T09:35:53.431950-07:00",
+      "date_modified": "2022-04-01T09:35:53.431974-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=ovx4QDufPYfEkf94zvC2rg%3D%3D",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13811/?format=json",
+      "id": 13811,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14646/?format=json",
+      "date_created": "2022-04-01T09:35:53.433066-07:00",
+      "date_modified": "2022-04-01T09:35:53.433085-07:00",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Cohen_(politician)",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13812/?format=json",
+      "id": 13812,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14646/?format=json",
+      "date_created": "2022-04-01T09:35:53.434158-07:00",
+      "date_modified": "2022-04-01T09:35:53.434177-07:00",
+      "url": "https://ballotpedia.org/Andrew_Cohen",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13813/?format=json",
+      "id": 13813,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14646/?format=json",
+      "date_created": "2022-04-01T09:35:53.435134-07:00",
+      "date_modified": "2022-04-01T09:35:53.435152-07:00",
+      "url": "https://www.thecity.nyc/bronx/2020/8/13/21366377/bronx-special-election-city-council-cohen",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13814/?format=json",
+      "id": 13814,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14646/?format=json",
+      "date_created": "2022-04-01T09:35:53.436192-07:00",
+      "date_modified": "2022-04-01T09:35:53.436211-07:00",
+      "url": "https://www.riverdalepress.com/stories/report-bronx-dems-to-nominate-andrew-cohen-for-bench,72311",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10415/?format=json",
+      "id": 10415,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3860/?format=json",
+        "id": 3860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "State University of New York at New Paltz",
+        "ein": 146013200
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14646/?format=json",
+      "date_created": "2022-04-01T09:35:53.420152-07:00",
+      "date_modified": "2022-04-01T09:35:53.420174-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Sociology",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10416/?format=json",
+      "id": 10416,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3963/?format=json",
+        "id": 3963,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yeshiva University",
+        "ein": 131624225
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14646/?format=json",
+      "date_created": "2022-04-01T09:35:53.425230-07:00",
+      "date_modified": "2022-04-01T09:35:53.425252-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/45343/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7295/?format=json",
+      "id": 7295,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14646/?format=json",
+      "date_created": "2022-04-01T09:35:53.428355-07:00",
+      "date_modified": "2022-04-01T09:35:53.428380-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-01T09:35:53.403748-07:00",
+  "date_modified": "2022-04-27T18:58:53.261026-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "andrew-j-cohen",
+  "name_first": "Andrew",
+  "name_middle": "J.",
+  "name_last": "Cohen",
+  "name_suffix": "",
+  "date_dob": "1969-08-09",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Brooklyn, New York City",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "je",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

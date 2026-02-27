@@ -1,0 +1,60 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7996/?format=json",
+  "id": 7996,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3695/?format=json",
+      "id": 3695,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7996/?format=json",
+      "date_created": "2016-04-20T08:28:43.303377-07:00",
+      "date_modified": "2016-04-20T08:28:43.303406-07:00",
+      "url": "http://politicalgraveyard.com/bio/carrott-carten.html#096.82.01",
+      "date_accessed": null,
+      "notes": "NC House of Representatives 1967;NC Attorney General"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3696/?format=json",
+      "id": 3696,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7996/?format=json",
+      "date_created": "2016-04-20T08:28:43.307838-07:00",
+      "date_modified": "2016-04-20T08:28:43.307868-07:00",
+      "url": "http://www.martindale.com/Mr-James-H-Carson-Jr/1394625-lawyer.htm",
+      "date_accessed": null,
+      "notes": "NC House of Representatives 1967;NC Attorney General"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/32820/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32821/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32822/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:43.220595-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "james-h-carson-jr",
+  "name_first": "James",
+  "name_middle": "H.",
+  "name_last": "Carson",
+  "name_suffix": "jr",
+  "date_dob": "1935-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

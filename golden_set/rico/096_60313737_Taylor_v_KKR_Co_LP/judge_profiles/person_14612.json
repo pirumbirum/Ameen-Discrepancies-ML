@@ -1,0 +1,142 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14612/?format=json",
+  "id": 14612,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13670/?format=json",
+      "id": 13670,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14612/?format=json",
+      "date_created": "2022-03-31T09:13:57.081955-07:00",
+      "date_modified": "2022-03-31T09:13:57.081979-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=s60UqbHHPXc0_PLUS_TWp/aM5zQ%3D%3D",
+      "date_accessed": "2022-03-31",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13671/?format=json",
+      "id": 13671,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14612/?format=json",
+      "date_created": "2022-03-31T09:13:57.088348-07:00",
+      "date_modified": "2022-03-31T09:13:57.088372-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-31",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13672/?format=json",
+      "id": 13672,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14612/?format=json",
+      "date_created": "2022-03-31T09:13:57.089813-07:00",
+      "date_modified": "2022-03-31T09:13:57.089848-07:00",
+      "url": "https://ballotpedia.org/Randal_B._Caldwell",
+      "date_accessed": "2022-03-31",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13673/?format=json",
+      "id": 13673,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14612/?format=json",
+      "date_created": "2022-03-31T09:13:57.091198-07:00",
+      "date_modified": "2022-03-31T09:13:57.091222-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/Oneida_County_Family_Court/Randal_Caldwell/Randal_Caldwell-643.xml",
+      "date_accessed": "2022-03-31",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10351/?format=json",
+      "id": 10351,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/25/?format=json",
+        "id": 25,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Ohio Northern University",
+        "ein": 344429091
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14612/?format=json",
+      "date_created": "2022-03-31T09:13:57.065973-07:00",
+      "date_modified": "2022-03-31T09:13:57.065999-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1987
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10352/?format=json",
+      "id": 10352,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5699/?format=json",
+        "id": 5699,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Syracuse University",
+        "ein": 150532081
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14612/?format=json",
+      "date_created": "2022-03-31T09:13:57.072840-07:00",
+      "date_modified": "2022-03-31T09:13:57.072869-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1989
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/45168/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45169/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45170/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45171/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45172/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45173/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45174/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45175/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45176/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45177/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7281/?format=json",
+      "id": 7281,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14612/?format=json",
+      "date_created": "2022-03-31T09:13:57.077832-07:00",
+      "date_modified": "2022-03-31T09:13:57.077868-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-03-31T09:13:57.047206-07:00",
+  "date_modified": "2022-04-26T17:39:43.052961-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "randal-b-caldwell",
+  "name_first": "Randal",
+  "name_middle": "B.",
+  "name_last": "Caldwell",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

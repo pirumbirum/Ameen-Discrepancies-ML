@@ -1,0 +1,125 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15152/?format=json",
+  "id": 15152,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15944/?format=json",
+      "id": 15944,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15152/?format=json",
+      "date_created": "2022-04-19T15:03:40.499874-07:00",
+      "date_modified": "2022-04-19T15:03:40.499902-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-19",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15945/?format=json",
+      "id": 15945,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15152/?format=json",
+      "date_created": "2022-04-19T15:03:40.501232-07:00",
+      "date_modified": "2022-04-19T15:03:40.501251-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=IqUElC1QOrzhRrFb8Y1ndw%3D%3D",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15946/?format=json",
+      "id": 15946,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15152/?format=json",
+      "date_created": "2022-04-19T15:03:40.502098-07:00",
+      "date_modified": "2022-04-19T15:03:40.502117-07:00",
+      "url": "https://ballotpedia.org/Denise_Watson",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15947/?format=json",
+      "id": 15947,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15152/?format=json",
+      "date_created": "2022-04-19T15:03:40.503041-07:00",
+      "date_modified": "2022-04-19T15:03:40.503062-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/Dutchess_County_Family_Court/Denise_Watson/Denise_Watson-50000106.xml",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11438/?format=json",
+      "id": 11438,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/601/?format=json",
+        "id": 601,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Boston University",
+        "ein": 42103547
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15152/?format=json",
+      "date_created": "2022-04-19T15:05:47.682804-07:00",
+      "date_modified": "2022-04-19T15:05:47.682833-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1979
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11439/?format=json",
+      "id": 11439,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5019/?format=json",
+        "id": 5019,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Saint Louis University",
+        "ein": 430654872
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15152/?format=json",
+      "date_created": "2022-04-19T15:05:52.497368-07:00",
+      "date_modified": "2022-04-19T15:05:52.497397-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1982
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/48956/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48957/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48958/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48959/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48960/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48961/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48962/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-04-19T15:03:40.416608-07:00",
+  "date_modified": "2022-06-08T12:29:07.645757-07:00",
+  "date_completed": "2022-06-08T11:37:11-07:00",
+  "fjc_id": null,
+  "slug": "denise-m-watson",
+  "name_first": "Denise",
+  "name_middle": "M.",
+  "name_last": "Watson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

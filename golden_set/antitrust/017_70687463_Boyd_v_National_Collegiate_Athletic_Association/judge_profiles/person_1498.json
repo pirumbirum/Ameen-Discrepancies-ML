@@ -1,0 +1,96 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1498/?format=json",
+  "id": 1498,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1250/?format=json",
+      "id": 1250,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2629/?format=json",
+        "id": 2629,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Millsaps College",
+        "ein": 640303084
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1498/?format=json",
+      "date_created": "2016-04-20T08:19:14.451810-07:00",
+      "date_modified": "2016-04-20T08:19:14.451835-07:00",
+      "degree_level": "",
+      "degree_detail": "",
+      "degree_year": 1896
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1251/?format=json",
+      "id": 1251,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5931/?format=json",
+        "id": 5931,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Mississippi",
+        "ein": 646001159
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1498/?format=json",
+      "date_created": "2016-04-20T08:19:14.466418-07:00",
+      "date_modified": "2016-04-20T08:19:14.466441-07:00",
+      "degree_level": "",
+      "degree_detail": "",
+      "degree_year": 1899
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9140/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9142/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9143/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9144/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9141/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1506/?format=json",
+      "id": 1506,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1498/?format=json",
+      "date_created": "2016-04-20T08:19:14.402413-07:00",
+      "date_modified": "2016-04-20T08:19:14.402437-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1918-10-17",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:14.372615-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1081,
+  "slug": "edwin-ruthven-holmes",
+  "name_first": "Edwin",
+  "name_middle": "Ruthven",
+  "name_last": "Holmes",
+  "name_suffix": "",
+  "date_dob": "1878-10-01",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1961-12-10",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Sidon",
+  "dob_state": "MS",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

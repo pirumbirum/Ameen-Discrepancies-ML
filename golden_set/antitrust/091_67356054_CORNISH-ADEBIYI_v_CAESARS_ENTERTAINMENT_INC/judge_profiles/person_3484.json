@@ -1,0 +1,67 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3484/?format=json",
+  "id": 3484,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2193/?format=json",
+      "id": 2193,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3484/?format=json",
+      "date_created": "2016-04-20T08:23:55.369526-07:00",
+      "date_modified": "2016-04-20T08:23:55.369552-07:00",
+      "year_rated": 1969,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/21915/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21916/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21917/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21918/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21919/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3503/?format=json",
+      "id": 3503,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3484/?format=json",
+      "date_created": "2016-04-20T08:23:55.363220-07:00",
+      "date_modified": "2016-04-20T08:23:55.363252-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1969-05-08",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:23:55.326229-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2594,
+  "slug": "david-welford-williams",
+  "name_first": "David",
+  "name_middle": "Welford",
+  "name_last": "Williams",
+  "name_suffix": "",
+  "date_dob": "1910-03-20",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2000-05-06",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Atlanta",
+  "dob_state": "GA",
+  "dob_country": "United States",
+  "dod_city": "Los Angeles",
+  "dod_state": "CA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

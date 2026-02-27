@@ -1,0 +1,120 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14341/?format=json",
+  "id": 14341,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11800/?format=json",
+      "id": 11800,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14341/?format=json",
+      "date_created": "2022-03-10T16:27:13.975267-08:00",
+      "date_modified": "2022-03-10T16:27:13.975302-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-10",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11801/?format=json",
+      "id": 11801,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14341/?format=json",
+      "date_created": "2022-03-10T16:27:13.979976-08:00",
+      "date_modified": "2022-03-10T16:27:13.979998-08:00",
+      "url": "https://www.martindale.com/attorney/jose-omar-rodriguez-300017692/",
+      "date_accessed": "2022-03-10",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11802/?format=json",
+      "id": 11802,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14341/?format=json",
+      "date_created": "2022-03-10T16:27:13.983817-08:00",
+      "date_modified": "2022-03-10T16:27:13.983839-08:00",
+      "url": "https://trellis.law/judge/jose.omar.rodriguez",
+      "date_accessed": "2022-03-10",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11803/?format=json",
+      "id": 11803,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14341/?format=json",
+      "date_created": "2022-03-10T16:27:13.992011-08:00",
+      "date_modified": "2022-03-10T16:27:13.992033-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-10",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9460/?format=json",
+      "id": 9460,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14341/?format=json",
+      "date_created": "2022-03-10T16:27:13.933936-08:00",
+      "date_modified": "2022-03-10T16:27:13.933960-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Legal Studies",
+      "degree_year": 2003
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9461/?format=json",
+      "id": 9461,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14341/?format=json",
+      "date_created": "2022-03-10T16:27:13.945688-08:00",
+      "date_modified": "2022-03-10T16:27:13.945713-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44034/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44033/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:17.738368-07:00",
+  "date_modified": "2022-03-21T14:36:33.105748-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jose-omar-rodriguez",
+  "name_first": "Jose",
+  "name_middle": "Omar",
+  "name_last": "Rodriguez",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

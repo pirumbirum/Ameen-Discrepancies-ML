@@ -1,0 +1,113 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14193/?format=json",
+  "id": 14193,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6121/?format=json",
+      "id": 6121,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14193/?format=json",
+      "date_created": "2022-02-07T12:08:06.526893-08:00",
+      "date_modified": "2022-02-07T12:08:06.526917-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6122/?format=json",
+      "id": 6122,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14193/?format=json",
+      "date_created": "2022-02-07T12:08:06.539007-08:00",
+      "date_modified": "2022-02-07T12:08:06.539031-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-07",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6980/?format=json",
+      "id": 6980,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14193/?format=json",
+      "date_created": "2022-02-07T12:08:06.504265-08:00",
+      "date_modified": "2022-02-07T12:08:06.504286-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2001
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6981/?format=json",
+      "id": 6981,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14193/?format=json",
+      "date_created": "2022-02-07T12:08:06.513187-08:00",
+      "date_modified": "2022-02-07T12:08:06.513208-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43877/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5032/?format=json",
+      "id": 5032,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14193/?format=json",
+      "date_created": "2022-02-07T12:08:06.519485-08:00",
+      "date_modified": "2022-02-07T12:08:06.519508-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:11.730601-07:00",
+  "date_modified": "2022-02-07T12:18:23.979826-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "rashida-a-adams",
+  "name_first": "Rashida",
+  "name_middle": "A.",
+  "name_last": "Adams",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

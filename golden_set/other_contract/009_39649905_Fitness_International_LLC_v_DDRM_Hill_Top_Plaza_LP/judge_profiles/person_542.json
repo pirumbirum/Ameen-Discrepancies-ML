@@ -1,0 +1,112 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/542/?format=json",
+  "id": 542,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/313/?format=json",
+      "id": 313,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/542/?format=json",
+      "date_created": "2016-04-20T08:17:01.616351-07:00",
+      "date_modified": "2016-04-20T08:17:01.616373-07:00",
+      "year_rated": 2011,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/421/?format=json",
+      "id": 421,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/542/?format=json",
+      "date_created": "2016-04-20T08:17:01.631173-07:00",
+      "date_modified": "2016-04-20T08:17:01.631198-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1973
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/422/?format=json",
+      "id": 422,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/542/?format=json",
+      "date_created": "2016-04-20T08:17:01.660460-07:00",
+      "date_modified": "2016-04-20T08:17:01.660488-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1977
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/3182/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3183/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3184/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3185/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3186/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3187/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3188/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3189/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3190/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3191/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3192/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/548/?format=json",
+      "id": 548,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/542/?format=json",
+      "date_created": "2016-04-20T08:17:01.609308-07:00",
+      "date_modified": "2016-04-20T08:17:01.609354-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2011-01-05",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:01.576899-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3375,
+  "slug": "susan-laura-carney",
+  "name_first": "Susan",
+  "name_middle": "Laura",
+  "name_last": "Carney",
+  "name_suffix": "",
+  "date_dob": "1951-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Waltham",
+  "dob_state": "MA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

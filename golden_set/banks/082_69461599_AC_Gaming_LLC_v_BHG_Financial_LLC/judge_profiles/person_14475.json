@@ -1,0 +1,119 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14475/?format=json",
+  "id": 14475,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8591/?format=json",
+      "id": 8591,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14475/?format=json",
+      "date_created": "2022-02-23T19:32:09.942274-08:00",
+      "date_modified": "2022-02-23T19:32:09.942295-08:00",
+      "url": "https://www.bloomberg.com/profile/person/22011421",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8592/?format=json",
+      "id": 8592,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14475/?format=json",
+      "date_created": "2022-02-23T19:32:09.943777-08:00",
+      "date_modified": "2022-02-23T19:32:09.943800-08:00",
+      "url": "https://www.linkedin.com/in/brian-s-meyers-b342b283/",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8593/?format=json",
+      "id": 8593,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14475/?format=json",
+      "date_created": "2022-02-23T19:32:09.944910-08:00",
+      "date_modified": "2022-02-23T19:32:09.944933-08:00",
+      "url": "https://www.uscourts.gov/judicial-milestones/brian-scott-meyers",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8594/?format=json",
+      "id": 8594,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14475/?format=json",
+      "date_created": "2022-02-23T19:32:09.946004-08:00",
+      "date_modified": "2022-02-23T19:32:09.946027-08:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Meyers-BS.%20M.%2004.%20NCE_SR_20.pdf",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7988/?format=json",
+      "id": 7988,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5941/?format=json",
+        "id": 5941,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Richmond",
+        "ein": 540505965
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14475/?format=json",
+      "date_created": "2022-02-23T19:32:09.936347-08:00",
+      "date_modified": "2022-02-23T19:32:09.936370-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2004
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7989/?format=json",
+      "id": 7989,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1530/?format=json",
+        "id": 1530,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Davidson College",
+        "ein": 560529961
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14475/?format=json",
+      "date_created": "2022-02-23T19:32:09.940889-08:00",
+      "date_modified": "2022-02-23T19:32:09.940912-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Political Science",
+      "degree_year": 1999
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44384/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-02-23T19:32:09.914356-08:00",
+  "date_modified": "2022-02-23T19:32:09.914400-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "brian-scott-meyers",
+  "name_first": "Brian",
+  "name_middle": "Scott",
+  "name_last": "Meyers",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

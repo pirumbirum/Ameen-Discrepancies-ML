@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5413/?format=json",
+  "id": 5413,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1580/?format=json",
+      "id": 1580,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5413/?format=json",
+      "date_created": "2016-04-20T08:26:17.841809-07:00",
+      "date_modified": "2016-04-20T08:26:17.841830-07:00",
+      "url": "http://www.okcca.net/judges/judgeajohnson.html",
+      "date_accessed": null,
+      "notes": "Senior Tears: 2011-12"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4450/?format=json",
+      "id": 4450,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4044/?format=json",
+        "id": 4044,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Oklahoma-Norman Campus",
+        "ein": 736017987
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5413/?format=json",
+      "date_created": "2016-04-20T08:26:17.818597-07:00",
+      "date_modified": "2016-04-20T08:26:17.818640-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27466/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27467/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27468/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:17.764482-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "arlene-johnson",
+  "name_first": "Arlene",
+  "name_middle": "",
+  "name_last": "Johnson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

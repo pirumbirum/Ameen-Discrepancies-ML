@@ -1,0 +1,74 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7173/?format=json",
+  "id": 7173,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5946/?format=json",
+      "id": 5946,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3192/?format=json",
+        "id": 3192,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Mercer University",
+        "ein": 580566167
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7173/?format=json",
+      "date_created": "2016-04-20T08:28:05.833641-07:00",
+      "date_modified": "2016-04-20T08:28:05.833669-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/31401/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/31402/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/31403/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/31404/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4759/?format=json",
+      "id": 4759,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7173/?format=json",
+      "date_created": "2016-04-20T08:28:05.860321-07:00",
+      "date_modified": "2016-04-20T08:28:05.860346-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:05.789730-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "david-monroe-parker",
+  "name_first": "David",
+  "name_middle": "Monroe",
+  "name_last": "Parker",
+  "name_suffix": "",
+  "date_dob": "1887-08-05",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1949-06-04",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

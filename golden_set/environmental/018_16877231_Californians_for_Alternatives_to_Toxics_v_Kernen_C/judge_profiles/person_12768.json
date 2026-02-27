@@ -1,0 +1,115 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12768/?format=json",
+  "id": 12768,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11827/?format=json",
+      "id": 11827,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12768/?format=json",
+      "date_created": "2022-03-10T17:15:12.988782-08:00",
+      "date_modified": "2022-03-10T17:15:12.988821-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-10",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11828/?format=json",
+      "id": 11828,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12768/?format=json",
+      "date_created": "2022-03-10T17:15:12.994320-08:00",
+      "date_modified": "2022-03-10T17:15:12.994359-08:00",
+      "url": "https://ballotpedia.org/Charles_Rogers",
+      "date_accessed": "2022-03-10",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11829/?format=json",
+      "id": 11829,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12768/?format=json",
+      "date_created": "2022-03-10T17:15:12.999005-08:00",
+      "date_modified": "2022-03-10T17:15:12.999030-08:00",
+      "url": "https://www.martindale.com/attorney/charles-galton-rogers-1502143/",
+      "date_accessed": "2022-03-10",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11830/?format=json",
+      "id": 11830,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12768/?format=json",
+      "date_created": "2022-03-10T17:15:13.006200-08:00",
+      "date_modified": "2022-03-10T17:15:13.006228-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-10",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9474/?format=json",
+      "id": 9474,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1617/?format=json",
+        "id": 1617,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Denver",
+        "ein": 840404231
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12768/?format=json",
+      "date_created": "2022-03-10T17:15:12.966343-08:00",
+      "date_modified": "2022-03-10T17:15:12.966371-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1974
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/41937/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/41936/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6727/?format=json",
+      "id": 6727,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12768/?format=json",
+      "date_created": "2022-03-10T17:15:12.956997-08:00",
+      "date_modified": "2022-03-10T17:15:12.957025-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:05.202668-07:00",
+  "date_modified": "2022-03-21T14:39:12.626805-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "charles-galton-rogers",
+  "name_first": "Charles",
+  "name_middle": "Galton",
+  "name_last": "Rogers",
+  "name_suffix": "",
+  "date_dob": "1950-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

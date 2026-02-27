@@ -1,0 +1,67 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4287/?format=json",
+  "id": 4287,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/335/?format=json",
+      "id": 335,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4287/?format=json",
+      "date_created": "2016-04-20T08:24:51.257446-07:00",
+      "date_modified": "2016-04-20T08:24:51.257466-07:00",
+      "url": "http://site.ebrary.com/lib/columbia/reader.action?docID=10955894",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24246/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24247/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24248/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24249/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24250/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24251/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3888/?format=json",
+      "id": 3888,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4287/?format=json",
+      "date_created": "2016-04-20T08:24:51.251626-07:00",
+      "date_modified": "2016-04-20T08:24:51.251649-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:51.199078-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jehu-t-elliott",
+  "name_first": "Jehu",
+  "name_middle": "T.",
+  "name_last": "Elliott",
+  "name_suffix": "",
+  "date_dob": "1813-02-07",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1876-02-12",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

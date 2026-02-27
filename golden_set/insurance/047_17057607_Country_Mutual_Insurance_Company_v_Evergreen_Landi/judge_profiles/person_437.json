@@ -1,0 +1,66 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/437/?format=json",
+  "id": 437,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/251/?format=json",
+      "id": 251,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/437/?format=json",
+      "date_created": "2016-04-20T08:16:47.546457-07:00",
+      "date_modified": "2016-04-20T08:16:47.546478-07:00",
+      "year_rated": 1971,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/2562/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2563/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2564/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2565/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/439/?format=json",
+      "id": 439,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/437/?format=json",
+      "date_created": "2016-04-20T08:16:47.539254-07:00",
+      "date_modified": "2016-04-20T08:16:47.539280-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1971-07-19",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:47.507951-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 296,
+  "slug": "albert-vickers-bryan-jr",
+  "name_first": "Albert",
+  "name_middle": "Vickers",
+  "name_last": "Bryan",
+  "name_suffix": "jr",
+  "date_dob": "1926-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Alexandria",
+  "dob_state": "VA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

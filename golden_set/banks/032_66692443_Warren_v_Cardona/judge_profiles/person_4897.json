@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4897/?format=json",
+  "id": 4897,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1107/?format=json",
+      "id": 1107,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4897/?format=json",
+      "date_created": "2016-04-20T08:25:39.757532-07:00",
+      "date_modified": "2016-04-20T08:25:39.757571-07:00",
+      "url": "http://politicalgraveyard.com/bio/price.html#338.11.09",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25993/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:39.712585-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "james-houston-price",
+  "name_first": "James",
+  "name_middle": "Houston",
+  "name_last": "Price",
+  "name_suffix": "",
+  "date_dob": "1861-08-26",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1947-03-24",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

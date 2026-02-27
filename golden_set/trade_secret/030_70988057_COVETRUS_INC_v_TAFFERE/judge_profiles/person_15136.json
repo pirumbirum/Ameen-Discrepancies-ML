@@ -1,0 +1,168 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15136/?format=json",
+  "id": 15136,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15875/?format=json",
+      "id": 15875,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15136/?format=json",
+      "date_created": "2022-04-19T11:48:02.432749-07:00",
+      "date_modified": "2022-04-19T11:48:02.432773-07:00",
+      "url": "https://www.linkedin.com/in/hon-craig-s-walker-5a3b5112/",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15876/?format=json",
+      "id": 15876,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15136/?format=json",
+      "date_created": "2022-04-19T11:48:02.435077-07:00",
+      "date_modified": "2022-04-19T11:48:02.435101-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-19",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15877/?format=json",
+      "id": 15877,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15136/?format=json",
+      "date_created": "2022-04-19T11:48:02.436319-07:00",
+      "date_modified": "2022-04-19T11:48:02.436343-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=qko1ve5LpftSOrJp8oOLTA%3D%3D",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15878/?format=json",
+      "id": 15878,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15136/?format=json",
+      "date_created": "2022-04-19T11:48:02.437578-07:00",
+      "date_modified": "2022-04-19T11:48:02.437603-07:00",
+      "url": "https://ballotpedia.org/Craig_Walker_(New_York)",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15879/?format=json",
+      "id": 15879,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15136/?format=json",
+      "date_created": "2022-04-19T11:48:02.438889-07:00",
+      "date_modified": "2022-04-19T11:48:02.438913-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/New_York_City_Criminal_Court,_Kings_County/Craig_Walker/Craig_Walker-50000163.xml",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11406/?format=json",
+      "id": 11406,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2835/?format=json",
+        "id": 2835,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "National University",
+        "ein": 237172306
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15136/?format=json",
+      "date_created": "2022-04-19T11:48:02.417440-07:00",
+      "date_modified": "2022-04-19T11:48:02.417465-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1998
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11407/?format=json",
+      "id": 11407,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5189/?format=json",
+        "id": 5189,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "San Diego Miramar College",
+        "ein": 952644299
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15136/?format=json",
+      "date_created": "2022-04-19T11:48:02.422979-07:00",
+      "date_modified": "2022-04-19T11:48:02.423004-07:00",
+      "degree_level": "aa",
+      "degree_detail": "",
+      "degree_year": 1996
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11408/?format=json",
+      "id": 11408,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2380/?format=json",
+        "id": 2380,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Hofstra University",
+        "ein": 111630906
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15136/?format=json",
+      "date_created": "2022-04-19T11:48:02.427274-07:00",
+      "date_modified": "2022-04-19T11:48:02.427299-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2001
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/48809/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48810/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48811/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48812/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48813/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48814/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48815/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7791/?format=json",
+      "id": 7791,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15136/?format=json",
+      "date_created": "2022-04-19T11:48:02.430275-07:00",
+      "date_modified": "2022-04-19T11:48:02.430298-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-19T11:48:02.400442-07:00",
+  "date_modified": "2022-06-07T13:18:50.603358-07:00",
+  "date_completed": "2022-06-07T12:38:17-07:00",
+  "fjc_id": null,
+  "slug": "craig-s-walker",
+  "name_first": "Craig",
+  "name_middle": "S.",
+  "name_last": "Walker",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

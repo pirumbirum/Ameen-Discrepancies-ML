@@ -1,0 +1,49 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8479/?format=json",
+  "id": 8479,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4172/?format=json",
+      "id": 4172,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8479/?format=json",
+      "date_created": "2016-04-20T08:29:12.317539-07:00",
+      "date_modified": "2016-04-20T08:29:12.317561-07:00",
+      "url": "http://wicourts.gov/courts/appeals/judges/brown.htm",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33473/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33474/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:29:12.262427-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "richard-s-brown",
+  "name_first": "Richard",
+  "name_middle": "S.",
+  "name_last": "Brown",
+  "name_suffix": "",
+  "date_dob": "1946-03-31",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

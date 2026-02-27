@@ -1,0 +1,123 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14574/?format=json",
+  "id": 14574,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13532/?format=json",
+      "id": 13532,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14574/?format=json",
+      "date_created": "2022-03-29T12:12:38.467542-07:00",
+      "date_modified": "2022-03-29T12:12:38.467566-07:00",
+      "url": "https://ballotpedia.org/Steven_Barrett",
+      "date_accessed": "2022-03-29",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13533/?format=json",
+      "id": 13533,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14574/?format=json",
+      "date_created": "2022-03-29T12:12:38.469818-07:00",
+      "date_modified": "2022-03-29T12:12:38.469853-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/Supreme_Court,_Bronx_County/Steven_Barrett/Steven_Barrett-40.xml",
+      "date_accessed": "2022-03-29",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13534/?format=json",
+      "id": 13534,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14574/?format=json",
+      "date_created": "2022-03-29T12:12:38.470945-07:00",
+      "date_modified": "2022-03-29T12:12:38.470968-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=IXjeOpXjTwZgLkoYpe//8w%3D%3D",
+      "date_accessed": "2022-03-29",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13535/?format=json",
+      "id": 13535,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14574/?format=json",
+      "date_created": "2022-03-29T12:12:38.472013-07:00",
+      "date_modified": "2022-03-29T12:12:38.472033-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-29",
+      "notes": "American Bench, 2021 ed."
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10278/?format=json",
+      "id": 10278,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14574/?format=json",
+      "date_created": "2022-03-29T12:12:38.461206-07:00",
+      "date_modified": "2022-03-29T12:12:38.461233-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10279/?format=json",
+      "id": 10279,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2310/?format=json",
+        "id": 2310,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Colgate University",
+        "ein": 150532078
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14574/?format=json",
+      "date_created": "2022-03-29T12:12:38.466159-07:00",
+      "date_modified": "2022-03-29T12:12:38.466182-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44941/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44942/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44943/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44944/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44945/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-03-29T12:12:38.448622-07:00",
+  "date_modified": "2022-04-25T12:10:21.601965-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "steven-l-barrett",
+  "name_first": "Steven",
+  "name_middle": "L.",
+  "name_last": "Barrett",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

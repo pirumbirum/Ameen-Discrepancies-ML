@@ -1,0 +1,103 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14573/?format=json",
+  "id": 14573,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13528/?format=json",
+      "id": 13528,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14573/?format=json",
+      "date_created": "2022-03-29T12:08:06.090729-07:00",
+      "date_modified": "2022-03-29T12:08:06.090752-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-29",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13529/?format=json",
+      "id": 13529,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14573/?format=json",
+      "date_created": "2022-03-29T12:08:06.092847-07:00",
+      "date_modified": "2022-03-29T12:08:06.092870-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=UZKLuz14h3fYAckHKw_PLUS_Qrw%3D%3D",
+      "date_accessed": "2022-03-29",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13530/?format=json",
+      "id": 13530,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14573/?format=json",
+      "date_created": "2022-03-29T12:08:06.093853-07:00",
+      "date_modified": "2022-03-29T12:08:06.093873-07:00",
+      "url": "https://ballotpedia.org/Daniel_G._Barrett",
+      "date_accessed": "2022-03-29",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13531/?format=json",
+      "id": 13531,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14573/?format=json",
+      "date_created": "2022-03-29T12:08:06.094896-07:00",
+      "date_modified": "2022-03-29T12:08:06.094918-07:00",
+      "url": "https://lawyers.justia.com/lawyer/daniel-g-barrett-1123262",
+      "date_accessed": "2022-03-29",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10277/?format=json",
+      "id": 10277,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/62/?format=json",
+        "id": 62,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Albany Law School",
+        "ein": 141338309
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14573/?format=json",
+      "date_created": "2022-03-29T12:08:06.088305-07:00",
+      "date_modified": "2022-03-29T12:08:06.088330-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44937/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44938/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44939/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44940/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-03-29T12:08:06.069162-07:00",
+  "date_modified": "2022-04-25T11:52:00.448955-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "daniel-g-barrett",
+  "name_first": "Daniel",
+  "name_middle": "G.",
+  "name_last": "Barrett",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

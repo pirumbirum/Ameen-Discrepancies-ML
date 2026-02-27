@@ -1,0 +1,166 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13846/?format=json",
+  "id": 13846,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13036/?format=json",
+      "id": 13036,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13846/?format=json",
+      "date_created": "2022-03-16T11:23:57.524557-07:00",
+      "date_modified": "2022-03-16T11:23:57.524595-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13037/?format=json",
+      "id": 13037,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13846/?format=json",
+      "date_created": "2022-03-16T11:23:57.532061-07:00",
+      "date_modified": "2022-03-16T11:23:57.532099-07:00",
+      "url": "https://ballotpedia.org/Laurel_D._White",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13038/?format=json",
+      "id": 13038,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13846/?format=json",
+      "date_created": "2022-03-16T11:23:57.537210-07:00",
+      "date_modified": "2022-03-16T11:23:57.537248-07:00",
+      "url": "https://www.martindale.com/attorney/laurel-elizabeth-defoe-200359/",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13039/?format=json",
+      "id": 13039,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13846/?format=json",
+      "date_created": "2022-03-16T11:23:57.544108-07:00",
+      "date_modified": "2022-03-16T11:23:57.544146-07:00",
+      "url": "https://trellis.law/judge/laurel.d.white",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13040/?format=json",
+      "id": 13040,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13846/?format=json",
+      "date_created": "2022-03-16T11:23:57.549085-07:00",
+      "date_modified": "2022-03-16T11:23:57.549122-07:00",
+      "url": "https://www.linkedin.com/in/laurel-white-535561a0/",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13041/?format=json",
+      "id": 13041,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13846/?format=json",
+      "date_created": "2022-03-16T11:23:57.558003-07:00",
+      "date_modified": "2022-03-16T11:23:57.558043-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10072/?format=json",
+      "id": 10072,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2962/?format=json",
+        "id": 2962,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Kansas",
+        "ein": 481124839
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13846/?format=json",
+      "date_created": "2022-03-16T11:23:57.498956-07:00",
+      "date_modified": "2022-03-16T11:23:57.498980-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Broadcast Journalism",
+      "degree_year": 1974
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10073/?format=json",
+      "id": 10073,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5646/?format=json",
+        "id": 5646,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of the Pacific",
+        "ein": 941156266
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13846/?format=json",
+      "date_created": "2022-03-16T11:23:57.516082-07:00",
+      "date_modified": "2022-03-16T11:23:57.516123-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1986
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43485/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7137/?format=json",
+      "id": 7137,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13846/?format=json",
+      "date_created": "2022-03-16T11:23:57.481657-07:00",
+      "date_modified": "2022-03-16T11:23:57.481682-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7138/?format=json",
+      "id": 7138,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13846/?format=json",
+      "date_created": "2022-03-16T11:23:57.490388-07:00",
+      "date_modified": "2022-03-16T11:23:57.490412-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:57.173871-07:00",
+  "date_modified": "2022-03-23T16:07:32.982803-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "laurel-defoe-white",
+  "name_first": "Laurel",
+  "name_middle": "Defoe",
+  "name_last": "White",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/683/?format=json",
+  "id": 683,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/399/?format=json",
+      "id": 399,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/683/?format=json",
+      "date_created": "2016-04-20T08:17:20.830393-07:00",
+      "date_modified": "2016-04-20T08:17:20.830419-07:00",
+      "year_rated": 1998,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/4104/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4105/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4106/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4107/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4108/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4109/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4110/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4111/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/688/?format=json",
+      "id": 688,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/683/?format=json",
+      "date_created": "2016-04-20T08:17:20.823539-07:00",
+      "date_modified": "2016-04-20T08:17:20.823564-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1998-05-11",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:20.792501-07:00",
+  "date_modified": "2020-11-25T08:30:19.761745-08:00",
+  "date_completed": null,
+  "fjc_id": 2781,
+  "slug": "raner-christercunean-collins",
+  "name_first": "Raner",
+  "name_middle": "Christercunean",
+  "name_last": "Collins",
+  "name_suffix": "",
+  "date_dob": "1952-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Malvern",
+  "dob_state": "AR",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

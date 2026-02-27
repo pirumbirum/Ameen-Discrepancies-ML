@@ -1,0 +1,57 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2320/?format=json",
+  "id": 2320,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14487/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14488/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14489/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14490/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14491/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2327/?format=json",
+      "id": 2327,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2320/?format=json",
+      "date_created": "2016-04-20T08:21:12.302320-07:00",
+      "date_modified": "2016-04-20T08:21:12.302344-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1893-04-14",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:12.258504-07:00",
+  "date_modified": "2020-11-25T08:30:19.531484-08:00",
+  "date_completed": null,
+  "fjc_id": 1695,
+  "slug": "martin-ferdinand-morris",
+  "name_first": "Martin",
+  "name_middle": "Ferdinand",
+  "name_last": "Morris",
+  "name_suffix": "",
+  "date_dob": "1834-12-03",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1909-09-12",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Youghal",
+  "dob_state": "",
+  "dob_country": "Ireland",
+  "dod_city": "Washington",
+  "dod_state": "DC",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

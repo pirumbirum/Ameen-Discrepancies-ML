@@ -1,0 +1,151 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15536/?format=json",
+  "id": 15536,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17305/?format=json",
+      "id": 17305,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15536/?format=json",
+      "date_created": "2022-06-23T11:50:33.489927-07:00",
+      "date_modified": "2022-06-23T11:50:33.489947-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-06-23",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17306/?format=json",
+      "id": 17306,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15536/?format=json",
+      "date_created": "2022-06-23T12:11:49.030806-07:00",
+      "date_modified": "2022-06-23T12:11:49.030822-07:00",
+      "url": "https://ballotpedia.org/Mary_Brown_(Texas_judge)",
+      "date_accessed": "2022-06-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17307/?format=json",
+      "id": 17307,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15536/?format=json",
+      "date_created": "2022-06-23T12:11:49.034408-07:00",
+      "date_modified": "2022-06-23T12:11:49.034423-07:00",
+      "url": "https://www.dallascounty.org/government/courts/family_district/301st/",
+      "date_accessed": "2022-06-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17308/?format=json",
+      "id": 17308,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15536/?format=json",
+      "date_created": "2022-06-23T12:11:49.034947-07:00",
+      "date_modified": "2022-06-23T12:11:49.034960-07:00",
+      "url": "http://www.judgemarybrown.com/about-judge-brown.html",
+      "date_accessed": "2022-06-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17309/?format=json",
+      "id": 17309,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15536/?format=json",
+      "date_created": "2022-06-23T12:11:49.035401-07:00",
+      "date_modified": "2022-06-23T12:11:49.035412-07:00",
+      "url": "",
+      "date_accessed": "2022-06-23",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11874/?format=json",
+      "id": 11874,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15536/?format=json",
+      "date_created": "2022-06-23T11:50:33.470328-07:00",
+      "date_modified": "2022-06-23T11:50:33.470347-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Business Administration",
+      "degree_year": 1982
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11875/?format=json",
+      "id": 11875,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2480/?format=json",
+        "id": 2480,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Houston",
+        "ein": 746001399
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15536/?format=json",
+      "date_created": "2022-06-23T11:50:33.481068-07:00",
+      "date_modified": "2022-06-23T11:50:33.481091-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1986
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49783/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49784/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49785/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49786/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49787/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49789/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49790/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49791/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49788/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8091/?format=json",
+      "id": 8091,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15536/?format=json",
+      "date_created": "2022-06-23T11:50:33.484482-07:00",
+      "date_modified": "2022-06-23T11:50:33.484499-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-06-23T11:50:33.380966-07:00",
+  "date_modified": "2022-06-23T12:15:37.056284-07:00",
+  "date_completed": "2022-06-23T11:17:29-07:00",
+  "fjc_id": null,
+  "slug": "mary-c-brown",
+  "name_first": "Mary",
+  "name_middle": "C.",
+  "name_last": "Brown",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

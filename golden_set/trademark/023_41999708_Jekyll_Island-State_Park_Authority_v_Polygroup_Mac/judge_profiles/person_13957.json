@@ -1,0 +1,142 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13957/?format=json",
+  "id": 13957,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13166/?format=json",
+      "id": 13166,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13957/?format=json",
+      "date_created": "2022-03-16T15:36:46.391096-07:00",
+      "date_modified": "2022-03-16T15:36:46.391119-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13167/?format=json",
+      "id": 13167,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13957/?format=json",
+      "date_created": "2022-03-16T15:36:46.400156-07:00",
+      "date_modified": "2022-03-16T15:36:46.400179-07:00",
+      "url": "https://ballotpedia.org/Tamara_Wood",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13168/?format=json",
+      "id": 13168,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13957/?format=json",
+      "date_created": "2022-03-16T15:36:46.408462-07:00",
+      "date_modified": "2022-03-16T15:36:46.408484-07:00",
+      "url": "https://www.martindale.com/attorney/tamara-lea-wood-44117719/",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13169/?format=json",
+      "id": 13169,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13957/?format=json",
+      "date_created": "2022-03-16T15:36:46.413538-07:00",
+      "date_modified": "2022-03-16T15:36:46.413561-07:00",
+      "url": "https://trellis.law/judge/tamara.l.wood",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13170/?format=json",
+      "id": 13170,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13957/?format=json",
+      "date_created": "2022-03-16T15:36:46.422731-07:00",
+      "date_modified": "2022-03-16T15:36:46.422755-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10125/?format=json",
+      "id": 10125,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1147/?format=json",
+        "id": 1147,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "California State University-Chico",
+        "ein": 951230865
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13957/?format=json",
+      "date_created": "2022-03-16T15:36:46.363441-07:00",
+      "date_modified": "2022-03-16T15:36:46.363464-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10126/?format=json",
+      "id": 10126,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6472/?format=json",
+        "id": 6472,
+        "is_alias_of": null,
+        "date_created": "2022-03-07T10:31:01.178807-08:00",
+        "date_modified": "2022-03-07T10:31:01.178846-08:00",
+        "name": "Cal Northern School of Law",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13957/?format=json",
+      "date_created": "2022-03-16T15:36:46.372370-07:00",
+      "date_modified": "2022-03-16T15:36:46.372393-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1997
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43619/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44609/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7181/?format=json",
+      "id": 7181,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13957/?format=json",
+      "date_created": "2022-03-16T15:36:46.354976-07:00",
+      "date_modified": "2022-03-16T15:36:46.355001-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:02.104725-07:00",
+  "date_modified": "2022-03-23T16:45:52.662788-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "tamara-lea-wood",
+  "name_first": "Tamara",
+  "name_middle": "Lea",
+  "name_last": "Wood",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

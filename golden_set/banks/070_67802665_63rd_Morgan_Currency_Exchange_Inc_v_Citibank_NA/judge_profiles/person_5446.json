@@ -1,0 +1,93 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5446/?format=json",
+  "id": 5446,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1624/?format=json",
+      "id": 1624,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5446/?format=json",
+      "date_created": "2016-04-20T08:26:20.460348-07:00",
+      "date_modified": "2016-04-20T08:26:20.460373-07:00",
+      "url": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=71223066",
+      "date_accessed": null,
+      "notes": "Served from 1924-1930, and then again from 1955-56 upon the death of Arnold"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1625/?format=json",
+      "id": 1625,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5446/?format=json",
+      "date_created": "2016-04-20T08:26:20.468252-07:00",
+      "date_modified": "2016-04-20T08:26:20.468281-07:00",
+      "url": "http://digitalcommons.law.utulsa.edu/cgi/viewcontent.cgi?article=1032&context=tlr",
+      "date_accessed": null,
+      "notes": "Served from 1924-1930, and then again from 1955-56 upon the death of Arnold"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4466/?format=json",
+      "id": 4466,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3776/?format=json",
+        "id": 3776,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Vanderbilt University",
+        "ein": 620476822
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5446/?format=json",
+      "date_created": "2016-04-20T08:26:20.441154-07:00",
+      "date_modified": "2016-04-20T08:26:20.441178-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27556/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27557/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4350/?format=json",
+      "id": 4350,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5446/?format=json",
+      "date_created": "2016-04-20T08:26:20.454209-07:00",
+      "date_modified": "2016-04-20T08:26:20.454245-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:20.410909-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "a-c-hunt",
+  "name_first": "A.",
+  "name_middle": "C.",
+  "name_last": "Hunt",
+  "name_suffix": "",
+  "date_dob": "1888-07-30",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1956-08-26",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

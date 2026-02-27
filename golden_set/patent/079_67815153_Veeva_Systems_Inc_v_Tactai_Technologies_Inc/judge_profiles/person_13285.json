@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13285/?format=json",
+  "id": 13285,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11114/?format=json",
+      "id": 11114,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13285/?format=json",
+      "date_created": "2022-03-08T15:10:54.263836-08:00",
+      "date_modified": "2022-03-08T15:10:54.263884-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11115/?format=json",
+      "id": 11115,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13285/?format=json",
+      "date_created": "2022-03-08T15:10:54.271330-08:00",
+      "date_modified": "2022-03-08T15:10:54.271396-08:00",
+      "url": "https://ballotpedia.org/Daniel_S._Murphy",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11116/?format=json",
+      "id": 11116,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13285/?format=json",
+      "date_created": "2022-03-08T15:10:54.279313-08:00",
+      "date_modified": "2022-03-08T15:10:54.279361-08:00",
+      "url": "https://gould.usc.edu/faculty/lecturers/?id=73530",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11117/?format=json",
+      "id": 11117,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13285/?format=json",
+      "date_created": "2022-03-08T15:10:54.297116-08:00",
+      "date_modified": "2022-03-08T15:10:54.297191-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-08",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9127/?format=json",
+      "id": 9127,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13285/?format=json",
+      "date_created": "2022-03-08T15:10:54.244313-08:00",
+      "date_modified": "2022-03-08T15:10:54.244346-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Political Science",
+      "degree_year": 1984
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9128/?format=json",
+      "id": 9128,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3104/?format=json",
+        "id": 3104,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Loyola Marymount University",
+        "ein": 951643334
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13285/?format=json",
+      "date_created": "2022-03-08T15:10:54.256432-08:00",
+      "date_modified": "2022-03-08T15:10:54.256480-08:00",
+      "degree_level": "jd",
+      "degree_detail": "Dean's List",
+      "degree_year": 1987
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42740/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6488/?format=json",
+      "id": 6488,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13285/?format=json",
+      "date_created": "2022-03-08T15:10:54.219564-08:00",
+      "date_modified": "2022-03-08T15:10:54.219597-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6489/?format=json",
+      "id": 6489,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13285/?format=json",
+      "date_created": "2022-03-08T15:10:54.232694-08:00",
+      "date_modified": "2022-03-08T15:10:54.232728-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:31.488498-07:00",
+  "date_modified": "2022-03-21T11:40:35.175566-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "daniel-s-murphy",
+  "name_first": "Daniel",
+  "name_middle": "S.",
+  "name_last": "Murphy",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

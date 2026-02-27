@@ -1,0 +1,65 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/922/?format=json",
+  "id": 922,
+  "race": [
+    "a"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/540/?format=json",
+      "id": 540,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/922/?format=json",
+      "date_created": "2016-04-20T08:17:53.204306-07:00",
+      "date_modified": "2016-04-20T08:17:53.204328-07:00",
+      "year_rated": 2011,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/5578/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5579/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/5580/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/928/?format=json",
+      "id": 928,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/922/?format=json",
+      "date_created": "2016-04-20T08:17:53.197639-07:00",
+      "date_modified": "2016-04-20T08:17:53.197663-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2011-08-02",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:53.165568-07:00",
+  "date_modified": "2020-11-25T08:30:20.233728-08:00",
+  "date_completed": null,
+  "fjc_id": 3421,
+  "slug": "miranda-mai-du",
+  "name_first": "Miranda",
+  "name_middle": "Mai",
+  "name_last": "Du",
+  "name_suffix": "",
+  "date_dob": "1969-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Ca Mau",
+  "dob_state": "",
+  "dob_country": "Vietnam",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

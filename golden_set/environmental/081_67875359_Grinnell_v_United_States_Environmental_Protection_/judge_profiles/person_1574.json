@@ -1,0 +1,86 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1574/?format=json",
+  "id": 1574,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/964/?format=json",
+      "id": 964,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1574/?format=json",
+      "date_created": "2016-04-20T08:19:25.345016-07:00",
+      "date_modified": "2016-04-20T08:19:25.345038-07:00",
+      "year_rated": 1999,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1303/?format=json",
+      "id": 1303,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2624/?format=json",
+        "id": 2624,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Cornell University",
+        "ein": 150532082
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1574/?format=json",
+      "date_created": "2016-04-20T08:19:25.359482-07:00",
+      "date_modified": "2016-04-20T08:19:25.359508-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1959
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9654/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9655/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9656/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9657/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1581/?format=json",
+      "id": 1581,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1574/?format=json",
+      "date_created": "2016-04-20T08:19:25.337991-07:00",
+      "date_modified": "2016-04-20T08:19:25.338015-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1999-02-12",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:25.306081-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2839,
+  "slug": "david-n-hurd",
+  "name_first": "David",
+  "name_middle": "N.",
+  "name_last": "Hurd",
+  "name_suffix": "",
+  "date_dob": "1937-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Hancock",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

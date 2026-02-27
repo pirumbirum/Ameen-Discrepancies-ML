@@ -1,0 +1,149 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15889/?format=json",
+  "id": 15889,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18994/?format=json",
+      "id": 18994,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15889/?format=json",
+      "date_created": "2022-07-20T16:29:20.808292-07:00",
+      "date_modified": "2022-07-20T16:29:20.808318-07:00",
+      "url": "https://ballotpedia.org/Dan_Moore",
+      "date_accessed": "2022-07-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18995/?format=json",
+      "id": 18995,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15889/?format=json",
+      "date_created": "2022-07-20T16:29:20.818068-07:00",
+      "date_modified": "2022-07-20T16:29:20.818097-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=26238&office=19266",
+      "date_accessed": "2022-07-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18996/?format=json",
+      "id": 18996,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15889/?format=json",
+      "date_created": "2022-07-20T16:29:20.818797-07:00",
+      "date_modified": "2022-07-20T16:29:20.818814-07:00",
+      "url": "https://www.henderson-county.com/departments/courts/173rd-district-court",
+      "date_accessed": "2022-07-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18997/?format=json",
+      "id": 18997,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15889/?format=json",
+      "date_created": "2022-07-20T16:29:20.819394-07:00",
+      "date_modified": "2022-07-20T16:29:20.819411-07:00",
+      "url": "https://www.athensreview.com/news/local_news/dan-moore-keeps-seat-as-173rd-district-judge/article_d659bfd9-9202-5e75-8853-0cd130e353dd.html",
+      "date_accessed": "2022-07-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18998/?format=json",
+      "id": 18998,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15889/?format=json",
+      "date_created": "2022-07-20T16:29:20.819966-07:00",
+      "date_modified": "2022-07-20T16:29:20.819982-07:00",
+      "url": "",
+      "date_accessed": "2022-07-20",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12360/?format=json",
+      "id": 12360,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15889/?format=json",
+      "date_created": "2022-07-20T16:29:20.782254-07:00",
+      "date_modified": "2022-07-20T16:29:20.782271-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12361/?format=json",
+      "id": 12361,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1481/?format=json",
+        "id": 1481,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southern Methodist University",
+        "ein": 750800689
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15889/?format=json",
+      "date_created": "2022-07-20T16:29:20.799630-07:00",
+      "date_modified": "2022-07-20T16:29:20.799657-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51181/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51182/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51183/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51184/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51185/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51186/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51187/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8314/?format=json",
+      "id": 8314,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15889/?format=json",
+      "date_created": "2022-07-20T16:29:20.801963-07:00",
+      "date_modified": "2022-07-20T16:29:20.801984-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-20T16:29:20.706051-07:00",
+  "date_modified": "2022-07-20T16:29:20.706110-07:00",
+  "date_completed": "2022-07-20T15:37:10-07:00",
+  "fjc_id": null,
+  "slug": "dan-moore",
+  "name_first": "Dan",
+  "name_middle": "",
+  "name_last": "Moore",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,107 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/53/?format=json",
+  "id": 53,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/7/?format=json",
+      "id": 7,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/53/?format=json",
+      "date_created": "2016-04-20T08:15:54.040087-07:00",
+      "date_modified": "2016-04-20T08:15:54.040109-07:00",
+      "year_rated": 1969,
+      "rating": "ewq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9/?format=json",
+      "id": 9,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4382/?format=json",
+        "id": 4382,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Temple University",
+        "ein": 231365971
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/53/?format=json",
+      "date_created": "2016-04-20T08:15:54.053405-07:00",
+      "date_modified": "2016-04-20T08:15:54.053447-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1941
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10/?format=json",
+      "id": 10,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4382/?format=json",
+        "id": 4382,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Temple University",
+        "ein": 231365971
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/53/?format=json",
+      "date_created": "2016-04-20T08:15:54.090206-07:00",
+      "date_modified": "2016-04-20T08:15:54.090234-07:00",
+      "degree_level": "ma",
+      "degree_detail": "M.A.",
+      "degree_year": 1950
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/103/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/104/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/105/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/106/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/107/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/108/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/53/?format=json",
+      "id": 53,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/53/?format=json",
+      "date_created": "2016-04-20T08:15:54.033960-07:00",
+      "date_modified": "2016-04-20T08:15:54.033985-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1969-09-22",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:15:54.001214-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 8,
+  "slug": "arlin-marvin-adams",
+  "name_first": "Arlin",
+  "name_middle": "Marvin",
+  "name_last": "Adams",
+  "name_suffix": "",
+  "date_dob": "1921-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Philadelphia",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

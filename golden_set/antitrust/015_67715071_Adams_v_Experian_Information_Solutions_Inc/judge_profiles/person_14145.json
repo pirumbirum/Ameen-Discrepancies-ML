@@ -1,0 +1,144 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14145/?format=json",
+  "id": 14145,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11489/?format=json",
+      "id": 11489,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14145/?format=json",
+      "date_created": "2022-03-09T16:55:08.606778-08:00",
+      "date_modified": "2022-03-09T16:55:08.606801-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-09",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11490/?format=json",
+      "id": 11490,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14145/?format=json",
+      "date_created": "2022-03-09T16:55:08.612410-08:00",
+      "date_modified": "2022-03-09T16:55:08.612433-08:00",
+      "url": "https://www.linkedin.com/in/elizabethcpeterson/",
+      "date_accessed": "2022-03-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11491/?format=json",
+      "id": 11491,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14145/?format=json",
+      "date_created": "2022-03-09T16:55:08.616838-08:00",
+      "date_modified": "2022-03-09T16:55:08.616861-08:00",
+      "url": "https://ballotpedia.org/Elizabeth_Peterson",
+      "date_accessed": "2022-03-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11492/?format=json",
+      "id": 11492,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14145/?format=json",
+      "date_created": "2022-03-09T16:55:08.629155-08:00",
+      "date_modified": "2022-03-09T16:55:08.629178-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-09",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9306/?format=json",
+      "id": 9306,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4087/?format=json",
+        "id": 4087,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Smith College",
+        "ein": 41843040
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14145/?format=json",
+      "date_created": "2022-03-09T16:55:08.587045-08:00",
+      "date_modified": "2022-03-09T16:55:08.587079-08:00",
+      "degree_level": "ba",
+      "degree_detail": "1993",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9307/?format=json",
+      "id": 9307,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/161/?format=json",
+        "id": 161,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Michigan-Ann Arbor",
+        "ein": 386006309
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14145/?format=json",
+      "date_created": "2022-03-09T16:55:08.598792-08:00",
+      "date_modified": "2022-03-09T16:55:08.598827-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1997
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43826/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6610/?format=json",
+      "id": 6610,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14145/?format=json",
+      "date_created": "2022-03-09T16:55:08.565452-08:00",
+      "date_modified": "2022-03-09T16:55:08.565482-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6611/?format=json",
+      "id": 6611,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14145/?format=json",
+      "date_created": "2022-03-09T16:55:08.575987-08:00",
+      "date_modified": "2022-03-09T16:55:08.576025-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:09.770560-07:00",
+  "date_modified": "2022-03-09T16:55:08.552001-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "elizabeth-c-peterson",
+  "name_first": "Elizabeth",
+  "name_middle": "C.",
+  "name_last": "Peterson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

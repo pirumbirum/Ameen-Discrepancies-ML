@@ -1,0 +1,105 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/771/?format=json",
+  "id": 771,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/463/?format=json",
+      "id": 463,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/771/?format=json",
+      "date_created": "2016-04-20T08:17:34.362040-07:00",
+      "date_modified": "2016-04-20T08:17:34.362072-07:00",
+      "year_rated": 1966,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/616/?format=json",
+      "id": 616,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/771/?format=json",
+      "date_created": "2016-04-20T08:17:34.377747-07:00",
+      "date_modified": "2016-04-20T08:17:34.377781-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1937
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/617/?format=json",
+      "id": 617,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/771/?format=json",
+      "date_created": "2016-04-20T08:17:34.410119-07:00",
+      "date_modified": "2016-04-20T08:17:34.410167-07:00",
+      "degree_level": "llb",
+      "degree_detail": "LL.B.",
+      "degree_year": 1940
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/4648/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4649/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4650/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4651/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/777/?format=json",
+      "id": 777,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/771/?format=json",
+      "date_created": "2016-04-20T08:17:34.354216-07:00",
+      "date_modified": "2016-04-20T08:17:34.354252-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1966-07-11",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:34.319918-07:00",
+  "date_modified": "2020-11-25T08:30:20.948198-08:00",
+  "date_completed": null,
+  "fjc_id": 542,
+  "slug": "walter-joseph-cummings",
+  "name_first": "Walter",
+  "name_middle": "Joseph",
+  "name_last": "Cummings",
+  "name_suffix": "",
+  "date_dob": "1916-09-29",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1999-04-24",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Chicago",
+  "dob_state": "IL",
+  "dob_country": "United States",
+  "dod_city": "Chicago",
+  "dod_state": "IL",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

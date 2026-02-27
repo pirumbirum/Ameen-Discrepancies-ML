@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13663/?format=json",
+  "id": 13663,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11879/?format=json",
+      "id": 11879,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13663/?format=json",
+      "date_created": "2022-03-11T10:25:39.566186-08:00",
+      "date_modified": "2022-03-11T10:25:39.566208-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-11",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11880/?format=json",
+      "id": 11880,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13663/?format=json",
+      "date_created": "2022-03-11T10:25:39.571445-08:00",
+      "date_modified": "2022-03-11T10:25:39.571468-08:00",
+      "url": "https://ballotpedia.org/Jeffrey_S._Ross",
+      "date_accessed": "2022-03-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11881/?format=json",
+      "id": 11881,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13663/?format=json",
+      "date_created": "2022-03-11T10:25:39.575472-08:00",
+      "date_modified": "2022-03-11T10:25:39.575495-08:00",
+      "url": "https://www.martindale.com/attorney/jeffrey-steven-ross-238266/",
+      "date_accessed": "2022-03-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11882/?format=json",
+      "id": 11882,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13663/?format=json",
+      "date_created": "2022-03-11T10:25:39.582416-08:00",
+      "date_modified": "2022-03-11T10:25:39.582439-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-11",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9501/?format=json",
+      "id": 9501,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/161/?format=json",
+        "id": 161,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Michigan-Ann Arbor",
+        "ein": 386006309
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13663/?format=json",
+      "date_created": "2022-03-11T10:25:39.552884-08:00",
+      "date_modified": "2022-03-11T10:25:39.552916-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1972
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9502/?format=json",
+      "id": 9502,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13663/?format=json",
+      "date_created": "2022-03-11T10:25:39.561739-08:00",
+      "date_modified": "2022-03-11T10:25:39.561762-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1975
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43232/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6746/?format=json",
+      "id": 6746,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13663/?format=json",
+      "date_created": "2022-03-11T10:25:39.538636-08:00",
+      "date_modified": "2022-03-11T10:25:39.538659-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6747/?format=json",
+      "id": 6747,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13663/?format=json",
+      "date_created": "2022-03-11T10:25:39.545432-08:00",
+      "date_modified": "2022-03-11T10:25:39.545455-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:48.552337-07:00",
+  "date_modified": "2022-03-21T14:53:33.842047-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jeffrey-steven-ross",
+  "name_first": "Jeffrey",
+  "name_middle": "Steven",
+  "name_last": "Ross",
+  "name_suffix": "",
+  "date_dob": "1951-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "je",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

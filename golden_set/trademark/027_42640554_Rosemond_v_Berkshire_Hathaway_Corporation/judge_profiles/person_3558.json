@@ -1,0 +1,68 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3558/?format=json",
+  "id": 3558,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2232/?format=json",
+      "id": 2232,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3558/?format=json",
+      "date_created": "2016-04-20T08:24:05.934277-07:00",
+      "date_modified": "2016-04-20T08:24:05.934299-07:00",
+      "year_rated": 2001,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22398/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22399/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22400/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22401/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22402/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22403/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3576/?format=json",
+      "id": 3576,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3558/?format=json",
+      "date_created": "2016-04-20T08:24:05.927512-07:00",
+      "date_modified": "2016-04-20T08:24:05.927537-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2001-09-04",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:05.889077-07:00",
+  "date_modified": "2020-11-25T08:30:20.635910-08:00",
+  "date_completed": null,
+  "fjc_id": 2906,
+  "slug": "terry-l-wooten",
+  "name_first": "Terry",
+  "name_middle": "L.",
+  "name_last": "Wooten",
+  "name_suffix": "",
+  "date_dob": "1954-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Louisville",
+  "dob_state": "KY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

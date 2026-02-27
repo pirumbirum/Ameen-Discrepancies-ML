@@ -1,0 +1,145 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15567/?format=json",
+  "id": 15567,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17450/?format=json",
+      "id": 17450,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15567/?format=json",
+      "date_created": "2022-06-27T12:36:46.496325-07:00",
+      "date_modified": "2022-06-27T12:36:46.496340-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-06-27",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17451/?format=json",
+      "id": 17451,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15567/?format=json",
+      "date_created": "2022-06-27T12:39:38.688059-07:00",
+      "date_modified": "2022-06-27T12:39:38.688073-07:00",
+      "url": "https://trellis.law/judge/charles.l.collins",
+      "date_accessed": "2022-06-27",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17452/?format=json",
+      "id": 17452,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15567/?format=json",
+      "date_created": "2022-06-27T12:39:38.688962-07:00",
+      "date_modified": "2022-06-27T12:39:38.688973-07:00",
+      "url": "https://ballotpedia.org/Charles_Collins_(Texas)",
+      "date_accessed": "2022-06-27",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17453/?format=json",
+      "id": 17453,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15567/?format=json",
+      "date_created": "2022-06-27T12:39:38.689433-07:00",
+      "date_modified": "2022-06-27T12:39:38.689443-07:00",
+      "url": "http://www.legaldirectories.com/Collins-Charles-L-II-276-Atty.aspx",
+      "date_accessed": "2022-06-27",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17454/?format=json",
+      "id": 17454,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15567/?format=json",
+      "date_created": "2022-06-27T12:39:38.689876-07:00",
+      "date_modified": "2022-06-27T12:39:38.689886-07:00",
+      "url": "",
+      "date_accessed": "2022-06-27",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11918/?format=json",
+      "id": 11918,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4678/?format=json",
+        "id": 4678,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Prairie View A & M University",
+        "ein": 746001078
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15567/?format=json",
+      "date_created": "2022-06-27T12:36:46.473849-07:00",
+      "date_modified": "2022-06-27T12:36:46.473866-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1996
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11919/?format=json",
+      "id": 11919,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2485/?format=json",
+        "id": 2485,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Southern University",
+        "ein": 746001391
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15567/?format=json",
+      "date_created": "2022-06-27T12:36:46.486047-07:00",
+      "date_modified": "2022-06-27T12:36:46.486062-07:00",
+      "degree_level": "jd",
+      "degree_detail": "cum laude",
+      "degree_year": 2004
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49905/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49906/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49907/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8113/?format=json",
+      "id": 8113,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15567/?format=json",
+      "date_created": "2022-06-27T12:36:46.490795-07:00",
+      "date_modified": "2022-06-27T12:36:46.490810-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-06-27T12:36:46.403246-07:00",
+  "date_modified": "2022-06-27T12:39:38.681330-07:00",
+  "date_completed": "2022-06-27T12:26:32-07:00",
+  "fjc_id": null,
+  "slug": "charles-l-collins-ii",
+  "name_first": "Charles",
+  "name_middle": "L.",
+  "name_last": "Collins",
+  "name_suffix": "2",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

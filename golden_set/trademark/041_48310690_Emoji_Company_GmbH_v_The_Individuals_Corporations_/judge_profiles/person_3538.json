@@ -1,0 +1,66 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3538/?format=json",
+  "id": 3538,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2223/?format=json",
+      "id": 2223,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3538/?format=json",
+      "date_created": "2016-04-20T08:24:02.938762-07:00",
+      "date_modified": "2016-04-20T08:24:02.938783-07:00",
+      "year_rated": 1970,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22279/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22280/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22281/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22278/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3556/?format=json",
+      "id": 3556,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3538/?format=json",
+      "date_created": "2016-04-20T08:24:02.932025-07:00",
+      "date_modified": "2016-04-20T08:24:02.932050-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1970-10-07",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:02.898371-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2639,
+  "slug": "john-howland-wood-jr",
+  "name_first": "John",
+  "name_middle": "Howland",
+  "name_last": "Wood",
+  "name_suffix": "jr",
+  "date_dob": "1916-03-31",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1979-05-29",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Rockport",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "San Antonio",
+  "dod_state": "TX",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,176 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15817/?format=json",
+  "id": 15817,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18676/?format=json",
+      "id": 18676,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15817/?format=json",
+      "date_created": "2022-07-14T15:06:12.067520-07:00",
+      "date_modified": "2022-07-14T15:06:12.067534-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-14",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18677/?format=json",
+      "id": 18677,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15817/?format=json",
+      "date_created": "2022-07-14T15:27:24.807031-07:00",
+      "date_modified": "2022-07-14T15:27:24.807062-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=22088&office=19673",
+      "date_accessed": "2022-07-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18678/?format=json",
+      "id": 18678,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15817/?format=json",
+      "date_created": "2022-07-14T15:27:24.810534-07:00",
+      "date_modified": "2022-07-14T15:27:24.810551-07:00",
+      "url": "https://ballotpedia.org/Joe_Lopez_(Texas)",
+      "date_accessed": "2022-07-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18679/?format=json",
+      "id": 18679,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15817/?format=json",
+      "date_created": "2022-07-14T15:27:24.811151-07:00",
+      "date_modified": "2022-07-14T15:27:24.811166-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=176869",
+      "date_accessed": "2022-07-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18680/?format=json",
+      "id": 18680,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15817/?format=json",
+      "date_created": "2022-07-14T15:27:24.811681-07:00",
+      "date_modified": "2022-07-14T15:27:24.811692-07:00",
+      "url": "https://lawyers.justia.com/lawyer/jose-antonio-lopez-300121",
+      "date_accessed": "2022-07-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18681/?format=json",
+      "id": 18681,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15817/?format=json",
+      "date_created": "2022-07-14T15:27:24.812157-07:00",
+      "date_modified": "2022-07-14T15:27:24.812172-07:00",
+      "url": "https://www.linkedin.com/in/joe-lopez-91ba3229/",
+      "date_accessed": "2022-07-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18682/?format=json",
+      "id": 18682,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15817/?format=json",
+      "date_created": "2022-07-14T15:27:24.812684-07:00",
+      "date_modified": "2022-07-14T15:27:24.812699-07:00",
+      "url": "https://www.martindale.com/attorney/mr-jose-antonio-lopez-2132107/",
+      "date_accessed": "2022-07-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18683/?format=json",
+      "id": 18683,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15817/?format=json",
+      "date_created": "2022-07-14T15:27:24.813222-07:00",
+      "date_modified": "2022-07-14T15:27:24.813236-07:00",
+      "url": "",
+      "date_accessed": "2022-07-14",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12269/?format=json",
+      "id": 12269,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15817/?format=json",
+      "date_created": "2022-07-14T15:06:12.028201-07:00",
+      "date_modified": "2022-07-14T15:06:12.028225-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1986
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12270/?format=json",
+      "id": 12270,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2480/?format=json",
+        "id": 2480,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Houston",
+        "ein": 746001399
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15817/?format=json",
+      "date_created": "2022-07-14T15:06:12.049952-07:00",
+      "date_modified": "2022-07-14T15:06:12.049983-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1991
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50883/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50884/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50885/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50886/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8270/?format=json",
+      "id": 8270,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15817/?format=json",
+      "date_created": "2022-07-14T15:06:12.054309-07:00",
+      "date_modified": "2022-07-14T15:06:12.054330-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-14T15:06:11.941622-07:00",
+  "date_modified": "2022-07-14T15:33:57.200005-07:00",
+  "date_completed": "2022-07-14T15:04:51-07:00",
+  "fjc_id": null,
+  "slug": "jose-antonio-lopez",
+  "name_first": "Jose",
+  "name_middle": "Antonio",
+  "name_last": "Lopez",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

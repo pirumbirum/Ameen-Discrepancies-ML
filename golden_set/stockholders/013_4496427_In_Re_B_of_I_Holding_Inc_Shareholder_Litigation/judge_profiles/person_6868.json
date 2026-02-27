@@ -1,0 +1,79 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6868/?format=json",
+  "id": 6868,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2942/?format=json",
+      "id": 2942,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6868/?format=json",
+      "date_created": "2016-04-20T08:27:49.538364-07:00",
+      "date_modified": "2016-04-20T08:27:49.538385-07:00",
+      "url": "https://news.google.com/newspapers?nid=2206&dat=19861003&id=xcwlAAAAIBAJ&sjid=NvMFAAAAIBAJ&pg=2865",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2943/?format=json",
+      "id": 2943,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6868/?format=json",
+      "date_created": "2016-04-20T08:27:49.543892-07:00",
+      "date_modified": "2016-04-20T08:27:49.543913-07:00",
+      "url": "581944&hl=en",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5625/?format=json",
+      "id": 5625,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1593/?format=json",
+        "id": 1593,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stetson University",
+        "ein": 590624416
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6868/?format=json",
+      "date_created": "2016-04-20T08:27:49.524640-07:00",
+      "date_modified": "2016-04-20T08:27:49.524665-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/30768/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30769/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:49.500494-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "grady-crawford",
+  "name_first": "Grady",
+  "name_middle": "",
+  "name_last": "Crawford",
+  "name_suffix": "",
+  "date_dob": "1915-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": "1986-10-02",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

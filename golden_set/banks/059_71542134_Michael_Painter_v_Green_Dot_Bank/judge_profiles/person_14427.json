@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14427/?format=json",
+  "id": 14427,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6099/?format=json",
+      "id": 6099,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14427/?format=json",
+      "date_created": "2021-11-22T12:57:02.163272-08:00",
+      "date_modified": "2021-11-22T12:57:02.163295-08:00",
+      "url": "https://www.cacd.uscourts.gov/news/patricia-donahue-appointed-united-states-magistrate-judge-central-district-california",
+      "date_accessed": "2021-11-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44229/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-11-22T12:57:02.152355-08:00",
+  "date_modified": "2021-11-22T12:57:02.152380-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "patricia-a-donahue",
+  "name_first": "Patricia",
+  "name_middle": "A.",
+  "name_last": "Donahue",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

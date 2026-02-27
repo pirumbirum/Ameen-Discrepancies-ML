@@ -1,0 +1,136 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14606/?format=json",
+  "id": 14606,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13645/?format=json",
+      "id": 13645,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14606/?format=json",
+      "date_created": "2022-03-30T19:02:30.853757-07:00",
+      "date_modified": "2022-03-30T19:02:30.853811-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=JwjY4LS/NpEWbOS8cOf79w%3D%3D",
+      "date_accessed": "2022-03-30",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13646/?format=json",
+      "id": 13646,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14606/?format=json",
+      "date_created": "2022-03-30T19:02:30.862060-07:00",
+      "date_modified": "2022-03-30T19:02:30.862088-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-30",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13647/?format=json",
+      "id": 13647,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14606/?format=json",
+      "date_created": "2022-03-30T19:02:30.863436-07:00",
+      "date_modified": "2022-03-30T19:02:30.863464-07:00",
+      "url": "https://history.nycourts.gov/biography/christopher-j-burns/",
+      "date_accessed": "2022-03-30",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13648/?format=json",
+      "id": 13648,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14606/?format=json",
+      "date_created": "2022-03-30T19:02:30.864713-07:00",
+      "date_modified": "2022-03-30T19:02:30.864740-07:00",
+      "url": "https://ballotpedia.org/Christopher_J._Burns",
+      "date_accessed": "2022-03-30",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13649/?format=json",
+      "id": 13649,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14606/?format=json",
+      "date_created": "2022-03-30T19:02:30.865917-07:00",
+      "date_modified": "2022-03-30T19:02:30.865945-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/Supreme_Court,_Erie_County/Christopher_Burns/Christopher_Burns-878.xml",
+      "date_accessed": "2022-03-30",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10339/?format=json",
+      "id": 10339,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/809/?format=json",
+        "id": 809,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Canisius College",
+        "ein": 160743942
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14606/?format=json",
+      "date_created": "2022-03-30T19:02:30.845353-07:00",
+      "date_modified": "2022-03-30T19:02:30.845383-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1974
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10340/?format=json",
+      "id": 10340,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/813/?format=json",
+        "id": 813,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University at Buffalo",
+        "ein": 146013200
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14606/?format=json",
+      "date_created": "2022-03-30T19:02:30.851654-07:00",
+      "date_modified": "2022-03-30T19:02:30.851685-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1979
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/45130/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45131/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45132/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45133/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45134/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45135/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45136/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45137/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-03-30T19:02:30.824857-07:00",
+  "date_modified": "2022-04-26T15:34:23.343155-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "christopher-j-burns",
+  "name_first": "Christopher",
+  "name_middle": "J.",
+  "name_last": "Burns",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

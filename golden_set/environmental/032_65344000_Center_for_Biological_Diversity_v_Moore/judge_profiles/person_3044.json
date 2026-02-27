@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3044/?format=json",
+  "id": 3044,
+  "race": [
+    "w",
+    "h"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1921/?format=json",
+      "id": 1921,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3044/?format=json",
+      "date_created": "2016-04-20T08:22:53.082095-07:00",
+      "date_modified": "2016-04-20T08:22:53.082117-07:00",
+      "year_rated": 2014,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/19117/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19118/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19119/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19120/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19121/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19122/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19123/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3058/?format=json",
+      "id": 3058,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3044/?format=json",
+      "date_created": "2016-04-20T08:22:53.076761-07:00",
+      "date_modified": "2016-04-20T08:22:53.076785-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2014-01-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:53.035980-07:00",
+  "date_modified": "2020-11-25T08:30:15.270046-08:00",
+  "date_completed": null,
+  "fjc_id": 3539,
+  "slug": "james-alan-soto",
+  "name_first": "James",
+  "name_middle": "Alan",
+  "name_last": "Soto",
+  "name_suffix": "",
+  "date_dob": "1950-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Nogales",
+  "dob_state": "AZ",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

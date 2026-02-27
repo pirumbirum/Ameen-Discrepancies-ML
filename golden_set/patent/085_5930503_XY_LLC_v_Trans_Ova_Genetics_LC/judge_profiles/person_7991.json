@@ -1,0 +1,62 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7991/?format=json",
+  "id": 7991,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3679/?format=json",
+      "id": 3679,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7991/?format=json",
+      "date_created": "2016-04-20T08:28:42.690503-07:00",
+      "date_modified": "2016-04-20T08:28:42.690525-07:00",
+      "url": "http://www.freerepublic.com/focus/f-vetscor/1017943/posts",
+      "date_accessed": null,
+      "notes": "WWII POW and befriended Princess Catherine; has play and book about his life;private practice; District Solicitor 1955; District Attorney;Elected to Superior Court in 1962-82;Arbitrator and mediator; Special Emergency Superior Court Judge until 1998"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3680/?format=json",
+      "id": 3680,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7991/?format=json",
+      "date_created": "2016-04-20T08:28:42.696197-07:00",
+      "date_modified": "2016-04-20T08:28:42.696218-07:00",
+      "url": "http://www.zoominfo.com/CachedPage/?archive_id=0&page_id=2125955937&page_url=//www.ncbar.org/news/1/2192/index.aspx&page_last_updated=2009-11-12T16:11:38&firstName=E.&lastName=Braswell",
+      "date_accessed": null,
+      "notes": "WWII POW and befriended Princess Catherine; has play and book about his life;private practice; District Solicitor 1955; District Attorney;Elected to Superior Court in 1962-82;Arbitrator and mediator; Special Emergency Superior Court Judge until 1998"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/32795/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32796/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32797/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32798/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32799/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:42.613814-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "edwin-maurice-braswell",
+  "name_first": "Edwin",
+  "name_middle": "Maurice",
+  "name_last": "Braswell",
+  "name_suffix": "",
+  "date_dob": "1922-12-16",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

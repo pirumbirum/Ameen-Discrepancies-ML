@@ -1,0 +1,139 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15377/?format=json",
+  "id": 15377,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16514/?format=json",
+      "id": 16514,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15377/?format=json",
+      "date_created": "2022-05-25T11:51:44.964826-07:00",
+      "date_modified": "2022-05-25T11:51:44.964855-07:00",
+      "url": "https://its.law.nyu.edu/courses/description.cfm?id=30170",
+      "date_accessed": "2022-05-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16515/?format=json",
+      "id": 16515,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15377/?format=json",
+      "date_created": "2022-05-25T11:51:44.973511-07:00",
+      "date_modified": "2022-05-25T11:51:44.973536-07:00",
+      "url": "https://ballotpedia.org/Taryn_A._Merkl",
+      "date_accessed": "2022-05-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16516/?format=json",
+      "id": 16516,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15377/?format=json",
+      "date_created": "2022-05-25T11:51:44.974735-07:00",
+      "date_modified": "2022-05-25T11:51:44.974750-07:00",
+      "url": "https://www.linkedin.com/in/taryn-merkl-0b947111/",
+      "date_accessed": "2022-05-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16517/?format=json",
+      "id": 16517,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15377/?format=json",
+      "date_created": "2022-05-25T11:51:44.975854-07:00",
+      "date_modified": "2022-05-25T11:51:44.975870-07:00",
+      "url": "https://www.nyed.uscourts.gov/content/magistrate-judge-taryn-merkl",
+      "date_accessed": "2022-05-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16518/?format=json",
+      "id": 16518,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15377/?format=json",
+      "date_created": "2022-05-25T11:51:44.976960-07:00",
+      "date_modified": "2022-05-25T11:51:44.976975-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Merkl-TA.%20M.%2002.%20NYE.%20Ini_SR_20.pdf",
+      "date_accessed": "2022-05-25",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11604/?format=json",
+      "id": 11604,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3892/?format=json",
+        "id": 3892,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Columbia University in the City of New York",
+        "ein": 603800000
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15377/?format=json",
+      "date_created": "2022-05-25T12:00:56.297648-07:00",
+      "date_modified": "2022-05-25T12:00:56.297676-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2000
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11603/?format=json",
+      "id": 11603,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/161/?format=json",
+        "id": 161,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Michigan-Ann Arbor",
+        "ein": 386006309
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15377/?format=json",
+      "date_created": "2022-05-25T12:00:56.270168-07:00",
+      "date_modified": "2022-05-25T12:23:45.809748-07:00",
+      "degree_level": "ba",
+      "degree_detail": "History, Political Science, with honors",
+      "degree_year": 1996
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47949/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47950/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47951/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47952/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47953/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47954/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47955/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47956/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47957/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47958/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47959/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-05-25T11:51:44.936934-07:00",
+  "date_modified": "2022-05-25T12:23:45.521265-07:00",
+  "date_completed": "2022-05-25T11:50:32-07:00",
+  "fjc_id": null,
+  "slug": "taryn-a-merkl",
+  "name_first": "Taryn",
+  "name_middle": "A.",
+  "name_last": "Merkl",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

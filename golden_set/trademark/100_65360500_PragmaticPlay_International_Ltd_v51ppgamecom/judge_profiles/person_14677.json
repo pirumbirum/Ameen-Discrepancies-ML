@@ -1,0 +1,122 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14677/?format=json",
+  "id": 14677,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13941/?format=json",
+      "id": 13941,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14677/?format=json",
+      "date_created": "2022-04-01T17:39:48.826877-07:00",
+      "date_modified": "2022-04-01T17:39:48.826900-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=Fqu6SbTtsCaEfYfGmQ5Mng%3D%3D",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13942/?format=json",
+      "id": 13942,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14677/?format=json",
+      "date_created": "2022-04-01T17:39:48.828496-07:00",
+      "date_modified": "2022-04-01T17:39:48.828519-07:00",
+      "url": "https://rocklandnews.com/tom-davis-for-supreme-court-justice-of-the-9th-judicial-district/",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13943/?format=json",
+      "id": 13943,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14677/?format=json",
+      "date_created": "2022-04-01T17:39:48.829640-07:00",
+      "date_modified": "2022-04-01T17:39:48.829663-07:00",
+      "url": "https://www.hudsonvalley360.com/artsandlife/localannouncements/sobo-sobo-llp-welcomes-thomas-davis-to-poughkeepsie-office/article_b1f443bd-caa6-5123-b826-f40fdb80d395.html",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13944/?format=json",
+      "id": 13944,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14677/?format=json",
+      "date_created": "2022-04-01T17:39:48.830784-07:00",
+      "date_modified": "2022-04-01T17:39:48.830806-07:00",
+      "url": "https://www.facebook.com/ykersvoice/videos/supreme-court-candidate-tom-davis-speaks-with-yonkers-voice/155801870085503/",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10474/?format=json",
+      "id": 10474,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/624/?format=json",
+        "id": 624,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "New England School of Law",
+        "ein": 42152671
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14677/?format=json",
+      "date_created": "2022-04-01T17:39:48.820519-07:00",
+      "date_modified": "2022-04-01T17:39:48.820548-07:00",
+      "degree_level": "jd",
+      "degree_detail": "cum laude",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10475/?format=json",
+      "id": 10475,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3860/?format=json",
+        "id": 3860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "State University of New York at New Paltz",
+        "ein": 146013200
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14677/?format=json",
+      "date_created": "2022-04-01T17:39:48.825326-07:00",
+      "date_modified": "2022-04-01T17:39:48.825350-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1985
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/45509/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45510/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45511/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45512/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-04-01T17:39:48.734520-07:00",
+  "date_modified": "2022-04-28T17:52:16.737760-07:00",
+  "date_completed": "2022-04-28T17:41:57-07:00",
+  "fjc_id": null,
+  "slug": "thomas-ritchie-davis",
+  "name_first": "Thomas",
+  "name_middle": "Ritchie",
+  "name_last": "Davis",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

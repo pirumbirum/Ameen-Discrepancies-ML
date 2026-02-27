@@ -1,0 +1,62 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3911/?format=json",
+  "id": 3911,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/77/?format=json",
+      "id": 77,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3911/?format=json",
+      "date_created": "2016-04-20T08:24:29.536703-07:00",
+      "date_modified": "2016-04-20T08:24:29.536722-07:00",
+      "url": "http://politicalgraveyard.com/bio/holland.html#619.73.81",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23379/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3755/?format=json",
+      "id": 3755,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3911/?format=json",
+      "date_created": "2016-04-20T08:24:29.530775-07:00",
+      "date_modified": "2016-04-20T08:24:29.530796-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:29.515522-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "e-v-holland",
+  "name_first": "E",
+  "name_middle": "V.",
+  "name_last": "Holland",
+  "name_suffix": "",
+  "date_dob": "1880-11-10",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

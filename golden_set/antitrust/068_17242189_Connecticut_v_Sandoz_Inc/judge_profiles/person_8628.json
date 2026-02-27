@@ -1,0 +1,125 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8628/?format=json",
+  "id": 8628,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4334/?format=json",
+      "id": 4334,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8628/?format=json",
+      "date_created": "2019-09-22T15:32:13.134814-07:00",
+      "date_modified": "2019-09-22T15:32:13.134838-07:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2019-09-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2377/?format=json",
+      "id": 2377,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8628/?format=json",
+      "date_created": "2019-09-22T15:32:13.132095-07:00",
+      "date_modified": "2019-09-22T15:32:13.132120-07:00",
+      "year_rated": 2018,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6834/?format=json",
+      "id": 6834,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1749/?format=json",
+        "id": 1749,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Duke University",
+        "ein": 560532129
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8628/?format=json",
+      "date_created": "2019-09-22T15:32:13.149706-07:00",
+      "date_modified": "2019-09-22T15:32:13.149732-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.E.",
+      "degree_year": 1989
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6835/?format=json",
+      "id": 6835,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3776/?format=json",
+        "id": 3776,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Vanderbilt University",
+        "ein": 620476822
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8628/?format=json",
+      "date_created": "2019-09-22T15:32:13.164526-07:00",
+      "date_modified": "2019-09-22T15:32:13.164552-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1992
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/34395/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34396/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34397/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34398/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34399/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34400/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34401/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34402/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34403/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34404/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34405/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34406/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34407/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4977/?format=json",
+      "id": 4977,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8628/?format=json",
+      "date_created": "2019-09-22T15:32:13.127624-07:00",
+      "date_modified": "2019-09-22T15:32:13.127651-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2018-01-08",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2019-09-22T15:32:13.090680-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 5374576,
+  "slug": "eli-jeremy-richardson",
+  "name_first": "Eli",
+  "name_middle": "Jeremy",
+  "name_last": "Richardson",
+  "name_suffix": "",
+  "date_dob": "1967-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Summit",
+  "dob_state": "NJ",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

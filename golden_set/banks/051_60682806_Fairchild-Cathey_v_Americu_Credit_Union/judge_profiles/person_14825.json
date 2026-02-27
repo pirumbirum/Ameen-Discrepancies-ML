@@ -1,0 +1,142 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14825/?format=json",
+  "id": 14825,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14571/?format=json",
+      "id": 14571,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14825/?format=json",
+      "date_created": "2022-04-07T09:27:58.245589-07:00",
+      "date_modified": "2022-04-07T09:27:58.245610-07:00",
+      "url": "https://trellis.law/judge/francis.a.kahn.iii#:~:text=The%20Hon.-,Francis%20A.,Lawrence%20K.",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14572/?format=json",
+      "id": 14572,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14825/?format=json",
+      "date_created": "2022-04-07T09:27:58.249827-07:00",
+      "date_modified": "2022-04-07T09:27:58.249849-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14573/?format=json",
+      "id": 14573,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14825/?format=json",
+      "date_created": "2022-04-07T09:27:58.250892-07:00",
+      "date_modified": "2022-04-07T09:27:58.250913-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=_PLUS_WUNw7qonbMLPacLHEeHiw%3D%3D",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10768/?format=json",
+      "id": 10768,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1301/?format=json",
+        "id": 1301,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Saint Johns University",
+        "ein": 410693973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14825/?format=json",
+      "date_created": "2022-04-07T09:27:58.229258-07:00",
+      "date_modified": "2022-04-07T09:27:58.229279-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10769/?format=json",
+      "id": 10769,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1301/?format=json",
+        "id": 1301,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Saint Johns University",
+        "ein": 410693973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14825/?format=json",
+      "date_created": "2022-04-07T09:27:58.236322-07:00",
+      "date_modified": "2022-04-07T09:27:58.236343-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1995
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/46286/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46287/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46288/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46289/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46290/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46291/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46292/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7489/?format=json",
+      "id": 7489,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14825/?format=json",
+      "date_created": "2022-04-07T09:27:58.239029-07:00",
+      "date_modified": "2022-04-07T09:27:58.239050-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2018-06-20",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7490/?format=json",
+      "id": 7490,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14825/?format=json",
+      "date_created": "2022-04-07T09:27:58.244360-07:00",
+      "date_modified": "2022-04-07T09:27:58.244382-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2019-01-01",
+      "date_granularity_start": "%Y",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-07T09:27:58.209117-07:00",
+  "date_modified": "2022-05-06T13:21:17.640757-07:00",
+  "date_completed": "2022-05-06T11:59:32-07:00",
+  "fjc_id": null,
+  "slug": "francis-a-kahn-iii",
+  "name_first": "Francis",
+  "name_middle": "A.",
+  "name_last": "Kahn",
+  "name_suffix": "3",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "ca",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,166 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15096/?format=json",
+  "id": 15096,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15701/?format=json",
+      "id": 15701,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15096/?format=json",
+      "date_created": "2022-04-18T13:58:26.311884-07:00",
+      "date_modified": "2022-04-18T13:58:26.311902-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-18",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15702/?format=json",
+      "id": 15702,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15096/?format=json",
+      "date_created": "2022-04-18T13:58:26.313430-07:00",
+      "date_modified": "2022-04-18T13:58:26.313448-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=AJfY3bdyk5zpy4T9kfKc5w%3D%3D",
+      "date_accessed": "2022-04-18",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15703/?format=json",
+      "id": 15703,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15096/?format=json",
+      "date_created": "2022-04-18T13:58:26.314424-07:00",
+      "date_modified": "2022-04-18T13:58:26.314442-07:00",
+      "url": "https://www.ccny.cuny.edu/dsi/dominican-blue-book-faviola-soto",
+      "date_accessed": "2022-04-18",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15704/?format=json",
+      "id": 15704,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15096/?format=json",
+      "date_created": "2022-04-18T13:58:26.315371-07:00",
+      "date_modified": "2022-04-18T13:58:26.315389-07:00",
+      "url": "https://ballotpedia.org/Faviola_A._Soto",
+      "date_accessed": "2022-04-18",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15705/?format=json",
+      "id": 15705,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15096/?format=json",
+      "date_created": "2022-04-18T13:58:26.316300-07:00",
+      "date_modified": "2022-04-18T13:58:26.316318-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/Faviola_Soto/Faviola_Soto-628.xml",
+      "date_accessed": "2022-04-18",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11329/?format=json",
+      "id": 11329,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3938/?format=json",
+        "id": 3938,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "New York Law School",
+        "ein": 135645885
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15096/?format=json",
+      "date_created": "2022-04-18T13:58:26.300987-07:00",
+      "date_modified": "2022-04-18T13:58:26.301009-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1978
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11330/?format=json",
+      "id": 11330,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3902/?format=json",
+        "id": 3902,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "CUNY City College",
+        "ein": 133893536
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15096/?format=json",
+      "date_created": "2022-04-18T13:58:26.305530-07:00",
+      "date_modified": "2022-04-18T13:58:26.305551-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Economics",
+      "degree_year": 1975
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/48517/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48519/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48520/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48521/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48522/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48524/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48525/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48526/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48518/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48523/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48527/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7756/?format=json",
+      "id": 7756,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15096/?format=json",
+      "date_created": "2022-04-18T13:58:26.307922-07:00",
+      "date_modified": "2022-04-18T13:58:26.307943-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2006-01-01",
+      "date_granularity_start": "%Y",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7757/?format=json",
+      "id": 7757,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15096/?format=json",
+      "date_created": "2022-04-18T13:58:26.310788-07:00",
+      "date_modified": "2022-04-18T13:58:26.310808-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2014-01-01",
+      "date_granularity_start": "%Y",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-18T13:58:26.286760-07:00",
+  "date_modified": "2022-06-04T09:22:19.835698-07:00",
+  "date_completed": "2022-06-03T17:55:24-07:00",
+  "fjc_id": null,
+  "slug": "faviola-soto",
+  "name_first": "Faviola",
+  "name_middle": "",
+  "name_last": "Soto",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Hamilton Heights",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

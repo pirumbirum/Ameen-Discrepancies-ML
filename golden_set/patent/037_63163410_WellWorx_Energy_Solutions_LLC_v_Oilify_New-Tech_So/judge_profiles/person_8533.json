@@ -1,0 +1,117 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8533/?format=json",
+  "id": 8533,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4235/?format=json",
+      "id": 4235,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8533/?format=json",
+      "date_created": "2019-09-19T16:51:00.821634-07:00",
+      "date_modified": "2019-09-19T16:51:00.821658-07:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2019-09-19",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2278/?format=json",
+      "id": 2278,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8533/?format=json",
+      "date_created": "2019-09-19T16:51:00.815987-07:00",
+      "date_modified": "2019-09-19T16:51:00.816010-07:00",
+      "year_rated": 2018,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6916/?format=json",
+      "id": 6916,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5156/?format=json",
+        "id": 5156,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Trinity University",
+        "ein": 741109633
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8533/?format=json",
+      "date_created": "2019-10-09T14:51:37.594680-07:00",
+      "date_modified": "2019-10-09T14:51:37.594714-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1981
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6917/?format=json",
+      "id": 6917,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8533/?format=json",
+      "date_created": "2019-10-09T14:51:37.599162-07:00",
+      "date_modified": "2019-10-09T14:51:37.599190-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1984
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33679/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33681/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33682/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33680/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34639/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4880/?format=json",
+      "id": 4880,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8533/?format=json",
+      "date_created": "2019-09-19T16:51:00.808977-07:00",
+      "date_modified": "2019-09-19T16:51:00.809003-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2018-01-24",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2019-09-19T16:51:00.723134-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 5198506,
+  "slug": "alan-d-albright",
+  "name_first": "Alan",
+  "name_middle": "D.",
+  "name_last": "Albright",
+  "name_suffix": "",
+  "date_dob": "1959-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Dauphin",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

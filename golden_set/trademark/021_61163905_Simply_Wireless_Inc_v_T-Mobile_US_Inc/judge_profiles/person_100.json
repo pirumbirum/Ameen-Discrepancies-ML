@@ -1,0 +1,87 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/100/?format=json",
+  "id": 100,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/38/?format=json",
+      "id": 38,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/100/?format=json",
+      "date_created": "2016-04-20T08:16:00.838347-07:00",
+      "date_modified": "2016-04-20T08:16:00.838369-07:00",
+      "year_rated": 1971,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/48/?format=json",
+      "id": 48,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5100/?format=json",
+        "id": 5100,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Utah",
+        "ein": 876000525
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/100/?format=json",
+      "date_created": "2016-04-20T08:16:00.853476-07:00",
+      "date_modified": "2016-04-20T08:16:00.853508-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1939
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/413/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/414/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/415/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/416/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/417/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/101/?format=json",
+      "id": 101,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/100/?format=json",
+      "date_created": "2016-04-20T08:16:00.831656-07:00",
+      "date_modified": "2016-04-20T08:16:00.831681-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1971-06-17",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:00.801254-07:00",
+  "date_modified": "2020-11-25T08:30:22.988776-08:00",
+  "date_completed": null,
+  "fjc_id": 42,
+  "slug": "aldon-junior-anderson",
+  "name_first": "Aldon",
+  "name_middle": "Junior",
+  "name_last": "Anderson",
+  "name_suffix": "",
+  "date_dob": "1917-01-03",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1996-03-24",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Salt Lake City",
+  "dob_state": "UT",
+  "dob_country": "United States",
+  "dod_city": "Salt Lake City",
+  "dod_state": "UT",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

@@ -1,0 +1,238 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8653/?format=json",
+  "id": 8653,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4359/?format=json",
+      "id": 4359,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8653/?format=json",
+      "date_created": "2019-09-22T15:32:16.416559-07:00",
+      "date_modified": "2019-09-22T15:32:16.416582-07:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2019-09-22",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16313/?format=json",
+      "id": 16313,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8653/?format=json",
+      "date_created": "2022-05-20T18:37:29.212672-07:00",
+      "date_modified": "2022-05-20T18:37:29.212705-07:00",
+      "url": "https://en.wikipedia.org/wiki/Wilhelmina_Wright",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16314/?format=json",
+      "id": 16314,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8653/?format=json",
+      "date_created": "2022-05-20T18:37:29.239626-07:00",
+      "date_modified": "2022-05-20T18:37:29.239653-07:00",
+      "url": "https://mncourts.libguides.com/Wright",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16315/?format=json",
+      "id": 16315,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8653/?format=json",
+      "date_created": "2022-05-20T18:37:29.263428-07:00",
+      "date_modified": "2022-05-20T18:37:29.263458-07:00",
+      "url": "https://ballotpedia.org/Wilhelmina_Wright",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16316/?format=json",
+      "id": 16316,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8653/?format=json",
+      "date_created": "2022-05-20T18:37:29.287445-07:00",
+      "date_modified": "2022-05-20T18:37:29.287475-07:00",
+      "url": "https://www.mnd.uscourts.gov/WMW",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16317/?format=json",
+      "id": 16317,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8653/?format=json",
+      "date_created": "2022-05-20T18:37:29.311362-07:00",
+      "date_modified": "2022-05-20T18:37:29.311403-07:00",
+      "url": "https://aaregistry.org/story/wilhelmina-wright-judge-born/",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16318/?format=json",
+      "id": 16318,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8653/?format=json",
+      "date_created": "2022-05-20T18:37:29.334928-07:00",
+      "date_modified": "2022-05-20T18:37:29.334956-07:00",
+      "url": "https://www.congress.gov/nomination/114th-congress/367",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16319/?format=json",
+      "id": 16319,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8653/?format=json",
+      "date_created": "2022-05-20T18:37:29.358499-07:00",
+      "date_modified": "2022-05-20T18:37:29.358533-07:00",
+      "url": "https://dbpedia.org/page/Wilhelmina_Wright",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16320/?format=json",
+      "id": 16320,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8653/?format=json",
+      "date_created": "2022-05-20T18:37:29.381845-07:00",
+      "date_modified": "2022-05-20T18:37:29.381873-07:00",
+      "url": "https://www.minnpost.com/national/2022/02/what-would-a-u-s-supreme-court-look-like-with-justice-wilhelmina-wright-on-the-bench/",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2402/?format=json",
+      "id": 2402,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8653/?format=json",
+      "date_created": "2019-09-22T15:32:16.413796-07:00",
+      "date_modified": "2019-09-22T15:32:16.413820-07:00",
+      "year_rated": 2015,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6888/?format=json",
+      "id": 6888,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8653/?format=json",
+      "date_created": "2019-09-22T15:32:16.431991-07:00",
+      "date_modified": "2022-05-20T18:42:50.095291-07:00",
+      "degree_level": "ba",
+      "degree_detail": "cum laude",
+      "degree_year": 1986
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6889/?format=json",
+      "id": 6889,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8653/?format=json",
+      "date_created": "2019-09-22T15:32:16.446946-07:00",
+      "date_modified": "2022-05-20T18:42:50.166109-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1989
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/34568/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34570/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34571/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34572/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34573/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34574/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34569/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5002/?format=json",
+      "id": 5002,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8653/?format=json",
+      "date_created": "2019-09-22T15:32:16.408742-07:00",
+      "date_modified": "2019-09-22T15:32:16.408768-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2015-04-15",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7954/?format=json",
+      "id": 7954,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8653/?format=json",
+      "date_created": "2022-05-20T18:42:50.213366-07:00",
+      "date_modified": "2022-05-20T18:42:50.213396-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2012-09-27",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7955/?format=json",
+      "id": 7955,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8653/?format=json",
+      "date_created": "2022-05-20T18:42:50.263195-07:00",
+      "date_modified": "2022-05-20T18:42:50.263226-07:00",
+      "political_party": "z",
+      "source": "a",
+      "date_start": "2002-09-03",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7956/?format=json",
+      "id": 7956,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8653/?format=json",
+      "date_created": "2022-05-20T18:42:50.309108-07:00",
+      "date_modified": "2022-05-20T18:42:50.309148-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2022-01-27",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2019-09-22T15:32:16.370586-07:00",
+  "date_modified": "2022-05-20T18:42:49.994475-07:00",
+  "date_completed": "2022-05-20T18:30:30-07:00",
+  "fjc_id": 3599,
+  "slug": "wilhelmina-marie-wright",
+  "name_first": "Wilhelmina",
+  "name_middle": "Marie",
+  "name_last": "Wright",
+  "name_suffix": "",
+  "date_dob": "1964-01-13",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Norfolk",
+  "dob_state": "VA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

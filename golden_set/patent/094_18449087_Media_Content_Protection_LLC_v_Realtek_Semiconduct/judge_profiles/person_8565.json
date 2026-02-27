@@ -1,0 +1,138 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8565/?format=json",
+  "id": 8565,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4268/?format=json",
+      "id": 4268,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8565/?format=json",
+      "date_created": "2019-09-22T15:32:04.644797-07:00",
+      "date_modified": "2019-09-22T15:32:04.644820-07:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2019-09-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2311/?format=json",
+      "id": 2311,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8565/?format=json",
+      "date_created": "2019-09-22T15:32:04.641825-07:00",
+      "date_modified": "2019-09-22T15:32:04.641848-07:00",
+      "year_rated": 2017,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6705/?format=json",
+      "id": 6705,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4098/?format=json",
+        "id": 4098,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Notre Dame",
+        "ein": 350868188
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8565/?format=json",
+      "date_created": "2019-09-22T15:32:04.661903-07:00",
+      "date_modified": "2019-09-22T15:32:04.661928-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1986
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6706/?format=json",
+      "id": 6706,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6386/?format=json",
+        "id": 6386,
+        "is_alias_of": null,
+        "date_created": "2019-07-09T16:48:38.393566-07:00",
+        "date_modified": "2019-07-09T16:48:38.393611-07:00",
+        "name": "London School of Economics and Political Science",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8565/?format=json",
+      "date_created": "2019-09-22T15:32:04.675113-07:00",
+      "date_modified": "2019-09-22T15:32:04.675158-07:00",
+      "degree_level": "ma",
+      "degree_detail": "M.Sc.",
+      "degree_year": 1987
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6707/?format=json",
+      "id": 6707,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1749/?format=json",
+        "id": 1749,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Duke University",
+        "ein": 560532129
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8565/?format=json",
+      "date_created": "2019-09-22T15:32:04.692482-07:00",
+      "date_modified": "2019-09-22T15:32:04.692508-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1991
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33911/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33913/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33914/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33915/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33916/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33917/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33912/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4912/?format=json",
+      "id": 4912,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8565/?format=json",
+      "date_created": "2019-09-22T15:32:04.636891-07:00",
+      "date_modified": "2019-09-22T15:32:04.636917-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2017-12-20",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2019-09-22T15:32:04.599949-07:00",
+  "date_modified": "2020-11-25T08:30:21.524255-08:00",
+  "date_completed": null,
+  "fjc_id": 5018791,
+  "slug": "colm-felix-connolly",
+  "name_first": "Colm",
+  "name_middle": "Felix",
+  "name_last": "Connolly",
+  "name_suffix": "",
+  "date_dob": "1964-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Wilmington",
+  "dob_state": "DE",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": true
+}

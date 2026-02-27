@@ -1,0 +1,153 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13076/?format=json",
+  "id": 13076,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7245/?format=json",
+      "id": 7245,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13076/?format=json",
+      "date_created": "2022-02-16T10:39:10.381520-08:00",
+      "date_modified": "2022-02-16T15:58:12.719341-08:00",
+      "url": "https://ballotpedia.org/Lisa_Mangay_Chung",
+      "date_accessed": "2022-02-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7244/?format=json",
+      "id": 7244,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13076/?format=json",
+      "date_created": "2022-02-16T10:39:10.370245-08:00",
+      "date_modified": "2022-02-16T10:39:10.370284-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7349/?format=json",
+      "id": 7349,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13076/?format=json",
+      "date_created": "2022-02-16T15:58:12.724317-08:00",
+      "date_modified": "2022-02-16T15:58:12.724341-08:00",
+      "url": "https://www.bloomberg.com/profile/person/18692946",
+      "date_accessed": "2022-02-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7350/?format=json",
+      "id": 7350,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13076/?format=json",
+      "date_created": "2022-02-16T15:58:12.728709-08:00",
+      "date_modified": "2022-02-16T15:58:12.728731-08:00",
+      "url": "https://trellis.law/judge/lisa.mangay.chung",
+      "date_accessed": "2022-02-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7351/?format=json",
+      "id": 7351,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13076/?format=json",
+      "date_created": "2022-02-16T15:58:12.732678-08:00",
+      "date_modified": "2022-02-16T15:58:12.732700-08:00",
+      "url": "http://www.metnews.com/articles/chun033103.htm",
+      "date_accessed": "2022-02-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7352/?format=json",
+      "id": 7352,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13076/?format=json",
+      "date_created": "2022-02-16T15:58:12.740803-08:00",
+      "date_modified": "2022-02-16T15:58:12.740833-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7449/?format=json",
+      "id": 7449,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4674/?format=json",
+        "id": 4674,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Vassar College",
+        "ein": 141338587
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13076/?format=json",
+      "date_created": "2022-02-16T11:18:26.155226-08:00",
+      "date_modified": "2022-02-16T11:18:26.155272-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1987
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7450/?format=json",
+      "id": 7450,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3858/?format=json",
+        "id": 3858,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tulane University of Louisiana",
+        "ein": 720423889
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13076/?format=json",
+      "date_created": "2022-02-16T11:18:26.164809-08:00",
+      "date_modified": "2022-02-16T11:18:26.164842-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1991
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42419/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5374/?format=json",
+      "id": 5374,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13076/?format=json",
+      "date_created": "2022-02-16T11:18:26.171322-08:00",
+      "date_modified": "2022-02-16T11:18:26.171353-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:21.074082-07:00",
+  "date_modified": "2022-02-16T15:58:12.706037-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "lisa-mangay-chung",
+  "name_first": "Lisa",
+  "name_middle": "Mangay",
+  "name_last": "Chung",
+  "name_suffix": "",
+  "date_dob": "1966-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

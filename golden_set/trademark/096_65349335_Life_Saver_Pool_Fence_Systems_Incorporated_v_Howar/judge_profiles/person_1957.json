@@ -1,0 +1,120 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1957/?format=json",
+  "id": 1957,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1213/?format=json",
+      "id": 1213,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1957/?format=json",
+      "date_created": "2016-04-20T08:20:21.077657-07:00",
+      "date_modified": "2016-04-20T08:20:21.077679-07:00",
+      "year_rated": 2014,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1632/?format=json",
+      "id": 1632,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3136/?format=json",
+        "id": 3136,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Louisville",
+        "ein": 611014882
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1957/?format=json",
+      "date_created": "2016-04-20T08:20:21.092226-07:00",
+      "date_modified": "2016-04-20T08:20:21.092249-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1988
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1633/?format=json",
+      "id": 1633,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2835/?format=json",
+        "id": 2835,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "National University",
+        "ein": 237172306
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1957/?format=json",
+      "date_created": "2016-04-20T08:20:21.128067-07:00",
+      "date_modified": "2016-04-20T08:20:21.128091-07:00",
+      "degree_level": "ma",
+      "degree_detail": "M.A.",
+      "degree_year": 1997
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/12125/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12126/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12127/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12128/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12129/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12130/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12131/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12132/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12133/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12134/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12135/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12136/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12137/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12138/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12139/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12140/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12141/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12142/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12143/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1964/?format=json",
+      "id": 1964,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1957/?format=json",
+      "date_created": "2016-04-20T08:20:21.070453-07:00",
+      "date_modified": "2016-04-20T08:20:21.070477-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2014-01-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:21.037982-07:00",
+  "date_modified": "2020-11-25T08:30:12.966552-08:00",
+  "date_completed": null,
+  "fjc_id": 3534,
+  "slug": "steven-paul-logan",
+  "name_first": "Steven",
+  "name_middle": "Paul",
+  "name_last": "Logan",
+  "name_suffix": "",
+  "date_dob": "1965-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Tacoma",
+  "dob_state": "WA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

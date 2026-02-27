@@ -1,0 +1,100 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3344/?format=json",
+  "id": 3344,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2116/?format=json",
+      "id": 2116,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3344/?format=json",
+      "date_created": "2016-04-20T08:23:35.204195-07:00",
+      "date_modified": "2016-04-20T08:23:35.204216-07:00",
+      "year_rated": 1985,
+      "rating": "wq"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2117/?format=json",
+      "id": 2117,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3344/?format=json",
+      "date_created": "2016-04-20T08:23:35.232792-07:00",
+      "date_modified": "2016-04-20T08:23:35.232813-07:00",
+      "year_rated": 1989,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2813/?format=json",
+      "id": 2813,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3344/?format=json",
+      "date_created": "2016-04-20T08:23:35.245815-07:00",
+      "date_modified": "2016-04-20T08:23:35.245839-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1962
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/21004/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21005/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21006/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21007/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21008/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21009/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21010/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21011/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/21003/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3361/?format=json",
+      "id": 3361,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3344/?format=json",
+      "date_created": "2016-04-20T08:23:35.197229-07:00",
+      "date_modified": "2016-04-20T08:23:35.197253-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1985-06-25",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:23:35.163464-07:00",
+  "date_modified": "2020-11-25T08:30:20.502684-08:00",
+  "date_completed": null,
+  "fjc_id": 2479,
+  "slug": "john-mercer-walker-jr",
+  "name_first": "John",
+  "name_middle": "Mercer",
+  "name_last": "Walker",
+  "name_suffix": "jr",
+  "date_dob": "1940-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "New York",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

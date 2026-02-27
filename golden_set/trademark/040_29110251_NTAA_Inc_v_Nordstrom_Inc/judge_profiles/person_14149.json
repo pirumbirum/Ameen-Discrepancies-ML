@@ -1,0 +1,131 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14149/?format=json",
+  "id": 14149,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11867/?format=json",
+      "id": 11867,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14149/?format=json",
+      "date_created": "2022-03-11T10:19:21.979523-08:00",
+      "date_modified": "2022-03-11T10:19:21.979544-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-11",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11868/?format=json",
+      "id": 11868,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14149/?format=json",
+      "date_created": "2022-03-11T10:19:21.986920-08:00",
+      "date_modified": "2022-03-11T10:19:21.986942-08:00",
+      "url": "https://www.martindale.com/attorney/kevin-scott-rosenberg-2309399/",
+      "date_accessed": "2022-03-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11869/?format=json",
+      "id": 11869,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14149/?format=json",
+      "date_created": "2022-03-11T10:19:21.995929-08:00",
+      "date_modified": "2022-03-11T10:19:21.995951-08:00",
+      "url": "https://ballotpedia.org/Kevin_Rosenberg",
+      "date_accessed": "2022-03-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11870/?format=json",
+      "id": 11870,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14149/?format=json",
+      "date_created": "2022-03-11T10:19:22.005912-08:00",
+      "date_modified": "2022-03-11T10:19:22.005934-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-11",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9495/?format=json",
+      "id": 9495,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5190/?format=json",
+        "id": 5190,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "San Diego State University",
+        "ein": 330373293
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14149/?format=json",
+      "date_created": "2022-03-11T10:19:21.961626-08:00",
+      "date_modified": "2022-03-11T10:19:21.961648-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9496/?format=json",
+      "id": 9496,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5646/?format=json",
+        "id": 5646,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of the Pacific",
+        "ein": 941156266
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14149/?format=json",
+      "date_created": "2022-03-11T10:19:21.973231-08:00",
+      "date_modified": "2022-03-11T10:19:21.973274-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43830/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6741/?format=json",
+      "id": 6741,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14149/?format=json",
+      "date_created": "2022-03-11T10:19:21.952988-08:00",
+      "date_modified": "2022-03-11T10:19:21.953011-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:09.923445-07:00",
+  "date_modified": "2022-03-21T14:45:51.046378-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "kevin-scott-rosenberg",
+  "name_first": "Kevin",
+  "name_middle": "Scott",
+  "name_last": "Rosenberg",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

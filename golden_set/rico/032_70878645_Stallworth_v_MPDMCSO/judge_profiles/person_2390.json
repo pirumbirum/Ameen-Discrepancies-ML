@@ -1,0 +1,66 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2390/?format=json",
+  "id": 2390,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1470/?format=json",
+      "id": 1470,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2390/?format=json",
+      "date_created": "2016-04-20T08:21:21.693636-07:00",
+      "date_modified": "2016-04-20T08:21:21.693658-07:00",
+      "year_rated": 1990,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14913/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14914/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14915/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14916/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2396/?format=json",
+      "id": 2396,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2390/?format=json",
+      "date_created": "2016-04-20T08:21:21.688189-07:00",
+      "date_modified": "2016-04-20T08:21:21.688216-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1990-07-18",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:21.639778-07:00",
+  "date_modified": "2020-11-25T08:30:19.228021-08:00",
+  "date_completed": null,
+  "fjc_id": 1746,
+  "slug": "thomas-g-nelson",
+  "name_first": "Thomas",
+  "name_middle": "G.",
+  "name_last": "Nelson",
+  "name_suffix": "",
+  "date_dob": "1936-11-14",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2011-05-04",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Idaho Falls",
+  "dob_state": "ID",
+  "dob_country": "United States",
+  "dod_city": "Boise",
+  "dod_state": "ID",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

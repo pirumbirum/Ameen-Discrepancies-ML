@@ -1,0 +1,69 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6653/?format=json",
+  "id": 6653,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2740/?format=json",
+      "id": 2740,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6653/?format=json",
+      "date_created": "2016-04-20T08:27:36.309143-07:00",
+      "date_modified": "2016-04-20T08:27:36.309165-07:00",
+      "url": "https://www.courts.state.co.us/Bio.cfm?Employee_ID=81",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5383/?format=json",
+      "id": 5383,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/637/?format=json",
+        "id": 637,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Colorado Boulder",
+        "ein": 846000555
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6653/?format=json",
+      "date_created": "2016-04-20T08:27:36.297175-07:00",
+      "date_modified": "2016-04-20T08:27:36.297199-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/30275/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30276/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:36.254649-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "michael-h-berger",
+  "name_first": "Michael",
+  "name_middle": "H.",
+  "name_last": "Berger",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

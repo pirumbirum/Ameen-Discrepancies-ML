@@ -1,0 +1,148 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14821/?format=json",
+  "id": 14821,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14554/?format=json",
+      "id": 14554,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14821/?format=json",
+      "date_created": "2022-04-06T20:49:09.504370-07:00",
+      "date_modified": "2022-04-06T20:49:09.504394-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=Iu1xNh1HF09jK1fOXHarnQ%3D%3D",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14555/?format=json",
+      "id": 14555,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14821/?format=json",
+      "date_created": "2022-04-06T20:49:09.506159-07:00",
+      "date_modified": "2022-04-06T20:49:09.506183-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14556/?format=json",
+      "id": 14556,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14821/?format=json",
+      "date_created": "2022-04-06T20:49:09.507263-07:00",
+      "date_modified": "2022-04-06T20:49:09.507288-07:00",
+      "url": "https://en.wikipedia.org/wiki/Robert_T._Johnson_(lawyer)",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14557/?format=json",
+      "id": 14557,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14821/?format=json",
+      "date_created": "2022-04-06T20:49:09.508262-07:00",
+      "date_modified": "2022-04-06T20:49:09.508287-07:00",
+      "url": "https://ballotpedia.org/Robert_T._Johnson",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14558/?format=json",
+      "id": 14558,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14821/?format=json",
+      "date_created": "2022-04-06T20:49:09.509460-07:00",
+      "date_modified": "2022-04-06T20:49:09.509484-07:00",
+      "url": "https://www.encyclopedia.com/education/news-wires-white-papers-and-books/johnson-robert-t-1948",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10759/?format=json",
+      "id": 10759,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3941/?format=json",
+        "id": 3941,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "New York University",
+        "ein": 135562308
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14821/?format=json",
+      "date_created": "2022-04-06T20:49:09.493181-07:00",
+      "date_modified": "2022-04-06T20:49:09.493209-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1975
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10760/?format=json",
+      "id": 10760,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3902/?format=json",
+        "id": 3902,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "CUNY City College",
+        "ein": 133893536
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14821/?format=json",
+      "date_created": "2022-04-06T20:49:09.499249-07:00",
+      "date_modified": "2022-04-06T20:49:09.499273-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Philosophy",
+      "degree_year": 1972
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/46260/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46261/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46262/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46263/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46264/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46265/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7485/?format=json",
+      "id": 7485,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14821/?format=json",
+      "date_created": "2022-04-06T20:49:09.502405-07:00",
+      "date_modified": "2022-04-06T20:49:09.502436-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-06T20:49:09.473878-07:00",
+  "date_modified": "2022-05-06T10:27:35.387618-07:00",
+  "date_completed": "2022-05-06T10:08:55-07:00",
+  "fjc_id": null,
+  "slug": "robert-thomas-johnson",
+  "name_first": "Robert",
+  "name_middle": "Thomas",
+  "name_last": "Johnson",
+  "name_suffix": "",
+  "date_dob": "1948-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "The Bronx, New York City",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

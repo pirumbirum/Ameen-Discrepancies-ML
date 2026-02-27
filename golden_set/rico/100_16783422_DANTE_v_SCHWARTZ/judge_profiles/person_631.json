@@ -1,0 +1,60 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/631/?format=json",
+  "id": 631,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/3774/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3775/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3776/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3777/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3778/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3779/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3780/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3781/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/635/?format=json",
+      "id": 635,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/631/?format=json",
+      "date_created": "2016-04-20T08:17:13.725768-07:00",
+      "date_modified": "2016-04-20T08:17:13.725792-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1943-02-18",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:13.696528-07:00",
+  "date_modified": "2020-11-25T08:30:17.403874-08:00",
+  "date_completed": null,
+  "fjc_id": 440,
+  "slug": "chase-addison-clark",
+  "name_first": "Chase",
+  "name_middle": "Addison",
+  "name_last": "Clark",
+  "name_suffix": "",
+  "date_dob": "1883-08-21",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1966-12-30",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Hadley",
+  "dob_state": "IN",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

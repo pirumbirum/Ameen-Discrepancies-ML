@@ -1,0 +1,151 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14786/?format=json",
+  "id": 14786,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14411/?format=json",
+      "id": 14411,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14786/?format=json",
+      "date_created": "2022-04-06T13:30:14.172265-07:00",
+      "date_modified": "2022-04-06T13:30:14.172287-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=AhpxfizYwa5T9aRMY86W6Q%3D%3D",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14412/?format=json",
+      "id": 14412,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14786/?format=json",
+      "date_created": "2022-04-06T13:30:14.174143-07:00",
+      "date_modified": "2022-04-06T13:30:14.174164-07:00",
+      "url": "https://opengovny.com/attorney/2324812",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14413/?format=json",
+      "id": 14413,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14786/?format=json",
+      "date_created": "2022-04-06T13:30:14.175106-07:00",
+      "date_modified": "2022-04-06T13:30:14.175127-07:00",
+      "url": "https://www.post-journal.com/opinion/in-our-opinion/2021/10/grace-hanlon-is-the-choice-for-state-supreme-court/",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14414/?format=json",
+      "id": 14414,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14786/?format=json",
+      "date_created": "2022-04-06T13:30:14.176058-07:00",
+      "date_modified": "2022-04-06T13:30:14.176078-07:00",
+      "url": "https://www.linkedin.com/in/grace-hanlon-97543061/",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14415/?format=json",
+      "id": 14415,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14786/?format=json",
+      "date_created": "2022-04-06T13:30:14.177044-07:00",
+      "date_modified": "2022-04-06T13:30:14.177065-07:00",
+      "url": "https://ballotpedia.org/Grace_Hanlon",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14416/?format=json",
+      "id": 14416,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14786/?format=json",
+      "date_created": "2022-04-06T13:30:14.177999-07:00",
+      "date_modified": "2022-04-06T13:30:14.178020-07:00",
+      "url": "https://spectrumlocalnews.com/nys/central-ny/news/2022/03/12/hanlon-makes-history-as-first-openly-gay-state-supreme-court-judge",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10694/?format=json",
+      "id": 10694,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3950/?format=json",
+        "id": 3950,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Pace University-New York",
+        "ein": 135562314
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14786/?format=json",
+      "date_created": "2022-04-06T13:30:14.163273-07:00",
+      "date_modified": "2022-04-06T13:30:14.163299-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1989
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10695/?format=json",
+      "id": 10695,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/813/?format=json",
+        "id": 813,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University at Buffalo",
+        "ein": 146013200
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14786/?format=json",
+      "date_created": "2022-04-06T13:30:14.167850-07:00",
+      "date_modified": "2022-04-06T13:30:14.167872-07:00",
+      "degree_level": "ba",
+      "degree_detail": "English Language and Literature, General",
+      "degree_year": 1986
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/46028/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7437/?format=json",
+      "id": 7437,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14786/?format=json",
+      "date_created": "2022-04-06T13:30:14.170249-07:00",
+      "date_modified": "2022-04-06T13:30:14.170271-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-06T13:30:14.147747-07:00",
+  "date_modified": "2022-05-04T13:33:11.578442-07:00",
+  "date_completed": "2022-05-04T13:30:08-07:00",
+  "fjc_id": null,
+  "slug": "grace-marie-hanlon",
+  "name_first": "Grace",
+  "name_middle": "Marie",
+  "name_last": "Hanlon",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

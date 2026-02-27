@@ -1,0 +1,87 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2942/?format=json",
+  "id": 2942,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1859/?format=json",
+      "id": 1859,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2942/?format=json",
+      "date_created": "2016-04-20T08:22:38.445341-07:00",
+      "date_modified": "2016-04-20T08:22:38.445364-07:00",
+      "year_rated": 2011,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2465/?format=json",
+      "id": 2465,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3060/?format=json",
+        "id": 3060,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Utah State University",
+        "ein": 876000528
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2942/?format=json",
+      "date_created": "2016-04-20T08:22:38.462141-07:00",
+      "date_modified": "2016-04-20T08:22:38.462165-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1994
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/18460/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18461/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18462/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18463/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18464/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2953/?format=json",
+      "id": 2953,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2942/?format=json",
+      "date_created": "2016-04-20T08:22:38.438517-07:00",
+      "date_modified": "2016-04-20T08:22:38.438541-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2011-11-30",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:38.404665-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3444,
+  "slug": "robert-james-shelby",
+  "name_first": "Robert",
+  "name_middle": "James",
+  "name_last": "Shelby",
+  "name_suffix": "",
+  "date_dob": "1970-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Fort Atkinson",
+  "dob_state": "WI",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

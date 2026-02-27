@@ -1,0 +1,166 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13997/?format=json",
+  "id": 13997,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7206/?format=json",
+      "id": 7206,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13997/?format=json",
+      "date_created": "2022-02-15T17:58:54.768957-08:00",
+      "date_modified": "2022-02-15T17:58:54.768983-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-15",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7207/?format=json",
+      "id": 7207,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13997/?format=json",
+      "date_created": "2022-02-15T17:58:54.779405-08:00",
+      "date_modified": "2022-02-15T17:58:54.779431-08:00",
+      "url": "https://www.martindale.com/attorney/susanne-son-ok-cho-106109/",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7208/?format=json",
+      "id": 7208,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13997/?format=json",
+      "date_created": "2022-02-15T17:58:54.783982-08:00",
+      "date_modified": "2022-02-15T17:58:54.784030-08:00",
+      "url": "https://trellis.law/judge/susanne.s.cho",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7209/?format=json",
+      "id": 7209,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13997/?format=json",
+      "date_created": "2022-02-15T17:58:54.788607-08:00",
+      "date_modified": "2022-02-15T17:58:54.788631-08:00",
+      "url": "https://www.pe.com/2014/11/13/riverside-county-superior-court-gets-first-female-korean-american-judge/",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7210/?format=json",
+      "id": 7210,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13997/?format=json",
+      "date_created": "2022-02-15T17:58:54.792670-08:00",
+      "date_modified": "2022-02-15T17:58:54.792692-08:00",
+      "url": "https://www.bloomberg.com/profile/person/19626816",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7211/?format=json",
+      "id": 7211,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13997/?format=json",
+      "date_created": "2022-02-15T17:58:54.802220-08:00",
+      "date_modified": "2022-02-15T17:58:54.802250-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-15",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7430/?format=json",
+      "id": 7430,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13997/?format=json",
+      "date_created": "2022-02-15T17:58:54.737107-08:00",
+      "date_modified": "2022-02-15T17:58:54.737135-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7431/?format=json",
+      "id": 7431,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5210/?format=json",
+        "id": 5210,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2025-06-15T22:32:10.957501-07:00",
+        "name": "UC Law San Francisco",
+        "ein": 942581680
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13997/?format=json",
+      "date_created": "2022-02-15T17:58:54.748026-08:00",
+      "date_modified": "2022-02-15T17:58:54.748052-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43662/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5360/?format=json",
+      "id": 5360,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13997/?format=json",
+      "date_created": "2022-02-15T17:58:54.756090-08:00",
+      "date_modified": "2022-02-15T17:58:54.756118-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5361/?format=json",
+      "id": 5361,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13997/?format=json",
+      "date_created": "2022-02-15T17:58:54.763119-08:00",
+      "date_modified": "2022-02-15T17:58:54.763146-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:03.837815-07:00",
+  "date_modified": "2022-02-15T17:58:54.712699-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "susanne-son-ok-cho",
+  "name_first": "Susanne",
+  "name_middle": "Son-Ok",
+  "name_last": "Cho",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Kwangju, South Korea",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

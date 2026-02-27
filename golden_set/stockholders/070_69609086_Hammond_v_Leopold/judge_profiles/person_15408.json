@@ -1,0 +1,115 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15408/?format=json",
+  "id": 15408,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16695/?format=json",
+      "id": 16695,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15408/?format=json",
+      "date_created": "2022-06-10T10:12:22.786548-07:00",
+      "date_modified": "2022-06-10T10:12:22.786570-07:00",
+      "url": "https://trellis.law/judge/richard.a.bennett",
+      "date_accessed": "2022-06-10",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16696/?format=json",
+      "id": 16696,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15408/?format=json",
+      "date_created": "2022-06-10T10:12:22.792603-07:00",
+      "date_modified": "2022-06-10T10:12:22.792629-07:00",
+      "url": "https://www.jamsadr.com/news/2011/retired-napa-county-court-judge-hon-richard-bennett-joins-jams",
+      "date_accessed": "2022-06-10",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11673/?format=json",
+      "id": 11673,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5218/?format=json",
+        "id": 5218,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Golden Gate University-San Francisco",
+        "ein": 941585735
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15408/?format=json",
+      "date_created": "2022-06-10T10:12:22.770964-07:00",
+      "date_modified": "2022-06-10T10:12:22.770984-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11674/?format=json",
+      "id": 11674,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5210/?format=json",
+        "id": 5210,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2025-06-15T22:32:10.957501-07:00",
+        "name": "UC Law San Francisco",
+        "ein": 942581680
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15408/?format=json",
+      "date_created": "2022-06-10T10:12:22.780013-07:00",
+      "date_modified": "2022-06-10T10:12:22.780033-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49194/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49195/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49196/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7992/?format=json",
+      "id": 7992,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15408/?format=json",
+      "date_created": "2022-06-10T10:12:22.781349-07:00",
+      "date_modified": "2022-06-10T10:12:22.781363-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1985-01-01",
+      "date_granularity_start": "%Y",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-06-10T10:12:22.703716-07:00",
+  "date_modified": "2022-06-10T10:29:41.521093-07:00",
+  "date_completed": "2022-06-10T10:09:36-07:00",
+  "fjc_id": null,
+  "slug": "richard-a-bennett",
+  "name_first": "Richard",
+  "name_middle": "A.",
+  "name_last": "Bennett",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

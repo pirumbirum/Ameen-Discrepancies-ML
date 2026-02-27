@@ -1,0 +1,187 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13908/?format=json",
+  "id": 13908,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6793/?format=json",
+      "id": 6793,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13908/?format=json",
+      "date_created": "2022-02-13T07:30:46.824811-08:00",
+      "date_modified": "2022-02-13T07:30:46.824834-08:00",
+      "url": "https://www.martindale.com/attorney/tracie-lynne-brown-228454/",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6819/?format=json",
+      "id": 6819,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13908/?format=json",
+      "date_created": "2022-02-13T07:51:49.916326-08:00",
+      "date_modified": "2022-02-13T09:54:45.870355-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-13",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6878/?format=json",
+      "id": 6878,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13908/?format=json",
+      "date_created": "2022-02-13T12:15:20.205100-08:00",
+      "date_modified": "2022-02-13T12:15:20.205128-08:00",
+      "url": "https://ballotpedia.org/Tracie_L._Brown",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6879/?format=json",
+      "id": 6879,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13908/?format=json",
+      "date_created": "2022-02-13T12:15:20.210108-08:00",
+      "date_modified": "2022-02-13T12:15:20.210134-08:00",
+      "url": "https://www.courts.ca.gov/42172.htm",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6852/?format=json",
+      "id": 6852,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13908/?format=json",
+      "date_created": "2022-02-13T09:54:45.878558-08:00",
+      "date_modified": "2022-02-13T12:17:41.364708-08:00",
+      "url": "https://www.law.berkeley.edu/our-faculty/faculty-profiles/tracie-brown/#tab_profile",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6880/?format=json",
+      "id": 6880,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13908/?format=json",
+      "date_created": "2022-02-13T12:17:41.369851-08:00",
+      "date_modified": "2022-02-13T12:17:41.369879-08:00",
+      "url": "https://www.linkedin.com/in/tracie-brown-2a08543/",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6881/?format=json",
+      "id": 6881,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13908/?format=json",
+      "date_created": "2022-02-13T12:17:41.374797-08:00",
+      "date_modified": "2022-02-13T12:17:41.374823-08:00",
+      "url": "https://rafu.com/2018/11/governor-appoints-tracie-brown-to-1st-district-court-of-appeal/",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6882/?format=json",
+      "id": 6882,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13908/?format=json",
+      "date_created": "2022-02-13T12:17:41.382396-08:00",
+      "date_modified": "2022-02-13T12:17:41.382422-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-13",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7291/?format=json",
+      "id": 7291,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13908/?format=json",
+      "date_created": "2022-02-13T07:30:46.818218-08:00",
+      "date_modified": "2022-02-13T07:30:46.818241-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1996
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7290/?format=json",
+      "id": 7290,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13908/?format=json",
+      "date_created": "2022-02-13T07:30:46.809917-08:00",
+      "date_modified": "2022-02-13T12:15:20.196964-08:00",
+      "degree_level": "ba",
+      "degree_detail": "magna cum laude",
+      "degree_year": 1992
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43562/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/43561/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5261/?format=json",
+      "id": 5261,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13908/?format=json",
+      "date_created": "2022-02-13T07:51:49.887683-08:00",
+      "date_modified": "2022-02-13T07:51:49.887707-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5280/?format=json",
+      "id": 5280,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13908/?format=json",
+      "date_created": "2022-02-13T09:54:45.865079-08:00",
+      "date_modified": "2022-02-13T09:54:45.865110-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:59.943716-07:00",
+  "date_modified": "2022-02-13T12:17:41.350106-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "tracie-lynne-brown",
+  "name_first": "Tracie",
+  "name_middle": "Lynne",
+  "name_last": "Brown",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

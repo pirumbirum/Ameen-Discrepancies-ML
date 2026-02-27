@@ -1,0 +1,160 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/738/?format=json",
+  "id": 738,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2939/?format=json",
+      "id": 2939,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/738/?format=json",
+      "date_created": "2016-04-20T08:27:49.440695-07:00",
+      "date_modified": "2016-04-20T08:27:49.440718-07:00",
+      "url": "http://en.wikipedia.org/wiki/Virginia_M._Hernandez_Covington",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/442/?format=json",
+      "id": 442,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/738/?format=json",
+      "date_created": "2016-04-20T08:17:28.765030-07:00",
+      "date_modified": "2016-04-20T08:17:28.765051-07:00",
+      "year_rated": 2004,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/590/?format=json",
+      "id": 590,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5757/?format=json",
+        "id": 5757,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Tampa",
+        "ein": 590624459
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/738/?format=json",
+      "date_created": "2016-04-20T08:17:28.786421-07:00",
+      "date_modified": "2016-04-20T08:17:28.786445-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1976
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/591/?format=json",
+      "id": 591,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5757/?format=json",
+        "id": 5757,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Tampa",
+        "ein": 590624459
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/738/?format=json",
+      "date_created": "2016-04-20T08:17:28.807060-07:00",
+      "date_modified": "2016-04-20T08:17:28.807084-07:00",
+      "degree_level": "mba",
+      "degree_detail": "M.B.A.",
+      "degree_year": 1977
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5623/?format=json",
+      "id": 5623,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5757/?format=json",
+        "id": 5757,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Tampa",
+        "ein": 590624459
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/738/?format=json",
+      "date_created": "2016-04-20T08:27:49.404520-07:00",
+      "date_modified": "2016-04-20T08:27:49.404552-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5624/?format=json",
+      "id": 5624,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6053/?format=json",
+        "id": 6053,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Georgetown University",
+        "ein": 530196603
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/738/?format=json",
+      "date_created": "2016-04-20T08:27:49.420328-07:00",
+      "date_modified": "2016-04-20T08:27:49.420353-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/4458/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4459/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4460/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4461/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4462/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4463/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4464/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30763/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30764/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30765/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/743/?format=json",
+      "id": 743,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/738/?format=json",
+      "date_created": "2016-04-20T08:17:28.758100-07:00",
+      "date_modified": "2016-04-20T08:17:28.758125-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2004-04-20",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:28.723858-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3077,
+  "slug": "virginia-maria-hernandez-covington",
+  "name_first": "Virginia",
+  "name_middle": "Maria Hernandez",
+  "name_last": "Covington",
+  "name_suffix": "",
+  "date_dob": "1955-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Tampa",
+  "dob_state": "FL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

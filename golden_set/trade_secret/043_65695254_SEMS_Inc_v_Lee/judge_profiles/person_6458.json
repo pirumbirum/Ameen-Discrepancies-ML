@@ -1,0 +1,133 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6458/?format=json",
+  "id": 6458,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9644/?format=json",
+      "id": 9644,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6458/?format=json",
+      "date_created": "2022-03-03T10:04:09.714891-08:00",
+      "date_modified": "2022-03-03T10:04:09.714915-08:00",
+      "url": "https://en.wikipedia.org/wiki/Jeffrey_W._Johnson#Judicial_service",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9645/?format=json",
+      "id": 9645,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6458/?format=json",
+      "date_created": "2022-03-03T10:04:09.722363-08:00",
+      "date_modified": "2022-03-03T10:04:09.722384-08:00",
+      "url": "https://ballotpedia.org/Jeffrey_W._Johnson",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9646/?format=json",
+      "id": 9646,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6458/?format=json",
+      "date_created": "2022-03-03T10:04:09.727423-08:00",
+      "date_modified": "2022-03-03T10:04:09.727446-08:00",
+      "url": "https://www.bloomberg.com/profile/person/3368811",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9647/?format=json",
+      "id": 9647,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6458/?format=json",
+      "date_created": "2022-03-03T10:04:09.736589-08:00",
+      "date_modified": "2022-03-03T10:04:09.736611-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-03",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8461/?format=json",
+      "id": 8461,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1749/?format=json",
+        "id": 1749,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Duke University",
+        "ein": 560532129
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6458/?format=json",
+      "date_created": "2022-03-03T10:04:09.622739-08:00",
+      "date_modified": "2022-03-03T10:04:09.622761-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1982
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8462/?format=json",
+      "id": 8462,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6458/?format=json",
+      "date_created": "2022-03-03T10:04:09.638256-08:00",
+      "date_modified": "2022-03-03T10:04:09.638278-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1985
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43212/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44426/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44427/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6035/?format=json",
+      "id": 6035,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6458/?format=json",
+      "date_created": "2022-03-03T10:04:09.613291-08:00",
+      "date_modified": "2022-03-03T10:04:09.613315-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:31.203571-07:00",
+  "date_modified": "2022-03-03T10:04:09.593303-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jeffrey-w-johnson",
+  "name_first": "Jeffrey",
+  "name_middle": "W.",
+  "name_last": "Johnson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

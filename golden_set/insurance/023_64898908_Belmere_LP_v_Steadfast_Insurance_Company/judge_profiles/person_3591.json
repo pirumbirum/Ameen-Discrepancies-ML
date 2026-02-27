@@ -1,0 +1,66 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3591/?format=json",
+  "id": 3591,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2247/?format=json",
+      "id": 2247,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3591/?format=json",
+      "date_created": "2016-04-20T08:24:10.885442-07:00",
+      "date_modified": "2016-04-20T08:24:10.885464-07:00",
+      "year_rated": 2001,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22631/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22632/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22633/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22634/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3609/?format=json",
+      "id": 3609,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3591/?format=json",
+      "date_created": "2016-04-20T08:24:10.880179-07:00",
+      "date_modified": "2016-04-20T08:24:10.880203-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2001-10-10",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:10.841782-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2918,
+  "slug": "jay-c-zainey",
+  "name_first": "Jay",
+  "name_middle": "C.",
+  "name_last": "Zainey",
+  "name_suffix": "",
+  "date_dob": "1951-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "New Orleans",
+  "dob_state": "LA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

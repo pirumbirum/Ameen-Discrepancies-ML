@@ -1,0 +1,123 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14590/?format=json",
+  "id": 14590,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13595/?format=json",
+      "id": 13595,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14590/?format=json",
+      "date_created": "2022-03-29T15:37:57.834220-07:00",
+      "date_modified": "2022-03-29T15:37:57.834243-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-29",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13596/?format=json",
+      "id": 13596,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14590/?format=json",
+      "date_created": "2022-03-29T15:37:57.835882-07:00",
+      "date_modified": "2022-03-29T15:37:57.835905-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=IykBPeeC1mFOn8XEeWmFtw%3D%3D",
+      "date_accessed": "2022-03-29",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13597/?format=json",
+      "id": 13597,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14590/?format=json",
+      "date_created": "2022-03-29T15:37:57.836839-07:00",
+      "date_modified": "2022-03-29T15:37:57.836862-07:00",
+      "url": "https://ballotpedia.org/Denis_John_Boyle",
+      "date_accessed": "2022-03-29",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13598/?format=json",
+      "id": 13598,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14590/?format=json",
+      "date_created": "2022-03-29T15:37:57.837872-07:00",
+      "date_modified": "2022-03-29T15:37:57.837895-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/Supreme_Court,_Bronx_County/Denis_Boyle/Denis_Boyle-42.xml",
+      "date_accessed": "2022-03-29",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10312/?format=json",
+      "id": 10312,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/719/?format=json",
+        "id": 719,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Fordham University",
+        "ein": 131740451
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14590/?format=json",
+      "date_created": "2022-03-29T15:37:57.828255-07:00",
+      "date_modified": "2022-03-29T15:37:57.828278-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1975
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10313/?format=json",
+      "id": 10313,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/719/?format=json",
+        "id": 719,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Fordham University",
+        "ein": 131740451
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14590/?format=json",
+      "date_created": "2022-03-29T15:37:57.832563-07:00",
+      "date_modified": "2022-03-29T15:37:57.832587-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1978
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/45051/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45052/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45053/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45054/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45055/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-03-29T15:37:57.816413-07:00",
+  "date_modified": "2022-04-26T10:01:40.218235-07:00",
+  "date_completed": "2022-04-26T09:53:59-07:00",
+  "fjc_id": null,
+  "slug": "denis-john-boyle",
+  "name_first": "Denis",
+  "name_middle": "John",
+  "name_last": "Boyle",
+  "name_suffix": "",
+  "date_dob": "1953-05-15",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Bronx",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "ca",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

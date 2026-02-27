@@ -1,0 +1,260 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13553/?format=json",
+  "id": 13553,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12642/?format=json",
+      "id": 12642,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13553/?format=json",
+      "date_created": "2022-03-14T18:25:25.573765-07:00",
+      "date_modified": "2022-03-14T18:25:25.573949-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-14",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12643/?format=json",
+      "id": 12643,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13553/?format=json",
+      "date_created": "2022-03-14T18:25:25.579786-07:00",
+      "date_modified": "2022-03-14T18:25:25.579828-07:00",
+      "url": "http://www.smartvoter.org/2008/06/03/ca/or/vote/thompson_n/bio.html",
+      "date_accessed": "2022-03-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12644/?format=json",
+      "id": 12644,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13553/?format=json",
+      "date_created": "2022-03-14T18:25:25.586158-07:00",
+      "date_modified": "2022-03-14T18:25:25.586203-07:00",
+      "url": "https://ballotpedia.org/Nicholas_S._Thompson",
+      "date_accessed": "2022-03-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12645/?format=json",
+      "id": 12645,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13553/?format=json",
+      "date_created": "2022-03-14T18:25:25.590764-07:00",
+      "date_modified": "2022-03-14T18:25:25.590809-07:00",
+      "url": "https://www.martindale.com/attorney/nicholas-six-thompson-258721/",
+      "date_accessed": "2022-03-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12646/?format=json",
+      "id": 12646,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13553/?format=json",
+      "date_created": "2022-03-14T18:25:25.601543-07:00",
+      "date_modified": "2022-03-14T18:25:25.601573-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-14",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12647/?format=json",
+      "id": 12647,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13553/?format=json",
+      "date_created": "2022-03-14T18:25:25.780393-07:00",
+      "date_modified": "2022-03-14T18:25:25.780416-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-14",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12648/?format=json",
+      "id": 12648,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13553/?format=json",
+      "date_created": "2022-03-14T18:25:25.785899-07:00",
+      "date_modified": "2022-03-14T18:25:25.785922-07:00",
+      "url": "http://www.smartvoter.org/2008/06/03/ca/or/vote/thompson_n/bio.html",
+      "date_accessed": "2022-03-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12649/?format=json",
+      "id": 12649,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13553/?format=json",
+      "date_created": "2022-03-14T18:25:25.789851-07:00",
+      "date_modified": "2022-03-14T18:25:25.789874-07:00",
+      "url": "https://ballotpedia.org/Nicholas_S._Thompson",
+      "date_accessed": "2022-03-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12650/?format=json",
+      "id": 12650,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13553/?format=json",
+      "date_created": "2022-03-14T18:25:25.795112-07:00",
+      "date_modified": "2022-03-14T18:25:25.795135-07:00",
+      "url": "https://www.martindale.com/attorney/nicholas-six-thompson-258721/",
+      "date_accessed": "2022-03-14",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9887/?format=json",
+      "id": 9887,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6464/?format=json",
+        "id": 6464,
+        "is_alias_of": null,
+        "date_created": "2022-02-22T15:06:40.448526-08:00",
+        "date_modified": "2022-02-22T15:06:40.448553-08:00",
+        "name": "Western State University",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13553/?format=json",
+      "date_created": "2022-03-14T18:25:25.560825-07:00",
+      "date_modified": "2022-03-14T18:25:25.560848-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1981
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9888/?format=json",
+      "id": 9888,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6464/?format=json",
+        "id": 6464,
+        "is_alias_of": null,
+        "date_created": "2022-02-22T15:06:40.448526-08:00",
+        "date_modified": "2022-02-22T15:06:40.448553-08:00",
+        "name": "Western State University",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13553/?format=json",
+      "date_created": "2022-03-14T18:25:25.569580-07:00",
+      "date_modified": "2022-03-14T18:25:25.569603-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1978
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9889/?format=json",
+      "id": 9889,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6464/?format=json",
+        "id": 6464,
+        "is_alias_of": null,
+        "date_created": "2022-02-22T15:06:40.448526-08:00",
+        "date_modified": "2022-02-22T15:06:40.448553-08:00",
+        "name": "Western State University",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13553/?format=json",
+      "date_created": "2022-03-14T18:25:25.765739-07:00",
+      "date_modified": "2022-03-14T18:25:25.765763-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1981
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9890/?format=json",
+      "id": 9890,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6464/?format=json",
+        "id": 6464,
+        "is_alias_of": null,
+        "date_created": "2022-02-22T15:06:40.448526-08:00",
+        "date_modified": "2022-02-22T15:06:40.448553-08:00",
+        "name": "Western State University",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13553/?format=json",
+      "date_created": "2022-03-14T18:25:25.773116-07:00",
+      "date_modified": "2022-03-14T18:25:25.773139-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1978
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43095/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7002/?format=json",
+      "id": 7002,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13553/?format=json",
+      "date_created": "2022-03-14T18:25:25.546670-07:00",
+      "date_modified": "2022-03-14T18:25:25.546711-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7003/?format=json",
+      "id": 7003,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13553/?format=json",
+      "date_created": "2022-03-14T18:25:25.553531-07:00",
+      "date_modified": "2022-03-14T18:25:25.553554-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7004/?format=json",
+      "id": 7004,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13553/?format=json",
+      "date_created": "2022-03-14T18:25:25.751507-07:00",
+      "date_modified": "2022-03-14T18:25:25.751532-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7005/?format=json",
+      "id": 7005,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13553/?format=json",
+      "date_created": "2022-03-14T18:25:25.757231-07:00",
+      "date_modified": "2022-03-14T18:25:25.757254-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:43.793309-07:00",
+  "date_modified": "2022-03-23T11:50:33.141076-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "nicholas-six-thompson",
+  "name_first": "Nicholas",
+  "name_middle": "Six",
+  "name_last": "Thompson",
+  "name_suffix": "",
+  "date_dob": "1957-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

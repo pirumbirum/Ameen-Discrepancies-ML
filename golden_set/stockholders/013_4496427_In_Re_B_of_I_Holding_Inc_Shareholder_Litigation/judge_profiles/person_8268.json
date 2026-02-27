@@ -1,0 +1,68 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8268/?format=json",
+  "id": 8268,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4016/?format=json",
+      "id": 4016,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8268/?format=json",
+      "date_created": "2016-04-20T08:28:58.405891-07:00",
+      "date_modified": "2016-04-20T08:28:58.405928-07:00",
+      "url": "http://judgepedia.org/William_Frank_Crawford",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6449/?format=json",
+      "id": 6449,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1186/?format=json",
+        "id": 1186,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Union Institute & University",
+        "ein": 310747997
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8268/?format=json",
+      "date_created": "2016-04-20T08:28:58.381671-07:00",
+      "date_modified": "2016-04-20T08:28:58.381696-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33254/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:58.354387-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "william-frank-crawford",
+  "name_first": "William",
+  "name_middle": "Frank",
+  "name_last": "Crawford",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

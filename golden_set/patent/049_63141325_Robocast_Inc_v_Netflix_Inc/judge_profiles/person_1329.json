@@ -1,0 +1,67 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1329/?format=json",
+  "id": 1329,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/817/?format=json",
+      "id": 817,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1329/?format=json",
+      "date_created": "2016-04-20T08:18:49.580865-07:00",
+      "date_modified": "2016-04-20T08:18:49.580883-07:00",
+      "year_rated": 2007,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/8064/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8065/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8066/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8067/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8063/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1335/?format=json",
+      "id": 1335,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1329/?format=json",
+      "date_created": "2016-04-20T08:18:49.574493-07:00",
+      "date_modified": "2016-04-20T08:18:49.574514-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2007-03-19",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:49.540183-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3171,
+  "slug": "james-randal-hall",
+  "name_first": "James",
+  "name_middle": "Randal",
+  "name_last": "Hall",
+  "name_suffix": "",
+  "date_dob": "1958-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Augusta",
+  "dob_state": "GA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

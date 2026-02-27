@@ -1,0 +1,74 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/104/?format=json",
+  "id": 104,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/40/?format=json",
+      "id": 40,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/104/?format=json",
+      "date_created": "2016-04-20T08:16:01.396134-07:00",
+      "date_modified": "2016-04-20T08:16:01.396159-07:00",
+      "year_rated": 1971,
+      "rating": "wq"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/41/?format=json",
+      "id": 41,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/104/?format=json",
+      "date_created": "2016-04-20T08:16:01.421638-07:00",
+      "date_modified": "2016-04-20T08:16:01.421660-07:00",
+      "year_rated": 1976,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/434/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/435/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/436/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/105/?format=json",
+      "id": 105,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/104/?format=json",
+      "date_created": "2016-04-20T08:16:01.388711-07:00",
+      "date_modified": "2016-04-20T08:16:01.388737-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1971-12-01",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:01.351987-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 46,
+  "slug": "j-blaine-anderson",
+  "name_first": "J.",
+  "name_middle": "Blaine",
+  "name_last": "Anderson",
+  "name_suffix": "",
+  "date_dob": "1922-01-19",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1988-04-16",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Trenton",
+  "dob_state": "UT",
+  "dob_country": "United States",
+  "dod_city": "Boise",
+  "dod_state": "ID",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

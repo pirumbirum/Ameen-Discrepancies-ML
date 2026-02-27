@@ -1,0 +1,124 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8564/?format=json",
+  "id": 8564,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4267/?format=json",
+      "id": 4267,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8564/?format=json",
+      "date_created": "2019-09-22T15:32:04.494195-07:00",
+      "date_modified": "2019-09-22T15:32:04.494217-07:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2019-09-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2310/?format=json",
+      "id": 2310,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8564/?format=json",
+      "date_created": "2019-09-22T15:32:04.491392-07:00",
+      "date_modified": "2019-09-22T15:32:04.491416-07:00",
+      "year_rated": 2019,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6703/?format=json",
+      "id": 6703,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6402/?format=json",
+        "id": 6402,
+        "is_alias_of": null,
+        "date_created": "2019-09-22T06:23:08.955519-07:00",
+        "date_modified": "2019-09-22T06:23:08.955568-07:00",
+        "name": "Harvard College",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8564/?format=json",
+      "date_created": "2019-09-22T15:32:04.509598-07:00",
+      "date_modified": "2019-09-22T15:32:04.509626-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1985
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6704/?format=json",
+      "id": 6704,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8564/?format=json",
+      "date_created": "2019-09-22T15:32:04.525175-07:00",
+      "date_modified": "2019-09-22T15:32:04.525200-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1988
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33899/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33901/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33903/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33904/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33905/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33906/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33907/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33908/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33909/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33910/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33900/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33902/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4911/?format=json",
+      "id": 4911,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8564/?format=json",
+      "date_created": "2019-09-22T15:32:04.487041-07:00",
+      "date_modified": "2019-09-22T15:32:04.487068-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2019-02-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2019-09-22T15:32:04.451542-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 6480596,
+  "slug": "daniel-paul-collins",
+  "name_first": "Daniel",
+  "name_middle": "Paul",
+  "name_last": "Collins",
+  "name_suffix": "",
+  "date_dob": "1963-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Brooklyn",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

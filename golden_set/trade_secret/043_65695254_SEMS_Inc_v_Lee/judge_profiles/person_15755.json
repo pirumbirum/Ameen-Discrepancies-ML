@@ -1,0 +1,166 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15755/?format=json",
+  "id": 15755,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18380/?format=json",
+      "id": 18380,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15755/?format=json",
+      "date_created": "2022-07-12T09:36:40.244003-07:00",
+      "date_modified": "2022-07-12T09:36:40.244019-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-12",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18381/?format=json",
+      "id": 18381,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15755/?format=json",
+      "date_created": "2022-07-12T09:41:00.869945-07:00",
+      "date_modified": "2022-07-12T09:41:00.869959-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=56522&office=23337",
+      "date_accessed": "2022-07-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18382/?format=json",
+      "id": 18382,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15755/?format=json",
+      "date_created": "2022-07-12T09:41:00.884582-07:00",
+      "date_modified": "2022-07-12T09:41:00.884599-07:00",
+      "url": "https://issuu.com/houstonbusinessconnections/docs/judge_robert_johnson__177th_criminal_district_cour",
+      "date_accessed": "2022-07-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18383/?format=json",
+      "id": 18383,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15755/?format=json",
+      "date_created": "2022-07-12T09:41:00.885667-07:00",
+      "date_modified": "2022-07-12T09:41:00.885682-07:00",
+      "url": "https://ballotpedia.org/Robert_Johnson_(Texas)",
+      "date_accessed": "2022-07-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18384/?format=json",
+      "id": 18384,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15755/?format=json",
+      "date_created": "2022-07-12T09:41:00.886749-07:00",
+      "date_modified": "2022-07-12T09:41:00.886763-07:00",
+      "url": "https://www.justex.net/Courts/Criminal/CriminalCourt.aspx?crt=29",
+      "date_accessed": "2022-07-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18385/?format=json",
+      "id": 18385,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15755/?format=json",
+      "date_created": "2022-07-12T09:41:00.887777-07:00",
+      "date_modified": "2022-07-12T09:41:00.887787-07:00",
+      "url": "https://texasjudges.org/court-of-criminal-appeals-place-6/",
+      "date_accessed": "2022-07-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18386/?format=json",
+      "id": 18386,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15755/?format=json",
+      "date_created": "2022-07-12T09:41:00.888763-07:00",
+      "date_modified": "2022-07-12T09:41:00.888773-07:00",
+      "url": "",
+      "date_accessed": "2022-07-12",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12184/?format=json",
+      "id": 12184,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2485/?format=json",
+        "id": 2485,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Southern University",
+        "ein": 746001391
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15755/?format=json",
+      "date_created": "2022-07-12T09:36:40.234316-07:00",
+      "date_modified": "2022-07-12T09:36:40.234329-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2001
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12183/?format=json",
+      "id": 12183,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2480/?format=json",
+        "id": 2480,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Houston",
+        "ein": 746001399
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15755/?format=json",
+      "date_created": "2022-07-12T09:36:40.224082-07:00",
+      "date_modified": "2022-07-12T09:41:00.863357-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Business and Commerce",
+      "degree_year": 1990
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50653/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50654/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50656/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50655/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8234/?format=json",
+      "id": 8234,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15755/?format=json",
+      "date_created": "2022-07-12T09:36:40.236009-07:00",
+      "date_modified": "2022-07-12T09:36:40.236021-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-12T09:36:40.145077-07:00",
+  "date_modified": "2022-07-12T09:41:46.570911-07:00",
+  "date_completed": "2022-07-12T09:28:59-07:00",
+  "fjc_id": null,
+  "slug": "robert-c-johnson-jr",
+  "name_first": "Robert",
+  "name_middle": "C.",
+  "name_last": "Johnson",
+  "name_suffix": "jr",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "New York",
+  "dod_state": "NY",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

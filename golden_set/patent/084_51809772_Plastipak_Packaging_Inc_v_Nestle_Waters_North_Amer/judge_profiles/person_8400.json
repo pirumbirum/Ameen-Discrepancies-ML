@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8400/?format=json",
+  "id": 8400,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4111/?format=json",
+      "id": 4111,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8400/?format=json",
+      "date_created": "2016-04-20T08:29:07.487353-07:00",
+      "date_modified": "2016-04-20T08:29:07.487374-07:00",
+      "url": "http://www.utcourts.gov/judgesbios/showGallery.asp?dist=9&ct_type=A#3060",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33387/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:29:07.421570-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "james-z-davis",
+  "name_first": "James",
+  "name_middle": "Z.",
+  "name_last": "Davis",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

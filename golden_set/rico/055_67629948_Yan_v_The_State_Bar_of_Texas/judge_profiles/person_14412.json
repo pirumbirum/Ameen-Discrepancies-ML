@@ -1,0 +1,85 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14412/?format=json",
+  "id": 14412,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6083/?format=json",
+      "id": 6083,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14412/?format=json",
+      "date_created": "2021-11-22T12:55:33.667788-08:00",
+      "date_modified": "2021-11-22T12:55:33.667811-08:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2021-11-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2413/?format=json",
+      "id": 2413,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14412/?format=json",
+      "date_created": "2021-11-22T12:55:33.663830-08:00",
+      "date_modified": "2021-11-22T12:55:33.663865-08:00",
+      "year_rated": 2019,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44136/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44137/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44138/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44139/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44140/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44141/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44142/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44143/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44144/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44145/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44146/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44147/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5013/?format=json",
+      "id": 5013,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14412/?format=json",
+      "date_created": "2021-11-22T12:55:33.657821-08:00",
+      "date_modified": "2021-11-22T12:55:33.657845-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2019-01-17",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-11-22T12:55:33.619217-08:00",
+  "date_modified": "2021-11-22T12:55:33.619242-08:00",
+  "date_completed": null,
+  "fjc_id": 6840196,
+  "slug": "mark-timothy-pittman",
+  "name_first": "Mark",
+  "name_middle": "Timothy",
+  "name_last": "Pittman",
+  "name_suffix": "",
+  "date_dob": "1975-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Big Spring",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

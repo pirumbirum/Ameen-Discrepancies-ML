@@ -1,0 +1,84 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5813/?format=json",
+  "id": 5813,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2015/?format=json",
+      "id": 2015,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5813/?format=json",
+      "date_created": "2016-04-20T08:26:49.056125-07:00",
+      "date_modified": "2016-04-20T08:26:49.056149-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/100002414664",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4798/?format=json",
+      "id": 4798,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6016/?format=json",
+        "id": 6016,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Baylor University",
+        "ein": 741159753
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5813/?format=json",
+      "date_created": "2016-04-20T08:26:48.997623-07:00",
+      "date_modified": "2016-04-20T08:26:48.997655-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/28507/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28508/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28509/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4517/?format=json",
+      "id": 4517,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5813/?format=json",
+      "date_created": "2016-04-20T08:26:49.050239-07:00",
+      "date_modified": "2016-04-20T08:26:49.050267-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:48.967044-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jack-hightower",
+  "name_first": "Jack",
+  "name_middle": "",
+  "name_last": "Hightower",
+  "name_suffix": "",
+  "date_dob": "1926-09-26",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2013-08-03",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 0.0,
+  "ftm_eid": "6498597",
+  "has_photo": false
+}

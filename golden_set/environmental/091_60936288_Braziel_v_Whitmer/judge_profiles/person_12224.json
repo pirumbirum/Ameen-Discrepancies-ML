@@ -1,0 +1,129 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12224/?format=json",
+  "id": 12224,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8909/?format=json",
+      "id": 8909,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12224/?format=json",
+      "date_created": "2022-02-25T09:08:04.604317-08:00",
+      "date_modified": "2022-02-25T09:08:04.604339-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-25",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8910/?format=json",
+      "id": 8910,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12224/?format=json",
+      "date_created": "2022-02-25T09:08:04.608722-08:00",
+      "date_modified": "2022-02-25T09:08:04.608743-08:00",
+      "url": "https://ballotpedia.org/Terry_A._Green",
+      "date_accessed": "2022-02-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8911/?format=json",
+      "id": 8911,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12224/?format=json",
+      "date_created": "2022-02-25T09:08:04.612620-08:00",
+      "date_modified": "2022-02-25T09:08:04.612642-08:00",
+      "url": "https://trellis.law/judge/terry.a.green#:~:text=The%20Hon.,by%20former%20Governor%20Pete%20Wilson.",
+      "date_accessed": "2022-02-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8912/?format=json",
+      "id": 8912,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12224/?format=json",
+      "date_created": "2022-02-25T09:08:04.621157-08:00",
+      "date_modified": "2022-02-25T09:08:04.621179-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-25",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8133/?format=json",
+      "id": 8133,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3117/?format=json",
+        "id": 3117,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Southern California",
+        "ein": 951642394
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12224/?format=json",
+      "date_created": "2022-02-25T09:08:04.574512-08:00",
+      "date_modified": "2022-02-25T09:08:04.574534-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1969
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8134/?format=json",
+      "id": 8134,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3117/?format=json",
+        "id": 3117,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Southern California",
+        "ein": 951642394
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12224/?format=json",
+      "date_created": "2022-02-25T09:08:04.586336-08:00",
+      "date_modified": "2022-02-25T09:08:04.586359-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1972
+    }
+  ],
+  "positions": [],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5816/?format=json",
+      "id": 5816,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12224/?format=json",
+      "date_created": "2022-02-25T09:08:04.566303-08:00",
+      "date_modified": "2022-02-25T09:08:04.566327-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:09:27.715875-07:00",
+  "date_modified": "2022-02-25T09:08:04.553664-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "terry-a-green",
+  "name_first": "Terry",
+  "name_middle": "A.",
+  "name_last": "Green",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

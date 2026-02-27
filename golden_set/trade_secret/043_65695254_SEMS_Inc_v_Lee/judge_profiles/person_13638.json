@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13638/?format=json",
+  "id": 13638,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9653/?format=json",
+      "id": 9653,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13638/?format=json",
+      "date_created": "2022-03-03T10:17:51.161170-08:00",
+      "date_modified": "2022-03-03T10:17:51.161192-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-03",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9654/?format=json",
+      "id": 9654,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13638/?format=json",
+      "date_created": "2022-03-03T10:17:51.167648-08:00",
+      "date_modified": "2022-03-03T10:17:51.167670-08:00",
+      "url": "https://ballotpedia.org/Mark_E._Johnson",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9655/?format=json",
+      "id": 9655,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13638/?format=json",
+      "date_created": "2022-03-03T10:17:51.171723-08:00",
+      "date_modified": "2022-03-03T10:17:51.171744-08:00",
+      "url": "https://trellis.law/judge-dashboard/21/bio",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9656/?format=json",
+      "id": 9656,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13638/?format=json",
+      "date_created": "2022-03-03T10:17:51.180153-08:00",
+      "date_modified": "2022-03-03T10:17:51.180176-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-03",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8465/?format=json",
+      "id": 8465,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3621/?format=json",
+        "id": 3621,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Louisiana at Monroe",
+        "ein": 726001695
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13638/?format=json",
+      "date_created": "2022-03-03T10:17:51.148054-08:00",
+      "date_modified": "2022-03-03T10:17:51.148077-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1981
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8466/?format=json",
+      "id": 8466,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3219/?format=json",
+        "id": 3219,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Pepperdine University",
+        "ein": 951644037
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13638/?format=json",
+      "date_created": "2022-03-03T10:17:51.156630-08:00",
+      "date_modified": "2022-03-03T10:17:51.156653-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1984
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43198/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6038/?format=json",
+      "id": 6038,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13638/?format=json",
+      "date_created": "2022-03-03T10:17:51.134423-08:00",
+      "date_modified": "2022-03-03T10:17:51.134444-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6039/?format=json",
+      "id": 6039,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13638/?format=json",
+      "date_created": "2022-03-03T10:17:51.140940-08:00",
+      "date_modified": "2022-03-03T10:17:51.140962-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:47.401669-07:00",
+  "date_modified": "2022-03-20T15:41:40.474311-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "mark-e-johnson",
+  "name_first": "Mark",
+  "name_middle": "E.",
+  "name_last": "Johnson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

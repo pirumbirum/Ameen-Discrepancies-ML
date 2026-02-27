@@ -1,0 +1,61 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5883/?format=json",
+  "id": 5883,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6454/?format=json",
+      "id": 6454,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5883/?format=json",
+      "date_created": "2022-02-10T07:57:17.832268-08:00",
+      "date_modified": "2022-03-09T15:14:02.642779-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-09",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11419/?format=json",
+      "id": 11419,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5883/?format=json",
+      "date_created": "2022-03-09T15:14:02.644841-08:00",
+      "date_modified": "2022-03-09T15:14:02.644862-08:00",
+      "url": "https://en.wikipedia.org/wiki/Charles_Bayley_Adams",
+      "date_accessed": "2022-03-09",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44507/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44508/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:55.151005-07:00",
+  "date_modified": "2022-03-09T15:14:02.590518-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "charles-bayley-adams",
+  "name_first": "Charles",
+  "name_middle": "Bayley",
+  "name_last": "Adams",
+  "name_suffix": "",
+  "date_dob": "1987-09-02",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1961-02-06",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Randolph",
+  "dob_state": "VT",
+  "dob_country": "United States",
+  "dod_city": "Burlington",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

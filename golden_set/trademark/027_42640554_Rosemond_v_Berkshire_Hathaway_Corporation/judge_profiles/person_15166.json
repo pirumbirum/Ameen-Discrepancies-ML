@@ -1,0 +1,159 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15166/?format=json",
+  "id": 15166,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16004/?format=json",
+      "id": 16004,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15166/?format=json",
+      "date_created": "2022-04-19T17:40:45.625501-07:00",
+      "date_modified": "2022-04-19T17:40:45.625526-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-19",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16005/?format=json",
+      "id": 16005,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15166/?format=json",
+      "date_created": "2022-04-19T17:40:45.627570-07:00",
+      "date_modified": "2022-04-19T17:40:45.627595-07:00",
+      "url": "http://judgecurrierwoods.com/meet-lori/",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16006/?format=json",
+      "id": 16006,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15166/?format=json",
+      "date_created": "2022-04-19T17:40:45.628868-07:00",
+      "date_modified": "2022-04-19T17:40:45.628894-07:00",
+      "url": "https://www.linkedin.com/in/hon-paul-wooten-b98594138/",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16007/?format=json",
+      "id": 16007,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15166/?format=json",
+      "date_created": "2022-04-19T17:40:45.630227-07:00",
+      "date_modified": "2022-04-19T17:40:45.630251-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/Supreme_Court,_New_York_County,_Civil/Paul_Wooten/Paul_Wooten-958.xml",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11468/?format=json",
+      "id": 11468,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6119/?format=json",
+        "id": 6119,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Hartford",
+        "ein": 60731360
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15166/?format=json",
+      "date_created": "2022-04-19T17:40:45.610335-07:00",
+      "date_modified": "2022-04-19T17:40:45.610361-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11469/?format=json",
+      "id": 11469,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5711/?format=json",
+        "id": 5711,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Northeastern State University",
+        "ein": 736017987
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15166/?format=json",
+      "date_created": "2022-04-19T17:40:45.616329-07:00",
+      "date_modified": "2022-04-19T17:40:45.616358-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49056/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49057/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49058/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49059/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49060/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49061/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49062/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49063/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49064/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49065/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49066/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49067/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49068/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49069/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7819/?format=json",
+      "id": 7819,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15166/?format=json",
+      "date_created": "2022-04-19T17:40:45.619875-07:00",
+      "date_modified": "2022-04-19T17:40:45.619905-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2019-11-01",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7820/?format=json",
+      "id": 7820,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15166/?format=json",
+      "date_created": "2022-04-19T17:40:45.624168-07:00",
+      "date_modified": "2022-04-19T17:40:45.624194-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2009-01-01",
+      "date_granularity_start": "%Y",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-19T17:40:45.594598-07:00",
+  "date_modified": "2022-06-08T18:25:40.400872-07:00",
+  "date_completed": "2022-06-08T18:08:24-07:00",
+  "fjc_id": null,
+  "slug": "paul-wooten",
+  "name_first": "Paul",
+  "name_middle": "",
+  "name_last": "Wooten",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

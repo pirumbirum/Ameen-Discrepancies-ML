@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1599/?format=json",
+  "id": 1599,
+  "race": [
+    "a"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/980/?format=json",
+      "id": 980,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1599/?format=json",
+      "date_created": "2016-04-20T08:19:28.803140-07:00",
+      "date_modified": "2016-04-20T08:19:28.803163-07:00",
+      "year_rated": 1997,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9809/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9810/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9811/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9812/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9813/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9808/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/38630/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/38631/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1605/?format=json",
+      "id": 1605,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1599/?format=json",
+      "date_created": "2016-04-20T08:19:28.795836-07:00",
+      "date_modified": "2016-04-20T08:19:28.795859-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1997-02-12",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:28.762877-07:00",
+  "date_modified": "2020-11-25T08:30:12.096958-08:00",
+  "date_completed": null,
+  "fjc_id": 2733,
+  "slug": "anthony-w-ishii",
+  "name_first": "Anthony",
+  "name_middle": "W.",
+  "name_last": "Ishii",
+  "name_suffix": "",
+  "date_dob": "1946-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Santa Ana",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

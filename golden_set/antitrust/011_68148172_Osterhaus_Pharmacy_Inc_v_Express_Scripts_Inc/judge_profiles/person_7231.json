@@ -1,0 +1,61 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7231/?format=json",
+  "id": 7231,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3205/?format=json",
+      "id": 3205,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7231/?format=json",
+      "date_created": "2016-04-20T08:28:09.936238-07:00",
+      "date_modified": "2016-04-20T08:28:09.936260-07:00",
+      "url": "http://ballotpedia.org/Charles_Jones_(Louisiana)",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3372/?format=json",
+      "id": 3372,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7231/?format=json",
+      "date_created": "2016-04-20T08:28:20.914211-07:00",
+      "date_modified": "2016-04-20T08:28:20.914230-07:00",
+      "url": "http://www.news-gazette.com/obituaries/2013-12-04/charles-jones.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/31554/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/31942/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/31943/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/31944/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:09.920326-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "charles-jones",
+  "name_first": "Charles",
+  "name_middle": "",
+  "name_last": "Jones",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

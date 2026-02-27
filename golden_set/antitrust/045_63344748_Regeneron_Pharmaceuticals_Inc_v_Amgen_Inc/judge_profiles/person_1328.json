@@ -1,0 +1,58 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1328/?format=json",
+  "id": 1328,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/8057/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8058/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8059/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8060/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8061/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8062/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1334/?format=json",
+      "id": 1334,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1328/?format=json",
+      "date_created": "2016-04-20T08:18:49.458722-07:00",
+      "date_modified": "2016-04-20T08:18:49.458741-07:00",
+      "political_party": "j",
+      "source": "a",
+      "date_start": "1802-01-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:49.429178-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 945,
+  "slug": "dominic-augustin-hall",
+  "name_first": "Dominic",
+  "name_middle": "Augustin",
+  "name_last": "Hall",
+  "name_suffix": "",
+  "date_dob": "1765-01-01",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1820-12-19",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "SC",
+  "dob_country": "United States",
+  "dod_city": "New Orleans",
+  "dod_state": "LA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

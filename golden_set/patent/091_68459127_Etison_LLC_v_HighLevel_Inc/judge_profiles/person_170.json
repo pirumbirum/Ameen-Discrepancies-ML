@@ -1,0 +1,71 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/170/?format=json",
+  "id": 170,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/86/?format=json",
+      "id": 86,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/170/?format=json",
+      "date_created": "2016-04-20T08:16:10.769872-07:00",
+      "date_modified": "2016-04-20T08:16:10.769899-07:00",
+      "year_rated": 1984,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/860/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/861/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/862/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/863/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/864/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/865/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/866/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/867/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/859/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/172/?format=json",
+      "id": 172,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/170/?format=json",
+      "date_created": "2016-04-20T08:16:10.761890-07:00",
+      "date_modified": "2016-04-20T08:16:10.761923-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1984-02-14",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:10.722516-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 94,
+  "slug": "sarah-evans-barker",
+  "name_first": "Sarah",
+  "name_middle": "Evans",
+  "name_last": "Barker",
+  "name_suffix": "",
+  "date_dob": "1943-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Mishawaka",
+  "dob_state": "IN",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

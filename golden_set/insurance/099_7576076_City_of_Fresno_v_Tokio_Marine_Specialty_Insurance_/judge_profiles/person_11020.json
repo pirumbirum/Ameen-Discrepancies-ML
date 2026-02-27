@@ -1,0 +1,139 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/11020/?format=json",
+  "id": 11020,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11283/?format=json",
+      "id": 11283,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11020/?format=json",
+      "date_created": "2022-03-09T11:08:20.461925-08:00",
+      "date_modified": "2022-03-09T11:08:20.461954-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-09",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11284/?format=json",
+      "id": 11284,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11020/?format=json",
+      "date_created": "2022-03-09T11:08:20.468120-08:00",
+      "date_modified": "2022-03-09T11:08:20.468146-08:00",
+      "url": "https://trellis.law/judge/robert.f.o.neill",
+      "date_accessed": "2022-03-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11285/?format=json",
+      "id": 11285,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11020/?format=json",
+      "date_created": "2022-03-09T11:08:20.473465-08:00",
+      "date_modified": "2022-03-09T11:08:20.473491-08:00",
+      "url": "http://www.sandiego.courts.ca.gov/portal/about/depts/sd1301.html",
+      "date_accessed": "2022-03-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11286/?format=json",
+      "id": 11286,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11020/?format=json",
+      "date_created": "2022-03-09T11:08:20.478071-08:00",
+      "date_modified": "2022-03-09T11:08:20.478097-08:00",
+      "url": "https://ballotpedia.org/Robert_F._O%27Neill",
+      "date_accessed": "2022-03-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11287/?format=json",
+      "id": 11287,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11020/?format=json",
+      "date_created": "2022-03-09T11:08:20.482448-08:00",
+      "date_modified": "2022-03-09T11:08:20.482474-08:00",
+      "url": "https://lawyers.findlaw.com/profile/view/4658924_1",
+      "date_accessed": "2022-03-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11288/?format=json",
+      "id": 11288,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11020/?format=json",
+      "date_created": "2022-03-09T11:08:20.492925-08:00",
+      "date_modified": "2022-03-09T11:08:20.492951-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-09",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9205/?format=json",
+      "id": 9205,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5190/?format=json",
+        "id": 5190,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "San Diego State University",
+        "ein": 330373293
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11020/?format=json",
+      "date_created": "2022-03-09T11:08:20.389919-08:00",
+      "date_modified": "2022-03-09T11:08:20.389947-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1975
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9206/?format=json",
+      "id": 9206,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5193/?format=json",
+        "id": 5193,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Thomas Jefferson School of Law",
+        "ein": 330696561
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11020/?format=json",
+      "date_created": "2022-03-09T11:08:20.403550-08:00",
+      "date_modified": "2022-03-09T11:08:20.403577-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1979
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/41767/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-10-19T17:50:53.567258-07:00",
+  "date_modified": "2022-03-21T11:57:02.390923-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "robert-f-oneill",
+  "name_first": "Robert",
+  "name_middle": "F.",
+  "name_last": "O'Neill",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,80 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5939/?format=json",
+  "id": 5939,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2177/?format=json",
+      "id": 2177,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5939/?format=json",
+      "date_created": "2016-04-20T08:26:59.535055-07:00",
+      "date_modified": "2016-04-20T08:26:59.535077-07:00",
+      "url": "Justices of the Supreme Court of Appeals During the Time of These Reports",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2178/?format=json",
+      "id": 2178,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5939/?format=json",
+      "date_created": "2016-04-20T08:26:59.540806-07:00",
+      "date_modified": "2016-04-20T08:26:59.540829-07:00",
+      "url": "202 Va. unpaginated  front matter(1961).",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4974/?format=json",
+      "id": 4974,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5941/?format=json",
+        "id": 5941,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Richmond",
+        "ein": 540505965
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5939/?format=json",
+      "date_created": "2016-04-20T08:26:59.512643-07:00",
+      "date_modified": "2016-04-20T08:26:59.512689-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/28911/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28912/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28913/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:59.452963-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "willis-d-miller",
+  "name_first": "Willis",
+  "name_middle": "D.",
+  "name_last": "Miller",
+  "name_suffix": "",
+  "date_dob": "1893-01-30",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1960-12-20",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

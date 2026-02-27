@@ -1,0 +1,109 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1699/?format=json",
+  "id": 1699,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1037/?format=json",
+      "id": 1037,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1699/?format=json",
+      "date_created": "2016-04-20T08:19:42.909884-07:00",
+      "date_modified": "2016-04-20T08:19:42.909907-07:00",
+      "year_rated": 1998,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1396/?format=json",
+      "id": 1396,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5797/?format=json",
+        "id": 5797,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Nicholls State University",
+        "ein": 726011797
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1699/?format=json",
+      "date_created": "2016-04-20T08:19:42.924431-07:00",
+      "date_modified": "2016-04-20T08:19:42.924455-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1973
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1397/?format=json",
+      "id": 1397,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3858/?format=json",
+        "id": 3858,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tulane University of Louisiana",
+        "ein": 720423889
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1699/?format=json",
+      "date_created": "2016-04-20T08:19:42.953489-07:00",
+      "date_modified": "2016-04-20T08:19:42.953513-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1976
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/10485/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10486/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10487/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10488/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10489/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10490/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10491/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10484/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1706/?format=json",
+      "id": 1706,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1699/?format=json",
+      "date_created": "2016-04-20T08:19:42.903241-07:00",
+      "date_modified": "2016-04-20T08:19:42.903265-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1998-06-04",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:42.872438-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2796,
+  "slug": "yvette-kane",
+  "name_first": "Yvette",
+  "name_middle": "",
+  "name_last": "Kane",
+  "name_suffix": "",
+  "date_dob": "1953-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Donaldsonville",
+  "dob_state": "LA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

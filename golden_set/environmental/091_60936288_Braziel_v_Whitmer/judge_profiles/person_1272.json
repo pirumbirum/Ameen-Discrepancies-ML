@@ -1,0 +1,75 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1272/?format=json",
+  "id": 1272,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1066/?format=json",
+      "id": 1066,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1272/?format=json",
+      "date_created": "2016-04-20T08:18:41.533702-07:00",
+      "date_modified": "2016-04-20T08:18:41.533743-07:00",
+      "degree_level": "llb",
+      "degree_detail": "LL.B.",
+      "degree_year": 1858
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/7728/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7729/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7730/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1278/?format=json",
+      "id": 1278,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1272/?format=json",
+      "date_created": "2016-04-20T08:18:41.478593-07:00",
+      "date_modified": "2016-04-20T08:18:41.478621-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1889-12-16",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:41.441798-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 908,
+  "slug": "edward-t-green",
+  "name_first": "Edward",
+  "name_middle": "T.",
+  "name_last": "Green",
+  "name_suffix": "",
+  "date_dob": "1837-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": "1896-10-10",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Trenton",
+  "dob_state": "NJ",
+  "dob_country": "United States",
+  "dod_city": "Trenton",
+  "dod_state": "NJ",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

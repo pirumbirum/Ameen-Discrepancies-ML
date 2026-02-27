@@ -1,0 +1,89 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1107/?format=json",
+  "id": 1107,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/657/?format=json",
+      "id": 657,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1107/?format=json",
+      "date_created": "2016-04-20T08:18:18.214654-07:00",
+      "date_modified": "2016-04-20T08:18:18.214675-07:00",
+      "year_rated": 1965,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/906/?format=json",
+      "id": 906,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2001/?format=json",
+        "id": 2001,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "CUNY Queens College",
+        "ein": 133893536
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1107/?format=json",
+      "date_created": "2016-04-20T08:18:18.230329-07:00",
+      "date_modified": "2016-04-20T08:18:18.230352-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1943
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/6718/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6719/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6720/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6721/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6722/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6723/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6717/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1112/?format=json",
+      "id": 1112,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1107/?format=json",
+      "date_created": "2016-04-20T08:18:18.207537-07:00",
+      "date_modified": "2016-04-20T08:18:18.207563-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1965-09-02",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:18.178475-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 790,
+  "slug": "marvin-e-frankel",
+  "name_first": "Marvin",
+  "name_middle": "E.",
+  "name_last": "Frankel",
+  "name_suffix": "",
+  "date_dob": "1920-07-26",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2002-03-03",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "New York",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "New York",
+  "dod_state": "NY",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,60 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4683/?format=json",
+  "id": 4683,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/847/?format=json",
+      "id": 847,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4683/?format=json",
+      "date_created": "2016-04-20T08:25:20.121319-07:00",
+      "date_modified": "2016-04-20T08:25:20.121357-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/100028701821",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/848/?format=json",
+      "id": 848,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4683/?format=json",
+      "date_created": "2016-04-20T08:25:20.125538-07:00",
+      "date_modified": "2016-04-20T08:25:20.125560-07:00",
+      "url": "http://www.mdarchives.us/msa/mdmanual/29ap/html/msa12365.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25342/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25343/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25344/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:20.061437-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "clayton-green-jr",
+  "name_first": "Clayton",
+  "name_middle": "",
+  "name_last": "Green",
+  "name_suffix": "jr",
+  "date_dob": "1951-01-22",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 0.0,
+  "ftm_eid": "6562414",
+  "has_photo": false
+}

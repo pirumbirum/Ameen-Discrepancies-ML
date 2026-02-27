@@ -1,0 +1,153 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/16109/?format=json",
+  "id": 16109,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20229/?format=json",
+      "id": 20229,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16109/?format=json",
+      "date_created": "2022-08-03T16:29:41.317141-07:00",
+      "date_modified": "2022-08-03T16:29:41.317153-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-08-03",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20230/?format=json",
+      "id": 20230,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16109/?format=json",
+      "date_created": "2022-08-03T16:53:13.799429-07:00",
+      "date_modified": "2022-08-03T16:53:13.799446-07:00",
+      "url": "https://andrea4texas.com/professional-experience/",
+      "date_accessed": "2022-08-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20231/?format=json",
+      "id": 20231,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16109/?format=json",
+      "date_created": "2022-08-03T16:53:13.800787-07:00",
+      "date_modified": "2022-08-03T16:53:13.800801-07:00",
+      "url": "https://www.legaldirectories.com/Thompson-Andrea-R-Stroh-58400-Atty.aspx",
+      "date_accessed": "2022-08-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20232/?format=json",
+      "id": 20232,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16109/?format=json",
+      "date_created": "2022-08-03T16:53:13.801541-07:00",
+      "date_modified": "2022-08-03T16:53:13.801555-07:00",
+      "url": "https://ballotpedia.org/Andrea_Thompson_(Texas)",
+      "date_accessed": "2022-08-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20233/?format=json",
+      "id": 20233,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16109/?format=json",
+      "date_created": "2022-08-03T16:53:13.802267-07:00",
+      "date_modified": "2022-08-03T16:53:13.802280-07:00",
+      "url": "",
+      "date_accessed": "2022-08-03",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12712/?format=json",
+      "id": 12712,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3322/?format=json",
+        "id": 3322,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "South Texas College",
+        "ein": 742683499
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16109/?format=json",
+      "date_created": "2022-08-03T16:29:41.309119-07:00",
+      "date_modified": "2022-08-03T16:29:41.309131-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1998
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12711/?format=json",
+      "id": 12711,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6535/?format=json",
+        "id": 6535,
+        "is_alias_of": null,
+        "date_created": "2022-08-01T10:25:06.071658-07:00",
+        "date_modified": "2022-08-01T10:25:06.071683-07:00",
+        "name": "Texas A&M University School of Law",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16109/?format=json",
+      "date_created": "2022-08-03T16:29:41.299729-07:00",
+      "date_modified": "2022-08-03T16:53:13.796313-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1995
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/52149/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52150/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52151/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52152/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52153/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52154/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52155/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52156/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52157/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52158/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52159/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8468/?format=json",
+      "id": 8468,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16109/?format=json",
+      "date_created": "2022-08-03T16:29:41.312284-07:00",
+      "date_modified": "2022-08-03T16:29:41.312296-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-08-03T16:29:41.248479-07:00",
+  "date_modified": "2022-08-03T16:55:07.697085-07:00",
+  "date_completed": "2022-08-03T16:16:26-07:00",
+  "fjc_id": null,
+  "slug": "andrea-r-stroh-thompson",
+  "name_first": "Andrea",
+  "name_middle": "R. Stroh",
+  "name_last": "Thompson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

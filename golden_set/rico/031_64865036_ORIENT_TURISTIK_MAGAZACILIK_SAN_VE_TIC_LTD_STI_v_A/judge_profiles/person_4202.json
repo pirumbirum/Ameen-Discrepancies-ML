@@ -1,0 +1,50 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4202/?format=json",
+  "id": 4202,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/247/?format=json",
+      "id": 247,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4202/?format=json",
+      "date_created": "2016-04-20T08:24:45.272497-07:00",
+      "date_modified": "2016-04-20T08:24:45.272517-07:00",
+      "url": "http://www.state.il.us/court/SupremeCourt/JusticeArchive/Bio_Clark.asp",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24021/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24022/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24023/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:45.241365-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "william-g-clark",
+  "name_first": "William",
+  "name_middle": "G.",
+  "name_last": "Clark",
+  "name_suffix": "",
+  "date_dob": "1924-07-16",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2001-08-17",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

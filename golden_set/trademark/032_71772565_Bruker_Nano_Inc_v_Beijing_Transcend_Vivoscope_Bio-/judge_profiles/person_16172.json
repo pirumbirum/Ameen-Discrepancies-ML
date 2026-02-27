@@ -1,0 +1,166 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/16172/?format=json",
+  "id": 16172,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20541/?format=json",
+      "id": 20541,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16172/?format=json",
+      "date_created": "2022-08-08T13:06:35.040719-07:00",
+      "date_modified": "2022-08-08T13:06:35.040733-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-08-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20542/?format=json",
+      "id": 20542,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16172/?format=json",
+      "date_created": "2022-08-08T13:19:43.167124-07:00",
+      "date_modified": "2022-08-08T13:19:43.167137-07:00",
+      "url": "https://ballotpedia.org/Ernest_White",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20543/?format=json",
+      "id": 20543,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16172/?format=json",
+      "date_created": "2022-08-08T13:19:43.168879-07:00",
+      "date_modified": "2022-08-08T13:19:43.168894-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=16679&office=16679",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20544/?format=json",
+      "id": 20544,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16172/?format=json",
+      "date_created": "2022-08-08T13:19:43.169669-07:00",
+      "date_modified": "2022-08-08T13:19:43.169681-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=191812",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20545/?format=json",
+      "id": 20545,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16172/?format=json",
+      "date_created": "2022-08-08T13:19:43.170510-07:00",
+      "date_modified": "2022-08-08T13:19:43.170521-07:00",
+      "url": "https://www.martindale.com/attorney/mr-ernest-b-white-iii-2129948/",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20546/?format=json",
+      "id": 20546,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16172/?format=json",
+      "date_created": "2022-08-08T13:19:43.171219-07:00",
+      "date_modified": "2022-08-08T13:19:43.171230-07:00",
+      "url": "https://www.dallascounty.org/government/courts/criminal_district/194th/",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20547/?format=json",
+      "id": 20547,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16172/?format=json",
+      "date_created": "2022-08-08T13:19:43.171900-07:00",
+      "date_modified": "2022-08-08T13:19:43.171911-07:00",
+      "url": "",
+      "date_accessed": "2022-08-08",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12794/?format=json",
+      "id": 12794,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5190/?format=json",
+        "id": 5190,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "San Diego State University",
+        "ein": 330373293
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16172/?format=json",
+      "date_created": "2022-08-08T13:06:35.025175-07:00",
+      "date_modified": "2022-08-08T13:06:35.025196-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1981
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12795/?format=json",
+      "id": 12795,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2485/?format=json",
+        "id": 2485,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Southern University",
+        "ein": 746001391
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16172/?format=json",
+      "date_created": "2022-08-08T13:06:35.033731-07:00",
+      "date_modified": "2022-08-08T13:06:35.033754-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1985
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/52425/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52426/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52427/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52428/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8510/?format=json",
+      "id": 8510,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16172/?format=json",
+      "date_created": "2022-08-08T13:06:35.036053-07:00",
+      "date_modified": "2022-08-08T13:06:35.036070-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-08-08T13:06:35.008744-07:00",
+  "date_modified": "2022-08-08T13:20:16.233696-07:00",
+  "date_completed": "2022-08-08T13:01:50-07:00",
+  "fjc_id": null,
+  "slug": "ernest-b-white-iii",
+  "name_first": "Ernest",
+  "name_middle": "B.",
+  "name_last": "White",
+  "name_suffix": "3",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Brentwood",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

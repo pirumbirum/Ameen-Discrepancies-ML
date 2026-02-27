@@ -1,0 +1,51 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4232/?format=json",
+  "id": 4232,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/276/?format=json",
+      "id": 276,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4232/?format=json",
+      "date_created": "2016-04-20T08:24:47.307292-07:00",
+      "date_modified": "2016-04-20T08:24:47.307311-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/200010227239",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24089/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24090/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24091/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24092/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:47.268140-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "norman-l-jones",
+  "name_first": "Norman",
+  "name_middle": "L.",
+  "name_last": "Jones",
+  "name_suffix": "",
+  "date_dob": "1870-09-19",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1940-11-15",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

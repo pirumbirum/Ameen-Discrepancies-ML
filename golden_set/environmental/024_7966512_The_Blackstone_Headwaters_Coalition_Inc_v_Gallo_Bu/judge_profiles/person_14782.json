@@ -1,0 +1,140 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14782/?format=json",
+  "id": 14782,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14395/?format=json",
+      "id": 14395,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14782/?format=json",
+      "date_created": "2022-04-06T12:26:19.765345-07:00",
+      "date_modified": "2022-04-06T12:26:19.765369-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14396/?format=json",
+      "id": 14396,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14782/?format=json",
+      "date_created": "2022-04-06T12:26:19.767272-07:00",
+      "date_modified": "2022-04-06T12:26:19.767296-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=XWDTOC7bT9eO1xxrlOyk7g%3D%3D",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14397/?format=json",
+      "id": 14397,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14782/?format=json",
+      "date_created": "2022-04-06T12:26:19.768619-07:00",
+      "date_modified": "2022-04-06T12:26:19.768643-07:00",
+      "url": "https://ballotpedia.org/Wilma_Guzman",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14398/?format=json",
+      "id": 14398,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14782/?format=json",
+      "date_created": "2022-04-06T12:26:19.769901-07:00",
+      "date_modified": "2022-04-06T12:26:19.769926-07:00",
+      "url": "https://www.linkedin.com/in/hon-wilma-guzman-25130940/",
+      "date_accessed": "2022-04-06",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10687/?format=json",
+      "id": 10687,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1301/?format=json",
+        "id": 1301,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Saint Johns University",
+        "ein": 410693973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14782/?format=json",
+      "date_created": "2022-04-06T12:26:19.760623-07:00",
+      "date_modified": "2022-04-06T12:26:19.760648-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1986
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10686/?format=json",
+      "id": 10686,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3914/?format=json",
+        "id": 3914,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "CUNY John Jay College of Criminal Justice",
+        "ein": 133893536
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14782/?format=json",
+      "date_created": "2022-04-06T12:26:19.755494-07:00",
+      "date_modified": "2022-04-06T12:34:56.870794-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Criminal Justice",
+      "degree_year": 1978
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/46000/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46001/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46002/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46003/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46004/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46005/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46006/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46007/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7432/?format=json",
+      "id": 7432,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14782/?format=json",
+      "date_created": "2022-04-06T12:26:19.763554-07:00",
+      "date_modified": "2022-04-06T12:26:19.763578-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-06T12:26:19.738612-07:00",
+  "date_modified": "2022-05-04T12:13:33.457275-07:00",
+  "date_completed": "2022-05-04T12:05:51-07:00",
+  "fjc_id": null,
+  "slug": "wilma-guzman",
+  "name_first": "Wilma",
+  "name_middle": "",
+  "name_last": "Guzman",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "New York City",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "ca",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

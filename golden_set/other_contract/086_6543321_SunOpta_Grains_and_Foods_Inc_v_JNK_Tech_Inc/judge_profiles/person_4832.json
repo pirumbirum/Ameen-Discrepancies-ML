@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4832/?format=json",
+  "id": 4832,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1043/?format=json",
+      "id": 1043,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4832/?format=json",
+      "date_created": "2016-04-20T08:25:33.861910-07:00",
+      "date_modified": "2016-04-20T08:25:33.861933-07:00",
+      "url": "http://mn.gov/lawlib/judgebio.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3948/?format=json",
+      "id": 3948,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5069/?format=json",
+        "id": 5069,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "William Mitchell College of Law",
+        "ein": 410518750
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4832/?format=json",
+      "date_created": "2016-04-20T08:25:33.840510-07:00",
+      "date_modified": "2016-04-20T08:25:33.840536-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25810/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25811/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25812/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:33.802804-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "eric-j-magnuson",
+  "name_first": "Eric",
+  "name_middle": "J.",
+  "name_last": "Magnuson",
+  "name_suffix": "",
+  "date_dob": "1951-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

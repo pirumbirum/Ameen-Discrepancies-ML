@@ -1,0 +1,67 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/587/?format=json",
+  "id": 587,
+  "race": [
+    "a"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/342/?format=json",
+      "id": 342,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/587/?format=json",
+      "date_created": "2016-04-20T08:17:07.747879-07:00",
+      "date_modified": "2016-04-20T08:17:07.747902-07:00",
+      "year_rated": 2010,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/3474/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3475/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3476/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3477/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3478/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/593/?format=json",
+      "id": 593,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/587/?format=json",
+      "date_created": "2016-04-20T08:17:07.741208-07:00",
+      "date_modified": "2016-04-20T08:17:07.741233-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2010-04-21",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:07.711037-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3342,
+  "slug": "edmond-e-min-chang",
+  "name_first": "Edmond",
+  "name_middle": "E-Min",
+  "name_last": "Chang",
+  "name_suffix": "",
+  "date_dob": "1970-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "New York",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

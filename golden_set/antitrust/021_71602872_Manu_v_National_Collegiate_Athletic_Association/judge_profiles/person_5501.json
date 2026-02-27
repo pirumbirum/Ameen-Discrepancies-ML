@@ -1,0 +1,89 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5501/?format=json",
+  "id": 5501,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1701/?format=json",
+      "id": 1701,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5501/?format=json",
+      "date_created": "2016-04-20T08:26:24.973712-07:00",
+      "date_modified": "2016-04-20T08:26:24.973733-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/100002535165",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4521/?format=json",
+      "id": 4521,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2011/?format=json",
+        "id": 2011,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Pacific University",
+        "ein": 930386892
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5501/?format=json",
+      "date_created": "2016-04-20T08:26:24.928063-07:00",
+      "date_modified": "2016-04-20T08:26:24.928086-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4522/?format=json",
+      "id": 4522,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2011/?format=json",
+        "id": 2011,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Pacific University",
+        "ein": 930386892
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5501/?format=json",
+      "date_created": "2016-04-20T08:26:24.952517-07:00",
+      "date_modified": "2016-04-20T08:26:24.952540-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27721/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27722/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27723/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:24.889436-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "edwin-j-peterson",
+  "name_first": "Edwin",
+  "name_middle": "J.",
+  "name_last": "Peterson",
+  "name_suffix": "",
+  "date_dob": "1930-03-30",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 0.0,
+  "ftm_eid": "6566366",
+  "has_photo": false
+}

@@ -1,0 +1,91 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2931/?format=json",
+  "id": 2931,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1852/?format=json",
+      "id": 1852,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2931/?format=json",
+      "date_created": "2016-04-20T08:22:37.048530-07:00",
+      "date_modified": "2016-04-20T08:22:37.048552-07:00",
+      "year_rated": 2003,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2458/?format=json",
+      "id": 2458,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/813/?format=json",
+        "id": 813,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University at Buffalo",
+        "ein": 146013200
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2931/?format=json",
+      "date_created": "2016-04-20T08:22:37.064031-07:00",
+      "date_modified": "2016-04-20T08:22:37.064054-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1971
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/18402/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18403/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18404/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18405/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18406/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18407/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18408/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18409/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18410/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2942/?format=json",
+      "id": 2942,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2931/?format=json",
+      "date_created": "2016-04-20T08:22:37.041241-07:00",
+      "date_modified": "2016-04-20T08:22:37.041265-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2003-04-28",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:37.003874-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3048,
+  "slug": "gary-l-sharpe",
+  "name_first": "Gary",
+  "name_middle": "L.",
+  "name_last": "Sharpe",
+  "name_suffix": "",
+  "date_dob": "1947-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Cortland",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

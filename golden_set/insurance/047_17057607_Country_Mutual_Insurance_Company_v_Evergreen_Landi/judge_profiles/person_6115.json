@@ -1,0 +1,63 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6115/?format=json",
+  "id": 6115,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2430/?format=json",
+      "id": 2430,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6115/?format=json",
+      "date_created": "2016-04-20T08:27:15.059654-07:00",
+      "date_modified": "2016-04-20T08:27:15.059691-07:00",
+      "url": "http://judicial.alabama.gov/library/judges.cfm",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/29426/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29427/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4686/?format=json",
+      "id": 4686,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6115/?format=json",
+      "date_created": "2016-04-20T08:27:15.054220-07:00",
+      "date_modified": "2016-04-20T08:27:15.054263-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:14.988557-07:00",
+  "date_modified": "2020-11-25T08:30:12.856938-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "tommy-e-bryan",
+  "name_first": "Tommy",
+  "name_middle": "E.",
+  "name_last": "Bryan",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

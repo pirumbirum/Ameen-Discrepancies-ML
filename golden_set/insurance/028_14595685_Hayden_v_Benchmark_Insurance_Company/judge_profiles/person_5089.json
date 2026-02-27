@@ -1,0 +1,74 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5089/?format=json",
+  "id": 5089,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4129/?format=json",
+      "id": 4129,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3892/?format=json",
+        "id": 3892,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Columbia University in the City of New York",
+        "ein": 603800000
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5089/?format=json",
+      "date_created": "2016-04-20T08:25:53.033865-07:00",
+      "date_modified": "2016-04-20T08:25:53.033889-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26480/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26481/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26482/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26483/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4163/?format=json",
+      "id": 4163,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5089/?format=json",
+      "date_created": "2016-04-20T08:25:53.064105-07:00",
+      "date_modified": "2016-04-20T08:25:53.064130-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:53.010438-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "john-w-king",
+  "name_first": "John",
+  "name_middle": "W.",
+  "name_last": "King",
+  "name_suffix": "",
+  "date_dob": "1918-10-10",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1996-08-09",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

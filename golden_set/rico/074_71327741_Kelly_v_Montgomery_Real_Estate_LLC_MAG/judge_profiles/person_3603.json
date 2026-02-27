@@ -1,0 +1,92 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3603/?format=json",
+  "id": 3603,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3021/?format=json",
+      "id": 3021,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5714/?format=json",
+        "id": 5714,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Talladega College",
+        "ein": 630288870
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3603/?format=json",
+      "date_created": "2016-04-20T08:24:14.134175-07:00",
+      "date_modified": "2016-04-20T08:24:14.134199-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3022/?format=json",
+      "id": 3022,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6056/?format=json",
+        "id": 6056,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Howard University",
+        "ein": 530204707
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3603/?format=json",
+      "date_created": "2016-04-20T08:24:14.148779-07:00",
+      "date_modified": "2016-04-20T08:24:14.148803-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22694/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22695/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22696/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3621/?format=json",
+      "id": 3621,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3603/?format=json",
+      "date_created": "2016-04-20T08:24:14.172310-07:00",
+      "date_modified": "2016-04-20T08:24:14.172337-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:14.103390-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "oscar-w-adams-jr",
+  "name_first": "Oscar",
+  "name_middle": "W.",
+  "name_last": "Adams",
+  "name_suffix": "jr",
+  "date_dob": "1925-02-07",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1997-12-15",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

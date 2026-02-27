@@ -1,0 +1,147 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13168/?format=json",
+  "id": 13168,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11173/?format=json",
+      "id": 11173,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13168/?format=json",
+      "date_created": "2022-03-08T17:00:38.925346-08:00",
+      "date_modified": "2022-03-08T17:00:38.925392-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11174/?format=json",
+      "id": 11174,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13168/?format=json",
+      "date_created": "2022-03-08T17:00:38.937243-08:00",
+      "date_modified": "2022-03-08T17:00:38.937291-08:00",
+      "url": "https://ballotpedia.org/Maren_E._Nelson",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11175/?format=json",
+      "id": 11175,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13168/?format=json",
+      "date_created": "2022-03-08T17:00:38.950119-08:00",
+      "date_modified": "2022-03-08T17:00:38.950168-08:00",
+      "url": "https://www.martindale.com/attorney/maren-e-nelson-142227/",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11176/?format=json",
+      "id": 11176,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13168/?format=json",
+      "date_created": "2022-03-08T17:00:38.968272-08:00",
+      "date_modified": "2022-03-08T17:00:38.968295-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-08",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9155/?format=json",
+      "id": 9155,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3106/?format=json",
+        "id": 3106,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Occidental College",
+        "ein": 951667177
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13168/?format=json",
+      "date_created": "2022-03-08T17:00:38.846902-08:00",
+      "date_modified": "2022-03-08T17:00:38.846932-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Political Science, magna cum laude",
+      "degree_year": 1978
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9156/?format=json",
+      "id": 9156,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3117/?format=json",
+        "id": 3117,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Southern California",
+        "ein": 951642394
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13168/?format=json",
+      "date_created": "2022-03-08T17:00:38.870221-08:00",
+      "date_modified": "2022-03-08T17:00:38.870244-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1981
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42559/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44495/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6504/?format=json",
+      "id": 6504,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13168/?format=json",
+      "date_created": "2022-03-08T17:00:38.821471-08:00",
+      "date_modified": "2022-03-08T17:00:38.821497-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6505/?format=json",
+      "id": 6505,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13168/?format=json",
+      "date_created": "2022-03-08T17:00:38.833755-08:00",
+      "date_modified": "2022-03-08T17:00:38.833837-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:25.603026-07:00",
+  "date_modified": "2022-03-21T11:45:43.553105-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "maren-e-nelson",
+  "name_first": "Maren",
+  "name_middle": "E.",
+  "name_last": "Nelson",
+  "name_suffix": "",
+  "date_dob": "1957-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Columbus",
+  "dob_state": "OH",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

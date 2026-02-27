@@ -1,0 +1,54 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2467/?format=json",
+  "id": 2467,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/15410/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15411/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2475/?format=json",
+      "id": 2475,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2467/?format=json",
+      "date_created": "2016-04-20T08:21:32.683018-07:00",
+      "date_modified": "2016-04-20T08:21:32.683042-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1962-03-05",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:32.650058-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1811,
+  "slug": "john-watkins-oliver",
+  "name_first": "John",
+  "name_middle": "Watkins",
+  "name_last": "Oliver",
+  "name_suffix": "",
+  "date_dob": "1914-12-17",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1990-04-25",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Cape Girardeau",
+  "dob_state": "MO",
+  "dob_country": "United States",
+  "dod_city": "Kansas City",
+  "dod_state": "MO",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

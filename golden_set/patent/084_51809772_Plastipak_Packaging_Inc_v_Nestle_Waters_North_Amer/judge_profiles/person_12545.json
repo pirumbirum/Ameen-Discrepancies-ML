@@ -1,0 +1,164 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12545/?format=json",
+  "id": 12545,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7711/?format=json",
+      "id": 7711,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12545/?format=json",
+      "date_created": "2022-02-19T15:53:53.388546-08:00",
+      "date_modified": "2022-02-19T15:53:53.388568-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-19",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7712/?format=json",
+      "id": 7712,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12545/?format=json",
+      "date_created": "2022-02-19T15:53:53.393335-08:00",
+      "date_modified": "2022-02-19T15:53:53.393356-08:00",
+      "url": "https://www.martindale.com/attorney/keith-david-davis-207023/",
+      "date_accessed": "2022-02-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7713/?format=json",
+      "id": 7713,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12545/?format=json",
+      "date_created": "2022-02-19T15:53:53.397554-08:00",
+      "date_modified": "2022-02-19T15:53:53.397575-08:00",
+      "url": "https://trellis.law/judge/keith.d.davis",
+      "date_accessed": "2022-02-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7714/?format=json",
+      "id": 7714,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12545/?format=json",
+      "date_created": "2022-02-19T15:53:53.401934-08:00",
+      "date_modified": "2022-02-19T15:53:53.401957-08:00",
+      "url": "https://ballotpedia.org/Keith_Davis_(California)",
+      "date_accessed": "2022-02-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7715/?format=json",
+      "id": 7715,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12545/?format=json",
+      "date_created": "2022-02-19T15:53:53.406171-08:00",
+      "date_modified": "2022-02-19T15:53:53.406193-08:00",
+      "url": "https://www.jamsadr.com/keith-davis/",
+      "date_accessed": "2022-02-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7716/?format=json",
+      "id": 7716,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12545/?format=json",
+      "date_created": "2022-02-19T15:53:53.416241-08:00",
+      "date_modified": "2022-02-19T15:53:53.416267-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-19",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7633/?format=json",
+      "id": 7633,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6053/?format=json",
+        "id": 6053,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Georgetown University",
+        "ein": 530196603
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12545/?format=json",
+      "date_created": "2022-02-19T15:53:53.358935-08:00",
+      "date_modified": "2022-02-19T15:53:53.358960-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Foreign Service",
+      "degree_year": 1983
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7634/?format=json",
+      "id": 7634,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5218/?format=json",
+        "id": 5218,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Golden Gate University-San Francisco",
+        "ein": 941585735
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12545/?format=json",
+      "date_created": "2022-02-19T15:53:53.369494-08:00",
+      "date_modified": "2022-02-19T15:53:53.369516-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1988
+    }
+  ],
+  "positions": [],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5501/?format=json",
+      "id": 5501,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12545/?format=json",
+      "date_created": "2022-02-19T15:53:53.376364-08:00",
+      "date_modified": "2022-02-19T15:53:53.376386-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5502/?format=json",
+      "id": 5502,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12545/?format=json",
+      "date_created": "2022-02-19T15:53:53.382887-08:00",
+      "date_modified": "2022-02-19T15:53:53.382909-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:09:50.304084-07:00",
+  "date_modified": "2022-02-19T15:53:53.339254-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "keith-d-davis",
+  "name_first": "Keith",
+  "name_middle": "D.",
+  "name_last": "Davis",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

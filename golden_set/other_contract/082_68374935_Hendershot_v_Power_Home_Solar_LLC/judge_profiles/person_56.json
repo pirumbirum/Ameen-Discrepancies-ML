@@ -1,0 +1,56 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/56/?format=json",
+  "id": 56,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/127/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/128/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/129/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/126/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/58/?format=json",
+      "id": 58,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/56/?format=json",
+      "date_created": "2016-04-20T08:15:54.533436-07:00",
+      "date_modified": "2016-04-20T08:15:54.533461-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1901-12-05",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:15:54.501425-07:00",
+  "date_modified": "2020-11-25T08:30:20.815865-08:00",
+  "date_completed": null,
+  "fjc_id": 11,
+  "slug": "george-bethune-adams",
+  "name_first": "George",
+  "name_middle": "Bethune",
+  "name_last": "Adams",
+  "name_suffix": "",
+  "date_dob": "1845-04-03",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1911-10-09",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Philadelphia",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

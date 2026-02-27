@@ -1,0 +1,168 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15388/?format=json",
+  "id": 15388,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16576/?format=json",
+      "id": 16576,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15388/?format=json",
+      "date_created": "2022-05-26T14:09:24.549163-07:00",
+      "date_modified": "2022-05-26T14:09:24.549202-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Komitee-ER.%20J3.%2002.%20NYE%20Resp_SR_20.pdf",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16577/?format=json",
+      "id": 16577,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15388/?format=json",
+      "date_created": "2022-05-26T14:09:24.554571-07:00",
+      "date_modified": "2022-05-26T14:09:24.554607-07:00",
+      "url": "https://www.nyed.uscourts.gov/content/judge-eric-r-komitee#:~:text=Eric%20Komitee%20is%20a%20United,member%20of%20its%20Management%20Committee.",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16578/?format=json",
+      "id": 16578,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15388/?format=json",
+      "date_created": "2022-05-26T14:09:24.555951-07:00",
+      "date_modified": "2022-05-26T14:09:24.555986-07:00",
+      "url": "https://en.wikipedia.org/wiki/Eric_R._Komitee",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16579/?format=json",
+      "id": 16579,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15388/?format=json",
+      "date_created": "2022-05-26T14:09:24.557223-07:00",
+      "date_modified": "2022-05-26T14:09:24.557255-07:00",
+      "url": "https://ballotpedia.org/Eric_Komitee",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16580/?format=json",
+      "id": 16580,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15388/?format=json",
+      "date_created": "2022-05-26T14:09:24.558561-07:00",
+      "date_modified": "2022-05-26T14:09:24.558585-07:00",
+      "url": "https://www.judiciary.senate.gov/imo/media/doc/Komitee%20SJQ.pdf",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16581/?format=json",
+      "id": 16581,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15388/?format=json",
+      "date_created": "2022-05-26T14:09:24.559679-07:00",
+      "date_modified": "2022-05-26T14:09:24.559710-07:00",
+      "url": "https://vettingroom.org/2018/07/27/eric-komitee/",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16582/?format=json",
+      "id": 16582,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15388/?format=json",
+      "date_created": "2022-05-26T14:09:24.560880-07:00",
+      "date_modified": "2022-05-26T14:09:24.560912-07:00",
+      "url": "https://www.law.com/newyorklawjournal/2019/12/03/senate-confirms-eric-komitee-ex-hedge-fund-gc-as-eastern-district-us-judge/",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11630/?format=json",
+      "id": 11630,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/265/?format=json",
+        "id": 265,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Emory University",
+        "ein": 580566256
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15388/?format=json",
+      "date_created": "2022-05-26T14:03:17.591282-07:00",
+      "date_modified": "2022-05-26T14:03:17.591298-07:00",
+      "degree_level": "ba",
+      "degree_detail": "with high honors",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11631/?format=json",
+      "id": 11631,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3941/?format=json",
+        "id": 3941,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "New York University",
+        "ein": 135562308
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15388/?format=json",
+      "date_created": "2022-05-26T14:03:17.597473-07:00",
+      "date_modified": "2022-05-26T14:03:17.597485-07:00",
+      "degree_level": "jd",
+      "degree_detail": "cum laude",
+      "degree_year": 1995
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/48021/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48022/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48023/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48024/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48025/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48026/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7980/?format=json",
+      "id": 7980,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15388/?format=json",
+      "date_created": "2022-05-26T14:10:46.899620-07:00",
+      "date_modified": "2022-05-26T14:10:46.899640-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-05-26T14:02:29.419069-07:00",
+  "date_modified": "2022-05-26T14:47:12.938414-07:00",
+  "date_completed": "2022-05-26T13:59:22-07:00",
+  "fjc_id": null,
+  "slug": "erik-ross-komitee",
+  "name_first": "Erik",
+  "name_middle": "Ross",
+  "name_last": "Komitee",
+  "name_suffix": "",
+  "date_dob": "1970-12-21",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Freeport",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

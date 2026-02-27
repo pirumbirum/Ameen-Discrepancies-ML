@@ -1,0 +1,205 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13719/?format=json",
+  "id": 13719,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7109/?format=json",
+      "id": 7109,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13719/?format=json",
+      "date_created": "2022-02-15T12:40:04.684608-08:00",
+      "date_modified": "2022-02-15T12:46:24.388169-08:00",
+      "url": "https://www.legalprofessionalsinc.org/ventura-judge-michele-m-castillo-presented-with-honorary-degree/",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7110/?format=json",
+      "id": 7110,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13719/?format=json",
+      "date_created": "2022-02-15T12:46:24.396837-08:00",
+      "date_modified": "2022-02-15T12:46:24.396860-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-15",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7087/?format=json",
+      "id": 7087,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13719/?format=json",
+      "date_created": "2022-02-15T11:41:15.809792-08:00",
+      "date_modified": "2022-02-15T11:41:15.809816-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-15",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7088/?format=json",
+      "id": 7088,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13719/?format=json",
+      "date_created": "2022-02-15T11:41:15.818878-08:00",
+      "date_modified": "2022-02-15T12:40:04.661755-08:00",
+      "url": "https://ballotpedia.org/Michele_Castillo",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7107/?format=json",
+      "id": 7107,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13719/?format=json",
+      "date_created": "2022-02-15T12:40:04.669172-08:00",
+      "date_modified": "2022-02-15T12:40:04.669203-08:00",
+      "url": "https://www.calstate.edu/impact-of-the-csu/alumni/Honorary-Degrees/Pages/michele-marie-castillo.aspx",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7108/?format=json",
+      "id": 7108,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13719/?format=json",
+      "date_created": "2022-02-15T12:40:04.676142-08:00",
+      "date_modified": "2022-02-15T12:40:04.676178-08:00",
+      "url": "https://trellis.law/judge/michele.m.castillo",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7388/?format=json",
+      "id": 7388,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5193/?format=json",
+        "id": 5193,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Thomas Jefferson School of Law",
+        "ein": 330696561
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13719/?format=json",
+      "date_created": "2022-02-15T11:41:15.785454-08:00",
+      "date_modified": "2022-02-15T11:41:15.785490-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7387/?format=json",
+      "id": 7387,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13719/?format=json",
+      "date_created": "2022-02-15T11:41:15.775224-08:00",
+      "date_modified": "2022-02-15T12:40:04.632710-08:00",
+      "degree_level": "ba",
+      "degree_detail": "History, Women's Studies",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7403/?format=json",
+      "id": 7403,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/855/?format=json",
+        "id": 855,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "California State University-Channel Islands",
+        "ein": 912153805
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13719/?format=json",
+      "date_created": "2022-02-15T12:40:04.642170-08:00",
+      "date_modified": "2022-02-15T12:40:04.642195-08:00",
+      "degree_level": "cert",
+      "degree_detail": "LL.D. Honorary Doctor of Laws",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7404/?format=json",
+      "id": 7404,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6345/?format=json",
+        "id": 6345,
+        "is_alias_of": null,
+        "date_created": "2019-06-30T07:36:14.863039-07:00",
+        "date_modified": "2019-07-07T06:06:58.288860-07:00",
+        "name": "University of Oxford",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13719/?format=json",
+      "date_created": "2022-02-15T12:40:04.650009-08:00",
+      "date_modified": "2022-02-15T12:46:24.381855-08:00",
+      "degree_level": "cert",
+      "degree_detail": "International Human Rights/International Rights of Women",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43320/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44284/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5329/?format=json",
+      "id": 5329,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13719/?format=json",
+      "date_created": "2022-02-15T11:41:15.792929-08:00",
+      "date_modified": "2022-02-15T11:41:15.792953-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5339/?format=json",
+      "id": 5339,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13719/?format=json",
+      "date_created": "2022-02-15T12:40:04.656502-08:00",
+      "date_modified": "2022-02-15T12:40:04.656530-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:51.324790-07:00",
+  "date_modified": "2022-02-15T12:46:24.370770-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "michele-marie-castillo",
+  "name_first": "Michele",
+  "name_middle": "Marie",
+  "name_last": "Castillo",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,87 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2826/?format=json",
+  "id": 2826,
+  "race": [
+    "h"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1771/?format=json",
+      "id": 1771,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2826/?format=json",
+      "date_created": "2016-04-20T08:22:21.917990-07:00",
+      "date_modified": "2016-04-20T08:22:21.918015-07:00",
+      "year_rated": 2011,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2363/?format=json",
+      "id": 2363,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3813/?format=json",
+        "id": 3813,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Rutgers University-New Brunswick",
+        "ein": 226001086
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2826/?format=json",
+      "date_created": "2016-04-20T08:22:21.932605-07:00",
+      "date_modified": "2016-04-20T08:22:21.932638-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1991
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/17726/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17727/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17728/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17729/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17730/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2834/?format=json",
+      "id": 2834,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2826/?format=json",
+      "date_created": "2016-04-20T08:22:21.911648-07:00",
+      "date_modified": "2016-04-20T08:22:21.911678-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2011-01-05",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:21.877352-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3377,
+  "slug": "esther-salas",
+  "name_first": "Esther",
+  "name_middle": "",
+  "name_last": "Salas",
+  "name_suffix": "",
+  "date_dob": "1968-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Los Angeles",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

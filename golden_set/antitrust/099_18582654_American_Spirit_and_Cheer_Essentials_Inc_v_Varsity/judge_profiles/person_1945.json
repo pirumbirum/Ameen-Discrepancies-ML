@@ -1,0 +1,73 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1945/?format=json",
+  "id": 1945,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1205/?format=json",
+      "id": 1205,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1945/?format=json",
+      "date_created": "2016-04-20T08:20:19.219663-07:00",
+      "date_modified": "2016-04-20T08:20:19.219686-07:00",
+      "year_rated": 2014,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/12034/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12035/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12036/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12037/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12038/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12039/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12040/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12041/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12042/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12043/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12044/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1952/?format=json",
+      "id": 1952,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1945/?format=json",
+      "date_created": "2016-04-20T08:20:19.213419-07:00",
+      "date_modified": "2016-04-20T08:20:19.213445-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2014-01-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:19.174862-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3523,
+  "slug": "sheryl-halle-lipman",
+  "name_first": "Sheryl",
+  "name_middle": "Halle",
+  "name_last": "Lipman",
+  "name_suffix": "",
+  "date_dob": "1963-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Memphis",
+  "dob_state": "TN",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,100 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14133/?format=json",
+  "id": 14133,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13143/?format=json",
+      "id": 13143,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14133/?format=json",
+      "date_created": "2022-03-16T15:18:55.133378-07:00",
+      "date_modified": "2022-03-16T15:18:55.133439-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13144/?format=json",
+      "id": 13144,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14133/?format=json",
+      "date_created": "2022-03-16T15:18:55.139584-07:00",
+      "date_modified": "2022-03-16T15:18:55.139607-07:00",
+      "url": "https://ballotpedia.org/David_Wolf",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13145/?format=json",
+      "id": 13145,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14133/?format=json",
+      "date_created": "2022-03-16T15:18:55.143534-07:00",
+      "date_modified": "2022-03-16T15:19:11.089956-07:00",
+      "url": "https://www.martindale.com/attorney/david-andrew-wolf-4992222/",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13147/?format=json",
+      "id": 13147,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14133/?format=json",
+      "date_created": "2022-03-16T15:19:11.097328-07:00",
+      "date_modified": "2022-03-16T15:19:11.097358-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10116/?format=json",
+      "id": 10116,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5646/?format=json",
+        "id": 5646,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of the Pacific",
+        "ein": 941156266
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14133/?format=json",
+      "date_created": "2022-03-16T15:18:55.127067-07:00",
+      "date_modified": "2022-03-16T15:18:55.127100-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1986
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43814/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:09.382416-07:00",
+  "date_modified": "2022-03-23T16:44:10.813464-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "david-andrew-wolf",
+  "name_first": "David",
+  "name_middle": "Andrew",
+  "name_last": "Wolf",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,147 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14396/?format=json",
+  "id": 14396,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9685/?format=json",
+      "id": 9685,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14396/?format=json",
+      "date_created": "2022-03-03T11:00:37.856064-08:00",
+      "date_modified": "2022-03-03T11:00:37.856085-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-03",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9686/?format=json",
+      "id": 9686,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14396/?format=json",
+      "date_created": "2022-03-03T11:00:37.867610-08:00",
+      "date_modified": "2022-03-03T11:00:37.867632-08:00",
+      "url": "https://ballotpedia.org/Joscelyn_Jones",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9687/?format=json",
+      "id": 9687,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14396/?format=json",
+      "date_created": "2022-03-03T11:00:37.875678-08:00",
+      "date_modified": "2022-03-03T11:00:37.875699-08:00",
+      "url": "https://www.martindale.com/attorney/joscelyn-carol-jones-173399/",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9688/?format=json",
+      "id": 9688,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14396/?format=json",
+      "date_created": "2022-03-03T11:00:37.888008-08:00",
+      "date_modified": "2022-03-03T11:00:37.888031-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-03",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8480/?format=json",
+      "id": 8480,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14396/?format=json",
+      "date_created": "2022-03-03T11:00:37.803767-08:00",
+      "date_modified": "2022-03-03T11:00:37.803789-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1981
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8481/?format=json",
+      "id": 8481,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4765/?format=json",
+        "id": 4765,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Redlands",
+        "ein": 951643389
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14396/?format=json",
+      "date_created": "2022-03-03T11:00:37.820158-08:00",
+      "date_modified": "2022-03-03T11:00:37.820180-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1978
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44091/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44434/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6047/?format=json",
+      "id": 6047,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14396/?format=json",
+      "date_created": "2022-03-03T11:00:37.783484-08:00",
+      "date_modified": "2022-03-03T11:00:37.783511-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6048/?format=json",
+      "id": 6048,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14396/?format=json",
+      "date_created": "2022-03-03T11:00:37.794869-08:00",
+      "date_modified": "2022-03-03T11:00:37.794890-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:19.885815-07:00",
+  "date_modified": "2022-03-20T15:43:12.045826-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "joscelyn-carol-jones",
+  "name_first": "Joscelyn",
+  "name_middle": "Carol",
+  "name_last": "Jones",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

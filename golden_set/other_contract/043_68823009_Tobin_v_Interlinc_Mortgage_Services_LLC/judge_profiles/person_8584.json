@@ -1,0 +1,115 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8584/?format=json",
+  "id": 8584,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4288/?format=json",
+      "id": 4288,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8584/?format=json",
+      "date_created": "2019-09-22T15:32:07.306071-07:00",
+      "date_modified": "2019-09-22T15:32:07.306093-07:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2019-09-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2331/?format=json",
+      "id": 2331,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8584/?format=json",
+      "date_created": "2019-09-22T15:32:07.300498-07:00",
+      "date_modified": "2019-09-22T15:32:07.300522-07:00",
+      "year_rated": 2017,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6748/?format=json",
+      "id": 6748,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/265/?format=json",
+        "id": 265,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Emory University",
+        "ein": 580566256
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8584/?format=json",
+      "date_created": "2019-09-22T15:32:07.322035-07:00",
+      "date_modified": "2019-09-22T15:32:07.322061-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1999
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6749/?format=json",
+      "id": 6749,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6041/?format=json",
+        "id": 6041,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "American University",
+        "ein": 530196549
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8584/?format=json",
+      "date_created": "2019-09-22T15:32:07.333836-07:00",
+      "date_modified": "2019-09-22T15:32:07.333863-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 2002
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/34053/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34055/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34054/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4932/?format=json",
+      "id": 4932,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8584/?format=json",
+      "date_created": "2019-09-22T15:32:07.295822-07:00",
+      "date_modified": "2019-09-22T15:32:07.295848-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2017-09-07",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2019-09-22T15:32:07.258241-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 4477671,
+  "slug": "rebecca-grady-jennings",
+  "name_first": "Rebecca",
+  "name_middle": "Grady",
+  "name_last": "Jennings",
+  "name_suffix": "",
+  "date_dob": "1978-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Wilmington",
+  "dob_state": "DE",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

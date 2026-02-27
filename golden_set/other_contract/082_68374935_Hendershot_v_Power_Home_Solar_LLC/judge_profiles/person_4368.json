@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4368/?format=json",
+  "id": 4368,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/414/?format=json",
+      "id": 414,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4368/?format=json",
+      "date_created": "2016-04-20T08:24:57.350418-07:00",
+      "date_modified": "2016-04-20T08:24:57.350440-07:00",
+      "url": "https://en.wikipedia.org/wiki/Austin_Adams",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24513/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:57.335126-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "austin-adams",
+  "name_first": "Austin",
+  "name_middle": "",
+  "name_last": "Adams",
+  "name_suffix": "",
+  "date_dob": "1826-05-24",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1890-10-17",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

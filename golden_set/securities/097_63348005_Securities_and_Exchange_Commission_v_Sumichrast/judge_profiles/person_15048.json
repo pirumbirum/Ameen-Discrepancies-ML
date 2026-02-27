@@ -1,0 +1,191 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15048/?format=json",
+  "id": 15048,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15507/?format=json",
+      "id": 15507,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15048/?format=json",
+      "date_created": "2022-04-14T14:58:52.169085-07:00",
+      "date_modified": "2022-04-14T14:58:52.169106-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-14",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15508/?format=json",
+      "id": 15508,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15048/?format=json",
+      "date_created": "2022-04-14T14:58:52.170894-07:00",
+      "date_modified": "2022-04-14T14:58:52.170914-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=Qczucl0ke3HxjZo7w9Rs3Q%3D%3D",
+      "date_accessed": "2022-04-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15509/?format=json",
+      "id": 15509,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15048/?format=json",
+      "date_created": "2022-04-14T14:58:52.171983-07:00",
+      "date_modified": "2022-04-14T14:58:52.172003-07:00",
+      "url": "https://ballotpedia.org/Raymond_Rodriguez",
+      "date_accessed": "2022-04-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15510/?format=json",
+      "id": 15510,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15048/?format=json",
+      "date_created": "2022-04-14T14:58:52.173014-07:00",
+      "date_modified": "2022-04-14T14:58:52.173036-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/New_York_City_Criminal_Court,_Kings_County/Raymond_Rodriguez/Raymond_Rodriguez-50000081.xml",
+      "date_accessed": "2022-04-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15511/?format=json",
+      "id": 15511,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15048/?format=json",
+      "date_created": "2022-04-14T14:58:52.174067-07:00",
+      "date_modified": "2022-04-14T14:58:52.174088-07:00",
+      "url": "https://www.silive.com/news/2013/02/staten_islands_first_hispanic.html",
+      "date_accessed": "2022-04-14",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11233/?format=json",
+      "id": 11233,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1040/?format=json",
+        "id": 1040,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Widener University-Main Campus",
+        "ein": 231386178
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15048/?format=json",
+      "date_created": "2022-04-14T14:58:52.151171-07:00",
+      "date_modified": "2022-04-14T14:58:52.151200-07:00",
+      "degree_level": "jd",
+      "degree_detail": "cum laude",
+      "degree_year": 1998
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11234/?format=json",
+      "id": 11234,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1301/?format=json",
+        "id": 1301,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Saint Johns University",
+        "ein": 410693973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15048/?format=json",
+      "date_created": "2022-04-14T14:58:52.156396-07:00",
+      "date_modified": "2022-04-14T14:58:52.156417-07:00",
+      "degree_level": "ba",
+      "degree_detail": "magna cum laude",
+      "degree_year": 1995
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/48219/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48220/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48221/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48222/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48223/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48224/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48225/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48226/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48227/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48228/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7712/?format=json",
+      "id": 7712,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15048/?format=json",
+      "date_created": "2022-04-14T14:58:52.159255-07:00",
+      "date_modified": "2022-04-14T14:58:52.159276-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2013-01-01",
+      "date_granularity_start": "%Y-%m",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7713/?format=json",
+      "id": 7713,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15048/?format=json",
+      "date_created": "2022-04-14T14:58:52.162878-07:00",
+      "date_modified": "2022-04-14T14:58:52.162900-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2018-01-05",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7714/?format=json",
+      "id": 7714,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15048/?format=json",
+      "date_created": "2022-04-14T14:58:52.165290-07:00",
+      "date_modified": "2022-04-14T14:58:52.165313-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2020-01-02",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7715/?format=json",
+      "id": 7715,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15048/?format=json",
+      "date_created": "2022-04-14T14:58:52.167848-07:00",
+      "date_modified": "2022-04-14T14:58:52.167882-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2013-01-01",
+      "date_granularity_start": "%Y",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-14T14:58:52.136218-07:00",
+  "date_modified": "2022-06-01T10:12:22.019668-07:00",
+  "date_completed": "2022-06-01T09:29:57-07:00",
+  "fjc_id": null,
+  "slug": "raymond-l-rodriguez",
+  "name_first": "Raymond",
+  "name_middle": "L.",
+  "name_last": "Rodriguez",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

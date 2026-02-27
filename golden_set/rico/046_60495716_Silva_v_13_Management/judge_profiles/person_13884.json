@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13884/?format=json",
+  "id": 13884,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11729/?format=json",
+      "id": 11729,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13884/?format=json",
+      "date_created": "2022-03-10T14:30:20.770747-08:00",
+      "date_modified": "2022-03-10T14:30:20.770773-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-10",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11730/?format=json",
+      "id": 11730,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13884/?format=json",
+      "date_created": "2022-03-10T14:30:20.775769-08:00",
+      "date_modified": "2022-03-10T14:30:20.775796-08:00",
+      "url": "https://ballotpedia.org/Tony_L._Richardson",
+      "date_accessed": "2022-03-10",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11731/?format=json",
+      "id": 11731,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13884/?format=json",
+      "date_created": "2022-03-10T14:30:20.781429-08:00",
+      "date_modified": "2022-03-10T14:30:20.781456-08:00",
+      "url": "https://www.martindale.com/attorney/tony-leroy-richardson-22794894/",
+      "date_accessed": "2022-03-10",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11732/?format=json",
+      "id": 11732,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13884/?format=json",
+      "date_created": "2022-03-10T14:30:20.791670-08:00",
+      "date_modified": "2022-03-10T14:30:20.791696-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-10",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9422/?format=json",
+      "id": 9422,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13884/?format=json",
+      "date_created": "2022-03-10T14:30:20.755847-08:00",
+      "date_modified": "2022-03-10T14:30:20.755875-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9423/?format=json",
+      "id": 9423,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13884/?format=json",
+      "date_created": "2022-03-10T14:30:20.766260-08:00",
+      "date_modified": "2022-03-10T14:30:20.766286-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43530/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6694/?format=json",
+      "id": 6694,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13884/?format=json",
+      "date_created": "2022-03-10T14:30:20.739533-08:00",
+      "date_modified": "2022-03-10T14:30:20.739561-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6695/?format=json",
+      "id": 6695,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13884/?format=json",
+      "date_created": "2022-03-10T14:30:20.748121-08:00",
+      "date_modified": "2022-03-10T14:30:20.748148-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:58.856087-07:00",
+  "date_modified": "2022-03-21T12:50:10.964739-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "tony-leroy-richardson",
+  "name_first": "Tony",
+  "name_middle": "Leroy",
+  "name_last": "Richardson",
+  "name_suffix": "",
+  "date_dob": "1955-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,105 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3095/?format=json",
+  "id": 3095,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1963/?format=json",
+      "id": 1963,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3095/?format=json",
+      "date_created": "2016-04-20T08:23:00.349588-07:00",
+      "date_modified": "2016-04-20T08:23:00.349609-07:00",
+      "year_rated": 1995,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2604/?format=json",
+      "id": 2604,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4696/?format=json",
+        "id": 4696,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Princeton University",
+        "ein": 210634501
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3095/?format=json",
+      "date_created": "2016-04-20T08:23:00.362222-07:00",
+      "date_modified": "2016-04-20T08:23:00.362246-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1967
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2605/?format=json",
+      "id": 2605,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3095/?format=json",
+      "date_created": "2016-04-20T08:23:00.400603-07:00",
+      "date_modified": "2016-04-20T08:23:00.400632-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1972
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/19439/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19440/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19441/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19438/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3111/?format=json",
+      "id": 3111,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3095/?format=json",
+      "date_created": "2016-04-20T08:23:00.344162-07:00",
+      "date_modified": "2016-04-20T08:23:00.344186-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1995-01-11",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:23:00.313183-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2282,
+  "slug": "sidney-h-stein",
+  "name_first": "Sidney",
+  "name_middle": "H.",
+  "name_last": "Stein",
+  "name_suffix": "",
+  "date_dob": "1945-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Passaic",
+  "dob_state": "NJ",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

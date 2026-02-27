@@ -1,0 +1,166 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13154/?format=json",
+  "id": 13154,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6866/?format=json",
+      "id": 6866,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13154/?format=json",
+      "date_created": "2022-02-13T10:42:25.434926-08:00",
+      "date_modified": "2022-02-13T10:42:25.434963-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-13",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6815/?format=json",
+      "id": 6815,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13154/?format=json",
+      "date_created": "2022-02-13T07:47:47.554979-08:00",
+      "date_modified": "2022-02-13T08:58:13.208380-08:00",
+      "url": "https://trellis.law/judge/jacki.c.brown",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6847/?format=json",
+      "id": 6847,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13154/?format=json",
+      "date_created": "2022-02-13T09:42:55.401669-08:00",
+      "date_modified": "2022-02-13T09:42:55.401692-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-13",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6831/?format=json",
+      "id": 6831,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13154/?format=json",
+      "date_created": "2022-02-13T08:58:13.217180-08:00",
+      "date_modified": "2022-02-13T10:42:25.414849-08:00",
+      "url": "https://www.mills.edu/uniquely-mills/leadership-team/board-of-trustees/hon-jacki-c-brown-74.php",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6864/?format=json",
+      "id": 6864,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13154/?format=json",
+      "date_created": "2022-02-13T10:42:25.420814-08:00",
+      "date_modified": "2022-02-13T10:42:25.420856-08:00",
+      "url": "https://www.linkedin.com/in/jacki-brown-21846420/",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6865/?format=json",
+      "id": 6865,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13154/?format=json",
+      "date_created": "2022-02-13T10:42:25.426024-08:00",
+      "date_modified": "2022-02-13T10:42:25.426046-08:00",
+      "url": "https://ballotpedia.org/Jacki_C._Brown",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7306/?format=json",
+      "id": 7306,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5226/?format=json",
+        "id": 5226,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of San Francisco",
+        "ein": 941156628
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13154/?format=json",
+      "date_created": "2022-02-13T08:58:13.203764-08:00",
+      "date_modified": "2022-02-13T08:58:13.203787-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1977
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7305/?format=json",
+      "id": 7305,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4117/?format=json",
+        "id": 4117,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Mills College",
+        "ein": 941156566
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13154/?format=json",
+      "date_created": "2022-02-13T08:58:13.193946-08:00",
+      "date_modified": "2022-02-13T10:42:25.408420-08:00",
+      "degree_level": "ba",
+      "degree_detail": "History, Dean's List",
+      "degree_year": 1974
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42540/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5256/?format=json",
+      "id": 5256,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13154/?format=json",
+      "date_created": "2022-02-13T07:47:47.546714-08:00",
+      "date_modified": "2022-02-13T07:47:47.546738-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5279/?format=json",
+      "id": 5279,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13154/?format=json",
+      "date_created": "2022-02-13T09:42:55.383443-08:00",
+      "date_modified": "2022-02-13T09:42:55.383466-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:24.996697-07:00",
+  "date_modified": "2022-02-13T10:42:25.394415-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jacki-c-brown",
+  "name_first": "Jacki",
+  "name_middle": "C.",
+  "name_last": "Brown",
+  "name_suffix": "",
+  "date_dob": "1952-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Oakland",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

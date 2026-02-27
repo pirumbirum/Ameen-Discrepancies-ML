@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/629/?format=json",
+  "id": 629,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/3762/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3763/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3764/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3765/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33548/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/633/?format=json",
+      "id": 633,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/629/?format=json",
+      "date_created": "2016-04-20T08:17:13.458617-07:00",
+      "date_modified": "2016-04-20T08:17:13.458641-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1894-12-17",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4819/?format=json",
+      "id": 4819,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/629/?format=json",
+      "date_created": "2017-01-11T13:13:01.080451-08:00",
+      "date_modified": "2017-01-11T13:13:01.080475-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1894-12-17",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:13.420385-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 438,
+  "slug": "charles-dickens-clark",
+  "name_first": "Charles",
+  "name_middle": "Dickens",
+  "name_last": "Clark",
+  "name_suffix": "",
+  "date_dob": "1847-10-07",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1908-03-15",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Laurel Cove",
+  "dob_state": "TN",
+  "dob_country": "United States",
+  "dod_city": "Chattanooga",
+  "dod_state": "TN",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

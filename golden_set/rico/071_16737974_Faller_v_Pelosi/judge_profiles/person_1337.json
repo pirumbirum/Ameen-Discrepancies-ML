@@ -1,0 +1,77 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1337/?format=json",
+  "id": 1337,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1116/?format=json",
+      "id": 1116,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1337/?format=json",
+      "date_created": "2016-04-20T08:18:50.805001-07:00",
+      "date_modified": "2016-04-20T08:18:50.805022-07:00",
+      "degree_level": "",
+      "degree_detail": "",
+      "degree_year": 1799
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/8117/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8118/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8119/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8120/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8121/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1343/?format=json",
+      "id": 1343,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1337/?format=json",
+      "date_created": "2016-04-20T08:18:50.780681-07:00",
+      "date_modified": "2016-04-20T08:18:50.780702-07:00",
+      "political_party": "j",
+      "source": "a",
+      "date_start": "1823-12-05",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:50.752563-07:00",
+  "date_modified": "2020-11-25T08:30:23.417120-08:00",
+  "date_completed": null,
+  "fjc_id": 951,
+  "slug": "willard-hall",
+  "name_first": "Willard",
+  "name_middle": "",
+  "name_last": "Hall",
+  "name_suffix": "",
+  "date_dob": "1780-12-24",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1875-05-10",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Westford",
+  "dob_state": "MA",
+  "dob_country": "United States",
+  "dod_city": "Wilmington",
+  "dod_state": "DE",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

@@ -1,0 +1,144 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15339/?format=json",
+  "id": 15339,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16258/?format=json",
+      "id": 16258,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15339/?format=json",
+      "date_created": "2022-05-20T12:42:51.378613-07:00",
+      "date_modified": "2022-05-20T12:42:51.378639-07:00",
+      "url": "https://en.wikipedia.org/wiki/John_M._Gallagher",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16259/?format=json",
+      "id": 16259,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15339/?format=json",
+      "date_created": "2022-05-20T12:42:51.406108-07:00",
+      "date_modified": "2022-05-20T12:42:51.406133-07:00",
+      "url": "https://ballotpedia.org/John_Gallagher_(Pennsylvania_federal_judicial_nominee)",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16260/?format=json",
+      "id": 16260,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15339/?format=json",
+      "date_created": "2022-05-20T12:42:51.429685-07:00",
+      "date_modified": "2022-05-20T12:42:51.429710-07:00",
+      "url": "https://www.fjc.gov/node/7544446",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16261/?format=json",
+      "id": 16261,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15339/?format=json",
+      "date_created": "2022-05-20T12:42:51.453143-07:00",
+      "date_modified": "2022-05-20T12:42:51.453169-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Gallagher-JM.%20J3.%2003.%20PAE%20_SR_20.pdf",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11522/?format=json",
+      "id": 11522,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6450/?format=json",
+        "id": 6450,
+        "is_alias_of": null,
+        "date_created": "2022-02-11T15:11:23.861044-08:00",
+        "date_modified": "2022-02-11T15:11:23.861074-08:00",
+        "name": "Long Island University",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15339/?format=json",
+      "date_created": "2022-05-20T12:42:51.225745-07:00",
+      "date_modified": "2022-05-20T12:42:51.225795-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1989
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11523/?format=json",
+      "id": 11523,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3938/?format=json",
+        "id": 3938,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "New York Law School",
+        "ein": 135645885
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15339/?format=json",
+      "date_created": "2022-05-20T12:42:51.300809-07:00",
+      "date_modified": "2022-05-20T12:42:51.300841-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1994
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47742/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47743/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47744/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47745/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47746/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47747/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47748/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47749/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47750/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47751/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47752/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47753/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7950/?format=json",
+      "id": 7950,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15339/?format=json",
+      "date_created": "2022-05-20T12:42:51.349649-07:00",
+      "date_modified": "2022-05-20T12:42:51.349682-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-05-20T12:42:51.084964-07:00",
+  "date_modified": "2022-05-20T13:52:57.975601-07:00",
+  "date_completed": "2022-05-20T12:40:21-07:00",
+  "fjc_id": null,
+  "slug": "john-michael-gallagher",
+  "name_first": "John",
+  "name_middle": "Michael",
+  "name_last": "Gallagher",
+  "name_suffix": "",
+  "date_dob": "1966-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Queens, New York City",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

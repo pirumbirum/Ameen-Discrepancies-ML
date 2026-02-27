@@ -1,0 +1,77 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15178/?format=json",
+  "id": 15178,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16043/?format=json",
+      "id": 16043,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15178/?format=json",
+      "date_created": "2022-04-21T09:32:40.759160-07:00",
+      "date_modified": "2022-04-21T09:32:40.759181-07:00",
+      "url": "https://en.wikipedia.org/wiki/John_Lindsay",
+      "date_accessed": "2022-04-21",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44720/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7840/?format=json",
+      "id": 7840,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15178/?format=json",
+      "date_created": "2022-04-21T09:32:40.757467-07:00",
+      "date_modified": "2022-04-21T09:42:59.352662-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": "1971-01-01",
+      "date_granularity_start": "%Y",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7841/?format=json",
+      "id": 7841,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15178/?format=json",
+      "date_created": "2022-04-21T09:42:59.356308-07:00",
+      "date_modified": "2022-04-21T09:42:59.356339-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": "1966-01-01",
+      "date_granularity_start": "%Y",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-21T09:32:40.739099-07:00",
+  "date_modified": "2022-04-21T09:49:17.514298-07:00",
+  "date_completed": "2022-04-21T09:32:36-07:00",
+  "fjc_id": null,
+  "slug": "john-lindsay",
+  "name_first": "John",
+  "name_middle": "",
+  "name_last": "Lindsay",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

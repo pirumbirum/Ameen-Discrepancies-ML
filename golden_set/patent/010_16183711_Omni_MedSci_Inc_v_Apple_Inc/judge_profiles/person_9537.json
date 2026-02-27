@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/9537/?format=json",
+  "id": 9537,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/5249/?format=json",
+      "id": 5249,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9537/?format=json",
+      "date_created": "2020-05-13T16:56:31.092535-07:00",
+      "date_modified": "2022-03-10T17:27:23.690183-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-10",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11835/?format=json",
+      "id": 11835,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9537/?format=json",
+      "date_created": "2022-03-10T17:27:23.695394-08:00",
+      "date_modified": "2022-03-10T17:27:23.695416-08:00",
+      "url": "https://ballotpedia.org/Thomas_C._Rogers",
+      "date_accessed": "2022-03-10",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11836/?format=json",
+      "id": 11836,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9537/?format=json",
+      "date_created": "2022-03-10T17:27:23.701146-08:00",
+      "date_modified": "2022-03-10T17:27:23.701168-08:00",
+      "url": "https://www.martindale.com/attorney/thomas-charles-rogers-157987003/",
+      "date_accessed": "2022-03-10",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11837/?format=json",
+      "id": 11837,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9537/?format=json",
+      "date_created": "2022-03-10T17:27:23.709754-08:00",
+      "date_modified": "2022-03-10T17:27:23.709789-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-10",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9477/?format=json",
+      "id": 9477,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5312/?format=json",
+        "id": 5312,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Santa Clara University",
+        "ein": 941156697
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9537/?format=json",
+      "date_created": "2022-03-10T17:27:23.667108-08:00",
+      "date_modified": "2022-03-10T17:27:23.667131-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1973
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9478/?format=json",
+      "id": 9478,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5191/?format=json",
+        "id": 5191,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of San Diego",
+        "ein": 952544535
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9537/?format=json",
+      "date_created": "2022-03-10T17:27:23.674784-08:00",
+      "date_modified": "2022-03-10T17:27:23.674806-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1976
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43400/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6728/?format=json",
+      "id": 6728,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9537/?format=json",
+      "date_created": "2022-03-10T17:27:23.653373-08:00",
+      "date_modified": "2022-03-10T17:27:23.653395-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6729/?format=json",
+      "id": 6729,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9537/?format=json",
+      "date_created": "2022-03-10T17:27:23.659775-08:00",
+      "date_modified": "2022-03-10T17:27:23.659806-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2020-05-13T16:56:31.083423-07:00",
+  "date_modified": "2022-03-21T14:39:31.344890-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "thomas-charles-rogers",
+  "name_first": "Thomas",
+  "name_middle": "Charles",
+  "name_last": "Rogers",
+  "name_suffix": "",
+  "date_dob": "1951-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

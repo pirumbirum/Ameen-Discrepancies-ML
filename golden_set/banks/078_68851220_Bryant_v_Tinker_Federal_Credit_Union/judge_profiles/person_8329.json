@@ -1,0 +1,161 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8329/?format=json",
+  "id": 8329,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4070/?format=json",
+      "id": 4070,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8329/?format=json",
+      "date_created": "2016-04-20T08:29:02.763769-07:00",
+      "date_modified": "2016-04-20T08:29:02.763801-07:00",
+      "url": "http://www.txcourts.gov/3rdcoa/about-the-court/justices/justice-melissa-goodwin.aspx",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16952/?format=json",
+      "id": 16952,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8329/?format=json",
+      "date_created": "2022-06-15T18:16:03.067732-07:00",
+      "date_modified": "2022-06-15T18:16:03.067744-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-06-15",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16953/?format=json",
+      "id": 16953,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8329/?format=json",
+      "date_created": "2022-06-15T18:28:01.199891-07:00",
+      "date_modified": "2022-06-15T18:28:01.199912-07:00",
+      "url": "https://www.txcourts.gov/3rdcoa/about-the-court/justices/justice-melissa-goodwin/",
+      "date_accessed": "2022-06-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16954/?format=json",
+      "id": 16954,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8329/?format=json",
+      "date_created": "2022-06-15T18:28:01.204165-07:00",
+      "date_modified": "2022-06-15T18:28:01.204180-07:00",
+      "url": "https://ballotpedia.org/Melissa_Goodwin",
+      "date_accessed": "2022-06-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16955/?format=json",
+      "id": 16955,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8329/?format=json",
+      "date_created": "2022-06-15T18:28:01.204688-07:00",
+      "date_modified": "2022-06-15T18:28:01.204699-07:00",
+      "url": "https://www.linkedin.com/in/melissa-goodwin-99492164/",
+      "date_accessed": "2022-06-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16956/?format=json",
+      "id": 16956,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8329/?format=json",
+      "date_created": "2022-06-15T18:28:01.205135-07:00",
+      "date_modified": "2022-06-15T18:28:01.205145-07:00",
+      "url": "https://texasjudges.org/melissa-goodwin-2/",
+      "date_accessed": "2022-06-15",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11749/?format=json",
+      "id": 11749,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8329/?format=json",
+      "date_created": "2022-06-15T18:16:03.054046-07:00",
+      "date_modified": "2022-06-15T18:16:03.054059-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1987
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11750/?format=json",
+      "id": 11750,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5152/?format=json",
+        "id": 5152,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "St Mary's University",
+        "ein": 741143128
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8329/?format=json",
+      "date_created": "2022-06-15T18:16:03.062149-07:00",
+      "date_modified": "2022-06-15T18:16:03.062161-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1993
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49455/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49456/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49458/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49459/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49460/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49454/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49457/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49461/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49462/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8040/?format=json",
+      "id": 8040,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8329/?format=json",
+      "date_created": "2022-06-15T18:16:03.064054-07:00",
+      "date_modified": "2022-06-15T18:16:03.064066-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:29:02.602932-07:00",
+  "date_modified": "2022-06-15T18:32:59.269959-07:00",
+  "date_completed": "2022-06-15T18:15:12-07:00",
+  "fjc_id": null,
+  "slug": "melissa-goodwin",
+  "name_first": "Melissa",
+  "name_middle": "",
+  "name_last": "Goodwin",
+  "name_suffix": "",
+  "date_dob": "1965-08-24",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

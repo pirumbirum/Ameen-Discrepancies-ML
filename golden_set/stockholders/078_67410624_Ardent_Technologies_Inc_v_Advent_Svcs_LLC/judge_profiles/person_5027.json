@@ -1,0 +1,63 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5027/?format=json",
+  "id": 5027,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1214/?format=json",
+      "id": 1214,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5027/?format=json",
+      "date_created": "2016-04-20T08:25:48.874642-07:00",
+      "date_modified": "2016-04-20T08:25:48.874663-07:00",
+      "url": "http://books.google.com/books?id=GFtcbLh1snMC&pg=PA196&lpg=PA196&dq=paul+e+boslaugh&source=bl&ots=YTrcLb_zJs&sig=WjeAtAl03ZVBcBXDQZveceRgXNU&hl=en&sa=X&ei=mxQFU4rpD_LksASy6IGgBA&ved=0CFEQ6AEwBQ#v=onepage&q=paul%20e%20boslaugh&f=false",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26317/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26318/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4138/?format=json",
+      "id": 4138,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5027/?format=json",
+      "date_created": "2016-04-20T08:25:48.868647-07:00",
+      "date_modified": "2016-04-20T08:25:48.868671-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:48.844338-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "william-b-rose",
+  "name_first": "William",
+  "name_middle": "B.",
+  "name_last": "Rose",
+  "name_suffix": "",
+  "date_dob": "1885-06-13",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1954-03-27",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

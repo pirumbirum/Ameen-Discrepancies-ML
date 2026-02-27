@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1245/?format=json",
+  "id": 1245,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/762/?format=json",
+      "id": 762,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1245/?format=json",
+      "date_created": "2016-04-20T08:18:37.649628-07:00",
+      "date_modified": "2016-04-20T08:18:37.649650-07:00",
+      "year_rated": 1965,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/7583/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7584/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7585/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7586/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7587/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7588/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7589/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7590/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1251/?format=json",
+      "id": 1251,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1245/?format=json",
+      "date_created": "2016-04-20T08:18:37.642819-07:00",
+      "date_modified": "2016-04-20T08:18:37.642844-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1965-06-24",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:37.609868-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 889,
+  "slug": "james-fleming-gordon",
+  "name_first": "James",
+  "name_middle": "Fleming",
+  "name_last": "Gordon",
+  "name_suffix": "",
+  "date_dob": "1918-05-18",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1990-02-09",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Madisonville",
+  "dob_state": "KY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

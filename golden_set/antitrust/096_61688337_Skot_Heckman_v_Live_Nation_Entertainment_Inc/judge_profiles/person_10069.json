@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/10069/?format=json",
+  "id": 10069,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/5858/?format=json",
+      "id": 5858,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/10069/?format=json",
+      "date_created": "2020-08-11T13:14:22.473000-07:00",
+      "date_modified": "2022-03-11T15:24:21.005512-08:00",
+      "url": "https://courtlistener.com",
+      "date_accessed": "2022-03-11",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/36165/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2020-08-11T13:14:22.420000-07:00",
+  "date_modified": "2022-03-11T15:24:20.987008-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "joseph-m-scott",
+  "name_first": "Joseph",
+  "name_middle": "M",
+  "name_last": "Scott",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

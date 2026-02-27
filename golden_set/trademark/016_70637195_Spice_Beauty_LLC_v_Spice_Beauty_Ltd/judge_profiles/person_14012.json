@@ -1,0 +1,119 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14012/?format=json",
+  "id": 14012,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11106/?format=json",
+      "id": 11106,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14012/?format=json",
+      "date_created": "2022-03-08T15:04:03.883522-08:00",
+      "date_modified": "2022-03-08T15:04:03.883570-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11107/?format=json",
+      "id": 11107,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14012/?format=json",
+      "date_created": "2022-03-08T15:04:03.895384-08:00",
+      "date_modified": "2022-03-08T15:04:03.895435-08:00",
+      "url": "https://ballotpedia.org/Serena_R._Murillo",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11108/?format=json",
+      "id": 11108,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14012/?format=json",
+      "date_created": "2022-03-08T15:04:03.900560-08:00",
+      "date_modified": "2022-03-08T15:04:03.900594-08:00",
+      "url": "https://www.martindale.com/attorney/serena-raquel-murillo-141894/",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11109/?format=json",
+      "id": 11109,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14012/?format=json",
+      "date_created": "2022-03-08T15:04:03.924868-08:00",
+      "date_modified": "2022-03-08T15:04:03.924923-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-08",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9123/?format=json",
+      "id": 9123,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2832/?format=json",
+        "id": 2832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-San Diego",
+        "ein": 956006144
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14012/?format=json",
+      "date_created": "2022-03-08T15:04:03.856469-08:00",
+      "date_modified": "2022-03-08T15:04:03.856525-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1993
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9124/?format=json",
+      "id": 9124,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3104/?format=json",
+        "id": 3104,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Loyola Marymount University",
+        "ein": 951643334
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14012/?format=json",
+      "date_created": "2022-03-08T15:04:03.876005-08:00",
+      "date_modified": "2022-03-08T15:04:03.876051-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1996
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43682/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:04.469749-07:00",
+  "date_modified": "2022-03-21T11:39:53.263926-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "serena-raquel-murillo",
+  "name_first": "Serena",
+  "name_middle": "Raquel",
+  "name_last": "Murillo",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Pomona",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

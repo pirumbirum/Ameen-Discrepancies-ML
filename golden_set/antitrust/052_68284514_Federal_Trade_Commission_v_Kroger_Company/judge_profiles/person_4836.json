@@ -1,0 +1,50 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4836/?format=json",
+  "id": 4836,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1047/?format=json",
+      "id": 1047,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4836/?format=json",
+      "date_created": "2016-04-20T08:25:34.093697-07:00",
+      "date_modified": "2016-04-20T08:25:34.093719-07:00",
+      "url": "http://mn.gov/lawlib/judgebio.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25819/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25817/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25818/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:34.038964-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "martin-a-nelson",
+  "name_first": "Martin",
+  "name_middle": "A.",
+  "name_last": "Nelson",
+  "name_suffix": "",
+  "date_dob": "1889-02-21",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1979-05-22",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

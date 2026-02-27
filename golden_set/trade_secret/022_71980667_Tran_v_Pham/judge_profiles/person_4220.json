@@ -1,0 +1,51 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4220/?format=json",
+  "id": 4220,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/265/?format=json",
+      "id": 265,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4220/?format=json",
+      "date_created": "2016-04-20T08:24:46.547923-07:00",
+      "date_modified": "2016-04-20T08:24:46.547955-07:00",
+      "url": "http://www.state.il.us/court/supremecourt/Justices/Bio_Freeman.asp // http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/100021934130",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24062/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24063/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24064/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24065/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:46.477307-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "charles-e-freeman",
+  "name_first": "Charles",
+  "name_middle": "E.",
+  "name_last": "Freeman",
+  "name_suffix": "",
+  "date_dob": "1934-12-12",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

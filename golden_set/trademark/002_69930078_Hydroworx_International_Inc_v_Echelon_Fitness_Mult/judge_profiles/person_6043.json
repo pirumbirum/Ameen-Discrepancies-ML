@@ -1,0 +1,73 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6043/?format=json",
+  "id": 6043,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2397/?format=json",
+      "id": 2397,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6043/?format=json",
+      "date_created": "2016-04-20T08:27:08.551837-07:00",
+      "date_modified": "2016-04-20T08:27:08.551858-07:00",
+      "url": "http://www.courtswv.gov/public-resources/student-resources/LAWS/handbook.pdf",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2398/?format=json",
+      "id": 2398,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6043/?format=json",
+      "date_created": "2016-04-20T08:27:08.557759-07:00",
+      "date_modified": "2016-04-20T08:27:08.557781-07:00",
+      "url": "http://politicalgraveyard.com/bio/wilson2.html#085.83.79",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/29236/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/39063/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4664/?format=json",
+      "id": 4664,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6043/?format=json",
+      "date_created": "2016-04-20T08:27:08.545616-07:00",
+      "date_modified": "2016-04-20T08:27:08.545641-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:08.528215-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "donald-r-wilson",
+  "name_first": "Donald",
+  "name_middle": "R.",
+  "name_last": "Wilson",
+  "name_suffix": "",
+  "date_dob": "1917-05-17",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1983-11-28",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

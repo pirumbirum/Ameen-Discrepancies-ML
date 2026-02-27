@@ -1,0 +1,93 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2166/?format=json",
+  "id": 2166,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1787/?format=json",
+      "id": 1787,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/719/?format=json",
+        "id": 719,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Fordham University",
+        "ein": 131740451
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2166/?format=json",
+      "date_created": "2016-04-20T08:20:51.081203-07:00",
+      "date_modified": "2016-04-20T08:20:51.081227-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1914
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1788/?format=json",
+      "id": 1788,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/719/?format=json",
+        "id": 719,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Fordham University",
+        "ein": 131740451
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2166/?format=json",
+      "date_created": "2016-04-20T08:20:51.111146-07:00",
+      "date_modified": "2016-04-20T08:20:51.111188-07:00",
+      "degree_level": "llb",
+      "degree_detail": "LL.B.",
+      "degree_year": 1917
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/13519/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13520/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2174/?format=json",
+      "id": 2174,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2166/?format=json",
+      "date_created": "2016-04-20T08:20:51.051779-07:00",
+      "date_modified": "2016-04-20T08:20:51.051803-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1943-05-24",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:51.021790-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1576,
+  "slug": "gerald-mclaughlin",
+  "name_first": "Gerald",
+  "name_middle": "",
+  "name_last": "McLaughlin",
+  "name_suffix": "",
+  "date_dob": "1893-05-11",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1977-12-06",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Newark",
+  "dob_state": "NJ",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13232/?format=json",
+  "id": 13232,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10982/?format=json",
+      "id": 10982,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13232/?format=json",
+      "date_created": "2022-03-08T11:30:18.040222-08:00",
+      "date_modified": "2022-03-08T11:30:18.040257-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10983/?format=json",
+      "id": 10983,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13232/?format=json",
+      "date_created": "2022-03-08T11:30:18.052058-08:00",
+      "date_modified": "2022-03-08T11:30:18.052079-08:00",
+      "url": "https://ballotpedia.org/Craig_Mitchell",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10984/?format=json",
+      "id": 10984,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13232/?format=json",
+      "date_created": "2022-03-08T11:30:18.067487-08:00",
+      "date_modified": "2022-03-08T11:30:18.067520-08:00",
+      "url": "https://www.martindale.com/attorney/craig-jordan-mitchell-154441/",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10985/?format=json",
+      "id": 10985,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13232/?format=json",
+      "date_created": "2022-03-08T11:30:18.077389-08:00",
+      "date_modified": "2022-03-08T11:30:18.077416-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-08",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9063/?format=json",
+      "id": 9063,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13232/?format=json",
+      "date_created": "2022-03-08T11:30:18.018672-08:00",
+      "date_modified": "2022-03-08T11:30:18.018697-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1978
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9064/?format=json",
+      "id": 9064,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3119/?format=json",
+        "id": 3119,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southwestern Law School",
+        "ein": 951246140
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13232/?format=json",
+      "date_created": "2022-03-08T11:30:18.029475-08:00",
+      "date_modified": "2022-03-08T11:30:18.029496-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1991
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42668/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6444/?format=json",
+      "id": 6444,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13232/?format=json",
+      "date_created": "2022-03-08T11:30:18.002977-08:00",
+      "date_modified": "2022-03-08T11:30:18.003001-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6445/?format=json",
+      "id": 6445,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13232/?format=json",
+      "date_created": "2022-03-08T11:30:18.011182-08:00",
+      "date_modified": "2022-03-08T11:30:18.011204-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:28.909437-07:00",
+  "date_modified": "2022-03-21T11:22:59.299459-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "craig-jordan-mitchell",
+  "name_first": "Craig",
+  "name_middle": "Jordan",
+  "name_last": "Mitchell",
+  "name_suffix": "",
+  "date_dob": "1957-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

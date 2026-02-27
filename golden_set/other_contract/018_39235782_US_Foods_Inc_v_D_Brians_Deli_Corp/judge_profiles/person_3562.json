@@ -1,0 +1,61 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3562/?format=json",
+  "id": 3562,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22420/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22421/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22422/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22423/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22424/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22425/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22426/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22427/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22428/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3581/?format=json",
+      "id": 3581,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3562/?format=json",
+      "date_created": "2016-04-20T08:24:06.467081-07:00",
+      "date_modified": "2016-04-20T08:24:06.467104-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1903-11-10",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:06.433751-07:00",
+  "date_modified": "2020-11-25T08:30:18.921061-08:00",
+  "date_completed": null,
+  "fjc_id": 2658,
+  "slug": "daniel-thew-wright",
+  "name_first": "Daniel",
+  "name_middle": "Thew",
+  "name_last": "Wright",
+  "name_suffix": "",
+  "date_dob": "1864-09-24",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1943-11-18",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Riverside",
+  "dob_state": "OH",
+  "dob_country": "United States",
+  "dod_city": "Fenwick",
+  "dod_state": "MD",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

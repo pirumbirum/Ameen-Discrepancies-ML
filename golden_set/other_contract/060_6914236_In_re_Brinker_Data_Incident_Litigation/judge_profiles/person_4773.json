@@ -1,0 +1,103 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4773/?format=json",
+  "id": 4773,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/982/?format=json",
+      "id": 982,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4773/?format=json",
+      "date_created": "2016-04-20T08:25:27.659381-07:00",
+      "date_modified": "2016-04-20T08:25:27.659404-07:00",
+      "url": "http://www.micourthistory.org/justices/maura-corrigan/",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3907/?format=json",
+      "id": 3907,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1661/?format=json",
+        "id": 1661,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Marygrove College",
+        "ein": 381358399
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4773/?format=json",
+      "date_created": "2016-04-20T08:25:27.599152-07:00",
+      "date_modified": "2016-04-20T08:25:27.599209-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3908/?format=json",
+      "id": 3908,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1657/?format=json",
+        "id": 1657,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Detroit Mercy",
+        "ein": 381360586
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4773/?format=json",
+      "date_created": "2016-04-20T08:25:27.632095-07:00",
+      "date_modified": "2016-04-20T08:25:27.632150-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25629/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25630/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25631/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4074/?format=json",
+      "id": 4074,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4773/?format=json",
+      "date_created": "2016-04-20T08:25:27.655101-07:00",
+      "date_modified": "2016-04-20T08:25:27.655131-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:27.574926-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "maura-d-corrigan",
+  "name_first": "Maura",
+  "name_middle": "D.",
+  "name_last": "Corrigan",
+  "name_suffix": "",
+  "date_dob": "1948-06-14",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,86 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4364/?format=json",
+  "id": 4364,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/410/?format=json",
+      "id": 410,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4364/?format=json",
+      "date_created": "2016-04-20T08:24:57.050166-07:00",
+      "date_modified": "2016-04-20T08:24:57.050195-07:00",
+      "url": "http://site.ebrary.com/lib/columbia/reader.action?docID=10955894",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3518/?format=json",
+      "id": 3518,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1443/?format=json",
+        "id": 1443,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Wabash College",
+        "ein": 350868202
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4364/?format=json",
+      "date_created": "2016-04-20T08:24:57.010237-07:00",
+      "date_modified": "2016-04-20T08:24:57.010268-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24500/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24501/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24502/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24503/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32073/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3940/?format=json",
+      "id": 3940,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4364/?format=json",
+      "date_created": "2016-04-20T08:24:57.044266-07:00",
+      "date_modified": "2016-04-20T08:24:57.044305-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:56.984635-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "william-a-woods",
+  "name_first": "William",
+  "name_middle": "A.",
+  "name_last": "Woods",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

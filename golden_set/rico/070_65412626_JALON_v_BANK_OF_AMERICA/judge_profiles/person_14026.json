@@ -1,0 +1,119 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14026/?format=json",
+  "id": 14026,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12103/?format=json",
+      "id": 12103,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14026/?format=json",
+      "date_created": "2022-03-11T15:40:34.431397-08:00",
+      "date_modified": "2022-03-11T15:40:34.431422-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-11",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12104/?format=json",
+      "id": 12104,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14026/?format=json",
+      "date_created": "2022-03-11T15:40:34.436703-08:00",
+      "date_modified": "2022-03-11T15:40:34.436729-08:00",
+      "url": "https://www.linkedin.com/in/stuart-scott-81605711/",
+      "date_accessed": "2022-03-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12105/?format=json",
+      "id": 12105,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14026/?format=json",
+      "date_created": "2022-03-11T15:40:34.440976-08:00",
+      "date_modified": "2022-03-11T15:40:34.441002-08:00",
+      "url": "https://ballotpedia.org/Stuart_Scott",
+      "date_accessed": "2022-03-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12106/?format=json",
+      "id": 12106,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14026/?format=json",
+      "date_created": "2022-03-11T15:40:34.448321-08:00",
+      "date_modified": "2022-03-11T15:40:34.448347-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-11",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9615/?format=json",
+      "id": 9615,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2139/?format=json",
+        "id": 2139,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Westminster College",
+        "ein": 430652617
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14026/?format=json",
+      "date_created": "2022-03-11T15:40:34.417900-08:00",
+      "date_modified": "2022-03-11T15:40:34.417926-08:00",
+      "degree_level": "ba",
+      "degree_detail": "English Language Literature/Letters",
+      "degree_year": 1988
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9616/?format=json",
+      "id": 9616,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5312/?format=json",
+        "id": 5312,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Santa Clara University",
+        "ein": 941156697
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14026/?format=json",
+      "date_created": "2022-03-11T15:40:34.426685-08:00",
+      "date_modified": "2022-03-11T15:40:34.426711-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1992
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43696/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:04.921452-07:00",
+  "date_modified": "2022-03-23T10:15:02.525938-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "stuart-j-scott",
+  "name_first": "Stuart",
+  "name_middle": "J.",
+  "name_last": "Scott",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

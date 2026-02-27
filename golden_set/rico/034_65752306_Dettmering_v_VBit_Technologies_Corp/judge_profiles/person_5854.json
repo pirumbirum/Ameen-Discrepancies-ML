@@ -1,0 +1,104 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5854/?format=json",
+  "id": 5854,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2070/?format=json",
+      "id": 2070,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5854/?format=json",
+      "date_created": "2016-04-20T08:26:53.346521-07:00",
+      "date_modified": "2016-04-20T08:26:53.346543-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/100002397782",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4841/?format=json",
+      "id": 4841,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5100/?format=json",
+        "id": 5100,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Utah",
+        "ein": 876000525
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5854/?format=json",
+      "date_created": "2016-04-20T08:26:53.296922-07:00",
+      "date_modified": "2016-04-20T08:26:53.296946-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4842/?format=json",
+      "id": 4842,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5100/?format=json",
+        "id": 5100,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Utah",
+        "ein": 876000525
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5854/?format=json",
+      "date_created": "2016-04-20T08:26:53.311483-07:00",
+      "date_modified": "2016-04-20T08:26:53.311506-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/28655/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28656/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28657/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28658/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4560/?format=json",
+      "id": 4560,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5854/?format=json",
+      "date_created": "2016-04-20T08:26:53.340609-07:00",
+      "date_modified": "2016-04-20T08:26:53.340633-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:53.271846-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "gordon-r-hall",
+  "name_first": "Gordon",
+  "name_middle": "R.",
+  "name_last": "Hall",
+  "name_suffix": "",
+  "date_dob": "1926-12-14",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

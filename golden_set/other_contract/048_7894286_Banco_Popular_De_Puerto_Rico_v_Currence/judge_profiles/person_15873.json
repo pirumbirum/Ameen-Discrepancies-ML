@@ -1,0 +1,189 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15873/?format=json",
+  "id": 15873,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18936/?format=json",
+      "id": 18936,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15873/?format=json",
+      "date_created": "2022-07-20T09:58:54.701165-07:00",
+      "date_modified": "2022-07-20T09:58:54.701177-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-20",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18937/?format=json",
+      "id": 18937,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15873/?format=json",
+      "date_created": "2022-07-20T10:14:09.093897-07:00",
+      "date_modified": "2022-07-20T10:14:09.093922-07:00",
+      "url": "https://www.justex.net/courts/civil/CourtSection.aspx?crt=16&sid=880",
+      "date_accessed": "2022-07-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18938/?format=json",
+      "id": 18938,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15873/?format=json",
+      "date_created": "2022-07-20T10:14:09.096063-07:00",
+      "date_modified": "2022-07-20T10:14:09.096074-07:00",
+      "url": "https://www.justex.net/Courts/Civil/CivilCourt.aspx?crt=16",
+      "date_accessed": "2022-07-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18939/?format=json",
+      "id": 18939,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15873/?format=json",
+      "date_created": "2022-07-20T10:14:09.096917-07:00",
+      "date_modified": "2022-07-20T10:14:09.096942-07:00",
+      "url": "https://ballotpedia.org/Beau_Miller",
+      "date_accessed": "2022-07-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18940/?format=json",
+      "id": 18940,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15873/?format=json",
+      "date_created": "2022-07-20T10:14:09.097727-07:00",
+      "date_modified": "2022-07-20T10:14:09.097743-07:00",
+      "url": "https://votebeaumiller.com/meet-beau/",
+      "date_accessed": "2022-07-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18941/?format=json",
+      "id": 18941,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15873/?format=json",
+      "date_created": "2022-07-20T10:14:09.098539-07:00",
+      "date_modified": "2022-07-20T10:14:09.098553-07:00",
+      "url": "https://www.linkedin.com/in/beau-miller-76138230/",
+      "date_accessed": "2022-07-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18942/?format=json",
+      "id": 18942,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15873/?format=json",
+      "date_created": "2022-07-20T10:14:09.099268-07:00",
+      "date_modified": "2022-07-20T10:14:09.099284-07:00",
+      "url": "https://trellis.law/judge/beau.a.miller",
+      "date_accessed": "2022-07-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18943/?format=json",
+      "id": 18943,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15873/?format=json",
+      "date_created": "2022-07-20T10:14:09.100050-07:00",
+      "date_modified": "2022-07-20T10:14:09.100066-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=62884&office=19296",
+      "date_accessed": "2022-07-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18944/?format=json",
+      "id": 18944,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15873/?format=json",
+      "date_created": "2022-07-20T10:14:09.100828-07:00",
+      "date_modified": "2022-07-20T10:14:09.100843-07:00",
+      "url": "",
+      "date_accessed": "2022-07-20",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12346/?format=json",
+      "id": 12346,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/396/?format=json",
+        "id": 396,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Louisiana State University-System Office",
+        "ein": 726000848
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15873/?format=json",
+      "date_created": "2022-07-20T09:58:54.691467-07:00",
+      "date_modified": "2022-07-20T09:58:54.691485-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Mechanical Engineering",
+      "degree_year": 1995
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12347/?format=json",
+      "id": 12347,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15873/?format=json",
+      "date_created": "2022-07-20T09:58:54.695574-07:00",
+      "date_modified": "2022-07-20T09:58:54.695587-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2001
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51128/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51129/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51130/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51131/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51132/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51133/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51134/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8307/?format=json",
+      "id": 8307,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15873/?format=json",
+      "date_created": "2022-07-20T09:58:54.698011-07:00",
+      "date_modified": "2022-07-20T09:58:54.698027-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-20T09:58:54.681183-07:00",
+  "date_modified": "2022-07-20T10:19:46.701893-07:00",
+  "date_completed": "2022-07-20T09:57:17-07:00",
+  "fjc_id": null,
+  "slug": "beau-a-miller",
+  "name_first": "Beau",
+  "name_middle": "A.",
+  "name_last": "Miller",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

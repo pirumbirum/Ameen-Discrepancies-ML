@@ -1,0 +1,67 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1274/?format=json",
+  "id": 1274,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/778/?format=json",
+      "id": 778,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1274/?format=json",
+      "date_created": "2016-04-20T08:18:41.762961-07:00",
+      "date_modified": "2016-04-20T08:18:41.762983-07:00",
+      "year_rated": 1968,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/7734/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7735/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7736/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7737/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7738/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1280/?format=json",
+      "id": 1280,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1274/?format=json",
+      "date_created": "2016-04-20T08:18:41.756253-07:00",
+      "date_modified": "2016-04-20T08:18:41.756278-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1968-04-11",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:41.723299-07:00",
+  "date_modified": "2020-11-25T08:30:18.538909-08:00",
+  "date_completed": null,
+  "fjc_id": 910,
+  "slug": "june-lazenby-green",
+  "name_first": "June",
+  "name_middle": "Lazenby",
+  "name_last": "Green",
+  "name_suffix": "",
+  "date_dob": "1914-01-23",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2001-02-02",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Arnold",
+  "dob_state": "MD",
+  "dob_country": "United States",
+  "dod_city": "Arnold",
+  "dod_state": "MD",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

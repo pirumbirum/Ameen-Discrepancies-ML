@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1625/?format=json",
+  "id": 1625,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/994/?format=json",
+      "id": 994,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1625/?format=json",
+      "date_created": "2016-04-20T08:19:32.453958-07:00",
+      "date_modified": "2016-04-20T08:19:32.453980-07:00",
+      "year_rated": 1997,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9971/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9972/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9973/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9974/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9975/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9976/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9977/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9978/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1631/?format=json",
+      "id": 1631,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1625/?format=json",
+      "date_created": "2016-04-20T08:19:32.447484-07:00",
+      "date_modified": "2016-04-20T08:19:32.447509-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1997-07-24",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:32.414992-07:00",
+  "date_modified": "2020-11-25T08:30:20.563390-08:00",
+  "date_completed": null,
+  "fjc_id": 2734,
+  "slug": "martin-j-jenkins",
+  "name_first": "Martin",
+  "name_middle": "J.",
+  "name_last": "Jenkins",
+  "name_suffix": "",
+  "date_dob": "1953-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "San Francisco",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

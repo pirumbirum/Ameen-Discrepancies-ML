@@ -1,0 +1,159 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15707/?format=json",
+  "id": 15707,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18100/?format=json",
+      "id": 18100,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15707/?format=json",
+      "date_created": "2022-07-07T14:48:13.557528-07:00",
+      "date_modified": "2022-07-07T14:48:13.557540-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-07",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18101/?format=json",
+      "id": 18101,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15707/?format=json",
+      "date_created": "2022-07-07T14:58:34.213049-07:00",
+      "date_modified": "2022-07-07T14:58:34.213076-07:00",
+      "url": "https://trellis.law/judge/brett.allen.hall#:~:text=Brett%20Allen%20Hall%20is%20a,of%20Texas%20Arlington%20in%201974.",
+      "date_accessed": "2022-07-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18102/?format=json",
+      "id": 18102,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15707/?format=json",
+      "date_created": "2022-07-07T14:58:34.214688-07:00",
+      "date_modified": "2022-07-07T14:58:34.214700-07:00",
+      "url": "https://ballotpedia.org/Brett_Hall_(Texas)",
+      "date_accessed": "2022-07-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18103/?format=json",
+      "id": 18103,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15707/?format=json",
+      "date_created": "2022-07-07T14:58:34.215920-07:00",
+      "date_modified": "2022-07-07T14:58:34.215935-07:00",
+      "url": "https://www.rockwallcountytexas.com/directory.aspx?EID=88",
+      "date_accessed": "2022-07-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18104/?format=json",
+      "id": 18104,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15707/?format=json",
+      "date_created": "2022-07-07T14:58:34.217129-07:00",
+      "date_modified": "2022-07-07T14:58:34.217143-07:00",
+      "url": "https://www.martindale.com/attorney/mr-brett-allen-hall-1700169/",
+      "date_accessed": "2022-07-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18105/?format=json",
+      "id": 18105,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15707/?format=json",
+      "date_created": "2022-07-07T14:58:34.218290-07:00",
+      "date_modified": "2022-07-07T14:58:34.218302-07:00",
+      "url": "",
+      "date_accessed": "2022-07-07",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12114/?format=json",
+      "id": 12114,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/199/?format=json",
+        "id": 199,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Arlington",
+        "ein": 756000121
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15707/?format=json",
+      "date_created": "2022-07-07T14:48:13.545244-07:00",
+      "date_modified": "2022-07-07T14:48:13.545258-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1974
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12115/?format=json",
+      "id": 12115,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1481/?format=json",
+        "id": 1481,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southern Methodist University",
+        "ein": 750800689
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15707/?format=json",
+      "date_created": "2022-07-07T14:48:13.550583-07:00",
+      "date_modified": "2022-07-07T14:48:13.550600-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1978
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50443/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50444/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50445/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50446/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50447/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50448/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50449/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8202/?format=json",
+      "id": 8202,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15707/?format=json",
+      "date_created": "2022-07-07T14:48:13.552992-07:00",
+      "date_modified": "2022-07-07T14:48:13.553008-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-07T14:48:13.447445-07:00",
+  "date_modified": "2022-07-07T14:58:34.148568-07:00",
+  "date_completed": "2022-07-07T14:40:55-07:00",
+  "fjc_id": null,
+  "slug": "brett-allen-hall",
+  "name_first": "Brett",
+  "name_middle": "Allen",
+  "name_last": "Hall",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

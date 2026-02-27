@@ -1,0 +1,88 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5971/?format=json",
+  "id": 5971,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2233/?format=json",
+      "id": 2233,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5971/?format=json",
+      "date_created": "2016-04-20T08:27:02.267844-07:00",
+      "date_modified": "2016-04-20T08:27:02.267865-07:00",
+      "url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/bios/?fa=scbios.display_file&fileID=gonzalez",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5011/?format=json",
+      "id": 5011,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1201/?format=json",
+        "id": 1201,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Pitzer College",
+        "ein": 952261113
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5971/?format=json",
+      "date_created": "2016-04-20T08:27:02.238698-07:00",
+      "date_modified": "2016-04-20T08:27:02.238724-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5012/?format=json",
+      "id": 5012,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5971/?format=json",
+      "date_created": "2016-04-20T08:27:02.254174-07:00",
+      "date_modified": "2016-04-20T08:27:02.254199-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/29009/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29010/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:02.213547-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "steven-c-gonzalez",
+  "name_first": "Steven",
+  "name_middle": "C.",
+  "name_last": "Gonzalez",
+  "name_suffix": "",
+  "date_dob": "1963-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

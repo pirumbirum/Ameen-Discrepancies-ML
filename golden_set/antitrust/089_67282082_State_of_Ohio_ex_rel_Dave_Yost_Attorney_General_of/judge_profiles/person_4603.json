@@ -1,0 +1,76 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4603/?format=json",
+  "id": 4603,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/706/?format=json",
+      "id": 706,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4603/?format=json",
+      "date_created": "2016-04-20T08:25:12.915229-07:00",
+      "date_modified": "2016-04-20T08:25:12.915268-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/100002654686",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/707/?format=json",
+      "id": 707,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4603/?format=json",
+      "date_created": "2016-04-20T08:25:12.921987-07:00",
+      "date_modified": "2016-04-20T08:25:12.922025-07:00",
+      "url": "http://www.lasc.org/Bicentennial/justices.aspx",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25063/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25064/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25065/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25066/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25067/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4023/?format=json",
+      "id": 4023,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4603/?format=json",
+      "date_created": "2016-04-20T08:25:12.910337-07:00",
+      "date_modified": "2016-04-20T08:25:12.910380-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:12.817795-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jack-c-watson",
+  "name_first": "Jack",
+  "name_middle": "C.",
+  "name_last": "Watson",
+  "name_suffix": "",
+  "date_dob": "1928-09-17",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

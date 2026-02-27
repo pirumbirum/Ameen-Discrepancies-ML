@@ -1,0 +1,143 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13861/?format=json",
+  "id": 13861,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8253/?format=json",
+      "id": 8253,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13861/?format=json",
+      "date_created": "2022-02-22T17:06:52.079108-08:00",
+      "date_modified": "2022-03-19T10:23:27.100262-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-19",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8254/?format=json",
+      "id": 8254,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13861/?format=json",
+      "date_created": "2022-02-22T17:06:52.085608-08:00",
+      "date_modified": "2022-02-22T17:06:52.085630-08:00",
+      "url": "https://ballotpedia.org/Tara_M._Flanagan",
+      "date_accessed": "2022-02-22",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8255/?format=json",
+      "id": 8255,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13861/?format=json",
+      "date_created": "2022-02-22T17:06:52.093879-08:00",
+      "date_modified": "2022-02-22T17:06:52.093901-08:00",
+      "url": "https://www.martindale.com/attorney/tara-mary-anne-flanagan-88238/",
+      "date_accessed": "2022-02-22",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8256/?format=json",
+      "id": 8256,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13861/?format=json",
+      "date_created": "2022-02-22T17:06:52.101363-08:00",
+      "date_modified": "2022-02-22T17:06:52.101385-08:00",
+      "url": "https://trellis.law/judge/tara.m.flanagan",
+      "date_accessed": "2022-02-22",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8257/?format=json",
+      "id": 8257,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13861/?format=json",
+      "date_created": "2022-02-22T17:06:52.111274-08:00",
+      "date_modified": "2022-02-22T17:06:52.111297-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-22",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7862/?format=json",
+      "id": 7862,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4091/?format=json",
+        "id": 4091,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "California State University-Northridge",
+        "ein": 946001347
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13861/?format=json",
+      "date_created": "2022-02-22T17:06:52.058409-08:00",
+      "date_modified": "2022-02-22T17:06:52.058434-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1987
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7863/?format=json",
+      "id": 7863,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3119/?format=json",
+        "id": 3119,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southwestern Law School",
+        "ein": 951246140
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13861/?format=json",
+      "date_created": "2022-02-22T17:06:52.067670-08:00",
+      "date_modified": "2022-02-22T17:06:52.067693-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1998
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43501/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5660/?format=json",
+      "id": 5660,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13861/?format=json",
+      "date_created": "2022-02-22T17:06:52.074200-08:00",
+      "date_modified": "2022-02-22T17:06:52.074224-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:57.797056-07:00",
+  "date_modified": "2022-03-19T10:23:27.084395-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "tara-m-flanagan",
+  "name_first": "Tara",
+  "name_middle": "M.",
+  "name_last": "Flanagan",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

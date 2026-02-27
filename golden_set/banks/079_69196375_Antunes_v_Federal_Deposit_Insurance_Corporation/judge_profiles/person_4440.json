@@ -1,0 +1,64 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4440/?format=json",
+  "id": 4440,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/479/?format=json",
+      "id": 479,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4440/?format=json",
+      "date_created": "2016-04-20T08:25:00.728649-07:00",
+      "date_modified": "2016-04-20T08:25:00.728678-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/100016768402",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24623/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24624/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24625/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3963/?format=json",
+      "id": 3963,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4440/?format=json",
+      "date_created": "2016-04-20T08:25:00.722372-07:00",
+      "date_modified": "2016-04-20T08:25:00.722404-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:00.641831-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "g-king-thompson",
+  "name_first": "G",
+  "name_middle": "King",
+  "name_last": "Thompson",
+  "name_suffix": "",
+  "date_dob": "1877-11-24",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,94 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1503/?format=json",
+  "id": 1503,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/924/?format=json",
+      "id": 924,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1503/?format=json",
+      "date_created": "2016-04-20T08:19:15.146670-07:00",
+      "date_modified": "2016-04-20T08:19:15.146692-07:00",
+      "year_rated": 1994,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1258/?format=json",
+      "id": 1258,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1503/?format=json",
+      "date_created": "2016-04-20T08:19:15.161091-07:00",
+      "date_modified": "2016-04-20T08:19:15.161115-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1973
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9178/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9172/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9173/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9174/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9175/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9176/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9177/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9179/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9180/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9181/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9182/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9183/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1511/?format=json",
+      "id": 1511,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1503/?format=json",
+      "date_created": "2016-04-20T08:19:15.139593-07:00",
+      "date_modified": "2016-04-20T08:19:15.139617-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1994-09-22",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:15.108139-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1083,
+  "slug": "sven-erik-holmes",
+  "name_first": "Sven",
+  "name_middle": "Erik",
+  "name_last": "Holmes",
+  "name_suffix": "",
+  "date_dob": "1951-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Grand Junction",
+  "dob_state": "CO",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

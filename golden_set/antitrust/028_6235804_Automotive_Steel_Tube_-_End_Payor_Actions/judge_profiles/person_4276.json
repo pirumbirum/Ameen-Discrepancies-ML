@@ -1,0 +1,64 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4276/?format=json",
+  "id": 4276,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/323/?format=json",
+      "id": 323,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4276/?format=json",
+      "date_created": "2016-04-20T08:24:50.476311-07:00",
+      "date_modified": "2016-04-20T08:24:50.476333-07:00",
+      "url": "http://site.ebrary.com/lib/columbia/reader.action?docID=10955894",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24209/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24210/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24211/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3881/?format=json",
+      "id": 3881,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4276/?format=json",
+      "date_created": "2016-04-20T08:24:50.470787-07:00",
+      "date_modified": "2016-04-20T08:24:50.470814-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:50.439600-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "charles-e-cox",
+  "name_first": "Charles",
+  "name_middle": "E.",
+  "name_last": "Cox",
+  "name_suffix": "",
+  "date_dob": "1860-02-21",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1936-02-03",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

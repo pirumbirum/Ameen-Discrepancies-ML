@@ -1,0 +1,137 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6508/?format=json",
+  "id": 6508,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10946/?format=json",
+      "id": 10946,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6508/?format=json",
+      "date_created": "2022-03-08T10:50:19.067826-08:00",
+      "date_modified": "2022-03-08T10:50:19.067849-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10947/?format=json",
+      "id": 10947,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6508/?format=json",
+      "date_created": "2022-03-08T10:50:19.073680-08:00",
+      "date_modified": "2022-03-08T10:50:19.073719-08:00",
+      "url": "https://ballotpedia.org/Douglas_Miller",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10948/?format=json",
+      "id": 10948,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6508/?format=json",
+      "date_created": "2022-03-08T10:50:19.078917-08:00",
+      "date_modified": "2022-03-08T10:50:19.078953-08:00",
+      "url": "https://www.martindale.com/attorney/douglas-paul-miller-106052/",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10949/?format=json",
+      "id": 10949,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6508/?format=json",
+      "date_created": "2022-03-08T10:50:19.093062-08:00",
+      "date_modified": "2022-03-08T10:50:19.093092-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-08",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9044/?format=json",
+      "id": 9044,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4707/?format=json",
+        "id": 4707,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Brigham Young University-Provo",
+        "ein": 870217280
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6508/?format=json",
+      "date_created": "2022-03-08T10:50:18.991579-08:00",
+      "date_modified": "2022-03-08T10:50:18.991603-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Economics",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9045/?format=json",
+      "id": 9045,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3219/?format=json",
+        "id": 3219,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Pepperdine University",
+        "ein": 951644037
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6508/?format=json",
+      "date_created": "2022-03-08T10:50:19.001177-08:00",
+      "date_modified": "2022-03-08T10:50:19.001213-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1978
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/41103/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/41100/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/41101/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/41102/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44487/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6434/?format=json",
+      "id": 6434,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6508/?format=json",
+      "date_created": "2022-03-08T10:50:18.982454-08:00",
+      "date_modified": "2022-03-08T10:50:18.982482-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:32.391785-07:00",
+  "date_modified": "2022-03-21T11:09:05.279315-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "douglas-paul-miller",
+  "name_first": "Douglas",
+  "name_middle": "Paul",
+  "name_last": "Miller",
+  "name_suffix": "",
+  "date_dob": "1952-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Whittier",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

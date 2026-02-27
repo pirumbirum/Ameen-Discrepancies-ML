@@ -1,0 +1,69 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1148/?format=json",
+  "id": 1148,
+  "race": [
+    "h"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/687/?format=json",
+      "id": 687,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1148/?format=json",
+      "date_created": "2016-04-20T08:18:23.820467-07:00",
+      "date_modified": "2016-04-20T08:18:23.820488-07:00",
+      "year_rated": 1979,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/6958/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6959/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6960/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6961/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6962/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6963/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6957/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1153/?format=json",
+      "id": 1153,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1148/?format=json",
+      "date_created": "2016-04-20T08:18:23.813655-07:00",
+      "date_modified": "2016-04-20T08:18:23.813679-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1979-12-19",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:23.781765-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 817,
+  "slug": "hipolito-frank-garcia",
+  "name_first": "Hipolito",
+  "name_middle": "Frank",
+  "name_last": "Garcia",
+  "name_suffix": "",
+  "date_dob": "1925-12-04",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2002-01-16",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "San Antonio",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "Austin",
+  "dod_state": "TX",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

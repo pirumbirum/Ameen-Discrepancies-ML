@@ -1,0 +1,89 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7000/?format=json",
+  "id": 7000,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3040/?format=json",
+      "id": 3040,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7000/?format=json",
+      "date_created": "2016-04-20T08:27:56.264701-07:00",
+      "date_modified": "2016-04-20T08:27:56.264722-07:00",
+      "url": "http://ballotpedia.org/Joy_Moore",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5758/?format=json",
+      "id": 5758,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5699/?format=json",
+        "id": 5699,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Syracuse University",
+        "ein": 150532081
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7000/?format=json",
+      "date_created": "2016-04-20T08:27:56.228892-07:00",
+      "date_modified": "2016-04-20T08:27:56.228916-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5759/?format=json",
+      "id": 5759,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2145/?format=json",
+        "id": 2145,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Florida",
+        "ein": 596002052
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7000/?format=json",
+      "date_created": "2016-04-20T08:27:56.243439-07:00",
+      "date_modified": "2016-04-20T08:27:56.243463-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/31030/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/31031/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/31032/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:56.205598-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "john-h-moore-ii",
+  "name_first": "John",
+  "name_middle": "H.",
+  "name_last": "Moore",
+  "name_suffix": "2",
+  "date_dob": "1927-08-05",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2013-07-18",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

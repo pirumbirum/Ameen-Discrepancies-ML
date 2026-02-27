@@ -1,0 +1,88 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4253/?format=json",
+  "id": 4253,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/298/?format=json",
+      "id": 298,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4253/?format=json",
+      "date_created": "2016-04-20T08:24:48.862373-07:00",
+      "date_modified": "2016-04-20T08:24:48.862415-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/100002629323",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3471/?format=json",
+      "id": 3471,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3788/?format=json",
+        "id": 3788,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Northwestern State University of Louisiana",
+        "ein": 726000783
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4253/?format=json",
+      "date_created": "2016-04-20T08:24:48.834900-07:00",
+      "date_modified": "2016-04-20T08:24:48.834927-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3472/?format=json",
+      "id": 3472,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3788/?format=json",
+        "id": 3788,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Northwestern State University of Louisiana",
+        "ein": 726000783
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4253/?format=json",
+      "date_created": "2016-04-20T08:24:48.849416-07:00",
+      "date_modified": "2016-04-20T08:24:48.849442-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24144/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24145/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:48.811431-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "seymour-simon",
+  "name_first": "Seymour",
+  "name_middle": "",
+  "name_last": "Simon",
+  "name_suffix": "",
+  "date_dob": "1915-08-10",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2006-09-25",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

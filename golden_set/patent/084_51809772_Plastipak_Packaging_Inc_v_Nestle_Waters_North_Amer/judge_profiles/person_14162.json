@@ -1,0 +1,147 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14162/?format=json",
+  "id": 14162,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7701/?format=json",
+      "id": 7701,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14162/?format=json",
+      "date_created": "2022-02-19T12:11:22.184462-08:00",
+      "date_modified": "2022-02-19T12:11:22.184494-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-19",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7698/?format=json",
+      "id": 7698,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14162/?format=json",
+      "date_created": "2022-02-19T12:11:22.167336-08:00",
+      "date_modified": "2022-02-19T12:11:22.167366-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-19",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7699/?format=json",
+      "id": 7699,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14162/?format=json",
+      "date_created": "2022-02-19T12:11:22.171759-08:00",
+      "date_modified": "2022-02-19T12:11:22.171780-08:00",
+      "url": "https://www.martindale.com/attorney/carlton-gomez-davis-168664250/",
+      "date_accessed": "2022-02-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7700/?format=json",
+      "id": 7700,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14162/?format=json",
+      "date_created": "2022-02-19T12:11:22.175624-08:00",
+      "date_modified": "2022-02-19T12:11:22.175643-08:00",
+      "url": "https://trellis.law/judge/carlton.g.davis",
+      "date_accessed": "2022-02-19",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7628/?format=json",
+      "id": 7628,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3858/?format=json",
+        "id": 3858,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tulane University of Louisiana",
+        "ein": 720423889
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14162/?format=json",
+      "date_created": "2022-02-19T12:11:22.129695-08:00",
+      "date_modified": "2022-02-19T12:11:22.129727-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Political Science, Sociology",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7629/?format=json",
+      "id": 7629,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3117/?format=json",
+        "id": 3117,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Southern California",
+        "ein": 951642394
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14162/?format=json",
+      "date_created": "2022-02-19T12:11:22.138271-08:00",
+      "date_modified": "2022-02-19T12:11:22.138300-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43845/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44311/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5496/?format=json",
+      "id": 5496,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14162/?format=json",
+      "date_created": "2022-02-19T12:11:22.144949-08:00",
+      "date_modified": "2022-02-19T12:11:22.144987-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5497/?format=json",
+      "id": 5497,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14162/?format=json",
+      "date_created": "2022-02-19T12:11:22.152000-08:00",
+      "date_modified": "2022-02-19T12:11:22.152040-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:10.510975-07:00",
+  "date_modified": "2022-02-19T12:11:22.110455-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "carlton-gomez-davis",
+  "name_first": "Carlton",
+  "name_middle": "Gomez",
+  "name_last": "Davis",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

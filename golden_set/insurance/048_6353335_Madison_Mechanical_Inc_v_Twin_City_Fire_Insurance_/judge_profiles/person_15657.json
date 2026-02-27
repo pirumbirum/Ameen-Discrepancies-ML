@@ -1,0 +1,139 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15657/?format=json",
+  "id": 15657,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17868/?format=json",
+      "id": 17868,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15657/?format=json",
+      "date_created": "2022-07-05T09:30:02.747370-07:00",
+      "date_modified": "2022-07-05T09:30:02.747388-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-05",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17869/?format=json",
+      "id": 17869,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15657/?format=json",
+      "date_created": "2022-07-05T09:35:42.770294-07:00",
+      "date_modified": "2022-07-05T09:35:42.770310-07:00",
+      "url": "https://ballotpedia.org/George_Gallagher",
+      "date_accessed": "2022-07-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17870/?format=json",
+      "id": 17870,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15657/?format=json",
+      "date_created": "2022-07-05T09:35:42.772088-07:00",
+      "date_modified": "2022-07-05T09:35:42.772100-07:00",
+      "url": "",
+      "date_accessed": "2022-07-05",
+      "notes": "catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17871/?format=json",
+      "id": 17871,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15657/?format=json",
+      "date_created": "2022-07-05T09:35:42.773243-07:00",
+      "date_modified": "2022-07-05T09:35:42.773257-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=22071&office=19646",
+      "date_accessed": "2022-07-05",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12037/?format=json",
+      "id": 12037,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1296/?format=json",
+        "id": 1296,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas A & M University-College Station",
+        "ein": 746000531
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15657/?format=json",
+      "date_created": "2022-07-05T09:30:02.734436-07:00",
+      "date_modified": "2022-07-05T09:30:02.734454-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1979
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12038/?format=json",
+      "id": 12038,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5154/?format=json",
+        "id": 5154,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at San Antonio",
+        "ein": 417171158
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15657/?format=json",
+      "date_created": "2022-07-05T09:30:02.740120-07:00",
+      "date_modified": "2022-07-05T09:30:02.740138-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1982
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50246/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50248/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50249/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50250/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50251/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50252/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50247/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8165/?format=json",
+      "id": 8165,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15657/?format=json",
+      "date_created": "2022-07-05T09:30:02.743511-07:00",
+      "date_modified": "2022-07-05T09:30:02.743527-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-05T09:30:02.641056-07:00",
+  "date_modified": "2022-07-05T09:58:24.484436-07:00",
+  "date_completed": "2022-07-05T09:18:48-07:00",
+  "fjc_id": null,
+  "slug": "george-w-gallagher",
+  "name_first": "George",
+  "name_middle": "W.",
+  "name_last": "Gallagher",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

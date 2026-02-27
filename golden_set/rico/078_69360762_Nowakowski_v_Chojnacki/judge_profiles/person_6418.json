@@ -1,0 +1,126 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6418/?format=json",
+  "id": 6418,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8800/?format=json",
+      "id": 8800,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6418/?format=json",
+      "date_created": "2022-02-24T16:16:41.199125-08:00",
+      "date_modified": "2022-02-24T16:16:41.199148-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-24",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8801/?format=json",
+      "id": 8801,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6418/?format=json",
+      "date_created": "2022-02-24T16:16:41.204026-08:00",
+      "date_modified": "2022-02-24T16:16:41.204049-08:00",
+      "url": "https://ballotpedia.org/Arthur_Gilbert",
+      "date_accessed": "2022-02-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8802/?format=json",
+      "id": 8802,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6418/?format=json",
+      "date_created": "2022-02-24T16:16:41.210630-08:00",
+      "date_modified": "2022-02-24T16:16:41.210653-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-24",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8082/?format=json",
+      "id": 8082,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6418/?format=json",
+      "date_created": "2022-02-24T16:16:41.149979-08:00",
+      "date_modified": "2022-02-24T16:16:41.150003-08:00",
+      "degree_level": "ba",
+      "degree_detail": "English Literature",
+      "degree_year": 1960
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8083/?format=json",
+      "id": 8083,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6418/?format=json",
+      "date_created": "2022-02-24T16:16:41.157731-08:00",
+      "date_modified": "2022-02-24T16:16:41.157754-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1963
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/37086/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/37087/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/37084/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/37085/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5782/?format=json",
+      "id": 5782,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6418/?format=json",
+      "date_created": "2022-02-24T16:16:41.163580-08:00",
+      "date_modified": "2022-02-24T16:16:41.163604-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:30.225963-07:00",
+  "date_modified": "2022-03-19T14:42:35.628635-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "arthur-gilbert",
+  "name_first": "Arthur",
+  "name_middle": "",
+  "name_last": "Gilbert",
+  "name_suffix": "",
+  "date_dob": "1937-12-29",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Los Angeles",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

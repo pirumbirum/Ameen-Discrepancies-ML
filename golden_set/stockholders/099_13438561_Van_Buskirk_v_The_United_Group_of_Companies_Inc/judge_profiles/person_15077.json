@@ -1,0 +1,172 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15077/?format=json",
+  "id": 15077,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15634/?format=json",
+      "id": 15634,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15077/?format=json",
+      "date_created": "2022-04-18T09:44:09.741688-07:00",
+      "date_modified": "2022-04-18T09:44:09.741722-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-18",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15635/?format=json",
+      "id": 15635,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15077/?format=json",
+      "date_created": "2022-04-18T09:44:09.743264-07:00",
+      "date_modified": "2022-04-18T09:44:09.743285-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=SYqPJhruyqXS5Bw62cJ7Pw%3D%3D",
+      "date_accessed": "2022-04-18",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15636/?format=json",
+      "id": 15636,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15077/?format=json",
+      "date_created": "2022-04-18T09:44:09.744325-07:00",
+      "date_modified": "2022-04-18T09:44:09.744346-07:00",
+      "url": "https://ballotpedia.org/Carol_Sharpe",
+      "date_accessed": "2022-04-18",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15637/?format=json",
+      "id": 15637,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15077/?format=json",
+      "date_created": "2022-04-18T09:44:09.745352-07:00",
+      "date_modified": "2022-04-18T09:44:09.745372-07:00",
+      "url": "https://www.bu.edu/law/2020/11/09/carol-sharpe-84-elected-to-ny-supreme-court/",
+      "date_accessed": "2022-04-18",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15638/?format=json",
+      "id": 15638,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15077/?format=json",
+      "date_created": "2022-04-18T09:44:09.746471-07:00",
+      "date_modified": "2022-04-18T09:44:09.746490-07:00",
+      "url": "https://jamaicans.com/jamaica-born-carol-sharpe-elected-to-ny-supreme-court/",
+      "date_accessed": "2022-04-18",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15639/?format=json",
+      "id": 15639,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15077/?format=json",
+      "date_created": "2022-04-18T09:44:09.747801-07:00",
+      "date_modified": "2022-04-18T09:44:09.747835-07:00",
+      "url": "http://radiojamaicanewsonline.com/local/jamaican-carol-sharpe-wins-election-to-ny-supreme-court-bench",
+      "date_accessed": "2022-04-18",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15640/?format=json",
+      "id": 15640,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15077/?format=json",
+      "date_created": "2022-04-18T09:44:09.748981-07:00",
+      "date_modified": "2022-04-18T09:44:09.749003-07:00",
+      "url": "https://www.nycaribnews.com/articles/jamaican-born-carol-sharpe-elected-to-ny-supreme-court/",
+      "date_accessed": "2022-04-18",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11297/?format=json",
+      "id": 11297,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/716/?format=json",
+        "id": 716,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "CUNY Lehman College",
+        "ein": 133893536
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15077/?format=json",
+      "date_created": "2022-04-18T09:44:09.732401-07:00",
+      "date_modified": "2022-04-18T09:44:09.732422-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1980
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11298/?format=json",
+      "id": 11298,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/601/?format=json",
+        "id": 601,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Boston University",
+        "ein": 42103547
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15077/?format=json",
+      "date_created": "2022-04-18T09:44:09.737167-07:00",
+      "date_modified": "2022-04-18T09:44:09.737192-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1984
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/48413/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48414/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48415/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48416/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48417/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48418/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48419/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48420/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48421/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48422/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7745/?format=json",
+      "id": 7745,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15077/?format=json",
+      "date_created": "2022-04-18T09:44:09.739921-07:00",
+      "date_modified": "2022-04-18T09:44:09.739942-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-18T09:44:09.717701-07:00",
+  "date_modified": "2022-06-02T19:07:28.959983-07:00",
+  "date_completed": "2022-06-02T17:56:17-07:00",
+  "fjc_id": null,
+  "slug": "carol-rosemarie-sharpe",
+  "name_first": "Carol",
+  "name_middle": "Rosemarie",
+  "name_last": "Sharpe",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "Jamaica",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

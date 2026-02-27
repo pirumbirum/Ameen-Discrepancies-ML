@@ -1,0 +1,63 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/11670/?format=json",
+  "id": 11670,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11794/?format=json",
+      "id": 11794,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11670/?format=json",
+      "date_created": "2022-03-10T15:59:38.138147-08:00",
+      "date_modified": "2022-03-10T15:59:38.138176-08:00",
+      "url": "https://courtlistener.com",
+      "date_accessed": "2022-03-10",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/39303/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/39304/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6715/?format=json",
+      "id": 6715,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11670/?format=json",
+      "date_created": "2022-03-10T15:59:38.102932-08:00",
+      "date_modified": "2022-03-10T15:59:38.102961-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:08:52.599715-07:00",
+  "date_modified": "2022-03-10T16:15:18.919317-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jesus-rodriguez",
+  "name_first": "Jesus",
+  "name_middle": "",
+  "name_last": "Rodriguez",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

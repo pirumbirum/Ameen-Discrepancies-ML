@@ -1,0 +1,83 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4958/?format=json",
+  "id": 4958,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1155/?format=json",
+      "id": 1155,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4958/?format=json",
+      "date_created": "2016-04-20T08:25:44.015697-07:00",
+      "date_modified": "2016-04-20T08:25:44.015718-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/200011076614",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4032/?format=json",
+      "id": 4032,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6050/?format=json",
+        "id": 6050,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "George Washington University",
+        "ein": 530196584
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4958/?format=json",
+      "date_created": "2016-04-20T08:25:43.996518-07:00",
+      "date_modified": "2016-04-20T08:25:43.996543-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26144/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26145/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4118/?format=json",
+      "id": 4118,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4958/?format=json",
+      "date_created": "2016-04-20T08:25:44.010830-07:00",
+      "date_modified": "2016-04-20T08:25:44.010854-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:43.942807-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "albert-anderson",
+  "name_first": "Albert",
+  "name_middle": "",
+  "name_last": "Anderson",
+  "name_suffix": "",
+  "date_dob": "1876-03-28",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

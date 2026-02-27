@@ -1,0 +1,220 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15835/?format=json",
+  "id": 15835,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18759/?format=json",
+      "id": 18759,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15835/?format=json",
+      "date_created": "2022-07-15T12:47:52.414068-07:00",
+      "date_modified": "2022-07-15T12:47:52.414086-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-15",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18761/?format=json",
+      "id": 18761,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15835/?format=json",
+      "date_created": "2022-07-15T13:36:34.955033-07:00",
+      "date_modified": "2022-07-15T13:36:34.955050-07:00",
+      "url": "https://www.txcourts.gov/4thcoa/about-the-court/justices/chief-justice-rebeca-martinez/",
+      "date_accessed": "2022-07-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18762/?format=json",
+      "id": 18762,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15835/?format=json",
+      "date_created": "2022-07-15T13:36:34.959291-07:00",
+      "date_modified": "2022-07-15T13:36:34.959308-07:00",
+      "url": "https://www.bu.edu/law/profile/rebeca-c-martinez/",
+      "date_accessed": "2022-07-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18763/?format=json",
+      "id": 18763,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15835/?format=json",
+      "date_created": "2022-07-15T13:36:34.960279-07:00",
+      "date_modified": "2022-07-15T13:36:34.960298-07:00",
+      "url": "https://www.rebeca4chief.com/",
+      "date_accessed": "2022-07-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18764/?format=json",
+      "id": 18764,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15835/?format=json",
+      "date_created": "2022-07-15T13:36:34.961197-07:00",
+      "date_modified": "2022-07-15T13:36:34.961217-07:00",
+      "url": "https://law.utexas.edu/cwil-power-summit/justice-rebeca-c-martinez/",
+      "date_accessed": "2022-07-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18765/?format=json",
+      "id": 18765,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15835/?format=json",
+      "date_created": "2022-07-15T13:36:34.962138-07:00",
+      "date_modified": "2022-07-15T13:36:34.962158-07:00",
+      "url": "https://www.purplecampaign.org/advisoryboard-rebecamartinez",
+      "date_accessed": "2022-07-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18766/?format=json",
+      "id": 18766,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15835/?format=json",
+      "date_created": "2022-07-15T13:36:34.962961-07:00",
+      "date_modified": "2022-07-15T13:36:34.962979-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=150166",
+      "date_accessed": "2022-07-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18767/?format=json",
+      "id": 18767,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15835/?format=json",
+      "date_created": "2022-07-15T13:36:34.963814-07:00",
+      "date_modified": "2022-07-15T13:36:34.963832-07:00",
+      "url": "https://texasjudges.org/judicial-comparisons-old/20204coacj/",
+      "date_accessed": "2022-07-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18768/?format=json",
+      "id": 18768,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15835/?format=json",
+      "date_created": "2022-07-15T13:36:34.965999-07:00",
+      "date_modified": "2022-07-15T13:36:34.966014-07:00",
+      "url": "https://ballotpedia.org/Rebeca_Martinez",
+      "date_accessed": "2022-07-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18769/?format=json",
+      "id": 18769,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15835/?format=json",
+      "date_created": "2022-07-15T13:36:34.966876-07:00",
+      "date_modified": "2022-07-15T13:36:34.966896-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=44695&office=20449",
+      "date_accessed": "2022-07-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18770/?format=json",
+      "id": 18770,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15835/?format=json",
+      "date_created": "2022-07-15T13:36:34.967707-07:00",
+      "date_modified": "2022-07-15T13:36:34.967721-07:00",
+      "url": "https://www.bexar.org/1672/Court-of-Appeals---4th-District",
+      "date_accessed": "2022-07-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18771/?format=json",
+      "id": 18771,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15835/?format=json",
+      "date_created": "2022-07-15T13:36:34.968505-07:00",
+      "date_modified": "2022-07-15T13:36:34.968523-07:00",
+      "url": "",
+      "date_accessed": "2022-07-15",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12297/?format=json",
+      "id": 12297,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/601/?format=json",
+        "id": 601,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Boston University",
+        "ein": 42103547
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15835/?format=json",
+      "date_created": "2022-07-15T12:47:52.403024-07:00",
+      "date_modified": "2022-07-15T12:47:52.403037-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12298/?format=json",
+      "id": 12298,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1481/?format=json",
+        "id": 1481,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southern Methodist University",
+        "ein": 750800689
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15835/?format=json",
+      "date_created": "2022-07-15T13:51:10.613534-07:00",
+      "date_modified": "2022-07-15T13:51:10.613553-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Political Science, Criminal Justice & Philosophy",
+      "degree_year": 1989
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50968/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50969/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50956/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50959/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50961/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50963/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50965/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50966/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8283/?format=json",
+      "id": 8283,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15835/?format=json",
+      "date_created": "2022-07-15T12:47:52.406136-07:00",
+      "date_modified": "2022-07-15T12:47:52.406149-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-15T12:47:52.321243-07:00",
+  "date_modified": "2022-07-15T13:52:33.261504-07:00",
+  "date_completed": "2022-07-15T12:32:59-07:00",
+  "fjc_id": null,
+  "slug": "rebeca-carrillo-martinez",
+  "name_first": "Rebeca",
+  "name_middle": "Carrillo",
+  "name_last": "Martinez",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

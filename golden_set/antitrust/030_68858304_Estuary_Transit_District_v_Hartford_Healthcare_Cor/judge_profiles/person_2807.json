@@ -1,0 +1,99 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2807/?format=json",
+  "id": 2807,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1759/?format=json",
+      "id": 1759,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2807/?format=json",
+      "date_created": "2016-04-20T08:22:19.115806-07:00",
+      "date_modified": "2016-04-20T08:22:19.115844-07:00",
+      "year_rated": 1966,
+      "rating": "wq"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1760/?format=json",
+      "id": 1760,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2807/?format=json",
+      "date_created": "2016-04-20T08:22:19.157183-07:00",
+      "date_modified": "2016-04-20T08:22:19.157208-07:00",
+      "year_rated": 1971,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/17583/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17584/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17585/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17586/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17587/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17588/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17589/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17590/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17591/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17592/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17593/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17594/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17595/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17596/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17597/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2815/?format=json",
+      "id": 2815,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2807/?format=json",
+      "date_created": "2016-04-20T08:22:19.108123-07:00",
+      "date_modified": "2016-04-20T08:22:19.144774-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1966-10-11",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": "1971-04-07",
+      "date_granularity_end": "%Y-%m-%d"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2816/?format=json",
+      "id": 2816,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2807/?format=json",
+      "date_created": "2016-04-20T08:22:19.151829-07:00",
+      "date_modified": "2016-04-20T08:22:19.151852-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1971-04-07",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:19.074899-07:00",
+  "date_modified": "2020-11-25T08:30:13.453367-08:00",
+  "date_completed": null,
+  "fjc_id": 2074,
+  "slug": "donald-stuart-russell",
+  "name_first": "Donald",
+  "name_middle": "Stuart",
+  "name_last": "Russell",
+  "name_suffix": "",
+  "date_dob": "1906-02-22",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1998-02-22",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Lafayette Springs",
+  "dob_state": "MS",
+  "dob_country": "United States",
+  "dod_city": "Spartanburg",
+  "dod_state": "SC",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

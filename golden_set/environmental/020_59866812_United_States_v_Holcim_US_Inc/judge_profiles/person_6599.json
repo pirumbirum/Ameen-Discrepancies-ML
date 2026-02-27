@@ -1,0 +1,133 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6599/?format=json",
+  "id": 6599,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2714/?format=json",
+      "id": 2714,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6599/?format=json",
+      "date_created": "2016-04-20T08:27:34.673612-07:00",
+      "date_modified": "2022-03-14T11:51:16.697314-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-14",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12437/?format=json",
+      "id": 12437,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6599/?format=json",
+      "date_created": "2022-03-14T11:51:16.702274-07:00",
+      "date_modified": "2022-03-14T11:51:16.702296-07:00",
+      "url": "https://www.martindale.com/attorney/ms-therese-marie-stewart-232412/",
+      "date_accessed": "2022-03-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12438/?format=json",
+      "id": 12438,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6599/?format=json",
+      "date_created": "2022-03-14T11:51:16.707283-07:00",
+      "date_modified": "2022-03-14T11:51:16.707305-07:00",
+      "url": "https://ballotpedia.org/Therese_M._Stewart",
+      "date_accessed": "2022-03-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12439/?format=json",
+      "id": 12439,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6599/?format=json",
+      "date_created": "2022-03-14T11:51:16.713210-07:00",
+      "date_modified": "2022-03-14T11:51:16.713232-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-14",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9786/?format=json",
+      "id": 9786,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2624/?format=json",
+        "id": 2624,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Cornell University",
+        "ein": 150532082
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6599/?format=json",
+      "date_created": "2022-03-14T11:51:16.683105-07:00",
+      "date_modified": "2022-03-14T11:51:16.683128-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1978
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9787/?format=json",
+      "id": 9787,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6599/?format=json",
+      "date_created": "2022-03-14T11:51:16.692998-07:00",
+      "date_modified": "2022-03-14T11:51:16.693025-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1981
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43635/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6927/?format=json",
+      "id": 6927,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6599/?format=json",
+      "date_created": "2022-03-14T11:51:16.674959-07:00",
+      "date_modified": "2022-03-14T11:51:16.674982-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:34.654714-07:00",
+  "date_modified": "2022-03-23T11:20:25.564576-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "therese-marie-stewart",
+  "name_first": "Therese",
+  "name_middle": "Marie",
+  "name_last": "Stewart",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

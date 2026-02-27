@@ -1,0 +1,143 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12802/?format=json",
+  "id": 12802,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9031/?format=json",
+      "id": 9031,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12802/?format=json",
+      "date_created": "2022-02-28T14:49:52.431599-08:00",
+      "date_modified": "2022-02-28T14:49:52.431622-08:00",
+      "url": "https://ballotpedia.org/Charles_F._Haines",
+      "date_accessed": "2022-02-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9032/?format=json",
+      "id": 9032,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12802/?format=json",
+      "date_created": "2022-02-28T14:49:52.436177-08:00",
+      "date_modified": "2022-02-28T14:49:52.436200-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-28",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9033/?format=json",
+      "id": 9033,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12802/?format=json",
+      "date_created": "2022-02-28T14:49:52.441582-08:00",
+      "date_modified": "2022-02-28T14:49:52.441605-08:00",
+      "url": "https://www.martindale.com/attorney/charles-francis-haines-231261/",
+      "date_accessed": "2022-02-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9034/?format=json",
+      "id": 9034,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12802/?format=json",
+      "date_created": "2022-02-28T14:49:52.445208-08:00",
+      "date_modified": "2022-02-28T14:49:52.445231-08:00",
+      "url": "https://trellis.law/judge/charles.f.haines",
+      "date_accessed": "2022-02-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9035/?format=json",
+      "id": 9035,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12802/?format=json",
+      "date_created": "2022-02-28T14:49:52.453054-08:00",
+      "date_modified": "2022-02-28T14:49:52.453077-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-28",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8190/?format=json",
+      "id": 8190,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3858/?format=json",
+        "id": 3858,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tulane University of Louisiana",
+        "ein": 720423889
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12802/?format=json",
+      "date_created": "2022-02-28T14:49:52.420652-08:00",
+      "date_modified": "2022-02-28T14:49:52.420676-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8191/?format=json",
+      "id": 8191,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6004/?format=json",
+        "id": 6004,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Villanova University",
+        "ein": 231352688
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12802/?format=json",
+      "date_created": "2022-02-28T14:49:52.427647-08:00",
+      "date_modified": "2022-02-28T14:49:52.427670-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/41990/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5858/?format=json",
+      "id": 5858,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12802/?format=json",
+      "date_created": "2022-02-28T14:49:52.413243-08:00",
+      "date_modified": "2022-02-28T14:49:52.413268-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:06.954461-07:00",
+  "date_modified": "2022-03-19T15:09:48.620549-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "charles-francis-haines",
+  "name_first": "Charles",
+  "name_middle": "Francis",
+  "name_last": "Haines",
+  "name_suffix": "",
+  "date_dob": "1949-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Philadelphia",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

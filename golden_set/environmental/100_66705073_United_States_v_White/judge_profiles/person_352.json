@@ -1,0 +1,107 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/352/?format=json",
+  "id": 352,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/203/?format=json",
+      "id": 203,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/352/?format=json",
+      "date_created": "2016-04-20T08:16:36.420175-07:00",
+      "date_modified": "2016-04-20T08:16:36.420202-07:00",
+      "year_rated": 2003,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/272/?format=json",
+      "id": 272,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/352/?format=json",
+      "date_created": "2016-04-20T08:16:36.436391-07:00",
+      "date_modified": "2016-04-20T08:16:36.436424-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1977
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/273/?format=json",
+      "id": 273,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1481/?format=json",
+        "id": 1481,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southern Methodist University",
+        "ein": 750800689
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/352/?format=json",
+      "date_created": "2016-04-20T08:16:36.469482-07:00",
+      "date_modified": "2016-04-20T08:16:36.469517-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1981
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/2083/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2084/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2085/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2086/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2087/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2088/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/356/?format=json",
+      "id": 356,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/352/?format=json",
+      "date_created": "2016-04-20T08:16:36.412830-07:00",
+      "date_modified": "2016-04-20T08:16:36.412859-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2003-11-24",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:36.376548-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3067,
+  "slug": "jane-j-boyle",
+  "name_first": "Jane",
+  "name_middle": "J.",
+  "name_last": "Boyle",
+  "name_suffix": "",
+  "date_dob": "1954-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Sharon",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

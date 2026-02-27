@@ -1,0 +1,87 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8307/?format=json",
+  "id": 8307,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4049/?format=json",
+      "id": 4049,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8307/?format=json",
+      "date_created": "2016-04-20T08:29:01.029790-07:00",
+      "date_modified": "2016-04-20T08:29:01.029812-07:00",
+      "url": "http://www.txcourts.gov/5thcoa/about-the-court/justices/justice-ada-brown.aspx",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6471/?format=json",
+      "id": 6471,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/276/?format=json",
+        "id": 276,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Spelman College",
+        "ein": 580566243
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8307/?format=json",
+      "date_created": "2016-04-20T08:29:01.011055-07:00",
+      "date_modified": "2016-04-20T08:29:01.011090-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6472/?format=json",
+      "id": 6472,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/265/?format=json",
+        "id": 265,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Emory University",
+        "ein": 580566256
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8307/?format=json",
+      "date_created": "2016-04-20T08:29:01.024539-07:00",
+      "date_modified": "2016-04-20T08:29:01.024571-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33293/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:29:00.977677-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "ada-brown",
+  "name_first": "Ada",
+  "name_middle": "",
+  "name_last": "Brown",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,73 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3674/?format=json",
+  "id": 3674,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3105/?format=json",
+      "id": 3105,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/291/?format=json",
+        "id": 291,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Auburn University",
+        "ein": 636000724
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3674/?format=json",
+      "date_created": "2016-04-20T08:24:18.403968-07:00",
+      "date_modified": "2016-04-20T08:24:18.404002-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22873/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22874/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22875/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3674/?format=json",
+      "id": 3674,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3674/?format=json",
+      "date_created": "2016-04-20T08:24:18.447297-07:00",
+      "date_modified": "2016-04-20T08:24:18.447331-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:18.378043-07:00",
+  "date_modified": "2020-11-25T08:30:22.109874-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "alisa-kelli-wise",
+  "name_first": "Alisa",
+  "name_middle": "Kelli",
+  "name_last": "Wise",
+  "name_suffix": "",
+  "date_dob": "1962-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

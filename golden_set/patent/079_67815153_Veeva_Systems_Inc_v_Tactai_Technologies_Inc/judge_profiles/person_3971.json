@@ -1,0 +1,58 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3971/?format=json",
+  "id": 3971,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3313/?format=json",
+      "id": 3313,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4098/?format=json",
+        "id": 4098,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Notre Dame",
+        "ein": 350868188
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3971/?format=json",
+      "date_created": "2016-04-20T08:24:33.436343-07:00",
+      "date_modified": "2016-04-20T08:24:33.436377-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23571/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23572/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:33.409253-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "james-e-murphy",
+  "name_first": "James",
+  "name_middle": "E.",
+  "name_last": "Murphy",
+  "name_suffix": "",
+  "date_dob": "1897-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": "1986-05-12",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

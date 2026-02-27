@@ -1,0 +1,127 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14385/?format=json",
+  "id": 14385,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9915/?format=json",
+      "id": 9915,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14385/?format=json",
+      "date_created": "2022-03-04T11:41:08.972743-08:00",
+      "date_modified": "2022-03-04T11:41:08.972765-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-04",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9916/?format=json",
+      "id": 9916,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14385/?format=json",
+      "date_created": "2022-03-04T11:41:08.977224-08:00",
+      "date_modified": "2022-03-04T11:41:08.977245-08:00",
+      "url": "https://trellis.law/judge/esther.p.kim",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9917/?format=json",
+      "id": 9917,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14385/?format=json",
+      "date_created": "2022-03-04T11:41:08.981799-08:00",
+      "date_modified": "2022-03-04T11:41:08.981821-08:00",
+      "url": "https://ballotpedia.org/Esther_Kim",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9918/?format=json",
+      "id": 9918,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14385/?format=json",
+      "date_created": "2022-03-04T11:41:08.989977-08:00",
+      "date_modified": "2022-03-04T11:41:08.990001-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-04",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8582/?format=json",
+      "id": 8582,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6194/?format=json",
+        "id": 6194,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Whittier College",
+        "ein": 951644048
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14385/?format=json",
+      "date_created": "2022-03-04T11:41:08.967146-08:00",
+      "date_modified": "2022-03-04T11:41:08.967168-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44080/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6118/?format=json",
+      "id": 6118,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14385/?format=json",
+      "date_created": "2022-03-04T11:41:08.948845-08:00",
+      "date_modified": "2022-03-04T11:41:08.948868-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6119/?format=json",
+      "id": 6119,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14385/?format=json",
+      "date_created": "2022-03-04T11:41:08.959919-08:00",
+      "date_modified": "2022-03-04T11:41:08.959942-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:19.462142-07:00",
+  "date_modified": "2022-03-20T16:22:09.132681-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "esther-p-kim",
+  "name_first": "Esther",
+  "name_middle": "P.",
+  "name_last": "Kim",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

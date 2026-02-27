@@ -1,0 +1,91 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1194/?format=json",
+  "id": 1194,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/727/?format=json",
+      "id": 727,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1194/?format=json",
+      "date_created": "2016-04-20T08:18:30.644031-07:00",
+      "date_modified": "2016-04-20T08:18:30.644052-07:00",
+      "year_rated": 2003,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/996/?format=json",
+      "id": 996,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/902/?format=json",
+        "id": 902,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The Dickinson School of Law of the Pennsylvania State University",
+        "ein": 246000376
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1194/?format=json",
+      "date_created": "2016-04-20T08:18:30.686223-07:00",
+      "date_modified": "2016-04-20T08:18:30.686264-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1975
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/7252/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7253/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7254/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7255/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7256/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7257/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7258/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7259/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7260/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1200/?format=json",
+      "id": 1200,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1194/?format=json",
+      "date_created": "2016-04-20T08:18:30.636928-07:00",
+      "date_modified": "2016-04-20T08:18:30.636952-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2003-04-28",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:30.598372-07:00",
+  "date_modified": "2020-11-25T08:30:11.351750-08:00",
+  "date_completed": null,
+  "fjc_id": 3032,
+  "slug": "kim-r-gibson",
+  "name_first": "Kim",
+  "name_middle": "R.",
+  "name_last": "Gibson",
+  "name_suffix": "",
+  "date_dob": "1948-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Trenton",
+  "dob_state": "NJ",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

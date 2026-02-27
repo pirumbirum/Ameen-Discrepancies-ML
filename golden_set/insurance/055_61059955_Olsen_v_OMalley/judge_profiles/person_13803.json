@@ -1,0 +1,119 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13803/?format=json",
+  "id": 13803,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12050/?format=json",
+      "id": 12050,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13803/?format=json",
+      "date_created": "2022-03-11T14:15:16.279188-08:00",
+      "date_modified": "2022-03-11T14:15:16.279228-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-11",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12051/?format=json",
+      "id": 12051,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13803/?format=json",
+      "date_created": "2022-03-11T14:15:16.283891-08:00",
+      "date_modified": "2022-03-11T14:15:16.283924-08:00",
+      "url": "https://ballotpedia.org/Alan_K._Schneider",
+      "date_accessed": "2022-03-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12052/?format=json",
+      "id": 12052,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13803/?format=json",
+      "date_created": "2022-03-11T14:15:16.288152-08:00",
+      "date_modified": "2022-03-11T14:15:16.288186-08:00",
+      "url": "https://www.martindale.com/attorney/alan-keith-schneider-117796/",
+      "date_accessed": "2022-03-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12053/?format=json",
+      "id": 12053,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13803/?format=json",
+      "date_created": "2022-03-11T14:15:16.299240-08:00",
+      "date_modified": "2022-03-11T14:15:16.299266-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-11",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9590/?format=json",
+      "id": 9590,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3394/?format=json",
+        "id": 3394,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tufts University",
+        "ein": 42103634
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13803/?format=json",
+      "date_created": "2022-03-11T14:15:16.265029-08:00",
+      "date_modified": "2022-03-11T14:15:16.265060-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1989
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9591/?format=json",
+      "id": 9591,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13803/?format=json",
+      "date_created": "2022-03-11T14:15:16.274478-08:00",
+      "date_modified": "2022-03-11T14:15:16.274503-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1993
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43427/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:55.198168-07:00",
+  "date_modified": "2022-03-21T15:23:18.069660-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "alan-keith-schneider",
+  "name_first": "Alan",
+  "name_middle": "Keith",
+  "name_last": "Schneider",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

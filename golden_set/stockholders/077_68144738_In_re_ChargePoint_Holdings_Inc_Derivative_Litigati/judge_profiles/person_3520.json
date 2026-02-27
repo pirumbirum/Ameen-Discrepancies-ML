@@ -1,0 +1,87 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3520/?format=json",
+  "id": 3520,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2212/?format=json",
+      "id": 2212,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3520/?format=json",
+      "date_created": "2016-04-20T08:24:00.262027-07:00",
+      "date_modified": "2016-04-20T08:24:00.262048-07:00",
+      "year_rated": 1966,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2950/?format=json",
+      "id": 2950,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5021/?format=json",
+        "id": 5021,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Washington University in St Louis",
+        "ein": 430653611
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3520/?format=json",
+      "date_created": "2016-04-20T08:24:00.290477-07:00",
+      "date_modified": "2016-04-20T08:24:00.290503-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1933
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22141/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22142/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22143/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22144/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22140/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3538/?format=json",
+      "id": 3538,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3520/?format=json",
+      "date_created": "2016-04-20T08:24:00.256947-07:00",
+      "date_modified": "2016-04-20T08:24:00.256972-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1966-08-17",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:00.226000-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2623,
+  "slug": "henry-seiler-wise",
+  "name_first": "Henry",
+  "name_middle": "Seiler",
+  "name_last": "Wise",
+  "name_suffix": "",
+  "date_dob": "1909-07-16",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1982-03-16",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Mt. Carmel",
+  "dob_state": "IL",
+  "dob_country": "United States",
+  "dod_city": "Danville",
+  "dod_state": "IL",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,57 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/80/?format=json",
+  "id": 80,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/274/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/275/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/276/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/277/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/278/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/81/?format=json",
+      "id": 81,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/80/?format=json",
+      "date_created": "2016-04-20T08:15:57.956551-07:00",
+      "date_modified": "2016-04-20T08:15:57.956581-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1934-03-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:15:57.919762-07:00",
+  "date_modified": "2020-11-25T08:30:10.932832-08:00",
+  "date_completed": null,
+  "fjc_id": 28,
+  "slug": "florence-ellinwood-allen",
+  "name_first": "Florence",
+  "name_middle": "Ellinwood",
+  "name_last": "Allen",
+  "name_suffix": "",
+  "date_dob": "1884-03-23",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1966-09-12",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Salt Lake City",
+  "dob_state": "UT",
+  "dob_country": "United States",
+  "dod_city": "Cleveland",
+  "dod_state": "OH",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

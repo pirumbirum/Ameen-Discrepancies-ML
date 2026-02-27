@@ -1,0 +1,106 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/16176/?format=json",
+  "id": 16176,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20570/?format=json",
+      "id": 20570,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16176/?format=json",
+      "date_created": "2022-08-08T15:32:21.328179-07:00",
+      "date_modified": "2022-08-08T15:32:21.328194-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-08-08",
+      "notes": "American Bench, 2021 ed."
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12802/?format=json",
+      "id": 12802,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6142/?format=json",
+        "id": 6142,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Palm Beach Atlantic University",
+        "ein": 591092732
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16176/?format=json",
+      "date_created": "2022-08-08T15:32:21.316606-07:00",
+      "date_modified": "2022-08-08T15:32:21.316623-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12803/?format=json",
+      "id": 12803,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3858/?format=json",
+        "id": 3858,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tulane University of Louisiana",
+        "ein": 720423889
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16176/?format=json",
+      "date_created": "2022-08-08T15:32:21.321503-07:00",
+      "date_modified": "2022-08-08T15:32:21.321515-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1999
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/52451/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52452/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52453/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52454/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8514/?format=json",
+      "id": 8514,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16176/?format=json",
+      "date_created": "2022-08-08T15:32:21.324980-07:00",
+      "date_modified": "2022-08-08T15:32:21.324996-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-08-08T15:32:21.221608-07:00",
+  "date_modified": "2022-08-08T15:32:21.221629-07:00",
+  "date_completed": "2022-08-08T15:28:38-07:00",
+  "fjc_id": null,
+  "slug": "rodney-oneil-williams",
+  "name_first": "Rodney",
+  "name_middle": "O'Neil",
+  "name_last": "Williams",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,143 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13129/?format=json",
+  "id": 13129,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8301/?format=json",
+      "id": 8301,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13129/?format=json",
+      "date_created": "2022-02-22T18:05:51.884989-08:00",
+      "date_modified": "2022-02-22T18:05:51.885015-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-22",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8302/?format=json",
+      "id": 8302,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13129/?format=json",
+      "date_created": "2022-02-22T18:05:51.890076-08:00",
+      "date_modified": "2022-02-22T18:05:51.890102-08:00",
+      "url": "https://trellis.law/judge/bryan.f.foster",
+      "date_accessed": "2022-02-22",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8303/?format=json",
+      "id": 8303,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13129/?format=json",
+      "date_created": "2022-02-22T18:05:51.894152-08:00",
+      "date_modified": "2022-02-22T18:05:51.894178-08:00",
+      "url": "https://www.martindale.com/attorney/bryan-francis-foster-195030/",
+      "date_accessed": "2022-02-22",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8304/?format=json",
+      "id": 8304,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13129/?format=json",
+      "date_created": "2022-02-22T18:05:51.901364-08:00",
+      "date_modified": "2022-02-22T18:05:51.901389-08:00",
+      "url": "https://ballotpedia.org/Bryan_Foster_(California)",
+      "date_accessed": "2022-02-22",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8305/?format=json",
+      "id": 8305,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13129/?format=json",
+      "date_created": "2022-02-22T18:05:51.910584-08:00",
+      "date_modified": "2022-02-22T18:05:51.910611-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-22",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7883/?format=json",
+      "id": 7883,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5226/?format=json",
+        "id": 5226,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of San Francisco",
+        "ein": 941156628
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13129/?format=json",
+      "date_created": "2022-02-22T18:05:51.857506-08:00",
+      "date_modified": "2022-02-22T18:05:51.857533-08:00",
+      "degree_level": "ba",
+      "degree_detail": "History",
+      "degree_year": 1970
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7884/?format=json",
+      "id": 7884,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5226/?format=json",
+        "id": 5226,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of San Francisco",
+        "ein": 941156628
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13129/?format=json",
+      "date_created": "2022-02-22T18:05:51.867772-08:00",
+      "date_modified": "2022-02-22T18:05:51.867798-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1974
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42505/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5673/?format=json",
+      "id": 5673,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13129/?format=json",
+      "date_created": "2022-02-22T18:05:51.876843-08:00",
+      "date_modified": "2022-02-22T18:05:51.876870-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:23.829943-07:00",
+  "date_modified": "2022-03-19T10:57:00.416174-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "bryan-francis-foster",
+  "name_first": "Bryan",
+  "name_middle": "Francis",
+  "name_last": "Foster",
+  "name_suffix": "",
+  "date_dob": "1948-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

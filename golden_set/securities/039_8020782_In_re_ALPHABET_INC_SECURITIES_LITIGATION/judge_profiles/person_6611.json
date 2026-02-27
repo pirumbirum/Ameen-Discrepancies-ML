@@ -1,0 +1,155 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6611/?format=json",
+  "id": 6611,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2720/?format=json",
+      "id": 2720,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6611/?format=json",
+      "date_created": "2016-04-20T08:27:34.952725-07:00",
+      "date_modified": "2016-04-20T08:27:34.952746-07:00",
+      "url": "http://www.5dca.org/Judges/Thompson/Thompson_page.shtml",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12638/?format=json",
+      "id": 12638,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6611/?format=json",
+      "date_created": "2022-03-14T18:16:16.057227-07:00",
+      "date_modified": "2022-03-14T18:16:16.057251-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-14",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12639/?format=json",
+      "id": 12639,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6611/?format=json",
+      "date_created": "2022-03-14T18:16:16.061540-07:00",
+      "date_modified": "2022-03-14T18:16:16.061563-07:00",
+      "url": "https://www.courts.ca.gov/18884.htm",
+      "date_accessed": "2022-03-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12640/?format=json",
+      "id": 12640,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6611/?format=json",
+      "date_created": "2022-03-14T18:16:16.067507-07:00",
+      "date_modified": "2022-03-14T18:16:16.067529-07:00",
+      "url": "https://ballotpedia.org/David_A._Thompson",
+      "date_accessed": "2022-03-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12641/?format=json",
+      "id": 12641,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6611/?format=json",
+      "date_created": "2022-03-14T18:16:16.078326-07:00",
+      "date_modified": "2022-03-14T18:16:16.078348-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-14",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9885/?format=json",
+      "id": 9885,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6053/?format=json",
+        "id": 6053,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Georgetown University",
+        "ein": 530196603
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6611/?format=json",
+      "date_created": "2022-03-14T18:16:16.008691-07:00",
+      "date_modified": "2022-03-14T18:16:16.008715-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Business Administration (Finance), summa cum laude",
+      "degree_year": 1980
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9886/?format=json",
+      "id": 9886,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6611/?format=json",
+      "date_created": "2022-03-14T18:16:16.019357-07:00",
+      "date_modified": "2022-03-14T18:16:16.019380-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1983
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/41403/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/41404/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7000/?format=json",
+      "id": 7000,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6611/?format=json",
+      "date_created": "2022-03-14T18:16:15.993626-07:00",
+      "date_modified": "2022-03-14T18:16:15.993650-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7001/?format=json",
+      "id": 7001,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6611/?format=json",
+      "date_created": "2022-03-14T18:16:16.000925-07:00",
+      "date_modified": "2022-03-14T18:16:16.000951-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:34.937681-07:00",
+  "date_modified": "2022-03-14T18:16:15.982142-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "david-a-thompson",
+  "name_first": "David",
+  "name_middle": "A.",
+  "name_last": "Thompson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

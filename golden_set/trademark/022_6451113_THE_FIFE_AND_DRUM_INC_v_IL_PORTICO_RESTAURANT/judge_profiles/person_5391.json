@@ -1,0 +1,65 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5391/?format=json",
+  "id": 5391,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1555/?format=json",
+      "id": 1555,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5391/?format=json",
+      "date_created": "2016-04-20T08:26:16.131244-07:00",
+      "date_modified": "2016-04-20T08:26:16.131277-07:00",
+      "url": "https://www.sconet.state.oh.us/SCO/formerjustices/bios/schneider.asp",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27407/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27408/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27409/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27410/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4317/?format=json",
+      "id": 4317,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5391/?format=json",
+      "date_created": "2016-04-20T08:26:16.125678-07:00",
+      "date_modified": "2016-04-20T08:26:16.125715-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:16.025054-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "louis-j-schneider-jr",
+  "name_first": "Louis",
+  "name_middle": "J.",
+  "name_last": "Schneider",
+  "name_suffix": "jr",
+  "date_dob": "1921-09-26",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1999-12-15",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

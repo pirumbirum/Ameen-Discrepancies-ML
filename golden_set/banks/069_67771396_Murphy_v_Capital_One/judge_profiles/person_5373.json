@@ -1,0 +1,65 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5373/?format=json",
+  "id": 5373,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1542/?format=json",
+      "id": 1542,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5373/?format=json",
+      "date_created": "2016-04-20T08:26:14.585499-07:00",
+      "date_modified": "2016-04-20T08:26:14.585520-07:00",
+      "url": "http://www.supremecourt.ohio.gov/SCO/formerjustices/bios/holmes.asp",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27352/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27353/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27354/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27355/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4299/?format=json",
+      "id": 4299,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5373/?format=json",
+      "date_created": "2016-04-20T08:26:14.579637-07:00",
+      "date_modified": "2016-04-20T08:26:14.579662-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:14.511962-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "robert-e-holmes",
+  "name_first": "Robert",
+  "name_middle": "E.",
+  "name_last": "Holmes",
+  "name_suffix": "",
+  "date_dob": "1922-11-14",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2004-07-28",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

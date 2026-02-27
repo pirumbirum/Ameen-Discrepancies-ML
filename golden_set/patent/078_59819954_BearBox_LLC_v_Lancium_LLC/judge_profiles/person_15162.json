@@ -1,0 +1,152 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15162/?format=json",
+  "id": 15162,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15987/?format=json",
+      "id": 15987,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15162/?format=json",
+      "date_created": "2022-04-19T17:10:12.776822-07:00",
+      "date_modified": "2022-04-19T17:10:12.776843-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-19",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15988/?format=json",
+      "id": 15988,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15162/?format=json",
+      "date_created": "2022-04-19T17:10:12.778672-07:00",
+      "date_modified": "2022-04-19T17:10:12.778692-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=P0seo0tJCDoaVko7Oh_PLUS_F5g%3D%3D",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15989/?format=json",
+      "id": 15989,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15162/?format=json",
+      "date_created": "2022-04-19T17:10:12.779728-07:00",
+      "date_modified": "2022-04-19T17:10:12.779749-07:00",
+      "url": "https://fundrazr.com/b1hWG3?ref=ab_7Jn6QAWzYBn7Jn6QAWzYBn",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15990/?format=json",
+      "id": 15990,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15162/?format=json",
+      "date_created": "2022-04-19T17:10:12.780914-07:00",
+      "date_modified": "2022-04-19T17:10:12.780935-07:00",
+      "url": "https://www.cornwalldems.org/news/2020/10/15/judge-e-loren-williams-for-nys-supreme-court-a-judicial-veteran-with-perspective",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15991/?format=json",
+      "id": 15991,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15162/?format=json",
+      "date_created": "2022-04-19T17:10:12.782064-07:00",
+      "date_modified": "2022-04-19T17:10:12.782086-07:00",
+      "url": "https://trellis.law/judge/e.loren.williams",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11460/?format=json",
+      "id": 11460,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/68/?format=json",
+        "id": 68,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "SUNY at Albany",
+        "ein": 146013200
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15162/?format=json",
+      "date_created": "2022-04-19T17:10:12.765742-07:00",
+      "date_modified": "2022-04-19T17:10:12.765764-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1997
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11461/?format=json",
+      "id": 11461,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/383/?format=json",
+        "id": 383,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Union College",
+        "ein": 610461768
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15162/?format=json",
+      "date_created": "2022-04-19T17:10:12.770450-07:00",
+      "date_modified": "2022-04-19T17:10:12.770471-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2004
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49018/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49019/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49020/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49021/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49022/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49023/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49024/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49025/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49026/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49027/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7818/?format=json",
+      "id": 7818,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15162/?format=json",
+      "date_created": "2022-04-19T17:10:12.774970-07:00",
+      "date_modified": "2022-04-19T17:10:12.774992-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-19T17:10:12.751351-07:00",
+  "date_modified": "2022-06-08T16:52:16.462776-07:00",
+  "date_completed": "2022-06-08T16:32:19-07:00",
+  "fjc_id": null,
+  "slug": "e-loren-williams",
+  "name_first": "E.",
+  "name_middle": "Loren",
+  "name_last": "Williams",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

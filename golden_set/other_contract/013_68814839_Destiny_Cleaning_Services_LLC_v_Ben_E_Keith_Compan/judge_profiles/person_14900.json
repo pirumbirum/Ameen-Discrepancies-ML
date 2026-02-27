@@ -1,0 +1,166 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14900/?format=json",
+  "id": 14900,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14912/?format=json",
+      "id": 14912,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14900/?format=json",
+      "date_created": "2022-04-11T11:22:21.675340-07:00",
+      "date_modified": "2022-04-11T11:22:21.675360-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=p6rJlDsUkGN9k/YgSzupGw%3D%3D",
+      "date_accessed": "2022-04-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14913/?format=json",
+      "id": 14913,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14900/?format=json",
+      "date_created": "2022-04-11T11:22:21.676847-07:00",
+      "date_modified": "2022-04-11T11:22:21.676868-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-11",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14914/?format=json",
+      "id": 14914,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14900/?format=json",
+      "date_created": "2022-04-11T11:22:21.677871-07:00",
+      "date_modified": "2022-04-11T11:22:21.677891-07:00",
+      "url": "http://ww2.nycourts.gov/admin/directory/marks_lawrence.shtml",
+      "date_accessed": "2022-04-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14915/?format=json",
+      "id": 14915,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14900/?format=json",
+      "date_created": "2022-04-11T11:22:21.678985-07:00",
+      "date_modified": "2022-04-11T11:22:21.679006-07:00",
+      "url": "https://ballotpedia.org/Lawrence_K._Marks",
+      "date_accessed": "2022-04-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14916/?format=json",
+      "id": 14916,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14900/?format=json",
+      "date_created": "2022-04-11T11:22:21.679994-07:00",
+      "date_modified": "2022-04-11T11:22:21.680014-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/Office_of_Court_Administration/Lawrence_Marks/Lawrence_Marks-632.xml",
+      "date_accessed": "2022-04-11",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10936/?format=json",
+      "id": 10936,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2624/?format=json",
+        "id": 2624,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Cornell University",
+        "ein": 150532082
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14900/?format=json",
+      "date_created": "2022-04-11T11:22:21.663006-07:00",
+      "date_modified": "2022-04-11T11:22:21.663028-07:00",
+      "degree_level": "jd",
+      "degree_detail": "cum laude",
+      "degree_year": 1982
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10937/?format=json",
+      "id": 10937,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/62/?format=json",
+        "id": 62,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Albany Law School",
+        "ein": 141338309
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14900/?format=json",
+      "date_created": "2022-04-11T11:22:21.667540-07:00",
+      "date_modified": "2022-04-11T11:22:21.667561-07:00",
+      "degree_level": "ba",
+      "degree_detail": "magna cum laude",
+      "degree_year": 1979
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44669/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44670/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44671/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46851/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46852/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46853/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46854/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46855/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46856/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46857/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46858/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7573/?format=json",
+      "id": 7573,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14900/?format=json",
+      "date_created": "2022-04-11T11:22:21.670588-07:00",
+      "date_modified": "2022-04-11T11:22:21.670608-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2009-01-01",
+      "date_granularity_start": "%Y",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7574/?format=json",
+      "id": 7574,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14900/?format=json",
+      "date_created": "2022-04-11T11:22:21.674019-07:00",
+      "date_modified": "2022-04-11T11:22:21.674041-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2014-01-01",
+      "date_granularity_start": "%Y",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-11T11:22:21.648123-07:00",
+  "date_modified": "2022-05-11T18:07:55.536129-07:00",
+  "date_completed": "2022-05-11T17:40:16-07:00",
+  "fjc_id": null,
+  "slug": "lawrence-k-marks",
+  "name_first": "Lawrence",
+  "name_middle": "K.",
+  "name_last": "Marks",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

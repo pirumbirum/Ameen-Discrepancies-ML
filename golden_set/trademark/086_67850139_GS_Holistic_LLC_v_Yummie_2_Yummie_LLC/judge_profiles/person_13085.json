@@ -1,0 +1,147 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13085/?format=json",
+  "id": 13085,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11719/?format=json",
+      "id": 11719,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13085/?format=json",
+      "date_created": "2022-03-10T13:42:50.533583-08:00",
+      "date_modified": "2022-03-10T13:42:50.533610-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-10",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11720/?format=json",
+      "id": 11720,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13085/?format=json",
+      "date_created": "2022-03-10T13:42:50.538294-08:00",
+      "date_modified": "2022-03-10T13:42:50.538321-08:00",
+      "url": "https://ballotpedia.org/Stuart_M._Rice",
+      "date_accessed": "2022-03-10",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11721/?format=json",
+      "id": 11721,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13085/?format=json",
+      "date_created": "2022-03-10T13:42:50.542518-08:00",
+      "date_modified": "2022-03-10T13:42:50.542544-08:00",
+      "url": "https://www.martindale.com/attorney/stuart-mark-rice-116748/",
+      "date_accessed": "2022-03-10",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11722/?format=json",
+      "id": 11722,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13085/?format=json",
+      "date_created": "2022-03-10T13:42:50.551469-08:00",
+      "date_modified": "2022-03-10T13:42:50.551495-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-10",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9418/?format=json",
+      "id": 9418,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3394/?format=json",
+        "id": 3394,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tufts University",
+        "ein": 42103634
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13085/?format=json",
+      "date_created": "2022-03-10T13:42:50.502117-08:00",
+      "date_modified": "2022-03-10T13:42:50.502144-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1975
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9419/?format=json",
+      "id": 9419,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/627/?format=json",
+        "id": 627,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Northeastern University",
+        "ein": 41679980
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13085/?format=json",
+      "date_created": "2022-03-10T13:42:50.513824-08:00",
+      "date_modified": "2022-03-10T13:42:50.513852-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1978
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42433/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44526/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6690/?format=json",
+      "id": 6690,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13085/?format=json",
+      "date_created": "2022-03-10T13:42:50.483412-08:00",
+      "date_modified": "2022-03-10T13:42:50.483439-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6691/?format=json",
+      "id": 6691,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13085/?format=json",
+      "date_created": "2022-03-10T13:42:50.493312-08:00",
+      "date_modified": "2022-03-10T13:42:50.493339-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:21.577252-07:00",
+  "date_modified": "2022-03-21T12:48:19.570478-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "stuart-mark-rice",
+  "name_first": "Stuart",
+  "name_middle": "Mark",
+  "name_last": "Rice",
+  "name_suffix": "",
+  "date_dob": "1954-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Boston",
+  "dob_state": "MA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

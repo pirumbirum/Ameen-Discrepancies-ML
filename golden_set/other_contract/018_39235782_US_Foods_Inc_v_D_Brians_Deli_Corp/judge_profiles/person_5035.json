@@ -1,0 +1,64 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5035/?format=json",
+  "id": 5035,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1220/?format=json",
+      "id": 1220,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5035/?format=json",
+      "date_created": "2016-04-20T08:25:49.590499-07:00",
+      "date_modified": "2016-04-20T08:25:49.590528-07:00",
+      "url": "http://nebraskalegislature.gov/pdf/bluebook/759-806.pdf",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26343/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26344/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26345/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4143/?format=json",
+      "id": 4143,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5035/?format=json",
+      "date_created": "2016-04-20T08:25:49.585947-07:00",
+      "date_modified": "2016-04-20T08:25:49.585979-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:49.528659-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "john-f-wright",
+  "name_first": "John",
+  "name_middle": "F.",
+  "name_last": "Wright",
+  "name_suffix": "",
+  "date_dob": "1945-12-24",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 0.0,
+  "ftm_eid": "6561413",
+  "has_photo": false
+}

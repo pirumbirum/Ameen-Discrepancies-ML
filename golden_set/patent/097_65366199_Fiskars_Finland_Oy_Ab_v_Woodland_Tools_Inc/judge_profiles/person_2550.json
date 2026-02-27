@@ -1,0 +1,110 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2550/?format=json",
+  "id": 2550,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1573/?format=json",
+      "id": 1573,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2550/?format=json",
+      "date_created": "2016-04-20T08:21:44.005184-07:00",
+      "date_modified": "2016-04-20T08:21:44.005205-07:00",
+      "year_rated": 2009,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2119/?format=json",
+      "id": 2119,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2226/?format=json",
+        "id": 2226,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of North Dakota",
+        "ein": 456002491
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2550/?format=json",
+      "date_created": "2016-04-20T08:21:44.017863-07:00",
+      "date_modified": "2016-04-20T08:21:44.017886-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1977
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2120/?format=json",
+      "id": 2120,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2226/?format=json",
+        "id": 2226,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of North Dakota",
+        "ein": 456002491
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2550/?format=json",
+      "date_created": "2016-04-20T08:21:44.032142-07:00",
+      "date_modified": "2016-04-20T08:21:44.032165-07:00",
+      "degree_level": "ma",
+      "degree_detail": "M.A.",
+      "degree_year": 1983
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/15941/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15942/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15943/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15944/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15945/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15946/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15947/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15948/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15949/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2557/?format=json",
+      "id": 2557,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2550/?format=json",
+      "date_created": "2016-04-20T08:21:43.999909-07:00",
+      "date_modified": "2016-04-20T08:21:43.999932-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2009-10-13",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:43.968838-07:00",
+  "date_modified": "2020-11-25T08:30:14.226997-08:00",
+  "date_completed": null,
+  "fjc_id": 3230,
+  "slug": "rosanna-malouf-peterson",
+  "name_first": "Rosanna",
+  "name_middle": "Malouf",
+  "name_last": "Peterson",
+  "name_suffix": "",
+  "date_dob": "1951-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Salt Lake City",
+  "dob_state": "UT",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

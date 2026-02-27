@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/9087/?format=json",
+  "id": 9087,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4799/?format=json",
+      "id": 4799,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9087/?format=json",
+      "date_created": "2020-05-13T16:56:23.285580-07:00",
+      "date_modified": "2020-05-13T16:56:23.285601-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2020-05-13",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/35085/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2020-05-13T16:56:23.277448-07:00",
+  "date_modified": "2020-11-25T08:30:17.842225-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "nathanael-m-cousins",
+  "name_first": "Nathanael",
+  "name_middle": "M.",
+  "name_last": "Cousins",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": true
+}

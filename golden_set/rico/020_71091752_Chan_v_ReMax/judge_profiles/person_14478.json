@@ -1,0 +1,119 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14478/?format=json",
+  "id": 14478,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8605/?format=json",
+      "id": 8605,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14478/?format=json",
+      "date_created": "2022-02-23T20:02:38.640837-08:00",
+      "date_modified": "2022-02-23T20:02:38.640860-08:00",
+      "url": "https://www.uscourts.gov/judicial-milestones/molly-cherry",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8606/?format=json",
+      "id": 8606,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14478/?format=json",
+      "date_created": "2022-02-23T20:02:38.642627-08:00",
+      "date_modified": "2022-02-23T20:02:38.642649-08:00",
+      "url": "https://www.libertyfellowshipsc.org/people/details/molly-hughes-cherry",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8607/?format=json",
+      "id": 8607,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14478/?format=json",
+      "date_created": "2022-02-23T20:02:38.643688-08:00",
+      "date_modified": "2022-02-23T20:02:38.643710-08:00",
+      "url": "https://crbjbizwire.com/nexsen-pruet-attorney-molly-cherry-selected-to-become-federal-magistrate/",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8608/?format=json",
+      "id": 8608,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14478/?format=json",
+      "date_created": "2022-02-23T20:02:38.644725-08:00",
+      "date_modified": "2022-02-23T20:02:38.644748-08:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Cherry-M%20M.%2004.%20SC%20SIA_SR_20.pdf",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7994/?format=json",
+      "id": 7994,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1337/?format=json",
+        "id": 1337,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of South Carolina-Columbia",
+        "ein": 576001153
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14478/?format=json",
+      "date_created": "2022-02-23T20:02:38.634366-08:00",
+      "date_modified": "2022-02-23T20:02:38.634388-08:00",
+      "degree_level": "jd",
+      "degree_detail": "cum laude",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7995/?format=json",
+      "id": 7995,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5556/?format=json",
+        "id": 5556,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Wofford College",
+        "ein": 570314422
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14478/?format=json",
+      "date_created": "2022-02-23T20:02:38.639519-08:00",
+      "date_modified": "2022-02-23T20:02:38.639542-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Government, Spanish",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44387/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-02-23T20:02:38.612208-08:00",
+  "date_modified": "2022-02-23T20:02:38.612244-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "molly-h-cherry",
+  "name_first": "Molly",
+  "name_middle": "H.",
+  "name_last": "Cherry",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

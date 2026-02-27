@@ -1,0 +1,106 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3587/?format=json",
+  "id": 3587,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2245/?format=json",
+      "id": 2245,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3587/?format=json",
+      "date_created": "2016-04-20T08:24:10.266669-07:00",
+      "date_modified": "2016-04-20T08:24:10.266691-07:00",
+      "year_rated": 1997,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3004/?format=json",
+      "id": 3004,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1648/?format=json",
+        "id": 1648,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Drake University",
+        "ein": 41103730
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3587/?format=json",
+      "date_created": "2016-04-20T08:24:10.280404-07:00",
+      "date_modified": "2016-04-20T08:24:10.280428-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1975
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3005/?format=json",
+      "id": 3005,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1902/?format=json",
+        "id": 1902,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "George Mason University",
+        "ein": 540836354
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3587/?format=json",
+      "date_created": "2016-04-20T08:24:10.309287-07:00",
+      "date_modified": "2016-04-20T08:24:10.309310-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1980
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22598/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22599/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22600/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22601/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22597/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3605/?format=json",
+      "id": 3605,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3587/?format=json",
+      "date_created": "2016-04-20T08:24:10.261187-07:00",
+      "date_modified": "2016-04-20T08:24:10.261210-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1997-07-15",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:10.226753-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2754,
+  "slug": "richard-l-young",
+  "name_first": "Richard",
+  "name_middle": "L.",
+  "name_last": "Young",
+  "name_suffix": "",
+  "date_dob": "1953-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Davenport",
+  "dob_state": "IA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

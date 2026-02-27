@@ -1,0 +1,59 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2261/?format=json",
+  "id": 2261,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14124/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14125/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14126/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14127/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14128/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14129/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14130/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2268/?format=json",
+      "id": 2268,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2261/?format=json",
+      "date_created": "2016-04-20T08:21:04.070553-07:00",
+      "date_modified": "2016-04-20T08:21:04.070579-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1945-09-12",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:04.036703-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1653,
+  "slug": "wilbur-kingsbury-miller",
+  "name_first": "Wilbur",
+  "name_middle": "Kingsbury",
+  "name_last": "Miller",
+  "name_suffix": "",
+  "date_dob": "1892-10-09",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1976-01-24",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Owensboro",
+  "dob_state": "KY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,103 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5535/?format=json",
+  "id": 5535,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1741/?format=json",
+      "id": 1741,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5535/?format=json",
+      "date_created": "2016-04-20T08:26:27.548725-07:00",
+      "date_modified": "2016-04-20T08:26:27.548746-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/200010888100",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4558/?format=json",
+      "id": 4558,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4696/?format=json",
+        "id": 4696,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Princeton University",
+        "ein": 210634501
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5535/?format=json",
+      "date_created": "2016-04-20T08:26:27.497910-07:00",
+      "date_modified": "2016-04-20T08:26:27.497932-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4559/?format=json",
+      "id": 4559,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5646/?format=json",
+        "id": 5646,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of the Pacific",
+        "ein": 941156266
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5535/?format=json",
+      "date_created": "2016-04-20T08:26:27.520453-07:00",
+      "date_modified": "2016-04-20T08:26:27.520477-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27808/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27809/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27810/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4381/?format=json",
+      "id": 4381,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5535/?format=json",
+      "date_created": "2016-04-20T08:26:27.542637-07:00",
+      "date_modified": "2016-04-20T08:26:27.542661-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:27.467150-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "benjamin-r-jones",
+  "name_first": "Benjamin",
+  "name_middle": "R.",
+  "name_last": "Jones",
+  "name_suffix": "",
+  "date_dob": "1906-05-29",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1980-07-27",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

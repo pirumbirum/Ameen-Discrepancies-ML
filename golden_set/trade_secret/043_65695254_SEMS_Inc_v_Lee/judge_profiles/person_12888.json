@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12888/?format=json",
+  "id": 12888,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9648/?format=json",
+      "id": 9648,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12888/?format=json",
+      "date_created": "2022-03-03T10:09:39.008798-08:00",
+      "date_modified": "2022-03-03T10:09:39.008834-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-03",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9649/?format=json",
+      "id": 9649,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12888/?format=json",
+      "date_created": "2022-03-03T10:09:39.014126-08:00",
+      "date_modified": "2022-03-03T10:09:39.014160-08:00",
+      "url": "https://trellis.law/judge/judy.johnson",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9650/?format=json",
+      "id": 9650,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12888/?format=json",
+      "date_created": "2022-03-03T10:09:39.020025-08:00",
+      "date_modified": "2022-03-03T10:09:39.020057-08:00",
+      "url": "https://www.cccba.org/member-center/ccc-superior-court/judicial-officers-profiles/honorable-judy-johnson-department-26/",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9651/?format=json",
+      "id": 9651,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12888/?format=json",
+      "date_created": "2022-03-03T10:09:39.024931-08:00",
+      "date_modified": "2022-03-03T10:09:39.024972-08:00",
+      "url": "https://ballotpedia.org/Judy_Johnson",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9652/?format=json",
+      "id": 9652,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12888/?format=json",
+      "date_created": "2022-03-03T10:09:39.037636-08:00",
+      "date_modified": "2022-03-03T10:09:39.037670-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-03",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8463/?format=json",
+      "id": 8463,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12888/?format=json",
+      "date_created": "2022-03-03T10:09:38.992329-08:00",
+      "date_modified": "2022-03-03T10:09:38.992355-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Political Science",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8464/?format=json",
+      "id": 8464,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1532/?format=json",
+        "id": 1532,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Davis",
+        "ein": 946036494
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12888/?format=json",
+      "date_created": "2022-03-03T10:09:39.002514-08:00",
+      "date_modified": "2022-03-03T10:09:39.002553-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42128/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6036/?format=json",
+      "id": 6036,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12888/?format=json",
+      "date_created": "2022-03-03T10:09:38.975914-08:00",
+      "date_modified": "2022-03-03T10:09:38.975943-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6037/?format=json",
+      "id": 6037,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12888/?format=json",
+      "date_created": "2022-03-03T10:09:38.983288-08:00",
+      "date_modified": "2022-03-03T10:09:38.983313-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:11.186583-07:00",
+  "date_modified": "2022-03-20T15:41:26.423464-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "judy-johnson",
+  "name_first": "Judy",
+  "name_middle": "",
+  "name_last": "Johnson",
+  "name_suffix": "",
+  "date_dob": "1949-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,64 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15255/?format=json",
+  "id": 15255,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16119/?format=json",
+      "id": 16119,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15255/?format=json",
+      "date_created": "2022-04-21T17:27:28.144472-07:00",
+      "date_modified": "2022-04-21T17:27:28.144494-07:00",
+      "url": "https://en.wikipedia.org/wiki/John_E._Flynn",
+      "date_accessed": "2022-04-21",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44799/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7906/?format=json",
+      "id": 7906,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15255/?format=json",
+      "date_created": "2022-04-21T17:27:28.142876-07:00",
+      "date_modified": "2022-04-21T17:27:28.142896-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-21T17:27:28.122770-07:00",
+  "date_modified": "2022-04-21T17:27:28.122804-07:00",
+  "date_completed": "2022-04-21T17:25:54-07:00",
+  "fjc_id": null,
+  "slug": "john-e-flynn",
+  "name_first": "John",
+  "name_middle": "E.",
+  "name_last": "Flynn",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

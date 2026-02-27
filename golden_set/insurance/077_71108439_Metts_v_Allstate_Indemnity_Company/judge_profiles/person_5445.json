@@ -1,0 +1,84 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5445/?format=json",
+  "id": 5445,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1623/?format=json",
+      "id": 1623,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5445/?format=json",
+      "date_created": "2016-04-20T08:26:20.401458-07:00",
+      "date_modified": "2016-04-20T08:26:20.401480-07:00",
+      "url": "http://www.oscn.net/oscn/schome/simms.htm",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4465/?format=json",
+      "id": 4465,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5455/?format=json",
+        "id": 5455,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Oklahoma Baptist University",
+        "ein": 730579264
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5445/?format=json",
+      "date_created": "2016-04-20T08:26:20.350691-07:00",
+      "date_modified": "2016-04-20T08:26:20.350718-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27553/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27554/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27555/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4349/?format=json",
+      "id": 4349,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5445/?format=json",
+      "date_created": "2016-04-20T08:26:20.395536-07:00",
+      "date_modified": "2016-04-20T08:26:20.395560-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:20.326806-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "ralph-b-hodges",
+  "name_first": "Ralph",
+  "name_middle": "B.",
+  "name_last": "Hodges",
+  "name_suffix": "",
+  "date_dob": "1930-08-04",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2013-01-16",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

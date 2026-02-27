@@ -1,0 +1,166 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13393/?format=json",
+  "id": 13393,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13108/?format=json",
+      "id": 13108,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13393/?format=json",
+      "date_created": "2022-03-16T14:46:37.275441-07:00",
+      "date_modified": "2022-03-16T14:46:37.275468-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13109/?format=json",
+      "id": 13109,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13393/?format=json",
+      "date_created": "2022-03-16T14:46:37.281901-07:00",
+      "date_modified": "2022-03-16T14:46:37.281928-07:00",
+      "url": "https://www.bloomberg.com/profile/person/18692269",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13110/?format=json",
+      "id": 13110,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13393/?format=json",
+      "date_created": "2022-03-16T14:46:37.285707-07:00",
+      "date_modified": "2022-03-16T14:46:37.285734-07:00",
+      "url": "https://ballotpedia.org/Harold_T._Wilson,_Jr.",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13111/?format=json",
+      "id": 13111,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13393/?format=json",
+      "date_created": "2022-03-16T14:46:37.289672-07:00",
+      "date_modified": "2022-03-16T14:46:37.289700-07:00",
+      "url": "https://www.martindale.com/attorney/harold-thomas-wilson-207164/",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13112/?format=json",
+      "id": 13112,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13393/?format=json",
+      "date_created": "2022-03-16T14:46:37.293792-07:00",
+      "date_modified": "2022-03-16T14:46:37.293824-07:00",
+      "url": "https://trellis.law/judge/harold.t.wilson.jr",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13113/?format=json",
+      "id": 13113,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13393/?format=json",
+      "date_created": "2022-03-16T14:46:37.302770-07:00",
+      "date_modified": "2022-03-16T14:46:37.302799-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10100/?format=json",
+      "id": 10100,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4098/?format=json",
+        "id": 4098,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Notre Dame",
+        "ein": 350868188
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13393/?format=json",
+      "date_created": "2022-03-16T14:46:37.261005-07:00",
+      "date_modified": "2022-03-16T14:46:37.261033-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10101/?format=json",
+      "id": 10101,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5191/?format=json",
+        "id": 5191,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of San Diego",
+        "ein": 952544535
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13393/?format=json",
+      "date_created": "2022-03-16T14:46:37.271092-07:00",
+      "date_modified": "2022-03-16T14:46:37.271120-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42887/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7163/?format=json",
+      "id": 7163,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13393/?format=json",
+      "date_created": "2022-03-16T14:46:37.241388-07:00",
+      "date_modified": "2022-03-16T14:46:37.241417-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7164/?format=json",
+      "id": 7164,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13393/?format=json",
+      "date_created": "2022-03-16T14:46:37.248578-07:00",
+      "date_modified": "2022-03-16T14:46:37.248607-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:36.557844-07:00",
+  "date_modified": "2022-03-23T16:26:50.276659-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "harold-thomas-wilson-jr",
+  "name_first": "Harold",
+  "name_middle": "Thomas",
+  "name_last": "Wilson",
+  "name_suffix": "jr",
+  "date_dob": "1957-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Eureka",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

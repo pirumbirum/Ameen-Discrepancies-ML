@@ -1,0 +1,71 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4632/?format=json",
+  "id": 4632,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/774/?format=json",
+      "id": 774,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4632/?format=json",
+      "date_created": "2016-04-20T08:25:16.112795-07:00",
+      "date_modified": "2016-04-20T08:25:16.112823-07:00",
+      "url": "http://www.cleaves.org/sjcbios1.htm#EPM",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3763/?format=json",
+      "id": 3763,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4240/?format=json",
+        "id": 4240,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Maine",
+        "ein": 16000769
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4632/?format=json",
+      "date_created": "2016-04-20T08:25:16.076307-07:00",
+      "date_modified": "2016-04-20T08:25:16.076341-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25182/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25183/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25184/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25185/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:16.051969-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "edward-p-murray",
+  "name_first": "Edward",
+  "name_middle": "P.",
+  "name_last": "Murray",
+  "name_suffix": "",
+  "date_dob": "1876-04-07",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1966-01-22",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

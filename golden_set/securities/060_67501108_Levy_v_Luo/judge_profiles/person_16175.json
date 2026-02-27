@@ -1,0 +1,160 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/16175/?format=json",
+  "id": 16175,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20564/?format=json",
+      "id": 20564,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16175/?format=json",
+      "date_created": "2022-08-08T15:19:54.153171-07:00",
+      "date_modified": "2022-08-08T15:19:54.153185-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-08-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20565/?format=json",
+      "id": 20565,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16175/?format=json",
+      "date_created": "2022-08-08T15:21:02.119079-07:00",
+      "date_modified": "2022-08-08T15:21:02.119095-07:00",
+      "url": "https://www.martindale.com/attorney/judge-kemper-stephen-williams-iii-1710772/",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20566/?format=json",
+      "id": 20566,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16175/?format=json",
+      "date_created": "2022-08-08T15:21:02.119787-07:00",
+      "date_modified": "2022-08-08T15:21:02.119803-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=216115",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20567/?format=json",
+      "id": 20567,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16175/?format=json",
+      "date_created": "2022-08-08T15:21:02.120794-07:00",
+      "date_modified": "2022-08-08T15:21:02.120811-07:00",
+      "url": "https://lawyers.justia.com/lawyer/judge-kemper-stephen-williams-iii-275155",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20568/?format=json",
+      "id": 20568,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16175/?format=json",
+      "date_created": "2022-08-08T15:21:02.121453-07:00",
+      "date_modified": "2022-08-08T15:21:02.121469-07:00",
+      "url": "https://ballotpedia.org/Kemper_Williams",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20569/?format=json",
+      "id": 20569,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16175/?format=json",
+      "date_created": "2022-08-08T15:21:02.179511-07:00",
+      "date_modified": "2022-08-08T15:21:02.179538-07:00",
+      "url": "",
+      "date_accessed": "2022-08-08",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12800/?format=json",
+      "id": 12800,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5152/?format=json",
+        "id": 5152,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "St Mary's University",
+        "ein": 741143128
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16175/?format=json",
+      "date_created": "2022-08-08T15:19:54.133108-07:00",
+      "date_modified": "2022-08-08T15:19:54.133122-07:00",
+      "degree_level": "ba",
+      "degree_detail": "English, magna cum laude",
+      "degree_year": 1981
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12801/?format=json",
+      "id": 12801,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6016/?format=json",
+        "id": 6016,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Baylor University",
+        "ein": 741159753
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16175/?format=json",
+      "date_created": "2022-08-08T15:19:54.143210-07:00",
+      "date_modified": "2022-08-08T15:19:54.143223-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1985
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/52443/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52444/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52445/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52446/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52447/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52448/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52449/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52450/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8513/?format=json",
+      "id": 8513,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16175/?format=json",
+      "date_created": "2022-08-08T15:19:54.146285-07:00",
+      "date_modified": "2022-08-08T15:19:54.146297-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-08-08T15:18:47.715913-07:00",
+  "date_modified": "2022-08-08T15:21:02.112628-07:00",
+  "date_completed": "2022-08-08T14:33:00-07:00",
+  "fjc_id": null,
+  "slug": "kemper-stephen-williams-iii",
+  "name_first": "Kemper",
+  "name_middle": "Stephen",
+  "name_last": "Williams",
+  "name_suffix": "3",
+  "date_dob": "1959-09-27",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Victoria",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "ca",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

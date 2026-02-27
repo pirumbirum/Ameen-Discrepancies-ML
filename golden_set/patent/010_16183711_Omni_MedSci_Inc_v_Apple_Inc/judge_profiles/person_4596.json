@@ -1,0 +1,95 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4596/?format=json",
+  "id": 4596,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/689/?format=json",
+      "id": 689,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4596/?format=json",
+      "date_created": "2016-04-20T08:25:12.071473-07:00",
+      "date_modified": "2016-04-20T08:25:12.071497-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/200011133665",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/690/?format=json",
+      "id": 690,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4596/?format=json",
+      "date_created": "2016-04-20T08:25:12.078620-07:00",
+      "date_modified": "2016-04-20T08:25:12.078644-07:00",
+      "url": "http://www.lasc.org/Bicentennial/justices/Rogers_Wynne.aspx",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3700/?format=json",
+      "id": 3700,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3858/?format=json",
+        "id": 3858,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tulane University of Louisiana",
+        "ein": 720423889
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4596/?format=json",
+      "date_created": "2016-04-20T08:25:12.024849-07:00",
+      "date_modified": "2016-04-20T08:25:12.024883-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25035/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25036/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25037/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25038/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4016/?format=json",
+      "id": 4016,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4596/?format=json",
+      "date_created": "2016-04-20T08:25:12.066455-07:00",
+      "date_modified": "2016-04-20T08:25:12.066481-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:11.984530-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "wynne-g-rogers",
+  "name_first": "Wynne",
+  "name_middle": "G.",
+  "name_last": "Rogers",
+  "name_suffix": "",
+  "date_dob": "1874-12-26",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1946-09-15",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

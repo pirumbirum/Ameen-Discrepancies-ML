@@ -1,0 +1,62 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3885/?format=json",
+  "id": 3885,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/60/?format=json",
+      "id": 60,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3885/?format=json",
+      "date_created": "2016-04-20T08:24:28.294713-07:00",
+      "date_modified": "2016-04-20T08:24:28.294729-07:00",
+      "url": "http://politicalgraveyard.com/bio/scott8.html#084.49.98",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23320/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3745/?format=json",
+      "id": 3745,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3885/?format=json",
+      "date_created": "2016-04-20T08:24:28.290897-07:00",
+      "date_modified": "2016-04-20T08:24:28.290918-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:28.275927-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "tully-scott",
+  "name_first": "Tully",
+  "name_middle": "",
+  "name_last": "Scott",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,159 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15451/?format=json",
+  "id": 15451,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16947/?format=json",
+      "id": 16947,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15451/?format=json",
+      "date_created": "2022-06-15T17:51:16.548341-07:00",
+      "date_modified": "2022-06-15T17:51:16.548359-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-06-15",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16948/?format=json",
+      "id": 16948,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15451/?format=json",
+      "date_created": "2022-06-15T17:51:16.554492-07:00",
+      "date_modified": "2022-06-15T17:51:16.554503-07:00",
+      "url": "https://www.txcourts.gov/1stcoa/about-the-court/justices/justice-gordon-goodman/",
+      "date_accessed": "2022-06-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16949/?format=json",
+      "id": 16949,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15451/?format=json",
+      "date_created": "2022-06-15T17:51:16.555617-07:00",
+      "date_modified": "2022-06-15T17:51:16.555628-07:00",
+      "url": "https://ballotpedia.org/Gordon_Goodman",
+      "date_accessed": "2022-06-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16950/?format=json",
+      "id": 16950,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15451/?format=json",
+      "date_created": "2022-06-15T17:51:16.556793-07:00",
+      "date_modified": "2022-06-15T17:51:16.556803-07:00",
+      "url": "https://tlrpac.org/first-court-of-appeals-place-2/",
+      "date_accessed": "2022-06-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16951/?format=json",
+      "id": 16951,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15451/?format=json",
+      "date_created": "2022-06-15T17:51:16.557836-07:00",
+      "date_modified": "2022-06-15T17:51:16.557846-07:00",
+      "url": "https://houstonseminar.org/speaker/justice-gordon-goodman/",
+      "date_accessed": "2022-06-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18006/?format=json",
+      "id": 18006,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15451/?format=json",
+      "date_created": "2022-07-06T14:52:10.382035-07:00",
+      "date_modified": "2022-07-06T14:52:10.382051-07:00",
+      "url": "",
+      "date_accessed": "2022-07-06",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11747/?format=json",
+      "id": 11747,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4361/?format=json",
+        "id": 4361,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Pennsylvania",
+        "ein": 231352685
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15451/?format=json",
+      "date_created": "2022-06-15T17:51:16.534156-07:00",
+      "date_modified": "2022-06-15T17:51:16.534175-07:00",
+      "degree_level": "ba",
+      "degree_detail": "magna cum laude",
+      "degree_year": 1974
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11748/?format=json",
+      "id": 11748,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4361/?format=json",
+        "id": 4361,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Pennsylvania",
+        "ein": 231352685
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15451/?format=json",
+      "date_created": "2022-06-15T17:51:16.541678-07:00",
+      "date_modified": "2022-06-15T17:51:16.541696-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1977
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49447/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49448/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49449/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49450/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49451/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49452/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49453/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8039/?format=json",
+      "id": 8039,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15451/?format=json",
+      "date_created": "2022-06-15T17:51:16.544352-07:00",
+      "date_modified": "2022-06-15T17:51:16.544364-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-06-15T17:51:16.514933-07:00",
+  "date_modified": "2022-07-06T14:52:10.313650-07:00",
+  "date_completed": "2022-06-15T17:36:00-07:00",
+  "fjc_id": null,
+  "slug": "gordon-ernest-goodman",
+  "name_first": "Gordon",
+  "name_middle": "Ernest",
+  "name_last": "Goodman",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "je",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

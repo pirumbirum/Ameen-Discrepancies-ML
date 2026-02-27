@@ -1,0 +1,160 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/9329/?format=json",
+  "id": 9329,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/5041/?format=json",
+      "id": 5041,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9329/?format=json",
+      "date_created": "2020-05-13T16:56:27.527661-07:00",
+      "date_modified": "2020-05-13T16:56:27.527681-07:00",
+      "url": "https://www.uscourts.gov/judicial-milestones/elizabeth-c-wright",
+      "date_accessed": "2020-05-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16308/?format=json",
+      "id": 16308,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9329/?format=json",
+      "date_created": "2022-05-20T18:10:07.038929-07:00",
+      "date_modified": "2022-05-20T18:10:07.038957-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Wright-EC.%20M.%2008.%20MN%20_SR_20.pdf",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16309/?format=json",
+      "id": 16309,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9329/?format=json",
+      "date_created": "2022-05-20T18:10:07.062471-07:00",
+      "date_modified": "2022-05-20T18:10:07.062496-07:00",
+      "url": "https://www.mnd.uscourts.gov/ECW",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16310/?format=json",
+      "id": 16310,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9329/?format=json",
+      "date_created": "2022-05-20T18:10:07.085715-07:00",
+      "date_modified": "2022-05-20T18:10:07.085747-07:00",
+      "url": "https://www.fredlaw.com/news__media/2018/09/25/1992/new_faces_on_the_minnesota_bench/",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16311/?format=json",
+      "id": 16311,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9329/?format=json",
+      "date_created": "2022-05-20T18:10:07.109042-07:00",
+      "date_modified": "2022-05-20T18:10:07.109067-07:00",
+      "url": "https://ballotpedia.org/Elizabeth_Cowan_Wright",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16312/?format=json",
+      "id": 16312,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9329/?format=json",
+      "date_created": "2022-05-20T18:10:07.132321-07:00",
+      "date_modified": "2022-05-20T18:10:07.132348-07:00",
+      "url": "https://mwlawyers.org/page/WERwinter2019Feat5",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11539/?format=json",
+      "id": 11539,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1073/?format=json",
+        "id": 1073,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Illinois at Chicago",
+        "ein": 376000511
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9329/?format=json",
+      "date_created": "2022-05-20T18:29:36.848311-07:00",
+      "date_modified": "2022-05-20T18:29:36.848343-07:00",
+      "degree_level": "ma",
+      "degree_detail": "Mechanical Engineering",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11537/?format=json",
+      "id": 11537,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/123/?format=json",
+        "id": 123,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Iowa State University",
+        "ein": 426004224
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9329/?format=json",
+      "date_created": "2022-05-20T18:14:40.823634-07:00",
+      "date_modified": "2022-05-20T18:14:40.823666-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Aerospace Engineering, with distinction",
+      "degree_year": 1995
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11538/?format=json",
+      "id": 11538,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5069/?format=json",
+        "id": 5069,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "William Mitchell College of Law",
+        "ein": 410518750
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9329/?format=json",
+      "date_created": "2022-05-20T18:14:40.897646-07:00",
+      "date_modified": "2022-05-20T18:14:40.897679-07:00",
+      "degree_level": "jd",
+      "degree_detail": "summa cum laude",
+      "degree_year": 2006
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/35327/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47784/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47785/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2020-05-13T16:56:27.518804-07:00",
+  "date_modified": "2022-05-20T18:29:36.648195-07:00",
+  "date_completed": "2022-05-20T18:08:36-07:00",
+  "fjc_id": null,
+  "slug": "elizabeth-cowan-wright",
+  "name_first": "Elizabeth",
+  "name_middle": "Cowan",
+  "name_last": "Wright",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13220/?format=json",
+  "id": 13220,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9062/?format=json",
+      "id": 9062,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13220/?format=json",
+      "date_created": "2022-03-01T10:16:15.185763-08:00",
+      "date_modified": "2022-03-01T10:16:15.185799-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-01",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9063/?format=json",
+      "id": 9063,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13220/?format=json",
+      "date_created": "2022-03-01T10:16:15.190901-08:00",
+      "date_modified": "2022-03-01T10:16:15.190923-08:00",
+      "url": "https://www.martindale.com/attorney/jeffrey-yates-hamilton-jr-99433/",
+      "date_accessed": "2022-03-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9064/?format=json",
+      "id": 9064,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13220/?format=json",
+      "date_created": "2022-03-01T10:16:15.196410-08:00",
+      "date_modified": "2022-03-01T10:16:15.196432-08:00",
+      "url": "https://trellis.law/judge/jeffrey.y.hamilton.jr",
+      "date_accessed": "2022-03-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9065/?format=json",
+      "id": 9065,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13220/?format=json",
+      "date_created": "2022-03-01T10:16:15.200365-08:00",
+      "date_modified": "2022-03-01T10:16:15.200386-08:00",
+      "url": "https://ballotpedia.org/Jeffrey_Y._Hamilton,_Jr.",
+      "date_accessed": "2022-03-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9066/?format=json",
+      "id": 9066,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13220/?format=json",
+      "date_created": "2022-03-01T10:16:15.209994-08:00",
+      "date_modified": "2022-03-01T10:16:15.210019-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-01",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8204/?format=json",
+      "id": 8204,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5255/?format=json",
+        "id": 5255,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "California Polytechnic State University-San Luis Obispo",
+        "ein": 946001347
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13220/?format=json",
+      "date_created": "2022-03-01T10:16:15.171933-08:00",
+      "date_modified": "2022-03-01T10:16:15.171976-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Business Administration",
+      "degree_year": 1987
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8205/?format=json",
+      "id": 8205,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5312/?format=json",
+        "id": 5312,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Santa Clara University",
+        "ein": 941156697
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13220/?format=json",
+      "date_created": "2022-03-01T10:16:15.180813-08:00",
+      "date_modified": "2022-03-01T10:16:15.180840-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1993
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42654/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5873/?format=json",
+      "id": 5873,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13220/?format=json",
+      "date_created": "2022-03-01T10:16:15.153691-08:00",
+      "date_modified": "2022-03-01T10:16:15.153716-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5874/?format=json",
+      "id": 5874,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13220/?format=json",
+      "date_created": "2022-03-01T10:16:15.163135-08:00",
+      "date_modified": "2022-03-01T10:16:15.163157-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:28.396143-07:00",
+  "date_modified": "2022-03-19T15:12:41.163599-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jeffrey-yates-hamilton-jr",
+  "name_first": "Jeffrey",
+  "name_middle": "Yates",
+  "name_last": "Hamilton",
+  "name_suffix": "jr",
+  "date_dob": "1965-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

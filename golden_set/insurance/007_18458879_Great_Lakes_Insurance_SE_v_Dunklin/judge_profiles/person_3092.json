@@ -1,0 +1,72 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3092/?format=json",
+  "id": 3092,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1960/?format=json",
+      "id": 1960,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3092/?format=json",
+      "date_created": "2016-04-20T08:22:59.922359-07:00",
+      "date_modified": "2016-04-20T08:22:59.922381-07:00",
+      "year_rated": 2000,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/19412/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19413/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19414/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19415/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19416/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19417/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19418/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19419/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19420/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19421/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3108/?format=json",
+      "id": 3108,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3092/?format=json",
+      "date_created": "2016-04-20T08:22:59.915456-07:00",
+      "date_modified": "2016-04-20T08:22:59.915481-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2000-06-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:59.886032-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2879,
+  "slug": "john-e-steele",
+  "name_first": "John",
+  "name_middle": "E.",
+  "name_last": "Steele",
+  "name_suffix": "",
+  "date_dob": "1949-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Detroit",
+  "dob_state": "MI",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

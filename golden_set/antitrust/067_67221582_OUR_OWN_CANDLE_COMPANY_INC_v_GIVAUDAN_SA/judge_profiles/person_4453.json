@@ -1,0 +1,53 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4453/?format=json",
+  "id": 4453,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/493/?format=json",
+      "id": 493,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4453/?format=json",
+      "date_created": "2016-04-20T08:25:01.470485-07:00",
+      "date_modified": "2016-04-20T08:25:01.470503-07:00",
+      "url": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=88223109",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24649/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24650/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24651/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24652/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24653/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24654/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:01.420102-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "hugo-kyle-allen",
+  "name_first": "Hugo",
+  "name_middle": "Kyle",
+  "name_last": "Allen",
+  "name_suffix": "",
+  "date_dob": "1873-12-20",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1959-07-14",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

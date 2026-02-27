@@ -1,0 +1,122 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2768/?format=json",
+  "id": 2768,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3639/?format=json",
+      "id": 3639,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2768/?format=json",
+      "date_created": "2016-04-20T08:28:40.261221-07:00",
+      "date_modified": "2016-04-20T08:28:40.261244-07:00",
+      "url": "http://www.in.gov/judiciary/citc/2796.htm",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1724/?format=json",
+      "id": 1724,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2768/?format=json",
+      "date_created": "2016-04-20T08:22:13.517544-07:00",
+      "date_modified": "2016-04-20T08:22:13.517565-07:00",
+      "year_rated": 2013,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2311/?format=json",
+      "id": 2311,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/719/?format=json",
+        "id": 719,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Fordham University",
+        "ein": 131740451
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2768/?format=json",
+      "date_created": "2016-04-20T08:22:13.532760-07:00",
+      "date_modified": "2016-04-20T08:22:13.532783-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1984
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2312/?format=json",
+      "id": 2312,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/738/?format=json",
+        "id": 738,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Brooklyn Law School",
+        "ein": 237227990
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2768/?format=json",
+      "date_created": "2016-04-20T08:22:13.548145-07:00",
+      "date_modified": "2016-04-20T08:22:13.548211-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1989
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/17325/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17326/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17327/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17328/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17329/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17330/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17331/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17332/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32700/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17324/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2776/?format=json",
+      "id": 2776,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2768/?format=json",
+      "date_created": "2016-04-20T08:22:13.510302-07:00",
+      "date_modified": "2016-04-20T08:22:13.510325-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2013-01-04",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:13.480521-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3473,
+  "slug": "nelson-stephen-roman",
+  "name_first": "Nelson",
+  "name_middle": "Stephen",
+  "name_last": "Roman",
+  "name_suffix": "",
+  "date_dob": "1960-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "New York",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

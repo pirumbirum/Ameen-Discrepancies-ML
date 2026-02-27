@@ -1,0 +1,141 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15351/?format=json",
+  "id": 15351,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16333/?format=json",
+      "id": 16333,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15351/?format=json",
+      "date_created": "2022-05-23T10:43:59.511075-07:00",
+      "date_modified": "2022-05-23T10:43:59.511105-07:00",
+      "url": "https://en.wikipedia.org/wiki/Christy_C._Wiegand",
+      "date_accessed": "2022-05-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16334/?format=json",
+      "id": 16334,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15351/?format=json",
+      "date_created": "2022-05-23T10:43:59.538234-07:00",
+      "date_modified": "2022-05-23T10:43:59.538281-07:00",
+      "url": "https://www.judiciary.senate.gov/imo/media/doc/Christy%20Wiegand%20SJQ%20-%20PUBLIC.pdf",
+      "date_accessed": "2022-05-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16335/?format=json",
+      "id": 16335,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15351/?format=json",
+      "date_created": "2022-05-23T10:43:59.561689-07:00",
+      "date_modified": "2022-05-23T10:43:59.561735-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Wiegand-CC.%20J3.%2003.%20PAW%20_SR_20.pdf",
+      "date_accessed": "2022-05-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16336/?format=json",
+      "id": 16336,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15351/?format=json",
+      "date_created": "2022-05-23T10:43:59.585080-07:00",
+      "date_modified": "2022-05-23T10:43:59.585113-07:00",
+      "url": "https://ballotpedia.org/Christy_Wiegand",
+      "date_accessed": "2022-05-23",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11544/?format=json",
+      "id": 11544,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4696/?format=json",
+        "id": 4696,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Princeton University",
+        "ein": 210634501
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15351/?format=json",
+      "date_created": "2022-05-23T10:43:59.358077-07:00",
+      "date_modified": "2022-05-23T10:43:59.358110-07:00",
+      "degree_level": "ba",
+      "degree_detail": "cum laude",
+      "degree_year": 1997
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11545/?format=json",
+      "id": 11545,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2624/?format=json",
+        "id": 2624,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Cornell University",
+        "ein": 150532082
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15351/?format=json",
+      "date_created": "2022-05-23T10:43:59.433328-07:00",
+      "date_modified": "2022-05-23T10:43:59.433362-07:00",
+      "degree_level": "jd",
+      "degree_detail": "cum laude",
+      "degree_year": 2000
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47799/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47800/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47802/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47803/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47804/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47805/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47806/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47807/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47808/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7957/?format=json",
+      "id": 7957,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15351/?format=json",
+      "date_created": "2022-05-23T10:43:59.481111-07:00",
+      "date_modified": "2022-05-23T10:43:59.481143-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-05-23T10:43:58.622369-07:00",
+  "date_modified": "2022-05-23T10:45:12.484534-07:00",
+  "date_completed": "2022-05-23T10:18:07-07:00",
+  "fjc_id": null,
+  "slug": "christy-chriswell-wiegand",
+  "name_first": "Christy",
+  "name_middle": "Chriswell",
+  "name_last": "Wiegand",
+  "name_suffix": "",
+  "date_dob": "1975-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Pittsburgh",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13468/?format=json",
+  "id": 13468,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10767/?format=json",
+      "id": 10767,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13468/?format=json",
+      "date_created": "2022-03-07T15:20:26.831579-08:00",
+      "date_modified": "2022-03-07T15:20:26.831602-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-07",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10768/?format=json",
+      "id": 10768,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13468/?format=json",
+      "date_created": "2022-03-07T15:20:26.836397-08:00",
+      "date_modified": "2022-03-07T15:20:26.836419-08:00",
+      "url": "https://trellis.law/judge/kevin.j.mccormick",
+      "date_accessed": "2022-03-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10769/?format=json",
+      "id": 10769,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13468/?format=json",
+      "date_created": "2022-03-07T15:20:26.840355-08:00",
+      "date_modified": "2022-03-07T15:20:26.840378-08:00",
+      "url": "https://ballotpedia.org/Kevin_McCormick_(California)",
+      "date_accessed": "2022-03-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10770/?format=json",
+      "id": 10770,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13468/?format=json",
+      "date_created": "2022-03-07T15:20:26.845015-08:00",
+      "date_modified": "2022-03-07T15:20:26.845038-08:00",
+      "url": "https://www.martindale.com/attorney/kevin-james-mccormick-155752/",
+      "date_accessed": "2022-03-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10771/?format=json",
+      "id": 10771,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13468/?format=json",
+      "date_created": "2022-03-07T15:20:26.857101-08:00",
+      "date_modified": "2022-03-07T15:20:26.857125-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-07",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8954/?format=json",
+      "id": 8954,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3117/?format=json",
+        "id": 3117,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Southern California",
+        "ein": 951642394
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13468/?format=json",
+      "date_created": "2022-03-07T15:20:26.817277-08:00",
+      "date_modified": "2022-03-07T15:20:26.817299-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8955/?format=json",
+      "id": 8955,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6194/?format=json",
+        "id": 6194,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Whittier College",
+        "ein": 951644048
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13468/?format=json",
+      "date_created": "2022-03-07T15:20:26.826914-08:00",
+      "date_modified": "2022-03-07T15:20:26.826936-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42985/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6379/?format=json",
+      "id": 6379,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13468/?format=json",
+      "date_created": "2022-03-07T15:20:26.803603-08:00",
+      "date_modified": "2022-03-07T15:20:26.803625-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6380/?format=json",
+      "id": 6380,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13468/?format=json",
+      "date_created": "2022-03-07T15:20:26.810403-08:00",
+      "date_modified": "2022-03-07T15:20:26.810425-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:39.907195-07:00",
+  "date_modified": "2022-03-21T10:46:41.384566-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "kevin-james-mccormick",
+  "name_first": "Kevin",
+  "name_middle": "James",
+  "name_last": "McCormick",
+  "name_suffix": "",
+  "date_dob": "1961-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,50 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/9715/?format=json",
+  "id": 9715,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/5807/?format=json",
+      "id": 5807,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9715/?format=json",
+      "date_created": "2020-08-11T13:14:18.471000-07:00",
+      "date_modified": "2020-08-11T13:14:18.471000-07:00",
+      "url": "",
+      "date_accessed": null,
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/35727/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/35728/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/36114/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2020-08-05T15:16:58.969239-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "james-d-walker-jr",
+  "name_first": "James",
+  "name_middle": "D.",
+  "name_last": "Walker",
+  "name_suffix": "jr",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

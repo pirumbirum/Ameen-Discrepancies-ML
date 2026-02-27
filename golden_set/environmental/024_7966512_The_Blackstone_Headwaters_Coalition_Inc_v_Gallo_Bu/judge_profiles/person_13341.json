@@ -1,0 +1,143 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13341/?format=json",
+  "id": 13341,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9011/?format=json",
+      "id": 9011,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13341/?format=json",
+      "date_created": "2022-02-28T13:26:40.260626-08:00",
+      "date_modified": "2022-02-28T13:26:40.260659-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-28",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9012/?format=json",
+      "id": 9012,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13341/?format=json",
+      "date_created": "2022-02-28T13:26:40.265760-08:00",
+      "date_modified": "2022-02-28T13:26:40.265807-08:00",
+      "url": "https://ballotpedia.org/Hector_M._Guzman",
+      "date_accessed": "2022-02-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9013/?format=json",
+      "id": 9013,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13341/?format=json",
+      "date_created": "2022-02-28T13:26:40.269925-08:00",
+      "date_modified": "2022-02-28T13:26:40.269956-08:00",
+      "url": "https://www.martindale.com/attorney/hector-manuel-guzman-132817/",
+      "date_accessed": "2022-02-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9014/?format=json",
+      "id": 9014,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13341/?format=json",
+      "date_created": "2022-02-28T13:26:40.274161-08:00",
+      "date_modified": "2022-02-28T13:26:40.274185-08:00",
+      "url": "https://trellis.law/judge/hector.m.guzman",
+      "date_accessed": "2022-02-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9015/?format=json",
+      "id": 9015,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13341/?format=json",
+      "date_created": "2022-02-28T13:26:40.283213-08:00",
+      "date_modified": "2022-02-28T13:26:40.283237-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-28",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8181/?format=json",
+      "id": 8181,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3497/?format=json",
+        "id": 3497,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Middlebury College",
+        "ein": 30179298
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13341/?format=json",
+      "date_created": "2022-02-28T13:26:40.246704-08:00",
+      "date_modified": "2022-02-28T13:26:40.246726-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1984
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8182/?format=json",
+      "id": 8182,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4581/?format=json",
+        "id": 4581,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Lewis & Clark College",
+        "ein": 930386858
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13341/?format=json",
+      "date_created": "2022-02-28T13:26:40.255771-08:00",
+      "date_modified": "2022-02-28T13:26:40.255794-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1988
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42819/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5854/?format=json",
+      "id": 5854,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13341/?format=json",
+      "date_created": "2022-02-28T13:26:40.238943-08:00",
+      "date_modified": "2022-02-28T13:26:40.238968-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:34.101493-07:00",
+  "date_modified": "2022-03-19T15:06:42.682447-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "hector-manuel-guzman",
+  "name_first": "Hector",
+  "name_middle": "Manuel",
+  "name_last": "Guzman",
+  "name_suffix": "",
+  "date_dob": "1959-10-13",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Los Angeles",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

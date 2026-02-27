@@ -1,0 +1,117 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8537/?format=json",
+  "id": 8537,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4239/?format=json",
+      "id": 4239,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8537/?format=json",
+      "date_created": "2019-09-22T15:31:24.861127-07:00",
+      "date_modified": "2019-09-22T15:31:24.861148-07:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2019-09-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2282/?format=json",
+      "id": 2282,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8537/?format=json",
+      "date_created": "2019-09-22T15:31:24.858395-07:00",
+      "date_modified": "2019-09-22T15:31:24.858420-07:00",
+      "year_rated": 2018,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6645/?format=json",
+      "id": 6645,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5917/?format=json",
+        "id": 5917,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Alabama",
+        "ein": 636001138
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8537/?format=json",
+      "date_created": "2019-09-22T15:31:24.877016-07:00",
+      "date_modified": "2019-09-22T15:31:24.877044-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1995
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6646/?format=json",
+      "id": 6646,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5917/?format=json",
+        "id": 5917,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Alabama",
+        "ein": 636001138
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8537/?format=json",
+      "date_created": "2019-09-22T15:31:24.889777-07:00",
+      "date_modified": "2019-09-22T15:31:24.889802-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1999
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33704/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33706/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33707/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33708/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33705/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4884/?format=json",
+      "id": 4884,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8537/?format=json",
+      "date_created": "2019-09-22T15:31:24.853864-07:00",
+      "date_modified": "2019-09-22T15:31:24.853891-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2018-01-08",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2019-09-22T15:31:24.812132-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 4738061,
+  "slug": "annemarie-carney-axon",
+  "name_first": "Annemarie",
+  "name_middle": "Carney",
+  "name_last": "Axon",
+  "name_suffix": "",
+  "date_dob": "1973-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Winter Park",
+  "dob_state": "FL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

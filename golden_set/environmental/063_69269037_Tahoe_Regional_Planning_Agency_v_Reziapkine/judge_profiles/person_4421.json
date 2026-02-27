@@ -1,0 +1,82 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4421/?format=json",
+  "id": 4421,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/461/?format=json",
+      "id": 461,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4421/?format=json",
+      "date_created": "2016-04-20T08:24:59.781150-07:00",
+      "date_modified": "2016-04-20T08:24:59.781168-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/200010906244",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3538/?format=json",
+      "id": 3538,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1648/?format=json",
+        "id": 1648,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Drake University",
+        "ein": 41103730
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4421/?format=json",
+      "date_created": "2016-04-20T08:24:59.769021-07:00",
+      "date_modified": "2016-04-20T08:24:59.769042-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24593/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3956/?format=json",
+      "id": 3956,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4421/?format=json",
+      "date_created": "2016-04-20T08:24:59.775716-07:00",
+      "date_modified": "2016-04-20T08:24:59.775737-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:59.746654-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "henry-k-changed-from-f-peterson",
+  "name_first": "Henry",
+  "name_middle": "K - changed from F",
+  "name_last": "Peterson",
+  "name_suffix": "",
+  "date_dob": "1884-03-06",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

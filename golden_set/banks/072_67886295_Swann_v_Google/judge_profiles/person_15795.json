@@ -1,0 +1,102 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15795/?format=json",
+  "id": 15795,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18581/?format=json",
+      "id": 18581,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15795/?format=json",
+      "date_created": "2022-07-13T17:47:18.206105-07:00",
+      "date_modified": "2022-07-13T17:47:18.206236-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-13",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18582/?format=json",
+      "id": 18582,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15795/?format=json",
+      "date_created": "2022-07-13T17:48:57.497514-07:00",
+      "date_modified": "2022-07-13T17:48:57.497560-07:00",
+      "url": "https://www.dallascounty.org/government/courts/family_district/303rd/",
+      "date_accessed": "2022-07-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18583/?format=json",
+      "id": 18583,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15795/?format=json",
+      "date_created": "2022-07-13T17:48:57.499542-07:00",
+      "date_modified": "2022-07-13T17:48:57.499605-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=288697",
+      "date_accessed": "2022-07-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18584/?format=json",
+      "id": 18584,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15795/?format=json",
+      "date_created": "2022-07-13T17:48:57.501245-07:00",
+      "date_modified": "2022-07-13T17:48:57.501289-07:00",
+      "url": "",
+      "date_accessed": "2022-07-13",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12242/?format=json",
+      "id": 12242,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2085/?format=json",
+        "id": 2085,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Wesleyan University",
+        "ein": 750800691
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15795/?format=json",
+      "date_created": "2022-07-13T17:47:18.190408-07:00",
+      "date_modified": "2022-07-13T17:47:18.190538-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50819/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50817/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50818/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-07-13T17:47:17.980956-07:00",
+  "date_modified": "2022-07-13T17:52:16.118322-07:00",
+  "date_completed": "2022-07-13T17:41:54-07:00",
+  "fjc_id": null,
+  "slug": "jean-charlen-lee",
+  "name_first": "Jean",
+  "name_middle": "Charlen",
+  "name_last": "Lee",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,72 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4610/?format=json",
+  "id": 4610,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/728/?format=json",
+      "id": 728,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4610/?format=json",
+      "date_created": "2016-04-20T08:25:13.947028-07:00",
+      "date_modified": "2016-04-20T08:25:13.947051-07:00",
+      "url": "http://www.cleaves.org/sjcbios1.htm#PTC",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3725/?format=json",
+      "id": 3725,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4240/?format=json",
+        "id": 4240,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Maine",
+        "ein": 16000769
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4610/?format=json",
+      "date_created": "2016-04-20T08:25:13.907534-07:00",
+      "date_modified": "2016-04-20T08:25:13.907558-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25097/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25098/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25099/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25100/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25101/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:13.861290-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "percy-t-clarke",
+  "name_first": "Percy",
+  "name_middle": "T.",
+  "name_last": "Clarke",
+  "name_suffix": "",
+  "date_dob": "1885-06-19",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1957-08-25",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

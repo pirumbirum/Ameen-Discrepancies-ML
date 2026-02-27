@@ -1,0 +1,60 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2292/?format=json",
+  "id": 2292,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14312/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14313/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14314/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14315/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14316/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14317/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14318/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14319/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2299/?format=json",
+      "id": 2299,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2292/?format=json",
+      "date_created": "2016-04-20T08:21:08.249011-07:00",
+      "date_modified": "2016-04-20T08:21:08.249036-07:00",
+      "political_party": "f",
+      "source": "a",
+      "date_start": "1799-12-04",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:08.202233-07:00",
+  "date_modified": "2020-11-25T08:30:20.033581-08:00",
+  "date_completed": null,
+  "fjc_id": 1673,
+  "slug": "alfred-moore",
+  "name_first": "Alfred",
+  "name_middle": "",
+  "name_last": "Moore",
+  "name_suffix": "",
+  "date_dob": "1755-05-21",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1810-10-15",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "New Hanover County",
+  "dob_state": "NC",
+  "dob_country": "United States",
+  "dod_city": "Bladen County",
+  "dod_state": "NC",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

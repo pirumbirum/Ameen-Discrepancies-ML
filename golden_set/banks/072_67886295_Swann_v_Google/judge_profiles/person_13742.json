@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13742/?format=json",
+  "id": 13742,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10211/?format=json",
+      "id": 10211,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13742/?format=json",
+      "date_created": "2022-03-06T17:30:27.200841-08:00",
+      "date_modified": "2022-03-06T17:30:27.200868-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10212/?format=json",
+      "id": 10212,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13742/?format=json",
+      "date_created": "2022-03-06T17:30:27.208156-08:00",
+      "date_modified": "2022-03-06T17:30:27.208183-08:00",
+      "url": "https://ballotpedia.org/Richard_Lee_(California)",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10213/?format=json",
+      "id": 10213,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13742/?format=json",
+      "date_created": "2022-03-06T17:30:27.214235-08:00",
+      "date_modified": "2022-03-06T17:30:27.214262-08:00",
+      "url": "https://trellis.law/judge-dashboard/623/bio",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10214/?format=json",
+      "id": 10214,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13742/?format=json",
+      "date_created": "2022-03-06T17:30:27.224418-08:00",
+      "date_modified": "2022-03-06T17:30:27.224445-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-06",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8717/?format=json",
+      "id": 8717,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13742/?format=json",
+      "date_created": "2022-03-06T17:30:27.185657-08:00",
+      "date_modified": "2022-03-06T17:30:27.185684-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8718/?format=json",
+      "id": 8718,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3117/?format=json",
+        "id": 3117,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Southern California",
+        "ein": 951642394
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13742/?format=json",
+      "date_created": "2022-03-06T17:30:27.194614-08:00",
+      "date_modified": "2022-03-06T17:30:27.194642-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1997
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43348/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6209/?format=json",
+      "id": 6209,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13742/?format=json",
+      "date_created": "2022-03-06T17:30:27.169642-08:00",
+      "date_modified": "2022-03-06T17:30:27.169671-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6210/?format=json",
+      "id": 6210,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13742/?format=json",
+      "date_created": "2022-03-06T17:30:27.176415-08:00",
+      "date_modified": "2022-03-06T17:30:27.176442-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:52.400447-07:00",
+  "date_modified": "2022-03-20T19:03:18.561241-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "richard-y-lee",
+  "name_first": "Richard",
+  "name_middle": "Y.",
+  "name_last": "Lee",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

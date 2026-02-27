@@ -1,0 +1,195 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13828/?format=json",
+  "id": 13828,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6791/?format=json",
+      "id": 6791,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13828/?format=json",
+      "date_created": "2022-02-13T07:29:04.786840-08:00",
+      "date_modified": "2022-02-13T07:29:04.786862-08:00",
+      "url": "https://www.martindale.com/attorney/shelyna-v-brown-253150/",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6818/?format=json",
+      "id": 6818,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13828/?format=json",
+      "date_created": "2022-02-13T07:50:38.365194-08:00",
+      "date_modified": "2022-02-13T09:03:44.012289-08:00",
+      "url": "https://trellis.law/judge/shelyna.v.brown",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6851/?format=json",
+      "id": 6851,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13828/?format=json",
+      "date_created": "2022-02-13T09:52:52.053535-08:00",
+      "date_modified": "2022-02-13T11:03:19.822880-08:00",
+      "url": "https://www.linkedin.com/in/shelyna-v-brown-2157b330/",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6835/?format=json",
+      "id": 6835,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13828/?format=json",
+      "date_created": "2022-02-13T09:03:44.022406-08:00",
+      "date_modified": "2022-02-13T09:52:52.040219-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-13",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6877/?format=json",
+      "id": 6877,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13828/?format=json",
+      "date_created": "2022-02-13T11:03:19.837196-08:00",
+      "date_modified": "2022-02-13T11:03:19.837218-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-13",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6875/?format=json",
+      "id": 6875,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13828/?format=json",
+      "date_created": "2022-02-13T11:03:19.827190-08:00",
+      "date_modified": "2022-02-13T11:03:19.827212-08:00",
+      "url": "https://ballotpedia.org/Shelyna_V._Brown",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6876/?format=json",
+      "id": 6876,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13828/?format=json",
+      "date_created": "2022-02-13T11:03:19.831167-08:00",
+      "date_modified": "2022-02-13T11:03:19.831188-08:00",
+      "url": "http://1x937u16qcra1vnejt2hj4jl-wpengine.netdna-ssl.com/wp-content/uploads/Judge-Shelyna-Brown-bio.pdf",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7309/?format=json",
+      "id": 7309,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5312/?format=json",
+        "id": 5312,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Santa Clara University",
+        "ein": 941156697
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13828/?format=json",
+      "date_created": "2022-02-13T09:03:43.998279-08:00",
+      "date_modified": "2022-02-13T09:03:43.998303-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1996
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7308/?format=json",
+      "id": 7308,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1532/?format=json",
+        "id": 1532,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Davis",
+        "ein": 946036494
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13828/?format=json",
+      "date_created": "2022-02-13T09:03:43.985414-08:00",
+      "date_modified": "2022-02-13T11:03:19.809391-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Sociology, African American Studies",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7323/?format=json",
+      "id": 7323,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2624/?format=json",
+        "id": 2624,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Cornell University",
+        "ein": 150532082
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13828/?format=json",
+      "date_created": "2022-02-13T11:03:19.817499-08:00",
+      "date_modified": "2022-02-13T11:03:19.817524-08:00",
+      "degree_level": "cert",
+      "degree_detail": "Diversity & Inclusion",
+      "degree_year": 2021
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43462/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5260/?format=json",
+      "id": 5260,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13828/?format=json",
+      "date_created": "2022-02-13T07:50:38.351255-08:00",
+      "date_modified": "2022-02-13T07:50:38.351278-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5271/?format=json",
+      "id": 5271,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13828/?format=json",
+      "date_created": "2022-02-13T09:03:44.004578-08:00",
+      "date_modified": "2022-02-13T09:03:44.004612-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:56.318146-07:00",
+  "date_modified": "2022-02-13T11:03:19.793762-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "shelyna-v-brown",
+  "name_first": "Shelyna",
+  "name_middle": "V.",
+  "name_last": "Brown",
+  "name_suffix": "",
+  "date_dob": "1970-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,65 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2801/?format=json",
+  "id": 2801,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1754/?format=json",
+      "id": 1754,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2801/?format=json",
+      "date_created": "2016-04-20T08:22:18.269984-07:00",
+      "date_modified": "2016-04-20T08:22:18.270035-07:00",
+      "year_rated": 1971,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/17544/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17545/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17543/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2809/?format=json",
+      "id": 2809,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2801/?format=json",
+      "date_created": "2016-04-20T08:22:18.261750-07:00",
+      "date_modified": "2016-04-20T08:22:18.261802-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1971-04-29",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:18.217903-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2069,
+  "slug": "carl-bernard-rubin",
+  "name_first": "Carl",
+  "name_middle": "Bernard",
+  "name_last": "Rubin",
+  "name_suffix": "",
+  "date_dob": "1920-03-27",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1995-08-02",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Cincinnati",
+  "dob_state": "OH",
+  "dob_country": "United States",
+  "dod_city": "Cincinnati",
+  "dod_state": "OH",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

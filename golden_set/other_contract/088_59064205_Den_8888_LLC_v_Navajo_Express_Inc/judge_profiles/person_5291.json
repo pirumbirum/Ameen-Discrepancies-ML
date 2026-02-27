@@ -1,0 +1,123 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5291/?format=json",
+  "id": 5291,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1461/?format=json",
+      "id": 1461,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5291/?format=json",
+      "date_created": "2016-04-20T08:26:07.965856-07:00",
+      "date_modified": "2016-04-20T08:26:07.965885-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/100036130690",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4329/?format=json",
+      "id": 4329,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/978/?format=json",
+        "id": 978,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of North Carolina at Chapel Hill",
+        "ein": 566001393
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5291/?format=json",
+      "date_created": "2016-04-20T08:26:07.937063-07:00",
+      "date_modified": "2016-04-20T08:26:07.937098-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4330/?format=json",
+      "id": 4330,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/978/?format=json",
+        "id": 978,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of North Carolina at Chapel Hill",
+        "ein": 566001393
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5291/?format=json",
+      "date_created": "2016-04-20T08:26:07.952228-07:00",
+      "date_modified": "2016-04-20T08:26:07.952259-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6331/?format=json",
+      "id": 6331,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/978/?format=json",
+        "id": 978,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of North Carolina at Chapel Hill",
+        "ein": 566001393
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5291/?format=json",
+      "date_created": "2016-04-20T08:28:44.687203-07:00",
+      "date_modified": "2016-04-20T08:28:44.687243-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27088/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27089/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32867/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32868/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4781/?format=json",
+      "id": 4781,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5291/?format=json",
+      "date_created": "2016-04-20T08:28:44.718757-07:00",
+      "date_modified": "2016-04-20T08:28:44.718784-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:07.911005-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "barbara-jackson",
+  "name_first": "Barbara",
+  "name_middle": "",
+  "name_last": "Jackson",
+  "name_suffix": "",
+  "date_dob": "1961-12-25",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": 315351.11,
+  "ftm_eid": "13009898",
+  "has_photo": false
+}

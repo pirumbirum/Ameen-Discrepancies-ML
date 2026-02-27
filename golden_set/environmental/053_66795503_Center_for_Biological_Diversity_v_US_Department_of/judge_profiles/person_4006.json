@@ -1,0 +1,68 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4006/?format=json",
+  "id": 4006,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/106/?format=json",
+      "id": 106,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4006/?format=json",
+      "date_created": "2016-04-20T08:24:35.175231-07:00",
+      "date_modified": "2016-04-20T08:24:35.175249-07:00",
+      "url": "http://courts.delaware.gov/supreme/justices.stm",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3341/?format=json",
+      "id": 3341,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3989/?format=json",
+        "id": 3989,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Delaware",
+        "ein": 516000297
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4006/?format=json",
+      "date_created": "2016-04-20T08:24:35.152784-07:00",
+      "date_modified": "2016-04-20T08:24:35.152818-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23651/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:35.125539-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "collins-j-seitz",
+  "name_first": "Collins",
+  "name_middle": "J.",
+  "name_last": "Seitz",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

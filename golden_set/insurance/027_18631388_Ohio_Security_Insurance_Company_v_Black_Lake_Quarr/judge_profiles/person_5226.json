@@ -1,0 +1,85 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5226/?format=json",
+  "id": 5226,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1389/?format=json",
+      "id": 1389,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5226/?format=json",
+      "date_created": "2016-04-20T08:26:03.172908-07:00",
+      "date_modified": "2016-04-20T08:26:03.172929-07:00",
+      "url": "http://www.nytimes.com/2001/03/06/nyregion/hugh-r-jones-86-ex-judge-on-new-york-court-of-appeals.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4260/?format=json",
+      "id": 4260,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5226/?format=json",
+      "date_created": "2016-04-20T08:26:03.139057-07:00",
+      "date_modified": "2016-04-20T08:26:03.139081-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26881/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26882/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26883/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26884/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4220/?format=json",
+      "id": 4220,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5226/?format=json",
+      "date_created": "2016-04-20T08:26:03.167357-07:00",
+      "date_modified": "2016-04-20T08:26:03.167382-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:03.104508-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "hugh-richard-jones",
+  "name_first": "Hugh",
+  "name_middle": "Richard",
+  "name_last": "Jones",
+  "name_suffix": "",
+  "date_dob": "1914-03-19",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2001-03-03",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

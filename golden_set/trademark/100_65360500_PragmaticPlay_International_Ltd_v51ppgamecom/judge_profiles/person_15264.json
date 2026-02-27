@@ -1,0 +1,65 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15264/?format=json",
+  "id": 15264,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16128/?format=json",
+      "id": 16128,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15264/?format=json",
+      "date_created": "2022-04-22T09:36:04.476408-07:00",
+      "date_modified": "2022-04-22T09:36:04.476430-07:00",
+      "url": "https://afro.com/the-battle-for-mayor-in-one-of-americas-proudest-black-cities-is-underway/",
+      "date_accessed": "2022-04-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44810/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44811/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7915/?format=json",
+      "id": 7915,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15264/?format=json",
+      "date_created": "2022-04-22T09:36:04.474750-07:00",
+      "date_modified": "2022-04-22T09:36:04.474772-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-22T09:36:04.447965-07:00",
+  "date_modified": "2022-04-22T09:36:04.448011-07:00",
+  "date_completed": "2022-04-22T09:34:03-07:00",
+  "fjc_id": null,
+  "slug": "ernest-d-davis",
+  "name_first": "Ernest",
+  "name_middle": "D.",
+  "name_last": "Davis",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

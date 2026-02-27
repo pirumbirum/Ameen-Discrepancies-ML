@@ -1,0 +1,65 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4774/?format=json",
+  "id": 4774,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/983/?format=json",
+      "id": 983,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4774/?format=json",
+      "date_created": "2016-04-20T08:25:27.753381-07:00",
+      "date_modified": "2016-04-20T08:25:27.753412-07:00",
+      "url": "http://www.mlive.com/politics/index.ssf/2010/08/granholms_supreme_court_appoin.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25632/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25633/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25634/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32196/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4075/?format=json",
+      "id": 4075,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4774/?format=json",
+      "date_created": "2016-04-20T08:25:27.748120-07:00",
+      "date_modified": "2016-04-20T08:25:27.748153-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:27.667755-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "alton-davis",
+  "name_first": "Alton",
+  "name_middle": "",
+  "name_last": "Davis",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

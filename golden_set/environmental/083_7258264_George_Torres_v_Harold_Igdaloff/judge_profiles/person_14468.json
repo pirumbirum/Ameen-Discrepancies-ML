@@ -1,0 +1,172 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14468/?format=json",
+  "id": 14468,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8554/?format=json",
+      "id": 8554,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14468/?format=json",
+      "date_created": "2022-02-23T17:44:54.260746-08:00",
+      "date_modified": "2022-02-23T17:44:54.260772-08:00",
+      "url": "https://en.wikipedia.org/wiki/Mark_C._Scarsi",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8555/?format=json",
+      "id": 8555,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14468/?format=json",
+      "date_created": "2022-02-23T17:44:54.262591-08:00",
+      "date_modified": "2022-02-23T17:44:54.262617-08:00",
+      "url": "https://ballotpedia.org/Mark_Scarsi",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8556/?format=json",
+      "id": 8556,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14468/?format=json",
+      "date_created": "2022-02-23T17:44:54.263827-08:00",
+      "date_modified": "2022-02-23T17:44:54.263853-08:00",
+      "url": "https://www.judiciary.senate.gov/imo/media/doc/Mark%20Scarsi%20SJQ%20-%20PUBLIC.pdf",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8557/?format=json",
+      "id": 8557,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14468/?format=json",
+      "date_created": "2022-02-23T17:44:54.265077-08:00",
+      "date_modified": "2022-02-23T17:44:54.265101-08:00",
+      "url": "https://www.cacd.uscourts.gov/honorable-mark-c-scarsi",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8558/?format=json",
+      "id": 8558,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14468/?format=json",
+      "date_created": "2022-02-23T17:44:54.266315-08:00",
+      "date_modified": "2022-02-23T17:44:54.266340-08:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Scarsi-MC.%20J3.%2009.%20CAC_SR_20.pdf",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8559/?format=json",
+      "id": 8559,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14468/?format=json",
+      "date_created": "2022-02-23T17:44:54.267499-08:00",
+      "date_modified": "2022-02-23T17:44:54.267524-08:00",
+      "url": "https://www.uscourts.gov/judicial-milestones/mark-c-scarsi",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7973/?format=json",
+      "id": 7973,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5699/?format=json",
+        "id": 5699,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Syracuse University",
+        "ein": 150532081
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14468/?format=json",
+      "date_created": "2022-02-23T17:44:54.249418-08:00",
+      "date_modified": "2022-02-23T17:44:54.249444-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Computer Science",
+      "degree_year": 1987
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7974/?format=json",
+      "id": 7974,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5699/?format=json",
+        "id": 5699,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Syracuse University",
+        "ein": 150532081
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14468/?format=json",
+      "date_created": "2022-02-23T17:44:54.254840-08:00",
+      "date_modified": "2022-02-23T17:44:54.254866-08:00",
+      "degree_level": "ma",
+      "degree_detail": "Computer Science",
+      "degree_year": 1993
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7975/?format=json",
+      "id": 7975,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6053/?format=json",
+        "id": 6053,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Georgetown University",
+        "ein": 530196603
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14468/?format=json",
+      "date_created": "2022-02-23T17:44:54.259267-08:00",
+      "date_modified": "2022-02-23T17:44:54.259294-08:00",
+      "degree_level": "jd",
+      "degree_detail": "magna cum laude",
+      "degree_year": 1996
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44374/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5706/?format=json",
+      "id": 5706,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14468/?format=json",
+      "date_created": "2022-02-23T18:29:39.342532-08:00",
+      "date_modified": "2022-02-23T18:29:39.342558-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-02-23T17:44:54.225258-08:00",
+  "date_modified": "2022-02-23T18:29:39.327342-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "mark-christopher-scarsi",
+  "name_first": "Mark",
+  "name_middle": "Christopher",
+  "name_last": "Scarsi",
+  "name_suffix": "",
+  "date_dob": "1964-12-23",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Syracuse",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

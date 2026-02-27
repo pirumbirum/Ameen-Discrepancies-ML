@@ -1,0 +1,97 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3561/?format=json",
+  "id": 3561,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2986/?format=json",
+      "id": 2986,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3989/?format=json",
+        "id": 3989,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Delaware",
+        "ein": 516000297
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3561/?format=json",
+      "date_created": "2016-04-20T08:24:06.354805-07:00",
+      "date_modified": "2016-04-20T08:24:06.354829-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1930
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2987/?format=json",
+      "id": 2987,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3561/?format=json",
+      "date_created": "2016-04-20T08:24:06.383430-07:00",
+      "date_modified": "2016-04-20T08:24:06.383457-07:00",
+      "degree_level": "llb",
+      "degree_detail": "LL.B.",
+      "degree_year": 1933
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22414/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22415/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22416/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22417/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22418/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22419/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3580/?format=json",
+      "id": 3580,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3561/?format=json",
+      "date_created": "2016-04-20T08:24:06.340236-07:00",
+      "date_modified": "2016-04-20T08:24:06.340260-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1955-07-01",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:06.308204-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2657,
+  "slug": "caleb-merrill-wright",
+  "name_first": "Caleb",
+  "name_middle": "Merrill",
+  "name_last": "Wright",
+  "name_suffix": "",
+  "date_dob": "1908-10-07",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2001-05-12",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Georgetown",
+  "dob_state": "DE",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

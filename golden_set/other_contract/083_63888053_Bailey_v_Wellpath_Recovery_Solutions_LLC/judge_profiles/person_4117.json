@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4117/?format=json",
+  "id": 4117,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/205/?format=json",
+      "id": 205,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4117/?format=json",
+      "date_created": "2016-04-20T08:24:41.691538-07:00",
+      "date_modified": "2016-04-20T08:24:41.691568-07:00",
+      "url": "http://www.staradvertiser.com/editorials/20100801_Justice_and_gender.html",
+      "date_accessed": null,
+      "notes": "First female member of Hawaii Supreme Court"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23891/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:41.675677-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "rhoda-lewis",
+  "name_first": "Rhoda",
+  "name_middle": "",
+  "name_last": "Lewis",
+  "name_suffix": "",
+  "date_dob": "1906-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": "1991-01-01",
+  "date_granularity_dod": "%Y",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

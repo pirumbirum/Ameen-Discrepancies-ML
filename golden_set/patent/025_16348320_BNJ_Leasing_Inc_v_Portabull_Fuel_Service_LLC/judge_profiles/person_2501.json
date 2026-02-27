@@ -1,0 +1,60 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2501/?format=json",
+  "id": 2501,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/15620/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15621/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15622/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15623/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15624/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15625/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15626/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15627/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2510/?format=json",
+      "id": 2510,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2501/?format=json",
+      "date_created": "2016-04-20T08:21:37.297501-07:00",
+      "date_modified": "2016-04-20T08:21:37.297526-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1875-03-18",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:37.265906-07:00",
+  "date_modified": "2020-11-25T08:30:15.210863-08:00",
+  "date_completed": null,
+  "fjc_id": 1836,
+  "slug": "isaac-charles-parker",
+  "name_first": "Isaac",
+  "name_middle": "Charles",
+  "name_last": "Parker",
+  "name_suffix": "",
+  "date_dob": "1838-10-15",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1896-11-17",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "near Barnesville",
+  "dob_state": "OH",
+  "dob_country": "United States",
+  "dod_city": "Fort Smith",
+  "dod_state": "AR",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

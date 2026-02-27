@@ -1,0 +1,175 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15671/?format=json",
+  "id": 15671,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17932/?format=json",
+      "id": 17932,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15671/?format=json",
+      "date_created": "2022-07-06T08:36:22.458322-07:00",
+      "date_modified": "2022-07-06T08:36:22.458355-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17933/?format=json",
+      "id": 17933,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15671/?format=json",
+      "date_created": "2022-07-06T08:40:15.134201-07:00",
+      "date_modified": "2022-07-06T08:40:15.134220-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=62902&office=22066",
+      "date_accessed": "2022-07-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17934/?format=json",
+      "id": 17934,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15671/?format=json",
+      "date_created": "2022-07-06T08:40:15.135144-07:00",
+      "date_modified": "2022-07-06T08:40:15.135159-07:00",
+      "url": "https://business.angletonchamber.org/list/member/gilbert-justin-r-judge-412th-district-court-5783",
+      "date_accessed": "2022-07-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17935/?format=json",
+      "id": 17935,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15671/?format=json",
+      "date_created": "2022-07-06T08:40:15.135728-07:00",
+      "date_modified": "2022-07-06T08:40:15.135743-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=277755",
+      "date_accessed": "2022-07-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17936/?format=json",
+      "id": 17936,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15671/?format=json",
+      "date_created": "2022-07-06T08:40:15.136359-07:00",
+      "date_modified": "2022-07-06T08:40:15.136371-07:00",
+      "url": "http://www.alvinsun.net/news/article_739a043a-b2d4-11e9-9bf1-f30c8f265e00.html",
+      "date_accessed": "2022-07-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17937/?format=json",
+      "id": 17937,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15671/?format=json",
+      "date_created": "2022-07-06T08:40:15.136870-07:00",
+      "date_modified": "2022-07-06T08:40:15.136882-07:00",
+      "url": "https://brazoriagop.org/county-officials/",
+      "date_accessed": "2022-07-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17938/?format=json",
+      "id": 17938,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15671/?format=json",
+      "date_created": "2022-07-06T08:40:15.137323-07:00",
+      "date_modified": "2022-07-06T08:40:15.137334-07:00",
+      "url": "https://www.lawyer.com/justin-gilbert.html",
+      "date_accessed": "2022-07-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17939/?format=json",
+      "id": 17939,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15671/?format=json",
+      "date_created": "2022-07-06T08:40:15.137754-07:00",
+      "date_modified": "2022-07-06T08:40:15.137765-07:00",
+      "url": "",
+      "date_accessed": "2022-07-06",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12059/?format=json",
+      "id": 12059,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15671/?format=json",
+      "date_created": "2022-07-06T08:36:22.346345-07:00",
+      "date_modified": "2022-07-06T08:36:22.346367-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 2000
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12060/?format=json",
+      "id": 12060,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3164/?format=json",
+        "id": 3164,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Tech University",
+        "ein": 756002622
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15671/?format=json",
+      "date_created": "2022-07-06T08:36:22.390928-07:00",
+      "date_modified": "2022-07-06T08:36:22.390957-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2003
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50296/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50297/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50298/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8175/?format=json",
+      "id": 8175,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15671/?format=json",
+      "date_created": "2022-07-06T08:36:22.394147-07:00",
+      "date_modified": "2022-07-06T08:36:22.394167-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-06T08:36:21.877810-07:00",
+  "date_modified": "2022-07-06T08:40:15.126464-07:00",
+  "date_completed": "2022-07-06T08:25:39-07:00",
+  "fjc_id": null,
+  "slug": "justin-robert-gilbert",
+  "name_first": "Justin",
+  "name_middle": "Robert",
+  "name_last": "Gilbert",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14182/?format=json",
+  "id": 14182,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13184/?format=json",
+      "id": 13184,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14182/?format=json",
+      "date_created": "2022-03-16T15:51:09.199583-07:00",
+      "date_modified": "2022-03-16T15:51:09.199605-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13185/?format=json",
+      "id": 13185,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14182/?format=json",
+      "date_created": "2022-03-16T15:51:09.205366-07:00",
+      "date_modified": "2022-03-16T15:51:09.205390-07:00",
+      "url": "https://www.martindale.com/attorney/laura-susanne-woods-192061/",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13186/?format=json",
+      "id": 13186,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14182/?format=json",
+      "date_created": "2022-03-16T15:51:09.209500-07:00",
+      "date_modified": "2022-03-16T15:51:09.209523-07:00",
+      "url": "https://ballotpedia.org/Laura_Woods_(California)",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13187/?format=json",
+      "id": 13187,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14182/?format=json",
+      "date_created": "2022-03-16T15:51:09.220126-07:00",
+      "date_modified": "2022-03-16T15:51:09.220150-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10134/?format=json",
+      "id": 10134,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3219/?format=json",
+        "id": 3219,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Pepperdine University",
+        "ein": 951644037
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14182/?format=json",
+      "date_created": "2022-03-16T15:51:09.185145-07:00",
+      "date_modified": "2022-03-16T15:51:09.185169-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1986
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10135/?format=json",
+      "id": 10135,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2137/?format=json",
+        "id": 2137,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Western State College of Law at Argosy University",
+        "ein": 952313875
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14182/?format=json",
+      "date_created": "2022-03-16T15:51:09.194836-07:00",
+      "date_modified": "2022-03-16T15:51:09.194860-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1994
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43866/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7186/?format=json",
+      "id": 7186,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14182/?format=json",
+      "date_created": "2022-03-16T15:51:09.166700-07:00",
+      "date_modified": "2022-03-16T15:51:09.166725-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7187/?format=json",
+      "id": 7187,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14182/?format=json",
+      "date_created": "2022-03-16T15:51:09.173433-07:00",
+      "date_modified": "2022-03-16T15:51:09.173456-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:11.309879-07:00",
+  "date_modified": "2022-03-23T16:46:36.116215-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "laura-susanne-woods",
+  "name_first": "Laura",
+  "name_middle": "Susanne",
+  "name_last": "Woods",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

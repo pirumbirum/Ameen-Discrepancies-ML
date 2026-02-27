@@ -1,0 +1,143 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13032/?format=json",
+  "id": 13032,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7103/?format=json",
+      "id": 7103,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13032/?format=json",
+      "date_created": "2022-02-15T12:20:41.975252-08:00",
+      "date_modified": "2022-02-15T14:37:53.162339-08:00",
+      "url": "https://trellis.law/judge/shelleyanne.w.l.chang",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7102/?format=json",
+      "id": 7102,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13032/?format=json",
+      "date_created": "2022-02-15T12:18:25.731214-08:00",
+      "date_modified": "2022-02-15T12:20:41.966575-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-15",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7139/?format=json",
+      "id": 7139,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13032/?format=json",
+      "date_created": "2022-02-15T14:37:53.167426-08:00",
+      "date_modified": "2022-02-15T14:37:53.167450-08:00",
+      "url": "https://ballotpedia.org/Shelleyanne_W._L._Chang",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7140/?format=json",
+      "id": 7140,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13032/?format=json",
+      "date_created": "2022-02-15T14:37:53.173698-08:00",
+      "date_modified": "2022-02-15T14:37:53.173722-08:00",
+      "url": "https://www.martindale.com/attorney/shelleyann-wai-ling-chang-197750/",
+      "date_accessed": "2022-02-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7141/?format=json",
+      "id": 7141,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13032/?format=json",
+      "date_created": "2022-02-15T14:37:53.180550-08:00",
+      "date_modified": "2022-02-15T14:37:53.180574-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-15",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7401/?format=json",
+      "id": 7401,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5415/?format=json",
+        "id": 5415,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Washington-Seattle Campus",
+        "ein": 160001537
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13032/?format=json",
+      "date_created": "2022-02-15T12:20:41.941458-08:00",
+      "date_modified": "2022-02-15T14:37:53.149541-08:00",
+      "degree_level": "ba",
+      "degree_detail": "International Studies",
+      "degree_year": 1982
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7402/?format=json",
+      "id": 7402,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5646/?format=json",
+        "id": 5646,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of the Pacific",
+        "ein": 941156266
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13032/?format=json",
+      "date_created": "2022-02-15T12:20:41.949532-08:00",
+      "date_modified": "2022-02-15T14:37:53.157066-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1985
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42357/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5337/?format=json",
+      "id": 5337,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13032/?format=json",
+      "date_created": "2022-02-15T12:20:41.955379-08:00",
+      "date_modified": "2022-02-15T12:20:41.955402-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:19.129990-07:00",
+  "date_modified": "2022-02-15T14:37:53.135186-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "shelleyanne-wai-ling-chang",
+  "name_first": "Shelleyanne",
+  "name_middle": "Wai Ling",
+  "name_last": "Chang",
+  "name_suffix": "",
+  "date_dob": "1960-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

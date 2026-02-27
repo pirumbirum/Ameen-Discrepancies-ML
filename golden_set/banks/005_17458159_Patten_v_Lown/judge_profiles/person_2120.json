@@ -1,0 +1,117 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2120/?format=json",
+  "id": 2120,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1757/?format=json",
+      "id": 1757,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2120/?format=json",
+      "date_created": "2016-04-20T08:20:45.169461-07:00",
+      "date_modified": "2016-04-20T08:20:45.169487-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1882
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1758/?format=json",
+      "id": 1758,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2120/?format=json",
+      "date_created": "2016-04-20T08:20:45.199334-07:00",
+      "date_modified": "2016-04-20T08:20:45.199362-07:00",
+      "degree_level": "llb",
+      "degree_detail": "LL.B.",
+      "degree_year": 1886
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1759/?format=json",
+      "id": 1759,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2120/?format=json",
+      "date_created": "2016-04-20T08:20:45.214013-07:00",
+      "date_modified": "2016-04-20T08:20:45.214038-07:00",
+      "degree_level": "ma",
+      "degree_detail": "A.M.",
+      "degree_year": 1886
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/13257/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13258/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13259/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13260/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13261/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13262/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13263/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2128/?format=json",
+      "id": 2128,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2120/?format=json",
+      "date_created": "2016-04-20T08:20:45.133383-07:00",
+      "date_modified": "2016-04-20T08:20:45.133409-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1914-09-29",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:45.098154-07:00",
+  "date_modified": "2020-11-25T08:30:13.074090-08:00",
+  "date_completed": null,
+  "fjc_id": 1535,
+  "slug": "walter-irving-mccoy",
+  "name_first": "Walter",
+  "name_middle": "Irving",
+  "name_last": "McCoy",
+  "name_suffix": "",
+  "date_dob": "1859-12-08",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1933-07-17",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Troy",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "Cambridge",
+  "dod_state": "MA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

@@ -1,0 +1,133 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13102/?format=json",
+  "id": 13102,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13077/?format=json",
+      "id": 13077,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13102/?format=json",
+      "date_created": "2022-03-16T14:17:26.470378-07:00",
+      "date_modified": "2022-03-16T14:17:26.470402-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13078/?format=json",
+      "id": 13078,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13102/?format=json",
+      "date_created": "2022-03-16T14:17:26.475040-07:00",
+      "date_modified": "2022-03-16T14:17:26.475063-07:00",
+      "url": "https://ballotpedia.org/David_A._Williams_(California)",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13079/?format=json",
+      "id": 13079,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13102/?format=json",
+      "date_created": "2022-03-16T14:17:26.479096-07:00",
+      "date_modified": "2022-03-16T14:17:26.479120-07:00",
+      "url": "https://trellis.law/judge/david.a.williams",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13080/?format=json",
+      "id": 13080,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13102/?format=json",
+      "date_created": "2022-03-16T14:17:26.487478-07:00",
+      "date_modified": "2022-03-16T14:17:26.487502-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10088/?format=json",
+      "id": 10088,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3117/?format=json",
+        "id": 3117,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Southern California",
+        "ein": 951642394
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13102/?format=json",
+      "date_created": "2022-03-16T14:17:26.456732-07:00",
+      "date_modified": "2022-03-16T14:17:26.456756-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Business",
+      "degree_year": 1973
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10089/?format=json",
+      "id": 10089,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6194/?format=json",
+        "id": 6194,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Whittier College",
+        "ein": 951644048
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13102/?format=json",
+      "date_created": "2022-03-16T14:17:26.464760-07:00",
+      "date_modified": "2022-03-16T14:17:26.464785-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1978
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42452/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7153/?format=json",
+      "id": 7153,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13102/?format=json",
+      "date_created": "2022-03-16T14:17:26.445959-07:00",
+      "date_modified": "2022-03-16T14:17:26.445984-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:22.277507-07:00",
+  "date_modified": "2022-03-23T16:22:56.022558-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "david-a-williams",
+  "name_first": "David",
+  "name_middle": "A.",
+  "name_last": "Williams",
+  "name_suffix": "",
+  "date_dob": "1950-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

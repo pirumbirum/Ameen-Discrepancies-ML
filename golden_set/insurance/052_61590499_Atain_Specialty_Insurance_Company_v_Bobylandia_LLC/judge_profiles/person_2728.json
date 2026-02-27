@@ -1,0 +1,114 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2728/?format=json",
+  "id": 2728,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2274/?format=json",
+      "id": 2274,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2261/?format=json",
+        "id": 2261,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "DePauw University",
+        "ein": 350869045
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2728/?format=json",
+      "date_created": "2016-04-20T08:22:08.363884-07:00",
+      "date_modified": "2016-04-20T08:22:08.363907-07:00",
+      "degree_level": "phd",
+      "degree_detail": "Ph.D.",
+      "degree_year": 1891
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2275/?format=json",
+      "id": 2275,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2261/?format=json",
+        "id": 2261,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "DePauw University",
+        "ein": 350869045
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2728/?format=json",
+      "date_created": "2016-04-20T08:22:08.376627-07:00",
+      "date_modified": "2016-04-20T08:22:08.376650-07:00",
+      "degree_level": "llb",
+      "degree_detail": "LL.B.",
+      "degree_year": 1892
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2276/?format=json",
+      "id": 2276,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2261/?format=json",
+        "id": 2261,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "DePauw University",
+        "ein": 350869045
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2728/?format=json",
+      "date_created": "2016-04-20T08:22:08.389258-07:00",
+      "date_modified": "2016-04-20T08:22:08.389282-07:00",
+      "degree_level": "ma",
+      "degree_detail": "A.M.",
+      "degree_year": 1893
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/17074/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17075/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17076/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17073/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2736/?format=json",
+      "id": 2736,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2728/?format=json",
+      "date_created": "2016-04-20T08:22:08.350798-07:00",
+      "date_modified": "2016-04-20T08:22:08.350821-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1929-01-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:08.319712-07:00",
+  "date_modified": "2020-11-25T08:30:14.688567-08:00",
+  "date_completed": null,
+  "fjc_id": 2016,
+  "slug": "halsted-lockwood-ritter",
+  "name_first": "Halsted",
+  "name_middle": "Lockwood",
+  "name_last": "Ritter",
+  "name_suffix": "",
+  "date_dob": "1868-07-14",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1951-10-15",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Indianapolis",
+  "dob_state": "IN",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

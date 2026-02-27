@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/10632/?format=json",
+  "id": 10632,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8657/?format=json",
+      "id": 8657,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/10632/?format=json",
+      "date_created": "2022-02-24T13:58:28.885147-08:00",
+      "date_modified": "2022-02-24T13:58:28.885179-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-24",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8658/?format=json",
+      "id": 8658,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/10632/?format=json",
+      "date_created": "2022-02-24T13:58:28.893741-08:00",
+      "date_modified": "2022-02-24T13:58:28.893764-08:00",
+      "url": "https://ballotpedia.org/John_Gallagher_(California)",
+      "date_accessed": "2022-02-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8659/?format=json",
+      "id": 8659,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/10632/?format=json",
+      "date_created": "2022-02-24T13:58:28.899679-08:00",
+      "date_modified": "2022-02-24T13:58:28.899704-08:00",
+      "url": "https://trellis.law/judge/john.m.gallagher",
+      "date_accessed": "2022-02-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8660/?format=json",
+      "id": 8660,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/10632/?format=json",
+      "date_created": "2022-02-24T13:58:28.904694-08:00",
+      "date_modified": "2022-02-24T13:58:28.904717-08:00",
+      "url": "https://www.bloomberg.com/profile/person/19665889",
+      "date_accessed": "2022-02-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8661/?format=json",
+      "id": 8661,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/10632/?format=json",
+      "date_created": "2022-02-24T13:58:28.915816-08:00",
+      "date_modified": "2022-02-24T13:58:28.915840-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-24",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8016/?format=json",
+      "id": 8016,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6114/?format=json",
+        "id": 6114,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "United States Military Academy",
+        "ein": -1
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/10632/?format=json",
+      "date_created": "2022-02-24T13:58:28.815476-08:00",
+      "date_modified": "2022-02-24T13:58:28.815500-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1972
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8017/?format=json",
+      "id": 8017,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5210/?format=json",
+        "id": 5210,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2025-06-15T22:32:10.957501-07:00",
+        "name": "UC Law San Francisco",
+        "ein": 942581680
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/10632/?format=json",
+      "date_created": "2022-02-24T13:58:28.825156-08:00",
+      "date_modified": "2022-02-24T13:58:28.825180-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1980
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43347/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5740/?format=json",
+      "id": 5740,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/10632/?format=json",
+      "date_created": "2022-02-24T13:58:28.835451-08:00",
+      "date_modified": "2022-02-24T13:58:28.835474-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5741/?format=json",
+      "id": 5741,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/10632/?format=json",
+      "date_created": "2022-02-24T13:58:28.843098-08:00",
+      "date_modified": "2022-02-24T13:58:28.843131-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-19T17:50:30.293991-07:00",
+  "date_modified": "2022-03-19T13:41:11.352246-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "john-m-gallagher",
+  "name_first": "John",
+  "name_middle": "M.",
+  "name_last": "Gallagher",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

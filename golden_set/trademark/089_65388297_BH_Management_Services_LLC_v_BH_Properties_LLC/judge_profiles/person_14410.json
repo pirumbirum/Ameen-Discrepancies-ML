@@ -1,0 +1,102 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14410/?format=json",
+  "id": 14410,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6081/?format=json",
+      "id": 6081,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14410/?format=json",
+      "date_created": "2021-11-22T12:55:33.328720-08:00",
+      "date_modified": "2021-11-22T12:55:33.328743-08:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2021-11-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2411/?format=json",
+      "id": 2411,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14410/?format=json",
+      "date_created": "2021-11-22T12:55:33.324420-08:00",
+      "date_modified": "2021-11-22T12:55:33.324444-08:00",
+      "year_rated": 2019,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6944/?format=json",
+      "id": 6944,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14410/?format=json",
+      "date_created": "2021-11-22T12:55:33.347376-08:00",
+      "date_modified": "2021-11-22T12:55:33.347401-08:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1991
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44117/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44118/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44119/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44120/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44121/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44122/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44123/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44124/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44125/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5011/?format=json",
+      "id": 5011,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14410/?format=json",
+      "date_created": "2021-11-22T12:55:33.318910-08:00",
+      "date_modified": "2021-11-22T12:55:33.318933-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2019-01-17",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-11-22T12:55:33.271564-08:00",
+  "date_modified": "2021-11-22T12:55:33.271588-08:00",
+  "date_completed": null,
+  "fjc_id": 6834676,
+  "slug": "sean-d-jordan",
+  "name_first": "Sean",
+  "name_middle": "D.",
+  "name_last": "Jordan",
+  "name_suffix": "",
+  "date_dob": "1965-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "New York",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

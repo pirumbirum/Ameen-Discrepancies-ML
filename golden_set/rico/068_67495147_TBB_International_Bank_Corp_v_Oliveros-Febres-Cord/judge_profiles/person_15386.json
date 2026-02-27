@@ -1,0 +1,141 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15386/?format=json",
+  "id": 15386,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16565/?format=json",
+      "id": 16565,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15386/?format=json",
+      "date_created": "2022-05-26T12:34:35.119151-07:00",
+      "date_modified": "2022-05-26T12:34:35.119172-07:00",
+      "url": "https://ballotpedia.org/Giselle_Lopez_Soler",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16566/?format=json",
+      "id": 16566,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15386/?format=json",
+      "date_created": "2022-05-26T12:34:35.125239-07:00",
+      "date_modified": "2022-05-26T12:34:35.125260-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Lopez%20Solar-G.%20M.%2001.%20PR%20Ini_SIA_SR_20.pdf",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16567/?format=json",
+      "id": 16567,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15386/?format=json",
+      "date_created": "2022-05-26T12:34:35.126700-07:00",
+      "date_modified": "2022-05-26T12:34:35.126717-07:00",
+      "url": "https://www.martindale.com/attorney/giselle-lopez-soler-13986962/",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16568/?format=json",
+      "id": 16568,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15386/?format=json",
+      "date_created": "2022-05-26T12:34:35.128892-07:00",
+      "date_modified": "2022-05-26T12:34:35.128909-07:00",
+      "url": "https://www.uscourts.gov/judicial-milestones/giselle-lopez-soler",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11624/?format=json",
+      "id": 11624,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3394/?format=json",
+        "id": 3394,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tufts University",
+        "ein": 42103634
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15386/?format=json",
+      "date_created": "2022-05-26T12:34:35.101380-07:00",
+      "date_modified": "2022-05-26T12:34:35.101402-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Psychology",
+      "degree_year": 1997
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11625/?format=json",
+      "id": 11625,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3941/?format=json",
+        "id": 3941,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "New York University",
+        "ein": 135562308
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15386/?format=json",
+      "date_created": "2022-05-26T12:34:35.110362-07:00",
+      "date_modified": "2022-05-26T12:34:35.110387-07:00",
+      "degree_level": "ma",
+      "degree_detail": "Pscyhology",
+      "degree_year": 2000
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11626/?format=json",
+      "id": 11626,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5251/?format=json",
+        "id": 5251,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Puerto Rico-Rio Piedras",
+        "ein": 660433760
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15386/?format=json",
+      "date_created": "2022-05-26T12:34:35.116391-07:00",
+      "date_modified": "2022-05-26T12:34:35.116413-07:00",
+      "degree_level": "jd",
+      "degree_detail": "magna cum laude",
+      "degree_year": 2004
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/48002/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48003/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48004/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48005/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-05-26T12:34:35.026333-07:00",
+  "date_modified": "2022-05-26T12:35:47.852782-07:00",
+  "date_completed": "2022-05-26T12:22:43-07:00",
+  "fjc_id": null,
+  "slug": "giselle-m-lopez-soler",
+  "name_first": "Giselle",
+  "name_middle": "M.",
+  "name_last": "Lopez-Soler",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

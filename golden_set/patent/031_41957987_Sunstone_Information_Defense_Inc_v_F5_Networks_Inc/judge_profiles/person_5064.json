@@ -1,0 +1,84 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5064/?format=json",
+  "id": 5064,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1238/?format=json",
+      "id": 1238,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5064/?format=json",
+      "date_created": "2016-04-20T08:25:51.488543-07:00",
+      "date_modified": "2016-04-20T08:25:51.488575-07:00",
+      "url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=Y000032",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4099/?format=json",
+      "id": 4099,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5064/?format=json",
+      "date_created": "2016-04-20T08:25:51.455124-07:00",
+      "date_modified": "2016-04-20T08:25:51.455164-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26420/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26421/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26422/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4154/?format=json",
+      "id": 4154,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5064/?format=json",
+      "date_created": "2016-04-20T08:25:51.482192-07:00",
+      "date_modified": "2016-04-20T08:25:51.482229-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:51.395494-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "clarence-clifton-young",
+  "name_first": "Clarence",
+  "name_middle": "Clifton",
+  "name_last": "Young",
+  "name_suffix": "",
+  "date_dob": "1922-11-07",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

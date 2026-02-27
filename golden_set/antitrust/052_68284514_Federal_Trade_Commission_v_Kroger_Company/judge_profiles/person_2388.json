@@ -1,0 +1,79 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2388/?format=json",
+  "id": 2388,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1978/?format=json",
+      "id": 1978,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3497/?format=json",
+        "id": 3497,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Middlebury College",
+        "ein": 30179298
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2388/?format=json",
+      "date_created": "2016-04-20T08:21:21.436495-07:00",
+      "date_modified": "2016-04-20T08:21:21.436518-07:00",
+      "degree_level": "",
+      "degree_detail": "",
+      "degree_year": 1813
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14901/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14902/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14903/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14904/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14905/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14906/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14907/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2394/?format=json",
+      "id": 2394,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2388/?format=json",
+      "date_created": "2016-04-20T08:21:21.421711-07:00",
+      "date_modified": "2016-04-20T08:21:21.421735-07:00",
+      "political_party": "w",
+      "source": "a",
+      "date_start": "1845-02-04",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:21.389497-07:00",
+  "date_modified": "2020-11-25T08:30:23.679907-08:00",
+  "date_completed": null,
+  "fjc_id": 1745,
+  "slug": "samuel-nelson",
+  "name_first": "Samuel",
+  "name_middle": "",
+  "name_last": "Nelson",
+  "name_suffix": "",
+  "date_dob": "1792-11-10",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1873-12-13",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Hebron",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "Cooperstown",
+  "dod_state": "NY",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

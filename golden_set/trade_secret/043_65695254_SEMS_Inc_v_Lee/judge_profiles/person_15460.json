@@ -1,0 +1,147 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15460/?format=json",
+  "id": 15460,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17011/?format=json",
+      "id": 17011,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15460/?format=json",
+      "date_created": "2022-06-16T15:40:02.547153-07:00",
+      "date_modified": "2022-06-16T15:40:02.547174-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-06-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17012/?format=json",
+      "id": 17012,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15460/?format=json",
+      "date_created": "2022-06-16T16:03:50.455491-07:00",
+      "date_modified": "2022-06-16T16:03:50.455508-07:00",
+      "url": "https://www.txcourts.gov/10thcoa/about-the-court/justices/justice-matt-johnson/",
+      "date_accessed": "2022-06-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17013/?format=json",
+      "id": 17013,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15460/?format=json",
+      "date_created": "2022-06-16T16:03:50.462599-07:00",
+      "date_modified": "2022-06-16T16:03:50.462616-07:00",
+      "url": "https://ballotpedia.org/Matt_Johnson_(Texas)",
+      "date_accessed": "2022-06-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17014/?format=json",
+      "id": 17014,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15460/?format=json",
+      "date_created": "2022-06-16T16:03:50.463349-07:00",
+      "date_modified": "2022-06-16T16:03:50.463367-07:00",
+      "url": "https://www.martindale.com/attorney/mr-matthew-e-johnson-1711135/",
+      "date_accessed": "2022-06-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17015/?format=json",
+      "id": 17015,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15460/?format=json",
+      "date_created": "2022-06-16T16:03:50.464156-07:00",
+      "date_modified": "2022-06-16T16:03:50.464173-07:00",
+      "url": "",
+      "date_accessed": "2022-06-16",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11768/?format=json",
+      "id": 11768,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6016/?format=json",
+        "id": 6016,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Baylor University",
+        "ein": 741159753
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15460/?format=json",
+      "date_created": "2022-06-16T15:40:02.487666-07:00",
+      "date_modified": "2022-06-16T15:40:02.487684-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1986
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11769/?format=json",
+      "id": 11769,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4146/?format=json",
+        "id": 4146,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Oklahoma City University",
+        "ein": 730579265
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15460/?format=json",
+      "date_created": "2022-06-16T15:40:02.499693-07:00",
+      "date_modified": "2022-06-16T15:40:02.499715-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1990
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49511/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49513/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49514/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49512/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49515/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8049/?format=json",
+      "id": 8049,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15460/?format=json",
+      "date_created": "2022-06-16T15:40:02.502867-07:00",
+      "date_modified": "2022-06-16T15:40:02.502885-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-06-16T15:40:02.418151-07:00",
+  "date_modified": "2022-06-16T16:03:50.448418-07:00",
+  "date_completed": "2022-06-16T15:29:15-07:00",
+  "fjc_id": null,
+  "slug": "matthew-e-johnson",
+  "name_first": "Matthew",
+  "name_middle": "E.",
+  "name_last": "Johnson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Waco",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

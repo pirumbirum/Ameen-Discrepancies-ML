@@ -1,0 +1,82 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5524/?format=json",
+  "id": 5524,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1728/?format=json",
+      "id": 1728,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5524/?format=json",
+      "date_created": "2016-04-20T08:26:26.684317-07:00",
+      "date_modified": "2016-04-20T08:26:26.684339-07:00",
+      "url": "http://en.wikipedia.org/wiki/Herbert_B._Cohen",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4547/?format=json",
+      "id": 4547,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4361/?format=json",
+        "id": 4361,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Pennsylvania",
+        "ein": 231352685
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5524/?format=json",
+      "date_created": "2016-04-20T08:26:26.671974-07:00",
+      "date_modified": "2016-04-20T08:26:26.671998-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27780/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4375/?format=json",
+      "id": 4375,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5524/?format=json",
+      "date_created": "2016-04-20T08:26:26.678714-07:00",
+      "date_modified": "2016-04-20T08:26:26.678738-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:26.646957-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "herbert-b-cohen",
+  "name_first": "Herbert",
+  "name_middle": "B.",
+  "name_last": "Cohen",
+  "name_suffix": "",
+  "date_dob": "1900-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,79 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3704/?format=json",
+  "id": 3704,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3138/?format=json",
+      "id": 3138,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3704/?format=json",
+      "date_created": "2016-04-20T08:24:20.250033-07:00",
+      "date_modified": "2016-04-20T08:24:20.250064-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3139/?format=json",
+      "id": 3139,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5867/?format=json",
+        "id": 5867,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Arizona",
+        "ein": 866004791
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3704/?format=json",
+      "date_created": "2016-04-20T08:24:20.262477-07:00",
+      "date_modified": "2016-04-20T08:24:20.262508-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22945/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22942/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22943/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22944/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:20.221023-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "frank-x-gordon-jr",
+  "name_first": "Frank",
+  "name_middle": "X.",
+  "name_last": "Gordon",
+  "name_suffix": "jr",
+  "date_dob": "1929-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

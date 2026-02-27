@@ -1,0 +1,94 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4623/?format=json",
+  "id": 4623,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/753/?format=json",
+      "id": 753,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4623/?format=json",
+      "date_created": "2016-04-20T08:25:15.210947-07:00",
+      "date_modified": "2016-04-20T08:25:15.210985-07:00",
+      "url": "http://www.cleaves.org/sjcbios1.htm#JHH",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/754/?format=json",
+      "id": 754,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4623/?format=json",
+      "date_created": "2016-04-20T08:25:15.217230-07:00",
+      "date_modified": "2016-04-20T08:25:15.217268-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/200011108870",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3746/?format=json",
+      "id": 3746,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6087/?format=json",
+        "id": 6087,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Colby College",
+        "ein": 10211497
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4623/?format=json",
+      "date_created": "2016-04-20T08:25:15.160315-07:00",
+      "date_modified": "2016-04-20T08:25:15.160339-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25149/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25150/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25151/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4031/?format=json",
+      "id": 4031,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4623/?format=json",
+      "date_created": "2016-04-20T08:25:15.204901-07:00",
+      "date_modified": "2016-04-20T08:25:15.204943-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:15.134091-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "james-h-hudson",
+  "name_first": "James",
+  "name_middle": "H.",
+  "name_last": "Hudson",
+  "name_suffix": "",
+  "date_dob": "1878-03-21",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1947-08-21",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,139 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12570/?format=json",
+  "id": 12570,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9475/?format=json",
+      "id": 9475,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12570/?format=json",
+      "date_created": "2022-03-02T13:50:25.714563-08:00",
+      "date_modified": "2022-03-02T13:50:25.714588-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-02",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9476/?format=json",
+      "id": 9476,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12570/?format=json",
+      "date_created": "2022-03-02T13:50:25.720232-08:00",
+      "date_modified": "2022-03-02T13:50:25.720257-08:00",
+      "url": "https://ballotpedia.org/Derek_W._Hunt",
+      "date_accessed": "2022-03-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9477/?format=json",
+      "id": 9477,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12570/?format=json",
+      "date_created": "2022-03-02T13:50:25.725040-08:00",
+      "date_modified": "2022-03-02T13:50:25.725065-08:00",
+      "url": "https://www.martindale.com/attorney/derek-william-hunt-257289/",
+      "date_accessed": "2022-03-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9478/?format=json",
+      "id": 9478,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12570/?format=json",
+      "date_created": "2022-03-02T13:50:25.729252-08:00",
+      "date_modified": "2022-03-02T13:50:25.729276-08:00",
+      "url": "https://trellis.law/judge-dashboard/602/bio",
+      "date_accessed": "2022-03-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9479/?format=json",
+      "id": 9479,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12570/?format=json",
+      "date_created": "2022-03-02T13:50:25.736560-08:00",
+      "date_modified": "2022-03-02T13:50:25.736586-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-02",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8381/?format=json",
+      "id": 8381,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2624/?format=json",
+        "id": 2624,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Cornell University",
+        "ein": 150532082
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12570/?format=json",
+      "date_created": "2022-03-02T13:50:25.701259-08:00",
+      "date_modified": "2022-03-02T13:50:25.701286-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Political Philosophy",
+      "degree_year": 1965
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8382/?format=json",
+      "id": 8382,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2624/?format=json",
+        "id": 2624,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Cornell University",
+        "ein": 150532082
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12570/?format=json",
+      "date_created": "2022-03-02T13:50:25.710205-08:00",
+      "date_modified": "2022-03-02T13:50:25.710231-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1972
+    }
+  ],
+  "positions": [],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5981/?format=json",
+      "id": 5981,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12570/?format=json",
+      "date_created": "2022-03-02T13:50:25.691274-08:00",
+      "date_modified": "2022-03-02T13:50:25.691301-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:09:52.176402-07:00",
+  "date_modified": "2022-03-02T13:50:25.678220-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "derek-william-hunt",
+  "name_first": "Derek",
+  "name_middle": "William",
+  "name_last": "Hunt",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

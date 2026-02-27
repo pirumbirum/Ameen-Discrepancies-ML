@@ -1,0 +1,89 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5337/?format=json",
+  "id": 5337,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1505/?format=json",
+      "id": 1505,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5337/?format=json",
+      "date_created": "2016-04-20T08:26:11.393692-07:00",
+      "date_modified": "2016-04-20T08:26:11.393724-07:00",
+      "url": "https://www.ndcourts.gov/court/bios/Murray.htm",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4394/?format=json",
+      "id": 4394,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2226/?format=json",
+        "id": 2226,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of North Dakota",
+        "ein": 456002491
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5337/?format=json",
+      "date_created": "2016-04-20T08:26:11.347937-07:00",
+      "date_modified": "2016-04-20T08:26:11.347982-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4395/?format=json",
+      "id": 4395,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2226/?format=json",
+        "id": 2226,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of North Dakota",
+        "ein": 456002491
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5337/?format=json",
+      "date_created": "2016-04-20T08:26:11.368424-07:00",
+      "date_modified": "2016-04-20T08:26:11.368466-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27222/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27223/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27224/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:11.314271-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "williiam-s-murray",
+  "name_first": "Williiam",
+  "name_middle": "S.",
+  "name_last": "Murray",
+  "name_suffix": "",
+  "date_dob": "1916-12-26",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1998-11-30",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

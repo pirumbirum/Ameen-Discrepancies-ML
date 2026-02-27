@@ -1,0 +1,72 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3563/?format=json",
+  "id": 3563,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2233/?format=json",
+      "id": 2233,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3563/?format=json",
+      "date_created": "2016-04-20T08:24:06.607902-07:00",
+      "date_modified": "2016-04-20T08:24:06.607924-07:00",
+      "year_rated": 1969,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22429/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22430/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22431/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22432/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22433/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22434/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22435/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22436/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22437/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22438/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3582/?format=json",
+      "id": 3582,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3563/?format=json",
+      "date_created": "2016-04-20T08:24:06.601047-07:00",
+      "date_modified": "2016-04-20T08:24:06.601073-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1969-06-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:06.566926-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2659,
+  "slug": "eugene-allen-wright",
+  "name_first": "Eugene",
+  "name_middle": "Allen",
+  "name_last": "Wright",
+  "name_suffix": "",
+  "date_dob": "1913-02-23",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2002-09-03",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Seattle",
+  "dob_state": "WA",
+  "dob_country": "United States",
+  "dod_city": "Seattle",
+  "dod_state": "WA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

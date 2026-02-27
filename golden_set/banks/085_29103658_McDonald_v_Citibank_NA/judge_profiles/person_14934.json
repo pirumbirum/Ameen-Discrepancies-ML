@@ -1,0 +1,140 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14934/?format=json",
+  "id": 14934,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15041/?format=json",
+      "id": 15041,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14934/?format=json",
+      "date_created": "2022-04-12T10:19:16.280111-07:00",
+      "date_modified": "2022-04-12T10:19:16.280132-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-12",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15042/?format=json",
+      "id": 15042,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14934/?format=json",
+      "date_created": "2022-04-12T10:19:16.281769-07:00",
+      "date_modified": "2022-04-12T10:19:16.281809-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=fbFbssnaZG2/y4iV6vX5Lw%3D%3D",
+      "date_accessed": "2022-04-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15043/?format=json",
+      "id": 15043,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14934/?format=json",
+      "date_created": "2022-04-12T10:19:16.282916-07:00",
+      "date_modified": "2022-04-12T10:19:16.282936-07:00",
+      "url": "https://www.syracuse.com/politics/2020/11/syracuse-judge-rory-mcmahon-cements-state-supreme-court-win-on-absentee-votes.html",
+      "date_accessed": "2022-04-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15044/?format=json",
+      "id": 15044,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14934/?format=json",
+      "date_created": "2022-04-12T10:19:16.283958-07:00",
+      "date_modified": "2022-04-12T10:19:16.283974-07:00",
+      "url": "https://trellis.law/judge/rory.a.mcmahon",
+      "date_accessed": "2022-04-12",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11002/?format=json",
+      "id": 11002,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5699/?format=json",
+        "id": 5699,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Syracuse University",
+        "ein": 150532081
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14934/?format=json",
+      "date_created": "2022-04-12T10:19:16.269343-07:00",
+      "date_modified": "2022-04-12T10:19:16.269370-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1996
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11003/?format=json",
+      "id": 11003,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4480/?format=json",
+        "id": 4480,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "SUNY College at Plattsburgh",
+        "ein": 146013200
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14934/?format=json",
+      "date_created": "2022-04-12T10:19:16.274654-07:00",
+      "date_modified": "2022-04-12T10:19:16.274682-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1992
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47044/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47048/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47049/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47050/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47051/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47047/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47045/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47046/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7600/?format=json",
+      "id": 7600,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14934/?format=json",
+      "date_created": "2022-04-12T10:19:16.277931-07:00",
+      "date_modified": "2022-04-12T10:19:16.278001-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2010-11-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-12T10:19:16.061623-07:00",
+  "date_modified": "2022-05-12T18:24:39.101075-07:00",
+  "date_completed": "2022-05-12T17:59:40-07:00",
+  "fjc_id": null,
+  "slug": "rory-a-mcmahon",
+  "name_first": "Rory",
+  "name_middle": "A.",
+  "name_last": "McMahon",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,147 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15751/?format=json",
+  "id": 15751,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18355/?format=json",
+      "id": 18355,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15751/?format=json",
+      "date_created": "2022-07-11T16:41:24.958347-07:00",
+      "date_modified": "2022-07-11T16:41:24.958363-07:00",
+      "url": "https://ballotpedia.org/Scott_Jenkins_(Texas)",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18356/?format=json",
+      "id": 18356,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15751/?format=json",
+      "date_created": "2022-07-11T16:41:24.967698-07:00",
+      "date_modified": "2022-07-11T16:41:24.967718-07:00",
+      "url": "https://trellis.law/judge/scott.h.jenkins",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18357/?format=json",
+      "id": 18357,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15751/?format=json",
+      "date_created": "2022-07-11T16:41:24.968612-07:00",
+      "date_modified": "2022-07-11T16:41:24.968625-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=173506",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18358/?format=json",
+      "id": 18358,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15751/?format=json",
+      "date_created": "2022-07-11T16:41:24.969385-07:00",
+      "date_modified": "2022-07-11T16:41:24.969402-07:00",
+      "url": "https://lawyers.justia.com/lawyer/judge-scott-h-jenkins-235351",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18359/?format=json",
+      "id": 18359,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15751/?format=json",
+      "date_created": "2022-07-11T16:41:24.970205-07:00",
+      "date_modified": "2022-07-11T16:41:24.970218-07:00",
+      "url": "https://cemetery.tspb.texas.gov/pub/user_form.asp?pers_id=11760",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18360/?format=json",
+      "id": 18360,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15751/?format=json",
+      "date_created": "2022-07-11T16:41:24.970999-07:00",
+      "date_modified": "2022-07-11T16:41:24.971015-07:00",
+      "url": "",
+      "date_accessed": "2022-07-11",
+      "notes": "catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18361/?format=json",
+      "id": 18361,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15751/?format=json",
+      "date_created": "2022-07-11T16:41:52.779474-07:00",
+      "date_modified": "2022-07-11T16:41:52.779522-07:00",
+      "url": "https://www.martindale.com/attorney/judge-scott-h-jenkins-1624226/",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12177/?format=json",
+      "id": 12177,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5156/?format=json",
+        "id": 5156,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Trinity University",
+        "ein": 741109633
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15751/?format=json",
+      "date_created": "2022-07-11T16:41:24.947386-07:00",
+      "date_modified": "2022-07-11T16:41:52.773640-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1975
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12178/?format=json",
+      "id": 12178,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15751/?format=json",
+      "date_created": "2022-07-11T16:41:24.956204-07:00",
+      "date_modified": "2022-07-11T16:41:24.956221-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1978
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50644/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-07-11T16:41:24.886955-07:00",
+  "date_modified": "2022-07-11T16:41:52.506399-07:00",
+  "date_completed": "2022-07-11T16:37:01-07:00",
+  "fjc_id": null,
+  "slug": "scott-howard-jenkins",
+  "name_first": "Scott",
+  "name_middle": "Howard",
+  "name_last": "Jenkins",
+  "name_suffix": "",
+  "date_dob": "1952-12-16",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

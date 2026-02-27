@@ -1,0 +1,126 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15729/?format=json",
+  "id": 15729,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18231/?format=json",
+      "id": 18231,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15729/?format=json",
+      "date_created": "2022-07-08T15:03:58.291696-07:00",
+      "date_modified": "2022-07-08T15:03:58.291712-07:00",
+      "url": "https://ballotpedia.org/Mike_Herrera",
+      "date_accessed": "2022-07-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18232/?format=json",
+      "id": 18232,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15729/?format=json",
+      "date_created": "2022-07-08T15:03:58.299667-07:00",
+      "date_modified": "2022-07-08T15:03:58.299684-07:00",
+      "url": "https://trellis.law/judge/mike.herrera",
+      "date_accessed": "2022-07-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18233/?format=json",
+      "id": 18233,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15729/?format=json",
+      "date_created": "2022-07-08T15:03:58.302103-07:00",
+      "date_modified": "2022-07-08T15:03:58.302118-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=171781",
+      "date_accessed": "2022-07-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18234/?format=json",
+      "id": 18234,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15729/?format=json",
+      "date_created": "2022-07-08T15:03:58.302963-07:00",
+      "date_modified": "2022-07-08T15:03:58.302979-07:00",
+      "url": "http://affiliates.tyla.org/tyla/judicialdirectory/judicial_contact.cfm?new=1&judgeID=19768&CourtID=3171",
+      "date_accessed": "2022-07-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18235/?format=json",
+      "id": 18235,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15729/?format=json",
+      "date_created": "2022-07-08T15:03:58.303802-07:00",
+      "date_modified": "2022-07-08T15:03:58.303816-07:00",
+      "url": "",
+      "date_accessed": "2022-07-08",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12148/?format=json",
+      "id": 12148,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3164/?format=json",
+        "id": 3164,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Tech University",
+        "ein": 756002622
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15729/?format=json",
+      "date_created": "2022-07-08T15:07:24.871366-07:00",
+      "date_modified": "2022-07-08T15:07:24.871410-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1985
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50551/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50557/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50558/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50559/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50560/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8218/?format=json",
+      "id": 8218,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15729/?format=json",
+      "date_created": "2022-07-08T15:03:58.283676-07:00",
+      "date_modified": "2022-07-08T15:03:58.283703-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-08T15:02:00.772841-07:00",
+  "date_modified": "2022-07-08T16:49:31.232315-07:00",
+  "date_completed": "2022-07-08T15:01:08-07:00",
+  "fjc_id": null,
+  "slug": "miguel-herrera",
+  "name_first": "Miguel",
+  "name_middle": "",
+  "name_last": "Herrera",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

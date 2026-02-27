@@ -1,0 +1,84 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4989/?format=json",
+  "id": 4989,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1176/?format=json",
+      "id": 1176,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4989/?format=json",
+      "date_created": "2016-04-20T08:25:45.824719-07:00",
+      "date_modified": "2016-04-20T08:25:45.824741-07:00",
+      "url": "http://en.wikipedia.org/wiki/Lee_Metcalf#Early_career",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4041/?format=json",
+      "id": 4041,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4989/?format=json",
+      "date_created": "2016-04-20T08:25:45.780183-07:00",
+      "date_modified": "2016-04-20T08:25:45.780206-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26207/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26208/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26209/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4125/?format=json",
+      "id": 4125,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4989/?format=json",
+      "date_created": "2016-04-20T08:25:45.819592-07:00",
+      "date_modified": "2016-04-20T08:25:45.819617-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:45.750045-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "lee-metcalf",
+  "name_first": "Lee",
+  "name_middle": "",
+  "name_last": "Metcalf",
+  "name_suffix": "",
+  "date_dob": "1911-01-28",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1978-01-12",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

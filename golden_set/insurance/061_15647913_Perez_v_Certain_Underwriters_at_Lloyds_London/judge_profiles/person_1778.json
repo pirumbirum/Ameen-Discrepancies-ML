@@ -1,0 +1,68 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1778/?format=json",
+  "id": 1778,
+  "race": [
+    "a"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1097/?format=json",
+      "id": 1097,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1778/?format=json",
+      "date_created": "2016-04-20T08:19:53.693254-07:00",
+      "date_modified": "2016-04-20T08:19:53.693277-07:00",
+      "year_rated": 1995,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/10967/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10968/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10969/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10970/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10971/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10972/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1786/?format=json",
+      "id": 1786,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1778/?format=json",
+      "date_created": "2016-04-20T08:19:53.688036-07:00",
+      "date_modified": "2016-04-20T08:19:53.688060-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1995-04-27",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:53.656626-07:00",
+  "date_modified": "2020-11-25T08:30:12.328307-08:00",
+  "date_completed": null,
+  "fjc_id": 1280,
+  "slug": "george-h-king",
+  "name_first": "George",
+  "name_middle": "H.",
+  "name_last": "King",
+  "name_suffix": "",
+  "date_dob": "1951-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Shanghai",
+  "dob_state": "",
+  "dob_country": "China",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

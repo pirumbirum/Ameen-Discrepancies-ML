@@ -1,0 +1,143 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12646/?format=json",
+  "id": 12646,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8048/?format=json",
+      "id": 8048,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12646/?format=json",
+      "date_created": "2022-02-22T10:11:15.621166-08:00",
+      "date_modified": "2022-02-22T10:11:15.621206-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-22",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8049/?format=json",
+      "id": 8049,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12646/?format=json",
+      "date_created": "2022-02-22T10:11:15.626534-08:00",
+      "date_modified": "2022-02-22T10:11:15.626562-08:00",
+      "url": "https://www.martindale.com/attorney/laura-anne-conway-275192/",
+      "date_accessed": "2022-02-22",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8050/?format=json",
+      "id": 8050,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12646/?format=json",
+      "date_created": "2022-02-22T10:11:15.633114-08:00",
+      "date_modified": "2022-02-22T10:11:15.633144-08:00",
+      "url": "https://trellis.law/judge/laura.c.ellison",
+      "date_accessed": "2022-02-22",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8051/?format=json",
+      "id": 8051,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12646/?format=json",
+      "date_created": "2022-02-22T10:11:15.638562-08:00",
+      "date_modified": "2022-02-22T10:11:15.638584-08:00",
+      "url": "https://ballotpedia.org/Laura_Ellison",
+      "date_accessed": "2022-02-22",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8052/?format=json",
+      "id": 8052,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12646/?format=json",
+      "date_created": "2022-02-22T10:11:15.646758-08:00",
+      "date_modified": "2022-02-22T10:11:15.646782-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-22",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7770/?format=json",
+      "id": 7770,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3093/?format=json",
+        "id": 3093,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "California State University-Los Angeles",
+        "ein": 946001347
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12646/?format=json",
+      "date_created": "2022-02-22T10:11:15.582822-08:00",
+      "date_modified": "2022-02-22T10:11:15.582848-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1984
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7771/?format=json",
+      "id": 7771,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3104/?format=json",
+        "id": 3104,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Loyola Marymount University",
+        "ein": 951643334
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12646/?format=json",
+      "date_created": "2022-02-22T10:11:15.591623-08:00",
+      "date_modified": "2022-02-22T10:11:15.591645-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1987
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/41668/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5600/?format=json",
+      "id": 5600,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12646/?format=json",
+      "date_created": "2022-02-22T10:11:15.600377-08:00",
+      "date_modified": "2022-02-22T10:11:15.600400-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:09:57.654300-07:00",
+  "date_modified": "2022-02-22T10:11:15.562002-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "laura-conway-ellison",
+  "name_first": "Laura",
+  "name_middle": "Conway",
+  "name_last": "Ellison",
+  "name_suffix": "",
+  "date_dob": "1963-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

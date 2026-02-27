@@ -1,0 +1,71 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1525/?format=json",
+  "id": 1525,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/935/?format=json",
+      "id": 935,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1525/?format=json",
+      "date_created": "2016-04-20T08:19:18.223632-07:00",
+      "date_modified": "2016-04-20T08:19:18.223660-07:00",
+      "year_rated": 2003,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9304/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9305/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9306/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9307/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9308/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9309/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9310/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9311/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9303/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1533/?format=json",
+      "id": 1533,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1525/?format=json",
+      "date_created": "2016-04-20T08:19:18.215536-07:00",
+      "date_modified": "2016-04-20T08:19:18.215567-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2003-05-01",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:18.174575-07:00",
+  "date_modified": "2020-11-25T08:30:23.529923-08:00",
+  "date_completed": null,
+  "fjc_id": 3040,
+  "slug": "john-a-houston",
+  "name_first": "John",
+  "name_middle": "A.",
+  "name_last": "Houston",
+  "name_suffix": "",
+  "date_dob": "1952-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Greensboro",
+  "dob_state": "NC",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

@@ -1,0 +1,91 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5057/?format=json",
+  "id": 5057,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1233/?format=json",
+      "id": 1233,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5057/?format=json",
+      "date_created": "2016-04-20T08:25:51.013026-07:00",
+      "date_modified": "2016-04-20T08:25:51.013058-07:00",
+      "url": "http://votesmart.org/public-statement/22362/tribute-to-justice-robert-e-rose#.UyB-aHe2xgE",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4092/?format=json",
+      "id": 4092,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2518/?format=json",
+        "id": 2518,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Juniata College",
+        "ein": 231352652
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5057/?format=json",
+      "date_created": "2016-04-20T08:25:50.955032-07:00",
+      "date_modified": "2016-04-20T08:25:50.955060-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4093/?format=json",
+      "id": 4093,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3941/?format=json",
+        "id": 3941,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "New York University",
+        "ein": 135562308
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5057/?format=json",
+      "date_created": "2016-04-20T08:25:50.972896-07:00",
+      "date_modified": "2016-04-20T08:25:50.972924-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26401/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26402/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26403/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26404/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26405/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:50.926210-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "robert-e-rose",
+  "name_first": "Robert",
+  "name_middle": "E.",
+  "name_last": "Rose",
+  "name_suffix": "",
+  "date_dob": "1939-10-07",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 146284.46,
+  "ftm_eid": "6559643",
+  "has_photo": false
+}

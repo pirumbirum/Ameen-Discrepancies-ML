@@ -1,0 +1,186 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15537/?format=json",
+  "id": 15537,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17310/?format=json",
+      "id": 17310,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15537/?format=json",
+      "date_created": "2022-06-23T12:22:34.446548-07:00",
+      "date_modified": "2022-06-23T12:22:34.446616-07:00",
+      "url": "https://ballotpedia.org/Travis_Bryan_III",
+      "date_accessed": "2022-06-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17311/?format=json",
+      "id": 17311,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15537/?format=json",
+      "date_created": "2022-06-23T12:22:34.454780-07:00",
+      "date_modified": "2022-06-23T12:22:34.454798-07:00",
+      "url": "https://www.linkedin.com/in/travis-b-bryan-iii-1516b95b/",
+      "date_accessed": "2022-06-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17312/?format=json",
+      "id": 17312,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15537/?format=json",
+      "date_created": "2022-06-23T12:22:34.455964-07:00",
+      "date_modified": "2022-06-23T12:22:34.455977-07:00",
+      "url": "https://trellis.law/judge/travis.b.bryan.iii",
+      "date_accessed": "2022-06-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17313/?format=json",
+      "id": 17313,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15537/?format=json",
+      "date_created": "2022-06-23T12:22:34.457134-07:00",
+      "date_modified": "2022-06-23T12:22:34.457151-07:00",
+      "url": "https://www.martindale.com/attorney/hon-travis-b-bryan-iii-1632746/",
+      "date_accessed": "2022-06-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17314/?format=json",
+      "id": 17314,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15537/?format=json",
+      "date_created": "2022-06-23T12:22:34.458272-07:00",
+      "date_modified": "2022-06-23T12:22:34.458288-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=161743",
+      "date_accessed": "2022-06-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17315/?format=json",
+      "id": 17315,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15537/?format=json",
+      "date_created": "2022-06-23T12:22:34.459381-07:00",
+      "date_modified": "2022-06-23T12:22:34.459393-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=31812&office=19816",
+      "date_accessed": "2022-06-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17316/?format=json",
+      "id": 17316,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15537/?format=json",
+      "date_created": "2022-06-23T12:22:34.460487-07:00",
+      "date_modified": "2022-06-23T12:22:34.460504-07:00",
+      "url": "https://www.kbtx.com/content/news/Judge-Travis-Bryan-retiring-next-year-511537172.html",
+      "date_accessed": "2022-06-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17317/?format=json",
+      "id": 17317,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15537/?format=json",
+      "date_created": "2022-06-23T12:22:34.461598-07:00",
+      "date_modified": "2022-06-23T12:22:34.461610-07:00",
+      "url": "https://salaries.texastribune.org/employees/travis-b-bryan-iii-101132/",
+      "date_accessed": "2022-06-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17318/?format=json",
+      "id": 17318,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15537/?format=json",
+      "date_created": "2022-06-23T12:22:34.462760-07:00",
+      "date_modified": "2022-06-23T12:22:34.462773-07:00",
+      "url": "",
+      "date_accessed": "2022-06-23",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11876/?format=json",
+      "id": 11876,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6016/?format=json",
+        "id": 6016,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Baylor University",
+        "ein": 741159753
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15537/?format=json",
+      "date_created": "2022-06-23T12:28:01.475368-07:00",
+      "date_modified": "2022-06-23T12:28:01.475393-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1972
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11877/?format=json",
+      "id": 11877,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1296/?format=json",
+        "id": 1296,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas A & M University-College Station",
+        "ein": 746000531
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15537/?format=json",
+      "date_created": "2022-06-23T12:28:01.497925-07:00",
+      "date_modified": "2022-06-23T12:35:03.489546-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Finance",
+      "degree_year": 1969
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49792/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49793/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49794/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49795/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8092/?format=json",
+      "id": 8092,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15537/?format=json",
+      "date_created": "2022-06-23T12:28:01.500200-07:00",
+      "date_modified": "2022-06-23T12:28:01.500217-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-06-23T12:22:34.421136-07:00",
+  "date_modified": "2022-06-23T12:35:03.383873-07:00",
+  "date_completed": "2022-06-23T12:17:32-07:00",
+  "fjc_id": null,
+  "slug": "travis-b-bryan-iii",
+  "name_first": "Travis",
+  "name_middle": "B.",
+  "name_last": "Bryan",
+  "name_suffix": "3",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

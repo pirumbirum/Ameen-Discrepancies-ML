@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/9055/?format=json",
+  "id": 9055,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4767/?format=json",
+      "id": 4767,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9055/?format=json",
+      "date_created": "2020-05-13T16:56:22.756290-07:00",
+      "date_modified": "2020-05-13T16:56:22.756313-07:00",
+      "url": "https://www.uscourts.gov/judicial-milestones/alexander-f-mackinnon",
+      "date_accessed": "2020-05-13",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/35053/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2020-05-13T16:56:22.748384-07:00",
+  "date_modified": "2021-05-25T13:18:56.194321-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "alexander-f-mackinnon",
+  "name_first": "Alexander",
+  "name_middle": "F.",
+  "name_last": "MacKinnon",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

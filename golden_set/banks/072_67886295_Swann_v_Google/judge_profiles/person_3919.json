@@ -1,0 +1,71 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3919/?format=json",
+  "id": 3919,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/83/?format=json",
+      "id": 83,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3919/?format=json",
+      "date_created": "2016-04-20T08:24:29.995259-07:00",
+      "date_modified": "2016-04-20T08:24:29.995281-07:00",
+      "url": "http://www.cobar.org/tcl/tcl_articles.cfm?articleid=3784",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3254/?format=json",
+      "id": 3254,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2261/?format=json",
+        "id": 2261,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "DePauw University",
+        "ein": 350869045
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3919/?format=json",
+      "date_created": "2016-04-20T08:24:29.947082-07:00",
+      "date_modified": "2016-04-20T08:24:29.947109-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23398/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23399/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23400/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23401/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:29.922966-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "robert-b-lee",
+  "name_first": "Robert",
+  "name_middle": "B.",
+  "name_last": "Lee",
+  "name_suffix": "",
+  "date_dob": "1912-11-21",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1988-01-01",
+  "date_granularity_dod": "%Y",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

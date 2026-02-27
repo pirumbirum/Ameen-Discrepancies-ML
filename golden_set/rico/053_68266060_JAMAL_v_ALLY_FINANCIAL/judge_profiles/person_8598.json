@@ -1,0 +1,129 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8598/?format=json",
+  "id": 8598,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4302/?format=json",
+      "id": 4302,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8598/?format=json",
+      "date_created": "2019-09-22T15:32:09.089585-07:00",
+      "date_modified": "2019-09-22T15:32:09.089606-07:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2019-09-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2345/?format=json",
+      "id": 2345,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8598/?format=json",
+      "date_created": "2019-09-22T15:32:09.086503-07:00",
+      "date_modified": "2019-09-22T15:32:09.086525-07:00",
+      "year_rated": 2015,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6776/?format=json",
+      "id": 6776,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/719/?format=json",
+        "id": 719,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Fordham University",
+        "ein": 131740451
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8598/?format=json",
+      "date_created": "2019-09-22T15:32:09.103194-07:00",
+      "date_modified": "2019-09-22T15:32:09.103221-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1983
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6777/?format=json",
+      "id": 6777,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5531/?format=json",
+        "id": 5531,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Seton Hall University",
+        "ein": 221500645
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8598/?format=json",
+      "date_created": "2019-09-22T15:32:09.117966-07:00",
+      "date_modified": "2019-09-22T15:32:09.117992-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1986
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/34164/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34165/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34166/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34167/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34168/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34169/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34170/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34171/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34172/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34173/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34174/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34175/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34176/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34177/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34178/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34179/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34180/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4946/?format=json",
+      "id": 4946,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8598/?format=json",
+      "date_created": "2019-09-22T15:32:09.081700-07:00",
+      "date_modified": "2019-09-22T15:32:09.081726-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2015-06-11",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2019-09-22T15:32:09.044169-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3608,
+  "slug": "brian-r-martinotti",
+  "name_first": "Brian",
+  "name_middle": "R.",
+  "name_last": "Martinotti",
+  "name_suffix": "",
+  "date_dob": "1961-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Englewood",
+  "dob_state": "NJ",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

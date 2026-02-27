@@ -1,0 +1,133 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12537/?format=json",
+  "id": 12537,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6314/?format=json",
+      "id": 6314,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12537/?format=json",
+      "date_created": "2022-02-09T09:26:09.130735-08:00",
+      "date_modified": "2022-02-09T10:54:15.202358-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-09",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6368/?format=json",
+      "id": 6368,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12537/?format=json",
+      "date_created": "2022-02-09T10:54:15.207041-08:00",
+      "date_modified": "2022-02-09T10:54:15.207064-08:00",
+      "url": "https://ballotpedia.org/Thang_Nguyen_Barrett",
+      "date_accessed": "2022-02-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6369/?format=json",
+      "id": 6369,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12537/?format=json",
+      "date_created": "2022-02-09T10:54:15.211523-08:00",
+      "date_modified": "2022-02-09T10:54:15.211545-08:00",
+      "url": "https://trellis.law/judge/thang.nguyen.barrett",
+      "date_accessed": "2022-02-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6370/?format=json",
+      "id": 6370,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12537/?format=json",
+      "date_created": "2022-02-09T10:54:15.221447-08:00",
+      "date_modified": "2022-02-09T10:54:15.221470-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-09",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7099/?format=json",
+      "id": 7099,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6041/?format=json",
+        "id": 6041,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "American University",
+        "ein": 530196549
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12537/?format=json",
+      "date_created": "2022-02-09T10:54:15.189711-08:00",
+      "date_modified": "2022-02-09T10:54:15.189740-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Philosophy",
+      "degree_year": 1985
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7100/?format=json",
+      "id": 7100,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5210/?format=json",
+        "id": 5210,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2025-06-15T22:32:10.957501-07:00",
+        "name": "UC Law San Francisco",
+        "ein": 942581680
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12537/?format=json",
+      "date_created": "2022-02-09T10:54:15.198120-08:00",
+      "date_modified": "2022-02-09T10:54:15.198142-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1988
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/41370/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5115/?format=json",
+      "id": 5115,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12537/?format=json",
+      "date_created": "2022-02-09T09:26:09.103462-08:00",
+      "date_modified": "2022-02-09T09:26:09.103496-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:09:49.809437-07:00",
+  "date_modified": "2022-02-09T10:54:15.171062-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "thang-nguyen-barrett",
+  "name_first": "Thang",
+  "name_middle": "Nguyen",
+  "name_last": "Barrett",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Saigon, Vietnam",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

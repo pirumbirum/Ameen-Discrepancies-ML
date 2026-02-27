@@ -1,0 +1,72 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1716/?format=json",
+  "id": 1716,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1053/?format=json",
+      "id": 1053,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1716/?format=json",
+      "date_created": "2016-04-20T08:19:45.388849-07:00",
+      "date_modified": "2016-04-20T08:19:45.388871-07:00",
+      "year_rated": 2007,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/10594/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10595/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10596/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10597/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10598/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10599/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10600/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10601/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10602/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10603/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1723/?format=json",
+      "id": 1723,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1716/?format=json",
+      "date_created": "2016-04-20T08:19:45.379150-07:00",
+      "date_modified": "2016-04-20T08:19:45.379175-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2007-11-15",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:45.342842-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3176,
+  "slug": "david-gregory-kays",
+  "name_first": "David",
+  "name_middle": "Gregory",
+  "name_last": "Kays",
+  "name_suffix": "",
+  "date_dob": "1962-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Kansas City",
+  "dob_state": "MO",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

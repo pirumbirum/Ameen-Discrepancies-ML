@@ -1,0 +1,80 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4694/?format=json",
+  "id": 4694,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/865/?format=json",
+      "id": 865,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4694/?format=json",
+      "date_created": "2016-04-20T08:25:20.959192-07:00",
+      "date_modified": "2016-04-20T08:25:20.959213-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/100003888587",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/866/?format=json",
+      "id": 866,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4694/?format=json",
+      "date_created": "2016-04-20T08:25:20.964834-07:00",
+      "date_modified": "2016-04-20T08:25:20.964855-07:00",
+      "url": "http://articles.baltimoresun.com/1994-01-10/news/1994010115_1_mcauliffe-court-of-appeals-highest-court",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3822/?format=json",
+      "id": 3822,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3647/?format=json",
+        "id": 3647,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Alabama State University",
+        "ein": 636001101
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4694/?format=json",
+      "date_created": "2016-04-20T08:25:20.908301-07:00",
+      "date_modified": "2016-04-20T08:25:20.908325-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25377/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25378/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25379/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:20.881456-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "john-f-mcauliffe",
+  "name_first": "John",
+  "name_middle": "F.",
+  "name_last": "McAuliffe",
+  "name_suffix": "",
+  "date_dob": "1932-11-04",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

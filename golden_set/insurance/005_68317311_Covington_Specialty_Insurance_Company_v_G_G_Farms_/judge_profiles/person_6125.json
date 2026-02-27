@@ -1,0 +1,78 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6125/?format=json",
+  "id": 6125,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5177/?format=json",
+      "id": 5177,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5096/?format=json",
+        "id": 5096,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Livingstone College",
+        "ein": 560603922
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6125/?format=json",
+      "date_created": "2016-04-20T08:27:16.057656-07:00",
+      "date_modified": "2016-04-20T08:27:16.057682-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5178/?format=json",
+      "id": 5178,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/529/?format=json",
+        "id": 529,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Samford University",
+        "ein": 630312914
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6125/?format=json",
+      "date_created": "2016-04-20T08:27:16.073923-07:00",
+      "date_modified": "2016-04-20T08:27:16.073950-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/29463/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29464/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29465/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:15.996506-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "william-e-robertson",
+  "name_first": "William",
+  "name_middle": "E.",
+  "name_last": "Robertson",
+  "name_suffix": "",
+  "date_dob": "1939-02-11",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2012-02-17",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

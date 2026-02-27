@@ -1,0 +1,171 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5660/?format=json",
+  "id": 5660,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1868/?format=json",
+      "id": 1868,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5660/?format=json",
+      "date_created": "2016-04-20T08:26:37.979381-07:00",
+      "date_modified": "2016-04-20T08:26:37.979402-07:00",
+      "url": "http://en.wikipedia.org/wiki/Florence_K._Murray",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1869/?format=json",
+      "id": 1869,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5660/?format=json",
+      "date_created": "2016-04-20T08:26:37.985193-07:00",
+      "date_modified": "2016-04-20T08:26:37.985214-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/100002532322",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4668/?format=json",
+      "id": 4668,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/601/?format=json",
+        "id": 601,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Boston University",
+        "ein": 42103547
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5660/?format=json",
+      "date_created": "2016-04-20T08:26:35.335962-07:00",
+      "date_modified": "2016-04-20T08:26:35.335988-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4669/?format=json",
+      "id": 4669,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1171/?format=json",
+        "id": 1171,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "College of Mount St Joseph",
+        "ein": 237179567
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5660/?format=json",
+      "date_created": "2016-04-20T08:26:35.395098-07:00",
+      "date_modified": "2016-04-20T08:26:35.395123-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4670/?format=json",
+      "id": 4670,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4699/?format=json",
+        "id": 4699,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Providence College",
+        "ein": 50258932
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5660/?format=json",
+      "date_created": "2016-04-20T08:26:35.409316-07:00",
+      "date_modified": "2016-04-20T08:26:35.409355-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4671/?format=json",
+      "id": 4671,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4006/?format=json",
+        "id": 4006,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Salve Regina University",
+        "ein": 50259080
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5660/?format=json",
+      "date_created": "2016-04-20T08:26:35.458328-07:00",
+      "date_modified": "2016-04-20T08:26:35.458357-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4672/?format=json",
+      "id": 4672,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/629/?format=json",
+        "id": 629,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Suffolk University",
+        "ein": 42133255
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5660/?format=json",
+      "date_created": "2016-04-20T08:26:35.493475-07:00",
+      "date_modified": "2016-04-20T08:26:35.493504-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/28098/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28099/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28100/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28101/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4411/?format=json",
+      "id": 4411,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5660/?format=json",
+      "date_created": "2016-04-20T08:26:37.973293-07:00",
+      "date_modified": "2016-04-20T08:26:37.973317-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:35.311194-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "john-kerins-murray",
+  "name_first": "John",
+  "name_middle": "Kerins",
+  "name_last": "Murray",
+  "name_suffix": "",
+  "date_dob": "1916-10-21",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2003-03-28",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

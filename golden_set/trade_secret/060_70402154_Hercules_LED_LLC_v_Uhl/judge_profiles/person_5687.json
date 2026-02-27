@@ -1,0 +1,65 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5687/?format=json",
+  "id": 5687,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1886/?format=json",
+      "id": 1886,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5687/?format=json",
+      "date_created": "2016-04-20T08:26:39.620341-07:00",
+      "date_modified": "2016-04-20T08:26:39.620362-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/100002410714",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/28162/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28163/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28164/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28165/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4416/?format=json",
+      "id": 4416,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5687/?format=json",
+      "date_created": "2016-04-20T08:26:39.614576-07:00",
+      "date_modified": "2016-04-20T08:26:39.614601-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:39.544145-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "frank-e-henderson",
+  "name_first": "Frank",
+  "name_middle": "E.",
+  "name_last": "Henderson",
+  "name_suffix": "",
+  "date_dob": "1928-04-02",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2012-12-28",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

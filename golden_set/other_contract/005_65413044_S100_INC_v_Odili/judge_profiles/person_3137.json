@@ -1,0 +1,58 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3137/?format=json",
+  "id": 3137,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/19699/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19700/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19701/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19702/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19703/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19704/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3152/?format=json",
+      "id": 3152,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3137/?format=json",
+      "date_created": "2016-04-20T08:23:06.469211-07:00",
+      "date_modified": "2016-04-20T08:23:06.469236-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1934-01-08",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:23:06.436042-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2315,
+  "slug": "philip-leo-sullivan",
+  "name_first": "Philip",
+  "name_middle": "Leo",
+  "name_last": "Sullivan",
+  "name_suffix": "",
+  "date_dob": "1889-10-02",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1960-06-12",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Marengo",
+  "dob_state": "IL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

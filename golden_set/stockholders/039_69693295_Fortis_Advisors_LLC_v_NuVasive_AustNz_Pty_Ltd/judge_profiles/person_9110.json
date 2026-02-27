@@ -1,0 +1,251 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/9110/?format=json",
+  "id": 9110,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4822/?format=json",
+      "id": 4822,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9110/?format=json",
+      "date_created": "2020-05-13T16:56:23.652083-07:00",
+      "date_modified": "2020-05-13T16:56:23.652119-07:00",
+      "url": "https://www.uscourts.gov/judicial-milestones/ruth-bermudez-montenegro",
+      "date_accessed": "2020-05-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16502/?format=json",
+      "id": 16502,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9110/?format=json",
+      "date_created": "2022-05-25T09:41:01.447336-07:00",
+      "date_modified": "2022-05-25T09:41:01.447394-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Montengro-RB.%20M.%2009.%20CAS%20_SR_20.pdf",
+      "date_accessed": "2022-05-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16503/?format=json",
+      "id": 16503,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9110/?format=json",
+      "date_created": "2022-05-25T09:41:01.453332-07:00",
+      "date_modified": "2022-05-25T09:41:01.453376-07:00",
+      "url": "https://en.wikipedia.org/wiki/Ruth_Bermudez_Montenegro",
+      "date_accessed": "2022-05-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16504/?format=json",
+      "id": 16504,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9110/?format=json",
+      "date_created": "2022-05-25T09:41:01.455346-07:00",
+      "date_modified": "2022-05-25T09:41:01.455387-07:00",
+      "url": "https://ballotpedia.org/Ruth_Bermudez_Montenegro",
+      "date_accessed": "2022-05-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16505/?format=json",
+      "id": 16505,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9110/?format=json",
+      "date_created": "2022-05-25T09:41:01.457501-07:00",
+      "date_modified": "2022-05-25T09:41:01.457540-07:00",
+      "url": "https://cdn.ca9.uscourts.gov/datastore/ce9/2022/Montenegro_Ruth_Bermudez_CAS_Confirmed.pdf",
+      "date_accessed": "2022-05-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16506/?format=json",
+      "id": 16506,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9110/?format=json",
+      "date_created": "2022-05-25T09:41:01.459358-07:00",
+      "date_modified": "2022-05-25T09:41:01.459399-07:00",
+      "url": "https://www.sandiegouniontribune.com/news/courts/story/2022-03-22/judge-montenegro-confirmed",
+      "date_accessed": "2022-05-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16507/?format=json",
+      "id": 16507,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9110/?format=json",
+      "date_created": "2022-05-25T09:41:01.507226-07:00",
+      "date_modified": "2022-05-25T09:41:01.507295-07:00",
+      "url": "https://www.fbasd.org/post/senate-confirms-judge-ruth-bermudez-montenegro-to-the-southern-district",
+      "date_accessed": "2022-05-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16508/?format=json",
+      "id": 16508,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9110/?format=json",
+      "date_created": "2022-05-25T09:41:01.512310-07:00",
+      "date_modified": "2022-05-25T09:41:01.512348-07:00",
+      "url": "https://trellis.law/judge/ruth.bermudez.montenegro",
+      "date_accessed": "2022-05-25",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11598/?format=json",
+      "id": 11598,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1223/?format=json",
+        "id": 1223,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Clarion University of Pennsylvania",
+        "ein": 251474927
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9110/?format=json",
+      "date_created": "2022-05-25T10:07:17.042225-07:00",
+      "date_modified": "2022-05-25T10:07:17.042245-07:00",
+      "degree_level": "ba",
+      "degree_detail": "summa cum laude",
+      "degree_year": 1989
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11599/?format=json",
+      "id": 11599,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9110/?format=json",
+      "date_created": "2022-05-25T10:07:17.053350-07:00",
+      "date_modified": "2022-05-25T10:07:17.053368-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11600/?format=json",
+      "id": 11600,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/848/?format=json",
+        "id": 848,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "San Diego State University-Imperial Valley Campus",
+        "ein": 330373293
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9110/?format=json",
+      "date_created": "2022-05-25T10:07:17.057346-07:00",
+      "date_modified": "2022-05-25T10:07:17.057363-07:00",
+      "degree_level": "aa",
+      "degree_detail": "with honors",
+      "degree_year": 1987
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/35108/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/43471/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47933/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47934/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47935/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47936/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47937/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/43470/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7968/?format=json",
+      "id": 7968,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9110/?format=json",
+      "date_created": "2022-05-25T10:11:04.717409-07:00",
+      "date_modified": "2022-05-25T10:11:04.717426-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7969/?format=json",
+      "id": 7969,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9110/?format=json",
+      "date_created": "2022-05-25T10:11:04.726756-07:00",
+      "date_modified": "2022-05-25T10:11:04.726773-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2012-01-01",
+      "date_granularity_start": "%Y",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7970/?format=json",
+      "id": 7970,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9110/?format=json",
+      "date_created": "2022-05-25T10:11:04.729244-07:00",
+      "date_modified": "2022-05-25T10:11:04.729258-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2015-01-01",
+      "date_granularity_start": "%Y",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7971/?format=json",
+      "id": 7971,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9110/?format=json",
+      "date_created": "2022-05-25T10:11:04.731590-07:00",
+      "date_modified": "2022-05-25T10:11:04.731604-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2022-03-30",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7972/?format=json",
+      "id": 7972,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9110/?format=json",
+      "date_created": "2022-05-25T10:11:04.734037-07:00",
+      "date_modified": "2022-05-25T10:11:04.734050-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2021-03-03",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2020-05-13T16:56:23.641962-07:00",
+  "date_modified": "2022-05-25T10:35:51.792804-07:00",
+  "date_completed": "2022-05-25T09:39:36-07:00",
+  "fjc_id": null,
+  "slug": "ruth-bermudez-montenegro",
+  "name_first": "Ruth",
+  "name_middle": "Bermudez",
+  "name_last": "Montenegro",
+  "name_suffix": "",
+  "date_dob": "1967-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Brawley",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

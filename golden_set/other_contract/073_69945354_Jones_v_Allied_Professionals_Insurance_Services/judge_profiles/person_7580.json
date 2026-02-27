@@ -1,0 +1,57 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7580/?format=json",
+  "id": 7580,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6201/?format=json",
+      "id": 6201,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3668/?format=json",
+        "id": 3668,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Hillsdale Free Will Baptist College",
+        "ein": 730774245
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7580/?format=json",
+      "date_created": "2016-04-20T08:28:28.241862-07:00",
+      "date_modified": "2016-04-20T08:28:28.241893-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/32237/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:28.204245-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "christopher-murray",
+  "name_first": "Christopher",
+  "name_middle": "",
+  "name_last": "Murray",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

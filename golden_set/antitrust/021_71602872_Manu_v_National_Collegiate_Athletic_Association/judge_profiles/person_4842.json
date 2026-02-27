@@ -1,0 +1,50 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4842/?format=json",
+  "id": 4842,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1053/?format=json",
+      "id": 1053,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4842/?format=json",
+      "date_created": "2016-04-20T08:25:34.505450-07:00",
+      "date_modified": "2016-04-20T08:25:34.505486-07:00",
+      "url": "http://mn.gov/lawlib/judgebio.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25832/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25833/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25834/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:34.436424-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "harry-h-peterson",
+  "name_first": "Harry",
+  "name_middle": "H.",
+  "name_last": "Peterson",
+  "name_suffix": "",
+  "date_dob": "1891-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": "1985-01-23",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

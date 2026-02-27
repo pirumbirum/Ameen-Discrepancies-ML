@@ -1,0 +1,58 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7997/?format=json",
+  "id": 7997,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3698/?format=json",
+      "id": 3698,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7997/?format=json",
+      "date_created": "2016-04-20T08:28:43.391022-07:00",
+      "date_modified": "2016-04-20T08:28:43.391048-07:00",
+      "url": "",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3697/?format=json",
+      "id": 3697,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7997/?format=json",
+      "date_created": "2016-04-20T08:28:43.384868-07:00",
+      "date_modified": "2016-04-20T08:28:43.384894-07:00",
+      "url": "http://scholarship.law.campbell.edu/cgi/viewcontent.cgi?article=1033&context=clr",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/32823/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:43.318217-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "edward-b-clark",
+  "name_first": "Edward",
+  "name_middle": "B.",
+  "name_last": "Clark",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

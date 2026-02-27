@@ -1,0 +1,140 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/354/?format=json",
+  "id": 354,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/973/?format=json",
+      "id": 973,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/354/?format=json",
+      "date_created": "2016-04-20T08:25:26.780135-07:00",
+      "date_modified": "2016-04-20T08:25:26.780161-07:00",
+      "url": "http://www.micourthistory.org/justices/patricia-boyle/",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/204/?format=json",
+      "id": 204,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/354/?format=json",
+      "date_created": "2016-04-20T08:16:36.677449-07:00",
+      "date_modified": "2016-04-20T08:16:36.677473-07:00",
+      "year_rated": 1978,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/274/?format=json",
+      "id": 274,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1664/?format=json",
+        "id": 1664,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Wayne State University",
+        "ein": 686028429
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/354/?format=json",
+      "date_created": "2016-04-20T08:16:36.692317-07:00",
+      "date_modified": "2016-04-20T08:16:36.692349-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1963
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/275/?format=json",
+      "id": 275,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1664/?format=json",
+        "id": 1664,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Wayne State University",
+        "ein": 686028429
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/354/?format=json",
+      "date_created": "2016-04-20T08:16:36.707721-07:00",
+      "date_modified": "2016-04-20T08:16:36.707753-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1963
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3899/?format=json",
+      "id": 3899,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1664/?format=json",
+        "id": 1664,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Wayne State University",
+        "ein": 686028429
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/354/?format=json",
+      "date_created": "2016-04-20T08:25:26.766723-07:00",
+      "date_modified": "2016-04-20T08:25:26.766757-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/2096/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2097/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2098/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2099/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2100/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2101/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2102/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25605/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25606/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/358/?format=json",
+      "id": 358,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/354/?format=json",
+      "date_created": "2016-04-20T08:16:36.670183-07:00",
+      "date_modified": "2016-04-20T08:16:36.670212-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1978-07-25",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:36.640639-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 231,
+  "slug": "patricia-jean-ehrhardt-pernick-boyle",
+  "name_first": "Patricia",
+  "name_middle": "Jean Ehrhardt Pernick",
+  "name_last": "Boyle",
+  "name_suffix": "",
+  "date_dob": "1937-03-31",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2014-01-13",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Detroit",
+  "dob_state": "MI",
+  "dob_country": "United States",
+  "dod_city": "Ft. Myers",
+  "dod_state": "FL",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": 429149.56,
+  "ftm_eid": "6560441",
+  "has_photo": false
+}

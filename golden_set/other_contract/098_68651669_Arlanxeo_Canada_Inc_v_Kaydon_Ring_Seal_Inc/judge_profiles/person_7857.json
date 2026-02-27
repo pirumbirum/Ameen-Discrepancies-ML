@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7857/?format=json",
+  "id": 7857,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3596/?format=json",
+      "id": 3596,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7857/?format=json",
+      "date_created": "2016-04-20T08:28:38.450779-07:00",
+      "date_modified": "2016-04-20T08:28:38.450802-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/100002440134",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/32618/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:38.433929-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "t-paul-kane",
+  "name_first": "T",
+  "name_middle": "Paul",
+  "name_last": "Kane",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": "2002-12-01",
+  "date_granularity_dod": "%Y-%m",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

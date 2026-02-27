@@ -1,0 +1,104 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1242/?format=json",
+  "id": 1242,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/759/?format=json",
+      "id": 759,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1242/?format=json",
+      "date_created": "2016-04-20T08:18:37.261028-07:00",
+      "date_modified": "2016-04-20T08:18:37.261050-07:00",
+      "year_rated": 2013,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1041/?format=json",
+      "id": 1041,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1197/?format=json",
+        "id": 1197,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Claremont McKenna College",
+        "ein": 951664101
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1242/?format=json",
+      "date_created": "2016-04-20T08:18:37.276702-07:00",
+      "date_modified": "2016-04-20T08:18:37.276727-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1984
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1042/?format=json",
+      "id": 1042,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1242/?format=json",
+      "date_created": "2016-04-20T08:18:37.307119-07:00",
+      "date_modified": "2016-04-20T08:18:37.307148-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1987
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/7570/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7571/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7572/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1248/?format=json",
+      "id": 1248,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1242/?format=json",
+      "date_created": "2016-04-20T08:18:37.254018-07:00",
+      "date_modified": "2016-04-20T08:18:37.254042-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2013-01-04",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:37.223280-07:00",
+  "date_modified": "2020-11-25T08:30:22.407142-08:00",
+  "date_completed": null,
+  "fjc_id": 3463,
+  "slug": "andrew-patrick-gordon",
+  "name_first": "Andrew",
+  "name_middle": "Patrick",
+  "name_last": "Gordon",
+  "name_suffix": "",
+  "date_dob": "1962-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "San Francisco",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

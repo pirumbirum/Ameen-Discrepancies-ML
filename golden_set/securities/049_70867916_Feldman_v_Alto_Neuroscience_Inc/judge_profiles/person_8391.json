@@ -1,0 +1,201 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8391/?format=json",
+  "id": 8391,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4102/?format=json",
+      "id": 4102,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8391/?format=json",
+      "date_created": "2016-04-20T08:29:07.095636-07:00",
+      "date_modified": "2016-04-20T08:29:07.095674-07:00",
+      "url": "http://www.txcourts.gov/14thcoa/about-the-court/justices/justice-ken-wise.aspx",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20622/?format=json",
+      "id": 20622,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8391/?format=json",
+      "date_created": "2022-08-09T11:31:51.595858-07:00",
+      "date_modified": "2022-08-09T11:31:51.595870-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-08-09",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20623/?format=json",
+      "id": 20623,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8391/?format=json",
+      "date_created": "2022-08-09T11:41:20.245177-07:00",
+      "date_modified": "2022-08-09T11:41:20.245194-07:00",
+      "url": "https://www.txcourts.gov/14thcoa/about-the-court/justices/justice-ken-wise/",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20624/?format=json",
+      "id": 20624,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8391/?format=json",
+      "date_created": "2022-08-09T11:41:20.248860-07:00",
+      "date_modified": "2022-08-09T11:41:20.248876-07:00",
+      "url": "https://ballotpedia.org/Ken_Wise",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20625/?format=json",
+      "id": 20625,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8391/?format=json",
+      "date_created": "2022-08-09T11:41:20.249492-07:00",
+      "date_modified": "2022-08-09T11:41:20.249508-07:00",
+      "url": "https://www.tshaonline.org/about/people/ken-wise",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20626/?format=json",
+      "id": 20626,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8391/?format=json",
+      "date_created": "2022-08-09T11:41:20.250073-07:00",
+      "date_modified": "2022-08-09T11:41:20.250084-07:00",
+      "url": "https://www.linkedin.com/in/hon-ken-wise-13a29b8/",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20627/?format=json",
+      "id": 20627,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8391/?format=json",
+      "date_created": "2022-08-09T11:41:20.250632-07:00",
+      "date_modified": "2022-08-09T11:41:20.250647-07:00",
+      "url": "https://issuu.com/houstonbusinessconnections/docs/2020_election_results_featuring_justice_ken_wise",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20628/?format=json",
+      "id": 20628,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8391/?format=json",
+      "date_created": "2022-08-09T11:41:20.251254-07:00",
+      "date_modified": "2022-08-09T11:41:20.251270-07:00",
+      "url": "https://www.ali.org/members/member/459601/",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20629/?format=json",
+      "id": 20629,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8391/?format=json",
+      "date_created": "2022-08-09T11:41:20.251816-07:00",
+      "date_modified": "2022-08-09T11:41:20.251828-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=40989&office=20432",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20630/?format=json",
+      "id": 20630,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8391/?format=json",
+      "date_created": "2022-08-09T11:41:20.252276-07:00",
+      "date_modified": "2022-08-09T11:41:20.252287-07:00",
+      "url": "",
+      "date_accessed": "2022-08-09",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12817/?format=json",
+      "id": 12817,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1296/?format=json",
+        "id": 1296,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas A & M University-College Station",
+        "ein": 746000531
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8391/?format=json",
+      "date_created": "2022-08-09T11:31:51.576768-07:00",
+      "date_modified": "2022-08-09T11:31:51.576784-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1991
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12818/?format=json",
+      "id": 12818,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2480/?format=json",
+        "id": 2480,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Houston",
+        "ein": 746001399
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8391/?format=json",
+      "date_created": "2022-08-09T11:31:51.587285-07:00",
+      "date_modified": "2022-08-09T11:31:51.587299-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1994
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33378/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52503/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52504/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52505/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52506/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52507/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52508/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52509/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52510/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8522/?format=json",
+      "id": 8522,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8391/?format=json",
+      "date_created": "2022-08-09T11:31:51.590373-07:00",
+      "date_modified": "2022-08-09T11:31:51.590386-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:29:07.076119-07:00",
+  "date_modified": "2022-08-09T11:43:10.761634-07:00",
+  "date_completed": "2022-08-09T11:30:45-07:00",
+  "fjc_id": null,
+  "slug": "ken-p-wise",
+  "name_first": "Ken",
+  "name_middle": "P.",
+  "name_last": "Wise",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,132 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15391/?format=json",
+  "id": 15391,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16591/?format=json",
+      "id": 16591,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15391/?format=json",
+      "date_created": "2022-05-26T16:05:33.034612-07:00",
+      "date_modified": "2022-05-26T16:05:33.034633-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Jones-DS.%20B.%2002.%20NYS_Resp_SR_2020.pdf",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16592/?format=json",
+      "id": 16592,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15391/?format=json",
+      "date_created": "2022-05-26T16:05:33.056070-07:00",
+      "date_modified": "2022-05-26T16:05:33.056098-07:00",
+      "url": "https://www.pli.edu/faculty/hon.-david-s.-jones-i1910574https://www.pli.edu/faculty/hon.-david-s.-jones-i1910574",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16593/?format=json",
+      "id": 16593,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15391/?format=json",
+      "date_created": "2022-05-26T16:05:33.060344-07:00",
+      "date_modified": "2022-05-26T16:05:33.060366-07:00",
+      "url": "https://ballotpedia.org/David_Jones_(New_York_bankruptcy_judge)",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16594/?format=json",
+      "id": 16594,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15391/?format=json",
+      "date_created": "2022-05-26T16:05:33.061351-07:00",
+      "date_modified": "2022-05-26T16:05:33.061402-07:00",
+      "url": "https://www.justice.gov/usao-sdny/pr/us-attorney-announces-appointment-civil-division-deputy-chief-david-s-jones-serve",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16595/?format=json",
+      "id": 16595,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15391/?format=json",
+      "date_created": "2022-05-26T16:05:33.062522-07:00",
+      "date_modified": "2022-05-26T16:05:33.062547-07:00",
+      "url": "https://today.westlaw.com/Document/If29a17e0675811eba146f491e146655f/View/FullText.html?transitionType=Default&contextData=(sc.Default)&firstPage=true",
+      "date_accessed": "2022-05-26",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11636/?format=json",
+      "id": 11636,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4697/?format=json",
+        "id": 4697,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Brown University",
+        "ein": 50258809
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15391/?format=json",
+      "date_created": "2022-05-26T16:05:32.996276-07:00",
+      "date_modified": "2022-05-26T16:10:08.886736-07:00",
+      "degree_level": "ba",
+      "degree_detail": "magna cum laude",
+      "degree_year": 1985
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11637/?format=json",
+      "id": 11637,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15391/?format=json",
+      "date_created": "2022-05-26T16:05:33.031607-07:00",
+      "date_modified": "2022-05-26T16:10:08.891986-07:00",
+      "degree_level": "jd",
+      "degree_detail": "cum laude",
+      "degree_year": 1990
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/48038/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48039/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48040/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/48041/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-05-26T16:05:32.950965-07:00",
+  "date_modified": "2022-05-26T16:19:49.982358-07:00",
+  "date_completed": "2022-05-26T15:55:18-07:00",
+  "fjc_id": null,
+  "slug": "david-s-jones",
+  "name_first": "David",
+  "name_middle": "S.",
+  "name_last": "Jones",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

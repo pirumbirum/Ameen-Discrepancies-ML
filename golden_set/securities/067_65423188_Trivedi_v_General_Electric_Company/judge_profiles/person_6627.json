@@ -1,0 +1,59 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6627/?format=json",
+  "id": 6627,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2732/?format=json",
+      "id": 2732,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6627/?format=json",
+      "date_created": "2016-04-20T08:27:35.431433-07:00",
+      "date_modified": "2016-04-20T08:27:35.431454-07:00",
+      "url": "http://www.martindale.com/Ralph-A-Walker/1400335-lawyer.htm",
+      "date_accessed": null,
+      "notes": "1st"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2733/?format=json",
+      "id": 2733,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6627/?format=json",
+      "date_created": "2016-04-20T08:27:35.437527-07:00",
+      "date_modified": "2016-04-20T08:27:35.437549-07:00",
+      "url": "https://advance.lexis.com/lpsreport/?pdmfid=1000547&crid=36b392b4-ab43-45e3-a27b-db3142a4145a&ecomp=5rfk&earg=sr0&prid=6372c48b-26a9-4dc2-9ab8-15f32bd08caa",
+      "date_accessed": null,
+      "notes": "1st"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/30238/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/38967/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:35.408549-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "herbert-w-walker",
+  "name_first": "Herbert",
+  "name_middle": "W.",
+  "name_last": "Walker",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": "2009-10-28",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,92 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7696/?format=json",
+  "id": 7696,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3530/?format=json",
+      "id": 3530,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7696/?format=json",
+      "date_created": "2016-04-20T08:28:32.495622-07:00",
+      "date_modified": "2016-04-20T08:28:32.495640-07:00",
+      "url": "https://www.courts.mo.gov/page.jsp?id=466",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6923/?format=json",
+      "id": 6923,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/161/?format=json",
+        "id": 161,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Michigan-Ann Arbor",
+        "ein": 386006309
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7696/?format=json",
+      "date_created": "2020-02-10T13:54:48.674907-08:00",
+      "date_modified": "2020-02-10T13:54:48.674934-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1978
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6924/?format=json",
+      "id": 6924,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2624/?format=json",
+        "id": 2624,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Cornell University",
+        "ein": 150532082
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7696/?format=json",
+      "date_created": "2020-02-10T13:54:48.679877-08:00",
+      "date_modified": "2020-02-10T13:54:48.679904-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1982
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/32408/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32409/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32410/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34658/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:32.435479-07:00",
+  "date_modified": "2025-02-05T09:16:44.633870-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "patricia-l-cohen",
+  "name_first": "Patricia",
+  "name_middle": "L.",
+  "name_last": "Cohen",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "je",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

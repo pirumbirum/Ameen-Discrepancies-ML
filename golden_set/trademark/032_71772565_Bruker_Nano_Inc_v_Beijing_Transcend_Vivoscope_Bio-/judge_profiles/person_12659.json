@@ -1,0 +1,133 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12659/?format=json",
+  "id": 12659,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11252/?format=json",
+      "id": 11252,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12659/?format=json",
+      "date_created": "2022-03-09T10:03:02.143401-08:00",
+      "date_modified": "2022-03-09T10:03:02.143436-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-09",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11253/?format=json",
+      "id": 11253,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12659/?format=json",
+      "date_created": "2022-03-09T10:03:02.148774-08:00",
+      "date_modified": "2022-03-09T10:03:02.148799-08:00",
+      "url": "https://ballotpedia.org/Sam_Ohta",
+      "date_accessed": "2022-03-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11254/?format=json",
+      "id": 11254,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12659/?format=json",
+      "date_created": "2022-03-09T10:03:02.155601-08:00",
+      "date_modified": "2022-03-09T10:03:02.155623-08:00",
+      "url": "https://www.martindale.com/attorney/sam-osamu-ohta-157982347/",
+      "date_accessed": "2022-03-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11255/?format=json",
+      "id": 11255,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12659/?format=json",
+      "date_created": "2022-03-09T10:03:02.165046-08:00",
+      "date_modified": "2022-03-09T10:03:02.165069-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-09",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9191/?format=json",
+      "id": 9191,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5298/?format=json",
+        "id": 5298,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Santa Barbara",
+        "ein": 956006145
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12659/?format=json",
+      "date_created": "2022-03-09T10:03:02.115490-08:00",
+      "date_modified": "2022-03-09T10:03:02.115513-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1985
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9192/?format=json",
+      "id": 9192,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3104/?format=json",
+        "id": 3104,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Loyola Marymount University",
+        "ein": 951643334
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12659/?format=json",
+      "date_created": "2022-03-09T10:03:02.124272-08:00",
+      "date_modified": "2022-03-09T10:03:02.124295-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1989
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/41692/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6530/?format=json",
+      "id": 6530,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12659/?format=json",
+      "date_created": "2022-03-09T10:03:02.106642-08:00",
+      "date_modified": "2022-03-09T10:03:02.106666-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:09:58.352850-07:00",
+  "date_modified": "2022-03-21T11:52:35.720201-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "sam-ohta",
+  "name_first": "Sam",
+  "name_middle": "",
+  "name_last": "Ohta",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Yokohama",
+  "dob_state": "",
+  "dob_country": "Japan",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

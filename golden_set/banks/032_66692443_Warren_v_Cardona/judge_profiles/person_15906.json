@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15906/?format=json",
+  "id": 15906,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19105/?format=json",
+      "id": 19105,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15906/?format=json",
+      "date_created": "2022-07-21T16:00:52.407423-07:00",
+      "date_modified": "2022-07-21T16:00:52.407439-07:00",
+      "url": "",
+      "date_accessed": "2022-07-21",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51265/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-07-21T16:00:52.356744-07:00",
+  "date_modified": "2022-07-21T16:31:19.970477-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "nancy-berger",
+  "name_first": "Nancy",
+  "name_middle": "",
+  "name_last": "Berger",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

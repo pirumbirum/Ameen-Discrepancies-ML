@@ -1,0 +1,66 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1502/?format=json",
+  "id": 1502,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/923/?format=json",
+      "id": 923,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1502/?format=json",
+      "date_created": "2016-04-20T08:19:15.029955-07:00",
+      "date_modified": "2016-04-20T08:19:15.029978-07:00",
+      "year_rated": 2011,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9168/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9169/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9170/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9171/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1510/?format=json",
+      "id": 1510,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1502/?format=json",
+      "date_created": "2016-04-20T08:19:15.020924-07:00",
+      "date_modified": "2016-04-20T08:19:15.020948-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2011-01-05",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:14.987137-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3353,
+  "slug": "paul-kinloch-holmes-iii",
+  "name_first": "Paul",
+  "name_middle": "Kinloch",
+  "name_last": "Holmes",
+  "name_suffix": "3",
+  "date_dob": "1951-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Newport",
+  "dob_state": "AR",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,172 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/10300/?format=json",
+  "id": 10300,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13317/?format=json",
+      "id": 13317,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/10300/?format=json",
+      "date_created": "2022-03-16T17:53:06.946644-07:00",
+      "date_modified": "2022-03-16T17:53:06.946667-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13318/?format=json",
+      "id": 13318,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/10300/?format=json",
+      "date_created": "2022-03-16T17:53:06.948113-07:00",
+      "date_modified": "2022-03-16T17:53:58.299130-07:00",
+      "url": "https://www.occourts.org/media/pdf/profiles/wilson_peter.pdf",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13319/?format=json",
+      "id": 13319,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/10300/?format=json",
+      "date_created": "2022-03-16T17:53:58.301596-07:00",
+      "date_modified": "2022-03-16T17:53:58.301618-07:00",
+      "url": "https://www.martindale.com/attorney/peter-john-wilson-88429/",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13320/?format=json",
+      "id": 13320,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/10300/?format=json",
+      "date_created": "2022-03-16T17:53:58.304349-07:00",
+      "date_modified": "2022-03-16T17:53:58.304371-07:00",
+      "url": "https://ballotpedia.org/Peter_Wilson",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13321/?format=json",
+      "id": 13321,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/10300/?format=json",
+      "date_created": "2022-03-16T17:53:58.305600-07:00",
+      "date_modified": "2022-03-16T17:53:58.305620-07:00",
+      "url": "https://courtlistener.com",
+      "date_accessed": "2022-03-16",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13415/?format=json",
+      "id": 13415,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/10300/?format=json",
+      "date_created": "2022-03-23T16:27:26.660558-07:00",
+      "date_modified": "2022-03-23T16:27:26.660584-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-23",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10196/?format=json",
+      "id": 10196,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6490/?format=json",
+        "id": 6490,
+        "is_alias_of": null,
+        "date_created": "2022-03-16T17:43:36.811134-07:00",
+        "date_modified": "2022-03-16T17:43:36.811172-07:00",
+        "name": "Rhodes University (Grahamstown, South Africa)",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/10300/?format=json",
+      "date_created": "2022-03-16T17:53:06.935188-07:00",
+      "date_modified": "2022-03-16T17:53:06.935219-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1974
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10197/?format=json",
+      "id": 10197,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6490/?format=json",
+        "id": 6490,
+        "is_alias_of": null,
+        "date_created": "2022-03-16T17:43:36.811134-07:00",
+        "date_modified": "2022-03-16T17:43:36.811172-07:00",
+        "name": "Rhodes University (Grahamstown, South Africa)",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/10300/?format=json",
+      "date_created": "2022-03-16T17:53:06.939036-07:00",
+      "date_modified": "2022-03-16T17:53:06.939058-07:00",
+      "degree_level": "llb",
+      "degree_detail": "",
+      "degree_year": 1976
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10198/?format=json",
+      "id": 10198,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6491/?format=json",
+        "id": 6491,
+        "is_alias_of": null,
+        "date_created": "2022-03-16T17:44:11.667601-07:00",
+        "date_modified": "2022-03-16T17:44:11.667644-07:00",
+        "name": "University of Edinburgh",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/10300/?format=json",
+      "date_created": "2022-03-16T17:53:06.942536-07:00",
+      "date_modified": "2022-03-16T17:53:06.942562-07:00",
+      "degree_level": "ma",
+      "degree_detail": "Criminology",
+      "degree_year": 1978
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43259/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7227/?format=json",
+      "id": 7227,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/10300/?format=json",
+      "date_created": "2022-03-16T17:53:06.945145-07:00",
+      "date_modified": "2022-03-16T17:53:06.945169-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-09-13T11:35:56.249000-07:00",
+  "date_modified": "2022-03-23T16:28:24.382836-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "peter-john-wilson",
+  "name_first": "Peter",
+  "name_middle": "John",
+  "name_last": "Wilson",
+  "name_suffix": "",
+  "date_dob": "1933-08-23",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "South Africa",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

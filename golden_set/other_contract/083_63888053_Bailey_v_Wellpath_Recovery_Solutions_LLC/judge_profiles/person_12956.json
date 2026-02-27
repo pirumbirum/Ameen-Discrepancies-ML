@@ -1,0 +1,121 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12956/?format=json",
+  "id": 12956,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10270/?format=json",
+      "id": 10270,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12956/?format=json",
+      "date_created": "2022-03-06T18:29:10.236650-08:00",
+      "date_modified": "2022-03-06T18:29:10.236675-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10271/?format=json",
+      "id": 10271,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12956/?format=json",
+      "date_created": "2022-03-06T18:29:10.243291-08:00",
+      "date_modified": "2022-03-06T18:29:10.243314-08:00",
+      "url": "https://ballotpedia.org/Jacqueline_H._Lewis",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10272/?format=json",
+      "id": 10272,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12956/?format=json",
+      "date_created": "2022-03-06T18:29:10.247201-08:00",
+      "date_modified": "2022-03-06T18:29:10.247224-08:00",
+      "url": "https://www.martindale.com/attorney/jacqueline-claire-honovich-165419/",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10273/?format=json",
+      "id": 10273,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12956/?format=json",
+      "date_created": "2022-03-06T18:29:10.255434-08:00",
+      "date_modified": "2022-03-06T18:29:10.255458-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-06",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8742/?format=json",
+      "id": 8742,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3104/?format=json",
+        "id": 3104,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Loyola Marymount University",
+        "ein": 951643334
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12956/?format=json",
+      "date_created": "2022-03-06T18:29:10.201664-08:00",
+      "date_modified": "2022-03-06T18:29:10.201689-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Business",
+      "degree_year": 1986
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8743/?format=json",
+      "id": 8743,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12956/?format=json",
+      "date_created": "2022-03-06T18:29:10.210749-08:00",
+      "date_modified": "2022-03-06T18:29:10.210773-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1990
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42237/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44457/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44458/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:15.197167-07:00",
+  "date_modified": "2022-03-20T19:17:30.805233-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jacqueline-honovich-lewis",
+  "name_first": "Jacqueline",
+  "name_middle": "Honovich",
+  "name_last": "Lewis",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Inglewood",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

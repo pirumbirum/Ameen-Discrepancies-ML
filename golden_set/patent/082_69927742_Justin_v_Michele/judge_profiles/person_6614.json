@@ -1,0 +1,61 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6614/?format=json",
+  "id": 6614,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2723/?format=json",
+      "id": 2723,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6614/?format=json",
+      "date_created": "2016-04-20T08:27:35.094712-07:00",
+      "date_modified": "2016-04-20T08:27:35.094737-07:00",
+      "url": "http://www.parkerpoe.com/newsevents/2015/01/the-honorable-sydnor-thompson",
+      "date_accessed": null,
+      "notes": "private practice 1954-94; Misdemeanor Court 1959-60;Private pracitce"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2724/?format=json",
+      "id": 2724,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6614/?format=json",
+      "date_created": "2016-04-20T08:27:35.099901-07:00",
+      "date_modified": "2016-04-20T08:27:35.099926-07:00",
+      "url": "http://www.charlotteobserver.com/news/local/article9285467.html",
+      "date_accessed": null,
+      "notes": "private practice 1954-94; Misdemeanor Court 1959-60;Private pracitce"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/30223/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/40404/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/40405/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/40406/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:35.068850-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "robert-s-thompson",
+  "name_first": "Robert",
+  "name_middle": "S.",
+  "name_last": "Thompson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

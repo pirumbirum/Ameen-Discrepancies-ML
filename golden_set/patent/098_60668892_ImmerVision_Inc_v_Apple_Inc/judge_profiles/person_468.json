@@ -1,0 +1,57 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/468/?format=json",
+  "id": 468,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/2731/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2732/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2733/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2734/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2735/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/470/?format=json",
+      "id": 470,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/468/?format=json",
+      "date_created": "2016-04-20T08:16:51.688004-07:00",
+      "date_modified": "2016-04-20T08:16:51.688036-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1958-06-27",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:51.655555-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 322,
+  "slug": "lloyd-hudson-burke",
+  "name_first": "Lloyd",
+  "name_middle": "Hudson",
+  "name_last": "Burke",
+  "name_suffix": "",
+  "date_dob": "1916-04-01",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1988-03-15",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Oakland",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "Oakland",
+  "dod_state": "CA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

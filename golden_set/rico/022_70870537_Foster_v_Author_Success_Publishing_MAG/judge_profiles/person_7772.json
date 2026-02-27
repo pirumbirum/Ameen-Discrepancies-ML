@@ -1,0 +1,133 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7772/?format=json",
+  "id": 7772,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6142/?format=json",
+      "id": 6142,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7772/?format=json",
+      "date_created": "2022-02-07T16:23:10.285695-08:00",
+      "date_modified": "2022-02-08T09:27:59.000775-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": null,
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6141/?format=json",
+      "id": 6141,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7772/?format=json",
+      "date_created": "2022-02-07T16:23:10.278526-08:00",
+      "date_modified": "2022-02-07T18:15:46.274613-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-07",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11417/?format=json",
+      "id": 11417,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7772/?format=json",
+      "date_created": "2022-03-09T14:57:45.440982-08:00",
+      "date_modified": "2022-03-09T14:57:45.441006-08:00",
+      "url": "https://ballotpedia.org/Thomas_R._Adams",
+      "date_accessed": "2022-02-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11418/?format=json",
+      "id": 11418,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7772/?format=json",
+      "date_created": "2022-03-09T14:57:45.442894-08:00",
+      "date_modified": "2022-03-09T14:57:45.442927-08:00",
+      "url": "https://www.bloomberg.com/profile/person/18694185",
+      "date_accessed": "2022-02-07",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6990/?format=json",
+      "id": 6990,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5176/?format=json",
+        "id": 5176,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "California Western School of Law",
+        "ein": 952944594
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7772/?format=json",
+      "date_created": "2022-02-07T16:23:10.242963-08:00",
+      "date_modified": "2022-02-07T16:23:10.242986-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1970
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6991/?format=json",
+      "id": 6991,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5081/?format=json",
+        "id": 5081,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Willamette University",
+        "ein": 930386972
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7772/?format=json",
+      "date_created": "2022-02-07T16:23:10.250327-08:00",
+      "date_modified": "2022-02-07T16:23:10.250349-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1967
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/32512/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5075/?format=json",
+      "id": 5075,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7772/?format=json",
+      "date_created": "2022-02-08T09:27:58.985860-08:00",
+      "date_modified": "2022-02-08T09:27:58.985893-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:35.970825-07:00",
+  "date_modified": "2022-03-09T14:57:45.430144-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "thomas-r-adams-jr",
+  "name_first": "Thomas",
+  "name_middle": "R.",
+  "name_last": "Adams",
+  "name_suffix": "jr",
+  "date_dob": "1940-06-01",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Iowa City",
+  "dob_state": "IA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

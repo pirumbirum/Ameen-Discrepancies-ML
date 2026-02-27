@@ -1,0 +1,158 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/16042/?format=json",
+  "id": 16042,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19902/?format=json",
+      "id": 19902,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16042/?format=json",
+      "date_created": "2022-07-29T17:38:22.980877-07:00",
+      "date_modified": "2022-07-29T17:38:22.980890-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-29",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19903/?format=json",
+      "id": 19903,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16042/?format=json",
+      "date_created": "2022-07-29T17:46:34.918828-07:00",
+      "date_modified": "2022-07-29T17:46:34.918848-07:00",
+      "url": "http://www.legaldirectories.com/Schneider-Frederick-C-40179-Atty.aspx",
+      "date_accessed": "2022-07-29",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19904/?format=json",
+      "id": 19904,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16042/?format=json",
+      "date_created": "2022-07-29T17:46:34.921398-07:00",
+      "date_modified": "2022-07-29T17:46:34.921412-07:00",
+      "url": "https://www.co.caldwell.tx.us/page/caldwell.421st",
+      "date_accessed": "2022-07-29",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19905/?format=json",
+      "id": 19905,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16042/?format=json",
+      "date_created": "2022-07-29T17:46:34.921959-07:00",
+      "date_modified": "2022-07-29T17:46:34.921971-07:00",
+      "url": "https://ballotpedia.org/Chris_Schneider",
+      "date_accessed": "2022-07-29",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19906/?format=json",
+      "id": 19906,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16042/?format=json",
+      "date_created": "2022-07-29T17:46:34.922439-07:00",
+      "date_modified": "2022-07-29T17:46:34.922452-07:00",
+      "url": "https://www.ballotready.org/tx/306690/396429",
+      "date_accessed": "2022-07-29",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19907/?format=json",
+      "id": 19907,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16042/?format=json",
+      "date_created": "2022-07-29T17:46:34.923131-07:00",
+      "date_modified": "2022-07-29T17:46:34.923145-07:00",
+      "url": "",
+      "date_accessed": "2022-07-29",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12617/?format=json",
+      "id": 12617,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1296/?format=json",
+        "id": 1296,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas A & M University-College Station",
+        "ein": 746000531
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16042/?format=json",
+      "date_created": "2022-07-29T17:38:22.969656-07:00",
+      "date_modified": "2022-07-29T17:38:22.969677-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1975
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12618/?format=json",
+      "id": 12618,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5152/?format=json",
+        "id": 5152,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "St Mary's University",
+        "ein": 741143128
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16042/?format=json",
+      "date_created": "2022-07-29T17:38:22.974517-07:00",
+      "date_modified": "2022-07-29T17:38:22.974531-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1981
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51855/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51856/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51857/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51858/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51859/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51860/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8424/?format=json",
+      "id": 8424,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16042/?format=json",
+      "date_created": "2022-07-29T17:38:22.976924-07:00",
+      "date_modified": "2022-07-29T17:38:22.976938-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-29T17:38:22.558837-07:00",
+  "date_modified": "2022-07-29T17:46:34.910622-07:00",
+  "date_completed": "2022-07-29T17:36:37-07:00",
+  "fjc_id": null,
+  "slug": "frederick-christopher-schneider",
+  "name_first": "Frederick",
+  "name_middle": "Christopher",
+  "name_last": "Schneider",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

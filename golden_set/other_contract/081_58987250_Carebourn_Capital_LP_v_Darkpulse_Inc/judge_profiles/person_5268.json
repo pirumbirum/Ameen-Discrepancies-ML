@@ -1,0 +1,50 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5268/?format=json",
+  "id": 5268,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1441/?format=json",
+      "id": 1441,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5268/?format=json",
+      "date_created": "2016-04-20T08:26:06.197366-07:00",
+      "date_modified": "2016-04-20T08:26:06.197392-07:00",
+      "url": "https://en.wikipedia.org/wiki/William_B._Wright",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27022/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27023/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27024/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:06.166076-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "william-b-wright",
+  "name_first": "William",
+  "name_middle": "B.",
+  "name_last": "Wright",
+  "name_suffix": "",
+  "date_dob": "1806-04-16",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1868-01-12",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

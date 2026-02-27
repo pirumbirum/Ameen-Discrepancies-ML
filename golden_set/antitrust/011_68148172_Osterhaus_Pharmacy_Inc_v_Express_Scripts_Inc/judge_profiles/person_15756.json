@@ -1,0 +1,186 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15756/?format=json",
+  "id": 15756,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18387/?format=json",
+      "id": 18387,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15756/?format=json",
+      "date_created": "2022-07-12T09:46:20.691648-07:00",
+      "date_modified": "2022-07-12T09:46:20.691662-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-12",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18388/?format=json",
+      "id": 18388,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15756/?format=json",
+      "date_created": "2022-07-12T09:57:49.807690-07:00",
+      "date_modified": "2022-07-12T09:57:49.807704-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=62881&office=19273",
+      "date_accessed": "2022-07-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18389/?format=json",
+      "id": 18389,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15756/?format=json",
+      "date_created": "2022-07-12T09:57:49.809489-07:00",
+      "date_modified": "2022-07-12T09:57:49.809507-07:00",
+      "url": "https://ballotpedia.org/DaSean_Jones",
+      "date_accessed": "2022-07-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18390/?format=json",
+      "id": 18390,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15756/?format=json",
+      "date_created": "2022-07-12T09:57:49.810225-07:00",
+      "date_modified": "2022-07-12T09:57:49.810237-07:00",
+      "url": "https://www.justex.net/Courts/Criminal/CriminalCourt.aspx?crt=32",
+      "date_accessed": "2022-07-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18391/?format=json",
+      "id": 18391,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15756/?format=json",
+      "date_created": "2022-07-12T09:57:49.810957-07:00",
+      "date_modified": "2022-07-12T09:57:49.810974-07:00",
+      "url": "http://www.daseanfortexas.com/#/",
+      "date_accessed": "2022-07-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18392/?format=json",
+      "id": 18392,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15756/?format=json",
+      "date_created": "2022-07-12T09:57:49.811652-07:00",
+      "date_modified": "2022-07-12T09:57:49.811664-07:00",
+      "url": "https://www.linkedin.com/in/dasean/",
+      "date_accessed": "2022-07-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18393/?format=json",
+      "id": 18393,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15756/?format=json",
+      "date_created": "2022-07-12T09:57:49.812364-07:00",
+      "date_modified": "2022-07-12T09:57:49.812381-07:00",
+      "url": "",
+      "date_accessed": "2022-07-12",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12185/?format=json",
+      "id": 12185,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5919/?format=json",
+        "id": 5919,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tuskegee University",
+        "ein": 630288878
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15756/?format=json",
+      "date_created": "2022-07-12T09:46:20.678837-07:00",
+      "date_modified": "2022-07-12T09:46:20.678853-07:00",
+      "degree_level": "ba",
+      "degree_detail": "English",
+      "degree_year": 2001
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12186/?format=json",
+      "id": 12186,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2485/?format=json",
+        "id": 2485,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Southern University",
+        "ein": 746001391
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15756/?format=json",
+      "date_created": "2022-07-12T09:46:20.684797-07:00",
+      "date_modified": "2022-07-12T09:57:49.800507-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2011
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12187/?format=json",
+      "id": 12187,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5032/?format=json",
+        "id": 5032,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Webster University",
+        "ein": 430662529
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15756/?format=json",
+      "date_created": "2022-07-12T09:57:49.805197-07:00",
+      "date_modified": "2022-07-12T10:05:29.852626-07:00",
+      "degree_level": "ma",
+      "degree_detail": "Management & Leadership",
+      "degree_year": 2006
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50657/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50658/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50660/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50661/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50662/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8235/?format=json",
+      "id": 8235,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15756/?format=json",
+      "date_created": "2022-07-12T09:46:20.687047-07:00",
+      "date_modified": "2022-07-12T09:46:20.687059-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-12T09:46:20.627257-07:00",
+  "date_modified": "2022-07-12T10:05:29.781107-07:00",
+  "date_completed": "2022-07-12T09:42:28-07:00",
+  "fjc_id": null,
+  "slug": "dasean-a-jones",
+  "name_first": "DaSean",
+  "name_middle": "A.",
+  "name_last": "Jones",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

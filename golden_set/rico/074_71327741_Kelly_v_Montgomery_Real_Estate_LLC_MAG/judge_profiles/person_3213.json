@@ -1,0 +1,85 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3213/?format=json",
+  "id": 3213,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2028/?format=json",
+      "id": 2028,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3213/?format=json",
+      "date_created": "2016-04-20T08:23:16.907368-07:00",
+      "date_modified": "2016-04-20T08:23:16.907390-07:00",
+      "year_rated": 1970,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2708/?format=json",
+      "id": 2708,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3117/?format=json",
+        "id": 3117,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Southern California",
+        "ein": 951642394
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3213/?format=json",
+      "date_created": "2016-04-20T08:23:16.920577-07:00",
+      "date_modified": "2016-04-20T08:23:16.920606-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1951
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/20190/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/20191/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/20189/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3229/?format=json",
+      "id": 3229,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3213/?format=json",
+      "date_created": "2016-04-20T08:23:16.902055-07:00",
+      "date_modified": "2016-04-20T08:23:16.902081-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1970-10-07",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:23:16.869288-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2375,
+  "slug": "gordon-thompson-jr",
+  "name_first": "Gordon",
+  "name_middle": "",
+  "name_last": "Thompson",
+  "name_suffix": "jr",
+  "date_dob": "1929-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "San Diego",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

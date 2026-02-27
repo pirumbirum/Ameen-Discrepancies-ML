@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13769/?format=json",
+  "id": 13769,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10700/?format=json",
+      "id": 10700,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13769/?format=json",
+      "date_created": "2022-03-07T14:17:20.796242-08:00",
+      "date_modified": "2022-03-07T14:17:20.796275-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-07",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10701/?format=json",
+      "id": 10701,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13769/?format=json",
+      "date_created": "2022-03-07T14:17:20.805384-08:00",
+      "date_modified": "2022-03-07T14:17:20.805415-08:00",
+      "url": "https://ballotpedia.org/Victor_Martinez_(California)",
+      "date_accessed": "2022-03-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10702/?format=json",
+      "id": 10702,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13769/?format=json",
+      "date_created": "2022-03-07T14:17:20.815270-08:00",
+      "date_modified": "2022-03-07T14:17:20.815305-08:00",
+      "url": "https://trellis.law/judge/victor.d.martinez",
+      "date_accessed": "2022-03-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10703/?format=json",
+      "id": 10703,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13769/?format=json",
+      "date_created": "2022-03-07T14:17:20.823555-08:00",
+      "date_modified": "2022-03-07T14:17:20.823577-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-07",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8926/?format=json",
+      "id": 8926,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6464/?format=json",
+        "id": 6464,
+        "is_alias_of": null,
+        "date_created": "2022-02-22T15:06:40.448526-08:00",
+        "date_modified": "2022-02-22T15:06:40.448553-08:00",
+        "name": "Western State University",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13769/?format=json",
+      "date_created": "2022-03-07T14:17:20.773303-08:00",
+      "date_modified": "2022-03-07T14:17:20.773335-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8927/?format=json",
+      "id": 8927,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6464/?format=json",
+        "id": 6464,
+        "is_alias_of": null,
+        "date_created": "2022-02-22T15:06:40.448526-08:00",
+        "date_modified": "2022-02-22T15:06:40.448553-08:00",
+        "name": "Western State University",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13769/?format=json",
+      "date_created": "2022-03-07T14:17:20.789000-08:00",
+      "date_modified": "2022-03-07T14:17:20.789034-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43385/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6358/?format=json",
+      "id": 6358,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13769/?format=json",
+      "date_created": "2022-03-07T14:17:20.742109-08:00",
+      "date_modified": "2022-03-07T14:17:20.742132-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6359/?format=json",
+      "id": 6359,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13769/?format=json",
+      "date_created": "2022-03-07T14:17:20.760267-08:00",
+      "date_modified": "2022-03-07T14:17:20.760289-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:53.643361-07:00",
+  "date_modified": "2022-03-21T10:41:09.666141-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "victor-d-martinez",
+  "name_first": "Victor",
+  "name_middle": "D.",
+  "name_last": "Martinez",
+  "name_suffix": "",
+  "date_dob": "1963-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,90 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2840/?format=json",
+  "id": 2840,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1780/?format=json",
+      "id": 1780,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2840/?format=json",
+      "date_created": "2016-04-20T08:22:23.974811-07:00",
+      "date_modified": "2016-04-20T08:22:23.974833-07:00",
+      "year_rated": 2014,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2377/?format=json",
+      "id": 2377,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4088/?format=json",
+        "id": 4088,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Carleton College",
+        "ein": 410694747
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2840/?format=json",
+      "date_created": "2016-04-20T08:22:23.989752-07:00",
+      "date_modified": "2016-04-20T08:22:23.989776-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1980
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/17821/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17822/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17823/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17824/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17825/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17826/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17827/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17828/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2848/?format=json",
+      "id": 2848,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2840/?format=json",
+      "date_created": "2016-04-20T08:22:23.967685-07:00",
+      "date_modified": "2016-04-20T08:22:23.967714-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2014-05-08",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:23.934540-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3567,
+  "slug": "brenda-kay-sannes",
+  "name_first": "Brenda",
+  "name_middle": "Kay",
+  "name_last": "Sannes",
+  "name_suffix": "",
+  "date_dob": "1958-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Billings",
+  "dob_state": "MT",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

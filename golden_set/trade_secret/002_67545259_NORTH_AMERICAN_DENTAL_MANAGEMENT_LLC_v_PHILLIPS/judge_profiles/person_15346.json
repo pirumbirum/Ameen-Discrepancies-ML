@@ -1,0 +1,181 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15346/?format=json",
+  "id": 15346,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16297/?format=json",
+      "id": 16297,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15346/?format=json",
+      "date_created": "2022-05-20T17:18:08.215033-07:00",
+      "date_modified": "2022-05-20T17:18:08.215060-07:00",
+      "url": "https://en.wikipedia.org/wiki/Liam_P._Hardy",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16298/?format=json",
+      "id": 16298,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15346/?format=json",
+      "date_created": "2022-05-20T17:18:08.241925-07:00",
+      "date_modified": "2022-05-20T17:18:08.241948-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Hardy-LP.%20J1.%20--.%20AF_SR_20.pdf",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16299/?format=json",
+      "id": 16299,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15346/?format=json",
+      "date_created": "2022-05-20T17:18:08.264853-07:00",
+      "date_modified": "2022-05-20T17:18:08.264876-07:00",
+      "url": "https://www.armfor.uscourts.gov/employment/hardy.htm",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16300/?format=json",
+      "id": 16300,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15346/?format=json",
+      "date_created": "2022-05-20T17:18:08.287822-07:00",
+      "date_modified": "2022-05-20T17:18:08.287849-07:00",
+      "url": "https://law.nd.edu/directory/liam-hardy/",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16301/?format=json",
+      "id": 16301,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15346/?format=json",
+      "date_created": "2022-05-20T17:18:08.310784-07:00",
+      "date_modified": "2022-05-20T17:18:08.310815-07:00",
+      "url": "https://ballotpedia.org/Liam_Hardy",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16302/?format=json",
+      "id": 16302,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15346/?format=json",
+      "date_created": "2022-05-20T17:18:08.333944-07:00",
+      "date_modified": "2022-05-20T17:18:08.333973-07:00",
+      "url": "http://www.caaflog.org/home/liam-hardys-nomination-sent-to-senate",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11534/?format=json",
+      "id": 11534,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4696/?format=json",
+        "id": 4696,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Princeton University",
+        "ein": 210634501
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15346/?format=json",
+      "date_created": "2022-05-20T17:18:07.998400-07:00",
+      "date_modified": "2022-05-20T17:18:07.998453-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Engineering, magna cum laude",
+      "degree_year": 1995
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11535/?format=json",
+      "id": 11535,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15346/?format=json",
+      "date_created": "2022-05-20T17:18:08.072755-07:00",
+      "date_modified": "2022-05-20T17:18:08.072783-07:00",
+      "degree_level": "ma",
+      "degree_detail": "Mechanical Engineering Aerospace Engineering",
+      "degree_year": 1996
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11536/?format=json",
+      "id": 11536,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6053/?format=json",
+        "id": 6053,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Georgetown University",
+        "ein": 530196603
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15346/?format=json",
+      "date_created": "2022-05-20T17:18:08.143476-07:00",
+      "date_modified": "2022-05-20T17:18:08.143506-07:00",
+      "degree_level": "jd",
+      "degree_detail": "cum laude",
+      "degree_year": 2008
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47775/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47776/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47777/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47778/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47779/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47780/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47781/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47782/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47783/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47774/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7953/?format=json",
+      "id": 7953,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15346/?format=json",
+      "date_created": "2022-05-20T17:18:08.190933-07:00",
+      "date_modified": "2022-05-20T17:55:43.128935-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-05-20T17:18:07.867346-07:00",
+  "date_modified": "2022-05-20T17:55:43.047716-07:00",
+  "date_completed": "2022-05-20T17:09:23-07:00",
+  "fjc_id": null,
+  "slug": "liam-patrick-hardy",
+  "name_first": "Liam",
+  "name_middle": "Patrick",
+  "name_last": "Hardy",
+  "name_suffix": "",
+  "date_dob": "1973-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3887/?format=json",
+  "id": 3887,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/62/?format=json",
+      "id": 62,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3887/?format=json",
+      "date_created": "2016-04-20T08:24:28.337048-07:00",
+      "date_modified": "2016-04-20T08:24:28.337064-07:00",
+      "url": "http://politicalgraveyard.com/bio/steele.html#140.34.16",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23322/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:28.322737-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "robert-w-steele",
+  "name_first": "Robert",
+  "name_middle": "W.",
+  "name_last": "Steele",
+  "name_suffix": "",
+  "date_dob": "1857-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": "1910-10-12",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

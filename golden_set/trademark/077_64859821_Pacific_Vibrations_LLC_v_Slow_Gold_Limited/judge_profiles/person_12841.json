@@ -1,0 +1,143 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12841/?format=json",
+  "id": 12841,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10388/?format=json",
+      "id": 10388,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12841/?format=json",
+      "date_created": "2022-03-06T20:37:57.269007-08:00",
+      "date_modified": "2022-03-06T20:37:57.269030-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10389/?format=json",
+      "id": 10389,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12841/?format=json",
+      "date_created": "2022-03-06T20:37:57.273897-08:00",
+      "date_modified": "2022-03-06T20:37:57.273964-08:00",
+      "url": "https://ballotpedia.org/Gilbert_M._Lopez",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10390/?format=json",
+      "id": 10390,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12841/?format=json",
+      "date_created": "2022-03-06T20:37:57.277850-08:00",
+      "date_modified": "2022-03-06T20:37:57.277874-08:00",
+      "url": "https://www.martindale.com/attorney/gilbert-manuel-lopez-105751/",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10391/?format=json",
+      "id": 10391,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12841/?format=json",
+      "date_created": "2022-03-06T20:37:57.281842-08:00",
+      "date_modified": "2022-03-06T20:37:57.281866-08:00",
+      "url": "https://trellis.law/judge/gilbert.m.lopez",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10392/?format=json",
+      "id": 10392,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12841/?format=json",
+      "date_created": "2022-03-06T20:37:57.290230-08:00",
+      "date_modified": "2022-03-06T20:37:57.290254-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-06",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8792/?format=json",
+      "id": 8792,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3117/?format=json",
+        "id": 3117,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Southern California",
+        "ein": 951642394
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12841/?format=json",
+      "date_created": "2022-03-06T20:37:57.256254-08:00",
+      "date_modified": "2022-03-06T20:37:57.256279-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8793/?format=json",
+      "id": 8793,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3104/?format=json",
+        "id": 3104,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Loyola Marymount University",
+        "ein": 951643334
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12841/?format=json",
+      "date_created": "2022-03-06T20:37:57.264525-08:00",
+      "date_modified": "2022-03-06T20:37:57.264549-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42053/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6264/?format=json",
+      "id": 6264,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12841/?format=json",
+      "date_created": "2022-03-06T20:37:57.247094-08:00",
+      "date_modified": "2022-03-06T20:37:57.247118-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:08.936944-07:00",
+  "date_modified": "2022-03-20T19:36:40.570993-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "gilbert-manuel-lopez",
+  "name_first": "Gilbert",
+  "name_middle": "Manuel",
+  "name_last": "Lopez",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

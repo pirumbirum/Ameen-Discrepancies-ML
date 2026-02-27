@@ -1,0 +1,57 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/638/?format=json",
+  "id": 638,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/3827/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3828/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3829/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3830/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3831/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/643/?format=json",
+      "id": 643,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/638/?format=json",
+      "date_created": "2016-04-20T08:17:14.722225-07:00",
+      "date_modified": "2016-04-20T08:17:14.722250-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1914-07-15",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:14.692824-07:00",
+  "date_modified": "2020-11-25T08:30:19.194091-08:00",
+  "date_completed": null,
+  "fjc_id": 446,
+  "slug": "john-hessin-clarke",
+  "name_first": "John",
+  "name_middle": "Hessin",
+  "name_last": "Clarke",
+  "name_suffix": "",
+  "date_dob": "1857-09-18",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1945-03-22",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "New Lisbon",
+  "dob_state": "OH",
+  "dob_country": "United States",
+  "dod_city": "San Diego",
+  "dod_state": "CA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

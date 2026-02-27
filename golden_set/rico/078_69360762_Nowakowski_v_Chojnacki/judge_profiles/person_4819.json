@@ -1,0 +1,49 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4819/?format=json",
+  "id": 4819,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1030/?format=json",
+      "id": 1030,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4819/?format=json",
+      "date_created": "2016-04-20T08:25:31.939239-07:00",
+      "date_modified": "2016-04-20T08:25:31.939261-07:00",
+      "url": "http://mn.gov/lawlib/judgebio.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25771/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25772/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:31.879016-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "james-h-gilbert",
+  "name_first": "James",
+  "name_middle": "H.",
+  "name_last": "Gilbert",
+  "name_suffix": "",
+  "date_dob": "1947-03-11",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 206007.25,
+  "ftm_eid": "6558453",
+  "has_photo": false
+}

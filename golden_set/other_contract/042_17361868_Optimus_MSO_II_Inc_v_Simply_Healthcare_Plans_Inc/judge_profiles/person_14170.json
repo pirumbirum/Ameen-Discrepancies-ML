@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14170/?format=json",
+  "id": 14170,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6959/?format=json",
+      "id": 6959,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14170/?format=json",
+      "date_created": "2022-02-14T10:00:02.947637-08:00",
+      "date_modified": "2022-02-14T10:43:50.465625-08:00",
+      "url": "https://trellis.law/judge/gloria.j.cannon",
+      "date_accessed": "2022-02-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6994/?format=json",
+      "id": 6994,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14170/?format=json",
+      "date_created": "2022-02-14T13:55:34.810747-08:00",
+      "date_modified": "2022-02-14T16:50:27.458687-08:00",
+      "url": "https://ballotpedia.org/Gloria_Cannon",
+      "date_accessed": "2022-02-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6977/?format=json",
+      "id": 6977,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14170/?format=json",
+      "date_created": "2022-02-14T10:43:50.474238-08:00",
+      "date_modified": "2022-02-14T13:55:34.803617-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-14",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7027/?format=json",
+      "id": 7027,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14170/?format=json",
+      "date_created": "2022-02-14T16:50:27.463706-08:00",
+      "date_modified": "2022-02-14T16:50:27.463738-08:00",
+      "url": "https://www.turnto23.com/news/womens-history-month/kern-county-superior-court-judge-inspires-others",
+      "date_accessed": "2022-02-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7028/?format=json",
+      "id": 7028,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14170/?format=json",
+      "date_created": "2022-02-14T16:50:27.475561-08:00",
+      "date_modified": "2022-02-14T16:50:27.475593-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-14",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7361/?format=json",
+      "id": 7361,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14170/?format=json",
+      "date_created": "2022-02-14T10:43:50.446250-08:00",
+      "date_modified": "2022-02-14T10:43:50.446280-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7362/?format=json",
+      "id": 7362,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5176/?format=json",
+        "id": 5176,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "California Western School of Law",
+        "ein": 952944594
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14170/?format=json",
+      "date_created": "2022-02-14T10:43:50.454450-08:00",
+      "date_modified": "2022-02-14T10:43:50.454474-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43854/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5298/?format=json",
+      "id": 5298,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14170/?format=json",
+      "date_created": "2022-02-14T10:00:02.937685-08:00",
+      "date_modified": "2022-02-14T10:00:02.937717-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5314/?format=json",
+      "id": 5314,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14170/?format=json",
+      "date_created": "2022-02-14T10:43:50.460854-08:00",
+      "date_modified": "2022-02-14T10:43:50.460878-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:10.838219-07:00",
+  "date_modified": "2022-02-14T16:50:27.446713-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "gloria-j-cannon",
+  "name_first": "Gloria",
+  "name_middle": "J",
+  "name_last": "Cannon",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

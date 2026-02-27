@@ -1,0 +1,109 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2319/?format=json",
+  "id": 2319,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1424/?format=json",
+      "id": 1424,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2319/?format=json",
+      "date_created": "2016-04-20T08:21:12.112889-07:00",
+      "date_modified": "2016-04-20T08:21:12.112911-07:00",
+      "year_rated": 1974,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1923/?format=json",
+      "id": 1923,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5831/?format=json",
+        "id": 5831,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Washburn University",
+        "ein": 486030115
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2319/?format=json",
+      "date_created": "2016-04-20T08:21:12.125791-07:00",
+      "date_modified": "2016-04-20T08:21:12.125815-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1943
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1924/?format=json",
+      "id": 1924,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5831/?format=json",
+        "id": 5831,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Washburn University",
+        "ein": 486030115
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2319/?format=json",
+      "date_created": "2016-04-20T08:21:12.152521-07:00",
+      "date_modified": "2016-04-20T08:21:12.152545-07:00",
+      "degree_level": "llb",
+      "degree_detail": "LL.B.",
+      "degree_year": 1947
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14479/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14480/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14481/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14482/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14483/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14484/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14485/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14486/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2326/?format=json",
+      "id": 2326,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2319/?format=json",
+      "date_created": "2016-04-20T08:21:12.107489-07:00",
+      "date_modified": "2016-04-20T08:21:12.107513-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1974-03-19",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:12.073999-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1694,
+  "slug": "joseph-wilson-morris",
+  "name_first": "Joseph",
+  "name_middle": "Wilson",
+  "name_last": "Morris",
+  "name_suffix": "",
+  "date_dob": "1922-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Rice County",
+  "dob_state": "KS",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

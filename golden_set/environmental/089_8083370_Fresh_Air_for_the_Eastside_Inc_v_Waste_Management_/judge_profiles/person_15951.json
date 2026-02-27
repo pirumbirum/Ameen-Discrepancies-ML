@@ -1,0 +1,175 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15951/?format=json",
+  "id": 15951,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19353/?format=json",
+      "id": 19353,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15951/?format=json",
+      "date_created": "2022-07-26T09:43:20.386628-07:00",
+      "date_modified": "2022-07-26T09:43:20.386646-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-26",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19354/?format=json",
+      "id": 19354,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15951/?format=json",
+      "date_created": "2022-07-26T09:43:20.393529-07:00",
+      "date_modified": "2022-07-26T09:43:20.393542-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=182272",
+      "date_accessed": "2022-07-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19355/?format=json",
+      "id": 19355,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15951/?format=json",
+      "date_created": "2022-07-26T09:43:20.394244-07:00",
+      "date_modified": "2022-07-26T09:43:20.394254-07:00",
+      "url": "https://pedersenforjustice.com/",
+      "date_accessed": "2022-07-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19356/?format=json",
+      "id": 19356,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15951/?format=json",
+      "date_created": "2022-07-26T09:43:20.394927-07:00",
+      "date_modified": "2022-07-26T09:43:20.394937-07:00",
+      "url": "https://lawyers.usnews.com/lawyers/bill-pedersen-iii/299110",
+      "date_accessed": "2022-07-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19357/?format=json",
+      "id": 19357,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15951/?format=json",
+      "date_created": "2022-07-26T09:43:20.395573-07:00",
+      "date_modified": "2022-07-26T09:43:20.395583-07:00",
+      "url": "https://www.txcourts.gov/5thcoa/about-the-court/justices/justice-bill-pedersen-iii/",
+      "date_accessed": "2022-07-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19358/?format=json",
+      "id": 19358,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15951/?format=json",
+      "date_created": "2022-07-26T09:43:20.396198-07:00",
+      "date_modified": "2022-07-26T09:43:20.396208-07:00",
+      "url": "https://ballotpedia.org/Bill_Pedersen",
+      "date_accessed": "2022-07-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19359/?format=json",
+      "id": 19359,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15951/?format=json",
+      "date_created": "2022-07-26T09:43:20.396828-07:00",
+      "date_modified": "2022-07-26T09:43:20.396838-07:00",
+      "url": "https://www.lawyers.com/nacogdoches/texas/william-n-bill-pedersen-jr-1696863-a/",
+      "date_accessed": "2022-07-26",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19360/?format=json",
+      "id": 19360,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15951/?format=json",
+      "date_created": "2022-07-26T09:43:20.397436-07:00",
+      "date_modified": "2022-07-26T09:43:20.397446-07:00",
+      "url": "",
+      "date_accessed": "2022-07-26",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12459/?format=json",
+      "id": 12459,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3164/?format=json",
+        "id": 3164,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Tech University",
+        "ein": 756002622
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15951/?format=json",
+      "date_created": "2022-07-26T09:53:22.491564-07:00",
+      "date_modified": "2022-07-26T09:53:22.491576-07:00",
+      "degree_level": "ba",
+      "degree_detail": "History",
+      "degree_year": 1998
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12460/?format=json",
+      "id": 12460,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6016/?format=json",
+        "id": 6016,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Baylor University",
+        "ein": 741159753
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15951/?format=json",
+      "date_created": "2022-07-26T09:53:22.502721-07:00",
+      "date_modified": "2022-07-26T09:53:22.502733-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2001
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51423/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51424/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51425/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8354/?format=json",
+      "id": 8354,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15951/?format=json",
+      "date_created": "2022-07-26T09:53:22.504444-07:00",
+      "date_modified": "2022-07-26T09:53:22.504455-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-26T09:43:20.314225-07:00",
+  "date_modified": "2022-07-26T09:55:53.489091-07:00",
+  "date_completed": "2022-07-26T09:38:51-07:00",
+  "fjc_id": null,
+  "slug": "william-n-pedersen-iii",
+  "name_first": "William",
+  "name_middle": "N.",
+  "name_last": "Pedersen",
+  "name_suffix": "3",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Nacogdoches",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

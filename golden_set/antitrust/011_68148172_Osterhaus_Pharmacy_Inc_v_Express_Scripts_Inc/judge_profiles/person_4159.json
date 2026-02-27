@@ -1,0 +1,57 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4159/?format=json",
+  "id": 4159,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3430/?format=json",
+      "id": 3430,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1057/?format=json",
+        "id": 1057,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Chicago",
+        "ein": 362177139
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4159/?format=json",
+      "date_created": "2016-04-20T08:24:43.624120-07:00",
+      "date_modified": "2016-04-20T08:24:43.624139-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23964/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:43.603686-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "warren-jones",
+  "name_first": "Warren",
+  "name_middle": "",
+  "name_last": "Jones",
+  "name_suffix": "",
+  "date_dob": "1943-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 0.0,
+  "ftm_eid": "6565059",
+  "has_photo": false
+}

@@ -1,0 +1,174 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15585/?format=json",
+  "id": 15585,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17534/?format=json",
+      "id": 17534,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15585/?format=json",
+      "date_created": "2022-06-28T15:42:10.072420-07:00",
+      "date_modified": "2022-06-28T15:42:10.072449-07:00",
+      "url": "https://www.justex.net/Courts/Civil/CourtSection.aspx?crt=20&sid=1216",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17535/?format=json",
+      "id": 17535,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15585/?format=json",
+      "date_created": "2022-06-28T15:42:10.082316-07:00",
+      "date_modified": "2022-06-28T15:42:10.082343-07:00",
+      "url": "https://www.linkedin.com/in/judge-dedra-davis-2516a47/",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17536/?format=json",
+      "id": 17536,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15585/?format=json",
+      "date_created": "2022-06-28T15:42:10.084450-07:00",
+      "date_modified": "2022-06-28T15:42:10.084479-07:00",
+      "url": "https://ballotpedia.org/Dedra_Davis",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17537/?format=json",
+      "id": 17537,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15585/?format=json",
+      "date_created": "2022-06-28T15:42:10.085977-07:00",
+      "date_modified": "2022-06-28T15:42:10.086012-07:00",
+      "url": "http://02aa2b1.netsolhost.com/home2.html",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17538/?format=json",
+      "id": 17538,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15585/?format=json",
+      "date_created": "2022-06-28T15:42:10.087469-07:00",
+      "date_modified": "2022-06-28T15:42:10.087490-07:00",
+      "url": "https://trellis.law/judge/dedra.davis",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17539/?format=json",
+      "id": 17539,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15585/?format=json",
+      "date_created": "2022-06-28T15:42:10.088934-07:00",
+      "date_modified": "2022-06-28T15:42:10.088969-07:00",
+      "url": "https://www.offthekuff.com/wp/?p=104388",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17540/?format=json",
+      "id": 17540,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15585/?format=json",
+      "date_created": "2022-06-28T15:42:10.090392-07:00",
+      "date_modified": "2022-06-28T15:42:10.090414-07:00",
+      "url": "https://www.martindale.com/organization/law-offices-of-dedra-s-davis-1882948/houston-texas-2743419-f/",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17541/?format=json",
+      "id": 17541,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15585/?format=json",
+      "date_created": "2022-06-28T15:42:10.091882-07:00",
+      "date_modified": "2022-06-28T15:42:10.091916-07:00",
+      "url": "",
+      "date_accessed": "2022-06-28",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11946/?format=json",
+      "id": 11946,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3164/?format=json",
+        "id": 3164,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Tech University",
+        "ein": 756002622
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15585/?format=json",
+      "date_created": "2022-06-28T15:52:03.737387-07:00",
+      "date_modified": "2022-06-28T15:52:03.737402-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Political Science",
+      "degree_year": 1983
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11947/?format=json",
+      "id": 11947,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3322/?format=json",
+        "id": 3322,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "South Texas College",
+        "ein": 742683499
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15585/?format=json",
+      "date_created": "2022-06-28T15:52:03.744876-07:00",
+      "date_modified": "2022-06-28T15:52:03.744891-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1995
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49970/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49971/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8123/?format=json",
+      "id": 8123,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15585/?format=json",
+      "date_created": "2022-06-28T15:52:03.746122-07:00",
+      "date_modified": "2022-06-28T15:52:03.746134-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-06-28T15:42:10.036721-07:00",
+  "date_modified": "2022-06-28T15:56:35.458669-07:00",
+  "date_completed": "2022-06-28T15:34:02-07:00",
+  "fjc_id": null,
+  "slug": "dedra-s-davis",
+  "name_first": "Dedra",
+  "name_middle": "S.",
+  "name_last": "Davis",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

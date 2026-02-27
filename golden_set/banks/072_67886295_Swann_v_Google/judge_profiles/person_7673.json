@@ -1,0 +1,68 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7673/?format=json",
+  "id": 7673,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3513/?format=json",
+      "id": 3513,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7673/?format=json",
+      "date_created": "2016-04-20T08:28:31.478111-07:00",
+      "date_modified": "2016-04-20T08:28:31.478130-07:00",
+      "url": "http://judgepedia.org/Linda_C.J._Lee https://courts.ms.gov/appellate_courts/coa/bios/judgelee.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6231/?format=json",
+      "id": 6231,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2363/?format=json",
+        "id": 2363,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Southern Mississippi",
+        "ein": 646000818
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7673/?format=json",
+      "date_created": "2016-04-20T08:28:31.454365-07:00",
+      "date_modified": "2016-04-20T08:28:31.454386-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/32378/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:31.431825-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "l-joseph-lee",
+  "name_first": "L",
+  "name_middle": "Joseph",
+  "name_last": "Lee",
+  "name_suffix": "",
+  "date_dob": "1945-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

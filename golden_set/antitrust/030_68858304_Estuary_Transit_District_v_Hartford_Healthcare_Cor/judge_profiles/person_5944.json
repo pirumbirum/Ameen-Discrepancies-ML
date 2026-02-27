@@ -1,0 +1,100 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5944/?format=json",
+  "id": 5944,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2187/?format=json",
+      "id": 2187,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5944/?format=json",
+      "date_created": "2016-04-20T08:26:59.971460-07:00",
+      "date_modified": "2016-04-20T08:26:59.971482-07:00",
+      "url": "Justices of the Supreme Court of Virginia During the Time of These Reports",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2188/?format=json",
+      "id": 2188,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5944/?format=json",
+      "date_created": "2016-04-20T08:26:59.976293-07:00",
+      "date_modified": "2016-04-20T08:26:59.976314-07:00",
+      "url": "267 Va. iii (2004).",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4981/?format=json",
+      "id": 4981,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1024/?format=json",
+        "id": 1024,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Virginia-Main Campus",
+        "ein": 546001796
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5944/?format=json",
+      "date_created": "2016-04-20T08:26:59.923791-07:00",
+      "date_modified": "2016-04-20T08:26:59.923814-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4982/?format=json",
+      "id": 4982,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1024/?format=json",
+        "id": 1024,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Virginia-Main Campus",
+        "ein": 546001796
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5944/?format=json",
+      "date_created": "2016-04-20T08:26:59.942402-07:00",
+      "date_modified": "2016-04-20T08:26:59.942426-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/28926/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28927/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28928/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28929/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:59.894670-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "charles-s-russell",
+  "name_first": "Charles",
+  "name_middle": "S.",
+  "name_last": "Russell",
+  "name_suffix": "",
+  "date_dob": "1926-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

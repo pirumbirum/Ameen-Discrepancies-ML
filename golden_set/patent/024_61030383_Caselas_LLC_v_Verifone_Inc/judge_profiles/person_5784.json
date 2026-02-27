@@ -1,0 +1,74 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5784/?format=json",
+  "id": 5784,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1973/?format=json",
+      "id": 1973,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5784/?format=json",
+      "date_created": "2016-04-20T08:26:46.363680-07:00",
+      "date_modified": "2016-04-20T08:26:46.363702-07:00",
+      "url": "http://www.cemetery.state.tx.us/pub/user_form.asp?pers_id=3016",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1974/?format=json",
+      "id": 1974,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5784/?format=json",
+      "date_created": "2016-04-20T08:26:46.369357-07:00",
+      "date_modified": "2016-04-20T08:26:46.369380-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/100000365482",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/28407/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28408/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28409/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4487/?format=json",
+      "id": 4487,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5784/?format=json",
+      "date_created": "2016-04-20T08:26:46.357702-07:00",
+      "date_modified": "2016-04-20T08:26:46.357727-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:46.286153-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "robert-w-calvert",
+  "name_first": "Robert",
+  "name_middle": "W.",
+  "name_last": "Calvert",
+  "name_suffix": "",
+  "date_dob": "1905-02-22",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1994-10-06",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

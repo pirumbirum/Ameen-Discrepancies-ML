@@ -1,0 +1,68 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1530/?format=json",
+  "id": 1530,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/940/?format=json",
+      "id": 940,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1530/?format=json",
+      "date_created": "2016-04-20T08:19:18.948779-07:00",
+      "date_modified": "2016-04-20T08:19:18.948801-07:00",
+      "year_rated": 2001,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9337/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9338/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9339/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9340/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9341/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9342/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1538/?format=json",
+      "id": 1538,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1530/?format=json",
+      "date_created": "2016-04-20T08:19:18.941881-07:00",
+      "date_modified": "2016-04-20T08:19:18.941906-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2001-09-04",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:18.908717-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2932,
+  "slug": "jeffrey-r-howard",
+  "name_first": "Jeffrey",
+  "name_middle": "R.",
+  "name_last": "Howard",
+  "name_suffix": "",
+  "date_dob": "1955-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Claremont",
+  "dob_state": "NH",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

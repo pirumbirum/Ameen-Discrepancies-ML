@@ -1,0 +1,192 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8372/?format=json",
+  "id": 8372,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19489/?format=json",
+      "id": 19489,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8372/?format=json",
+      "date_created": "2022-07-27T09:39:56.517377-07:00",
+      "date_modified": "2022-07-27T09:39:56.517390-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-27",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19490/?format=json",
+      "id": 19490,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8372/?format=json",
+      "date_created": "2022-07-27T10:11:31.172436-07:00",
+      "date_modified": "2022-07-27T10:11:31.172451-07:00",
+      "url": "https://ballotpedia.org/Brian_Quinn_(Texas)",
+      "date_accessed": "2022-07-27",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19491/?format=json",
+      "id": 19491,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8372/?format=json",
+      "date_created": "2022-07-27T10:11:31.176542-07:00",
+      "date_modified": "2022-07-27T10:11:31.176557-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=25573&office=20470",
+      "date_accessed": "2022-07-27",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19492/?format=json",
+      "id": 19492,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8372/?format=json",
+      "date_created": "2022-07-27T10:11:31.177690-07:00",
+      "date_modified": "2022-07-27T10:11:31.177704-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=25573&office=20470",
+      "date_accessed": "2022-07-27",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19493/?format=json",
+      "id": 19493,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8372/?format=json",
+      "date_created": "2022-07-27T10:11:31.180860-07:00",
+      "date_modified": "2022-07-27T10:11:31.180874-07:00",
+      "url": "https://www.txcourts.gov/7thcoa/about-the-court/justices/chief-justice-brian-quinn/",
+      "date_accessed": "2022-07-27",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19494/?format=json",
+      "id": 19494,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8372/?format=json",
+      "date_created": "2022-07-27T10:11:31.181989-07:00",
+      "date_modified": "2022-07-27T10:11:31.182001-07:00",
+      "url": "https://texasjudges.org/judicial-comparisons-old/20207coacj/",
+      "date_accessed": "2022-07-27",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19495/?format=json",
+      "id": 19495,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8372/?format=json",
+      "date_created": "2022-07-27T10:11:31.183048-07:00",
+      "date_modified": "2022-07-27T10:11:31.183060-07:00",
+      "url": "",
+      "date_accessed": "2022-07-27",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12504/?format=json",
+      "id": 12504,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1820/?format=json",
+        "id": 1820,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at El Paso",
+        "ein": 746000813
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8372/?format=json",
+      "date_created": "2022-07-27T09:39:56.510647-07:00",
+      "date_modified": "2022-07-27T09:39:56.510667-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1978
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12505/?format=json",
+      "id": 12505,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3164/?format=json",
+        "id": 3164,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Tech University",
+        "ein": 756002622
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8372/?format=json",
+      "date_created": "2022-07-27T09:39:56.514063-07:00",
+      "date_modified": "2022-07-27T10:11:31.159820-07:00",
+      "degree_level": "jd",
+      "degree_detail": "magna cum laude",
+      "degree_year": 1981
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12506/?format=json",
+      "id": 12506,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6533/?format=json",
+        "id": 6533,
+        "is_alias_of": null,
+        "date_created": "2022-07-27T10:09:04.760297-07:00",
+        "date_modified": "2022-07-27T10:09:04.760321-07:00",
+        "name": "El Paso Community College",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8372/?format=json",
+      "date_created": "2022-07-27T10:11:31.169295-07:00",
+      "date_modified": "2022-07-27T10:11:31.169309-07:00",
+      "degree_level": "aa",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33357/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51520/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51521/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51523/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51524/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51525/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51526/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51527/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51528/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51529/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51522/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8374/?format=json",
+      "id": 8374,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8372/?format=json",
+      "date_created": "2022-07-27T09:39:56.516086-07:00",
+      "date_modified": "2022-07-27T09:39:56.516104-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:29:05.895722-07:00",
+  "date_modified": "2022-07-27T10:23:54.745013-07:00",
+  "date_completed": "2022-07-27T09:38:25-07:00",
+  "fjc_id": null,
+  "slug": "brian-p-quinn",
+  "name_first": "Brian",
+  "name_middle": "P.",
+  "name_last": "Quinn",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

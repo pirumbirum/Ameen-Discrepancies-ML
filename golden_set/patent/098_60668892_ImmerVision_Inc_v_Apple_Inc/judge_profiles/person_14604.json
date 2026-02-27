@@ -1,0 +1,123 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14604/?format=json",
+  "id": 14604,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13637/?format=json",
+      "id": 13637,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14604/?format=json",
+      "date_created": "2022-03-29T18:01:28.774770-07:00",
+      "date_modified": "2022-03-29T18:01:28.774793-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=O/sfRYobG6ze7ck/uLCEjg%3D%3D",
+      "date_accessed": "2022-03-29",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13638/?format=json",
+      "id": 13638,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14604/?format=json",
+      "date_created": "2022-03-29T18:01:28.777049-07:00",
+      "date_modified": "2022-03-29T18:01:28.777084-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-29",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13639/?format=json",
+      "id": 13639,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14604/?format=json",
+      "date_created": "2022-03-29T18:01:28.778473-07:00",
+      "date_modified": "2022-03-29T18:01:28.778503-07:00",
+      "url": "https://ballotpedia.org/James_M._Burke",
+      "date_accessed": "2022-03-29",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13640/?format=json",
+      "id": 13640,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14604/?format=json",
+      "date_created": "2022-03-29T18:01:28.779857-07:00",
+      "date_modified": "2022-03-29T18:01:28.779889-07:00",
+      "url": "https://trellis.law/judge/james.m.burke",
+      "date_accessed": "2022-03-29",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10335/?format=json",
+      "id": 10335,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6053/?format=json",
+        "id": 6053,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Georgetown University",
+        "ein": 530196603
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14604/?format=json",
+      "date_created": "2022-03-29T18:01:28.768993-07:00",
+      "date_modified": "2022-03-29T18:01:28.769025-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1989
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10336/?format=json",
+      "id": 10336,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6053/?format=json",
+        "id": 6053,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Georgetown University",
+        "ein": 530196603
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14604/?format=json",
+      "date_created": "2022-03-29T18:01:28.773574-07:00",
+      "date_modified": "2022-03-29T18:01:28.773599-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1984
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/45119/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45120/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45121/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45122/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45123/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-03-29T18:01:28.750153-07:00",
+  "date_modified": "2022-04-26T13:43:38.556871-07:00",
+  "date_completed": "2022-04-26T13:30:10-07:00",
+  "fjc_id": null,
+  "slug": "james-m-burke",
+  "name_first": "James",
+  "name_middle": "M.",
+  "name_last": "Burke",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

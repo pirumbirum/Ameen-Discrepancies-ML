@@ -1,0 +1,60 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/85/?format=json",
+  "id": 85,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/321/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/322/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/323/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/324/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/325/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/326/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/327/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/320/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/86/?format=json",
+      "id": 86,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/85/?format=json",
+      "date_created": "2016-04-20T08:15:58.829658-07:00",
+      "date_modified": "2016-04-20T08:15:58.829686-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1963-01-15",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:15:58.798338-07:00",
+  "date_modified": "2020-11-25T08:30:21.691687-08:00",
+  "date_completed": null,
+  "fjc_id": 2705,
+  "slug": "james-lindsay-almond-jr",
+  "name_first": "James",
+  "name_middle": "Lindsay",
+  "name_last": "Almond",
+  "name_suffix": "jr",
+  "date_dob": "1898-06-15",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1986-04-14",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Charlottesville",
+  "dob_state": "VA",
+  "dob_country": "United States",
+  "dod_city": "Richmond",
+  "dod_state": "VA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

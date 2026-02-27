@@ -1,0 +1,113 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6010/?format=json",
+  "id": 6010,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2309/?format=json",
+      "id": 2309,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6010/?format=json",
+      "date_created": "2016-04-20T08:27:05.467614-07:00",
+      "date_modified": "2016-04-20T08:27:05.467652-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/100004003042",
+      "date_accessed": null,
+      "notes": "Served two terms; 1995-96 (filled vacancy), 2000-2012 (won election to 12-year term)"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2310/?format=json",
+      "id": 2310,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6010/?format=json",
+      "date_created": "2016-04-20T08:27:05.471949-07:00",
+      "date_modified": "2016-04-20T08:27:05.471987-07:00",
+      "url": "http://www.courtswv.gov/public-resources/press/releases/2009-releases/march21_09.htm",
+      "date_accessed": null,
+      "notes": "Served two terms; 1995-96 (filled vacancy), 2000-2012 (won election to 12-year term)"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5041/?format=json",
+      "id": 5041,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4098/?format=json",
+        "id": 4098,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Notre Dame",
+        "ein": 350868188
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6010/?format=json",
+      "date_created": "2016-04-20T08:27:05.423793-07:00",
+      "date_modified": "2016-04-20T08:27:05.423817-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5042/?format=json",
+      "id": 5042,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4098/?format=json",
+        "id": 4098,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Notre Dame",
+        "ein": 350868188
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6010/?format=json",
+      "date_created": "2016-04-20T08:27:05.440767-07:00",
+      "date_modified": "2016-04-20T08:27:05.440790-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/29129/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29130/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29131/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4629/?format=json",
+      "id": 4629,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6010/?format=json",
+      "date_created": "2016-04-20T08:27:05.462888-07:00",
+      "date_modified": "2016-04-20T08:27:05.462931-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:05.398362-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "joseph-p-albright",
+  "name_first": "Joseph",
+  "name_middle": "P.",
+  "name_last": "Albright",
+  "name_suffix": "",
+  "date_dob": "1938-11-08",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2009-03-20",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

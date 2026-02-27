@@ -1,0 +1,104 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5192/?format=json",
+  "id": 5192,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1352/?format=json",
+      "id": 1352,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5192/?format=json",
+      "date_created": "2016-04-20T08:26:00.937023-07:00",
+      "date_modified": "2016-04-20T08:26:00.937061-07:00",
+      "url": "http://www.nytimes.com/2000/09/09/nyregion/ap-burke-95-appeals-court-judge-dies.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4233/?format=json",
+      "id": 4233,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6301/?format=json",
+        "id": 6301,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "College of the Holy Cross",
+        "ein": 42103558
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5192/?format=json",
+      "date_created": "2016-04-20T08:26:00.878123-07:00",
+      "date_modified": "2016-04-20T08:26:00.878147-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4234/?format=json",
+      "id": 4234,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/719/?format=json",
+        "id": 719,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Fordham University",
+        "ein": 131740451
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5192/?format=json",
+      "date_created": "2016-04-20T08:26:00.899722-07:00",
+      "date_modified": "2016-04-20T08:26:00.899745-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26783/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26784/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26785/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26786/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4208/?format=json",
+      "id": 4208,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5192/?format=json",
+      "date_created": "2016-04-20T08:26:00.931750-07:00",
+      "date_modified": "2016-04-20T08:26:00.931793-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:00.854944-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "adrian-p-burke",
+  "name_first": "Adrian",
+  "name_middle": "P.",
+  "name_last": "Burke",
+  "name_suffix": "",
+  "date_dob": "1904-10-02",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2000-09-03",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

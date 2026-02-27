@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2438/?format=json",
+  "id": 2438,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1503/?format=json",
+      "id": 1503,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2438/?format=json",
+      "date_created": "2016-04-20T08:21:28.582801-07:00",
+      "date_modified": "2016-04-20T08:21:28.582823-07:00",
+      "year_rated": 2013,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/15225/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15226/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15227/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15228/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15229/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15230/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15224/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/42282/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2446/?format=json",
+      "id": 2446,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2438/?format=json",
+      "date_created": "2016-04-20T08:21:28.576810-07:00",
+      "date_modified": "2016-04-20T08:21:28.576834-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2013-01-04",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:28.546357-07:00",
+  "date_modified": "2020-11-25T08:30:16.147514-08:00",
+  "date_completed": null,
+  "fjc_id": 3466,
+  "slug": "troy-lynne-nunley",
+  "name_first": "Troy",
+  "name_middle": "Lynne",
+  "name_last": "Nunley",
+  "name_suffix": "",
+  "date_dob": "1964-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "San Francisco",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

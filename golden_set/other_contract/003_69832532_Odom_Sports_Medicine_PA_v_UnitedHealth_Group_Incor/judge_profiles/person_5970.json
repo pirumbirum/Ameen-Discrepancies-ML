@@ -1,0 +1,59 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5970/?format=json",
+  "id": 5970,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2231/?format=json",
+      "id": 2231,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5970/?format=json",
+      "date_created": "2016-04-20T08:27:02.198602-07:00",
+      "date_modified": "2016-04-20T08:27:02.198625-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/200010972889",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2232/?format=json",
+      "id": 2232,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5970/?format=json",
+      "date_created": "2016-04-20T08:27:02.204228-07:00",
+      "date_modified": "2016-04-20T08:27:02.204250-07:00",
+      "url": "http://www.courts.wa.gov/education/history/?fa=education_history.display&fileID=scj1940a",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/29007/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29008/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:02.139147-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "harry-ellsworth-foster",
+  "name_first": "Harry",
+  "name_middle": "Ellsworth",
+  "name_last": "Foster",
+  "name_suffix": "",
+  "date_dob": "1898-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": "1956-05-21",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

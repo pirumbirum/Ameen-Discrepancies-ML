@@ -1,0 +1,65 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3896/?format=json",
+  "id": 3896,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/66/?format=json",
+      "id": 66,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3896/?format=json",
+      "date_created": "2016-04-20T08:24:28.616682-07:00",
+      "date_modified": "2016-04-20T08:24:28.616701-07:00",
+      "url": "http://www.jstor.org/stable/25716708?seq=1#page_scan_tab_contents",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23336/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23337/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23338/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23339/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3748/?format=json",
+      "id": 3748,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3896/?format=json",
+      "date_created": "2016-04-20T08:24:28.612589-07:00",
+      "date_modified": "2016-04-20T08:24:28.612614-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:28.573275-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "haslett-p-burke",
+  "name_first": "Haslett",
+  "name_middle": "P.",
+  "name_last": "Burke",
+  "name_suffix": "",
+  "date_dob": "1874-04-28",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

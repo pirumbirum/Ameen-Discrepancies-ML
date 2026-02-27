@@ -1,0 +1,163 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12928/?format=json",
+  "id": 12928,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9667/?format=json",
+      "id": 9667,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12928/?format=json",
+      "date_created": "2022-03-03T10:33:06.304185-08:00",
+      "date_modified": "2022-03-03T10:33:06.304211-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-03",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9668/?format=json",
+      "id": 9668,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12928/?format=json",
+      "date_created": "2022-03-03T10:33:06.309703-08:00",
+      "date_modified": "2022-03-03T10:33:06.309728-08:00",
+      "url": "https://trellis.law/judge-dashboard/611/bio",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9669/?format=json",
+      "id": 9669,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12928/?format=json",
+      "date_created": "2022-03-03T10:33:06.313533-08:00",
+      "date_modified": "2022-03-03T10:33:06.313558-08:00",
+      "url": "https://ballotpedia.org/Ann_I._Jones",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9670/?format=json",
+      "id": 9670,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12928/?format=json",
+      "date_created": "2022-03-03T10:33:06.317553-08:00",
+      "date_modified": "2022-03-03T10:33:06.317577-08:00",
+      "url": "https://www.martindale.com/attorney/ann-i-jones-127057/",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9671/?format=json",
+      "id": 9671,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12928/?format=json",
+      "date_created": "2022-03-03T10:33:06.327322-08:00",
+      "date_modified": "2022-03-03T10:33:06.327347-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-03",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8471/?format=json",
+      "id": 8471,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4697/?format=json",
+        "id": 4697,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Brown University",
+        "ein": 50258809
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12928/?format=json",
+      "date_created": "2022-03-03T10:33:06.269757-08:00",
+      "date_modified": "2022-03-03T10:33:06.269798-08:00",
+      "degree_level": "ba",
+      "degree_detail": "American History, magna cum laude",
+      "degree_year": 1977
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8472/?format=json",
+      "id": 8472,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12928/?format=json",
+      "date_created": "2022-03-03T10:33:06.277506-08:00",
+      "date_modified": "2022-03-03T10:33:06.277533-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1984
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8473/?format=json",
+      "id": 8473,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12928/?format=json",
+      "date_created": "2022-03-03T10:33:06.284518-08:00",
+      "date_modified": "2022-03-03T10:33:06.284544-08:00",
+      "degree_level": "ma",
+      "degree_detail": "Public Policy",
+      "degree_year": 1984
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42200/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44428/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6043/?format=json",
+      "id": 6043,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12928/?format=json",
+      "date_created": "2022-03-03T10:33:06.261924-08:00",
+      "date_modified": "2022-03-03T10:33:06.261951-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:13.818151-07:00",
+  "date_modified": "2022-03-20T15:42:18.903813-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "ann-i-jones",
+  "name_first": "Ann",
+  "name_middle": "I.",
+  "name_last": "Jones",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

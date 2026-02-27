@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13201/?format=json",
+  "id": 13201,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13081/?format=json",
+      "id": 13081,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13201/?format=json",
+      "date_created": "2022-03-16T14:22:13.469624-07:00",
+      "date_modified": "2022-03-16T14:22:13.469647-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13082/?format=json",
+      "id": 13082,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13201/?format=json",
+      "date_created": "2022-03-16T14:22:13.477890-07:00",
+      "date_modified": "2022-03-16T14:22:13.477915-07:00",
+      "url": "https://www.bloomberg.com/profile/person/19667219",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13083/?format=json",
+      "id": 13083,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13201/?format=json",
+      "date_created": "2022-03-16T14:22:13.485531-07:00",
+      "date_modified": "2022-03-16T14:22:13.485555-07:00",
+      "url": "https://ballotpedia.org/Helen_E._Williams",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13084/?format=json",
+      "id": 13084,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13201/?format=json",
+      "date_created": "2022-03-16T14:22:13.493488-07:00",
+      "date_modified": "2022-03-16T14:22:13.493521-07:00",
+      "url": "https://magazine.scu.edu/classnote/helen-williams/",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13085/?format=json",
+      "id": 13085,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13201/?format=json",
+      "date_created": "2022-03-16T14:22:13.506398-07:00",
+      "date_modified": "2022-03-16T14:22:13.506423-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10090/?format=json",
+      "id": 10090,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5315/?format=json",
+        "id": 5315,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Santa Cruz",
+        "ein": 941539563
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13201/?format=json",
+      "date_created": "2022-03-16T14:22:13.455228-07:00",
+      "date_modified": "2022-03-16T14:22:13.455253-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1984
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10091/?format=json",
+      "id": 10091,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5312/?format=json",
+        "id": 5312,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Santa Clara University",
+        "ein": 941156697
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13201/?format=json",
+      "date_created": "2022-03-16T14:22:13.463817-07:00",
+      "date_modified": "2022-03-16T14:22:13.463842-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1986
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42626/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7154/?format=json",
+      "id": 7154,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13201/?format=json",
+      "date_created": "2022-03-16T14:22:13.439830-07:00",
+      "date_modified": "2022-03-16T14:22:13.439856-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7155/?format=json",
+      "id": 7155,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13201/?format=json",
+      "date_created": "2022-03-16T14:22:13.447844-07:00",
+      "date_modified": "2022-03-16T14:22:13.447868-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:27.496269-07:00",
+  "date_modified": "2022-03-23T16:23:36.720884-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "helen-elizabeth-williams",
+  "name_first": "Helen",
+  "name_middle": "Elizabeth",
+  "name_last": "Williams",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

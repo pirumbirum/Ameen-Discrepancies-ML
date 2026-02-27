@@ -1,0 +1,105 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2211/?format=json",
+  "id": 2211,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1355/?format=json",
+      "id": 1355,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2211/?format=json",
+      "date_created": "2016-04-20T08:20:56.872972-07:00",
+      "date_modified": "2016-04-20T08:20:56.873000-07:00",
+      "year_rated": 2008,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1826/?format=json",
+      "id": 1826,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6197/?format=json",
+        "id": 6197,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Wichita State University",
+        "ein": 486029925
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2211/?format=json",
+      "date_created": "2016-04-20T08:20:56.887938-07:00",
+      "date_modified": "2016-04-20T08:20:56.887962-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1979
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1827/?format=json",
+      "id": 1827,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5831/?format=json",
+        "id": 5831,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Washburn University",
+        "ein": 486030115
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2211/?format=json",
+      "date_created": "2016-04-20T08:20:56.916169-07:00",
+      "date_modified": "2016-04-20T08:20:56.916194-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1985
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/13786/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13787/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13788/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13789/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2218/?format=json",
+      "id": 2218,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2211/?format=json",
+      "date_created": "2016-04-20T08:20:56.865487-07:00",
+      "date_modified": "2016-04-20T08:20:56.865545-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2008-07-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:56.830690-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3195,
+  "slug": "eric-f-melgren",
+  "name_first": "Eric",
+  "name_middle": "F.",
+  "name_last": "Melgren",
+  "name_suffix": "",
+  "date_dob": "1956-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Minneola",
+  "dob_state": "KS",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

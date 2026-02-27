@@ -1,0 +1,164 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14764/?format=json",
+  "id": 14764,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14312/?format=json",
+      "id": 14312,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14764/?format=json",
+      "date_created": "2022-04-05T13:08:49.508881-07:00",
+      "date_modified": "2022-04-05T13:08:49.508906-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-05",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14313/?format=json",
+      "id": 14313,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14764/?format=json",
+      "date_created": "2022-04-05T13:08:49.510948-07:00",
+      "date_modified": "2022-04-05T13:08:49.510974-07:00",
+      "url": "https://ballotpedia.org/Lizbeth_Gonzalez",
+      "date_accessed": "2022-04-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14314/?format=json",
+      "id": 14314,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14764/?format=json",
+      "date_created": "2022-04-05T13:08:49.512200-07:00",
+      "date_modified": "2022-04-05T13:08:49.512225-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=L5qLWLP5AC536kCnpt1xig%3D%3D",
+      "date_accessed": "2022-04-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14315/?format=json",
+      "id": 14315,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14764/?format=json",
+      "date_created": "2022-04-05T13:08:49.513528-07:00",
+      "date_modified": "2022-04-05T13:08:49.513553-07:00",
+      "url": "https://nycourts.gov/courts/ad1/justicesofthecourt/Justice_Gonzalez.shtml",
+      "date_accessed": "2022-04-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14316/?format=json",
+      "id": 14316,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14764/?format=json",
+      "date_created": "2022-04-05T13:08:49.514722-07:00",
+      "date_modified": "2022-04-05T13:08:49.514748-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/Lizbeth_Gonzalez/Lizbeth_Gonzalez-490.xml",
+      "date_accessed": "2022-04-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14317/?format=json",
+      "id": 14317,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14764/?format=json",
+      "date_created": "2022-04-05T13:08:49.515999-07:00",
+      "date_modified": "2022-04-05T13:08:49.516025-07:00",
+      "url": "https://news.stonybrook.edu/alumni/hon-lizbeth-gonzalez-74-associate-justice-nys-supreme-court-appellate-division/",
+      "date_accessed": "2022-04-05",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10647/?format=json",
+      "id": 10647,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3941/?format=json",
+        "id": 3941,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "New York University",
+        "ein": 135562308
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14764/?format=json",
+      "date_created": "2022-04-05T13:08:49.494342-07:00",
+      "date_modified": "2022-04-05T13:08:49.494369-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1979
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10648/?format=json",
+      "id": 10648,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5661/?format=json",
+        "id": 5661,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stony Brook University",
+        "ein": 146013200
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14764/?format=json",
+      "date_created": "2022-04-05T13:08:49.500321-07:00",
+      "date_modified": "2022-04-05T13:08:49.500347-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Anthropology",
+      "degree_year": 1974
+    }
+  ],
+  "positions": [],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7402/?format=json",
+      "id": 7402,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14764/?format=json",
+      "date_created": "2022-04-05T13:08:49.503691-07:00",
+      "date_modified": "2022-04-05T13:08:49.503718-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7403/?format=json",
+      "id": 7403,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14764/?format=json",
+      "date_created": "2022-04-05T13:08:49.507497-07:00",
+      "date_modified": "2022-04-05T13:08:49.507522-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2019-11-01",
+      "date_granularity_start": "%Y-%m",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-05T13:08:49.475278-07:00",
+  "date_modified": "2022-04-05T13:08:49.475324-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "lizbeth-gonzalez",
+  "name_first": "Lizbeth",
+  "name_middle": "",
+  "name_last": "Gonzalez",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

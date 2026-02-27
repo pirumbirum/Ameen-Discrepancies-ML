@@ -1,0 +1,142 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15805/?format=json",
+  "id": 15805,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18616/?format=json",
+      "id": 18616,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15805/?format=json",
+      "date_created": "2022-07-14T11:01:58.938853-07:00",
+      "date_modified": "2022-07-14T11:01:58.938867-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-14",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18617/?format=json",
+      "id": 18617,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15805/?format=json",
+      "date_created": "2022-07-14T11:01:58.955164-07:00",
+      "date_modified": "2022-07-14T11:01:58.955182-07:00",
+      "url": "https://dallascounty.civicweb.net/document/657524/Judge%20Gracie%20G.%20Lewis%20Retires%20from%20Dallas%20Count.pdf?handle=25A869605DC24CD69055F0DCEF4DC2EA#:~:text=Lewis%20first%20ascended%20the%20bench,of%20Legal%20Specialization%20in%20Juvenile",
+      "date_accessed": "2022-07-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18618/?format=json",
+      "id": 18618,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15805/?format=json",
+      "date_created": "2022-07-14T11:01:58.956354-07:00",
+      "date_modified": "2022-07-14T11:01:58.956374-07:00",
+      "url": "https://ballotpedia.org/Gracie_Lewis",
+      "date_accessed": "2022-07-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18619/?format=json",
+      "id": 18619,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15805/?format=json",
+      "date_created": "2022-07-14T11:01:58.957478-07:00",
+      "date_modified": "2022-07-14T11:01:58.957491-07:00",
+      "url": "https://www.linkedin.com/in/gracie-lewis-31b7678/",
+      "date_accessed": "2022-07-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18620/?format=json",
+      "id": 18620,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15805/?format=json",
+      "date_created": "2022-07-14T11:01:58.958625-07:00",
+      "date_modified": "2022-07-14T11:01:58.958638-07:00",
+      "url": "https://cemetery.tspb.texas.gov/pub/user_form.asp?pers_id=12033",
+      "date_accessed": "2022-07-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18621/?format=json",
+      "id": 18621,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15805/?format=json",
+      "date_created": "2022-07-14T11:01:58.959789-07:00",
+      "date_modified": "2022-07-14T11:01:58.959800-07:00",
+      "url": "",
+      "date_accessed": "2022-07-14",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12251/?format=json",
+      "id": 12251,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2480/?format=json",
+        "id": 2480,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Houston",
+        "ein": 746001399
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15805/?format=json",
+      "date_created": "2022-07-14T11:01:58.927082-07:00",
+      "date_modified": "2022-07-14T11:01:58.927095-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1985
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12252/?format=json",
+      "id": 12252,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15805/?format=json",
+      "date_created": "2022-07-14T11:01:58.936654-07:00",
+      "date_modified": "2022-07-14T11:01:58.936670-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Psychology",
+      "degree_year": 1983
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50843/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50844/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50845/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50846/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-07-14T11:01:58.711395-07:00",
+  "date_modified": "2022-07-14T11:01:58.711416-07:00",
+  "date_completed": "2022-07-14T10:47:36-07:00",
+  "fjc_id": null,
+  "slug": "gracie-g-lewis",
+  "name_first": "Gracie",
+  "name_middle": "G.",
+  "name_last": "Lewis",
+  "name_suffix": "",
+  "date_dob": "1960-12-27",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

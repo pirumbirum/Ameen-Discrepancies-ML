@@ -1,0 +1,69 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8176/?format=json",
+  "id": 8176,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3943/?format=json",
+      "id": 3943,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8176/?format=json",
+      "date_created": "2016-04-20T08:28:53.066225-07:00",
+      "date_modified": "2016-04-20T08:28:53.066246-07:00",
+      "url": "https://courts.arkansas.gov/courts/supreme-court/historical-society/background-pg-3",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3944/?format=json",
+      "id": 3944,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8176/?format=json",
+      "date_created": "2016-04-20T08:28:53.070177-07:00",
+      "date_modified": "2016-04-20T08:28:53.070198-07:00",
+      "url": "http://en.wikipedia.org/wiki/George_Howard",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3945/?format=json",
+      "id": 3945,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8176/?format=json",
+      "date_created": "2016-04-20T08:28:53.076381-07:00",
+      "date_modified": "2016-04-20T08:28:53.076402-07:00",
+      "url": "_Jr.",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33160/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33161/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:53.045478-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "donald-l-howard",
+  "name_first": "Donald",
+  "name_middle": "L.",
+  "name_last": "Howard",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,108 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2383/?format=json",
+  "id": 2383,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1465/?format=json",
+      "id": 1465,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2383/?format=json",
+      "date_created": "2016-04-20T08:21:20.507568-07:00",
+      "date_modified": "2016-04-20T08:21:20.507589-07:00",
+      "year_rated": 1985,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1974/?format=json",
+      "id": 1974,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1273/?format=json",
+        "id": 1273,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Hamilton College",
+        "ein": 150532200
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2383/?format=json",
+      "date_created": "2016-04-20T08:21:20.521878-07:00",
+      "date_modified": "2016-04-20T08:21:20.521902-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1954
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1975/?format=json",
+      "id": 1975,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2383/?format=json",
+      "date_created": "2016-04-20T08:21:20.550583-07:00",
+      "date_modified": "2016-04-20T08:21:20.550608-07:00",
+      "degree_level": "llb",
+      "degree_detail": "LL.B.",
+      "degree_year": 1958
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14863/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14864/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14865/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14866/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14867/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14868/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14869/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2389/?format=json",
+      "id": 2389,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2383/?format=json",
+      "date_created": "2016-04-20T08:21:20.500739-07:00",
+      "date_modified": "2016-04-20T08:21:20.500763-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1985-09-09",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:20.467830-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1740,
+  "slug": "david-aldrich-nelson",
+  "name_first": "David",
+  "name_middle": "Aldrich",
+  "name_last": "Nelson",
+  "name_suffix": "",
+  "date_dob": "1932-08-14",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2010-10-01",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Watertown",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "Indian Hill",
+  "dod_state": "OH",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

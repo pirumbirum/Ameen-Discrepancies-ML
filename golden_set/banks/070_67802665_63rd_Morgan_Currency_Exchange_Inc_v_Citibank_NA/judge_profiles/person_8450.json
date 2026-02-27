@@ -1,0 +1,58 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8450/?format=json",
+  "id": 8450,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4151/?format=json",
+      "id": 4151,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8450/?format=json",
+      "date_created": "2016-04-20T08:29:10.424808-07:00",
+      "date_modified": "2016-04-20T08:29:10.424839-07:00",
+      "url": "http://www.uakron.edu/dotAsset/db825e48-bc67-4b6f-9cda-d3fdf112699f.pdf",
+      "date_accessed": null,
+      "notes": "Juvenile Court Judge; Common Pleas Court Judge;"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4152/?format=json",
+      "id": 4152,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8450/?format=json",
+      "date_created": "2016-04-20T08:29:10.430919-07:00",
+      "date_modified": "2016-04-20T08:29:10.430942-07:00",
+      "url": "",
+      "date_accessed": null,
+      "notes": "Juvenile Court Judge; Common Pleas Court Judge;"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33439/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:29:10.380046-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "robin-j-hunt",
+  "name_first": "Robin",
+  "name_middle": "J.",
+  "name_last": "Hunt",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

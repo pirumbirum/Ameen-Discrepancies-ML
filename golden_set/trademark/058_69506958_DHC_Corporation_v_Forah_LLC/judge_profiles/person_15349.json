@@ -1,0 +1,165 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15349/?format=json",
+  "id": 15349,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16321/?format=json",
+      "id": 16321,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15349/?format=json",
+      "date_created": "2022-05-20T19:04:50.797183-07:00",
+      "date_modified": "2022-05-20T19:04:50.797228-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Wilson-JP.%20J3.%2003.%20PAM_SR_20.pdf",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16322/?format=json",
+      "id": 16322,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15349/?format=json",
+      "date_created": "2022-05-20T19:04:50.819458-07:00",
+      "date_modified": "2022-05-20T19:04:50.819493-07:00",
+      "url": "https://en.wikipedia.org/wiki/Jennifer_P._Wilson",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16323/?format=json",
+      "id": 16323,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15349/?format=json",
+      "date_created": "2022-05-20T19:04:50.841377-07:00",
+      "date_modified": "2022-05-20T19:04:50.841406-07:00",
+      "url": "https://www.pamd.uscourts.gov/content/judge-jennifer-p-wilson",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16324/?format=json",
+      "id": 16324,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15349/?format=json",
+      "date_created": "2022-05-20T19:04:50.863124-07:00",
+      "date_modified": "2022-05-20T19:04:50.863154-07:00",
+      "url": "https://www.pamd.uscourts.gov/judge-jennifer-p-wilson",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16325/?format=json",
+      "id": 16325,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15349/?format=json",
+      "date_created": "2022-05-20T19:04:50.884803-07:00",
+      "date_modified": "2022-05-20T19:04:50.884832-07:00",
+      "url": "https://fedsoc.org/contributors/jennifer-wilson-4",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16326/?format=json",
+      "id": 16326,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15349/?format=json",
+      "date_created": "2022-05-20T19:04:50.906448-07:00",
+      "date_modified": "2022-05-20T19:04:50.906477-07:00",
+      "url": "https://ballotpedia.org/Jennifer_Philpott_Wilson",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16327/?format=json",
+      "id": 16327,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15349/?format=json",
+      "date_created": "2022-05-20T19:04:50.928178-07:00",
+      "date_modified": "2022-05-20T19:04:50.928216-07:00",
+      "url": "https://www.judiciary.senate.gov/imo/media/doc/Jennifer%20Philpott%20Wilson%20SJQ%20-%20PUBLIC.pdf",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16328/?format=json",
+      "id": 16328,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15349/?format=json",
+      "date_created": "2022-05-20T19:04:50.950014-07:00",
+      "date_modified": "2022-05-20T19:04:50.950042-07:00",
+      "url": "https://lawnotes.brooklaw.edu/issue/fall-2020/u-s-district-judge-jennifer-philpott-wilson-01/",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11540/?format=json",
+      "id": 11540,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5683/?format=json",
+        "id": 5683,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Swarthmore College",
+        "ein": 231352683
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15349/?format=json",
+      "date_created": "2022-05-20T19:17:25.986944-07:00",
+      "date_modified": "2022-05-20T19:17:25.986978-07:00",
+      "degree_level": "ba",
+      "degree_detail": "cum laude",
+      "degree_year": 1997
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11541/?format=json",
+      "id": 11541,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/738/?format=json",
+        "id": 738,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Brooklyn Law School",
+        "ein": 237227990
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15349/?format=json",
+      "date_created": "2022-05-20T19:17:26.057572-07:00",
+      "date_modified": "2022-05-20T19:17:26.057602-07:00",
+      "degree_level": "jd",
+      "degree_detail": "summa cum laude",
+      "degree_year": 2001
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47786/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47787/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47788/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47789/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47790/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47791/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47792/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-05-20T19:04:50.650851-07:00",
+  "date_modified": "2022-05-20T19:23:03.703296-07:00",
+  "date_completed": "2022-05-20T19:07:32-07:00",
+  "fjc_id": null,
+  "slug": "jennifer-philpott-wilson",
+  "name_first": "Jennifer",
+  "name_middle": "Philpott",
+  "name_last": "Wilson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

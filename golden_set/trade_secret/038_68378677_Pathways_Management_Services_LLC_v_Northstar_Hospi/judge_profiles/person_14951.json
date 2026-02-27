@@ -1,0 +1,153 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14951/?format=json",
+  "id": 14951,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15113/?format=json",
+      "id": 15113,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14951/?format=json",
+      "date_created": "2022-04-12T14:32:29.837308-07:00",
+      "date_modified": "2022-04-12T14:32:29.837329-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-12",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15114/?format=json",
+      "id": 15114,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14951/?format=json",
+      "date_created": "2022-04-12T14:32:29.839045-07:00",
+      "date_modified": "2022-04-12T14:32:29.839066-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=VxuFsEEDvOUB33HqRPc0Og%3D%3D",
+      "date_accessed": "2022-04-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15115/?format=json",
+      "id": 15115,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14951/?format=json",
+      "date_created": "2022-04-12T14:32:29.840017-07:00",
+      "date_modified": "2022-04-12T14:32:29.840038-07:00",
+      "url": "https://ballotpedia.org/Guy_Mitchell",
+      "date_accessed": "2022-04-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15116/?format=json",
+      "id": 15116,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14951/?format=json",
+      "date_created": "2022-04-12T14:32:29.841031-07:00",
+      "date_modified": "2022-04-12T14:32:29.841052-07:00",
+      "url": "https://amsterdamnews.com/news/2015/02/19/mitchell-appointed-nyc-criminal-court-judge/",
+      "date_accessed": "2022-04-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15117/?format=json",
+      "id": 15117,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14951/?format=json",
+      "date_created": "2022-04-12T14:32:29.842025-07:00",
+      "date_modified": "2022-04-12T14:32:29.842044-07:00",
+      "url": "https://amsterdamnews.com/news/2015/02/19/mitchell-appointed-nyc-criminal-court-judge/",
+      "date_accessed": "2022-04-12",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11039/?format=json",
+      "id": 11039,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/25/?format=json",
+        "id": 25,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Ohio Northern University",
+        "ein": 344429091
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14951/?format=json",
+      "date_created": "2022-04-12T14:32:29.827758-07:00",
+      "date_modified": "2022-04-12T14:32:29.827785-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1991
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11040/?format=json",
+      "id": 11040,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/714/?format=json",
+        "id": 714,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "SUNY College at Brockport",
+        "ein": 146013200
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14951/?format=json",
+      "date_created": "2022-04-12T14:32:29.832371-07:00",
+      "date_modified": "2022-04-12T14:32:29.832395-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1988
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47160/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47161/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47162/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47163/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47164/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47165/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47166/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47167/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47168/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47169/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47170/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7620/?format=json",
+      "id": 7620,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14951/?format=json",
+      "date_created": "2022-04-12T14:32:29.835416-07:00",
+      "date_modified": "2022-04-12T14:32:29.835438-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2015-02-01",
+      "date_granularity_start": "%Y-%m",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-12T14:32:29.811328-07:00",
+  "date_modified": "2022-05-13T17:55:25.533024-07:00",
+  "date_completed": "2022-05-13T17:39:26-07:00",
+  "fjc_id": null,
+  "slug": "guy-h-mitchell",
+  "name_first": "Guy",
+  "name_middle": "H.",
+  "name_last": "Mitchell",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Harlem, New York City",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

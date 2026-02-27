@@ -1,0 +1,67 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/628/?format=json",
+  "id": 628,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/369/?format=json",
+      "id": 369,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/628/?format=json",
+      "date_created": "2016-04-20T08:17:13.356067-07:00",
+      "date_modified": "2016-04-20T08:17:13.356088-07:00",
+      "year_rated": 1969,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/3757/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3758/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3759/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3760/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3761/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/632/?format=json",
+      "id": 632,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/628/?format=json",
+      "date_created": "2016-04-20T08:17:13.349061-07:00",
+      "date_modified": "2016-04-20T08:17:13.349085-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1969-10-07",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:13.318187-07:00",
+  "date_modified": "2020-11-25T08:30:21.583744-08:00",
+  "date_completed": null,
+  "fjc_id": 437,
+  "slug": "charles-clark",
+  "name_first": "Charles",
+  "name_middle": "",
+  "name_last": "Clark",
+  "name_suffix": "",
+  "date_dob": "1925-09-12",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2011-03-06",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Memphis",
+  "dob_state": "TN",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

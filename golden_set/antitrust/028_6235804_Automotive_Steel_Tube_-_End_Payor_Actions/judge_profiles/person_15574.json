@@ -1,0 +1,169 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15574/?format=json",
+  "id": 15574,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17483/?format=json",
+      "id": 17483,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15574/?format=json",
+      "date_created": "2022-06-28T10:49:27.449529-07:00",
+      "date_modified": "2022-06-28T10:49:27.449550-07:00",
+      "url": "https://ballotpedia.org/Campbell_Cox",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17484/?format=json",
+      "id": 17484,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15574/?format=json",
+      "date_created": "2022-06-28T10:49:27.460203-07:00",
+      "date_modified": "2022-06-28T10:49:27.460223-07:00",
+      "url": "https://www.easttexas-mediation.com/about-judge-cox-arbitrator-mediator-adr-nacogdoches-texas/",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17485/?format=json",
+      "id": 17485,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15574/?format=json",
+      "date_created": "2022-06-28T10:49:27.460755-07:00",
+      "date_modified": "2022-06-28T10:49:27.460766-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=164427",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17486/?format=json",
+      "id": 17486,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15574/?format=json",
+      "date_created": "2022-06-28T10:49:27.461200-07:00",
+      "date_modified": "2022-06-28T10:49:27.461211-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=164427",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17487/?format=json",
+      "id": 17487,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15574/?format=json",
+      "date_created": "2022-06-28T10:49:27.461624-07:00",
+      "date_modified": "2022-06-28T10:49:27.461635-07:00",
+      "url": "https://jwarbitrations.com/arbitrators/cox-campbell",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17488/?format=json",
+      "id": 17488,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15574/?format=json",
+      "date_created": "2022-06-28T10:49:27.462109-07:00",
+      "date_modified": "2022-06-28T10:49:27.462119-07:00",
+      "url": "",
+      "date_accessed": "2022-06-28",
+      "notes": "catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17489/?format=json",
+      "id": 17489,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15574/?format=json",
+      "date_created": "2022-06-28T10:49:27.462566-07:00",
+      "date_modified": "2022-06-28T10:49:27.462577-07:00",
+      "url": "https://www.linkedin.com/in/campbell-cox-8320401a5/",
+      "date_accessed": "2022-06-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17490/?format=json",
+      "id": 17490,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15574/?format=json",
+      "date_created": "2022-06-28T10:49:27.463124-07:00",
+      "date_modified": "2022-06-28T10:49:27.463135-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-06-28",
+      "notes": "American Bench, 2021 ed."
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11929/?format=json",
+      "id": 11929,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5152/?format=json",
+        "id": 5152,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "St Mary's University",
+        "ein": 741143128
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15574/?format=json",
+      "date_created": "2022-06-28T11:16:53.625781-07:00",
+      "date_modified": "2022-06-28T11:16:53.625794-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1987
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11930/?format=json",
+      "id": 11930,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15574/?format=json",
+      "date_created": "2022-06-28T11:16:53.635118-07:00",
+      "date_modified": "2022-06-28T11:16:53.635134-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Business Administration, Finance",
+      "degree_year": 1984
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49929/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49930/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49931/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49932/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49933/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49934/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49935/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49936/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49937/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49938/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49939/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-06-28T10:49:27.418204-07:00",
+  "date_modified": "2022-06-28T11:18:55.538064-07:00",
+  "date_completed": "2022-06-28T10:46:54-07:00",
+  "fjc_id": null,
+  "slug": "navarro-campbell-cox-ii",
+  "name_first": "Navarro",
+  "name_middle": "Campbell",
+  "name_last": "Cox",
+  "name_suffix": "2",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

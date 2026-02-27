@@ -1,0 +1,58 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8048/?format=json",
+  "id": 8048,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3768/?format=json",
+      "id": 3768,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8048/?format=json",
+      "date_created": "2016-04-20T08:28:47.466147-07:00",
+      "date_modified": "2016-04-20T08:28:47.466169-07:00",
+      "url": "http://www.ninth.courts.state.oh.us/Judges.htm",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3769/?format=json",
+      "id": 3769,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8048/?format=json",
+      "date_created": "2016-04-20T08:28:47.470068-07:00",
+      "date_modified": "2016-04-20T08:28:47.470089-07:00",
+      "url": "",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/32973/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:47.451453-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "sam-h-bell",
+  "name_first": "Sam",
+  "name_middle": "H.",
+  "name_last": "Bell",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

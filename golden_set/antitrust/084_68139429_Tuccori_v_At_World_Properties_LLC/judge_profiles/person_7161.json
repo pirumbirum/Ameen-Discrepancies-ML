@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7161/?format=json",
+  "id": 7161,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3154/?format=json",
+      "id": 3154,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7161/?format=json",
+      "date_created": "2016-04-20T08:28:04.973859-07:00",
+      "date_modified": "2016-04-20T08:28:04.973880-07:00",
+      "url": "http://www.superiorcourt.maricopa.gov/LawLibrary/docs/PDF/Judges/SuperiorCourtJudgesrev4.pdf",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/31363/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:04.958000-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "william-franklin-jenkins",
+  "name_first": "William",
+  "name_middle": "Franklin",
+  "name_last": "Jenkins",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,104 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/86/?format=json",
+  "id": 86,
+  "race": [
+    "h"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/27/?format=json",
+      "id": 27,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/86/?format=json",
+      "date_created": "2016-04-20T08:15:58.962931-07:00",
+      "date_modified": "2016-04-20T08:15:58.962956-07:00",
+      "year_rated": 2014,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/32/?format=json",
+      "id": 32,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1426/?format=json",
+        "id": 1426,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Miami",
+        "ein": 590624458
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/86/?format=json",
+      "date_created": "2016-04-20T08:15:58.977807-07:00",
+      "date_modified": "2016-04-20T08:15:58.977837-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1988
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/33/?format=json",
+      "id": 33,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6050/?format=json",
+        "id": 6050,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "George Washington University",
+        "ein": 530196584
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/86/?format=json",
+      "date_created": "2016-04-20T08:15:59.005289-07:00",
+      "date_modified": "2016-04-20T08:15:59.005312-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1991
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/328/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/329/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/330/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/87/?format=json",
+      "id": 87,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/86/?format=json",
+      "date_created": "2016-04-20T08:15:58.955923-07:00",
+      "date_modified": "2016-04-20T08:15:58.955948-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2014-08-05",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:15:58.924864-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3576,
+  "slug": "jorge-luis-alonso",
+  "name_first": "Jorge",
+  "name_middle": "Luis",
+  "name_last": "Alonso",
+  "name_suffix": "",
+  "date_dob": "1966-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Sagua La Grande",
+  "dob_state": "",
+  "dob_country": "Cuba",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

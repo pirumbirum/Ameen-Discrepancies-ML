@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13559/?format=json",
+  "id": 13559,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9795/?format=json",
+      "id": 9795,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13559/?format=json",
+      "date_created": "2022-03-03T14:28:39.103391-08:00",
+      "date_modified": "2022-03-03T14:28:39.103427-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-03",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9796/?format=json",
+      "id": 9796,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13559/?format=json",
+      "date_created": "2022-03-03T14:28:39.108639-08:00",
+      "date_modified": "2022-03-03T14:28:39.108665-08:00",
+      "url": "https://ballotpedia.org/Robert_J._Kearney",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9797/?format=json",
+      "id": 9797,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13559/?format=json",
+      "date_created": "2022-03-03T14:28:39.112759-08:00",
+      "date_modified": "2022-03-03T14:28:39.112781-08:00",
+      "url": "https://www.martindale.com/attorney/robert-james-kearney-281398/",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9798/?format=json",
+      "id": 9798,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13559/?format=json",
+      "date_created": "2022-03-03T14:28:39.119837-08:00",
+      "date_modified": "2022-03-03T14:28:39.119860-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-03",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8528/?format=json",
+      "id": 8528,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5646/?format=json",
+        "id": 5646,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of the Pacific",
+        "ein": 941156266
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13559/?format=json",
+      "date_created": "2022-03-03T14:28:39.090112-08:00",
+      "date_modified": "2022-03-03T14:28:39.090137-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8529/?format=json",
+      "id": 8529,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5646/?format=json",
+        "id": 5646,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of the Pacific",
+        "ein": 941156266
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13559/?format=json",
+      "date_created": "2022-03-03T14:28:39.098745-08:00",
+      "date_modified": "2022-03-03T14:28:39.098767-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43101/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6083/?format=json",
+      "id": 6083,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13559/?format=json",
+      "date_created": "2022-03-03T14:28:39.076099-08:00",
+      "date_modified": "2022-03-03T14:28:39.076131-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6084/?format=json",
+      "id": 6084,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13559/?format=json",
+      "date_created": "2022-03-03T14:28:39.083256-08:00",
+      "date_modified": "2022-03-03T14:28:39.083279-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:44.032973-07:00",
+  "date_modified": "2022-03-20T15:56:31.456827-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "robert-james-kearney",
+  "name_first": "Robert",
+  "name_middle": "James",
+  "name_last": "Kearney",
+  "name_suffix": "",
+  "date_dob": "1966-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,72 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2399/?format=json",
+  "id": 2399,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1475/?format=json",
+      "id": 1475,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2399/?format=json",
+      "date_created": "2016-04-20T08:21:22.799683-07:00",
+      "date_modified": "2016-04-20T08:21:22.799704-07:00",
+      "year_rated": 1968,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14960/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14961/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14962/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14963/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14964/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14965/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14966/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14967/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14968/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14969/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2405/?format=json",
+      "id": 2405,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2399/?format=json",
+      "date_created": "2016-04-20T08:21:22.792848-07:00",
+      "date_modified": "2016-04-20T08:21:22.792873-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1968-05-29",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:22.759749-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3209,
+  "slug": "bernard-newman",
+  "name_first": "Bernard",
+  "name_middle": "",
+  "name_last": "Newman",
+  "name_suffix": "",
+  "date_dob": "1907-10-28",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1999-04-22",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "New York",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "New York",
+  "dod_state": "NY",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

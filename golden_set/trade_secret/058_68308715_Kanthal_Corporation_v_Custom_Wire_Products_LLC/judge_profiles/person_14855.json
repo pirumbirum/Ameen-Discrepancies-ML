@@ -1,0 +1,143 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14855/?format=json",
+  "id": 14855,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14706/?format=json",
+      "id": 14706,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14855/?format=json",
+      "date_created": "2022-04-08T10:27:12.416245-07:00",
+      "date_modified": "2022-04-08T10:27:12.416269-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=xcIYFv3lLWuBPY8Wubquog%3D%3D",
+      "date_accessed": "2022-04-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14707/?format=json",
+      "id": 14707,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14855/?format=json",
+      "date_created": "2022-04-08T10:27:12.418088-07:00",
+      "date_modified": "2022-04-08T10:27:12.418111-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14708/?format=json",
+      "id": 14708,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14855/?format=json",
+      "date_created": "2022-04-08T10:27:12.419273-07:00",
+      "date_modified": "2022-04-08T10:27:12.419296-07:00",
+      "url": "https://ballotpedia.org/John_F._Lambert",
+      "date_accessed": "2022-04-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14709/?format=json",
+      "id": 14709,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14855/?format=json",
+      "date_created": "2022-04-08T10:27:12.420416-07:00",
+      "date_modified": "2022-04-08T10:27:12.420439-07:00",
+      "url": "https://trellis.law/judge/john.f.lambert",
+      "date_accessed": "2022-04-08",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10828/?format=json",
+      "id": 10828,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/624/?format=json",
+        "id": 624,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "New England School of Law",
+        "ein": 42152671
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14855/?format=json",
+      "date_created": "2022-04-08T10:27:12.406220-07:00",
+      "date_modified": "2022-04-08T10:27:12.406245-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1998
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10829/?format=json",
+      "id": 10829,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4194/?format=json",
+        "id": 4194,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Hartwick College",
+        "ein": 150533561
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14855/?format=json",
+      "date_created": "2022-04-08T10:27:12.411322-07:00",
+      "date_modified": "2022-04-08T10:27:12.411346-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1992
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/46525/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46526/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46527/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46528/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46529/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46530/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46531/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46532/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46533/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46534/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46535/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7522/?format=json",
+      "id": 7522,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14855/?format=json",
+      "date_created": "2022-04-08T10:27:12.414276-07:00",
+      "date_modified": "2022-04-08T10:27:12.414300-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-08T10:27:12.390434-07:00",
+  "date_modified": "2022-05-09T13:51:21.631983-07:00",
+  "date_completed": "2022-05-09T12:35:29-07:00",
+  "fjc_id": null,
+  "slug": "john-f-lambert",
+  "name_first": "John",
+  "name_middle": "F.",
+  "name_last": "Lambert",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

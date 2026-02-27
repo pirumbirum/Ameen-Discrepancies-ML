@@ -1,0 +1,191 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1609/?format=json",
+  "id": 1609,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14624/?format=json",
+      "id": 14624,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1609/?format=json",
+      "date_created": "2022-04-07T11:29:08.766296-07:00",
+      "date_modified": "2022-04-07T11:29:08.766339-07:00",
+      "url": "https://www.cnn.com/politics/live-news/ketanji-brown-jackson-senate-confirmation-vote/index.html",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14625/?format=json",
+      "id": 14625,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1609/?format=json",
+      "date_created": "2022-04-07T11:32:48.900145-07:00",
+      "date_modified": "2022-04-07T11:32:48.900168-07:00",
+      "url": "https://www.theguardian.com/us-news/live/2022/apr/07/ketanji-brown-jackson-democrats-republicans-ukraine-us-politics-today-live",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14626/?format=json",
+      "id": 14626,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1609/?format=json",
+      "date_created": "2022-04-07T11:48:08.626934-07:00",
+      "date_modified": "2022-04-07T11:48:08.626958-07:00",
+      "url": "https://en.wikipedia.org/wiki/Ketanji_Brown_Jackson",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17678/?format=json",
+      "id": 17678,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1609/?format=json",
+      "date_created": "2022-06-30T10:35:50.931370-07:00",
+      "date_modified": "2022-06-30T10:35:50.931404-07:00",
+      "url": "https://www.npr.org/2022/06/30/1108714345/ketanji-brown-jackson-supreme-court-oath-swearing-in",
+      "date_accessed": "2022-06-30",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17679/?format=json",
+      "id": 17679,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1609/?format=json",
+      "date_created": "2022-06-30T10:35:50.934151-07:00",
+      "date_modified": "2022-06-30T10:35:50.934177-07:00",
+      "url": "",
+      "date_accessed": "2022-06-30",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/985/?format=json",
+      "id": 985,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1609/?format=json",
+      "date_created": "2016-04-20T08:19:30.296721-07:00",
+      "date_modified": "2016-04-20T08:19:30.296742-07:00",
+      "year_rated": 2013,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1334/?format=json",
+      "id": 1334,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1609/?format=json",
+      "date_created": "2016-04-20T08:19:30.340188-07:00",
+      "date_modified": "2022-04-07T11:47:54.415405-07:00",
+      "degree_level": "jd",
+      "degree_detail": "cum laude",
+      "degree_year": 1996
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1333/?format=json",
+      "id": 1333,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1609/?format=json",
+      "date_created": "2016-04-20T08:19:30.311617-07:00",
+      "date_modified": "2022-04-07T11:47:54.408924-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Government, magna cum laude",
+      "degree_year": 1992
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9878/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9879/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9880/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9881/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9882/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9883/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9884/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9886/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9877/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44661/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44402/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9885/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9887/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1616/?format=json",
+      "id": 1616,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1609/?format=json",
+      "date_created": "2016-04-20T08:19:30.289639-07:00",
+      "date_modified": "2016-04-20T08:19:30.289663-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2013-01-04",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5862/?format=json",
+      "id": 5862,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1609/?format=json",
+      "date_created": "2022-02-28T16:12:15.366110-08:00",
+      "date_modified": "2022-02-28T16:12:15.366133-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2021-04-19",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5863/?format=json",
+      "id": 5863,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1609/?format=json",
+      "date_created": "2022-02-28T16:12:15.369459-08:00",
+      "date_modified": "2022-02-28T16:12:15.369493-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2022-02-25",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:30.260689-07:00",
+  "date_modified": "2022-06-30T10:38:39.918990-07:00",
+  "date_completed": "2022-04-07T11:46:58-07:00",
+  "fjc_id": 3464,
+  "slug": "ketanji-brown-jackson",
+  "name_first": "Ketanji",
+  "name_middle": "Brown",
+  "name_last": "Jackson",
+  "name_suffix": "",
+  "date_dob": "1970-09-14",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Washington",
+  "dob_state": "DC",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": true
+}

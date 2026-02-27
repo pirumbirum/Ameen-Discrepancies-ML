@@ -1,0 +1,89 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1780/?format=json",
+  "id": 1780,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1099/?format=json",
+      "id": 1099,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1780/?format=json",
+      "date_created": "2016-04-20T08:19:53.978074-07:00",
+      "date_modified": "2016-04-20T08:19:53.978098-07:00",
+      "year_rated": 1998,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1469/?format=json",
+      "id": 1469,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3681/?format=json",
+        "id": 3681,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "West Virginia University",
+        "ein": 556000842
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1780/?format=json",
+      "date_created": "2016-04-20T08:19:53.997046-07:00",
+      "date_modified": "2016-04-20T08:19:53.997072-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1961
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/10980/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10981/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10982/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10983/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10984/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10985/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10986/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1788/?format=json",
+      "id": 1788,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1780/?format=json",
+      "date_created": "2016-04-20T08:19:53.970949-07:00",
+      "date_modified": "2016-04-20T08:19:53.970975-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1998-06-24",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:53.935086-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2790,
+  "slug": "robert-bruce-king",
+  "name_first": "Robert",
+  "name_middle": "Bruce",
+  "name_last": "King",
+  "name_suffix": "",
+  "date_dob": "1940-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "White Sulphur Springs",
+  "dob_state": "WV",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

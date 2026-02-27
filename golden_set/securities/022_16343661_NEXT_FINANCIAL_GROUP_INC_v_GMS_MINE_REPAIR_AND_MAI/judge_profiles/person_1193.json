@@ -1,0 +1,77 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1193/?format=json",
+  "id": 1193,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/725/?format=json",
+      "id": 725,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1193/?format=json",
+      "date_created": "2016-04-20T08:18:30.509631-07:00",
+      "date_modified": "2016-04-20T08:18:30.509656-07:00",
+      "year_rated": 1981,
+      "rating": "wq"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/726/?format=json",
+      "id": 726,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1193/?format=json",
+      "date_created": "2016-04-20T08:18:30.533884-07:00",
+      "date_modified": "2016-04-20T08:18:30.533907-07:00",
+      "year_rated": 1982,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/7248/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7249/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7250/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7251/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/40198/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/40199/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1199/?format=json",
+      "id": 1199,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1193/?format=json",
+      "date_created": "2016-04-20T08:18:30.502426-07:00",
+      "date_modified": "2016-04-20T08:18:30.502452-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1981-07-09",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:30.472256-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 850,
+  "slug": "john-r-gibson",
+  "name_first": "John",
+  "name_middle": "R.",
+  "name_last": "Gibson",
+  "name_suffix": "",
+  "date_dob": "1925-12-20",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2014-04-19",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Springfield",
+  "dob_state": "MO",
+  "dob_country": "United States",
+  "dod_city": "Reading",
+  "dod_state": "MA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

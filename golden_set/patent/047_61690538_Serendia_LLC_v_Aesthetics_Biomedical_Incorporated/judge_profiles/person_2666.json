@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2666/?format=json",
+  "id": 2666,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1660/?format=json",
+      "id": 1660,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2666/?format=json",
+      "date_created": "2016-04-20T08:22:00.070841-07:00",
+      "date_modified": "2016-04-20T08:22:00.070874-07:00",
+      "year_rated": 2014,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/16693/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16694/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16695/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16696/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16697/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16698/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16699/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16700/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2674/?format=json",
+      "id": 2674,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2666/?format=json",
+      "date_created": "2016-04-20T08:22:00.037196-07:00",
+      "date_modified": "2016-04-20T08:22:00.037232-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2014-01-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:59.942902-07:00",
+  "date_modified": "2020-11-25T08:30:11.303967-08:00",
+  "date_completed": null,
+  "fjc_id": 3538,
+  "slug": "douglas-leroy-rayes",
+  "name_first": "Douglas",
+  "name_middle": "Leroy",
+  "name_last": "Rayes",
+  "name_suffix": "",
+  "date_dob": "1952-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Globe",
+  "dob_state": "AZ",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

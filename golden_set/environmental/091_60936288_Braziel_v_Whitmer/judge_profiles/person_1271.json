@@ -1,0 +1,89 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1271/?format=json",
+  "id": 1271,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/776/?format=json",
+      "id": 776,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1271/?format=json",
+      "date_created": "2016-04-20T08:18:41.324875-07:00",
+      "date_modified": "2016-04-20T08:18:41.324897-07:00",
+      "year_rated": 1971,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1065/?format=json",
+      "id": 1065,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4382/?format=json",
+        "id": 4382,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Temple University",
+        "ein": 231365971
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1271/?format=json",
+      "date_created": "2016-04-20T08:18:41.343595-07:00",
+      "date_modified": "2016-04-20T08:18:41.343620-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1948
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/7721/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7722/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7723/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7724/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7725/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7726/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7727/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1277/?format=json",
+      "id": 1277,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1271/?format=json",
+      "date_created": "2016-04-20T08:18:41.318070-07:00",
+      "date_modified": "2016-04-20T08:18:41.318096-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1971-12-01",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:41.282863-07:00",
+  "date_modified": "2020-11-25T08:30:11.226184-08:00",
+  "date_completed": null,
+  "fjc_id": 907,
+  "slug": "clifford-scott-green",
+  "name_first": "Clifford",
+  "name_middle": "Scott",
+  "name_last": "Green",
+  "name_suffix": "",
+  "date_dob": "1923-04-02",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2007-05-31",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Philadelphia",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "Philadelphia",
+  "dod_state": "PA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

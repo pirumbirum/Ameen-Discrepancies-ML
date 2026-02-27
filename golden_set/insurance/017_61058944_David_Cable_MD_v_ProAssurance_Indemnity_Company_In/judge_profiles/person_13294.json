@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13294/?format=json",
+  "id": 13294,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12054/?format=json",
+      "id": 12054,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13294/?format=json",
+      "date_created": "2022-03-11T14:19:11.067422-08:00",
+      "date_modified": "2022-03-11T14:19:11.067448-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-11",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12055/?format=json",
+      "id": 12055,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13294/?format=json",
+      "date_created": "2022-03-11T14:19:11.072245-08:00",
+      "date_modified": "2022-03-11T14:19:11.072270-08:00",
+      "url": "https://ballotpedia.org/Wilfred_J._Schneider,_Jr.",
+      "date_accessed": "2022-03-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12056/?format=json",
+      "id": 12056,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13294/?format=json",
+      "date_created": "2022-03-11T14:19:11.076556-08:00",
+      "date_modified": "2022-03-11T14:19:11.076581-08:00",
+      "url": "https://www.martindale.com/attorney/wilfred-john-schneider-jr-108555/",
+      "date_accessed": "2022-03-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12057/?format=json",
+      "id": 12057,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13294/?format=json",
+      "date_created": "2022-03-11T14:19:11.084547-08:00",
+      "date_modified": "2022-03-11T14:19:11.084573-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-11",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9592/?format=json",
+      "id": 9592,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13294/?format=json",
+      "date_created": "2022-03-11T14:19:11.053720-08:00",
+      "date_modified": "2022-03-11T14:19:11.053746-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Political Science",
+      "degree_year": 1974
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9593/?format=json",
+      "id": 9593,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3119/?format=json",
+        "id": 3119,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southwestern Law School",
+        "ein": 951246140
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13294/?format=json",
+      "date_created": "2022-03-11T14:19:11.063022-08:00",
+      "date_modified": "2022-03-11T14:19:11.063048-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1978
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42755/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6801/?format=json",
+      "id": 6801,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13294/?format=json",
+      "date_created": "2022-03-11T14:19:11.038550-08:00",
+      "date_modified": "2022-03-11T14:19:11.038577-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6802/?format=json",
+      "id": 6802,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13294/?format=json",
+      "date_created": "2022-03-11T14:19:11.045707-08:00",
+      "date_modified": "2022-03-11T14:19:11.045733-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:32.025300-07:00",
+  "date_modified": "2022-03-21T15:24:27.453109-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "wilfred-j-schneider-jr",
+  "name_first": "Wilfred",
+  "name_middle": "J.",
+  "name_last": "Schneider",
+  "name_suffix": "jr",
+  "date_dob": "1951-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Whittier",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

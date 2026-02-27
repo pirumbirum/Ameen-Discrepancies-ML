@@ -1,0 +1,119 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13063/?format=json",
+  "id": 13063,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8662/?format=json",
+      "id": 8662,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13063/?format=json",
+      "date_created": "2022-02-24T13:59:40.197155-08:00",
+      "date_modified": "2022-02-24T14:01:30.865697-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-24",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8663/?format=json",
+      "id": 8663,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13063/?format=json",
+      "date_created": "2022-02-24T14:01:30.870992-08:00",
+      "date_modified": "2022-02-24T14:01:30.871028-08:00",
+      "url": "https://ballotpedia.org/Peter_L._Gallagher",
+      "date_accessed": "2022-02-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8664/?format=json",
+      "id": 8664,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13063/?format=json",
+      "date_created": "2022-02-24T14:01:30.876112-08:00",
+      "date_modified": "2022-02-24T14:01:30.876136-08:00",
+      "url": "https://www.martindale.com/attorney/peter-leo-gallagher-210293/",
+      "date_accessed": "2022-02-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8665/?format=json",
+      "id": 8665,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13063/?format=json",
+      "date_created": "2022-02-24T14:01:30.883998-08:00",
+      "date_modified": "2022-02-24T14:01:30.884031-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-24",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8018/?format=json",
+      "id": 8018,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4382/?format=json",
+        "id": 4382,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Temple University",
+        "ein": 231365971
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13063/?format=json",
+      "date_created": "2022-02-24T13:59:40.170032-08:00",
+      "date_modified": "2022-02-24T13:59:40.170056-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1980
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8019/?format=json",
+      "id": 8019,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4382/?format=json",
+        "id": 4382,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Temple University",
+        "ein": 231365971
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13063/?format=json",
+      "date_created": "2022-02-24T13:59:40.187160-08:00",
+      "date_modified": "2022-02-24T14:01:30.840566-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1984
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42403/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:20.529655-07:00",
+  "date_modified": "2022-03-19T13:41:39.201888-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "peter-leo-gallagher",
+  "name_first": "Peter",
+  "name_middle": "Leo",
+  "name_last": "Gallagher",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

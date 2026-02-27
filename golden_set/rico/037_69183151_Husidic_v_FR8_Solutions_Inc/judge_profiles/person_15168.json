@@ -1,0 +1,124 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15168/?format=json",
+  "id": 15168,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16014/?format=json",
+      "id": 16014,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15168/?format=json",
+      "date_created": "2022-04-19T17:57:08.493734-07:00",
+      "date_modified": "2022-04-19T17:57:08.493753-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=XCYce2TZMRPb/KzXUhFCew%3D%3D",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16015/?format=json",
+      "id": 16015,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15168/?format=json",
+      "date_created": "2022-04-19T17:57:08.495887-07:00",
+      "date_modified": "2022-04-19T17:57:08.495909-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-19",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16016/?format=json",
+      "id": 16016,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15168/?format=json",
+      "date_created": "2022-04-19T17:57:08.496860-07:00",
+      "date_modified": "2022-04-19T17:57:08.496880-07:00",
+      "url": "https://ballotpedia.org/Debra_Young",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16017/?format=json",
+      "id": 16017,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15168/?format=json",
+      "date_created": "2022-04-19T17:57:08.497867-07:00",
+      "date_modified": "2022-04-19T17:57:08.497886-07:00",
+      "url": "https://www.pli.edu/faculty/hon.-debra-j.-young-i1919745",
+      "date_accessed": "2022-04-19",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11472/?format=json",
+      "id": 11472,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/62/?format=json",
+        "id": 62,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Albany Law School",
+        "ein": 141338309
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15168/?format=json",
+      "date_created": "2022-04-19T17:57:08.487356-07:00",
+      "date_modified": "2022-04-19T17:57:08.487382-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1996
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11473/?format=json",
+      "id": 11473,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/363/?format=json",
+        "id": 363,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Loyola University Maryland",
+        "ein": 520591623
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15168/?format=json",
+      "date_created": "2022-04-19T17:57:08.492447-07:00",
+      "date_modified": "2022-04-19T17:57:08.492470-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1990
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49081/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49082/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49083/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49084/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49085/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49086/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-04-19T17:57:08.470353-07:00",
+  "date_modified": "2022-06-08T19:01:53.283337-07:00",
+  "date_completed": "2022-06-08T18:47:48-07:00",
+  "fjc_id": null,
+  "slug": "debra-j-young",
+  "name_first": "Debra",
+  "name_middle": "J.",
+  "name_last": "Young",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

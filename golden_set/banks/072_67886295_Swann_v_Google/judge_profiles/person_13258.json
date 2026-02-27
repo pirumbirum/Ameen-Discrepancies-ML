@@ -1,0 +1,133 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13258/?format=json",
+  "id": 13258,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10189/?format=json",
+      "id": 10189,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13258/?format=json",
+      "date_created": "2022-03-06T17:13:28.787734-08:00",
+      "date_modified": "2022-03-06T17:13:28.787758-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-06",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10186/?format=json",
+      "id": 10186,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13258/?format=json",
+      "date_created": "2022-03-06T17:13:28.765402-08:00",
+      "date_modified": "2022-03-06T17:13:28.765423-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10187/?format=json",
+      "id": 10187,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13258/?format=json",
+      "date_created": "2022-03-06T17:13:28.772158-08:00",
+      "date_modified": "2022-03-06T17:13:28.772180-08:00",
+      "url": "https://www.nawj.org/uploads/files/bios/bio_elizabeth-lee.pdf",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10188/?format=json",
+      "id": 10188,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13258/?format=json",
+      "date_created": "2022-03-06T17:13:28.776254-08:00",
+      "date_modified": "2022-03-06T17:13:28.776277-08:00",
+      "url": "https://ballotpedia.org/Elizabeth_Lee",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8705/?format=json",
+      "id": 8705,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13258/?format=json",
+      "date_created": "2022-03-06T17:13:28.752965-08:00",
+      "date_modified": "2022-03-06T17:13:28.752990-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Economics",
+      "degree_year": 1979
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8706/?format=json",
+      "id": 8706,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3892/?format=json",
+        "id": 3892,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Columbia University in the City of New York",
+        "ein": 603800000
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13258/?format=json",
+      "date_created": "2022-03-06T17:13:28.761080-08:00",
+      "date_modified": "2022-03-06T17:13:28.761102-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1983
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42702/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6201/?format=json",
+      "id": 6201,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13258/?format=json",
+      "date_created": "2022-03-06T17:13:28.745075-08:00",
+      "date_modified": "2022-03-06T17:13:28.745097-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:30.164004-07:00",
+  "date_modified": "2022-03-20T19:01:47.983220-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "elizabeth-k-lee",
+  "name_first": "Elizabeth",
+  "name_middle": "K.",
+  "name_last": "Lee",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

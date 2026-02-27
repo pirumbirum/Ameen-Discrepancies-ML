@@ -1,0 +1,136 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15811/?format=json",
+  "id": 15811,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18660/?format=json",
+      "id": 18660,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15811/?format=json",
+      "date_created": "2022-07-14T13:00:46.180785-07:00",
+      "date_modified": "2022-07-14T13:00:46.180811-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-14",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18661/?format=json",
+      "id": 18661,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15811/?format=json",
+      "date_created": "2022-07-14T13:10:40.780031-07:00",
+      "date_modified": "2022-07-14T13:10:40.780051-07:00",
+      "url": "https://ballotpedia.org/David_Lopez_(Texas_judge)",
+      "date_accessed": "2022-07-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18662/?format=json",
+      "id": 18662,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15811/?format=json",
+      "date_created": "2022-07-14T13:10:40.809663-07:00",
+      "date_modified": "2022-07-14T13:10:40.809685-07:00",
+      "url": "https://www.martindale.com/attorney/mr-david-anthony-lopez-2511035/",
+      "date_accessed": "2022-07-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18663/?format=json",
+      "id": 18663,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15811/?format=json",
+      "date_created": "2022-07-14T13:10:40.810374-07:00",
+      "date_modified": "2022-07-14T13:10:40.810386-07:00",
+      "url": "",
+      "date_accessed": "2022-07-14",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12263/?format=json",
+      "id": 12263,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3164/?format=json",
+        "id": 3164,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Tech University",
+        "ein": 756002622
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15811/?format=json",
+      "date_created": "2022-07-14T13:00:46.131954-07:00",
+      "date_modified": "2022-07-14T13:00:46.131984-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Business Administration",
+      "degree_year": 1985
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12264/?format=json",
+      "id": 12264,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3164/?format=json",
+        "id": 3164,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Tech University",
+        "ein": 756002622
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15811/?format=json",
+      "date_created": "2022-07-14T13:00:46.149930-07:00",
+      "date_modified": "2022-07-14T13:00:46.149949-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1993
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50875/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50876/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50877/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50878/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8267/?format=json",
+      "id": 8267,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15811/?format=json",
+      "date_created": "2022-07-14T13:00:46.159778-07:00",
+      "date_modified": "2022-07-14T13:00:46.159796-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-14T13:00:45.982409-07:00",
+  "date_modified": "2022-07-14T13:12:09.889820-07:00",
+  "date_completed": "2022-07-14T12:59:02-07:00",
+  "fjc_id": null,
+  "slug": "david-a-lopez",
+  "name_first": "David",
+  "name_middle": "A.",
+  "name_last": "Lopez",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

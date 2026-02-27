@@ -1,0 +1,196 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13823/?format=json",
+  "id": 13823,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12493/?format=json",
+      "id": 12493,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13823/?format=json",
+      "date_created": "2022-03-14T14:59:48.586658-07:00",
+      "date_modified": "2022-03-14T14:59:48.586679-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-14",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12495/?format=json",
+      "id": 12495,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13823/?format=json",
+      "date_created": "2022-03-14T14:59:48.595901-07:00",
+      "date_modified": "2022-03-14T14:59:48.595922-07:00",
+      "url": "https://www.martindale.com/attorney/dylan-mary-sullivan-196507/",
+      "date_accessed": "2022-03-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12494/?format=json",
+      "id": 12494,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13823/?format=json",
+      "date_created": "2022-03-14T14:59:48.591033-07:00",
+      "date_modified": "2022-08-01T13:45:24.766371-07:00",
+      "url": "https://ballotpedia.org/Dylan_Sullivan",
+      "date_accessed": "2022-08-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12496/?format=json",
+      "id": 12496,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13823/?format=json",
+      "date_created": "2022-03-14T14:59:48.603405-07:00",
+      "date_modified": "2022-08-01T14:01:02.125080-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-08-01",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19971/?format=json",
+      "id": 19971,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13823/?format=json",
+      "date_created": "2022-08-01T13:45:24.769271-07:00",
+      "date_modified": "2022-08-01T13:45:24.769286-07:00",
+      "url": "https://www.linkedin.com/in/dsullivanlaw/",
+      "date_accessed": "2022-08-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19972/?format=json",
+      "id": 19972,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13823/?format=json",
+      "date_created": "2022-08-01T13:45:24.770616-07:00",
+      "date_modified": "2022-08-01T13:45:24.770628-07:00",
+      "url": "https://trellis.law/judge/dylan.m.sullivan",
+      "date_accessed": "2022-08-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19973/?format=json",
+      "id": 19973,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13823/?format=json",
+      "date_created": "2022-08-01T13:45:24.771735-07:00",
+      "date_modified": "2022-08-01T13:45:24.771745-07:00",
+      "url": "https://www.edcgov.us/County%20Press%20Releases/Pages/governor_brown_appoints_dylan_m._sullivan_to_el_dorado_county_superior_court.aspx",
+      "date_accessed": "2022-08-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19974/?format=json",
+      "id": 19974,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13823/?format=json",
+      "date_created": "2022-08-01T13:45:24.772806-07:00",
+      "date_modified": "2022-08-01T13:45:24.772817-07:00",
+      "url": "https://www.villagelife.com/news/judge-pulled-from-duty/",
+      "date_accessed": "2022-08-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19975/?format=json",
+      "id": 19975,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13823/?format=json",
+      "date_created": "2022-08-01T13:45:24.773904-07:00",
+      "date_modified": "2022-08-01T13:45:24.773914-07:00",
+      "url": "https://www.mtdemocrat.com/news/kingsbury-stepping-down-from-the-bench/",
+      "date_accessed": "2022-08-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19976/?format=json",
+      "id": 19976,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13823/?format=json",
+      "date_created": "2022-08-01T13:45:24.774978-07:00",
+      "date_modified": "2022-08-01T13:45:24.774987-07:00",
+      "url": "",
+      "date_accessed": "2022-08-01",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9814/?format=json",
+      "id": 9814,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1532/?format=json",
+        "id": 1532,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Davis",
+        "ein": 946036494
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13823/?format=json",
+      "date_created": "2022-03-14T14:59:48.575834-07:00",
+      "date_modified": "2022-08-01T13:45:24.759914-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Physiology",
+      "degree_year": 1988
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9815/?format=json",
+      "id": 9815,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5646/?format=json",
+        "id": 5646,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of the Pacific",
+        "ein": 941156266
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13823/?format=json",
+      "date_created": "2022-03-14T14:59:48.582724-07:00",
+      "date_modified": "2022-08-01T14:01:02.097553-07:00",
+      "degree_level": "jd",
+      "degree_detail": "with distinction and highest honors",
+      "degree_year": 1997
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43457/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51906/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51907/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51908/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6947/?format=json",
+      "id": 6947,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13823/?format=json",
+      "date_created": "2022-03-14T14:59:48.568835-07:00",
+      "date_modified": "2022-03-14T14:59:48.568859-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:56.118867-07:00",
+  "date_modified": "2022-08-01T14:03:41.690866-07:00",
+  "date_completed": "2022-08-01T13:55:24-07:00",
+  "fjc_id": null,
+  "slug": "dylan-marie-sullivan",
+  "name_first": "Dylan",
+  "name_middle": "Marie",
+  "name_last": "Sullivan",
+  "name_suffix": "",
+  "date_dob": "1965-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

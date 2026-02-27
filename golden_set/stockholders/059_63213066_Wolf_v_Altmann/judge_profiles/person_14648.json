@@ -1,0 +1,163 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14648/?format=json",
+  "id": 14648,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13819/?format=json",
+      "id": 13819,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14648/?format=json",
+      "date_created": "2022-04-01T09:45:19.384962-07:00",
+      "date_modified": "2022-04-01T09:45:19.384985-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=OaWfbGrCowufOdUjNbbfwA%3D%3D",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13820/?format=json",
+      "id": 13820,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14648/?format=json",
+      "date_created": "2022-04-01T09:45:19.386595-07:00",
+      "date_modified": "2022-04-01T09:45:19.386617-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-01",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13821/?format=json",
+      "id": 13821,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14648/?format=json",
+      "date_created": "2022-04-01T09:45:19.388020-07:00",
+      "date_modified": "2022-04-01T09:45:19.388043-07:00",
+      "url": "https://ballotpedia.org/Devin_P._Cohen",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13822/?format=json",
+      "id": 13822,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14648/?format=json",
+      "date_created": "2022-04-01T09:45:19.389202-07:00",
+      "date_modified": "2022-04-01T09:45:19.389225-07:00",
+      "url": "https://www.linkedin.com/in/dcohen3/",
+      "date_accessed": "2022-04-01",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10419/?format=json",
+      "id": 10419,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/738/?format=json",
+        "id": 738,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Brooklyn Law School",
+        "ein": 237227990
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14648/?format=json",
+      "date_created": "2022-04-01T09:45:19.369136-07:00",
+      "date_modified": "2022-04-01T09:45:19.369158-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1995
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10420/?format=json",
+      "id": 10420,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/552/?format=json",
+        "id": 552,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Indiana University-Bloomington",
+        "ein": 356001673
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14648/?format=json",
+      "date_created": "2022-04-01T09:45:19.374157-07:00",
+      "date_modified": "2022-04-01T09:45:19.374177-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Music, Philosophy",
+      "degree_year": 1990
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/45351/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45352/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45353/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45354/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/45355/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7297/?format=json",
+      "id": 7297,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14648/?format=json",
+      "date_created": "2022-04-01T09:45:19.377285-07:00",
+      "date_modified": "2022-04-01T09:45:19.377318-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": "2014-01-01",
+      "date_granularity_start": "%Y",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7298/?format=json",
+      "id": 7298,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14648/?format=json",
+      "date_created": "2022-04-01T09:45:19.380908-07:00",
+      "date_modified": "2022-04-01T09:45:19.380932-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": "2018-01-01",
+      "date_granularity_start": "%Y",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7299/?format=json",
+      "id": 7299,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14648/?format=json",
+      "date_created": "2022-04-01T09:45:19.383598-07:00",
+      "date_modified": "2022-04-01T09:45:19.383622-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": "2018-01-01",
+      "date_granularity_start": "%Y",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-01T09:45:19.355062-07:00",
+  "date_modified": "2022-04-28T08:58:59.400172-07:00",
+  "date_completed": "2022-04-28T08:58:47-07:00",
+  "fjc_id": null,
+  "slug": "devin-p-cohen",
+  "name_first": "Devin",
+  "name_middle": "P.",
+  "name_last": "Cohen",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

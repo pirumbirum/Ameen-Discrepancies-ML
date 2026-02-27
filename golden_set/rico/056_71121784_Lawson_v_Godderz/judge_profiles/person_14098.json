@@ -1,0 +1,136 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14098/?format=json",
+  "id": 14098,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9608/?format=json",
+      "id": 9608,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14098/?format=json",
+      "date_created": "2022-03-02T18:17:59.245329-08:00",
+      "date_modified": "2022-03-02T18:17:59.245351-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-02",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9609/?format=json",
+      "id": 9609,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14098/?format=json",
+      "date_created": "2022-03-02T18:17:59.249735-08:00",
+      "date_modified": "2022-03-02T18:17:59.249757-08:00",
+      "url": "https://trellis.law/judge/tara.k.james",
+      "date_accessed": "2022-03-02",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9610/?format=json",
+      "id": 9610,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14098/?format=json",
+      "date_created": "2022-03-02T18:17:59.259052-08:00",
+      "date_modified": "2022-03-02T18:17:59.259086-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-02",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8442/?format=json",
+      "id": 8442,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14098/?format=json",
+      "date_created": "2022-03-02T18:17:59.231509-08:00",
+      "date_modified": "2022-03-02T18:17:59.231531-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8443/?format=json",
+      "id": 8443,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5646/?format=json",
+        "id": 5646,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of the Pacific",
+        "ein": 941156266
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14098/?format=json",
+      "date_created": "2022-03-02T18:17:59.240641-08:00",
+      "date_modified": "2022-03-02T18:17:59.240675-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1994
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43778/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6021/?format=json",
+      "id": 6021,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14098/?format=json",
+      "date_created": "2022-03-02T18:17:59.216695-08:00",
+      "date_modified": "2022-03-02T18:17:59.216720-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6022/?format=json",
+      "id": 6022,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14098/?format=json",
+      "date_created": "2022-03-02T18:17:59.223658-08:00",
+      "date_modified": "2022-03-02T18:17:59.223692-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:08.040609-07:00",
+  "date_modified": "2022-03-20T15:37:46.724182-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "tara-k-james",
+  "name_first": "Tara",
+  "name_middle": "K.",
+  "name_last": "James",
+  "name_suffix": "",
+  "date_dob": "1968-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

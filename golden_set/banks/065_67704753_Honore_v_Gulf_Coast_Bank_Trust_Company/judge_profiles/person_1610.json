@@ -1,0 +1,88 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1610/?format=json",
+  "id": 1610,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/986/?format=json",
+      "id": 986,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1610/?format=json",
+      "date_created": "2016-04-20T08:19:30.462054-07:00",
+      "date_modified": "2016-04-20T08:19:30.462076-07:00",
+      "year_rated": 1993,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1335/?format=json",
+      "id": 1335,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4027/?format=json",
+        "id": 4027,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Norfolk State University",
+        "ein": 546002808
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1610/?format=json",
+      "date_created": "2016-04-20T08:19:30.476880-07:00",
+      "date_modified": "2016-04-20T08:19:30.476904-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1970
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9888/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9889/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9890/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9891/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9892/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9893/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1617/?format=json",
+      "id": 1617,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1610/?format=json",
+      "date_created": "2016-04-20T08:19:30.454934-07:00",
+      "date_modified": "2016-04-20T08:19:30.454958-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1993-09-24",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:30.424936-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1159,
+  "slug": "raymond-alvin-jackson",
+  "name_first": "Raymond",
+  "name_middle": "Alvin",
+  "name_last": "Jackson",
+  "name_suffix": "",
+  "date_dob": "1949-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Sussex",
+  "dob_state": "VA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

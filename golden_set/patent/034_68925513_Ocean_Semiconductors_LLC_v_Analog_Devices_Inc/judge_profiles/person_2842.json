@@ -1,0 +1,92 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2842/?format=json",
+  "id": 2842,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1782/?format=json",
+      "id": 1782,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2842/?format=json",
+      "date_created": "2016-04-20T08:22:24.249297-07:00",
+      "date_modified": "2016-04-20T08:22:24.249319-07:00",
+      "year_rated": 1993,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2380/?format=json",
+      "id": 2380,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2842/?format=json",
+      "date_created": "2016-04-20T08:22:24.299800-07:00",
+      "date_modified": "2016-04-20T08:22:24.299838-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1976
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/17834/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17835/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17836/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17837/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17838/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17839/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17840/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17841/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17842/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17843/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2850/?format=json",
+      "id": 2850,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2842/?format=json",
+      "date_created": "2016-04-20T08:22:24.242305-07:00",
+      "date_modified": "2016-04-20T08:22:24.242333-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1993-10-27",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:24.210817-07:00",
+  "date_modified": "2020-11-25T08:30:19.972715-08:00",
+  "date_completed": null,
+  "fjc_id": 2100,
+  "slug": "patti-b-saris",
+  "name_first": "Patti",
+  "name_middle": "B.",
+  "name_last": "Saris",
+  "name_suffix": "",
+  "date_dob": "1951-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Boston",
+  "dob_state": "MA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

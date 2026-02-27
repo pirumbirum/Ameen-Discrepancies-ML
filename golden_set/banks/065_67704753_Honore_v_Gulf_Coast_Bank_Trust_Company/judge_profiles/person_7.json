@@ -1,0 +1,53 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7/?format=json",
+  "id": 7,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/7/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7/?format=json",
+      "id": 7,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7/?format=json",
+      "date_created": "2016-04-20T08:15:47.768939-07:00",
+      "date_modified": "2016-04-20T08:15:47.768967-07:00",
+      "political_party": "d",
+      "source": "b",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:15:47.753296-07:00",
+  "date_modified": "2025-02-05T05:01:43.468223-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "andrew-jackson",
+  "name_first": "Andrew",
+  "name_middle": "",
+  "name_last": "Jackson",
+  "name_suffix": "",
+  "date_dob": "1767-03-15",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1845-06-08",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Lancaster Co.",
+  "dob_state": "SC",
+  "dob_country": "United States",
+  "dod_city": "Nashville",
+  "dod_state": "TN",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "pe",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

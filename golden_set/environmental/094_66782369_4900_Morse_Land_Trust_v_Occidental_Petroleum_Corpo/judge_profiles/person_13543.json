@@ -1,0 +1,157 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13543/?format=json",
+  "id": 13543,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10478/?format=json",
+      "id": 10478,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13543/?format=json",
+      "date_created": "2022-03-07T08:55:42.342318-08:00",
+      "date_modified": "2022-03-07T08:55:42.342345-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-07",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10479/?format=json",
+      "id": 10479,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13543/?format=json",
+      "date_created": "2022-03-07T08:55:42.355915-08:00",
+      "date_modified": "2022-03-07T08:55:42.355942-08:00",
+      "url": "https://trellis.law/judge/roger.l.lund",
+      "date_accessed": "2022-03-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10480/?format=json",
+      "id": 10480,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13543/?format=json",
+      "date_created": "2022-03-07T08:55:42.361991-08:00",
+      "date_modified": "2022-03-07T08:55:42.362019-08:00",
+      "url": "https://ballotpedia.org/Roger_L._Lund",
+      "date_accessed": "2022-03-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10481/?format=json",
+      "id": 10481,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13543/?format=json",
+      "date_created": "2022-03-07T08:55:42.367230-08:00",
+      "date_modified": "2022-03-07T08:55:42.367260-08:00",
+      "url": "https://www.martindale.com/attorney/roger-lynn-lund-83033/",
+      "date_accessed": "2022-03-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10482/?format=json",
+      "id": 10482,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13543/?format=json",
+      "date_created": "2022-03-07T08:55:42.377966-08:00",
+      "date_modified": "2022-03-07T08:55:42.377990-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-07",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8829/?format=json",
+      "id": 8829,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4707/?format=json",
+        "id": 4707,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Brigham Young University-Provo",
+        "ein": 870217280
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13543/?format=json",
+      "date_created": "2022-03-07T08:55:42.313163-08:00",
+      "date_modified": "2022-03-07T08:55:42.313185-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Philosophy",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8830/?format=json",
+      "id": 8830,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3219/?format=json",
+        "id": 3219,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Pepperdine University",
+        "ein": 951644037
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13543/?format=json",
+      "date_created": "2022-03-07T08:55:42.321325-08:00",
+      "date_modified": "2022-03-07T08:55:42.321348-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1995
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43081/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44470/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6289/?format=json",
+      "id": 6289,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13543/?format=json",
+      "date_created": "2022-03-07T08:55:42.299026-08:00",
+      "date_modified": "2022-03-07T08:55:42.299068-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6290/?format=json",
+      "id": 6290,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13543/?format=json",
+      "date_created": "2022-03-07T08:55:42.305818-08:00",
+      "date_modified": "2022-03-07T08:55:42.305842-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:43.307622-07:00",
+  "date_modified": "2022-03-21T10:13:18.805641-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "roger-lynn-lund",
+  "name_first": "Roger",
+  "name_middle": "Lynn",
+  "name_last": "Lund",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Camarillo",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "mo",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

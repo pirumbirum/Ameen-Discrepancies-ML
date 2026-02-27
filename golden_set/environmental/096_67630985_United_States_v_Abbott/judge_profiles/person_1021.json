@@ -1,0 +1,67 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1021/?format=json",
+  "id": 1021,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/597/?format=json",
+      "id": 597,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1021/?format=json",
+      "date_created": "2016-04-20T08:18:06.244296-07:00",
+      "date_modified": "2016-04-20T08:18:06.244317-07:00",
+      "year_rated": 1987,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/6188/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6189/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6190/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6191/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6192/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1026/?format=json",
+      "id": 1026,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1021/?format=json",
+      "date_created": "2016-04-20T08:18:06.239081-07:00",
+      "date_modified": "2016-04-20T08:18:06.239106-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1987-11-18",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:06.210228-07:00",
+  "date_modified": "2020-11-25T08:30:15.953865-08:00",
+  "date_completed": null,
+  "fjc_id": 727,
+  "slug": "david-alan-ezra",
+  "name_first": "David",
+  "name_middle": "Alan",
+  "name_last": "Ezra",
+  "name_suffix": "",
+  "date_dob": "1947-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Columbus",
+  "dob_state": "OH",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

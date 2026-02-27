@@ -1,0 +1,54 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2521/?format=json",
+  "id": 2521,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/15767/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/15768/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2530/?format=json",
+      "id": 2530,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2521/?format=json",
+      "date_created": "2016-04-20T08:21:40.165964-07:00",
+      "date_modified": "2016-04-20T08:21:40.165988-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1963-02-18",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:40.136624-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1854,
+  "slug": "harry-vearle-payne",
+  "name_first": "Harry",
+  "name_middle": "Vearle",
+  "name_last": "Payne",
+  "name_suffix": "",
+  "date_dob": "1908-09-06",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1983-07-20",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Colonia Dublan",
+  "dob_state": "",
+  "dob_country": "Mexico",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

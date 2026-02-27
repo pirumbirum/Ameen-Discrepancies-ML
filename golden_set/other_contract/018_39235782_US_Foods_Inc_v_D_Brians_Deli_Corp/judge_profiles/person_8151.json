@@ -1,0 +1,99 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8151/?format=json",
+  "id": 8151,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3915/?format=json",
+      "id": 3915,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8151/?format=json",
+      "date_created": "2016-04-20T08:28:52.437562-07:00",
+      "date_modified": "2016-04-20T08:28:52.437601-07:00",
+      "url": "http://judgepedia.org/Thomas_R._Wright",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3916/?format=json",
+      "id": 3916,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8151/?format=json",
+      "date_created": "2016-04-20T08:28:52.444201-07:00",
+      "date_modified": "2016-04-20T08:28:52.444239-07:00",
+      "url": "",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6395/?format=json",
+      "id": 6395,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/291/?format=json",
+        "id": 291,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Auburn University",
+        "ein": 636000724
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8151/?format=json",
+      "date_created": "2016-04-20T08:28:52.401090-07:00",
+      "date_modified": "2016-04-20T08:28:52.401116-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6396/?format=json",
+      "id": 6396,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5917/?format=json",
+        "id": 5917,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Alabama",
+        "ein": 636001138
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8151/?format=json",
+      "date_created": "2016-04-20T08:28:52.418813-07:00",
+      "date_modified": "2016-04-20T08:28:52.418838-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33133/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33134/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33135/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:52.371944-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "thomas-r-wright",
+  "name_first": "Thomas",
+  "name_middle": "R.",
+  "name_last": "Wright",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": "2001-11-27",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

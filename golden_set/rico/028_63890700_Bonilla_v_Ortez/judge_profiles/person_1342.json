@@ -1,0 +1,115 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1342/?format=json",
+  "id": 1342,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/826/?format=json",
+      "id": 826,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1342/?format=json",
+      "date_created": "2016-04-20T08:18:51.469573-07:00",
+      "date_modified": "2016-04-20T08:18:51.469594-07:00",
+      "year_rated": 1981,
+      "rating": "q"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/827/?format=json",
+      "id": 827,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1342/?format=json",
+      "date_created": "2016-04-20T08:18:51.495663-07:00",
+      "date_modified": "2016-04-20T08:18:51.495685-07:00",
+      "year_rated": 1991,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1118/?format=json",
+      "id": 1118,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5556/?format=json",
+        "id": 5556,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Wofford College",
+        "ein": 570314422
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1342/?format=json",
+      "date_created": "2016-04-20T08:18:51.512644-07:00",
+      "date_modified": "2016-04-20T08:18:51.512666-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1956
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1119/?format=json",
+      "id": 1119,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6050/?format=json",
+        "id": 6050,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "George Washington University",
+        "ein": 530196584
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1342/?format=json",
+      "date_created": "2016-04-20T08:18:51.550621-07:00",
+      "date_modified": "2016-04-20T08:18:51.550659-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1961
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/8152/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8153/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8154/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8155/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8156/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1348/?format=json",
+      "id": 1348,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1342/?format=json",
+      "date_created": "2016-04-20T08:18:51.462784-07:00",
+      "date_modified": "2016-04-20T08:18:51.462809-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1981-11-13",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:51.430403-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 956,
+  "slug": "clyde-h-hamilton",
+  "name_first": "Clyde",
+  "name_middle": "H.",
+  "name_last": "Hamilton",
+  "name_suffix": "",
+  "date_dob": "1934-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Edgefield",
+  "dob_state": "SC",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

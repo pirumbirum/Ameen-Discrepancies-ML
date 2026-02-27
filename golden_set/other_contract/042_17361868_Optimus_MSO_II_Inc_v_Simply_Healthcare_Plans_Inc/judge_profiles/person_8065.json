@@ -1,0 +1,58 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8065/?format=json",
+  "id": 8065,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3814/?format=json",
+      "id": 3814,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8065/?format=json",
+      "date_created": "2016-04-20T08:28:48.811565-07:00",
+      "date_modified": "2016-04-20T08:28:48.811591-07:00",
+      "url": "http://judgepedia.org/Timothy_Cannon",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3815/?format=json",
+      "id": 3815,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8065/?format=json",
+      "date_created": "2016-04-20T08:28:48.815763-07:00",
+      "date_modified": "2016-04-20T08:28:48.815789-07:00",
+      "url": "",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33020/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:48.796312-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "timothy-p-cannon",
+  "name_first": "Timothy",
+  "name_middle": "P.",
+  "name_last": "Cannon",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

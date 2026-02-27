@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14083/?format=json",
+  "id": 14083,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8380/?format=json",
+      "id": 8380,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14083/?format=json",
+      "date_created": "2022-02-23T09:57:44.329130-08:00",
+      "date_modified": "2022-02-23T09:57:44.329152-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-23",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8381/?format=json",
+      "id": 8381,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14083/?format=json",
+      "date_created": "2022-02-23T09:57:44.334012-08:00",
+      "date_modified": "2022-02-23T09:57:44.334034-08:00",
+      "url": "https://ballotpedia.org/Maame_Ewusi-Mensah_Frimpong",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8382/?format=json",
+      "id": 8382,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14083/?format=json",
+      "date_created": "2022-02-23T09:57:44.339412-08:00",
+      "date_modified": "2022-02-23T09:57:44.339433-08:00",
+      "url": "https://www.martindale.com/attorney/maame-ewusi-mensah-frimpong-168686438/",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8383/?format=json",
+      "id": 8383,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14083/?format=json",
+      "date_created": "2022-02-23T09:57:44.343481-08:00",
+      "date_modified": "2022-02-23T09:57:44.343502-08:00",
+      "url": "https://trellis.law/judge/maame.ewusi.mensah.frimpong",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8384/?format=json",
+      "id": 8384,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14083/?format=json",
+      "date_created": "2022-02-23T09:57:44.351590-08:00",
+      "date_modified": "2022-02-23T09:57:44.351613-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-23",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7915/?format=json",
+      "id": 7915,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14083/?format=json",
+      "date_created": "2022-02-23T09:57:44.301631-08:00",
+      "date_modified": "2022-02-23T09:57:44.301656-08:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A. Social Science, concentration: History & Science",
+      "degree_year": 1997
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7916/?format=json",
+      "id": 7916,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14083/?format=json",
+      "date_created": "2022-02-23T09:57:44.310223-08:00",
+      "date_modified": "2022-02-23T09:57:44.310246-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2001
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43762/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5697/?format=json",
+      "id": 5697,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14083/?format=json",
+      "date_created": "2022-02-23T09:57:44.317370-08:00",
+      "date_modified": "2022-02-23T09:57:44.317393-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5698/?format=json",
+      "id": 5698,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14083/?format=json",
+      "date_created": "2022-02-23T09:57:44.325202-08:00",
+      "date_modified": "2022-02-23T09:57:44.325225-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:07.376545-07:00",
+  "date_modified": "2022-03-19T11:24:33.182348-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "maame-ewusi-mensah-frimpong",
+  "name_first": "Maame",
+  "name_middle": "Ewusi-Mensah",
+  "name_last": "Frimpong",
+  "name_suffix": "",
+  "date_dob": "1976-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

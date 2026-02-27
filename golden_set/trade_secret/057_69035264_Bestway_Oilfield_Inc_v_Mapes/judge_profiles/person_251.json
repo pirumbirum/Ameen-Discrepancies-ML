@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/251/?format=json",
+  "id": 251,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/140/?format=json",
+      "id": 140,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/251/?format=json",
+      "date_created": "2016-04-20T08:16:21.614528-07:00",
+      "date_modified": "2016-04-20T08:16:21.614549-07:00",
+      "year_rated": 1972,
+      "rating": "ewq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/1375/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1376/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1377/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1378/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1379/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1380/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1381/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/1382/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/253/?format=json",
+      "id": 253,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/251/?format=json",
+      "date_created": "2016-04-20T08:16:21.609007-07:00",
+      "date_modified": "2016-04-20T08:16:21.609032-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1972-05-22",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:21.577253-07:00",
+  "date_modified": "2020-11-25T08:30:18.202253-08:00",
+  "date_completed": null,
+  "fjc_id": 155,
+  "slug": "marion-tinsley-bennett",
+  "name_first": "Marion",
+  "name_middle": "Tinsley",
+  "name_last": "Bennett",
+  "name_suffix": "",
+  "date_dob": "1914-06-06",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2000-09-06",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Buffalo",
+  "dob_state": "MO",
+  "dob_country": "United States",
+  "dod_city": "Alexandria",
+  "dod_state": "VA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

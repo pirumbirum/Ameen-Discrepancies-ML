@@ -1,0 +1,153 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14201/?format=json",
+  "id": 14201,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8259/?format=json",
+      "id": 8259,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14201/?format=json",
+      "date_created": "2022-02-22T17:10:49.399823-08:00",
+      "date_modified": "2022-02-22T17:10:49.399849-08:00",
+      "url": "https://www.martindale.com/attorney/eric-robert-fleming-228557/",
+      "date_accessed": "2022-02-22",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8260/?format=json",
+      "id": 8260,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14201/?format=json",
+      "date_created": "2022-02-22T17:10:49.408038-08:00",
+      "date_modified": "2022-02-22T17:10:49.408064-08:00",
+      "url": "https://ballotpedia.org/Eric_Fleming",
+      "date_accessed": "2022-02-22",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8261/?format=json",
+      "id": 8261,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14201/?format=json",
+      "date_created": "2022-02-22T17:10:49.416727-08:00",
+      "date_modified": "2022-02-22T17:10:49.416753-08:00",
+      "url": "https://trellis.law/judge/eric.r.fleming",
+      "date_accessed": "2022-02-22",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8262/?format=json",
+      "id": 8262,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14201/?format=json",
+      "date_created": "2022-02-22T17:10:49.435201-08:00",
+      "date_modified": "2022-02-22T17:10:49.435227-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-22",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8258/?format=json",
+      "id": 8258,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14201/?format=json",
+      "date_created": "2022-02-22T17:10:49.390934-08:00",
+      "date_modified": "2022-03-19T10:25:23.886347-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-19",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13360/?format=json",
+      "id": 13360,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14201/?format=json",
+      "date_created": "2022-03-19T10:25:23.891323-07:00",
+      "date_modified": "2022-03-19T10:25:23.891349-07:00",
+      "url": "https://www.aristotle.com",
+      "date_accessed": "2022-03-19",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7864/?format=json",
+      "id": 7864,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3858/?format=json",
+        "id": 3858,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tulane University of Louisiana",
+        "ein": 720423889
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14201/?format=json",
+      "date_created": "2022-02-22T17:10:49.370049-08:00",
+      "date_modified": "2022-02-22T17:10:49.370084-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Science & Engineering",
+      "degree_year": 1989
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7865/?format=json",
+      "id": 7865,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5226/?format=json",
+        "id": 5226,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of San Francisco",
+        "ein": 941156628
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14201/?format=json",
+      "date_created": "2022-02-22T17:10:49.378296-08:00",
+      "date_modified": "2022-02-22T17:10:49.378324-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1995
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43885/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5661/?format=json",
+      "id": 5661,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14201/?format=json",
+      "date_created": "2022-02-22T17:10:49.385773-08:00",
+      "date_modified": "2022-02-22T17:10:49.385818-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:12.054756-07:00",
+  "date_modified": "2022-03-19T10:25:23.870436-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "eric-robert-fleming",
+  "name_first": "Eric",
+  "name_middle": "Robert",
+  "name_last": "Fleming",
+  "name_suffix": "",
+  "date_dob": "1966-09-04",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

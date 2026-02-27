@@ -1,0 +1,108 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1805/?format=json",
+  "id": 1805,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1113/?format=json",
+      "id": 1113,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1805/?format=json",
+      "date_created": "2016-04-20T08:19:58.272868-07:00",
+      "date_modified": "2016-04-20T08:19:58.272891-07:00",
+      "year_rated": 1980,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1496/?format=json",
+      "id": 1496,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1059/?format=json",
+        "id": 1059,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "DePaul University",
+        "ein": 362167048
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1805/?format=json",
+      "date_created": "2016-04-20T08:19:58.286892-07:00",
+      "date_modified": "2016-04-20T08:19:58.286921-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1961
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1497/?format=json",
+      "id": 1497,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1059/?format=json",
+        "id": 1059,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "DePaul University",
+        "ein": 362167048
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1805/?format=json",
+      "date_created": "2016-04-20T08:19:58.315327-07:00",
+      "date_modified": "2016-04-20T08:19:58.315371-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1969
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/11147/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11148/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11149/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11150/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11151/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11152/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11153/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1813/?format=json",
+      "id": 1813,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1805/?format=json",
+      "date_created": "2016-04-20T08:19:58.266953-07:00",
+      "date_modified": "2016-04-20T08:19:58.266978-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1980-06-02",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:58.239000-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1303,
+  "slug": "charles-petros-kocoras",
+  "name_first": "Charles",
+  "name_middle": "Petros",
+  "name_last": "Kocoras",
+  "name_suffix": "",
+  "date_dob": "1938-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Chicago",
+  "dob_state": "IL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

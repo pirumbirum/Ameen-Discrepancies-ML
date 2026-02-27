@@ -1,0 +1,50 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5463/?format=json",
+  "id": 5463,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1644/?format=json",
+      "id": 1644,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5463/?format=json",
+      "date_created": "2016-04-20T08:26:21.776461-07:00",
+      "date_modified": "2016-04-20T08:26:21.776482-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/100002145808",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27601/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27602/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27603/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:21.702641-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "alma-wilson",
+  "name_first": "Alma",
+  "name_middle": "",
+  "name_last": "Wilson",
+  "name_suffix": "",
+  "date_dob": "1917-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": "1999-07-27",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": 0.0,
+  "ftm_eid": "6566357",
+  "has_photo": false
+}

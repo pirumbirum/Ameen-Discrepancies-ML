@@ -1,0 +1,61 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2165/?format=json",
+  "id": 2165,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/13510/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13511/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13512/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13513/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13514/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13515/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13516/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13517/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/13518/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2173/?format=json",
+      "id": 2173,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2165/?format=json",
+      "date_created": "2016-04-20T08:20:50.910494-07:00",
+      "date_modified": "2016-04-20T08:20:50.910518-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1950-01-05",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:50.878666-07:00",
+  "date_modified": "2020-11-25T08:30:11.711633-08:00",
+  "date_completed": null,
+  "fjc_id": 1575,
+  "slug": "charles-francis-mclaughlin",
+  "name_first": "Charles",
+  "name_middle": "Francis",
+  "name_last": "McLaughlin",
+  "name_suffix": "",
+  "date_dob": "1887-06-19",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1976-02-05",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Lincoln",
+  "dob_state": "NE",
+  "dob_country": "United States",
+  "dod_city": "Washington",
+  "dod_state": "DC",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

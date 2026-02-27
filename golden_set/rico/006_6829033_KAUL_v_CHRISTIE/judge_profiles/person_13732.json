@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13732/?format=json",
+  "id": 13732,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12801/?format=json",
+      "id": 12801,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13732/?format=json",
+      "date_created": "2022-03-15T14:52:05.626290-07:00",
+      "date_modified": "2022-03-15T14:52:05.626314-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-15",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12802/?format=json",
+      "id": 12802,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13732/?format=json",
+      "date_created": "2022-03-15T14:52:05.635354-07:00",
+      "date_modified": "2022-03-15T14:52:05.635378-07:00",
+      "url": "https://ballotpedia.org/Carlos_Vazquez_(California_judge)",
+      "date_accessed": "2022-03-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12803/?format=json",
+      "id": 12803,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13732/?format=json",
+      "date_created": "2022-03-15T14:52:05.639588-07:00",
+      "date_modified": "2022-03-15T14:52:05.639612-07:00",
+      "url": "https://www.martindale.com/attorney/carlos-enrique-vazquez-155864/",
+      "date_accessed": "2022-03-15",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12804/?format=json",
+      "id": 12804,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13732/?format=json",
+      "date_created": "2022-03-15T14:52:05.648705-07:00",
+      "date_modified": "2022-03-15T14:52:05.648729-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-15",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9964/?format=json",
+      "id": 9964,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2832/?format=json",
+        "id": 2832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-San Diego",
+        "ein": 956006144
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13732/?format=json",
+      "date_created": "2022-03-15T14:52:05.605592-07:00",
+      "date_modified": "2022-03-15T14:52:05.605631-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9965/?format=json",
+      "id": 9965,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13732/?format=json",
+      "date_created": "2022-03-15T14:52:05.618399-07:00",
+      "date_modified": "2022-03-15T14:52:05.618422-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43336/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7055/?format=json",
+      "id": 7055,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13732/?format=json",
+      "date_created": "2022-03-15T14:52:05.584345-07:00",
+      "date_modified": "2022-03-15T14:52:05.584371-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7056/?format=json",
+      "id": 7056,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13732/?format=json",
+      "date_created": "2022-03-15T14:52:05.595326-07:00",
+      "date_modified": "2022-03-15T14:52:05.595365-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:51.899070-07:00",
+  "date_modified": "2022-03-23T12:23:52.251804-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "carlos-enrique-vazquez",
+  "name_first": "Carlos",
+  "name_middle": "Enrique",
+  "name_last": "Vazquez",
+  "name_suffix": "",
+  "date_dob": "1964-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

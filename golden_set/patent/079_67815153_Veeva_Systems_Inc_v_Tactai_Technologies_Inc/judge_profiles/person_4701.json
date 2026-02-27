@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4701/?format=json",
+  "id": 4701,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/874/?format=json",
+      "id": 874,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4701/?format=json",
+      "date_created": "2016-04-20T08:25:21.435661-07:00",
+      "date_modified": "2016-04-20T08:25:21.435683-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/100002532097",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/875/?format=json",
+      "id": 875,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4701/?format=json",
+      "date_created": "2016-04-20T08:25:21.440719-07:00",
+      "date_modified": "2016-04-20T08:25:21.440741-07:00",
+      "url": "http://en.wikipedia.org/wiki/Robert_C._Murphy",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/876/?format=json",
+      "id": 876,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4701/?format=json",
+      "date_created": "2016-04-20T08:25:21.444782-07:00",
+      "date_modified": "2016-04-20T08:25:21.444804-07:00",
+      "url": "http://msa.maryland.gov/msa/mdmanual/29ap/former/html/msa01525.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25397/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25398/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25399/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:21.375577-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "robert-c-murphy",
+  "name_first": "Robert",
+  "name_middle": "C.",
+  "name_last": "Murphy",
+  "name_suffix": "",
+  "date_dob": "1926-10-09",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2000-10-31",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

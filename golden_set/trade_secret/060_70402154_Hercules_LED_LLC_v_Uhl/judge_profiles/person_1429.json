@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1429/?format=json",
+  "id": 1429,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/878/?format=json",
+      "id": 878,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1429/?format=json",
+      "date_created": "2016-04-20T08:19:03.475474-07:00",
+      "date_modified": "2016-04-20T08:19:03.475496-07:00",
+      "year_rated": 1980,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/8699/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8700/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8701/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8702/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8703/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8704/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8705/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8706/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1436/?format=json",
+      "id": 1436,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1429/?format=json",
+      "date_created": "2016-04-20T08:19:03.468529-07:00",
+      "date_modified": "2016-04-20T08:19:03.468552-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1980-05-09",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:03.438215-07:00",
+  "date_modified": "2020-11-25T08:30:20.795811-08:00",
+  "date_completed": null,
+  "fjc_id": 1024,
+  "slug": "thelton-eugene-henderson",
+  "name_first": "Thelton",
+  "name_middle": "Eugene",
+  "name_last": "Henderson",
+  "name_suffix": "",
+  "date_dob": "1933-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Shreveport",
+  "dob_state": "LA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

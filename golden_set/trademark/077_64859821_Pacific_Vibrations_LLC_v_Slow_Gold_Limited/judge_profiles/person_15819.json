@@ -1,0 +1,168 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15819/?format=json",
+  "id": 15819,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18684/?format=json",
+      "id": 18684,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15819/?format=json",
+      "date_created": "2022-07-14T15:36:30.253774-07:00",
+      "date_modified": "2022-07-14T15:36:30.253785-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-14",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18685/?format=json",
+      "id": 18685,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15819/?format=json",
+      "date_created": "2022-07-14T15:55:24.909782-07:00",
+      "date_modified": "2022-07-14T15:55:24.909795-07:00",
+      "url": "https://trellis.law/judge/leticia.lopez",
+      "date_accessed": "2022-07-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18686/?format=json",
+      "id": 18686,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15819/?format=json",
+      "date_created": "2022-07-14T15:55:24.914357-07:00",
+      "date_modified": "2022-07-14T15:55:24.914370-07:00",
+      "url": "https://www.hidalgocounty.us/directory.aspx?EID=3221",
+      "date_accessed": "2022-07-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18687/?format=json",
+      "id": 18687,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15819/?format=json",
+      "date_created": "2022-07-14T15:55:24.914890-07:00",
+      "date_modified": "2022-07-14T15:55:24.914904-07:00",
+      "url": "https://www.linkedin.com/in/letty-lopez-a51550a8/",
+      "date_accessed": "2022-07-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18688/?format=json",
+      "id": 18688,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15819/?format=json",
+      "date_created": "2022-07-14T15:55:24.915393-07:00",
+      "date_modified": "2022-07-14T15:55:24.915405-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=22049&office=19608",
+      "date_accessed": "2022-07-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18689/?format=json",
+      "id": 18689,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15819/?format=json",
+      "date_created": "2022-07-14T15:55:24.915851-07:00",
+      "date_modified": "2022-07-14T15:55:24.915863-07:00",
+      "url": "http://affiliates.tyla.org/tyla/judicialdirectory/judicial_contact.cfm?new=1&judgeID=19874&CourtID=3223",
+      "date_accessed": "2022-07-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18690/?format=json",
+      "id": 18690,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15819/?format=json",
+      "date_created": "2022-07-14T15:55:24.916346-07:00",
+      "date_modified": "2022-07-14T15:55:24.916357-07:00",
+      "url": "",
+      "date_accessed": "2022-07-14",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12271/?format=json",
+      "id": 12271,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1791/?format=json",
+        "id": 1791,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas-Pan American",
+        "ein": 746002942
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15819/?format=json",
+      "date_created": "2022-07-14T15:36:30.237108-07:00",
+      "date_modified": "2022-07-14T15:36:30.237131-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Business Administration",
+      "degree_year": 1985
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12272/?format=json",
+      "id": 12272,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15819/?format=json",
+      "date_created": "2022-07-14T15:36:30.245988-07:00",
+      "date_modified": "2022-07-14T15:36:30.246002-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1988
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50887/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50888/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50889/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50890/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50891/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50892/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8271/?format=json",
+      "id": 8271,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15819/?format=json",
+      "date_created": "2022-07-14T15:36:30.248921-07:00",
+      "date_modified": "2022-07-14T15:36:30.248937-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-14T15:36:30.216519-07:00",
+  "date_modified": "2022-07-14T15:57:07.033537-07:00",
+  "date_completed": "2022-07-14T15:34:15-07:00",
+  "fjc_id": null,
+  "slug": "leticia-lopez",
+  "name_first": "Leticia",
+  "name_middle": "",
+  "name_last": "Lopez",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

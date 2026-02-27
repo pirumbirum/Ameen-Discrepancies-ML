@@ -1,0 +1,69 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2960/?format=json",
+  "id": 2960,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1865/?format=json",
+      "id": 1865,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2960/?format=json",
+      "date_created": "2016-04-20T08:22:40.900307-07:00",
+      "date_modified": "2016-04-20T08:22:40.900328-07:00",
+      "year_rated": 1990,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/18563/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18564/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18565/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18566/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18567/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18568/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/18562/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2972/?format=json",
+      "id": 2972,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2960/?format=json",
+      "date_created": "2016-04-20T08:22:40.894266-07:00",
+      "date_modified": "2016-04-20T08:22:40.894291-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1990-08-03",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:40.856817-07:00",
+  "date_modified": "2020-11-25T08:30:10.716007-08:00",
+  "date_completed": null,
+  "fjc_id": 2185,
+  "slug": "william-b-shubb",
+  "name_first": "William",
+  "name_middle": "B.",
+  "name_last": "Shubb",
+  "name_suffix": "",
+  "date_dob": "1938-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Oakland",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

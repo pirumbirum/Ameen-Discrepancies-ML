@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12504/?format=json",
+  "id": 12504,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10840/?format=json",
+      "id": 10840,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12504/?format=json",
+      "date_created": "2022-03-07T16:48:30.834355-08:00",
+      "date_modified": "2022-03-07T16:48:30.834376-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-07",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10841/?format=json",
+      "id": 10841,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12504/?format=json",
+      "date_created": "2022-03-07T16:48:30.842798-08:00",
+      "date_modified": "2022-03-07T16:48:30.842820-08:00",
+      "url": "https://ballotpedia.org/Dennis_J._McLaughlin",
+      "date_accessed": "2022-03-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10842/?format=json",
+      "id": 10842,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12504/?format=json",
+      "date_created": "2022-03-07T16:48:30.847314-08:00",
+      "date_modified": "2022-03-07T16:48:30.847337-08:00",
+      "url": "https://www.martindale.com/attorney/dennis-james-mclaughlin-97708/",
+      "date_accessed": "2022-03-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10843/?format=json",
+      "id": 10843,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12504/?format=json",
+      "date_created": "2022-03-07T16:48:30.856186-08:00",
+      "date_modified": "2022-03-07T16:48:30.856208-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-07",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8986/?format=json",
+      "id": 8986,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5312/?format=json",
+        "id": 5312,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Santa Clara University",
+        "ein": 941156697
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12504/?format=json",
+      "date_created": "2022-03-07T16:48:30.798704-08:00",
+      "date_modified": "2022-03-07T16:48:30.798726-08:00",
+      "degree_level": "ba",
+      "degree_detail": "with honors",
+      "degree_year": 1977
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8987/?format=json",
+      "id": 8987,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5312/?format=json",
+        "id": 5312,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Santa Clara University",
+        "ein": 941156697
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12504/?format=json",
+      "date_created": "2022-03-07T16:48:30.811658-08:00",
+      "date_modified": "2022-03-07T16:48:30.811681-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1980
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/41280/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6398/?format=json",
+      "id": 6398,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12504/?format=json",
+      "date_created": "2022-03-07T16:48:30.782574-08:00",
+      "date_modified": "2022-03-07T16:48:30.782597-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6399/?format=json",
+      "id": 6399,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12504/?format=json",
+      "date_created": "2022-03-07T16:48:30.791716-08:00",
+      "date_modified": "2022-03-07T16:48:30.791739-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:09:47.573744-07:00",
+  "date_modified": "2022-03-21T10:53:47.341134-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "dennis-james-mclaughlin",
+  "name_first": "Dennis",
+  "name_middle": "James",
+  "name_last": "McLaughlin",
+  "name_suffix": "",
+  "date_dob": "1955-03-22",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "San Jose",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "ca",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,58 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/408/?format=json",
+  "id": 408,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/2410/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2411/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2412/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2413/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2414/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2409/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/411/?format=json",
+      "id": 411,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/408/?format=json",
+      "date_created": "2016-04-20T08:16:43.836180-07:00",
+      "date_modified": "2016-04-20T08:16:43.836215-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1865-12-20",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:43.801927-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 275,
+  "slug": "george-washington-brooks",
+  "name_first": "George",
+  "name_middle": "Washington",
+  "name_last": "Brooks",
+  "name_suffix": "",
+  "date_dob": "1821-03-16",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1882-01-06",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Elizabeth City",
+  "dob_state": "NC",
+  "dob_country": "United States",
+  "dod_city": "Elizabeth City",
+  "dod_state": "NC",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

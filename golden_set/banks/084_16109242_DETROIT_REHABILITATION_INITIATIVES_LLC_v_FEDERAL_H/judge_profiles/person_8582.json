@@ -1,0 +1,119 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8582/?format=json",
+  "id": 8582,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4286/?format=json",
+      "id": 4286,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8582/?format=json",
+      "date_created": "2019-09-22T15:32:07.076589-07:00",
+      "date_modified": "2019-09-22T15:32:07.076612-07:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2019-09-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2329/?format=json",
+      "id": 2329,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8582/?format=json",
+      "date_created": "2019-09-22T15:32:07.073642-07:00",
+      "date_modified": "2019-09-22T15:32:07.073664-07:00",
+      "year_rated": 2018,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6744/?format=json",
+      "id": 6744,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2261/?format=json",
+        "id": 2261,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "DePauw University",
+        "ein": 350869045
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8582/?format=json",
+      "date_created": "2019-09-22T15:32:07.091261-07:00",
+      "date_modified": "2019-09-22T15:32:07.091288-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6745/?format=json",
+      "id": 6745,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5979/?format=json",
+        "id": 5979,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Valparaiso University",
+        "ein": 350868125
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8582/?format=json",
+      "date_created": "2019-09-22T15:32:07.102704-07:00",
+      "date_modified": "2019-09-22T15:32:07.102730-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1996
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/34042/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34043/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34044/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34046/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34047/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34048/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34045/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4930/?format=json",
+      "id": 4930,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8582/?format=json",
+      "date_created": "2019-09-22T15:32:07.069173-07:00",
+      "date_modified": "2019-09-22T15:32:07.069196-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2018-04-12",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2019-09-22T15:32:07.033050-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 5375106,
+  "slug": "james-patrick-hanlon",
+  "name_first": "James",
+  "name_middle": "Patrick",
+  "name_last": "Hanlon",
+  "name_suffix": "",
+  "date_dob": "1970-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Evanston",
+  "dob_state": "IL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

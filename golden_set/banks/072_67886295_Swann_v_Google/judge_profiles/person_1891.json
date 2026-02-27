@@ -1,0 +1,104 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1891/?format=json",
+  "id": 1891,
+  "race": [
+    "a"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1168/?format=json",
+      "id": 1168,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1891/?format=json",
+      "date_created": "2016-04-20T08:20:11.467387-07:00",
+      "date_modified": "2016-04-20T08:20:11.467410-07:00",
+      "year_rated": 2011,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1570/?format=json",
+      "id": 1570,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1891/?format=json",
+      "date_created": "2016-04-20T08:20:11.482178-07:00",
+      "date_modified": "2016-04-20T08:20:11.482210-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1989
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1571/?format=json",
+      "id": 1571,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1891/?format=json",
+      "date_created": "2016-04-20T08:20:11.511956-07:00",
+      "date_modified": "2016-04-20T08:20:11.511991-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1992
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/11698/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11699/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11700/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1897/?format=json",
+      "id": 1897,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1891/?format=json",
+      "date_created": "2016-04-20T08:20:11.460435-07:00",
+      "date_modified": "2016-04-20T08:20:11.460459-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2011-11-10",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:11.428771-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3428,
+  "slug": "john-zihun-lee",
+  "name_first": "John",
+  "name_middle": "Zihun",
+  "name_last": "Lee",
+  "name_suffix": "",
+  "date_dob": "1968-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Aachen",
+  "dob_state": "",
+  "dob_country": "Germany",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,149 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2305/?format=json",
+  "id": 2305,
+  "race": [
+    "h"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1417/?format=json",
+      "id": 1417,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2305/?format=json",
+      "date_created": "2016-04-20T08:21:10.068901-07:00",
+      "date_modified": "2016-04-20T08:21:10.068923-07:00",
+      "year_rated": 1997,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1909/?format=json",
+      "id": 1909,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2305/?format=json",
+      "date_created": "2016-04-20T08:21:10.099946-07:00",
+      "date_modified": "2016-04-20T08:21:10.099976-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1970
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1910/?format=json",
+      "id": 1910,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2305/?format=json",
+      "date_created": "2016-04-20T08:21:10.128449-07:00",
+      "date_modified": "2016-04-20T08:21:10.128474-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1975
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3210/?format=json",
+      "id": 3210,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2305/?format=json",
+      "date_created": "2016-04-20T08:24:26.302950-07:00",
+      "date_modified": "2016-04-20T08:24:26.302980-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3211/?format=json",
+      "id": 3211,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6050/?format=json",
+        "id": 6050,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "George Washington University",
+        "ein": 530196584
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2305/?format=json",
+      "date_created": "2016-04-20T08:24:26.330636-07:00",
+      "date_modified": "2016-04-20T08:24:26.330665-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14399/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14400/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14401/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14402/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14403/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23223/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23224/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23225/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/39296/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/39298/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2312/?format=json",
+      "id": 2312,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2305/?format=json",
+      "date_created": "2016-04-20T08:21:10.062075-07:00",
+      "date_modified": "2016-04-20T08:21:10.062099-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1997-07-31",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:10.025536-07:00",
+  "date_modified": "2020-11-25T08:30:15.377349-08:00",
+  "date_completed": null,
+  "fjc_id": 2751,
+  "slug": "carlos-r-moreno",
+  "name_first": "Carlos",
+  "name_middle": "R.",
+  "name_last": "Moreno",
+  "name_suffix": "",
+  "date_dob": "1948-11-04",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Los Angelos",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 0.0,
+  "ftm_eid": "6558874",
+  "has_photo": true
+}

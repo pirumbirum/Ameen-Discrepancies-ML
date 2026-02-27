@@ -1,0 +1,58 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1399/?format=json",
+  "id": 1399,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/8517/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8518/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8519/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8520/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8521/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/8522/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1406/?format=json",
+      "id": 1406,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1399/?format=json",
+      "date_created": "2016-04-20T08:18:59.740490-07:00",
+      "date_modified": "2016-04-20T08:18:59.740518-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1890-08-30",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:59.699680-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1005,
+  "slug": "thomas-porter-hawley",
+  "name_first": "Thomas",
+  "name_middle": "Porter",
+  "name_last": "Hawley",
+  "name_suffix": "",
+  "date_dob": "1830-07-18",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1907-10-07",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Milan",
+  "dob_state": "IN",
+  "dob_country": "United States",
+  "dod_city": "San Francisco",
+  "dod_state": "CA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

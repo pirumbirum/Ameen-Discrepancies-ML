@@ -1,0 +1,49 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4815/?format=json",
+  "id": 4815,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1026/?format=json",
+      "id": 1026,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4815/?format=json",
+      "date_created": "2016-04-20T08:25:31.640168-07:00",
+      "date_modified": "2016-04-20T08:25:31.640196-07:00",
+      "url": "http://mn.gov/lawlib/judgebio.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25762/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25763/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:31.585607-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "frank-t-gallagher",
+  "name_first": "Frank",
+  "name_middle": "T.",
+  "name_last": "Gallagher",
+  "name_suffix": "",
+  "date_dob": "1887-07-13",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1977-05-21",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

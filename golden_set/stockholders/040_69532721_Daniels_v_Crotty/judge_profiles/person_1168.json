@@ -1,0 +1,107 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1168/?format=json",
+  "id": 1168,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/703/?format=json",
+      "id": 703,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1168/?format=json",
+      "date_created": "2016-04-20T08:18:27.220238-07:00",
+      "date_modified": "2016-04-20T08:18:27.220260-07:00",
+      "year_rated": 2014,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/968/?format=json",
+      "id": 968,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6056/?format=json",
+        "id": 6056,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Howard University",
+        "ein": 530204707
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1168/?format=json",
+      "date_created": "2016-04-20T08:18:27.237164-07:00",
+      "date_modified": "2016-04-20T08:18:27.237187-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1990
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/969/?format=json",
+      "id": 969,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6050/?format=json",
+        "id": 6050,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "George Washington University",
+        "ein": 530196584
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1168/?format=json",
+      "date_created": "2016-04-20T08:18:27.278960-07:00",
+      "date_modified": "2016-04-20T08:18:27.278997-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1993
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/7103/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7104/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7105/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7106/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7107/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7102/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1174/?format=json",
+      "id": 1174,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1168/?format=json",
+      "date_created": "2016-04-20T08:18:27.215184-07:00",
+      "date_modified": "2016-04-20T08:18:27.215208-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2014-02-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:27.187150-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3549,
+  "slug": "darrin-phillip-gayles",
+  "name_first": "Darrin",
+  "name_middle": "Phillip",
+  "name_last": "Gayles",
+  "name_suffix": "",
+  "date_dob": "1966-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Peoria",
+  "dob_state": "IL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

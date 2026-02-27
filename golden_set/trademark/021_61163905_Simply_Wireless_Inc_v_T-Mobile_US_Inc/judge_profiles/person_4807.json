@@ -1,0 +1,50 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4807/?format=json",
+  "id": 4807,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1018/?format=json",
+      "id": 1018,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4807/?format=json",
+      "date_created": "2016-04-20T08:25:30.995502-07:00",
+      "date_modified": "2016-04-20T08:25:30.995526-07:00",
+      "url": "http://mn.gov/lawlib/judgebio.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25741/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25742/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25743/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:30.897687-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "paul-h-anderson",
+  "name_first": "Paul",
+  "name_middle": "H.",
+  "name_last": "Anderson",
+  "name_suffix": "",
+  "date_dob": "1943-05-14",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 182343.21,
+  "ftm_eid": "6560558",
+  "has_photo": false
+}

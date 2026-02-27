@@ -1,0 +1,68 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/453/?format=json",
+  "id": 453,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/260/?format=json",
+      "id": 260,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/453/?format=json",
+      "date_created": "2016-04-20T08:16:49.668225-07:00",
+      "date_modified": "2016-04-20T08:16:49.668251-07:00",
+      "year_rated": 1994,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/2646/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2647/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2648/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2649/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2650/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2651/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/455/?format=json",
+      "id": 455,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/453/?format=json",
+      "date_created": "2016-04-20T08:16:49.661145-07:00",
+      "date_modified": "2016-04-20T08:16:49.661189-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1994-08-16",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:49.624306-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 310,
+  "slug": "elaine-e-bucklo",
+  "name_first": "Elaine",
+  "name_middle": "E.",
+  "name_last": "Bucklo",
+  "name_suffix": "",
+  "date_dob": "1944-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Chelsea",
+  "dob_state": "MA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

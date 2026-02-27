@@ -1,0 +1,100 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14130/?format=json",
+  "id": 14130,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8904/?format=json",
+      "id": 8904,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14130/?format=json",
+      "date_created": "2022-02-25T09:04:51.536284-08:00",
+      "date_modified": "2022-02-25T09:05:38.134369-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-25",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8906/?format=json",
+      "id": 8906,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14130/?format=json",
+      "date_created": "2022-02-25T09:05:38.140875-08:00",
+      "date_modified": "2022-02-25T09:05:38.140903-08:00",
+      "url": "https://trellis.law/judge/kenneth.r.green",
+      "date_accessed": "2022-02-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8907/?format=json",
+      "id": 8907,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14130/?format=json",
+      "date_created": "2022-02-25T09:05:38.145997-08:00",
+      "date_modified": "2022-02-25T09:05:38.146024-08:00",
+      "url": "https://ballotpedia.org/Kenneth_Green",
+      "date_accessed": "2022-02-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8908/?format=json",
+      "id": 8908,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14130/?format=json",
+      "date_created": "2022-02-25T09:05:38.155010-08:00",
+      "date_modified": "2022-02-25T09:05:38.155036-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-25",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8132/?format=json",
+      "id": 8132,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4383/?format=json",
+        "id": 4383,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Thomas Jefferson University",
+        "ein": 231352651
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14130/?format=json",
+      "date_created": "2022-02-25T09:04:51.528669-08:00",
+      "date_modified": "2022-02-25T09:04:51.528691-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43811/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:09.287465-07:00",
+  "date_modified": "2022-03-19T14:55:54.112291-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "kenneth-r-green",
+  "name_first": "Kenneth",
+  "name_middle": "R.",
+  "name_last": "Green",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

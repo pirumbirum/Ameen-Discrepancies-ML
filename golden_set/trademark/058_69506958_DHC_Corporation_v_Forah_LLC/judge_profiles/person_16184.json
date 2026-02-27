@@ -1,0 +1,155 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/16184/?format=json",
+  "id": 16184,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20596/?format=json",
+      "id": 20596,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16184/?format=json",
+      "date_created": "2022-08-09T09:19:47.726518-07:00",
+      "date_modified": "2022-08-09T09:19:47.726532-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-08-09",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20597/?format=json",
+      "id": 20597,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16184/?format=json",
+      "date_created": "2022-08-09T09:35:30.140557-07:00",
+      "date_modified": "2022-08-09T09:35:30.140601-07:00",
+      "url": "https://www.wilsonforjudge.com/about/",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20598/?format=json",
+      "id": 20598,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16184/?format=json",
+      "date_created": "2022-08-09T09:35:30.145466-07:00",
+      "date_modified": "2022-08-09T09:35:30.145519-07:00",
+      "url": "https://www.smith-county.com/Home/Components/StaffDirectory/StaffDirectory/522/146",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20599/?format=json",
+      "id": 20599,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16184/?format=json",
+      "date_created": "2022-08-09T09:35:30.147156-07:00",
+      "date_modified": "2022-08-09T09:35:30.147192-07:00",
+      "url": "https://tylerpaper.com/news/local/wilson-to-seek-second-term-as-321st-district-court-judge/article_7fc997c2-3d7c-11ec-a3b0-eb0708b6a25c.html",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20600/?format=json",
+      "id": 20600,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16184/?format=json",
+      "date_created": "2022-08-09T09:35:30.148765-07:00",
+      "date_modified": "2022-08-09T09:35:30.148813-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=22010&office=19561",
+      "date_accessed": "2022-08-09",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20601/?format=json",
+      "id": 20601,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16184/?format=json",
+      "date_created": "2022-08-09T09:35:30.150529-07:00",
+      "date_modified": "2022-08-09T09:35:30.150572-07:00",
+      "url": "",
+      "date_accessed": "2022-08-09",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12811/?format=json",
+      "id": 12811,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3012/?format=json",
+        "id": 3012,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Washington and Lee University",
+        "ein": 540505977
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16184/?format=json",
+      "date_created": "2022-08-09T09:19:47.608859-07:00",
+      "date_modified": "2022-08-09T09:19:47.608878-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1993
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12812/?format=json",
+      "id": 12812,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3164/?format=json",
+        "id": 3164,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Tech University",
+        "ein": 756002622
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16184/?format=json",
+      "date_created": "2022-08-09T09:19:47.685866-07:00",
+      "date_modified": "2022-08-09T09:19:47.685886-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1996
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/52485/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52486/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52487/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8519/?format=json",
+      "id": 8519,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16184/?format=json",
+      "date_created": "2022-08-09T09:19:47.689316-07:00",
+      "date_modified": "2022-08-09T09:19:47.689330-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-08-09T09:19:47.496551-07:00",
+  "date_modified": "2022-08-09T09:35:30.118361-07:00",
+  "date_completed": "2022-08-09T09:18:25-07:00",
+  "fjc_id": null,
+  "slug": "robert-h-wilson",
+  "name_first": "Robert",
+  "name_middle": "H.",
+  "name_last": "Wilson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Tyler",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "ca",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

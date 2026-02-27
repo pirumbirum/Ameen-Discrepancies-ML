@@ -1,0 +1,58 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/640/?format=json",
+  "id": 640,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/3835/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3836/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3837/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3838/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3839/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3834/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/645/?format=json",
+      "id": 645,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/640/?format=json",
+      "date_created": "2016-04-20T08:17:14.945364-07:00",
+      "date_modified": "2016-04-20T08:17:14.945389-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1955-06-21",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:14.917852-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 448,
+  "slug": "thurmond-clarke",
+  "name_first": "Thurmond",
+  "name_middle": "",
+  "name_last": "Clarke",
+  "name_suffix": "",
+  "date_dob": "1902-06-29",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1971-02-28",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Santa Paula",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

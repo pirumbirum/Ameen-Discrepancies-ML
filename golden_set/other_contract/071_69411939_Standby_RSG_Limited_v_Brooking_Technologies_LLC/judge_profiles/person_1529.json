@@ -1,0 +1,195 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1529/?format=json",
+  "id": 1529,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2594/?format=json",
+      "id": 2594,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1529/?format=json",
+      "date_created": "2016-04-20T08:27:26.665435-07:00",
+      "date_modified": "2016-04-20T08:27:26.665470-07:00",
+      "url": "http://www.apltwo.ct.state.az.us/courtInformation.cfm",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2595/?format=json",
+      "id": 2595,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1529/?format=json",
+      "date_created": "2016-04-20T08:27:26.671802-07:00",
+      "date_modified": "2016-04-20T08:27:26.671841-07:00",
+      "url": "http://archive.azcentral.com/ic/pdf/brewer-judge-appointments.pdf",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/938/?format=json",
+      "id": 938,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1529/?format=json",
+      "date_created": "2016-04-20T08:19:18.780462-07:00",
+      "date_modified": "2016-04-20T08:19:18.780488-07:00",
+      "year_rated": 1980,
+      "rating": "q"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/939/?format=json",
+      "id": 939,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1529/?format=json",
+      "date_created": "2016-04-20T08:19:18.805811-07:00",
+      "date_modified": "2016-04-20T08:19:18.805836-07:00",
+      "year_rated": 1980,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1272/?format=json",
+      "id": 1272,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1942/?format=json",
+        "id": 1942,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Arkansas",
+        "ein": 716003252
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1529/?format=json",
+      "date_created": "2016-04-20T08:19:18.820034-07:00",
+      "date_modified": "2016-04-20T08:19:18.820059-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1954
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3176/?format=json",
+      "id": 3176,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1942/?format=json",
+        "id": 1942,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Arkansas",
+        "ein": 716003252
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1529/?format=json",
+      "date_created": "2016-04-20T08:24:23.047941-07:00",
+      "date_modified": "2016-04-20T08:24:23.047970-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5347/?format=json",
+      "id": 5347,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2676/?format=json",
+        "id": 2676,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Lincoln University",
+        "ein": 446001089
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1529/?format=json",
+      "date_created": "2016-04-20T08:27:26.615994-07:00",
+      "date_modified": "2016-04-20T08:27:26.616018-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5348/?format=json",
+      "id": 5348,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1942/?format=json",
+        "id": 1942,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Arkansas",
+        "ein": 716003252
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1529/?format=json",
+      "date_created": "2016-04-20T08:27:26.633775-07:00",
+      "date_modified": "2016-04-20T08:27:26.633799-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9328/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9329/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9330/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9331/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9332/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9333/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9334/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9335/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9336/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23070/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29844/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29845/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29846/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1537/?format=json",
+      "id": 1537,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1529/?format=json",
+      "date_created": "2016-04-20T08:19:18.773046-07:00",
+      "date_modified": "2016-04-20T08:19:18.773076-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1980-06-02",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4743/?format=json",
+      "id": 4743,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1529/?format=json",
+      "date_created": "2016-04-20T08:27:26.658851-07:00",
+      "date_modified": "2016-04-20T08:27:26.658891-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:18.738326-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1102,
+  "slug": "george-howard-jr",
+  "name_first": "George",
+  "name_middle": "",
+  "name_last": "Howard",
+  "name_suffix": "jr",
+  "date_dob": "1924-05-13",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2007-04-21",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Pine Bluff",
+  "dob_state": "AR",
+  "dob_country": "United States",
+  "dod_city": "Pine Bluff",
+  "dod_state": "AR",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,100 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4664/?format=json",
+  "id": 4664,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/821/?format=json",
+      "id": 821,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4664/?format=json",
+      "date_created": "2016-04-20T08:25:18.871821-07:00",
+      "date_modified": "2016-04-20T08:25:18.871843-07:00",
+      "url": "http://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/011600/011654/html/11654bio.html",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3412/?format=json",
+      "id": 3412,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4664/?format=json",
+      "date_created": "2016-04-20T08:28:24.690411-07:00",
+      "date_modified": "2016-04-20T08:28:24.690429-07:00",
+      "url": "https://en.wikipedia.org/wiki/Robert_M._Bell",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3800/?format=json",
+      "id": 3800,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/369/?format=json",
+        "id": 369,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Morgan State University",
+        "ein": 526002033
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4664/?format=json",
+      "date_created": "2016-04-20T08:25:18.839751-07:00",
+      "date_modified": "2016-04-20T08:25:18.839775-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3801/?format=json",
+      "id": 3801,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4664/?format=json",
+      "date_created": "2016-04-20T08:25:18.853267-07:00",
+      "date_modified": "2016-04-20T08:25:18.853290-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25289/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25290/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25291/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32082/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:18.800904-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "robert-m-bell",
+  "name_first": "Robert",
+  "name_middle": "M.",
+  "name_last": "Bell",
+  "name_suffix": "",
+  "date_dob": "1943-07-06",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 0.0,
+  "ftm_eid": "6558801",
+  "has_photo": false
+}

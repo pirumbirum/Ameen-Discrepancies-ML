@@ -1,0 +1,141 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15340/?format=json",
+  "id": 15340,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16262/?format=json",
+      "id": 16262,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15340/?format=json",
+      "date_created": "2022-05-20T14:17:00.405448-07:00",
+      "date_modified": "2022-05-20T14:17:00.405485-07:00",
+      "url": "https://www.linkedin.com/in/mario-garcia-4a53842a/",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16263/?format=json",
+      "id": 16263,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15340/?format=json",
+      "date_created": "2022-05-20T14:17:00.435179-07:00",
+      "date_modified": "2022-05-20T14:17:00.435210-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Garcia-M.%20M.%2007.%20INS_Ini_SR_20.pdf",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16264/?format=json",
+      "id": 16264,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15340/?format=json",
+      "date_created": "2022-05-20T14:19:44.162963-07:00",
+      "date_modified": "2022-05-20T14:19:44.162995-07:00",
+      "url": "https://www.bsu.edu/news/press-center/archives/2020/12/ball-state-grad-to-become-federal-judge",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16265/?format=json",
+      "id": 16265,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15340/?format=json",
+      "date_created": "2022-05-20T14:19:44.185350-07:00",
+      "date_modified": "2022-05-20T14:19:44.185376-07:00",
+      "url": "https://www.indybar.org/?pg=IndyBarNews&blAction=showEntry&blogEntry=61172",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16266/?format=json",
+      "id": 16266,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15340/?format=json",
+      "date_created": "2022-05-20T14:19:44.207462-07:00",
+      "date_modified": "2022-05-20T14:19:44.207491-07:00",
+      "url": "https://ballotpedia.org/Mario_Garcia_(Indiana)",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16267/?format=json",
+      "id": 16267,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15340/?format=json",
+      "date_created": "2022-05-20T14:19:44.229583-07:00",
+      "date_modified": "2022-05-20T14:19:44.229609-07:00",
+      "url": "https://www.insd.uscourts.gov/content/magistrate-judge-mario-garcia",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11524/?format=json",
+      "id": 11524,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3708/?format=json",
+        "id": 3708,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Ball State University",
+        "ein": 356000221
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15340/?format=json",
+      "date_created": "2022-05-20T14:17:00.079297-07:00",
+      "date_modified": "2022-05-20T14:17:00.079327-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Criminal Justice and Criminology",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11525/?format=json",
+      "id": 11525,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/552/?format=json",
+        "id": 552,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Indiana University-Bloomington",
+        "ein": 356001673
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15340/?format=json",
+      "date_created": "2022-05-20T14:17:00.381049-07:00",
+      "date_modified": "2022-05-20T14:17:00.381089-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1999
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47754/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47755/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47756/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-05-20T14:06:23.899552-07:00",
+  "date_modified": "2022-05-20T14:23:11.757859-07:00",
+  "date_completed": "2022-05-20T13:54:09-07:00",
+  "fjc_id": null,
+  "slug": "mario-garcia",
+  "name_first": "Mario",
+  "name_middle": "",
+  "name_last": "Garcia",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

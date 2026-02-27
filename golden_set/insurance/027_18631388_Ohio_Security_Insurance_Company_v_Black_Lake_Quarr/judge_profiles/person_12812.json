@@ -1,0 +1,145 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12812/?format=json",
+  "id": 12812,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9676/?format=json",
+      "id": 9676,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12812/?format=json",
+      "date_created": "2022-03-03T10:46:38.949713-08:00",
+      "date_modified": "2022-03-03T10:46:38.949737-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-03",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9677/?format=json",
+      "id": 9677,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12812/?format=json",
+      "date_created": "2022-03-03T10:46:38.953855-08:00",
+      "date_modified": "2022-03-03T10:46:38.953878-08:00",
+      "url": "https://trellis.law/judge/gregory.w.jones",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9678/?format=json",
+      "id": 9678,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12812/?format=json",
+      "date_created": "2022-03-03T10:46:38.957545-08:00",
+      "date_modified": "2022-03-03T10:46:38.957567-08:00",
+      "url": "https://ballotpedia.org/Gregory_W._Jones",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9679/?format=json",
+      "id": 9679,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12812/?format=json",
+      "date_created": "2022-03-03T10:46:38.961247-08:00",
+      "date_modified": "2022-03-03T10:46:38.961359-08:00",
+      "url": "https://ballotpedia.org/Gregory_W._Jones",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9680/?format=json",
+      "id": 9680,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12812/?format=json",
+      "date_created": "2022-03-03T10:46:38.970750-08:00",
+      "date_modified": "2022-03-03T10:46:38.970783-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-03",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8476/?format=json",
+      "id": 8476,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12812/?format=json",
+      "date_created": "2022-03-03T10:46:38.910054-08:00",
+      "date_modified": "2022-03-03T10:46:38.910080-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1970
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8477/?format=json",
+      "id": 8477,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3117/?format=json",
+        "id": 3117,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Southern California",
+        "ein": 951642394
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12812/?format=json",
+      "date_created": "2022-03-03T10:46:38.919892-08:00",
+      "date_modified": "2022-03-03T10:46:38.920028-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1974
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42018/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44431/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44432/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6045/?format=json",
+      "id": 6045,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12812/?format=json",
+      "date_created": "2022-03-03T10:46:38.897076-08:00",
+      "date_modified": "2022-03-03T10:46:38.897112-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:07.684873-07:00",
+  "date_modified": "2022-03-20T15:42:35.830292-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "gregory-w-jones",
+  "name_first": "Gregory",
+  "name_middle": "W.",
+  "name_last": "Jones",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

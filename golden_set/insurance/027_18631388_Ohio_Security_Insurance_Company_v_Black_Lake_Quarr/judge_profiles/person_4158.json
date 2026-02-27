@@ -1,0 +1,71 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4158/?format=json",
+  "id": 4158,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3429/?format=json",
+      "id": 3429,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1886/?format=json",
+        "id": 1886,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Northwestern University",
+        "ein": 362167817
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4158/?format=json",
+      "date_created": "2016-04-20T08:24:43.589747-07:00",
+      "date_modified": "2016-04-20T08:24:43.589768-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23963/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3822/?format=json",
+      "id": 3822,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4158/?format=json",
+      "date_created": "2016-04-20T08:24:43.596420-07:00",
+      "date_modified": "2016-04-20T08:24:43.596454-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:43.565440-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jim-jones",
+  "name_first": "Jim",
+  "name_middle": "",
+  "name_last": "Jones",
+  "name_suffix": "",
+  "date_dob": "1942-05-13",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 11040.0,
+  "ftm_eid": "6622960",
+  "has_photo": false
+}

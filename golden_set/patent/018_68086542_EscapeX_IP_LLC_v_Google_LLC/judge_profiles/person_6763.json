@@ -1,0 +1,68 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6763/?format=json",
+  "id": 6763,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2837/?format=json",
+      "id": 2837,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6763/?format=json",
+      "date_created": "2016-04-20T08:27:43.620401-07:00",
+      "date_modified": "2016-04-20T08:27:43.620428-07:00",
+      "url": "http://www.law.udc.edu/?page=SBroderick",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5524/?format=json",
+      "id": 5524,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6041/?format=json",
+        "id": 6041,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "American University",
+        "ein": 530196549
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6763/?format=json",
+      "date_created": "2016-04-20T08:27:43.593602-07:00",
+      "date_modified": "2016-04-20T08:27:43.593627-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/30556/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:43.572145-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "katherine-s-broderick",
+  "name_first": "Katherine",
+  "name_middle": "S.",
+  "name_last": "Broderick",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,77 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1275/?format=json",
+  "id": 1275,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1068/?format=json",
+      "id": 1068,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4128/?format=json",
+        "id": 4128,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Oberlin College",
+        "ein": 340714363
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1275/?format=json",
+      "date_created": "2016-04-20T08:18:41.875003-07:00",
+      "date_modified": "2016-04-20T08:18:41.875026-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1879
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/7739/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7740/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7741/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7742/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7743/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1281/?format=json",
+      "id": 1281,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1275/?format=json",
+      "date_created": "2016-04-20T08:18:41.859110-07:00",
+      "date_modified": "2016-04-20T08:18:41.859134-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1928-02-20",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:41.829471-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3242,
+  "slug": "william-raymond-green",
+  "name_first": "William",
+  "name_middle": "Raymond",
+  "name_last": "Green",
+  "name_suffix": "",
+  "date_dob": "1856-11-07",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1947-06-11",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Colchester",
+  "dob_state": "CT",
+  "dob_country": "United States",
+  "dod_city": "Bellport",
+  "dod_state": "NY",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

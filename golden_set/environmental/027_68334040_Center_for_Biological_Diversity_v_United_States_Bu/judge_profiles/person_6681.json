@@ -1,0 +1,80 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6681/?format=json",
+  "id": 6681,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2766/?format=json",
+      "id": 2766,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6681/?format=json",
+      "date_created": "2016-04-20T08:27:38.055988-07:00",
+      "date_modified": "2016-04-20T08:27:38.056009-07:00",
+      "url": "http://www.courts.state.co.us/userfiles/File/Media/Judge_Appointments/2008/COA_-_Lichtenstein_3-27-08.pdf",
+      "date_accessed": null,
+      "notes": "1st"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2767/?format=json",
+      "id": 2767,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6681/?format=json",
+      "date_created": "2016-04-20T08:27:38.061004-07:00",
+      "date_modified": "2016-04-20T08:27:38.061026-07:00",
+      "url": "http://ballotpedia.org/Jose_Marquez http://www.coloradojudicialperformance.gov/retention.cfm?ret=315",
+      "date_accessed": null,
+      "notes": "1st"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5418/?format=json",
+      "id": 5418,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6681/?format=json",
+      "date_created": "2016-04-20T08:27:38.037280-07:00",
+      "date_modified": "2016-04-20T08:27:38.037304-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/30337/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30338/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30339/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:37.991025-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jose-dl-marquez",
+  "name_first": "Jose",
+  "name_middle": "D.L.",
+  "name_last": "Marquez",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

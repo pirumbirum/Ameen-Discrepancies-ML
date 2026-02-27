@@ -1,0 +1,64 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/770/?format=json",
+  "id": 770,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/462/?format=json",
+      "id": 462,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/770/?format=json",
+      "date_created": "2016-04-20T08:17:34.252489-07:00",
+      "date_modified": "2016-04-20T08:17:34.252519-07:00",
+      "year_rated": 1987,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/4646/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4647/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/776/?format=json",
+      "id": 776,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/770/?format=json",
+      "date_created": "2016-04-20T08:17:34.245566-07:00",
+      "date_modified": "2016-04-20T08:17:34.245607-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1987-07-31",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:34.212211-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 541,
+  "slug": "samuel-ray-cummings",
+  "name_first": "Samuel",
+  "name_middle": "Ray",
+  "name_last": "Cummings",
+  "name_suffix": "",
+  "date_dob": "1944-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Lubbock",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

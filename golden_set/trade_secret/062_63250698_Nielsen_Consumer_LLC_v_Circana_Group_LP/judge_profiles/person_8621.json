@@ -1,0 +1,116 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8621/?format=json",
+  "id": 8621,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4325/?format=json",
+      "id": 4325,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8621/?format=json",
+      "date_created": "2019-09-22T15:32:12.164206-07:00",
+      "date_modified": "2019-09-22T15:32:12.164231-07:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2019-09-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2368/?format=json",
+      "id": 2368,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8621/?format=json",
+      "date_created": "2019-09-22T15:32:12.160830-07:00",
+      "date_modified": "2019-09-22T15:32:12.160853-07:00",
+      "year_rated": 2017,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6818/?format=json",
+      "id": 6818,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1337/?format=json",
+        "id": 1337,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of South Carolina-Columbia",
+        "ein": 576001153
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8621/?format=json",
+      "date_created": "2019-09-22T15:32:12.180416-07:00",
+      "date_modified": "2019-09-22T15:32:12.180441-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1985
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6819/?format=json",
+      "id": 6819,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3776/?format=json",
+        "id": 3776,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Vanderbilt University",
+        "ein": 620476822
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8621/?format=json",
+      "date_created": "2019-09-22T15:32:12.194995-07:00",
+      "date_modified": "2019-09-22T15:32:12.195019-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1989
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/34354/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34355/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34356/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34357/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4969/?format=json",
+      "id": 4969,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8621/?format=json",
+      "date_created": "2019-09-22T15:32:12.156110-07:00",
+      "date_modified": "2019-09-22T15:32:12.156135-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2017-07-13",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2019-09-22T15:32:12.117271-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 4028131,
+  "slug": "thomas-lee-robinson-parker",
+  "name_first": "Thomas",
+  "name_middle": "Lee Robinson",
+  "name_last": "Parker",
+  "name_suffix": "",
+  "date_dob": "1963-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Memphis",
+  "dob_state": "TN",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,68 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/598/?format=json",
+  "id": 598,
+  "race": [
+    "a"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/350/?format=json",
+      "id": 350,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/598/?format=json",
+      "date_created": "2016-04-20T08:17:09.177215-07:00",
+      "date_modified": "2016-04-20T08:17:09.177238-07:00",
+      "year_rated": 2013,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/3544/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3545/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3546/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3547/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3548/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3549/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/603/?format=json",
+      "id": 603,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/598/?format=json",
+      "date_created": "2016-04-20T08:17:09.170183-07:00",
+      "date_modified": "2016-04-20T08:17:09.170208-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2013-02-07",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:09.139420-07:00",
+  "date_modified": "2020-11-25T08:30:16.546872-08:00",
+  "date_completed": null,
+  "fjc_id": 3486,
+  "slug": "raymond-t-chen",
+  "name_first": "Raymond",
+  "name_middle": "T.",
+  "name_last": "Chen",
+  "name_suffix": "",
+  "date_dob": "1968-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "New York",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

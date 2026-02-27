@@ -1,0 +1,51 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7492/?format=json",
+  "id": 7492,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3423/?format=json",
+      "id": 3423,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7492/?format=json",
+      "date_created": "2016-04-20T08:28:25.433961-07:00",
+      "date_modified": "2016-04-20T08:28:25.433983-07:00",
+      "url": "http://ballotpedia.org/William_B._Murphy",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/32116/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32117/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32118/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32119/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:25.385127-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "joseph-f-murphy-jr",
+  "name_first": "Joseph",
+  "name_middle": "F.",
+  "name_last": "Murphy",
+  "name_suffix": "jr",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

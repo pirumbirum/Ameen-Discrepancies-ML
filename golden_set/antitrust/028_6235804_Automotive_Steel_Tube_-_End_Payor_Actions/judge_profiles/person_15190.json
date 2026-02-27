@@ -1,0 +1,64 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15190/?format=json",
+  "id": 15190,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16055/?format=json",
+      "id": 16055,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15190/?format=json",
+      "date_created": "2022-04-21T10:37:07.638018-07:00",
+      "date_modified": "2022-04-21T10:37:07.638038-07:00",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Michael_Whalen_III",
+      "date_accessed": "2022-04-21",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44732/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7853/?format=json",
+      "id": 7853,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15190/?format=json",
+      "date_created": "2022-04-21T10:37:07.636216-07:00",
+      "date_modified": "2022-04-21T10:37:07.636235-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-21T10:37:07.615536-07:00",
+  "date_modified": "2022-04-21T10:37:07.615567-07:00",
+  "date_completed": "2022-04-21T10:33:52-07:00",
+  "fjc_id": null,
+  "slug": "thomas-michael-whalen-iii",
+  "name_first": "Thomas",
+  "name_middle": "Michael",
+  "name_last": "Whalen",
+  "name_suffix": "3",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

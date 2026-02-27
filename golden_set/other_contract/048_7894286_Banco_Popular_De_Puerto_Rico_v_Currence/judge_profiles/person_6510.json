@@ -1,0 +1,157 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6510/?format=json",
+  "id": 6510,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2667/?format=json",
+      "id": 2667,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6510/?format=json",
+      "date_created": "2016-04-20T08:27:32.453884-07:00",
+      "date_modified": "2016-04-20T08:27:32.453905-07:00",
+      "url": "http://www.apltwo.ct.state.az.us/courtInformation.cfm",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10954/?format=json",
+      "id": 10954,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6510/?format=json",
+      "date_created": "2022-03-08T11:04:07.374977-08:00",
+      "date_modified": "2022-03-08T11:04:07.375001-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10955/?format=json",
+      "id": 10955,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6510/?format=json",
+      "date_created": "2022-03-08T11:04:07.379909-08:00",
+      "date_modified": "2022-03-08T11:04:07.379933-08:00",
+      "url": "https://www.martindale.com/attorney/marla-jo-miller-236396/",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10956/?format=json",
+      "id": 10956,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6510/?format=json",
+      "date_created": "2022-03-08T11:04:07.384170-08:00",
+      "date_modified": "2022-03-08T11:04:07.384193-08:00",
+      "url": "https://ballotpedia.org/Marla_J._Miller",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10957/?format=json",
+      "id": 10957,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6510/?format=json",
+      "date_created": "2022-03-08T11:04:07.392595-08:00",
+      "date_modified": "2022-03-08T11:04:07.392619-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-08",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9048/?format=json",
+      "id": 9048,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6510/?format=json",
+      "date_created": "2022-03-08T11:04:07.338397-08:00",
+      "date_modified": "2022-03-08T11:04:07.338420-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1976
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9049/?format=json",
+      "id": 9049,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6510/?format=json",
+      "date_created": "2022-03-08T11:04:07.352336-08:00",
+      "date_modified": "2022-03-08T11:04:07.352360-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1980
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42659/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/42658/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6436/?format=json",
+      "id": 6436,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6510/?format=json",
+      "date_created": "2022-03-08T11:04:07.306487-08:00",
+      "date_modified": "2022-03-08T11:04:07.306514-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6437/?format=json",
+      "id": 6437,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6510/?format=json",
+      "date_created": "2022-03-08T11:04:07.323749-08:00",
+      "date_modified": "2022-03-08T11:04:07.323773-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:32.438642-07:00",
+  "date_modified": "2022-03-21T11:10:37.252275-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "marla-jo-miller",
+  "name_first": "Marla",
+  "name_middle": "Jo",
+  "name_last": "Miller",
+  "name_suffix": "",
+  "date_dob": "1954-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,85 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1926/?format=json",
+  "id": 1926,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1193/?format=json",
+      "id": 1193,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1926/?format=json",
+      "date_created": "2016-04-20T08:20:16.427744-07:00",
+      "date_modified": "2016-04-20T08:20:16.427765-07:00",
+      "year_rated": 2011,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1604/?format=json",
+      "id": 1604,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1250/?format=json",
+        "id": 1250,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Clemson University",
+        "ein": 576000254
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1926/?format=json",
+      "date_created": "2016-04-20T08:20:16.443674-07:00",
+      "date_modified": "2016-04-20T08:20:16.443697-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1980
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/11933/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11934/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11935/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1933/?format=json",
+      "id": 1933,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1926/?format=json",
+      "date_created": "2016-04-20T08:20:16.420855-07:00",
+      "date_modified": "2016-04-20T08:20:16.420879-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2011-03-16",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:16.389350-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3435,
+  "slug": "mary-geiger-lewis",
+  "name_first": "Mary",
+  "name_middle": "Geiger",
+  "name_last": "Lewis",
+  "name_suffix": "",
+  "date_dob": "1958-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Columbia",
+  "dob_state": "SC",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

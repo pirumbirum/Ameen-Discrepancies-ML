@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15888/?format=json",
+  "id": 15888,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18985/?format=json",
+      "id": 18985,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15888/?format=json",
+      "date_created": "2022-07-20T13:48:07.241928-07:00",
+      "date_modified": "2022-07-20T13:48:07.241945-07:00",
+      "url": "",
+      "date_accessed": "2022-07-20",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51164/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-07-20T13:48:07.228067-07:00",
+  "date_modified": "2022-07-20T13:48:07.228092-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "mark-white",
+  "name_first": "Mark",
+  "name_middle": "",
+  "name_last": "White",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

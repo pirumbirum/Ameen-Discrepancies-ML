@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13523/?format=json",
+  "id": 13523,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9639/?format=json",
+      "id": 9639,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13523/?format=json",
+      "date_created": "2022-03-03T09:54:23.655046-08:00",
+      "date_modified": "2022-03-03T09:54:23.655069-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-03",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9640/?format=json",
+      "id": 9640,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13523/?format=json",
+      "date_created": "2022-03-03T09:54:23.661448-08:00",
+      "date_modified": "2022-03-03T09:54:23.661470-08:00",
+      "url": "https://www.martindale.com/attorney/gary-michael-johnson-280838/",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9641/?format=json",
+      "id": 9641,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13523/?format=json",
+      "date_created": "2022-03-03T09:54:23.665569-08:00",
+      "date_modified": "2022-03-03T09:54:23.665592-08:00",
+      "url": "https://ballotpedia.org/Gary_M._Johnson",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9642/?format=json",
+      "id": 9642,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13523/?format=json",
+      "date_created": "2022-03-03T09:54:23.669854-08:00",
+      "date_modified": "2022-03-03T09:54:23.669876-08:00",
+      "url": "https://trellis.law/judge/gary.m.johnson",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9643/?format=json",
+      "id": 9643,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13523/?format=json",
+      "date_created": "2022-03-03T09:54:23.678581-08:00",
+      "date_modified": "2022-03-03T09:54:23.678604-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-03",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8459/?format=json",
+      "id": 8459,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1532/?format=json",
+        "id": 1532,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Davis",
+        "ein": 946036494
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13523/?format=json",
+      "date_created": "2022-03-03T09:54:23.642173-08:00",
+      "date_modified": "2022-03-03T09:54:23.642196-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1990
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8460/?format=json",
+      "id": 8460,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5646/?format=json",
+        "id": 5646,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of the Pacific",
+        "ein": 941156266
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13523/?format=json",
+      "date_created": "2022-03-03T09:54:23.650602-08:00",
+      "date_modified": "2022-03-03T09:54:23.650625-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1995
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43056/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6033/?format=json",
+      "id": 6033,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13523/?format=json",
+      "date_created": "2022-03-03T09:54:23.626583-08:00",
+      "date_modified": "2022-03-03T09:54:23.626606-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6034/?format=json",
+      "id": 6034,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13523/?format=json",
+      "date_created": "2022-03-03T09:54:23.633473-08:00",
+      "date_modified": "2022-03-03T09:54:23.633496-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:42.398865-07:00",
+  "date_modified": "2022-03-20T15:40:40.639183-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "gary-michael-johnson",
+  "name_first": "Gary",
+  "name_middle": "Michael",
+  "name_last": "Johnson",
+  "name_suffix": "",
+  "date_dob": "1968-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

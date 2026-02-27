@@ -1,0 +1,102 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12018/?format=json",
+  "id": 12018,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8359/?format=json",
+      "id": 8359,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12018/?format=json",
+      "date_created": "2022-02-23T09:42:00.650234-08:00",
+      "date_modified": "2022-02-23T09:42:00.650257-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-23",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8360/?format=json",
+      "id": 8360,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12018/?format=json",
+      "date_created": "2022-02-23T09:42:00.656731-08:00",
+      "date_modified": "2022-02-23T09:42:00.656754-08:00",
+      "url": "https://trellis.law/judge/kenneth.r.freeman",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8361/?format=json",
+      "id": 8361,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12018/?format=json",
+      "date_created": "2022-02-23T09:42:00.662830-08:00",
+      "date_modified": "2022-02-23T09:42:00.662852-08:00",
+      "url": "https://www.martindale.com/attorney/kenneth-richard-freeman-155985/",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8362/?format=json",
+      "id": 8362,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12018/?format=json",
+      "date_created": "2022-02-23T09:42:00.668190-08:00",
+      "date_modified": "2022-02-23T09:42:00.668213-08:00",
+      "url": "https://ballotpedia.org/Kenneth_R._Freeman",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8363/?format=json",
+      "id": 8363,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12018/?format=json",
+      "date_created": "2022-02-23T09:42:00.679757-08:00",
+      "date_modified": "2022-02-23T09:42:00.679779-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-23",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/40083/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5690/?format=json",
+      "id": 5690,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12018/?format=json",
+      "date_created": "2022-02-23T09:42:00.628277-08:00",
+      "date_modified": "2022-02-23T09:42:00.628314-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:09:13.846432-07:00",
+  "date_modified": "2022-02-23T09:42:00.615274-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "kenneth-richard-freeman",
+  "name_first": "Kenneth",
+  "name_middle": "Richard",
+  "name_last": "Freeman",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

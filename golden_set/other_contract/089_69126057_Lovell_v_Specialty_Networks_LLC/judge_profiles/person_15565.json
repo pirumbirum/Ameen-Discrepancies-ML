@@ -1,0 +1,184 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15565/?format=json",
+  "id": 15565,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17441/?format=json",
+      "id": 17441,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15565/?format=json",
+      "date_created": "2022-06-27T12:17:20.369586-07:00",
+      "date_modified": "2022-06-27T12:17:20.369598-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-06-27",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17442/?format=json",
+      "id": 17442,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15565/?format=json",
+      "date_created": "2022-06-27T12:21:23.966907-07:00",
+      "date_modified": "2022-06-27T12:21:23.966922-07:00",
+      "url": "https://rabeeacollierforjudge.com/meet-rabeea",
+      "date_accessed": "2022-06-27",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17443/?format=json",
+      "id": 17443,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15565/?format=json",
+      "date_created": "2022-06-27T12:21:23.968037-07:00",
+      "date_modified": "2022-06-27T12:21:23.968048-07:00",
+      "url": "https://ballotpedia.org/Rabeea_Collier",
+      "date_accessed": "2022-06-27",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17444/?format=json",
+      "id": 17444,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15565/?format=json",
+      "date_created": "2022-06-27T12:21:23.968733-07:00",
+      "date_modified": "2022-06-27T12:21:23.968744-07:00",
+      "url": "https://www.justex.net/Courts/Civil/CivilCourt.aspx?crt=5",
+      "date_accessed": "2022-06-27",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17445/?format=json",
+      "id": 17445,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15565/?format=json",
+      "date_created": "2022-06-27T12:21:23.969372-07:00",
+      "date_modified": "2022-06-27T12:21:23.969383-07:00",
+      "url": "https://www.linkedin.com/in/judgecollier/",
+      "date_accessed": "2022-06-27",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17446/?format=json",
+      "id": 17446,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15565/?format=json",
+      "date_created": "2022-06-27T12:21:23.970021-07:00",
+      "date_modified": "2022-06-27T12:21:23.970032-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=62878&office=19367",
+      "date_accessed": "2022-06-27",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17447/?format=json",
+      "id": 17447,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15565/?format=json",
+      "date_created": "2022-06-27T12:21:23.970646-07:00",
+      "date_modified": "2022-06-27T12:21:23.970656-07:00",
+      "url": "https://trellis.law/judge/rabeea.sultan.collier",
+      "date_accessed": "2022-06-27",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17448/?format=json",
+      "id": 17448,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15565/?format=json",
+      "date_created": "2022-06-27T12:21:23.971348-07:00",
+      "date_modified": "2022-06-27T12:21:23.971358-07:00",
+      "url": "https://www.transparencyusa.org/tx/candidate/rabeea-sultan-collier-jcoh",
+      "date_accessed": "2022-06-27",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17449/?format=json",
+      "id": 17449,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15565/?format=json",
+      "date_created": "2022-06-27T12:21:23.972054-07:00",
+      "date_modified": "2022-06-27T12:21:23.972064-07:00",
+      "url": "",
+      "date_accessed": "2022-06-27",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11917/?format=json",
+      "id": 11917,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2485/?format=json",
+        "id": 2485,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Southern University",
+        "ein": 746001391
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15565/?format=json",
+      "date_created": "2022-06-27T12:17:20.358807-07:00",
+      "date_modified": "2022-06-27T12:17:20.358821-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2006
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11916/?format=json",
+      "id": 11916,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15565/?format=json",
+      "date_created": "2022-06-27T12:17:20.347342-07:00",
+      "date_modified": "2022-06-27T12:25:14.503621-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Government, Political Science",
+      "degree_year": 2003
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49902/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49903/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8112/?format=json",
+      "id": 8112,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15565/?format=json",
+      "date_created": "2022-06-27T12:17:20.362377-07:00",
+      "date_modified": "2022-06-27T12:17:20.362389-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-06-27T12:17:20.255727-07:00",
+  "date_modified": "2022-06-27T12:25:14.489510-07:00",
+  "date_completed": "2022-06-27T12:13:02-07:00",
+  "fjc_id": null,
+  "slug": "rabeea-sultan-collier",
+  "name_first": "Rabeea",
+  "name_middle": "Sultan",
+  "name_last": "Collier",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Houston",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "mu",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

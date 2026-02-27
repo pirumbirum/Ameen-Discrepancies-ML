@@ -1,0 +1,69 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5617/?format=json",
+  "id": 5617,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1836/?format=json",
+      "id": 1836,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5617/?format=json",
+      "date_created": "2016-04-20T08:26:33.167745-07:00",
+      "date_modified": "2016-04-20T08:26:33.167782-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/200011140388",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4647/?format=json",
+      "id": 4647,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5617/?format=json",
+      "date_created": "2016-04-20T08:26:33.151181-07:00",
+      "date_modified": "2016-04-20T08:26:33.151224-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/28013/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28014/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:33.101991-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "charles-stearns",
+  "name_first": "Charles",
+  "name_middle": "",
+  "name_last": "Stearns",
+  "name_suffix": "",
+  "date_dob": "1866-07-27",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1946-09-03",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

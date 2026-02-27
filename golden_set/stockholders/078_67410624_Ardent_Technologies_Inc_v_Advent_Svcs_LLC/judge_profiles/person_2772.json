@@ -1,0 +1,73 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2772/?format=json",
+  "id": 2772,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1727/?format=json",
+      "id": 1727,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2772/?format=json",
+      "date_created": "2016-04-20T08:22:14.084724-07:00",
+      "date_modified": "2016-04-20T08:22:14.084746-07:00",
+      "year_rated": 2002,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/17353/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17354/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17355/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17356/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17357/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17358/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17359/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17360/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17361/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17362/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17352/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2780/?format=json",
+      "id": 2780,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2772/?format=json",
+      "date_created": "2016-04-20T08:22:14.077708-07:00",
+      "date_modified": "2016-04-20T08:22:14.077733-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2002-01-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:14.045459-07:00",
+  "date_modified": "2020-11-25T08:30:22.054919-08:00",
+  "date_completed": null,
+  "fjc_id": 2935,
+  "slug": "thomas-m-rose",
+  "name_first": "Thomas",
+  "name_middle": "M.",
+  "name_last": "Rose",
+  "name_suffix": "",
+  "date_dob": "1948-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Circleville",
+  "dob_state": "OH",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

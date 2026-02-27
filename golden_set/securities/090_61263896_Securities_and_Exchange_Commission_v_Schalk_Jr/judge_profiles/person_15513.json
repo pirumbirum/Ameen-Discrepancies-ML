@@ -1,0 +1,140 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15513/?format=json",
+  "id": 15513,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17227/?format=json",
+      "id": 17227,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15513/?format=json",
+      "date_created": "2022-06-21T17:34:03.349152-07:00",
+      "date_modified": "2022-06-21T17:34:03.349165-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-06-21",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17228/?format=json",
+      "id": 17228,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15513/?format=json",
+      "date_created": "2022-06-21T17:56:31.576409-07:00",
+      "date_modified": "2022-06-21T17:56:31.576427-07:00",
+      "url": "https://ballotpedia.org/Laurine_J._Blake",
+      "date_accessed": "2022-06-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17229/?format=json",
+      "id": 17229,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15513/?format=json",
+      "date_created": "2022-06-21T17:56:31.579630-07:00",
+      "date_modified": "2022-06-21T17:56:31.579644-07:00",
+      "url": "http://www.ntxe-news.com/cgi-bin/artman/exec/view.cgi?archive=29&num=43119",
+      "date_accessed": "2022-06-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17230/?format=json",
+      "id": 17230,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15513/?format=json",
+      "date_created": "2022-06-21T17:56:45.751046-07:00",
+      "date_modified": "2022-06-21T17:56:45.751060-07:00",
+      "url": "",
+      "date_accessed": "2022-06-21",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11848/?format=json",
+      "id": 11848,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2226/?format=json",
+        "id": 2226,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of North Dakota",
+        "ein": 456002491
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15513/?format=json",
+      "date_created": "2022-06-21T17:34:03.335863-07:00",
+      "date_modified": "2022-06-21T17:34:03.335882-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1987
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11849/?format=json",
+      "id": 11849,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1481/?format=json",
+        "id": 1481,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southern Methodist University",
+        "ein": 750800689
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15513/?format=json",
+      "date_created": "2022-06-21T17:34:03.342599-07:00",
+      "date_modified": "2022-06-21T17:34:03.342612-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1993
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49704/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49705/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49706/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49707/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49708/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49709/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49710/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49711/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8081/?format=json",
+      "id": 8081,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15513/?format=json",
+      "date_created": "2022-06-21T17:34:03.344422-07:00",
+      "date_modified": "2022-06-21T17:34:03.344434-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-06-21T17:34:03.318543-07:00",
+  "date_modified": "2022-06-21T17:56:45.744362-07:00",
+  "date_completed": "2022-06-21T17:11:04-07:00",
+  "fjc_id": null,
+  "slug": "laurine-jean-blake",
+  "name_first": "Laurine",
+  "name_middle": "Jean",
+  "name_last": "Blake",
+  "name_suffix": "",
+  "date_dob": "1964-11-21",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

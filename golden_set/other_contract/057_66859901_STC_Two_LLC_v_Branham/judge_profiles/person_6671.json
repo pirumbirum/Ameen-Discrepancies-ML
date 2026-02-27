@@ -1,0 +1,49 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6671/?format=json",
+  "id": 6671,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2759/?format=json",
+      "id": 2759,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6671/?format=json",
+      "date_created": "2016-04-20T08:27:37.362603-07:00",
+      "date_modified": "2016-04-20T08:27:37.362641-07:00",
+      "url": "http://www.mass.gov/courts/court-info/appealscourt/appeals-court-justices/justice-r-malcolm-graham.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/30312/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30313/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:37.309898-07:00",
+  "date_modified": "2020-11-25T08:30:20.127223-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "dennis-graham",
+  "name_first": "Dennis",
+  "name_middle": "",
+  "name_last": "Graham",
+  "name_suffix": "",
+  "date_dob": "1946-02-12",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

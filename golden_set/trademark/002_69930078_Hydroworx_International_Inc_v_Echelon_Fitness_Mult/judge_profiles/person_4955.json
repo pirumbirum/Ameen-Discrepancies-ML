@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4955/?format=json",
+  "id": 4955,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1152/?format=json",
+      "id": 1152,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4955/?format=json",
+      "date_created": "2016-04-20T08:25:43.766351-07:00",
+      "date_modified": "2016-04-20T08:25:43.766373-07:00",
+      "url": "http://www.courts.mo.gov/page.jsp?id=59001",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4031/?format=json",
+      "id": 4031,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5587/?format=json",
+        "id": 5587,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Drury University",
+        "ein": 440552049
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4955/?format=json",
+      "date_created": "2016-04-20T08:25:43.716655-07:00",
+      "date_modified": "2016-04-20T08:25:43.716684-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26135/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26136/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26137/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:43.664422-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "paul-c-wilson",
+  "name_first": "Paul",
+  "name_middle": "C.",
+  "name_last": "Wilson",
+  "name_suffix": "",
+  "date_dob": "1961-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 0.0,
+  "ftm_eid": "18912552",
+  "has_photo": false
+}

@@ -1,0 +1,50 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4982/?format=json",
+  "id": 4982,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1171/?format=json",
+      "id": 1171,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4982/?format=json",
+      "date_created": "2016-04-20T08:25:45.404728-07:00",
+      "date_modified": "2016-04-20T08:25:45.404750-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/100002176786",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26192/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26193/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26194/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:45.332532-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "william-e-hunt-sr",
+  "name_first": "William",
+  "name_middle": "E.",
+  "name_last": "Hunt",
+  "name_suffix": "sr",
+  "date_dob": "1923-02-28",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 14923.05,
+  "ftm_eid": "6559278",
+  "has_photo": false
+}

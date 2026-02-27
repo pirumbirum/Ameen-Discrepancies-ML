@@ -1,0 +1,52 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5462/?format=json",
+  "id": 5462,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27599/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27600/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4360/?format=json",
+      "id": 4360,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5462/?format=json",
+      "date_created": "2016-04-20T08:26:21.693050-07:00",
+      "date_modified": "2016-04-20T08:26:21.693074-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:21.622527-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "ben-t-williams",
+  "name_first": "Ben",
+  "name_middle": "T.",
+  "name_last": "Williams",
+  "name_suffix": "",
+  "date_dob": "1911-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

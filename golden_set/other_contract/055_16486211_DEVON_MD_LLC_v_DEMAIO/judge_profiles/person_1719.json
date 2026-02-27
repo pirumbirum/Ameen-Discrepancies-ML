@@ -1,0 +1,104 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1719/?format=json",
+  "id": 1719,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1055/?format=json",
+      "id": 1055,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1719/?format=json",
+      "date_created": "2016-04-20T08:19:45.757126-07:00",
+      "date_modified": "2016-04-20T08:19:45.757147-07:00",
+      "year_rated": 2014,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1419/?format=json",
+      "id": 1419,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6004/?format=json",
+        "id": 6004,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Villanova University",
+        "ein": 231352688
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1719/?format=json",
+      "date_created": "2016-04-20T08:19:45.770638-07:00",
+      "date_modified": "2016-04-20T08:19:45.770662-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1984
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1420/?format=json",
+      "id": 1420,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6004/?format=json",
+        "id": 6004,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Villanova University",
+        "ein": 231352688
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1719/?format=json",
+      "date_created": "2016-04-20T08:19:45.797465-07:00",
+      "date_modified": "2016-04-20T08:19:45.797490-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1987
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/10613/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10614/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10615/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1726/?format=json",
+      "id": 1726,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1719/?format=json",
+      "date_created": "2016-04-20T08:19:45.750395-07:00",
+      "date_modified": "2016-04-20T08:19:45.750419-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2014-06-16",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:45.718087-07:00",
+  "date_modified": "2020-11-25T08:30:21.981473-08:00",
+  "date_completed": null,
+  "fjc_id": 3572,
+  "slug": "mark-a-kearney",
+  "name_first": "Mark",
+  "name_middle": "A.",
+  "name_last": "Kearney",
+  "name_suffix": "",
+  "date_dob": "1963-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Philadelphia",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

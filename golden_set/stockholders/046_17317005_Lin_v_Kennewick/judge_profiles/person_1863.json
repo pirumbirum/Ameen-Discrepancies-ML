@@ -1,0 +1,126 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1863/?format=json",
+  "id": 1863,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1152/?format=json",
+      "id": 1152,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1863/?format=json",
+      "date_created": "2016-04-20T08:20:07.762052-07:00",
+      "date_modified": "2016-04-20T08:20:07.762076-07:00",
+      "year_rated": 1998,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1548/?format=json",
+      "id": 1548,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6032/?format=json",
+        "id": 6032,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Brandeis University",
+        "ein": 42103552
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1863/?format=json",
+      "date_created": "2016-04-20T08:20:07.780150-07:00",
+      "date_modified": "2016-04-20T08:20:07.780175-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1972
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1549/?format=json",
+      "id": 1549,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1886/?format=json",
+        "id": 1886,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Northwestern University",
+        "ein": 362167817
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1863/?format=json",
+      "date_created": "2016-04-20T08:20:07.796301-07:00",
+      "date_modified": "2016-04-20T08:20:07.796325-07:00",
+      "degree_level": "ma",
+      "degree_detail": "M.S.",
+      "degree_year": 1973
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1550/?format=json",
+      "id": 1550,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1886/?format=json",
+        "id": 1886,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Northwestern University",
+        "ein": 362167817
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1863/?format=json",
+      "date_created": "2016-04-20T08:20:07.814785-07:00",
+      "date_modified": "2016-04-20T08:20:07.814816-07:00",
+      "degree_level": "ma",
+      "degree_detail": "M.A.",
+      "degree_year": 1974
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/11516/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11517/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11518/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11519/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11520/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11521/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1871/?format=json",
+      "id": 1871,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1863/?format=json",
+      "date_created": "2016-04-20T08:20:07.754795-07:00",
+      "date_modified": "2016-04-20T08:20:07.754825-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1998-05-11",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:07.715342-07:00",
+  "date_modified": "2020-11-25T08:30:15.826070-08:00",
+  "date_completed": null,
+  "fjc_id": 2797,
+  "slug": "robert-s-lasnik",
+  "name_first": "Robert",
+  "name_middle": "S.",
+  "name_last": "Lasnik",
+  "name_suffix": "",
+  "date_dob": "1951-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Staten Island",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

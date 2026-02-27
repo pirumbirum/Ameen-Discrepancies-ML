@@ -1,0 +1,129 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13054/?format=json",
+  "id": 13054,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13056/?format=json",
+      "id": 13056,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13054/?format=json",
+      "date_created": "2022-03-16T11:45:10.983883-07:00",
+      "date_modified": "2022-03-16T11:45:10.983907-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13057/?format=json",
+      "id": 13057,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13054/?format=json",
+      "date_created": "2022-03-16T11:45:10.992065-07:00",
+      "date_modified": "2022-03-16T11:45:10.992090-07:00",
+      "url": "https://ballotpedia.org/Richard_S._Whitney",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13058/?format=json",
+      "id": 13058,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13054/?format=json",
+      "date_created": "2022-03-16T11:45:10.997291-07:00",
+      "date_modified": "2022-03-16T11:45:10.997315-07:00",
+      "url": "https://www.martindale.com/attorney/richard-spencer-whitney-212911/",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13059/?format=json",
+      "id": 13059,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13054/?format=json",
+      "date_created": "2022-03-16T11:45:11.001715-07:00",
+      "date_modified": "2022-03-16T11:45:11.001739-07:00",
+      "url": "https://prabook.com/web/richard.whitney/1150914",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13060/?format=json",
+      "id": 13060,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13054/?format=json",
+      "date_created": "2022-03-16T11:45:11.012873-07:00",
+      "date_modified": "2022-03-16T11:45:11.012901-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10080/?format=json",
+      "id": 10080,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5703/?format=json",
+        "id": 5703,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Puget Sound",
+        "ein": 910564961
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13054/?format=json",
+      "date_created": "2022-03-16T11:45:10.966351-07:00",
+      "date_modified": "2022-03-16T11:45:10.966382-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1980
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10081/?format=json",
+      "id": 10081,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6464/?format=json",
+        "id": 6464,
+        "is_alias_of": null,
+        "date_created": "2022-02-22T15:06:40.448526-08:00",
+        "date_modified": "2022-02-22T15:06:40.448553-08:00",
+        "name": "Western State University",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13054/?format=json",
+      "date_created": "2022-03-16T11:45:10.978273-07:00",
+      "date_modified": "2022-03-16T11:45:10.978299-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1983
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42386/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:20.091657-07:00",
+  "date_modified": "2022-03-23T16:12:50.781481-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "richard-spencer-whitney",
+  "name_first": "Richard",
+  "name_middle": "Spencer",
+  "name_last": "Whitney",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

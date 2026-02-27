@@ -1,0 +1,220 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14971/?format=json",
+  "id": 14971,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15200/?format=json",
+      "id": 15200,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14971/?format=json",
+      "date_created": "2022-04-13T12:11:51.160443-07:00",
+      "date_modified": "2022-04-13T12:11:51.160474-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-13",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15201/?format=json",
+      "id": 15201,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14971/?format=json",
+      "date_created": "2022-04-13T12:11:51.162678-07:00",
+      "date_modified": "2022-04-13T12:11:51.162698-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=gP0eFxMathDdam4p59PtHA%3D%3D",
+      "date_accessed": "2022-04-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15202/?format=json",
+      "id": 15202,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14971/?format=json",
+      "date_created": "2022-04-13T12:11:51.163804-07:00",
+      "date_modified": "2022-04-13T12:11:51.163824-07:00",
+      "url": "https://en.wikipedia.org/wiki/James_A._Murphy_III",
+      "date_accessed": "2022-04-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15203/?format=json",
+      "id": 15203,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14971/?format=json",
+      "date_created": "2022-04-13T12:11:51.164840-07:00",
+      "date_modified": "2022-04-13T12:16:09.007293-07:00",
+      "url": "https://en.wikipedia.org/wiki/James_A._Murphy_III",
+      "date_accessed": "2022-04-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15204/?format=json",
+      "id": 15204,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14971/?format=json",
+      "date_created": "2022-04-13T12:16:09.009335-07:00",
+      "date_modified": "2022-04-13T12:16:09.009358-07:00",
+      "url": "https://www.linkedin.com/in/james-murphy-iii-b535bb179/",
+      "date_accessed": "2022-04-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15205/?format=json",
+      "id": 15205,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14971/?format=json",
+      "date_created": "2022-04-13T12:16:09.011050-07:00",
+      "date_modified": "2022-04-13T12:16:09.011071-07:00",
+      "url": "https://saratogacountyda.com/about/staff/james-murphy-iii/",
+      "date_accessed": "2022-04-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15206/?format=json",
+      "id": 15206,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14971/?format=json",
+      "date_created": "2022-04-13T12:16:09.012644-07:00",
+      "date_modified": "2022-04-13T12:16:09.012665-07:00",
+      "url": "https://ballotpedia.org/James_A._Murphy_(New_York_county_court)",
+      "date_accessed": "2022-04-13",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11080/?format=json",
+      "id": 11080,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3950/?format=json",
+        "id": 3950,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Pace University-New York",
+        "ein": 135562314
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14971/?format=json",
+      "date_created": "2022-04-13T12:11:51.135726-07:00",
+      "date_modified": "2022-04-13T12:11:51.135750-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1987
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11081/?format=json",
+      "id": 11081,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3003/?format=json",
+        "id": 3003,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Bates College",
+        "ein": 10211781
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14971/?format=json",
+      "date_created": "2022-04-13T12:11:51.142084-07:00",
+      "date_modified": "2022-04-13T12:11:51.142110-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1983
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11083/?format=json",
+      "id": 11083,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6501/?format=json",
+        "id": 6501,
+        "is_alias_of": null,
+        "date_created": "2022-04-13T12:10:02.993005-07:00",
+        "date_modified": "2022-04-13T12:10:02.993037-07:00",
+        "name": "University College London",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14971/?format=json",
+      "date_created": "2022-04-13T12:11:51.151678-07:00",
+      "date_modified": "2022-04-13T12:11:51.151698-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1985
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11082/?format=json",
+      "id": 11082,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14971/?format=json",
+      "date_created": "2022-04-13T12:11:51.146568-07:00",
+      "date_modified": "2022-04-13T12:16:09.005301-07:00",
+      "degree_level": "cert",
+      "degree_detail": "Leadership",
+      "degree_year": 2011
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47304/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47305/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47306/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47307/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47308/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47309/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47310/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7636/?format=json",
+      "id": 7636,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14971/?format=json",
+      "date_created": "2022-04-13T12:11:51.154953-07:00",
+      "date_modified": "2022-04-13T12:11:51.154974-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7637/?format=json",
+      "id": 7637,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14971/?format=json",
+      "date_created": "2022-04-13T12:11:51.159062-07:00",
+      "date_modified": "2022-04-13T12:11:51.159081-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2003-01-01",
+      "date_granularity_start": "%Y",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-13T12:11:51.119483-07:00",
+  "date_modified": "2022-05-16T15:17:19.089713-07:00",
+  "date_completed": "2022-05-16T13:55:40-07:00",
+  "fjc_id": null,
+  "slug": "james-a-murphy-iii",
+  "name_first": "James",
+  "name_middle": "A.",
+  "name_last": "Murphy",
+  "name_suffix": "3",
+  "date_dob": "1961-10-13",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Saratoga Springs",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

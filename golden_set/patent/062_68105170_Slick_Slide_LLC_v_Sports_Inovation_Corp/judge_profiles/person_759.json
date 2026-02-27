@@ -1,0 +1,159 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/759/?format=json",
+  "id": 759,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2102/?format=json",
+      "id": 2102,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/759/?format=json",
+      "date_created": "2016-04-20T08:26:55.930661-07:00",
+      "date_modified": "2016-04-20T08:26:55.930682-07:00",
+      "url": "http://search.marquiswhoswho.com.ezproxy.cul.columbia.edu/profile/100036844390",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/456/?format=json",
+      "id": 456,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/759/?format=json",
+      "date_created": "2016-04-20T08:17:31.461385-07:00",
+      "date_modified": "2016-04-20T08:17:31.461407-07:00",
+      "year_rated": 2014,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/605/?format=json",
+      "id": 605,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/759/?format=json",
+      "date_created": "2016-04-20T08:17:31.476425-07:00",
+      "date_modified": "2016-04-20T08:17:31.476448-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1977
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/606/?format=json",
+      "id": 606,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/759/?format=json",
+      "date_created": "2016-04-20T08:17:31.505239-07:00",
+      "date_modified": "2016-04-20T08:17:31.505268-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1980
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4895/?format=json",
+      "id": 4895,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/759/?format=json",
+      "date_created": "2016-04-20T08:26:55.899818-07:00",
+      "date_modified": "2016-04-20T08:26:55.899841-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4896/?format=json",
+      "id": 4896,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/759/?format=json",
+      "date_created": "2016-04-20T08:26:55.914640-07:00",
+      "date_modified": "2016-04-20T08:26:55.914663-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/4567/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4568/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4569/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4570/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4571/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4572/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28757/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28758/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28759/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/765/?format=json",
+      "id": 765,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/759/?format=json",
+      "date_created": "2016-04-20T08:17:31.454276-07:00",
+      "date_modified": "2016-04-20T08:17:31.454301-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2014-05-20",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:31.423668-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3553,
+  "slug": "geoffrey-william-crawford",
+  "name_first": "Geoffrey",
+  "name_middle": "William",
+  "name_last": "Crawford",
+  "name_suffix": "",
+  "date_dob": "1954-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Ann Arbor",
+  "dob_state": "MI",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

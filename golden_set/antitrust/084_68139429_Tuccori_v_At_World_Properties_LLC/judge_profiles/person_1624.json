@@ -1,0 +1,59 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1624/?format=json",
+  "id": 1624,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/9964/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9965/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9966/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9967/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9968/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9969/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/9970/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1630/?format=json",
+      "id": 1630,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1624/?format=json",
+      "date_created": "2016-04-20T08:19:32.308361-07:00",
+      "date_modified": "2016-04-20T08:19:32.308387-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1888-06-19",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:32.259757-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1170,
+  "slug": "james-graham-jenkins",
+  "name_first": "James",
+  "name_middle": "Graham",
+  "name_last": "Jenkins",
+  "name_suffix": "",
+  "date_dob": "1834-07-18",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1921-08-06",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Saratoga Springs",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "Milwaukee",
+  "dod_state": "WI",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,71 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4717/?format=json",
+  "id": 4717,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/900/?format=json",
+      "id": 900,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4717/?format=json",
+      "date_created": "2016-04-20T08:25:22.610722-07:00",
+      "date_modified": "2016-04-20T08:25:22.610760-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/100027792532",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3837/?format=json",
+      "id": 3837,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/362/?format=json",
+        "id": 362,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Johns Hopkins University",
+        "ein": 520595110
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4717/?format=json",
+      "date_created": "2016-04-20T08:25:22.567279-07:00",
+      "date_modified": "2016-04-20T08:25:22.567303-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25445/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25446/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25447/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25448/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:22.535574-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "alan-m-wilner",
+  "name_first": "Alan",
+  "name_middle": "M.",
+  "name_last": "Wilner",
+  "name_suffix": "",
+  "date_dob": "1937-01-02",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 0.0,
+  "ftm_eid": "6562422",
+  "has_photo": false
+}

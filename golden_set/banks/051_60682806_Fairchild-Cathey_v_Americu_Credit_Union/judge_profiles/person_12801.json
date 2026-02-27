@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12801/?format=json",
+  "id": 12801,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9730/?format=json",
+      "id": 9730,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12801/?format=json",
+      "date_created": "2022-03-03T12:46:31.504150-08:00",
+      "date_modified": "2022-03-03T12:46:31.504172-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-03",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9731/?format=json",
+      "id": 9731,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12801/?format=json",
+      "date_created": "2022-03-03T12:46:31.509024-08:00",
+      "date_modified": "2022-03-03T12:46:31.509044-08:00",
+      "url": "https://ballotpedia.org/Harold_E._Kahn",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9732/?format=json",
+      "id": 9732,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12801/?format=json",
+      "date_created": "2022-03-03T12:46:31.513146-08:00",
+      "date_modified": "2022-03-03T12:46:31.513168-08:00",
+      "url": "https://www.martindale.com/attorney/harold-ernest-joseph-kahn-232114/",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9733/?format=json",
+      "id": 9733,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12801/?format=json",
+      "date_created": "2022-03-03T12:46:31.517215-08:00",
+      "date_modified": "2022-03-03T12:46:31.517237-08:00",
+      "url": "https://trellis.law/judge-dashboard/1278/bio",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9734/?format=json",
+      "id": 9734,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12801/?format=json",
+      "date_created": "2022-03-03T12:46:31.525642-08:00",
+      "date_modified": "2022-03-03T12:46:31.525665-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-03",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8501/?format=json",
+      "id": 8501,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/125/?format=json",
+        "id": 125,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Amherst College",
+        "ein": 42103542
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12801/?format=json",
+      "date_created": "2022-03-03T12:46:31.491666-08:00",
+      "date_modified": "2022-03-03T12:46:31.491689-08:00",
+      "degree_level": "ba",
+      "degree_detail": "magna cum laude",
+      "degree_year": 1978
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8502/?format=json",
+      "id": 8502,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1057/?format=json",
+        "id": 1057,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Chicago",
+        "ein": 362177139
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12801/?format=json",
+      "date_created": "2022-03-03T12:46:31.499485-08:00",
+      "date_modified": "2022-03-03T12:46:31.499509-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1982
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/41989/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6063/?format=json",
+      "id": 6063,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12801/?format=json",
+      "date_created": "2022-03-03T12:46:31.478369-08:00",
+      "date_modified": "2022-03-03T12:46:31.478397-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6064/?format=json",
+      "id": 6064,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12801/?format=json",
+      "date_created": "2022-03-03T12:46:31.484557-08:00",
+      "date_modified": "2022-03-03T12:46:31.484579-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:06.908102-07:00",
+  "date_modified": "2022-03-20T15:51:27.908326-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "harold-ernest-joseph-kahn",
+  "name_first": "Harold",
+  "name_middle": "Ernest Joseph",
+  "name_last": "Kahn",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

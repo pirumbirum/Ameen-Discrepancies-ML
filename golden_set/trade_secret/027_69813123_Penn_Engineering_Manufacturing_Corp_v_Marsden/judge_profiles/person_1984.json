@@ -1,0 +1,113 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1984/?format=json",
+  "id": 1984,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1228/?format=json",
+      "id": 1228,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1984/?format=json",
+      "date_created": "2016-04-20T08:20:24.891794-07:00",
+      "date_modified": "2016-04-20T08:20:24.891818-07:00",
+      "year_rated": 1985,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1656/?format=json",
+      "id": 1656,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1984/?format=json",
+      "date_created": "2016-04-20T08:20:24.905131-07:00",
+      "date_modified": "2016-04-20T08:20:24.905156-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1949
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1657/?format=json",
+      "id": 1657,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1984/?format=json",
+      "date_created": "2016-04-20T08:20:24.933872-07:00",
+      "date_modified": "2016-04-20T08:20:24.933896-07:00",
+      "degree_level": "llb",
+      "degree_detail": "LL.B.",
+      "degree_year": 1952
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/12301/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12302/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12303/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12304/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12305/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12306/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12307/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12308/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12309/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12310/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12311/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12312/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1991/?format=json",
+      "id": 1991,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1984/?format=json",
+      "date_created": "2016-04-20T08:20:24.886374-07:00",
+      "date_modified": "2016-04-20T08:20:24.886401-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1985-06-21",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:24.850893-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1435,
+  "slug": "edmund-v-ludwig",
+  "name_first": "Edmund",
+  "name_middle": "V.",
+  "name_last": "Ludwig",
+  "name_suffix": "",
+  "date_dob": "1928-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Philadelphia",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

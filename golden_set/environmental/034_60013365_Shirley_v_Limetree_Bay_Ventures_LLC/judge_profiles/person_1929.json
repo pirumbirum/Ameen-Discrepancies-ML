@@ -1,0 +1,114 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1929/?format=json",
+  "id": 1929,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1194/?format=json",
+      "id": 1194,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1929/?format=json",
+      "date_created": "2016-04-20T08:20:16.783547-07:00",
+      "date_modified": "2016-04-20T08:20:16.783572-07:00",
+      "year_rated": 1991,
+      "rating": "wq"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1195/?format=json",
+      "id": 1195,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1929/?format=json",
+      "date_created": "2016-04-20T08:20:16.820630-07:00",
+      "date_modified": "2016-04-20T08:20:16.820665-07:00",
+      "year_rated": 1992,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1606/?format=json",
+      "id": 1606,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3394/?format=json",
+        "id": 3394,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tufts University",
+        "ein": 42103634
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1929/?format=json",
+      "date_created": "2016-04-20T08:20:16.835926-07:00",
+      "date_modified": "2016-04-20T08:20:16.835953-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1976
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1607/?format=json",
+      "id": 1607,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4461/?format=json",
+        "id": 4461,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Duquesne University",
+        "ein": 251035663
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1929/?format=json",
+      "date_created": "2016-04-20T08:20:16.866521-07:00",
+      "date_modified": "2016-04-20T08:20:16.866561-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1980
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/11945/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11946/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11947/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11948/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1936/?format=json",
+      "id": 1936,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1929/?format=json",
+      "date_created": "2016-04-20T08:20:16.776143-07:00",
+      "date_modified": "2016-04-20T08:20:16.776170-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1991-04-25",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:16.734996-07:00",
+  "date_modified": "2020-11-25T08:30:23.092052-08:00",
+  "date_completed": null,
+  "fjc_id": 1394,
+  "slug": "timothy-k-lewis",
+  "name_first": "Timothy",
+  "name_middle": "K.",
+  "name_last": "Lewis",
+  "name_suffix": "",
+  "date_dob": "1954-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Pittsburgh",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

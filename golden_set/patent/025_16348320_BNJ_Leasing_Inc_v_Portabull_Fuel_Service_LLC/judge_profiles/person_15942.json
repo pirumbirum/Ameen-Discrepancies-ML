@@ -1,0 +1,188 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15942/?format=json",
+  "id": 15942,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19289/?format=json",
+      "id": 19289,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15942/?format=json",
+      "date_created": "2022-07-25T16:16:51.980061-07:00",
+      "date_modified": "2022-07-25T16:16:51.980075-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-25",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19290/?format=json",
+      "id": 19290,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15942/?format=json",
+      "date_created": "2022-07-25T16:26:58.824030-07:00",
+      "date_modified": "2022-07-25T16:26:58.824049-07:00",
+      "url": "https://ballotpedia.org/Tonya_Parker#:~:text=Tonya%20Parker%20(Democratic%20Party)%20is,the%20Texas%20116th%20District%20Court.",
+      "date_accessed": "2022-07-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19291/?format=json",
+      "id": 19291,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15942/?format=json",
+      "date_created": "2022-07-25T16:26:58.827599-07:00",
+      "date_modified": "2022-07-25T16:26:58.827614-07:00",
+      "url": "https://judgetonyaparker.com/about-judge-parker.html",
+      "date_accessed": "2022-07-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19292/?format=json",
+      "id": 19292,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15942/?format=json",
+      "date_created": "2022-07-25T16:26:58.828734-07:00",
+      "date_modified": "2022-07-25T16:26:58.828750-07:00",
+      "url": "https://www.ali.org/members/member/436050/",
+      "date_accessed": "2022-07-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19293/?format=json",
+      "id": 19293,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15942/?format=json",
+      "date_created": "2022-07-25T16:26:58.829900-07:00",
+      "date_modified": "2022-07-25T16:26:58.829915-07:00",
+      "url": "https://www.dallascounty.org/government/courts/civil_district/116th/bio.php",
+      "date_accessed": "2022-07-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19294/?format=json",
+      "id": 19294,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15942/?format=json",
+      "date_created": "2022-07-25T16:26:58.831002-07:00",
+      "date_modified": "2022-07-25T16:26:58.831013-07:00",
+      "url": "https://law.utexas.edu/cwil-power-summit/the-hon-tonya-parker/",
+      "date_accessed": "2022-07-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19295/?format=json",
+      "id": 19295,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15942/?format=json",
+      "date_created": "2022-07-25T16:26:58.832096-07:00",
+      "date_modified": "2022-07-25T16:26:58.832111-07:00",
+      "url": "https://trellis.law/judge/tonya.parker",
+      "date_accessed": "2022-07-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19296/?format=json",
+      "id": 19296,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15942/?format=json",
+      "date_created": "2022-07-25T16:26:58.833188-07:00",
+      "date_modified": "2022-07-25T16:26:58.833200-07:00",
+      "url": "https://www.linkedin.com/in/tonya-parker-3b217a49/",
+      "date_accessed": "2022-07-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19297/?format=json",
+      "id": 19297,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15942/?format=json",
+      "date_created": "2022-07-25T16:26:58.834262-07:00",
+      "date_modified": "2022-07-25T16:26:58.834276-07:00",
+      "url": "",
+      "date_accessed": "2022-07-25",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12444/?format=json",
+      "id": 12444,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1603/?format=json",
+        "id": 1603,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of North Texas",
+        "ein": 756002149
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15942/?format=json",
+      "date_created": "2022-07-25T16:16:51.965864-07:00",
+      "date_modified": "2022-07-25T16:16:51.965888-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1994
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12445/?format=json",
+      "id": 12445,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1481/?format=json",
+        "id": 1481,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southern Methodist University",
+        "ein": 750800689
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15942/?format=json",
+      "date_created": "2022-07-25T16:16:51.972745-07:00",
+      "date_modified": "2022-07-25T16:16:51.972758-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1998
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51393/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51394/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51395/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51396/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51397/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51398/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8348/?format=json",
+      "id": 8348,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15942/?format=json",
+      "date_created": "2022-07-25T16:16:51.974612-07:00",
+      "date_modified": "2022-07-25T16:16:51.974626-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-25T16:16:51.943814-07:00",
+  "date_modified": "2022-07-25T16:26:58.815250-07:00",
+  "date_completed": "2022-07-25T16:15:50-07:00",
+  "fjc_id": null,
+  "slug": "tonya-parker",
+  "name_first": "Tonya",
+  "name_middle": "",
+  "name_last": "Parker",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,68 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/106/?format=json",
+  "id": 106,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/43/?format=json",
+      "id": 43,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/106/?format=json",
+      "date_created": "2016-04-20T08:16:01.617838-07:00",
+      "date_modified": "2016-04-20T08:16:01.617860-07:00",
+      "year_rated": 2002,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/441/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/442/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/443/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/444/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/445/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/446/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/107/?format=json",
+      "id": 107,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/106/?format=json",
+      "date_created": "2016-04-20T08:16:01.610713-07:00",
+      "date_modified": "2016-04-20T08:16:01.610737-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2002-01-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:01.577319-07:00",
+  "date_modified": "2020-11-25T08:30:20.754075-08:00",
+  "date_completed": null,
+  "fjc_id": 2928,
+  "slug": "percy-anderson",
+  "name_first": "Percy",
+  "name_middle": "",
+  "name_last": "Anderson",
+  "name_suffix": "",
+  "date_dob": "1948-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Long Beach",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

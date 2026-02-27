@@ -1,0 +1,50 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13175/?format=json",
+  "id": 13175,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13381/?format=json",
+      "id": 13381,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13175/?format=json",
+      "date_created": "2022-03-20T16:23:19.749599-07:00",
+      "date_modified": "2022-03-20T16:23:19.749629-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-20",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42570/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:25.932379-07:00",
+  "date_modified": "2022-03-20T16:23:19.724582-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "pamela-p-king",
+  "name_first": "Pamela",
+  "name_middle": "P.",
+  "name_last": "King",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

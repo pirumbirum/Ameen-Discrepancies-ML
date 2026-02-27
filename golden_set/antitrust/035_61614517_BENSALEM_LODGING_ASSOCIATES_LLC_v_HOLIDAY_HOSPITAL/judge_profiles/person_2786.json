@@ -1,0 +1,72 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2786/?format=json",
+  "id": 2786,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1740/?format=json",
+      "id": 1740,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2786/?format=json",
+      "date_created": "2016-04-20T08:22:15.907462-07:00",
+      "date_modified": "2016-04-20T08:22:15.907485-07:00",
+      "year_rated": 1970,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/17439/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17438/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17440/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17441/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17442/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17443/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17444/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17445/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17446/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17447/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2794/?format=json",
+      "id": 2794,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2786/?format=json",
+      "date_created": "2016-04-20T08:22:15.901404-07:00",
+      "date_modified": "2016-04-20T08:22:15.901431-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1970-11-30",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:15.868419-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2057,
+  "slug": "donald-roe-ross",
+  "name_first": "Donald",
+  "name_middle": "Roe",
+  "name_last": "Ross",
+  "name_suffix": "",
+  "date_dob": "1922-06-08",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2013-12-18",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Orleans",
+  "dob_state": "NE",
+  "dob_country": "United States",
+  "dod_city": "Omaha",
+  "dod_state": "NE",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

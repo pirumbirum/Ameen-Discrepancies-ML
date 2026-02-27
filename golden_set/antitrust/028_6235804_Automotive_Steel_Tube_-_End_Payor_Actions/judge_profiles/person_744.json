@@ -1,0 +1,59 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/744/?format=json",
+  "id": 744,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/4498/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4499/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4500/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4501/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4502/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4503/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4504/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/749/?format=json",
+      "id": 749,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/744/?format=json",
+      "date_created": "2016-04-20T08:17:29.610503-07:00",
+      "date_modified": "2016-04-20T08:17:29.610528-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1930-06-23",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:29.578721-07:00",
+  "date_modified": "2020-11-25T08:30:12.543087-08:00",
+  "date_completed": null,
+  "fjc_id": 523,
+  "slug": "joseph-winston-cox",
+  "name_first": "Joseph",
+  "name_middle": "Winston",
+  "name_last": "Cox",
+  "name_suffix": "",
+  "date_dob": "1875-10-19",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1939-09-09",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Bridle Creek",
+  "dob_state": "VA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

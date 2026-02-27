@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14249/?format=json",
+  "id": 14249,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13369/?format=json",
+      "id": 13369,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14249/?format=json",
+      "date_created": "2022-03-20T12:47:00.399482-07:00",
+      "date_modified": "2022-03-20T12:47:00.399509-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-20",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13370/?format=json",
+      "id": 13370,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14249/?format=json",
+      "date_created": "2022-03-20T12:49:13.839294-07:00",
+      "date_modified": "2022-03-20T12:49:13.839317-07:00",
+      "url": "https://trellis.law/judge/cynthia.m.herrera",
+      "date_accessed": "2022-03-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13371/?format=json",
+      "id": 13371,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14249/?format=json",
+      "date_created": "2022-03-20T12:49:13.843362-07:00",
+      "date_modified": "2022-03-20T12:49:13.843385-07:00",
+      "url": "http://www.virtualonlineeditions.com/publication/?i=668195&article_id=3728410&view=articleBrowser&ver=html5",
+      "date_accessed": "2022-03-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13372/?format=json",
+      "id": 13372,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14249/?format=json",
+      "date_created": "2022-03-20T12:49:13.847152-07:00",
+      "date_modified": "2022-03-20T12:49:13.847173-07:00",
+      "url": "https://www.gravesandking.com/team/cynthia-m-herrera/",
+      "date_accessed": null,
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10212/?format=json",
+      "id": 10212,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3104/?format=json",
+        "id": 3104,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Loyola Marymount University",
+        "ein": 951643334
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14249/?format=json",
+      "date_created": "2022-03-20T12:47:00.388724-07:00",
+      "date_modified": "2022-03-20T12:47:00.388750-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10213/?format=json",
+      "id": 10213,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2588/?format=json",
+        "id": 2588,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Irvine",
+        "ein": 952226406
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14249/?format=json",
+      "date_created": "2022-03-20T12:49:13.832440-07:00",
+      "date_modified": "2022-03-20T12:49:13.832498-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43937/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7242/?format=json",
+      "id": 7242,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14249/?format=json",
+      "date_created": "2022-03-20T12:47:00.375156-07:00",
+      "date_modified": "2022-03-20T12:47:00.375183-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7243/?format=json",
+      "id": 7243,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14249/?format=json",
+      "date_created": "2022-03-20T12:47:00.381758-07:00",
+      "date_modified": "2022-03-20T12:47:00.381799-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:14.064850-07:00",
+  "date_modified": "2022-03-20T12:49:13.816233-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "cynthia-m-herrera",
+  "name_first": "Cynthia",
+  "name_middle": "M.",
+  "name_last": "Herrera",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

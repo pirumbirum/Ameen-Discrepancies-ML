@@ -1,0 +1,88 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3930/?format=json",
+  "id": 3930,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11604/?format=json",
+      "id": 11604,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3930/?format=json",
+      "date_created": "2022-03-10T10:33:44.517502-08:00",
+      "date_modified": "2022-03-10T10:33:44.517531-08:00",
+      "url": "https://ballotpedia.org/Joseph_R._Quinn",
+      "date_accessed": "2022-03-10",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11605/?format=json",
+      "id": 11605,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3930/?format=json",
+      "date_created": "2022-03-10T10:33:44.522886-08:00",
+      "date_modified": "2022-03-10T10:33:44.522909-08:00",
+      "url": "https://prabook.com/web/joseph_r.quinn/929484",
+      "date_accessed": "2022-03-10",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11606/?format=json",
+      "id": 11606,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3930/?format=json",
+      "date_created": "2022-03-10T10:33:44.533696-08:00",
+      "date_modified": "2022-03-10T10:33:44.533726-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-10",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3261/?format=json",
+      "id": 3261,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3813/?format=json",
+        "id": 3813,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Rutgers University-New Brunswick",
+        "ein": 226001086
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3930/?format=json",
+      "date_created": "2016-04-20T08:24:30.506376-07:00",
+      "date_modified": "2016-04-20T08:24:30.506405-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23426/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:30.481505-07:00",
+  "date_modified": "2022-03-10T10:33:44.475991-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "joseph-r-quinn",
+  "name_first": "Joseph",
+  "name_middle": "R.",
+  "name_last": "Quinn",
+  "name_suffix": "",
+  "date_dob": "1932-03-14",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

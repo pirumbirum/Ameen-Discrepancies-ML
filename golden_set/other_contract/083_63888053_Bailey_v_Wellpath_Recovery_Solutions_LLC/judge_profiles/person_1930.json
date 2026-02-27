@@ -1,0 +1,43 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1930/?format=json",
+  "id": 1930,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/11949/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11950/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11951/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11952/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11953/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:16.901030-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1395,
+  "slug": "william-lewis",
+  "name_first": "William",
+  "name_middle": "",
+  "name_last": "Lewis",
+  "name_suffix": "",
+  "date_dob": "1752-01-22",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1819-08-16",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Edgemont",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "Philadelphia",
+  "dod_state": "PA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,131 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12667/?format=json",
+  "id": 12667,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9919/?format=json",
+      "id": 9919,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12667/?format=json",
+      "date_created": "2022-03-04T11:46:11.560978-08:00",
+      "date_modified": "2022-03-04T11:46:11.560999-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-04",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9920/?format=json",
+      "id": 9920,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12667/?format=json",
+      "date_created": "2022-03-04T11:46:11.565752-08:00",
+      "date_modified": "2022-03-04T11:46:11.565806-08:00",
+      "url": "https://trellis.law/judge-dashboard/491/bio",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9921/?format=json",
+      "id": 9921,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12667/?format=json",
+      "date_created": "2022-03-04T11:46:11.569950-08:00",
+      "date_modified": "2022-03-04T11:46:11.569972-08:00",
+      "url": "https://ballotpedia.org/Mark_Kim",
+      "date_accessed": "2022-03-04",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9922/?format=json",
+      "id": 9922,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12667/?format=json",
+      "date_created": "2022-03-04T11:46:11.576991-08:00",
+      "date_modified": "2022-03-04T11:46:11.577012-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-04",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8583/?format=json",
+      "id": 8583,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12667/?format=json",
+      "date_created": "2022-03-04T11:46:11.528166-08:00",
+      "date_modified": "2022-03-04T11:46:11.528188-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1985
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8584/?format=json",
+      "id": 8584,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2624/?format=json",
+        "id": 2624,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Cornell University",
+        "ein": 150532082
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12667/?format=json",
+      "date_created": "2022-03-04T11:46:11.536272-08:00",
+      "date_modified": "2022-03-04T11:46:11.536294-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1988
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44442/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6120/?format=json",
+      "id": 6120,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12667/?format=json",
+      "date_created": "2022-03-04T11:46:11.520171-08:00",
+      "date_modified": "2022-03-04T11:46:11.520194-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:09:59.115051-07:00",
+  "date_modified": "2022-03-04T11:46:11.508882-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "mark-c-kim",
+  "name_first": "Mark",
+  "name_middle": "C.",
+  "name_last": "Kim",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

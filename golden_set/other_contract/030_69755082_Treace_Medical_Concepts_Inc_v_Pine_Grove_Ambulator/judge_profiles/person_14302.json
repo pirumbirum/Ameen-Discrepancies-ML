@@ -1,0 +1,50 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14302/?format=json",
+  "id": 14302,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13395/?format=json",
+      "id": 13395,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14302/?format=json",
+      "date_created": "2022-03-21T12:49:02.858645-07:00",
+      "date_modified": "2022-03-21T12:49:02.858672-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-21",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43991/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:16.131026-07:00",
+  "date_modified": "2022-03-21T12:49:02.836154-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "anne-k-richardson",
+  "name_first": "Anne",
+  "name_middle": "K.",
+  "name_last": "Richardson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

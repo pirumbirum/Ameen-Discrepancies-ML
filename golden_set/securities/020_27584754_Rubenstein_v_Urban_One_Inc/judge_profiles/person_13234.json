@@ -1,0 +1,176 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13234/?format=json",
+  "id": 13234,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6803/?format=json",
+      "id": 6803,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13234/?format=json",
+      "date_created": "2022-02-13T07:36:59.868015-08:00",
+      "date_modified": "2022-02-13T07:36:59.868038-08:00",
+      "url": "https://www.martindale.com/attorney/gerald-jay-buchwald-192750/",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6825/?format=json",
+      "id": 6825,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13234/?format=json",
+      "date_created": "2022-02-13T08:52:20.521817-08:00",
+      "date_modified": "2022-02-13T09:28:30.350892-08:00",
+      "url": "https://trellis.law/judge/gary.m.bubis",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6859/?format=json",
+      "id": 6859,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13234/?format=json",
+      "date_created": "2022-02-13T10:26:55.020923-08:00",
+      "date_modified": "2022-02-13T13:28:13.836277-08:00",
+      "url": "https://ballotpedia.org/Gerald_J._Buchwald",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6842/?format=json",
+      "id": 6842,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13234/?format=json",
+      "date_created": "2022-02-13T09:28:30.359787-08:00",
+      "date_modified": "2022-02-13T10:26:55.012489-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-13",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6899/?format=json",
+      "id": 6899,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13234/?format=json",
+      "date_created": "2022-02-13T13:28:13.842066-08:00",
+      "date_modified": "2022-02-13T13:28:13.842089-08:00",
+      "url": "https://www.sanmateocourt.org/general_info/judges/judicial_profiles.php",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6900/?format=json",
+      "id": 6900,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13234/?format=json",
+      "date_created": "2022-02-13T13:28:13.847164-08:00",
+      "date_modified": "2022-02-13T13:28:13.847186-08:00",
+      "url": "https://www.bloomberg.com/profile/person/18693139",
+      "date_accessed": "2022-02-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6901/?format=json",
+      "id": 6901,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13234/?format=json",
+      "date_created": "2022-02-13T13:28:13.853865-08:00",
+      "date_modified": "2022-02-13T13:28:13.853889-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-13",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7295/?format=json",
+      "id": 7295,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1886/?format=json",
+        "id": 1886,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Northwestern University",
+        "ein": 362167817
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13234/?format=json",
+      "date_created": "2022-02-13T07:36:59.854929-08:00",
+      "date_modified": "2022-02-13T07:36:59.854957-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1970
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7296/?format=json",
+      "id": 7296,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1886/?format=json",
+        "id": 1886,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Northwestern University",
+        "ein": 362167817
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13234/?format=json",
+      "date_created": "2022-02-13T07:36:59.863498-08:00",
+      "date_modified": "2022-02-13T07:36:59.863523-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1973
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42670/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5267/?format=json",
+      "id": 5267,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13234/?format=json",
+      "date_created": "2022-02-13T08:52:20.509854-08:00",
+      "date_modified": "2022-02-13T08:52:20.509894-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5275/?format=json",
+      "id": 5275,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13234/?format=json",
+      "date_created": "2022-02-13T09:28:30.346203-08:00",
+      "date_modified": "2022-02-13T09:28:30.346231-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:28.992732-07:00",
+  "date_modified": "2022-02-13T13:28:13.824937-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "gerald-jay-buchwald",
+  "name_first": "Gerald",
+  "name_middle": "Jay",
+  "name_last": "Buchwald",
+  "name_suffix": "",
+  "date_dob": "1948-01-14",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "San Francisco",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

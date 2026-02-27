@@ -1,0 +1,129 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14476/?format=json",
+  "id": 14476,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8595/?format=json",
+      "id": 8595,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14476/?format=json",
+      "date_created": "2022-02-23T19:39:49.714100-08:00",
+      "date_modified": "2022-02-23T19:39:49.714122-08:00",
+      "url": "https://www.mied.uscourts.gov/index.cfm?pageFunction=chambers&judgeid=54#:~:text=Altman%20was%20sworn%20in%20as,University%20Law%20School%20in%201995.",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8596/?format=json",
+      "id": 8596,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14476/?format=json",
+      "date_created": "2022-02-23T19:39:49.715782-08:00",
+      "date_modified": "2022-02-23T19:39:49.715804-08:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Altman-KG.%20M.%2006.%20MIE_SR_20.pdf",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8597/?format=json",
+      "id": 8597,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14476/?format=json",
+      "date_created": "2022-02-23T19:39:49.716988-08:00",
+      "date_modified": "2022-02-23T19:39:49.717010-08:00",
+      "url": "https://www.uscourts.gov/judicial-milestones/kimberly-g-altman",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8598/?format=json",
+      "id": 8598,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14476/?format=json",
+      "date_created": "2022-02-23T19:39:49.718163-08:00",
+      "date_modified": "2022-02-23T19:39:49.718182-08:00",
+      "url": "https://www.bloomberg.com/profile/person/21988099",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8599/?format=json",
+      "id": 8599,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14476/?format=json",
+      "date_created": "2022-02-23T19:39:49.719295-08:00",
+      "date_modified": "2022-02-23T19:39:49.719318-08:00",
+      "url": "https://ballotpedia.org/Kimberly_Altman",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7990/?format=json",
+      "id": 7990,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1764/?format=json",
+        "id": 1764,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Michigan State University",
+        "ein": 386005984
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14476/?format=json",
+      "date_created": "2022-02-23T19:39:49.708429-08:00",
+      "date_modified": "2022-02-23T19:39:49.708451-08:00",
+      "degree_level": "ba",
+      "degree_detail": "with high honor",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7991/?format=json",
+      "id": 7991,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1664/?format=json",
+        "id": 1664,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Wayne State University",
+        "ein": 686028429
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14476/?format=json",
+      "date_created": "2022-02-23T19:39:49.712826-08:00",
+      "date_modified": "2022-02-23T19:39:49.712849-08:00",
+      "degree_level": "jd",
+      "degree_detail": "magna cum laude",
+      "degree_year": 1995
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44385/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-02-23T19:39:49.687855-08:00",
+  "date_modified": "2022-02-23T19:39:49.687894-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "kimberly-g-altman",
+  "name_first": "Kimberly",
+  "name_middle": "G.",
+  "name_last": "Altman",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

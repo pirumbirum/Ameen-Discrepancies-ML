@@ -1,0 +1,75 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2764/?format=json",
+  "id": 2764,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1721/?format=json",
+      "id": 1721,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2764/?format=json",
+      "date_created": "2016-04-20T08:22:12.916896-07:00",
+      "date_modified": "2016-04-20T08:22:12.916918-07:00",
+      "year_rated": 1975,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/17289/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17290/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17291/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17292/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17293/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17294/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17295/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17296/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17297/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17298/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17299/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17300/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/17301/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2772/?format=json",
+      "id": 2772,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2764/?format=json",
+      "date_created": "2016-04-20T08:22:12.910017-07:00",
+      "date_modified": "2016-04-20T08:22:12.910041-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1975-07-15",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:12.877563-07:00",
+  "date_modified": "2020-11-25T08:30:13.727545-08:00",
+  "date_completed": null,
+  "fjc_id": 2042,
+  "slug": "richard-dean-rogers",
+  "name_first": "Richard",
+  "name_middle": "Dean",
+  "name_last": "Rogers",
+  "name_suffix": "",
+  "date_dob": "1921-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Oberlin",
+  "dob_state": "KS",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

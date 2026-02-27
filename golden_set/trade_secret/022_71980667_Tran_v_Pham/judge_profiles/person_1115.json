@@ -1,0 +1,57 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1115/?format=json",
+  "id": 1115,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/6773/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6774/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6775/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6776/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/6777/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1120/?format=json",
+      "id": 1120,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1115/?format=json",
+      "date_created": "2016-04-20T08:18:19.366274-07:00",
+      "date_modified": "2016-04-20T08:18:19.366298-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1954-05-10",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:19.334821-07:00",
+  "date_modified": "2020-11-25T08:30:13.265704-08:00",
+  "date_completed": null,
+  "fjc_id": 797,
+  "slug": "ralph-mckenzie-freeman",
+  "name_first": "Ralph",
+  "name_middle": "McKenzie",
+  "name_last": "Freeman",
+  "name_suffix": "",
+  "date_dob": "1902-05-05",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1990-03-29",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Flushing",
+  "dob_state": "MI",
+  "dob_country": "United States",
+  "dod_city": "Royal Oak",
+  "dod_state": "MI",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

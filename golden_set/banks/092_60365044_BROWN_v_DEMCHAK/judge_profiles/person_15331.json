@@ -1,0 +1,184 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15331/?format=json",
+  "id": 15331,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16212/?format=json",
+      "id": 16212,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15331/?format=json",
+      "date_created": "2022-05-19T16:23:27.755817-07:00",
+      "date_modified": "2022-05-19T16:23:27.755850-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Colville-RJ.%20J3.%2003.%20PAW%20_SR_20.pdf",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16213/?format=json",
+      "id": 16213,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15331/?format=json",
+      "date_created": "2022-05-19T16:23:27.779485-07:00",
+      "date_modified": "2022-05-19T16:23:27.779523-07:00",
+      "url": "https://www.pawd.uscourts.gov/content/robert-j-colville-district-judge",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16214/?format=json",
+      "id": 16214,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15331/?format=json",
+      "date_created": "2022-05-19T16:23:27.802302-07:00",
+      "date_modified": "2022-05-19T16:23:27.802335-07:00",
+      "url": "https://ballotpedia.org/Robert_J._Colville",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16215/?format=json",
+      "id": 16215,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15331/?format=json",
+      "date_created": "2022-05-19T16:23:27.825036-07:00",
+      "date_modified": "2022-05-19T16:23:27.825070-07:00",
+      "url": "https://en.wikipedia.org/wiki/Robert_J._Colville",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16216/?format=json",
+      "id": 16216,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15331/?format=json",
+      "date_created": "2022-05-19T16:23:27.848305-07:00",
+      "date_modified": "2022-05-19T16:23:27.848333-07:00",
+      "url": "http://media.philly.com/documents/colville.pdf",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16217/?format=json",
+      "id": 16217,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15331/?format=json",
+      "date_created": "2022-05-19T16:23:27.870889-07:00",
+      "date_modified": "2022-05-19T16:23:27.870916-07:00",
+      "url": "https://www.laroche.edu/Templates/DirectoryDetailFaculty.aspx?id=4440&alpha=C",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16218/?format=json",
+      "id": 16218,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15331/?format=json",
+      "date_created": "2022-05-19T16:28:01.177554-07:00",
+      "date_modified": "2022-05-19T16:28:01.177584-07:00",
+      "url": "https://www.judiciary.senate.gov/imo/media/doc/Robert%20Colville%20SJQ%20-%20PUBLIC.pdf",
+      "date_accessed": "2022-05-19",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11506/?format=json",
+      "id": 11506,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4461/?format=json",
+        "id": 4461,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Duquesne University",
+        "ein": 251035663
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15331/?format=json",
+      "date_created": "2022-05-19T16:28:00.976267-07:00",
+      "date_modified": "2022-05-19T16:28:00.976315-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11507/?format=json",
+      "id": 11507,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5947/?format=json",
+        "id": 5947,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Pennsylvania State University-Main Campus",
+        "ein": 246000376
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15331/?format=json",
+      "date_created": "2022-05-19T16:28:01.052740-07:00",
+      "date_modified": "2022-05-19T16:28:01.052790-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1989
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47688/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47694/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47689/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47690/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47691/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47692/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47693/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47695/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47696/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7947/?format=json",
+      "id": 7947,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15331/?format=json",
+      "date_created": "2022-05-19T16:28:01.101749-07:00",
+      "date_modified": "2022-05-19T16:28:01.101810-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7948/?format=json",
+      "id": 7948,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15331/?format=json",
+      "date_created": "2022-05-19T16:28:01.153867-07:00",
+      "date_modified": "2022-05-19T16:28:01.153901-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-05-19T16:08:10.070578-07:00",
+  "date_modified": "2022-05-19T18:02:03.497745-07:00",
+  "date_completed": "2022-05-19T16:04:59-07:00",
+  "fjc_id": null,
+  "slug": "robert-john-colville",
+  "name_first": "Robert",
+  "name_middle": "John",
+  "name_last": "Colville",
+  "name_suffix": "",
+  "date_dob": "1965-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Pittsburgh",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

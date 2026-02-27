@@ -1,0 +1,89 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1235/?format=json",
+  "id": 1235,
+  "race": [
+    "h"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/754/?format=json",
+      "id": 754,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1235/?format=json",
+      "date_created": "2016-04-20T08:18:36.282125-07:00",
+      "date_modified": "2016-04-20T08:18:36.282146-07:00",
+      "year_rated": 1978,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1034/?format=json",
+      "id": 1034,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2145/?format=json",
+        "id": 2145,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Florida",
+        "ein": 596002052
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1235/?format=json",
+      "date_created": "2016-04-20T08:18:36.296662-07:00",
+      "date_modified": "2016-04-20T08:18:36.296686-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1952
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/7523/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7524/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7525/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7526/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7527/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7528/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7522/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1241/?format=json",
+      "id": 1241,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1235/?format=json",
+      "date_created": "2016-04-20T08:18:36.274910-07:00",
+      "date_modified": "2016-04-20T08:18:36.274933-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1978-07-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:36.245133-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 880,
+  "slug": "jose-alejandro-gonzalez-jr",
+  "name_first": "Jose",
+  "name_middle": "Alejandro",
+  "name_last": "Gonzalez",
+  "name_suffix": "jr",
+  "date_dob": "1931-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Tampa",
+  "dob_state": "FL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

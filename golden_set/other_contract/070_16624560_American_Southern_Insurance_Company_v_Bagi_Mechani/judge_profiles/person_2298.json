@@ -1,0 +1,110 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2298/?format=json",
+  "id": 2298,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1412/?format=json",
+      "id": 1412,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2298/?format=json",
+      "date_created": "2016-04-20T08:21:09.092749-07:00",
+      "date_modified": "2016-04-20T08:21:09.092772-07:00",
+      "year_rated": 2006,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1902/?format=json",
+      "id": 1902,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/866/?format=json",
+        "id": 866,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Massachusetts Institute of Technology",
+        "ein": 42103594
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2298/?format=json",
+      "date_created": "2016-04-20T08:21:09.107863-07:00",
+      "date_modified": "2016-04-20T08:21:09.107887-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1990
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1903/?format=json",
+      "id": 1903,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/866/?format=json",
+        "id": 866,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Massachusetts Institute of Technology",
+        "ein": 42103594
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2298/?format=json",
+      "date_created": "2016-04-20T08:21:09.122434-07:00",
+      "date_modified": "2016-04-20T08:21:09.122457-07:00",
+      "degree_level": "ma",
+      "degree_detail": "M.S.",
+      "degree_year": 1991
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14351/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14352/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14353/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14354/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14355/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14356/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14357/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14358/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14359/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2305/?format=json",
+      "id": 2305,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2298/?format=json",
+      "date_created": "2016-04-20T08:21:09.085828-07:00",
+      "date_modified": "2016-04-20T08:21:09.085852-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2006-05-18",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:09.048901-07:00",
+  "date_modified": "2020-11-25T08:30:12.552329-08:00",
+  "date_completed": null,
+  "fjc_id": 3129,
+  "slug": "kimberly-ann-moore",
+  "name_first": "Kimberly",
+  "name_middle": "Ann",
+  "name_last": "Moore",
+  "name_suffix": "",
+  "date_dob": "1968-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Baltimore",
+  "dob_state": "MD",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

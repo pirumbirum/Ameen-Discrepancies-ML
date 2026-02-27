@@ -1,0 +1,160 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/16181/?format=json",
+  "id": 16181,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20582/?format=json",
+      "id": 20582,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16181/?format=json",
+      "date_created": "2022-08-08T16:25:00.260159-07:00",
+      "date_modified": "2022-08-08T16:25:00.260175-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-08-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20583/?format=json",
+      "id": 20583,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16181/?format=json",
+      "date_created": "2022-08-08T16:58:10.610523-07:00",
+      "date_modified": "2022-08-08T16:58:10.610541-07:00",
+      "url": "https://www.jillwillis.com/",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20584/?format=json",
+      "id": 20584,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16181/?format=json",
+      "date_created": "2022-08-08T16:58:10.613570-07:00",
+      "date_modified": "2022-08-08T16:58:10.613583-07:00",
+      "url": "https://ballotpedia.org/Jill_R._Willis",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20585/?format=json",
+      "id": 20585,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16181/?format=json",
+      "date_created": "2022-08-08T16:58:10.615216-07:00",
+      "date_modified": "2022-08-08T16:58:10.615230-07:00",
+      "url": "https://www.collincountytx.gov/district_courts/Pages/429dc.aspx",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20586/?format=json",
+      "id": 20586,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16181/?format=json",
+      "date_created": "2022-08-08T16:58:10.616066-07:00",
+      "date_modified": "2022-08-08T16:58:10.616081-07:00",
+      "url": "https://judgewatch.net/judge/429th-district-court/honorable-jill-r-willis",
+      "date_accessed": "2022-08-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/20587/?format=json",
+      "id": 20587,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16181/?format=json",
+      "date_created": "2022-08-08T16:58:10.616884-07:00",
+      "date_modified": "2022-08-08T16:58:10.616898-07:00",
+      "url": "",
+      "date_accessed": "2022-08-08",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12807/?format=json",
+      "id": 12807,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6016/?format=json",
+        "id": 6016,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Baylor University",
+        "ein": 741159753
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16181/?format=json",
+      "date_created": "2022-08-08T16:25:00.251498-07:00",
+      "date_modified": "2022-08-08T16:25:00.251512-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1990
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12808/?format=json",
+      "id": 12808,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16181/?format=json",
+      "date_created": "2022-08-08T16:25:00.255371-07:00",
+      "date_modified": "2022-08-08T16:25:00.255384-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1993
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/52468/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52469/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52470/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52471/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52472/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52473/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52474/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/52475/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8517/?format=json",
+      "id": 8517,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/16181/?format=json",
+      "date_created": "2022-08-08T16:25:00.258765-07:00",
+      "date_modified": "2022-08-08T16:25:00.258783-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-08-08T16:25:00.241295-07:00",
+  "date_modified": "2022-08-08T17:02:10.226122-07:00",
+  "date_completed": "2022-08-08T16:22:22-07:00",
+  "fjc_id": null,
+  "slug": "jill-renfro-willis",
+  "name_first": "Jill",
+  "name_middle": "Renfro",
+  "name_last": "Willis",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

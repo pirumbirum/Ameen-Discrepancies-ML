@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3566/?format=json",
+  "id": 3566,
+  "race": [
+    "b"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2234/?format=json",
+      "id": 2234,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3566/?format=json",
+      "date_created": "2016-04-20T08:24:07.077000-07:00",
+      "date_modified": "2016-04-20T08:24:07.077022-07:00",
+      "year_rated": 2007,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22456/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22457/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22458/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22459/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22460/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22461/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22462/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/42742/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3585/?format=json",
+      "id": 3585,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3566/?format=json",
+      "date_created": "2016-04-20T08:24:07.071887-07:00",
+      "date_modified": "2016-04-20T08:24:07.071912-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2007-01-09",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:07.037629-07:00",
+  "date_modified": "2020-11-25T08:30:18.940380-08:00",
+  "date_completed": null,
+  "fjc_id": 3142,
+  "slug": "otis-d-wright-ii",
+  "name_first": "Otis",
+  "name_middle": "D.",
+  "name_last": "Wright",
+  "name_suffix": "2",
+  "date_dob": "1944-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Tuskegee",
+  "dob_state": "AL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

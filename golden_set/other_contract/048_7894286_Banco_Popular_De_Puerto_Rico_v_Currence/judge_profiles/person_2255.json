@@ -1,0 +1,54 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2255/?format=json",
+  "id": 2255,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14095/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14096/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2262/?format=json",
+      "id": 2262,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2255/?format=json",
+      "date_created": "2016-04-20T08:21:03.316710-07:00",
+      "date_modified": "2016-04-20T08:21:03.316734-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1954-03-29",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:03.284514-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1647,
+  "slug": "john-lester-miller",
+  "name_first": "John",
+  "name_middle": "Lester",
+  "name_last": "Miller",
+  "name_suffix": "",
+  "date_dob": "1901-03-24",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1978-07-20",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Pittsburgh",
+  "dob_state": "PA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

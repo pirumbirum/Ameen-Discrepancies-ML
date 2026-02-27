@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5155/?format=json",
+  "id": 5155,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1320/?format=json",
+      "id": 1320,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5155/?format=json",
+      "date_created": "2016-04-20T08:25:58.065241-07:00",
+      "date_modified": "2016-04-20T08:25:58.065267-07:00",
+      "url": "http://www.nmjsc.org/docs/disciplinaryactions.pdf",
+      "date_accessed": null,
+      "notes": "resigned amid allegations of improper actions"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26677/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:58.047263-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "joe-l-martinez",
+  "name_first": "Joe",
+  "name_middle": "L.",
+  "name_last": "Martinez",
+  "name_suffix": "",
+  "date_dob": "1910-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": "1998-01-30",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

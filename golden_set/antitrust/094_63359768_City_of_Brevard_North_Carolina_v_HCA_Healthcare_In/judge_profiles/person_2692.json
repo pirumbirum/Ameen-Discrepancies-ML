@@ -1,0 +1,64 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2692/?format=json",
+  "id": 2692,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1676/?format=json",
+      "id": 1676,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2692/?format=json",
+      "date_created": "2016-04-20T08:22:03.577735-07:00",
+      "date_modified": "2016-04-20T08:22:03.577757-07:00",
+      "year_rated": 2007,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/16846/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16847/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2700/?format=json",
+      "id": 2700,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2692/?format=json",
+      "date_created": "2016-04-20T08:22:03.570708-07:00",
+      "date_modified": "2016-04-20T08:22:03.570732-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2007-01-09",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:03.537844-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3157,
+  "slug": "martin-karl-reidinger",
+  "name_first": "Martin",
+  "name_middle": "Karl",
+  "name_last": "Reidinger",
+  "name_suffix": "",
+  "date_dob": "1958-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "New Haven",
+  "dob_state": "CT",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

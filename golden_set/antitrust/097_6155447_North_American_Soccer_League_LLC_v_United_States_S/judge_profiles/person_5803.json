@@ -1,0 +1,95 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5803/?format=json",
+  "id": 5803,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2002/?format=json",
+      "id": 2002,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5803/?format=json",
+      "date_created": "2016-04-20T08:26:48.094645-07:00",
+      "date_modified": "2016-04-20T08:26:48.094683-07:00",
+      "url": "http://tarlton.law.utexas.edu/justices/profile/view/38",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2003/?format=json",
+      "id": 2003,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5803/?format=json",
+      "date_created": "2016-04-20T08:26:48.101075-07:00",
+      "date_modified": "2016-04-20T08:26:48.101114-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/100002112291",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4788/?format=json",
+      "id": 4788,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5803/?format=json",
+      "date_created": "2016-04-20T08:26:48.033776-07:00",
+      "date_modified": "2016-04-20T08:26:48.033803-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/28474/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28475/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28476/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28477/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4506/?format=json",
+      "id": 4506,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5803/?format=json",
+      "date_created": "2016-04-20T08:26:48.087956-07:00",
+      "date_modified": "2016-04-20T08:26:48.087999-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:48.005858-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "raul-a-gonzalez",
+  "name_first": "Raul",
+  "name_middle": "A.",
+  "name_last": "Gonzalez",
+  "name_suffix": "",
+  "date_dob": "1940-03-22",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 1961956.41,
+  "ftm_eid": "6443208",
+  "has_photo": false
+}

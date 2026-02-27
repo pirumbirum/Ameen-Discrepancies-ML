@@ -1,0 +1,106 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3087/?format=json",
+  "id": 3087,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1957/?format=json",
+      "id": 1957,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3087/?format=json",
+      "date_created": "2016-04-20T08:22:59.259984-07:00",
+      "date_modified": "2016-04-20T08:22:59.260016-07:00",
+      "year_rated": 2010,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2596/?format=json",
+      "id": 2596,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3019/?format=json",
+        "id": 3019,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "William Jewell College",
+        "ein": 440545914
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3087/?format=json",
+      "date_created": "2016-04-20T08:22:59.289013-07:00",
+      "date_modified": "2016-04-20T08:22:59.289041-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1983
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2597/?format=json",
+      "id": 2597,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3087/?format=json",
+      "date_created": "2016-04-20T08:22:59.317265-07:00",
+      "date_modified": "2016-04-20T08:22:59.317299-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1986
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/19383/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19384/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19385/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19386/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19387/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3103/?format=json",
+      "id": 3103,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3087/?format=json",
+      "date_created": "2016-04-20T08:22:59.188670-07:00",
+      "date_modified": "2016-04-20T08:22:59.188696-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2010-02-04",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:59.109226-07:00",
+  "date_modified": "2020-11-25T08:30:18.745620-08:00",
+  "date_completed": null,
+  "fjc_id": 3286,
+  "slug": "josephine-l-staton",
+  "name_first": "Josephine",
+  "name_middle": "L.",
+  "name_last": "Staton",
+  "name_suffix": "",
+  "date_dob": "1961-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "St. Louis",
+  "dob_state": "MO",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

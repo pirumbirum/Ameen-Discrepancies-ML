@@ -1,0 +1,95 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2391/?format=json",
+  "id": 2391,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1980/?format=json",
+      "id": 1980,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2328/?format=json",
+        "id": 2328,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Dartmouth College",
+        "ein": 20222111
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2391/?format=json",
+      "date_created": "2016-04-20T08:21:21.798489-07:00",
+      "date_modified": "2016-04-20T08:21:21.798517-07:00",
+      "degree_level": "",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1981/?format=json",
+      "id": 1981,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/832/?format=json",
+        "id": 832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Vermont",
+        "ein": 30179440
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2391/?format=json",
+      "date_created": "2016-04-20T08:21:21.814541-07:00",
+      "date_modified": "2016-04-20T08:21:21.814572-07:00",
+      "degree_level": "",
+      "degree_detail": "",
+      "degree_year": 1846
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14917/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14918/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14919/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14920/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2397/?format=json",
+      "id": 2397,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2391/?format=json",
+      "date_created": "2016-04-20T08:21:21.785436-07:00",
+      "date_modified": "2016-04-20T08:21:21.785459-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1879-01-07",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:21.753246-07:00",
+  "date_modified": "2020-11-25T08:30:19.562086-08:00",
+  "date_completed": null,
+  "fjc_id": 1747,
+  "slug": "thomas-leverett-nelson",
+  "name_first": "Thomas",
+  "name_middle": "Leverett",
+  "name_last": "Nelson",
+  "name_suffix": "",
+  "date_dob": "1827-03-04",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1897-11-21",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Haverhill",
+  "dob_state": "NH",
+  "dob_country": "United States",
+  "dod_city": "Worcester",
+  "dod_state": "MA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

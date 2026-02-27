@@ -1,0 +1,131 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3550/?format=json",
+  "id": 3550,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/39/?format=json",
+      "id": 39,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3550/?format=json",
+      "date_created": "2016-04-20T08:24:24.261667-07:00",
+      "date_modified": "2016-04-20T08:24:24.261695-07:00",
+      "url": "http://www.fjc.gov/servlet/nGetInfo?jid=2648&cid=999&ctype=na&instate=na",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2606/?format=json",
+      "id": 2606,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3550/?format=json",
+      "date_created": "2016-04-20T08:27:27.571749-07:00",
+      "date_modified": "2016-04-20T08:27:27.571786-07:00",
+      "url": "http://www.fjc.gov/servlet/nGetInfo?jid=2648&cid=999&ctype=na&instate=na",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2230/?format=json",
+      "id": 2230,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3550/?format=json",
+      "date_created": "2016-04-20T08:24:04.830027-07:00",
+      "date_modified": "2016-04-20T08:24:04.830049-07:00",
+      "year_rated": 1979,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2976/?format=json",
+      "id": 2976,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1942/?format=json",
+        "id": 1942,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Arkansas",
+        "ein": 716003252
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3550/?format=json",
+      "date_created": "2016-04-20T08:24:04.844379-07:00",
+      "date_modified": "2016-04-20T08:24:04.844403-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1938
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5364/?format=json",
+      "id": 5364,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2482/?format=json",
+        "id": 2482,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Rice University",
+        "ein": 741109620
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3550/?format=json",
+      "date_created": "2016-04-20T08:27:27.534016-07:00",
+      "date_modified": "2016-04-20T08:27:27.534053-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22351/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22352/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22353/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22354/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22355/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22356/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22357/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23123/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/29877/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3568/?format=json",
+      "id": 3568,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3550/?format=json",
+      "date_created": "2016-04-20T08:24:04.822974-07:00",
+      "date_modified": "2016-04-20T08:24:04.822999-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1979-12-14",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:04.789492-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2648,
+  "slug": "henry-woods",
+  "name_first": "Henry",
+  "name_middle": "",
+  "name_last": "Woods",
+  "name_suffix": "",
+  "date_dob": "1918-03-17",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2002-03-14",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Abbeville",
+  "dob_state": "MS",
+  "dob_country": "United States",
+  "dod_city": "Little Rock",
+  "dod_state": "AR",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

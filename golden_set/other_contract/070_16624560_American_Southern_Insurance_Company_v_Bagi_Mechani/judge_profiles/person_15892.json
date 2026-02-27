@@ -1,0 +1,210 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15892/?format=json",
+  "id": 15892,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19020/?format=json",
+      "id": 19020,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15892/?format=json",
+      "date_created": "2022-07-21T11:24:34.007303-07:00",
+      "date_modified": "2022-07-21T11:24:34.007314-07:00",
+      "url": "https://texasjudges.org/5th-court-of-appeals-place-4/",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19012/?format=json",
+      "id": 19012,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15892/?format=json",
+      "date_created": "2022-07-21T11:17:49.527468-07:00",
+      "date_modified": "2022-07-21T11:17:49.527497-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-21",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19013/?format=json",
+      "id": 19013,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15892/?format=json",
+      "date_created": "2022-07-21T11:24:33.998283-07:00",
+      "date_modified": "2022-07-21T11:24:33.998299-07:00",
+      "url": "https://www.dallascounty.org/government/courts/civil_district/162nd/bio.php",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19014/?format=json",
+      "id": 19014,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15892/?format=json",
+      "date_created": "2022-07-21T11:24:34.002919-07:00",
+      "date_modified": "2022-07-21T11:24:34.002934-07:00",
+      "url": "https://judgemaricelamoore.com/meet-judge-maricela-moore.html",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19015/?format=json",
+      "id": 19015,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15892/?format=json",
+      "date_created": "2022-07-21T11:24:34.003699-07:00",
+      "date_modified": "2022-07-21T11:24:34.003719-07:00",
+      "url": "https://ballotpedia.org/Maricela_Moore",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19016/?format=json",
+      "id": 19016,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15892/?format=json",
+      "date_created": "2022-07-21T11:24:34.004471-07:00",
+      "date_modified": "2022-07-21T11:24:34.004487-07:00",
+      "url": "https://www.linkedin.com/in/maricela-moore-89072412/",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19017/?format=json",
+      "id": 19017,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15892/?format=json",
+      "date_created": "2022-07-21T11:24:34.005175-07:00",
+      "date_modified": "2022-07-21T11:24:34.005188-07:00",
+      "url": "https://trellis.law/judge/maricela.moore",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19018/?format=json",
+      "id": 19018,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15892/?format=json",
+      "date_created": "2022-07-21T11:24:34.005824-07:00",
+      "date_modified": "2022-07-21T11:24:34.005836-07:00",
+      "url": "https://onlinecle.dallasbar.org/speaker/hon-maricela-moore-232096",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19019/?format=json",
+      "id": 19019,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15892/?format=json",
+      "date_created": "2022-07-21T11:24:34.006603-07:00",
+      "date_modified": "2022-07-21T11:24:34.006617-07:00",
+      "url": "https://legaltalknetwork.com/guests/judge-maricela-moore/",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19021/?format=json",
+      "id": 19021,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15892/?format=json",
+      "date_created": "2022-07-21T11:24:34.008819-07:00",
+      "date_modified": "2022-07-21T11:24:34.008833-07:00",
+      "url": "http://www.ntxe-news.com/cgi-bin/artman/exec/view.cgi?archive=84&num=123245&printer=1",
+      "date_accessed": "2022-07-21",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19022/?format=json",
+      "id": 19022,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15892/?format=json",
+      "date_created": "2022-07-21T11:24:34.009968-07:00",
+      "date_modified": "2022-07-21T11:24:34.009979-07:00",
+      "url": "",
+      "date_accessed": "2022-07-21",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12368/?format=json",
+      "id": 12368,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6050/?format=json",
+        "id": 6050,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "George Washington University",
+        "ein": 530196584
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15892/?format=json",
+      "date_created": "2022-07-21T11:17:49.492218-07:00",
+      "date_modified": "2022-07-21T11:17:49.492238-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2001
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12367/?format=json",
+      "id": 12367,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1044/?format=json",
+        "id": 1044,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Boston College",
+        "ein": 42103545
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15892/?format=json",
+      "date_created": "2022-07-21T11:17:49.455013-07:00",
+      "date_modified": "2022-07-21T11:32:08.305582-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Management, magna cum laude",
+      "degree_year": 1997
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51202/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51203/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51204/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51205/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51206/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51207/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51208/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51209/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8317/?format=json",
+      "id": 8317,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15892/?format=json",
+      "date_created": "2022-07-21T11:17:49.496268-07:00",
+      "date_modified": "2022-07-21T11:17:49.496284-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-21T11:17:49.176613-07:00",
+  "date_modified": "2022-07-21T11:32:08.266538-07:00",
+  "date_completed": "2022-07-21T10:56:43-07:00",
+  "fjc_id": null,
+  "slug": "maricela-moore",
+  "name_first": "Maricela",
+  "name_middle": "",
+  "name_last": "Moore",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Austin",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "ca",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

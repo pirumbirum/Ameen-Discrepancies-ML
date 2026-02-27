@@ -1,0 +1,102 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3568/?format=json",
+  "id": 3568,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2236/?format=json",
+      "id": 2236,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3568/?format=json",
+      "date_created": "2016-04-20T08:24:07.337552-07:00",
+      "date_modified": "2016-04-20T08:24:07.337574-07:00",
+      "year_rated": 1989,
+      "rating": "q"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2237/?format=json",
+      "id": 2237,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3568/?format=json",
+      "date_created": "2016-04-20T08:24:07.364348-07:00",
+      "date_modified": "2016-04-20T08:24:07.364370-07:00",
+      "year_rated": 1989,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2989/?format=json",
+      "id": 2989,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1942/?format=json",
+        "id": 1942,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Arkansas",
+        "ein": 716003252
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3568/?format=json",
+      "date_created": "2016-04-20T08:24:07.400318-07:00",
+      "date_modified": "2016-04-20T08:24:07.400343-07:00",
+      "degree_level": "ma",
+      "degree_detail": "M.P.A.",
+      "degree_year": 1973
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22470/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22471/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22472/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22473/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22474/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22475/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22476/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22477/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22478/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22479/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22480/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3587/?format=json",
+      "id": 3587,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3568/?format=json",
+      "date_created": "2016-04-20T08:24:07.332324-07:00",
+      "date_modified": "2016-04-20T08:24:07.332349-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1989-09-21",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:07.294889-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2664,
+  "slug": "susan-webber-wright",
+  "name_first": "Susan",
+  "name_middle": "Webber",
+  "name_last": "Wright",
+  "name_suffix": "",
+  "date_dob": "1948-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Texarkana",
+  "dob_state": "AR",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

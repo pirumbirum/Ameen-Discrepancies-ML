@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/733/?format=json",
+  "id": 733,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/439/?format=json",
+      "id": 439,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/733/?format=json",
+      "date_created": "2016-04-20T08:17:28.015532-07:00",
+      "date_modified": "2016-04-20T08:17:28.015554-07:00",
+      "year_rated": 1994,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/4423/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4424/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4425/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4426/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4427/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4428/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4429/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4422/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/738/?format=json",
+      "id": 738,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/733/?format=json",
+      "date_created": "2016-04-20T08:17:28.008804-07:00",
+      "date_modified": "2016-04-20T08:17:28.008827-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1994-04-26",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:27.979126-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 514,
+  "slug": "denise-cote",
+  "name_first": "Denise",
+  "name_middle": "",
+  "name_last": "Cote",
+  "name_suffix": "",
+  "date_dob": "1946-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "St. Cloud",
+  "dob_state": "MN",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

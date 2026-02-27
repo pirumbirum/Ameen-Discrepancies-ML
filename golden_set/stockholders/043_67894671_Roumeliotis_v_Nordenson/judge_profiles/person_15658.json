@@ -1,0 +1,169 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15658/?format=json",
+  "id": 15658,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17877/?format=json",
+      "id": 17877,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15658/?format=json",
+      "date_created": "2022-07-05T10:10:27.994165-07:00",
+      "date_modified": "2022-07-05T10:10:27.994180-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-05",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17878/?format=json",
+      "id": 17878,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15658/?format=json",
+      "date_created": "2022-07-05T10:18:03.005533-07:00",
+      "date_modified": "2022-07-05T10:18:03.005553-07:00",
+      "url": "https://www.martindale.com/attorney/judge-patrick-michael-garcia-2385715/",
+      "date_accessed": "2022-07-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17879/?format=json",
+      "id": 17879,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15658/?format=json",
+      "date_created": "2022-07-05T10:18:03.012669-07:00",
+      "date_modified": "2022-07-05T10:18:03.012688-07:00",
+      "url": "https://lawyers.justia.com/lawyer/judge-patrick-michael-garcia-253229",
+      "date_accessed": "2022-07-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17880/?format=json",
+      "id": 17880,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15658/?format=json",
+      "date_created": "2022-07-05T10:18:03.013530-07:00",
+      "date_modified": "2022-07-05T10:18:03.013542-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=168572",
+      "date_accessed": "2022-07-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17881/?format=json",
+      "id": 17881,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15658/?format=json",
+      "date_created": "2022-07-05T10:18:03.014462-07:00",
+      "date_modified": "2022-07-05T10:18:03.014478-07:00",
+      "url": "https://epcountyvotes.com/elected_officials/226",
+      "date_accessed": "2022-07-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17882/?format=json",
+      "id": 17882,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15658/?format=json",
+      "date_created": "2022-07-05T10:18:03.015242-07:00",
+      "date_modified": "2022-07-05T10:18:03.015253-07:00",
+      "url": "https://ballotpedia.org/Patrick_Garcia",
+      "date_accessed": "2022-07-05",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17883/?format=json",
+      "id": 17883,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15658/?format=json",
+      "date_created": "2022-07-05T10:18:03.018775-07:00",
+      "date_modified": "2022-07-05T10:18:03.018792-07:00",
+      "url": "",
+      "date_accessed": "2022-07-05",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12039/?format=json",
+      "id": 12039,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5225/?format=json",
+        "id": 5225,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "San Francisco State University",
+        "ein": 931137247
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15658/?format=json",
+      "date_created": "2022-07-05T10:10:27.964730-07:00",
+      "date_modified": "2022-07-05T10:10:27.964750-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1982
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12040/?format=json",
+      "id": 12040,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15658/?format=json",
+      "date_created": "2022-07-05T10:10:27.985297-07:00",
+      "date_modified": "2022-07-05T10:10:27.985316-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1985
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50253/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50254/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50255/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50256/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50257/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50258/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50259/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8166/?format=json",
+      "id": 8166,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15658/?format=json",
+      "date_created": "2022-07-05T10:10:27.987889-07:00",
+      "date_modified": "2022-07-05T10:10:27.987906-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-05T10:10:27.869837-07:00",
+  "date_modified": "2022-07-05T10:18:02.978238-07:00",
+  "date_completed": "2022-07-05T10:08:24-07:00",
+  "fjc_id": null,
+  "slug": "patrick-michael-garcia",
+  "name_first": "Patrick",
+  "name_middle": "Michael",
+  "name_last": "Garcia",
+  "name_suffix": "",
+  "date_dob": "1959-09-13",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

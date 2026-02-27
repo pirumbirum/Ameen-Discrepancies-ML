@@ -1,0 +1,75 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3649/?format=json",
+  "id": 3649,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3080/?format=json",
+      "id": 3080,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5917/?format=json",
+        "id": 5917,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Alabama",
+        "ein": 636001138
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3649/?format=json",
+      "date_created": "2016-04-20T08:24:16.935539-07:00",
+      "date_modified": "2016-04-20T08:24:16.935563-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22814/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22815/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22816/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22817/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22818/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3655/?format=json",
+      "id": 3655,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3649/?format=json",
+      "date_created": "2016-04-20T08:24:16.971701-07:00",
+      "date_modified": "2016-04-20T08:24:16.971727-07:00",
+      "political_party": "r",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:16.889711-07:00",
+  "date_modified": "2020-11-25T08:30:15.232557-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "roy-s-moore",
+  "name_first": "Roy",
+  "name_middle": "S.",
+  "name_last": "Moore",
+  "name_suffix": "",
+  "date_dob": "1947-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 2186040.93,
+  "ftm_eid": "7213152",
+  "has_photo": true
+}

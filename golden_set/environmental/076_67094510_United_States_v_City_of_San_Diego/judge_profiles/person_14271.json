@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14271/?format=json",
+  "id": 14271,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10393/?format=json",
+      "id": 10393,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14271/?format=json",
+      "date_created": "2022-03-06T20:42:26.122508-08:00",
+      "date_modified": "2022-03-06T20:42:26.122530-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10394/?format=json",
+      "id": 10394,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14271/?format=json",
+      "date_created": "2022-03-06T20:42:26.128636-08:00",
+      "date_modified": "2022-03-06T20:42:26.128658-08:00",
+      "url": "https://trellis.law/judge/kerri.m.lopez",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10395/?format=json",
+      "id": 10395,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14271/?format=json",
+      "date_created": "2022-03-06T20:42:26.132663-08:00",
+      "date_modified": "2022-03-06T20:42:26.132686-08:00",
+      "url": "https://www.visaliatimesdelta.com/story/news/2018/06/02/top-da-prosecutor-named-tulare-county-judge/664989002/",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10396/?format=json",
+      "id": 10396,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14271/?format=json",
+      "date_created": "2022-03-06T20:42:26.141693-08:00",
+      "date_modified": "2022-03-06T20:42:26.141717-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-06",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8794/?format=json",
+      "id": 8794,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2116/?format=json",
+        "id": 2116,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "California State University-Fresno",
+        "ein": 946001347
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14271/?format=json",
+      "date_created": "2022-03-06T20:42:26.109621-08:00",
+      "date_modified": "2022-03-06T20:42:26.109644-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8795/?format=json",
+      "id": 8795,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1278/?format=json",
+        "id": 1278,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "San Joaquin College of Law",
+        "ein": 237067667
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14271/?format=json",
+      "date_created": "2022-03-06T20:42:26.118258-08:00",
+      "date_modified": "2022-03-06T20:42:26.118282-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43959/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6265/?format=json",
+      "id": 6265,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14271/?format=json",
+      "date_created": "2022-03-06T20:42:26.095716-08:00",
+      "date_modified": "2022-03-06T20:42:26.095750-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6266/?format=json",
+      "id": 6266,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14271/?format=json",
+      "date_created": "2022-03-06T20:42:26.102163-08:00",
+      "date_modified": "2022-03-06T20:42:26.102200-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:14.894787-07:00",
+  "date_modified": "2022-03-20T19:36:55.443915-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "kerri-m-lopez",
+  "name_first": "Kerri",
+  "name_middle": "M.",
+  "name_last": "Lopez",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,188 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15336/?format=json",
+  "id": 15336,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16247/?format=json",
+      "id": 16247,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15336/?format=json",
+      "date_created": "2022-05-20T11:15:34.498358-07:00",
+      "date_modified": "2022-05-20T11:15:34.498396-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Dugan-DW.%20J3.%2007.%20ILS_SR_20.pdf",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16248/?format=json",
+      "id": 16248,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15336/?format=json",
+      "date_created": "2022-05-20T11:15:34.526809-07:00",
+      "date_modified": "2022-05-20T11:15:34.526835-07:00",
+      "url": "https://www.ilsd.uscourts.gov/Judges/Dugan.aspx",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16254/?format=json",
+      "id": 16254,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15336/?format=json",
+      "date_created": "2022-05-20T12:20:24.305641-07:00",
+      "date_modified": "2022-05-20T12:20:24.305670-07:00",
+      "url": "https://www.judiciary.senate.gov/imo/media/doc/David%20Dugan%20SJQ%20-%20PUBLIC.pdf",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16255/?format=json",
+      "id": 16255,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15336/?format=json",
+      "date_created": "2022-05-20T12:20:24.332968-07:00",
+      "date_modified": "2022-05-20T12:20:24.332994-07:00",
+      "url": "https://ballotpedia.org/David_Dugan",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16256/?format=json",
+      "id": 16256,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15336/?format=json",
+      "date_created": "2022-05-20T12:20:24.354921-07:00",
+      "date_modified": "2022-05-20T12:20:24.354945-07:00",
+      "url": "https://www.co.madison.il.us/departments/circuit_court/about/david_dugan.php",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16257/?format=json",
+      "id": 16257,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15336/?format=json",
+      "date_created": "2022-05-20T12:20:24.376969-07:00",
+      "date_modified": "2022-05-20T12:20:24.376998-07:00",
+      "url": "https://en.wikipedia.org/wiki/David_W._Dugan",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11516/?format=json",
+      "id": 11516,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/984/?format=json",
+        "id": 984,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Eastern Illinois University",
+        "ein": 376013590
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15336/?format=json",
+      "date_created": "2022-05-20T11:15:34.185734-07:00",
+      "date_modified": "2022-05-20T11:15:34.185767-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1982
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11517/?format=json",
+      "id": 11517,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5979/?format=json",
+        "id": 5979,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Valparaiso University",
+        "ein": 350868125
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15336/?format=json",
+      "date_created": "2022-05-20T11:15:34.339352-07:00",
+      "date_modified": "2022-05-20T11:15:34.339383-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1985
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11518/?format=json",
+      "id": 11518,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2932/?format=json",
+        "id": 2932,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Thomas M Cooley Law Schoo",
+        "ein": 381988915
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15336/?format=json",
+      "date_created": "2022-05-20T11:15:34.407597-07:00",
+      "date_modified": "2022-05-20T11:15:34.407639-07:00",
+      "degree_level": "",
+      "degree_detail": "",
+      "degree_year": 1984
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11519/?format=json",
+      "id": 11519,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2812/?format=json",
+        "id": 2812,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Tennessee-Knoxville",
+        "ein": 626001636
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15336/?format=json",
+      "date_created": "2022-05-20T11:15:34.476035-07:00",
+      "date_modified": "2022-05-20T11:15:34.476068-07:00",
+      "degree_level": "",
+      "degree_detail": "",
+      "degree_year": 1979
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47730/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47731/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47732/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47733/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47734/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47735/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47736/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47737/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47738/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47739/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47740/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47741/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-05-20T11:15:34.075951-07:00",
+  "date_modified": "2022-05-20T12:34:37.405309-07:00",
+  "date_completed": "2022-05-20T11:03:05-07:00",
+  "fjc_id": null,
+  "slug": "david-wayne-dugan",
+  "name_first": "David",
+  "name_middle": "Wayne",
+  "name_last": "Dugan",
+  "name_suffix": "",
+  "date_dob": "1960-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Litchfield",
+  "dob_state": "IL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

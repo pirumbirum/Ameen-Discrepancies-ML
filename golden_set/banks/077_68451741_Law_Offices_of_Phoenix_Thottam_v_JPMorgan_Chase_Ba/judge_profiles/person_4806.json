@@ -1,0 +1,50 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4806/?format=json",
+  "id": 4806,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1017/?format=json",
+      "id": 1017,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4806/?format=json",
+      "date_created": "2016-04-20T08:25:30.883300-07:00",
+      "date_modified": "2016-04-20T08:25:30.883338-07:00",
+      "url": "http://mn.gov/lawlib/judgebio.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25738/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25739/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25740/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:30.809865-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "barry-a-anderson",
+  "name_first": "Barry",
+  "name_middle": "A.",
+  "name_last": "Anderson",
+  "name_suffix": "",
+  "date_dob": "1954-10-24",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 129635.03,
+  "ftm_eid": "13009845",
+  "has_photo": false
+}

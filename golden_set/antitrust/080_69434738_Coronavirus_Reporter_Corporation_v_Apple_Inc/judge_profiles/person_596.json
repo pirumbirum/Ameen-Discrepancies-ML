@@ -1,0 +1,69 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/596/?format=json",
+  "id": 596,
+  "race": [
+    "a"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/348/?format=json",
+      "id": 348,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/596/?format=json",
+      "date_created": "2016-04-20T08:17:08.874849-07:00",
+      "date_modified": "2016-04-20T08:17:08.874871-07:00",
+      "year_rated": 2011,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/3526/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3527/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3528/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3529/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3530/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3531/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3532/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/601/?format=json",
+      "id": 601,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/596/?format=json",
+      "date_created": "2016-04-20T08:17:08.867757-07:00",
+      "date_modified": "2016-04-20T08:17:08.867781-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2011-01-05",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:08.837804-07:00",
+  "date_modified": "2020-11-25T08:30:18.930375-08:00",
+  "date_completed": null,
+  "fjc_id": 3372,
+  "slug": "edward-milton-chen",
+  "name_first": "Edward",
+  "name_middle": "Milton",
+  "name_last": "Chen",
+  "name_suffix": "",
+  "date_dob": "1953-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Oakland",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

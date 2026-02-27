@@ -1,0 +1,99 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/630/?format=json",
+  "id": 630,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/492/?format=json",
+      "id": 492,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/630/?format=json",
+      "date_created": "2016-04-20T08:17:13.602009-07:00",
+      "date_modified": "2016-04-20T08:17:13.602035-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1911
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/493/?format=json",
+      "id": 493,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/630/?format=json",
+      "date_created": "2016-04-20T08:17:13.630665-07:00",
+      "date_modified": "2016-04-20T08:17:13.630689-07:00",
+      "degree_level": "llb",
+      "degree_detail": "LL.B.",
+      "degree_year": 1913
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/3766/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3767/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3768/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3769/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3770/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3771/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3772/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3773/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/634/?format=json",
+      "id": 634,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/630/?format=json",
+      "date_created": "2016-04-20T08:17:13.572847-07:00",
+      "date_modified": "2016-04-20T08:17:13.572873-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1939-01-05",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:13.541074-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 439,
+  "slug": "charles-edward-clark",
+  "name_first": "Charles",
+  "name_middle": "Edward",
+  "name_last": "Clark",
+  "name_suffix": "",
+  "date_dob": "1889-12-09",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1963-12-13",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Woodbridge",
+  "dob_state": "CT",
+  "dob_country": "United States",
+  "dod_city": "Hamden",
+  "dod_state": "CT",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

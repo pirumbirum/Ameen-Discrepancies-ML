@@ -1,0 +1,120 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14415/?format=json",
+  "id": 14415,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6086/?format=json",
+      "id": 6086,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14415/?format=json",
+      "date_created": "2021-11-22T12:55:34.221942-08:00",
+      "date_modified": "2021-11-22T12:55:34.221966-08:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2021-11-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2416/?format=json",
+      "id": 2416,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14415/?format=json",
+      "date_created": "2021-11-22T12:55:34.217804-08:00",
+      "date_modified": "2021-11-22T12:55:34.217838-08:00",
+      "year_rated": 2019,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6951/?format=json",
+      "id": 6951,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2145/?format=json",
+        "id": 2145,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Florida",
+        "ein": 596002052
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14415/?format=json",
+      "date_created": "2021-11-22T12:55:34.234213-08:00",
+      "date_modified": "2021-11-22T12:55:34.234237-08:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1995
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6952/?format=json",
+      "id": 6952,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/265/?format=json",
+        "id": 265,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Emory University",
+        "ein": 580566256
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14415/?format=json",
+      "date_created": "2021-11-22T12:55:34.248754-08:00",
+      "date_modified": "2021-11-22T12:55:34.248778-08:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1998
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44160/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44161/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44162/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44163/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44164/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44165/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44166/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44167/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5016/?format=json",
+      "id": 5016,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14415/?format=json",
+      "date_created": "2021-11-22T12:55:34.211950-08:00",
+      "date_modified": "2021-11-22T12:55:34.211974-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2019-04-04",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-11-22T12:55:34.171756-08:00",
+  "date_modified": "2021-11-22T12:55:34.171790-08:00",
+  "date_completed": null,
+  "fjc_id": 7049561,
+  "slug": "steven-daniel-grimberg",
+  "name_first": "Steven",
+  "name_middle": "Daniel",
+  "name_last": "Grimberg",
+  "name_suffix": "",
+  "date_dob": "1974-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "New York",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,153 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14454/?format=json",
+  "id": 14454,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8475/?format=json",
+      "id": 8475,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14454/?format=json",
+      "date_created": "2022-02-23T15:11:36.817278-08:00",
+      "date_modified": "2022-02-23T15:11:36.817303-08:00",
+      "url": "https://ballotpedia.org/Michael_P._Allen",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8476/?format=json",
+      "id": 8476,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14454/?format=json",
+      "date_created": "2022-02-23T15:11:36.819096-08:00",
+      "date_modified": "2022-02-23T15:11:36.819121-08:00",
+      "url": "https://www.veterans.senate.gov/imo/media/doc/M%20Allen%20Testimony%2007.19.2017.pdf",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8477/?format=json",
+      "id": 8477,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14454/?format=json",
+      "date_created": "2022-02-23T15:11:36.820278-08:00",
+      "date_modified": "2022-02-23T15:11:36.820303-08:00",
+      "url": "https://www.uscourts.cavc.gov/allen.php",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8478/?format=json",
+      "id": 8478,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14454/?format=json",
+      "date_created": "2022-02-23T15:11:36.821470-08:00",
+      "date_modified": "2022-02-23T15:11:36.821495-08:00",
+      "url": "https://wikispro.com/michael-p-allen-wiki-networth-age/",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8479/?format=json",
+      "id": 8479,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14454/?format=json",
+      "date_created": "2022-02-23T15:11:36.822972-08:00",
+      "date_modified": "2022-02-23T15:11:36.822997-08:00",
+      "url": "https://en.wikipedia.org/wiki/Michael_P._Allen",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8480/?format=json",
+      "id": 8480,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14454/?format=json",
+      "date_created": "2022-02-23T15:11:36.824264-08:00",
+      "date_modified": "2022-02-23T15:11:36.824289-08:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Allen-MP%20%20J1.%20--.%20VET%20_SR_20.pdf",
+      "date_accessed": "2022-02-23",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7941/?format=json",
+      "id": 7941,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4853/?format=json",
+        "id": 4853,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Rochester",
+        "ein": 263800000
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14454/?format=json",
+      "date_created": "2022-02-23T15:11:36.810410-08:00",
+      "date_modified": "2022-02-23T15:11:36.810435-08:00",
+      "degree_level": "ba",
+      "degree_detail": "American History, Political Science, summa cum laude",
+      "degree_year": 1989
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7942/?format=json",
+      "id": 7942,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3892/?format=json",
+        "id": 3892,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Columbia University in the City of New York",
+        "ein": 603800000
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14454/?format=json",
+      "date_created": "2022-02-23T15:11:36.815830-08:00",
+      "date_modified": "2022-02-23T15:11:36.815856-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1992
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44355/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5720/?format=json",
+      "id": 5720,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14454/?format=json",
+      "date_created": "2022-02-23T18:34:02.335336-08:00",
+      "date_modified": "2022-02-23T18:34:02.335368-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-02-23T15:11:36.783612-08:00",
+  "date_modified": "2022-02-23T18:34:17.131121-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "michael-patrick-allen",
+  "name_first": "Michael",
+  "name_middle": "Patrick",
+  "name_last": "Allen",
+  "name_suffix": "",
+  "date_dob": "1967-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "je",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

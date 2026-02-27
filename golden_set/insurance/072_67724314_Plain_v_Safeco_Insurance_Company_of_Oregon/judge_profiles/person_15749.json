@@ -1,0 +1,155 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15749/?format=json",
+  "id": 15749,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18341/?format=json",
+      "id": 18341,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15749/?format=json",
+      "date_created": "2022-07-11T15:21:09.132509-07:00",
+      "date_modified": "2022-07-11T15:21:09.132521-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-11",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18342/?format=json",
+      "id": 18342,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15749/?format=json",
+      "date_created": "2022-07-11T15:28:38.904937-07:00",
+      "date_modified": "2022-07-11T15:28:38.904956-07:00",
+      "url": "https://www.dallascounty.org/government/courts/family_district/302nd/",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18343/?format=json",
+      "id": 18343,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15749/?format=json",
+      "date_created": "2022-07-11T15:28:38.908526-07:00",
+      "date_modified": "2022-07-11T15:28:38.908543-07:00",
+      "url": "https://ballotpedia.org/Sandra_Jackson",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18344/?format=json",
+      "id": 18344,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15749/?format=json",
+      "date_created": "2022-07-11T15:28:38.909038-07:00",
+      "date_modified": "2022-07-11T15:28:38.909048-07:00",
+      "url": "https://trellis.law/judge/sandra.l.jackson",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18345/?format=json",
+      "id": 18345,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15749/?format=json",
+      "date_created": "2022-07-11T15:28:38.909475-07:00",
+      "date_modified": "2022-07-11T15:28:38.909485-07:00",
+      "url": "https://judgesandrajackson.com/",
+      "date_accessed": "2022-07-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18346/?format=json",
+      "id": 18346,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15749/?format=json",
+      "date_created": "2022-07-11T15:28:38.909912-07:00",
+      "date_modified": "2022-07-11T15:28:38.909922-07:00",
+      "url": "",
+      "date_accessed": "2022-07-11",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12173/?format=json",
+      "id": 12173,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5644/?format=json",
+        "id": 5644,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Oklahoma State University-Main Campus",
+        "ein": 736017987
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15749/?format=json",
+      "date_created": "2022-07-11T15:21:09.117028-07:00",
+      "date_modified": "2022-07-11T15:21:09.117046-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Political Science",
+      "degree_year": 1976
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12174/?format=json",
+      "id": 12174,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/404/?format=json",
+        "id": 404,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southern University Law Center",
+        "ein": 726000817
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15749/?format=json",
+      "date_created": "2022-07-11T15:21:09.124365-07:00",
+      "date_modified": "2022-07-11T15:21:09.124377-07:00",
+      "degree_level": "jd",
+      "degree_detail": "cum laude",
+      "degree_year": 1980
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50633/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50634/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50635/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8230/?format=json",
+      "id": 8230,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15749/?format=json",
+      "date_created": "2022-07-11T15:21:09.126540-07:00",
+      "date_modified": "2022-07-11T15:21:09.126553-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-11T15:21:09.094271-07:00",
+  "date_modified": "2022-07-11T15:28:38.897710-07:00",
+  "date_completed": "2022-07-11T15:17:18-07:00",
+  "fjc_id": null,
+  "slug": "sandra-l-jackson",
+  "name_first": "Sandra",
+  "name_middle": "L.",
+  "name_last": "Jackson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

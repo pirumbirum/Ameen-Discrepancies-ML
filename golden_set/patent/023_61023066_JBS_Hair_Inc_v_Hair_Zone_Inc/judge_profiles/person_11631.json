@@ -1,0 +1,168 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/11631/?format=json",
+  "id": 11631,
+  "race": [
+    "b"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6783/?format=json",
+      "id": 6783,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11631/?format=json",
+      "date_created": "2022-02-11T18:28:28.073559-08:00",
+      "date_modified": "2022-02-11T18:28:28.073586-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-11",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6778/?format=json",
+      "id": 6778,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11631/?format=json",
+      "date_created": "2022-02-11T18:27:27.996723-08:00",
+      "date_modified": "2022-02-11T18:27:27.996749-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-11",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6779/?format=json",
+      "id": 6779,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11631/?format=json",
+      "date_created": "2022-02-11T18:27:28.002215-08:00",
+      "date_modified": "2022-02-11T18:27:28.002243-08:00",
+      "url": "https://ballotpedia.org/Irma_J._Brown",
+      "date_accessed": "2022-02-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6780/?format=json",
+      "id": 6780,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11631/?format=json",
+      "date_created": "2022-02-11T18:27:28.011820-08:00",
+      "date_modified": "2022-02-11T18:28:28.054717-08:00",
+      "url": "https://trellis.law/judge/irma.j.brown",
+      "date_accessed": "2022-02-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6781/?format=json",
+      "id": 6781,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11631/?format=json",
+      "date_created": "2022-02-11T18:28:28.059637-08:00",
+      "date_modified": "2022-02-11T18:28:28.059664-08:00",
+      "url": "https://www.bloomberg.com/profile/person/18598968",
+      "date_accessed": "2022-02-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6782/?format=json",
+      "id": 6782,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11631/?format=json",
+      "date_created": "2022-02-11T18:28:28.064616-08:00",
+      "date_modified": "2022-02-11T18:28:28.064642-08:00",
+      "url": "https://www.martindale.com/attorney/irma-jean-brown-86697/",
+      "date_accessed": "2022-02-11",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7285/?format=json",
+      "id": 7285,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3104/?format=json",
+        "id": 3104,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Loyola Marymount University",
+        "ein": 951643334
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11631/?format=json",
+      "date_created": "2022-02-11T18:27:27.940436-08:00",
+      "date_modified": "2022-02-11T18:27:27.940463-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Sociology",
+      "degree_year": 1970
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7286/?format=json",
+      "id": 7286,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3104/?format=json",
+        "id": 3104,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Loyola Marymount University",
+        "ein": 951643334
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11631/?format=json",
+      "date_created": "2022-02-11T18:27:27.949625-08:00",
+      "date_modified": "2022-02-11T18:27:27.949651-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1973
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/39207/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/39206/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44278/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5253/?format=json",
+      "id": 5253,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11631/?format=json",
+      "date_created": "2022-02-11T18:27:27.956500-08:00",
+      "date_modified": "2022-02-11T18:27:27.956546-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5254/?format=json",
+      "id": 5254,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/11631/?format=json",
+      "date_created": "2022-02-11T18:27:27.967957-08:00",
+      "date_modified": "2022-02-11T18:27:27.967990-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:08:50.138994-07:00",
+  "date_modified": "2022-02-11T18:28:28.045604-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "irma-jean-brown",
+  "name_first": "Irma",
+  "name_middle": "Jean",
+  "name_last": "Brown",
+  "name_suffix": "",
+  "date_dob": "1951-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

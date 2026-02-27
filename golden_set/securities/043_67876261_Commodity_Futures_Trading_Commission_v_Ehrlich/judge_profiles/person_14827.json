@@ -1,0 +1,158 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14827/?format=json",
+  "id": 14827,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14579/?format=json",
+      "id": 14579,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14827/?format=json",
+      "date_created": "2022-04-07T09:41:45.504979-07:00",
+      "date_modified": "2022-04-07T09:41:45.505001-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-07",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14580/?format=json",
+      "id": 14580,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14827/?format=json",
+      "date_created": "2022-04-07T09:41:45.506814-07:00",
+      "date_modified": "2022-04-07T09:41:45.506835-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=cHA4B6mvtJn0X9L4m8obAQ%3D%3D",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14581/?format=json",
+      "id": 14581,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14827/?format=json",
+      "date_created": "2022-04-07T09:41:45.507905-07:00",
+      "date_modified": "2022-04-07T09:41:45.507926-07:00",
+      "url": "https://ww2.nycourts.gov/hon-deborah-kaplan-33851",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14582/?format=json",
+      "id": 14582,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14827/?format=json",
+      "date_created": "2022-04-07T09:41:45.508988-07:00",
+      "date_modified": "2022-04-07T09:41:45.509010-07:00",
+      "url": "https://ballotpedia.org/Deborah_A._Kaplan",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14583/?format=json",
+      "id": 14583,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14827/?format=json",
+      "date_created": "2022-04-07T09:41:45.510026-07:00",
+      "date_modified": "2022-04-07T09:41:45.510047-07:00",
+      "url": "https://www.law.com/newyorklawjournal/2021/10/01/deborah-kaplan-picked-for-high-level-administrative-judge-role-in-nyc/",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14584/?format=json",
+      "id": 14584,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14827/?format=json",
+      "date_created": "2022-04-07T09:41:45.511162-07:00",
+      "date_modified": "2022-04-07T09:41:45.511183-07:00",
+      "url": "https://www.wbasny.org/post_news/wbasny-congratulates-hon-deborah-a-kaplan-on-her-appointment-as-deputy-chief-administrative-judge-for-the-new-york-city-courts/",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/14585/?format=json",
+      "id": 14585,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14827/?format=json",
+      "date_created": "2022-04-07T09:41:45.512195-07:00",
+      "date_modified": "2022-04-07T09:41:45.512216-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/Supreme_Court,_New_York_County,_Civil/Deborah_Kaplan/Deborah_Kaplan-941.xml",
+      "date_accessed": "2022-04-07",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10773/?format=json",
+      "id": 10773,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/68/?format=json",
+        "id": 68,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "SUNY at Albany",
+        "ein": 146013200
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14827/?format=json",
+      "date_created": "2022-04-07T09:41:45.498722-07:00",
+      "date_modified": "2022-04-07T09:41:45.498745-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1982
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10774/?format=json",
+      "id": 10774,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1301/?format=json",
+        "id": 1301,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Saint Johns University",
+        "ein": 410693973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14827/?format=json",
+      "date_created": "2022-04-07T09:41:45.503744-07:00",
+      "date_modified": "2022-04-07T09:41:45.503766-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1985
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/46303/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46304/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46305/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46306/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46307/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46308/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46309/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46310/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46311/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/46312/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-04-07T09:41:45.483422-07:00",
+  "date_modified": "2022-05-06T16:47:47.797940-07:00",
+  "date_completed": "2022-05-06T15:11:34-07:00",
+  "fjc_id": null,
+  "slug": "deborah-kaplan",
+  "name_first": "Deborah",
+  "name_middle": "",
+  "name_last": "Kaplan",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

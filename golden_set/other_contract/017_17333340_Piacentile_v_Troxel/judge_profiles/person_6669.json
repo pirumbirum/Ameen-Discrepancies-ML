@@ -1,0 +1,71 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6669/?format=json",
+  "id": 6669,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2757/?format=json",
+      "id": 2757,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6669/?format=json",
+      "date_created": "2016-04-20T08:27:37.223232-07:00",
+      "date_modified": "2016-04-20T08:27:37.223265-07:00",
+      "url": "https://www.courts.state.co.us/Bio.cfm?Employee_ID=86",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5401/?format=json",
+      "id": 5401,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4092/?format=json",
+        "id": 4092,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Wheaton College",
+        "ein": 42103638
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6669/?format=json",
+      "date_created": "2016-04-20T08:27:37.169810-07:00",
+      "date_modified": "2016-04-20T08:27:37.169834-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/30306/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30307/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30308/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30309/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:37.146971-07:00",
+  "date_modified": "2020-11-25T08:30:19.429873-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "david-furman",
+  "name_first": "David",
+  "name_middle": "",
+  "name_last": "Furman",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

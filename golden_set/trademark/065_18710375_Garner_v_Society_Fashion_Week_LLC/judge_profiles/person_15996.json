@@ -1,0 +1,158 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15996/?format=json",
+  "id": 15996,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19617/?format=json",
+      "id": 19617,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15996/?format=json",
+      "date_created": "2022-07-28T10:04:04.808748-07:00",
+      "date_modified": "2022-07-28T10:04:04.808767-07:00",
+      "url": "https://ballotpedia.org/Daphne_Previti_Austin",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19618/?format=json",
+      "id": 19618,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15996/?format=json",
+      "date_created": "2022-07-28T10:04:04.809923-07:00",
+      "date_modified": "2022-07-28T10:04:04.809935-07:00",
+      "url": "https://electdaphne.com/",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19619/?format=json",
+      "id": 19619,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15996/?format=json",
+      "date_created": "2022-07-28T10:04:04.810667-07:00",
+      "date_modified": "2022-07-28T10:04:04.810682-07:00",
+      "url": "https://iemvirtual.com/wp-content/uploads/2020/11/3.-Juvi-MH-Court-Previti-Austin-MIND-Court-Nuts-Bolts-Presentation.pdf",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19620/?format=json",
+      "id": 19620,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15996/?format=json",
+      "date_created": "2022-07-28T10:04:04.811441-07:00",
+      "date_modified": "2022-07-28T10:04:04.811453-07:00",
+      "url": "https://www.linkedin.com/in/daphne-previti-austin-b6155514/",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19621/?format=json",
+      "id": 19621,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15996/?format=json",
+      "date_created": "2022-07-28T10:04:04.812203-07:00",
+      "date_modified": "2022-07-28T10:04:04.812217-07:00",
+      "url": "https://www.ballotready.org/tx/texas-texas-district-court-judge-district-386/daphne-previti-austin",
+      "date_accessed": "2022-07-28",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19622/?format=json",
+      "id": 19622,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15996/?format=json",
+      "date_created": "2022-07-28T10:04:04.812930-07:00",
+      "date_modified": "2022-07-28T10:04:04.812941-07:00",
+      "url": "",
+      "date_accessed": "2022-07-28",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12537/?format=json",
+      "id": 12537,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5152/?format=json",
+        "id": 5152,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "St Mary's University",
+        "ein": 741143128
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15996/?format=json",
+      "date_created": "2022-07-28T10:14:25.874491-07:00",
+      "date_modified": "2022-07-28T10:14:25.874509-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1996
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12538/?format=json",
+      "id": 12538,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3989/?format=json",
+        "id": 3989,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Delaware",
+        "ein": 516000297
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15996/?format=json",
+      "date_created": "2022-07-28T10:14:25.883804-07:00",
+      "date_modified": "2022-07-28T10:14:25.883823-07:00",
+      "degree_level": "ba",
+      "degree_detail": "International Relations",
+      "degree_year": 1989
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51629/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51630/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51631/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51632/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51633/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51634/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8389/?format=json",
+      "id": 8389,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15996/?format=json",
+      "date_created": "2022-07-28T10:14:25.903429-07:00",
+      "date_modified": "2022-07-28T10:14:25.903450-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-28T10:04:04.751205-07:00",
+  "date_modified": "2022-07-28T10:14:25.778218-07:00",
+  "date_completed": "2022-07-28T10:02:04-07:00",
+  "fjc_id": null,
+  "slug": "daphne-previti-austin",
+  "name_first": "Daphne",
+  "name_middle": "Previti",
+  "name_last": "Austin",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

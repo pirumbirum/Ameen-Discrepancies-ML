@@ -1,0 +1,165 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14316/?format=json",
+  "id": 14316,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8891/?format=json",
+      "id": 8891,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14316/?format=json",
+      "date_created": "2022-02-24T17:58:06.028431-08:00",
+      "date_modified": "2022-02-24T17:58:06.028456-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-24",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8892/?format=json",
+      "id": 8892,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14316/?format=json",
+      "date_created": "2022-02-24T17:58:06.039916-08:00",
+      "date_modified": "2022-02-24T17:58:06.039943-08:00",
+      "url": "https://ballotpedia.org/Alexandra_Robert_Gordon",
+      "date_accessed": "2022-02-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8893/?format=json",
+      "id": 8893,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14316/?format=json",
+      "date_created": "2022-02-24T17:58:06.044132-08:00",
+      "date_modified": "2022-02-24T17:58:06.044155-08:00",
+      "url": "https://www.martindale.com/attorney/alexandra-robert-gordon-2432261/",
+      "date_accessed": "2022-02-24",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8894/?format=json",
+      "id": 8894,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14316/?format=json",
+      "date_created": "2022-02-24T17:58:06.050947-08:00",
+      "date_modified": "2022-02-24T17:58:06.050971-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-24",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8125/?format=json",
+      "id": 8125,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14316/?format=json",
+      "date_created": "2022-02-24T17:58:05.999896-08:00",
+      "date_modified": "2022-02-24T17:58:05.999921-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8126/?format=json",
+      "id": 8126,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6345/?format=json",
+        "id": 6345,
+        "is_alias_of": null,
+        "date_created": "2019-06-30T07:36:14.863039-07:00",
+        "date_modified": "2019-07-07T06:06:58.288860-07:00",
+        "name": "University of Oxford",
+        "ein": null
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14316/?format=json",
+      "date_created": "2022-02-24T17:58:06.010005-08:00",
+      "date_modified": "2022-02-24T17:58:06.010037-08:00",
+      "degree_level": "ma",
+      "degree_detail": "Philosophy",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8127/?format=json",
+      "id": 8127,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4697/?format=json",
+        "id": 4697,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Brown University",
+        "ein": 50258809
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14316/?format=json",
+      "date_created": "2022-02-24T17:58:06.020795-08:00",
+      "date_modified": "2022-02-24T17:58:06.020819-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44006/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5811/?format=json",
+      "id": 5811,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14316/?format=json",
+      "date_created": "2022-02-24T17:58:05.980412-08:00",
+      "date_modified": "2022-02-24T17:58:05.980437-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5812/?format=json",
+      "id": 5812,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14316/?format=json",
+      "date_created": "2022-02-24T17:58:05.992914-08:00",
+      "date_modified": "2022-02-24T17:58:05.992938-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:16.720494-07:00",
+  "date_modified": "2022-03-19T14:52:55.575502-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "alexandra-robert-gordon",
+  "name_first": "Alexandra",
+  "name_middle": "Robert",
+  "name_last": "Gordon",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

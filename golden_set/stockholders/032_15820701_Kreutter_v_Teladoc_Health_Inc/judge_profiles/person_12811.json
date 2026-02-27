@@ -1,0 +1,135 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12811/?format=json",
+  "id": 12811,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13188/?format=json",
+      "id": 13188,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12811/?format=json",
+      "date_created": "2022-03-16T15:55:21.330092-07:00",
+      "date_modified": "2022-03-16T15:55:21.330116-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13189/?format=json",
+      "id": 13189,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12811/?format=json",
+      "date_created": "2022-03-16T15:55:21.335194-07:00",
+      "date_modified": "2022-03-16T15:55:21.335218-07:00",
+      "url": "https://ballotpedia.org/Margie_G._Woods",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13190/?format=json",
+      "id": 13190,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12811/?format=json",
+      "date_created": "2022-03-16T15:55:21.339752-07:00",
+      "date_modified": "2022-03-16T15:55:21.339775-07:00",
+      "url": "https://www.martindale.com/attorney/margie-gunthardt-woods-215123/",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13191/?format=json",
+      "id": 13191,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12811/?format=json",
+      "date_created": "2022-03-16T15:55:21.349421-07:00",
+      "date_modified": "2022-03-16T15:55:21.349444-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10136/?format=json",
+      "id": 10136,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2253/?format=json",
+        "id": 2253,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Northern Colorado",
+        "ein": 846000546
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12811/?format=json",
+      "date_created": "2022-03-16T15:55:21.295606-07:00",
+      "date_modified": "2022-03-16T15:55:21.295629-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1976
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10137/?format=json",
+      "id": 10137,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5191/?format=json",
+        "id": 5191,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of San Diego",
+        "ein": 952544535
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12811/?format=json",
+      "date_created": "2022-03-16T15:55:21.303838-07:00",
+      "date_modified": "2022-03-16T15:55:21.303861-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1980
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42017/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44612/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44613/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7188/?format=json",
+      "id": 7188,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/12811/?format=json",
+      "date_created": "2022-03-16T15:55:21.287670-07:00",
+      "date_modified": "2022-03-16T15:55:21.287695-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:07.644815-07:00",
+  "date_modified": "2022-03-23T16:46:50.221633-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "margie-gunthardt-woods",
+  "name_first": "Margie",
+  "name_middle": "Gunthardt",
+  "name_last": "Woods",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,147 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13408/?format=json",
+  "id": 13408,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9235/?format=json",
+      "id": 9235,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13408/?format=json",
+      "date_created": "2022-03-01T15:57:18.242497-08:00",
+      "date_modified": "2022-03-01T15:57:18.242520-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-01",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9236/?format=json",
+      "id": 9236,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13408/?format=json",
+      "date_created": "2022-03-01T15:57:18.248010-08:00",
+      "date_modified": "2022-03-01T15:57:18.248034-08:00",
+      "url": "https://www.martindale.com/attorney/maria-daghlian-hernandez-260079/",
+      "date_accessed": "2022-03-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9237/?format=json",
+      "id": 9237,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13408/?format=json",
+      "date_created": "2022-03-01T15:57:18.251755-08:00",
+      "date_modified": "2022-03-01T15:57:18.251778-08:00",
+      "url": "https://ballotpedia.org/Maria_Hernandez_(California_judge)",
+      "date_accessed": "2022-03-01",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9238/?format=json",
+      "id": 9238,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13408/?format=json",
+      "date_created": "2022-03-01T15:57:18.259706-08:00",
+      "date_modified": "2022-03-01T15:57:18.259729-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-01",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8275/?format=json",
+      "id": 8275,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2588/?format=json",
+        "id": 2588,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Irvine",
+        "ein": 952226406
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13408/?format=json",
+      "date_created": "2022-03-01T15:57:18.220568-08:00",
+      "date_modified": "2022-03-01T15:57:18.220593-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1986
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8276/?format=json",
+      "id": 8276,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2137/?format=json",
+        "id": 2137,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Western State College of Law at Argosy University",
+        "ein": 952313875
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13408/?format=json",
+      "date_created": "2022-03-01T15:57:18.228941-08:00",
+      "date_modified": "2022-03-01T15:57:18.228965-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1992
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42905/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/44407/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5917/?format=json",
+      "id": 5917,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13408/?format=json",
+      "date_created": "2022-03-01T15:57:18.205834-08:00",
+      "date_modified": "2022-03-01T15:57:18.205861-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5918/?format=json",
+      "id": 5918,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13408/?format=json",
+      "date_created": "2022-03-01T15:57:18.213201-08:00",
+      "date_modified": "2022-03-01T15:57:18.213224-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:37.262377-07:00",
+  "date_modified": "2022-03-20T12:45:50.627429-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "maria-daghlian-hernandez",
+  "name_first": "Maria",
+  "name_middle": "Daghlian",
+  "name_last": "Hernandez",
+  "name_suffix": "",
+  "date_dob": "1965-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

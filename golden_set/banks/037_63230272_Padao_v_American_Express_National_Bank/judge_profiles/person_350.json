@@ -1,0 +1,66 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/350/?format=json",
+  "id": 350,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/201/?format=json",
+      "id": 201,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/350/?format=json",
+      "date_created": "2016-04-20T08:16:36.225088-07:00",
+      "date_modified": "2016-04-20T08:16:36.225110-07:00",
+      "year_rated": 1966,
+      "rating": "q"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/2075/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2076/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2077/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2078/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/354/?format=json",
+      "id": 354,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/350/?format=json",
+      "date_created": "2016-04-20T08:16:36.218012-07:00",
+      "date_modified": "2016-04-20T08:16:36.218037-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1966-08-16",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:36.187000-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 228,
+  "slug": "edward-james-boyle-sr",
+  "name_first": "Edward",
+  "name_middle": "James",
+  "name_last": "Boyle",
+  "name_suffix": "sr",
+  "date_dob": "1913-10-11",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2002-07-24",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "McDonoghville",
+  "dob_state": "LA",
+  "dob_country": "United States",
+  "dod_city": "New Orleans",
+  "dod_state": "LA",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

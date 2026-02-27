@@ -1,0 +1,156 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14195/?format=json",
+  "id": 14195,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9701/?format=json",
+      "id": 9701,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14195/?format=json",
+      "date_created": "2022-03-03T11:21:11.205416-08:00",
+      "date_modified": "2022-03-03T11:21:11.205437-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-03",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9702/?format=json",
+      "id": 9702,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14195/?format=json",
+      "date_created": "2022-03-03T11:21:11.210234-08:00",
+      "date_modified": "2022-03-03T11:21:11.210255-08:00",
+      "url": "https://marinbar.org/news/article/?type=news&id=264",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9703/?format=json",
+      "id": 9703,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14195/?format=json",
+      "date_created": "2022-03-03T11:21:11.218037-08:00",
+      "date_modified": "2022-03-03T11:21:11.218071-08:00",
+      "url": "https://ballotpedia.org/Beth_Jordan",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9704/?format=json",
+      "id": 9704,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14195/?format=json",
+      "date_created": "2022-03-03T11:21:11.224375-08:00",
+      "date_modified": "2022-03-03T11:21:11.224396-08:00",
+      "url": "https://trellis.law/judge/beth.s.jordan",
+      "date_accessed": "2022-03-03",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/9705/?format=json",
+      "id": 9705,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14195/?format=json",
+      "date_created": "2022-03-03T11:21:11.232629-08:00",
+      "date_modified": "2022-03-03T11:21:11.232662-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-03",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8488/?format=json",
+      "id": 8488,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14195/?format=json",
+      "date_created": "2022-03-03T11:21:11.192065-08:00",
+      "date_modified": "2022-03-03T11:21:11.192096-08:00",
+      "degree_level": "llb",
+      "degree_detail": "Political Science, summa cum laude",
+      "degree_year": 1982
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8489/?format=json",
+      "id": 8489,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/?format=json",
+        "id": 473,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Berkeley",
+        "ein": 946002123
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14195/?format=json",
+      "date_created": "2022-03-03T11:21:11.201058-08:00",
+      "date_modified": "2022-03-03T11:21:11.201080-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1985
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43879/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6055/?format=json",
+      "id": 6055,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14195/?format=json",
+      "date_created": "2022-03-03T11:21:11.176731-08:00",
+      "date_modified": "2022-03-03T11:21:11.176770-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6056/?format=json",
+      "id": 6056,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14195/?format=json",
+      "date_created": "2022-03-03T11:21:11.183974-08:00",
+      "date_modified": "2022-03-03T11:21:11.184006-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:11.812720-07:00",
+  "date_modified": "2022-03-20T15:48:46.968896-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "beth-s-jordan",
+  "name_first": "Beth",
+  "name_middle": "S.",
+  "name_last": "Jordan",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,103 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5692/?format=json",
+  "id": 5692,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1891/?format=json",
+      "id": 1891,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5692/?format=json",
+      "date_created": "2016-04-20T08:26:39.951728-07:00",
+      "date_modified": "2016-04-20T08:26:39.951750-07:00",
+      "url": "http://en.wikipedia.org/wiki/Robert_A._Miller",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4689/?format=json",
+      "id": 4689,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5995/?format=json",
+        "id": 5995,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of South Dakota",
+        "ein": 466000364
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5692/?format=json",
+      "date_created": "2016-04-20T08:26:39.908807-07:00",
+      "date_modified": "2016-04-20T08:26:39.908833-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4690/?format=json",
+      "id": 4690,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5995/?format=json",
+        "id": 5995,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of South Dakota",
+        "ein": 466000364
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5692/?format=json",
+      "date_created": "2016-04-20T08:26:39.922292-07:00",
+      "date_modified": "2016-04-20T08:26:39.922321-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/28178/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28179/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28180/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4417/?format=json",
+      "id": 4417,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5692/?format=json",
+      "date_created": "2016-04-20T08:26:39.945806-07:00",
+      "date_modified": "2016-04-20T08:26:39.945831-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:39.884659-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "robert-a-miller",
+  "name_first": "Robert",
+  "name_middle": "A.",
+  "name_last": "Miller",
+  "name_suffix": "",
+  "date_dob": "1939-08-28",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": 0.0,
+  "ftm_eid": "6566398",
+  "has_photo": false
+}

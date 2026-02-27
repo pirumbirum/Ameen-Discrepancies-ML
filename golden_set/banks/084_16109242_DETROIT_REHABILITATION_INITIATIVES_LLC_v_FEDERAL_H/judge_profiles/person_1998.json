@@ -1,0 +1,72 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1998/?format=json",
+  "id": 1998,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1236/?format=json",
+      "id": 1236,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1998/?format=json",
+      "date_created": "2016-04-20T08:20:27.071517-07:00",
+      "date_modified": "2016-04-20T08:20:27.071540-07:00",
+      "year_rated": 1966,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/12411/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12412/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12413/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12414/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12415/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12416/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12417/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12418/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12419/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/12420/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2006/?format=json",
+      "id": 2006,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1998/?format=json",
+      "date_created": "2016-04-20T08:20:27.064337-07:00",
+      "date_modified": "2016-04-20T08:20:27.064361-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1966-01-19",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:27.032523-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1448,
+  "slug": "william-joseph-lynch",
+  "name_first": "William",
+  "name_middle": "Joseph",
+  "name_last": "Lynch",
+  "name_suffix": "",
+  "date_dob": "1908-06-06",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1976-08-09",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Chicago",
+  "dob_state": "IL",
+  "dob_country": "United States",
+  "dod_city": "Chicago",
+  "dod_state": "IL",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

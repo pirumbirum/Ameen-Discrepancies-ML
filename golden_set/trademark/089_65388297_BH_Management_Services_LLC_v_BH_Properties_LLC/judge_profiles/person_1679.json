@@ -1,0 +1,82 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1679/?format=json",
+  "id": 1679,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1025/?format=json",
+      "id": 1025,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1679/?format=json",
+      "date_created": "2016-04-20T08:19:39.899279-07:00",
+      "date_modified": "2016-04-20T08:19:39.899301-07:00",
+      "year_rated": 2002,
+      "rating": "wq"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1026/?format=json",
+      "id": 1026,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1679/?format=json",
+      "date_created": "2016-04-20T08:19:39.926401-07:00",
+      "date_modified": "2016-04-20T08:19:39.926423-07:00",
+      "year_rated": 2006,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/10333/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10334/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10335/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10336/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10337/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10338/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10339/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10340/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10341/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10342/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/10343/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1686/?format=json",
+      "id": 1686,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1679/?format=json",
+      "date_created": "2016-04-20T08:19:39.892241-07:00",
+      "date_modified": "2016-04-20T08:19:39.892281-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2002-07-25",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:19:39.856293-07:00",
+  "date_modified": "2020-11-25T08:30:21.832654-08:00",
+  "date_completed": null,
+  "fjc_id": 2974,
+  "slug": "kent-a-jordan",
+  "name_first": "Kent",
+  "name_middle": "A.",
+  "name_last": "Jordan",
+  "name_suffix": "",
+  "date_dob": "1957-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "West Point",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

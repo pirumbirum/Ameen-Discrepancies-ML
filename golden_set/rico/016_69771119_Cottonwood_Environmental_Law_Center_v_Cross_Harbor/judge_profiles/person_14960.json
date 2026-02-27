@@ -1,0 +1,179 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14960/?format=json",
+  "id": 14960,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15149/?format=json",
+      "id": 15149,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14960/?format=json",
+      "date_created": "2022-04-12T16:34:28.010788-07:00",
+      "date_modified": "2022-04-12T16:34:28.010809-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=tPGN0FAx44EQjjbYJ/xyYQ%3D%3D",
+      "date_accessed": "2022-04-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15150/?format=json",
+      "id": 15150,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14960/?format=json",
+      "date_created": "2022-04-12T16:34:28.013104-07:00",
+      "date_modified": "2022-04-12T16:34:28.013126-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-12",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15151/?format=json",
+      "id": 15151,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14960/?format=json",
+      "date_created": "2022-04-12T16:34:28.014220-07:00",
+      "date_modified": "2022-04-12T16:34:28.014241-07:00",
+      "url": "https://ballotpedia.org/Gia_L._Morris",
+      "date_accessed": "2022-04-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15152/?format=json",
+      "id": 15152,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14960/?format=json",
+      "date_created": "2022-04-12T16:34:28.015372-07:00",
+      "date_modified": "2022-04-12T16:34:28.015393-07:00",
+      "url": "https://www.linkedin.com/in/gia-morris-75ab888/",
+      "date_accessed": "2022-04-12",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15153/?format=json",
+      "id": 15153,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14960/?format=json",
+      "date_created": "2022-04-12T16:34:28.016469-07:00",
+      "date_modified": "2022-04-12T16:34:28.016491-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/New_York_City_Criminal_Court,_Queens_County/Gia_Morris/Gia_Morris-50000072.xml",
+      "date_accessed": "2022-04-12",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11057/?format=json",
+      "id": 11057,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3963/?format=json",
+        "id": 3963,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yeshiva University",
+        "ein": 131624225
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14960/?format=json",
+      "date_created": "2022-04-12T16:34:27.996591-07:00",
+      "date_modified": "2022-04-12T16:34:27.996615-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1995
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11058/?format=json",
+      "id": 11058,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2625/?format=json",
+        "id": 2625,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Ithaca College",
+        "ein": 150532204
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14960/?format=json",
+      "date_created": "2022-04-12T16:34:28.001401-07:00",
+      "date_modified": "2022-04-12T16:34:28.001422-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1992
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47236/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47237/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47238/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47239/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47240/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47241/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47242/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47243/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47244/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47235/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47245/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7624/?format=json",
+      "id": 7624,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14960/?format=json",
+      "date_created": "2022-04-12T16:34:28.004056-07:00",
+      "date_modified": "2022-04-12T16:34:28.004078-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2013-01-01",
+      "date_granularity_start": "%Y-%m",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7625/?format=json",
+      "id": 7625,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14960/?format=json",
+      "date_created": "2022-04-12T16:34:28.006819-07:00",
+      "date_modified": "2022-04-12T16:34:28.006841-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2011-09-01",
+      "date_granularity_start": "%Y-%m",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7626/?format=json",
+      "id": 7626,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14960/?format=json",
+      "date_created": "2022-04-12T16:34:28.009172-07:00",
+      "date_modified": "2022-04-12T16:34:28.009194-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2012-01-01",
+      "date_granularity_start": "%Y-%m",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-12T16:34:27.983058-07:00",
+  "date_modified": "2022-05-16T10:15:04.476311-07:00",
+  "date_completed": "2022-05-16T09:50:02-07:00",
+  "fjc_id": null,
+  "slug": "gia-l-morris",
+  "name_first": "Gia",
+  "name_middle": "L.",
+  "name_last": "Morris",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,175 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13991/?format=json",
+  "id": 13991,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13128/?format=json",
+      "id": 13128,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13991/?format=json",
+      "date_created": "2022-03-16T15:08:06.462077-07:00",
+      "date_modified": "2022-03-16T15:08:06.462101-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13129/?format=json",
+      "id": 13129,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13991/?format=json",
+      "date_created": "2022-03-16T15:08:06.468906-07:00",
+      "date_modified": "2022-03-16T15:08:06.468930-07:00",
+      "url": "https://www.acbanet.org/2014/12/05/judicial-spotlight-noel-wise/",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13130/?format=json",
+      "id": 13130,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13991/?format=json",
+      "date_created": "2022-03-16T15:08:06.473522-07:00",
+      "date_modified": "2022-03-16T15:08:06.473546-07:00",
+      "url": "https://ballotpedia.org/No%C3%ABl_Wise",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13131/?format=json",
+      "id": 13131,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13991/?format=json",
+      "date_created": "2022-03-16T15:08:06.477960-07:00",
+      "date_modified": "2022-03-16T15:08:06.478047-07:00",
+      "url": "https://www.martindale.com/attorney/noel-wise-7965/",
+      "date_accessed": "2022-03-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/13132/?format=json",
+      "id": 13132,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13991/?format=json",
+      "date_created": "2022-03-16T15:08:06.487923-07:00",
+      "date_modified": "2022-03-16T15:08:06.487952-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10108/?format=json",
+      "id": 10108,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2946/?format=json",
+        "id": 2946,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Nevada-Las Vegas",
+        "ein": 886000024
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13991/?format=json",
+      "date_created": "2022-03-16T15:08:06.440010-07:00",
+      "date_modified": "2022-03-16T15:08:06.440040-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1989
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10109/?format=json",
+      "id": 10109,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2025/?format=json",
+        "id": 2025,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Nova Southeastern University",
+        "ein": 591083502
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13991/?format=json",
+      "date_created": "2022-03-16T15:08:06.449564-07:00",
+      "date_modified": "2022-03-16T15:08:06.449589-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1993
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10110/?format=json",
+      "id": 10110,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13991/?format=json",
+      "date_created": "2022-03-16T15:08:06.457169-07:00",
+      "date_modified": "2022-03-16T15:08:06.457193-07:00",
+      "degree_level": "jsd",
+      "degree_detail": "",
+      "degree_year": 2002
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43656/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7169/?format=json",
+      "id": 7169,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13991/?format=json",
+      "date_created": "2022-03-16T15:08:06.425073-07:00",
+      "date_modified": "2022-03-16T15:08:06.425101-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7170/?format=json",
+      "id": 7170,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13991/?format=json",
+      "date_created": "2022-03-16T15:08:06.432683-07:00",
+      "date_modified": "2022-03-16T15:08:06.432709-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:03.592884-07:00",
+  "date_modified": "2022-03-23T16:42:19.198672-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "noel-wise",
+  "name_first": "No\u00ebl",
+  "name_middle": "",
+  "name_last": "Wise",
+  "name_suffix": "",
+  "date_dob": "1965-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/9705/?format=json",
+  "id": 9705,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/5418/?format=json",
+      "id": 5418,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/9705/?format=json",
+      "date_created": "2020-07-16T17:58:34.151991-07:00",
+      "date_modified": "2020-07-16T17:58:34.152023-07:00",
+      "url": "",
+      "date_accessed": "2020-07-16",
+      "notes": "Information extracted from Univ. of Tennessee database of case law for workers comp claims"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/35714/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2020-07-16T17:58:34.127705-07:00",
+  "date_modified": "2020-11-25T08:30:22.425695-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "pamela-b-johnson",
+  "name_first": "Pamela",
+  "name_middle": "B.",
+  "name_last": "Johnson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": true
+}

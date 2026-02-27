@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13916/?format=json",
+  "id": 13916,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12497/?format=json",
+      "id": 12497,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13916/?format=json",
+      "date_created": "2022-03-14T15:04:46.301851-07:00",
+      "date_modified": "2022-03-14T15:04:46.301873-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-14",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12498/?format=json",
+      "id": 12498,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13916/?format=json",
+      "date_created": "2022-03-14T15:04:46.307117-07:00",
+      "date_modified": "2022-03-14T15:04:46.307138-07:00",
+      "url": "https://ballotpedia.org/Teresa_T._Sullivan",
+      "date_accessed": "2022-03-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12499/?format=json",
+      "id": 12499,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13916/?format=json",
+      "date_created": "2022-03-14T15:04:46.311421-07:00",
+      "date_modified": "2022-03-14T15:04:46.311454-07:00",
+      "url": "https://www.martindale.com/attorney/teresa-tracy-sullivan-71971/",
+      "date_accessed": "2022-03-14",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/12500/?format=json",
+      "id": 12500,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13916/?format=json",
+      "date_created": "2022-03-14T15:04:46.318770-07:00",
+      "date_modified": "2022-03-14T15:04:46.318803-07:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-14",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9816/?format=json",
+      "id": 9816,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3093/?format=json",
+        "id": 3093,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "California State University-Los Angeles",
+        "ein": 946001347
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13916/?format=json",
+      "date_created": "2022-03-14T15:04:46.283467-07:00",
+      "date_modified": "2022-03-14T15:04:46.283501-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9817/?format=json",
+      "id": 9817,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3104/?format=json",
+        "id": 3104,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Loyola Marymount University",
+        "ein": 951643334
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13916/?format=json",
+      "date_created": "2022-03-14T15:04:46.295800-07:00",
+      "date_modified": "2022-03-14T15:04:46.295833-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43571/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6948/?format=json",
+      "id": 6948,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13916/?format=json",
+      "date_created": "2022-03-14T15:04:46.268607-07:00",
+      "date_modified": "2022-03-14T15:04:46.268629-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6949/?format=json",
+      "id": 6949,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13916/?format=json",
+      "date_created": "2022-03-14T15:04:46.275816-07:00",
+      "date_modified": "2022-03-14T15:04:46.275850-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:00.309997-07:00",
+  "date_modified": "2022-03-23T11:28:13.315710-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "teresa-tracy-sullivan",
+  "name_first": "Teresa",
+  "name_middle": "Tracy",
+  "name_last": "Sullivan",
+  "name_suffix": "",
+  "date_dob": "1965-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

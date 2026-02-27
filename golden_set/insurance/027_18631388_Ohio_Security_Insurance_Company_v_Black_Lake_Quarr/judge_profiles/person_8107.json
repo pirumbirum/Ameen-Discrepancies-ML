@@ -1,0 +1,68 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8107/?format=json",
+  "id": 8107,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3882/?format=json",
+      "id": 3882,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8107/?format=json",
+      "date_created": "2016-04-20T08:28:50.480235-07:00",
+      "date_modified": "2016-04-20T08:28:50.480256-07:00",
+      "url": "http://www.courts.state.co.us/userfiles/File/Media/Judge_Appointments/2003/COA_-_Piccone_-_5-7-2003.pdf",
+      "date_accessed": null,
+      "notes": "http://www.coloradojudicialperformance.gov/retention.cfm?ret=314"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3883/?format=json",
+      "id": 3883,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8107/?format=json",
+      "date_created": "2016-04-20T08:28:50.487948-07:00",
+      "date_modified": "2016-04-20T08:28:50.487969-07:00",
+      "url": "https://sites.coloradocollege.edu/bulletin/2013/05/peak-profile-raymond-dean-jones-67/",
+      "date_accessed": null,
+      "notes": "http://www.coloradojudicialperformance.gov/retention.cfm?ret=314"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3884/?format=json",
+      "id": 3884,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8107/?format=json",
+      "date_created": "2016-04-20T08:28:50.495778-07:00",
+      "date_modified": "2016-04-20T08:28:50.495799-07:00",
+      "url": "http://www.holtllc.com/team-raymond.php",
+      "date_accessed": null,
+      "notes": "http://www.coloradojudicialperformance.gov/retention.cfm?ret=314"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33067/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:50.459111-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "larry-a-jones-sr",
+  "name_first": "Larry",
+  "name_middle": "A.",
+  "name_last": "Jones",
+  "name_suffix": "sr",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

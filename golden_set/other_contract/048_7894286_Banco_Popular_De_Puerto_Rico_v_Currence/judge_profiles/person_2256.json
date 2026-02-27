@@ -1,0 +1,105 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2256/?format=json",
+  "id": 2256,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1868/?format=json",
+      "id": 1868,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2256/?format=json",
+      "date_created": "2016-04-20T08:21:03.431940-07:00",
+      "date_modified": "2016-04-20T08:21:03.431967-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1911
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1869/?format=json",
+      "id": 1869,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5618/?format=json",
+        "id": 5618,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Stanford University",
+        "ein": 941156365
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2256/?format=json",
+      "date_created": "2016-04-20T08:21:03.482537-07:00",
+      "date_modified": "2016-04-20T08:21:03.482564-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1914
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/14097/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14098/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14099/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14100/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14101/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14102/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14103/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14104/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14105/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14106/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14107/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14108/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14109/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/14110/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2263/?format=json",
+      "id": 2263,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2256/?format=json",
+      "date_created": "2016-04-20T08:21:03.417150-07:00",
+      "date_modified": "2016-04-20T08:21:03.417174-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1937-08-20",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:03.385578-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1648,
+  "slug": "justin-miller",
+  "name_first": "Justin",
+  "name_middle": "",
+  "name_last": "Miller",
+  "name_suffix": "",
+  "date_dob": "1888-11-17",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1973-01-17",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Crescent City",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

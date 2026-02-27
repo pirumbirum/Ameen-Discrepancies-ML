@@ -1,0 +1,180 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15776/?format=json",
+  "id": 15776,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18471/?format=json",
+      "id": 18471,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15776/?format=json",
+      "date_created": "2022-07-13T09:52:36.867637-07:00",
+      "date_modified": "2022-07-13T09:52:36.867654-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-13",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18472/?format=json",
+      "id": 18472,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15776/?format=json",
+      "date_created": "2022-07-13T10:11:54.176390-07:00",
+      "date_modified": "2022-07-13T10:11:54.176408-07:00",
+      "url": "https://www.judgedonnaking.org/",
+      "date_accessed": "2022-07-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18473/?format=json",
+      "id": 18473,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15776/?format=json",
+      "date_created": "2022-07-13T10:11:54.180378-07:00",
+      "date_modified": "2022-07-13T10:11:54.180390-07:00",
+      "url": "https://www.wilco.org/Elected-Officials/District-Courts/26th-District-Court",
+      "date_accessed": "2022-07-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18474/?format=json",
+      "id": 18474,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15776/?format=json",
+      "date_created": "2022-07-13T10:11:54.181139-07:00",
+      "date_modified": "2022-07-13T10:11:54.181154-07:00",
+      "url": "https://ballotpedia.org/Donna_King",
+      "date_accessed": "2022-07-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18475/?format=json",
+      "id": 18475,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15776/?format=json",
+      "date_created": "2022-07-13T10:11:54.181903-07:00",
+      "date_modified": "2022-07-13T10:11:54.181914-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=50493&office=19419",
+      "date_accessed": "2022-07-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18476/?format=json",
+      "id": 18476,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15776/?format=json",
+      "date_created": "2022-07-13T10:11:54.182606-07:00",
+      "date_modified": "2022-07-13T10:11:54.182622-07:00",
+      "url": "https://trellis.law/judge/donna.g.king",
+      "date_accessed": "2022-07-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18477/?format=json",
+      "id": 18477,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15776/?format=json",
+      "date_created": "2022-07-13T10:11:54.183304-07:00",
+      "date_modified": "2022-07-13T10:11:54.183315-07:00",
+      "url": "https://www.law.com/texaslawyer/2020/10/01/incumbent-judge-donna-king-battles-democrat-brian-mcconnell-for-26th-district-court-bench/",
+      "date_accessed": "2022-07-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/18478/?format=json",
+      "id": 18478,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15776/?format=json",
+      "date_created": "2022-07-13T10:12:04.163239-07:00",
+      "date_modified": "2022-07-13T10:12:04.163259-07:00",
+      "url": "",
+      "date_accessed": "2022-07-13",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12215/?format=json",
+      "id": 12215,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5123/?format=json",
+        "id": 5123,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Angelo State University",
+        "ein": 756002403
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15776/?format=json",
+      "date_created": "2022-07-13T09:52:36.838079-07:00",
+      "date_modified": "2022-07-13T09:52:36.838099-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Government",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12216/?format=json",
+      "id": 12216,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3164/?format=json",
+        "id": 3164,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Tech University",
+        "ein": 756002622
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15776/?format=json",
+      "date_created": "2022-07-13T09:52:36.849874-07:00",
+      "date_modified": "2022-07-13T09:52:36.849890-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1995
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50730/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50731/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50732/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50733/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50734/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50735/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50736/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50737/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8245/?format=json",
+      "id": 8245,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15776/?format=json",
+      "date_created": "2022-07-13T09:52:36.852449-07:00",
+      "date_modified": "2022-07-13T09:52:36.852465-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-13T09:52:36.759861-07:00",
+  "date_modified": "2022-07-13T10:12:04.157206-07:00",
+  "date_completed": "2022-07-13T09:51:23-07:00",
+  "fjc_id": null,
+  "slug": "donna-gayle-king",
+  "name_first": "Donna",
+  "name_middle": "Gayle",
+  "name_last": "King",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "TX",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "pr",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

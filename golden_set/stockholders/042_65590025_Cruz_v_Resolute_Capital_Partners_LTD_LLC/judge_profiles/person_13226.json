@@ -1,0 +1,166 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13226/?format=json",
+  "id": 13226,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6774/?format=json",
+      "id": 6774,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13226/?format=json",
+      "date_created": "2022-02-11T18:05:14.173844-08:00",
+      "date_modified": "2022-02-11T18:05:14.173866-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-11",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6775/?format=json",
+      "id": 6775,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13226/?format=json",
+      "date_created": "2022-02-11T18:05:14.178958-08:00",
+      "date_modified": "2022-02-11T18:05:14.178981-08:00",
+      "url": "https://trellis.law/judge/david.g.brown",
+      "date_accessed": "2022-02-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6776/?format=json",
+      "id": 6776,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13226/?format=json",
+      "date_created": "2022-02-11T18:05:14.187694-08:00",
+      "date_modified": "2022-02-11T18:05:14.187716-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-11",
+      "notes": "Data updated by: catmom"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/6777/?format=json",
+      "id": 6777,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13226/?format=json",
+      "date_created": "2022-02-11T18:07:19.572598-08:00",
+      "date_modified": "2022-02-11T18:07:19.572624-08:00",
+      "url": "https://ballotpedia.org/David_Brown_(San_Diego_County,_California)",
+      "date_accessed": "2022-02-11",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7282/?format=json",
+      "id": 7282,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3106/?format=json",
+        "id": 3106,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Occidental College",
+        "ein": 951667177
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13226/?format=json",
+      "date_created": "2022-02-11T18:05:14.141216-08:00",
+      "date_modified": "2022-02-11T18:05:14.141241-08:00",
+      "degree_level": "ba",
+      "degree_detail": "Psychology",
+      "degree_year": 1972
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7283/?format=json",
+      "id": 7283,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3094/?format=json",
+        "id": 3094,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Los Angeles",
+        "ein": 956006143
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13226/?format=json",
+      "date_created": "2022-02-11T18:05:14.149468-08:00",
+      "date_modified": "2022-02-11T18:05:14.149491-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1975
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7284/?format=json",
+      "id": 7284,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3117/?format=json",
+        "id": 3117,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Southern California",
+        "ein": 951642394
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13226/?format=json",
+      "date_created": "2022-02-11T18:05:14.156461-08:00",
+      "date_modified": "2022-02-11T18:05:14.156484-08:00",
+      "degree_level": "ma",
+      "degree_detail": "",
+      "degree_year": 1981
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42662/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/43118/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5251/?format=json",
+      "id": 5251,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13226/?format=json",
+      "date_created": "2022-02-11T18:05:14.162710-08:00",
+      "date_modified": "2022-02-11T18:05:14.162734-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5252/?format=json",
+      "id": 5252,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13226/?format=json",
+      "date_created": "2022-02-11T18:05:14.169464-08:00",
+      "date_modified": "2022-02-11T18:05:14.169487-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:28.669828-07:00",
+  "date_modified": "2022-02-11T18:07:19.563942-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "david-g-brown",
+  "name_first": "David",
+  "name_middle": "G.",
+  "name_last": "Brown",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

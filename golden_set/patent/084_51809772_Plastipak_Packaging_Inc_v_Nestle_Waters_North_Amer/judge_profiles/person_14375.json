@@ -1,0 +1,129 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14375/?format=json",
+  "id": 14375,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7729/?format=json",
+      "id": 7729,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14375/?format=json",
+      "date_created": "2022-02-19T16:23:03.120386-08:00",
+      "date_modified": "2022-02-19T16:23:03.120409-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-19",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7730/?format=json",
+      "id": 7730,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14375/?format=json",
+      "date_created": "2022-02-19T16:23:03.125586-08:00",
+      "date_modified": "2022-02-19T16:23:03.125621-08:00",
+      "url": "https://www.martindale.com/attorney/troy-garrett-davis-157911587/",
+      "date_accessed": "2022-02-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7731/?format=json",
+      "id": 7731,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14375/?format=json",
+      "date_created": "2022-02-19T16:23:03.129971-08:00",
+      "date_modified": "2022-02-19T16:23:03.130000-08:00",
+      "url": "https://ballotpedia.org/Troy_Davis",
+      "date_accessed": "2022-02-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7732/?format=json",
+      "id": 7732,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14375/?format=json",
+      "date_created": "2022-02-19T16:23:03.134186-08:00",
+      "date_modified": "2022-02-19T16:23:03.134209-08:00",
+      "url": "https://trellis.law/judges/ca/?s=Davis",
+      "date_accessed": "2022-02-19",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7733/?format=json",
+      "id": 7733,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14375/?format=json",
+      "date_created": "2022-02-19T16:23:03.143032-08:00",
+      "date_modified": "2022-02-19T16:23:03.143055-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-19",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7641/?format=json",
+      "id": 7641,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/978/?format=json",
+        "id": 978,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of North Carolina at Chapel Hill",
+        "ein": 566001393
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14375/?format=json",
+      "date_created": "2022-02-19T16:23:03.104419-08:00",
+      "date_modified": "2022-02-19T16:23:03.104445-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 2000
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7642/?format=json",
+      "id": 7642,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3104/?format=json",
+        "id": 3104,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Loyola Marymount University",
+        "ein": 951643334
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14375/?format=json",
+      "date_created": "2022-02-19T16:23:03.115463-08:00",
+      "date_modified": "2022-02-19T16:23:03.115513-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2006
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44070/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:19.125936-07:00",
+  "date_modified": "2022-02-19T16:23:03.083845-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "troy-garrett-davis",
+  "name_first": "Troy",
+  "name_middle": "Garrett",
+  "name_last": "Davis",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

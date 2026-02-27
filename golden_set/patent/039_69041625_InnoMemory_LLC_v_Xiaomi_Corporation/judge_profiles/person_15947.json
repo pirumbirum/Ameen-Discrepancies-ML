@@ -1,0 +1,175 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15947/?format=json",
+  "id": 15947,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19330/?format=json",
+      "id": 19330,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15947/?format=json",
+      "date_created": "2022-07-25T18:09:12.416578-07:00",
+      "date_modified": "2022-07-25T18:09:12.416597-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-25",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19331/?format=json",
+      "id": 19331,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15947/?format=json",
+      "date_created": "2022-07-25T18:11:55.610626-07:00",
+      "date_modified": "2022-07-25T18:11:55.610638-07:00",
+      "url": "https://cbc-radio.com/local-news-blog/422030#:~:text=Born%20and%20raised%20in%20Hemphill,from%20the%20University%20of%20Houston.",
+      "date_accessed": "2022-07-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19332/?format=json",
+      "id": 19332,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15947/?format=json",
+      "date_created": "2022-07-25T18:11:55.645370-07:00",
+      "date_modified": "2022-07-25T18:11:55.645393-07:00",
+      "url": "https://www.lightandchampion.com/news-center-news-joaquin-news-shelbyville-news-tenaha-news-timpson-news/james-payne-jr-sworn-273rd-0",
+      "date_accessed": "2022-07-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19333/?format=json",
+      "id": 19333,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15947/?format=json",
+      "date_created": "2022-07-25T18:11:55.646309-07:00",
+      "date_modified": "2022-07-25T18:11:55.646327-07:00",
+      "url": "https://www.co.shelby.tx.us/page/shelby.District.Court",
+      "date_accessed": "2022-07-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19334/?format=json",
+      "id": 19334,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15947/?format=json",
+      "date_created": "2022-07-25T18:11:55.647124-07:00",
+      "date_modified": "2022-07-25T18:11:55.647140-07:00",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=149173",
+      "date_accessed": "2022-07-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19335/?format=json",
+      "id": 19335,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15947/?format=json",
+      "date_created": "2022-07-25T18:11:55.647898-07:00",
+      "date_modified": "2022-07-25T18:11:55.647914-07:00",
+      "url": "https://scttx.com/articles/courtroom-filled-investiture-ceremony-273rd-district-judge-payne",
+      "date_accessed": "2022-07-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19336/?format=json",
+      "id": 19336,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15947/?format=json",
+      "date_created": "2022-07-25T18:11:55.651633-07:00",
+      "date_modified": "2022-07-25T18:11:55.651648-07:00",
+      "url": "https://www.co.sabine.tx.us/page/sabine.273rd",
+      "date_accessed": "2022-07-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19337/?format=json",
+      "id": 19337,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15947/?format=json",
+      "date_created": "2022-07-25T18:11:55.654917-07:00",
+      "date_modified": "2022-07-25T18:11:55.654933-07:00",
+      "url": "",
+      "date_accessed": "2022-07-25",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12453/?format=json",
+      "id": 12453,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/?format=json",
+        "id": 321,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Texas at Austin",
+        "ein": 746000203
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15947/?format=json",
+      "date_created": "2022-07-25T18:09:12.402311-07:00",
+      "date_modified": "2022-07-25T18:09:12.402323-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Business Administration",
+      "degree_year": 1989
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12454/?format=json",
+      "id": 12454,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2480/?format=json",
+        "id": 2480,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Houston",
+        "ein": 746001399
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15947/?format=json",
+      "date_created": "2022-07-25T18:09:12.407226-07:00",
+      "date_modified": "2022-07-25T18:09:12.407239-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1992
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51414/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51415/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51413/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8351/?format=json",
+      "id": 8351,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15947/?format=json",
+      "date_created": "2022-07-25T18:09:12.410181-07:00",
+      "date_modified": "2022-07-25T18:09:12.410198-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-25T18:09:12.366986-07:00",
+  "date_modified": "2022-07-25T18:11:55.598339-07:00",
+  "date_completed": "2022-07-25T18:03:49-07:00",
+  "fjc_id": null,
+  "slug": "james-allen-payne-jr",
+  "name_first": "James",
+  "name_middle": "Allen",
+  "name_last": "Payne",
+  "name_suffix": "jr",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Hemphill",
+  "dob_state": "TX",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

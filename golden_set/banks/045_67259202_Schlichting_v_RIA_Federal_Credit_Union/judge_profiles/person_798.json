@@ -1,0 +1,88 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/798/?format=json",
+  "id": 798,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/478/?format=json",
+      "id": 478,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/798/?format=json",
+      "date_created": "2016-04-20T08:17:37.873647-07:00",
+      "date_modified": "2016-04-20T08:17:37.873669-07:00",
+      "year_rated": 2011,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/647/?format=json",
+      "id": 647,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3518/?format=json",
+        "id": 3518,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Marquette University",
+        "ein": 390806251
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/798/?format=json",
+      "date_created": "2016-04-20T08:17:37.887441-07:00",
+      "date_modified": "2016-04-20T08:17:37.887469-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1992
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/4807/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4808/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4809/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4810/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4811/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/4812/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/803/?format=json",
+      "id": 803,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/798/?format=json",
+      "date_created": "2016-04-20T08:17:37.867025-07:00",
+      "date_modified": "2016-04-20T08:17:37.867048-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2011-01-05",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:37.836271-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3381,
+  "slug": "sara-lynn-darrow",
+  "name_first": "Sara",
+  "name_middle": "Lynn",
+  "name_last": "Darrow",
+  "name_suffix": "",
+  "date_dob": "1970-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Pontiac",
+  "dob_state": "MI",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

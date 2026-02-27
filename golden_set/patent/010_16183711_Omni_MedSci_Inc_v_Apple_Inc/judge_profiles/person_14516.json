@@ -1,0 +1,117 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14516/?format=json",
+  "id": 14516,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11831/?format=json",
+      "id": 11831,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14516/?format=json",
+      "date_created": "2022-03-10T17:23:41.080414-08:00",
+      "date_modified": "2022-03-10T17:23:41.080437-08:00",
+      "url": "https://www.martindale.com/attorney/thomas-edward-rogers-iii-1587558/",
+      "date_accessed": "2022-03-10",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11832/?format=json",
+      "id": 11832,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14516/?format=json",
+      "date_created": "2022-03-10T17:23:41.082385-08:00",
+      "date_modified": "2022-03-10T17:23:41.082408-08:00",
+      "url": "https://www.bloomberg.com/profile/person/15882113",
+      "date_accessed": "2022-03-10",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11833/?format=json",
+      "id": 11833,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14516/?format=json",
+      "date_created": "2022-03-10T17:23:41.083532-08:00",
+      "date_modified": "2022-03-10T17:23:41.083555-08:00",
+      "url": "https://ballotpedia.org/Thomas_Rogers",
+      "date_accessed": "2022-03-10",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11834/?format=json",
+      "id": 11834,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14516/?format=json",
+      "date_created": "2022-03-10T17:23:41.084723-08:00",
+      "date_modified": "2022-03-10T17:23:41.084746-08:00",
+      "url": "https://courtlistener.com",
+      "date_accessed": "2022-03-10",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9475/?format=json",
+      "id": 9475,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1337/?format=json",
+        "id": 1337,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of South Carolina-Columbia",
+        "ein": 576001153
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14516/?format=json",
+      "date_created": "2022-03-10T17:23:41.073564-08:00",
+      "date_modified": "2022-03-10T17:23:41.073589-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9476/?format=json",
+      "id": 9476,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/992/?format=json",
+        "id": 992,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Citadel Military College of South Carolina",
+        "ein": 576000217
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14516/?format=json",
+      "date_created": "2022-03-10T17:23:41.079110-08:00",
+      "date_modified": "2022-03-10T17:23:41.079132-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1987
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/44535/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-03-10T17:23:41.051599-08:00",
+  "date_modified": "2022-03-10T17:23:41.051634-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "thomas-edward-rogers-iii",
+  "name_first": "Thomas",
+  "name_middle": "Edward",
+  "name_last": "Rogers",
+  "name_suffix": "3",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

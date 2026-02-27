@@ -1,0 +1,94 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3946/?format=json",
+  "id": 3946,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3273/?format=json",
+      "id": 3273,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/125/?format=json",
+        "id": 125,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Amherst College",
+        "ein": 42103542
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3946/?format=json",
+      "date_created": "2016-04-20T08:24:31.425034-07:00",
+      "date_modified": "2016-04-20T08:24:31.425053-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3274/?format=json",
+      "id": 3274,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3946/?format=json",
+      "date_created": "2016-04-20T08:24:31.437740-07:00",
+      "date_modified": "2016-04-20T08:24:31.437759-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/23471/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23472/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23473/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23474/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/23475/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3767/?format=json",
+      "id": 3767,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3946/?format=json",
+      "date_created": "2016-04-20T08:24:31.471847-07:00",
+      "date_modified": "2016-04-20T08:24:31.471867-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:31.403815-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "david-m-borden",
+  "name_first": "David",
+  "name_middle": "M.",
+  "name_last": "Borden",
+  "name_suffix": "",
+  "date_dob": "1937-08-04",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

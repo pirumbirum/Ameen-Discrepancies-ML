@@ -1,0 +1,167 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15459/?format=json",
+  "id": 15459,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17004/?format=json",
+      "id": 17004,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15459/?format=json",
+      "date_created": "2022-06-16T15:05:53.436794-07:00",
+      "date_modified": "2022-06-16T15:05:53.436817-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-06-16",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17005/?format=json",
+      "id": 17005,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15459/?format=json",
+      "date_created": "2022-06-16T15:05:53.447580-07:00",
+      "date_modified": "2022-06-16T15:05:53.447599-07:00",
+      "url": "https://www.txcourts.gov/9thcoa/about-the-court/justices/justice-leanne-johnson/",
+      "date_accessed": "2022-06-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17006/?format=json",
+      "id": 17006,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15459/?format=json",
+      "date_created": "2022-06-16T15:05:53.449302-07:00",
+      "date_modified": "2022-06-16T15:05:53.449320-07:00",
+      "url": "https://electjusticeleannejohnson.com/",
+      "date_accessed": "2022-06-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17007/?format=json",
+      "id": 17007,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15459/?format=json",
+      "date_created": "2022-06-16T15:05:53.450975-07:00",
+      "date_modified": "2022-06-16T15:05:53.450991-07:00",
+      "url": "https://ballotpedia.org/Leanne_Johnson",
+      "date_accessed": "2022-06-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17008/?format=json",
+      "id": 17008,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15459/?format=json",
+      "date_created": "2022-06-16T15:05:53.452137-07:00",
+      "date_modified": "2022-06-16T15:05:53.452153-07:00",
+      "url": "https://www.linkedin.com/in/leanne-johnson-19617912/",
+      "date_accessed": "2022-06-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17009/?format=json",
+      "id": 17009,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15459/?format=json",
+      "date_created": "2022-06-16T15:05:53.453327-07:00",
+      "date_modified": "2022-06-16T15:05:53.453343-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=47863&office=20480",
+      "date_accessed": "2022-06-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17010/?format=json",
+      "id": 17010,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15459/?format=json",
+      "date_created": "2022-06-16T15:05:53.454539-07:00",
+      "date_modified": "2022-06-16T15:05:53.454557-07:00",
+      "url": "",
+      "date_accessed": "2022-06-16",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11766/?format=json",
+      "id": 11766,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3217/?format=json",
+        "id": 3217,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southern Arkansas University Main Campus",
+        "ein": 716007749
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15459/?format=json",
+      "date_created": "2022-06-16T15:05:53.412877-07:00",
+      "date_modified": "2022-06-16T15:05:53.412906-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1983
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11767/?format=json",
+      "id": 11767,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1942/?format=json",
+        "id": 1942,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Arkansas",
+        "ein": 716003252
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15459/?format=json",
+      "date_created": "2022-06-16T15:05:53.423971-07:00",
+      "date_modified": "2022-06-16T15:05:53.423995-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1986
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/49506/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49507/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49508/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49509/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/49510/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8048/?format=json",
+      "id": 8048,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15459/?format=json",
+      "date_created": "2022-06-16T15:05:53.427656-07:00",
+      "date_modified": "2022-06-16T15:05:53.427677-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-06-16T15:05:53.381848-07:00",
+  "date_modified": "2022-06-16T15:22:52.188251-07:00",
+  "date_completed": "2022-06-16T14:06:59-07:00",
+  "fjc_id": null,
+  "slug": "leanne-johnson",
+  "name_first": "Leanne",
+  "name_middle": "",
+  "name_last": "Johnson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

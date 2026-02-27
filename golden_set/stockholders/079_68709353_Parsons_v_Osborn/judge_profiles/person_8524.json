@@ -1,0 +1,103 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8524/?format=json",
+  "id": 8524,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4216/?format=json",
+      "id": 4216,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8524/?format=json",
+      "date_created": "2019-06-30T07:57:30.964610-07:00",
+      "date_modified": "2019-06-30T07:57:30.964633-07:00",
+      "url": "https://www.montgomeryadvertiser.com/story/news/2016/01/26/gray-borden-adopted-us-magistrate-judge/79273872/",
+      "date_accessed": "2019-06-30",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4217/?format=json",
+      "id": 4217,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8524/?format=json",
+      "date_created": "2019-06-30T07:57:30.966350-07:00",
+      "date_modified": "2019-06-30T07:57:30.966374-07:00",
+      "url": "https://www.worldcat.org/title/american-bench-judges-of-the-nation/oclc/3470774",
+      "date_accessed": "2019-06-30",
+      "notes": "The American Bench: Judges of the Nation, (28th ed., 2018)."
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6619/?format=json",
+      "id": 6619,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3012/?format=json",
+        "id": 3012,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Washington and Lee University",
+        "ein": 540505977
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8524/?format=json",
+      "date_created": "2019-06-30T07:57:30.957755-07:00",
+      "date_modified": "2019-06-30T07:57:30.957783-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 2001
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6620/?format=json",
+      "id": 6620,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5917/?format=json",
+        "id": 5917,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The University of Alabama",
+        "ein": 636001138
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8524/?format=json",
+      "date_created": "2019-06-30T07:57:30.963118-07:00",
+      "date_modified": "2019-06-30T07:57:30.963146-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 2005
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/33629/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33630/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/33628/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34653/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34654/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2019-06-30T07:57:30.921317-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "gray-m-borden",
+  "name_first": "Gray",
+  "name_middle": "M.",
+  "name_last": "Borden",
+  "name_suffix": "",
+  "date_dob": "1980-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Montgomery",
+  "dob_state": "AL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

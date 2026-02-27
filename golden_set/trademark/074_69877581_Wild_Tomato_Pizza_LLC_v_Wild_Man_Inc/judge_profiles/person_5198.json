@@ -1,0 +1,84 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5198/?format=json",
+  "id": 5198,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1358/?format=json",
+      "id": 1358,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5198/?format=json",
+      "date_created": "2016-04-20T08:26:01.333572-07:00",
+      "date_modified": "2016-04-20T08:26:01.333610-07:00",
+      "url": "http://select.nytimes.com/gst/abstract.html?res=F60B1EFB395E1B7493CBA8178ED85F4D8685F9",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/4238/?format=json",
+      "id": 4238,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/719/?format=json",
+        "id": 719,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Fordham University",
+        "ein": 131740451
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5198/?format=json",
+      "date_created": "2016-04-20T08:26:01.308468-07:00",
+      "date_modified": "2016-04-20T08:26:01.308492-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/26799/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26800/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/26801/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4209/?format=json",
+      "id": 4209,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5198/?format=json",
+      "date_created": "2016-04-20T08:26:01.329168-07:00",
+      "date_modified": "2016-04-20T08:26:01.329193-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:01.274853-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "albert-conway",
+  "name_first": "Albert",
+  "name_middle": "",
+  "name_last": "Conway",
+  "name_suffix": "",
+  "date_dob": "1889-04-03",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1969-05-18",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

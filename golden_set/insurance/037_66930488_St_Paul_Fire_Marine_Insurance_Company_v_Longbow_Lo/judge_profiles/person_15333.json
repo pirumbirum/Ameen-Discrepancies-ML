@@ -1,0 +1,169 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15333/?format=json",
+  "id": 15333,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16232/?format=json",
+      "id": 16232,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15333/?format=json",
+      "date_created": "2022-05-20T09:49:21.349573-07:00",
+      "date_modified": "2022-05-20T09:49:21.349598-07:00",
+      "url": "https://en.wikipedia.org/wiki/Jodi_W._Dishman#Legal_career",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16233/?format=json",
+      "id": 16233,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15333/?format=json",
+      "date_created": "2022-05-20T09:49:21.380154-07:00",
+      "date_modified": "2022-05-20T09:49:21.380179-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Dishman-JW.%20J3.%2010.%20OKW%20_SR_20.pdf",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16234/?format=json",
+      "id": 16234,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15333/?format=json",
+      "date_created": "2022-05-20T09:49:21.403532-07:00",
+      "date_modified": "2022-05-20T09:49:21.403553-07:00",
+      "url": "https://ballotpedia.org/Jodi_Dishman",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16235/?format=json",
+      "id": 16235,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15333/?format=json",
+      "date_created": "2022-05-20T09:52:28.568489-07:00",
+      "date_modified": "2022-05-20T09:52:28.568525-07:00",
+      "url": "https://www.fedbar.org/directory/mrs-jodi-w-dishman/",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16236/?format=json",
+      "id": 16236,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15333/?format=json",
+      "date_created": "2022-05-20T09:52:28.591725-07:00",
+      "date_modified": "2022-05-20T09:52:28.591749-07:00",
+      "url": "https://www.okwd.uscourts.gov/judge-jodi-w-dishman/",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16237/?format=json",
+      "id": 16237,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15333/?format=json",
+      "date_created": "2022-05-20T09:52:28.614209-07:00",
+      "date_modified": "2022-05-20T09:52:28.614230-07:00",
+      "url": "https://www.congress.gov/nomination/116th-congress/1051",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16238/?format=json",
+      "id": 16238,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15333/?format=json",
+      "date_created": "2022-05-20T09:52:28.636637-07:00",
+      "date_modified": "2022-05-20T09:52:28.636660-07:00",
+      "url": "https://www.wikiwand.com/en/Jodi_W._Dishman",
+      "date_accessed": "2022-05-20",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11512/?format=json",
+      "id": 11512,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1481/?format=json",
+        "id": 1481,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Southern Methodist University",
+        "ein": 750800689
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15333/?format=json",
+      "date_created": "2022-05-20T09:49:21.195432-07:00",
+      "date_modified": "2022-05-20T09:52:28.475952-07:00",
+      "degree_level": "ba",
+      "degree_detail": "Business Administration, cum laude",
+      "degree_year": 2002
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11513/?format=json",
+      "id": 11513,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4044/?format=json",
+        "id": 4044,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Oklahoma-Norman Campus",
+        "ein": 736017987
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15333/?format=json",
+      "date_created": "2022-05-20T09:49:21.272670-07:00",
+      "date_modified": "2022-05-20T09:52:28.544958-07:00",
+      "degree_level": "jd",
+      "degree_detail": "summa cum laude",
+      "degree_year": 2005
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47712/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47713/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47714/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47715/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47716/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47717/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47718/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7949/?format=json",
+      "id": 7949,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15333/?format=json",
+      "date_created": "2022-05-20T09:49:21.320544-07:00",
+      "date_modified": "2022-05-20T09:49:21.320569-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-05-20T09:49:20.585711-07:00",
+  "date_modified": "2022-05-20T09:52:28.376614-07:00",
+  "date_completed": "2022-05-20T09:31:24-07:00",
+  "fjc_id": null,
+  "slug": "jodi-warmbrod-dishman",
+  "name_first": "Jodi",
+  "name_middle": "Warmbrod",
+  "name_last": "Dishman",
+  "name_suffix": "",
+  "date_dob": "1979-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Memphis",
+  "dob_state": "TN",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

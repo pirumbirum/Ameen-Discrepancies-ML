@@ -1,0 +1,175 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14069/?format=json",
+  "id": 14069,
+  "race": [
+    "a"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10181/?format=json",
+      "id": 10181,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14069/?format=json",
+      "date_created": "2022-03-06T17:09:17.091664-08:00",
+      "date_modified": "2022-03-06T17:09:17.091686-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10182/?format=json",
+      "id": 10182,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14069/?format=json",
+      "date_created": "2022-03-06T17:09:17.101421-08:00",
+      "date_modified": "2022-03-06T17:09:50.296372-08:00",
+      "url": "https://trellis.law/judge/corey.g.lee",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10183/?format=json",
+      "id": 10183,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14069/?format=json",
+      "date_created": "2022-03-06T17:09:50.300939-08:00",
+      "date_modified": "2022-03-06T17:09:50.300961-08:00",
+      "url": "https://www.bloomberg.com/profile/person/19647535",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10184/?format=json",
+      "id": 10184,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14069/?format=json",
+      "date_created": "2022-03-06T17:09:50.305296-08:00",
+      "date_modified": "2022-03-06T17:09:50.305318-08:00",
+      "url": "https://ballotpedia.org/Corey_Lee",
+      "date_accessed": "2022-03-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/10185/?format=json",
+      "id": 10185,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14069/?format=json",
+      "date_created": "2022-03-06T17:09:50.315613-08:00",
+      "date_modified": "2022-03-06T17:09:50.315636-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-06",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8702/?format=json",
+      "id": 8702,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4361/?format=json",
+        "id": 4361,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Pennsylvania",
+        "ein": 231352685
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14069/?format=json",
+      "date_created": "2022-03-06T17:09:17.071500-08:00",
+      "date_modified": "2022-03-06T17:09:17.071523-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8703/?format=json",
+      "id": 8703,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3892/?format=json",
+        "id": 3892,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Columbia University in the City of New York",
+        "ein": 603800000
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14069/?format=json",
+      "date_created": "2022-03-06T17:09:17.079641-08:00",
+      "date_modified": "2022-03-06T17:09:17.079663-08:00",
+      "degree_level": "llm",
+      "degree_detail": "Social Work",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8704/?format=json",
+      "id": 8704,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3104/?format=json",
+        "id": 3104,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Loyola Marymount University",
+        "ein": 951643334
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14069/?format=json",
+      "date_created": "2022-03-06T17:09:17.086904-08:00",
+      "date_modified": "2022-03-06T17:09:17.086927-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43745/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6199/?format=json",
+      "id": 6199,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14069/?format=json",
+      "date_created": "2022-03-06T17:09:17.057731-08:00",
+      "date_modified": "2022-03-06T17:09:17.057766-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6200/?format=json",
+      "id": 6200,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14069/?format=json",
+      "date_created": "2022-03-06T17:09:17.064350-08:00",
+      "date_modified": "2022-03-06T17:09:17.064373-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:06.766401-07:00",
+  "date_modified": "2022-03-20T19:01:30.376854-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "corey-g-lee",
+  "name_first": "Corey",
+  "name_middle": "G.",
+  "name_last": "Lee",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

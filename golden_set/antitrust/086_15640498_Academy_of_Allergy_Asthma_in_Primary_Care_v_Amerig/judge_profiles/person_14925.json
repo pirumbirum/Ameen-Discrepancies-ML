@@ -1,0 +1,171 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14925/?format=json",
+  "id": 14925,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15009/?format=json",
+      "id": 15009,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14925/?format=json",
+      "date_created": "2022-04-11T17:59:52.961227-07:00",
+      "date_modified": "2022-04-11T17:59:52.961248-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=16/vM9uyQLxIhKI1qC2Iaw%3D%3D",
+      "date_accessed": "2022-04-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15010/?format=json",
+      "id": 15010,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14925/?format=json",
+      "date_created": "2022-04-11T17:59:52.962773-07:00",
+      "date_modified": "2022-04-11T17:59:52.962806-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-04-11",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15011/?format=json",
+      "id": 15011,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14925/?format=json",
+      "date_created": "2022-04-11T17:59:52.963713-07:00",
+      "date_modified": "2022-04-11T17:59:52.963734-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=16/vM9uyQLxIhKI1qC2Iaw%3D%3D",
+      "date_accessed": "2022-04-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15012/?format=json",
+      "id": 15012,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14925/?format=json",
+      "date_created": "2022-04-11T17:59:52.964661-07:00",
+      "date_modified": "2022-04-11T17:59:52.964682-07:00",
+      "url": "https://ballotpedia.org/Roger_D._McDonough",
+      "date_accessed": "2022-04-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15013/?format=json",
+      "id": 15013,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14925/?format=json",
+      "date_created": "2022-04-11T17:59:52.965608-07:00",
+      "date_modified": "2022-04-11T17:59:52.965629-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/Supreme_Court,_Albany_County/Roger_McDonough/Roger_McDonough-13.xml",
+      "date_accessed": "2022-04-11",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10987/?format=json",
+      "id": 10987,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/364/?format=json",
+        "id": 364,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Maryland-Baltimore",
+        "ein": 526002033
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14925/?format=json",
+      "date_created": "2022-04-11T17:59:52.944904-07:00",
+      "date_modified": "2022-04-11T17:59:52.944925-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1992
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/10988/?format=json",
+      "id": 10988,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3012/?format=json",
+        "id": 3012,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Washington and Lee University",
+        "ein": 540505977
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14925/?format=json",
+      "date_created": "2022-04-11T17:59:52.950160-07:00",
+      "date_modified": "2022-04-11T17:59:52.950182-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1984
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47005/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47006/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47007/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7593/?format=json",
+      "id": 7593,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14925/?format=json",
+      "date_created": "2022-04-11T17:59:52.953427-07:00",
+      "date_modified": "2022-04-11T17:59:52.953448-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2006-01-01",
+      "date_granularity_start": "%Y",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7594/?format=json",
+      "id": 7594,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14925/?format=json",
+      "date_created": "2022-04-11T17:59:52.957566-07:00",
+      "date_modified": "2022-04-11T17:59:52.957588-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2009-01-01",
+      "date_granularity_start": "%Y",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7595/?format=json",
+      "id": 7595,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14925/?format=json",
+      "date_created": "2022-04-11T17:59:52.960112-07:00",
+      "date_modified": "2022-04-11T17:59:52.960133-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2018-01-01",
+      "date_granularity_start": "%Y",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-04-11T17:59:52.932759-07:00",
+  "date_modified": "2022-05-12T15:25:02.914672-07:00",
+  "date_completed": "2022-05-12T15:12:22-07:00",
+  "fjc_id": null,
+  "slug": "roger-d-mcdonough",
+  "name_first": "Roger",
+  "name_middle": "D.",
+  "name_last": "McDonough",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

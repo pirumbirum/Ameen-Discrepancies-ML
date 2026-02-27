@@ -1,0 +1,133 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14060/?format=json",
+  "id": 14060,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7861/?format=json",
+      "id": 7861,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14060/?format=json",
+      "date_created": "2022-02-20T17:57:16.705294-08:00",
+      "date_modified": "2022-02-20T17:57:16.705315-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-02-20",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7862/?format=json",
+      "id": 7862,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14060/?format=json",
+      "date_created": "2022-02-20T17:57:16.709837-08:00",
+      "date_modified": "2022-02-20T17:57:16.709860-08:00",
+      "url": "https://ballotpedia.org/Timothy_Dillon",
+      "date_accessed": "2022-02-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7863/?format=json",
+      "id": 7863,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14060/?format=json",
+      "date_created": "2022-02-20T17:57:16.713631-08:00",
+      "date_modified": "2022-02-20T17:57:16.713652-08:00",
+      "url": "https://trellis.law/judge/timothy.p.dillon",
+      "date_accessed": "2022-02-20",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7864/?format=json",
+      "id": 7864,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14060/?format=json",
+      "date_created": "2022-02-20T17:57:16.721254-08:00",
+      "date_modified": "2022-02-20T17:57:16.721275-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-20",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7692/?format=json",
+      "id": 7692,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/68/?format=json",
+        "id": 68,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "SUNY at Albany",
+        "ein": 146013200
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14060/?format=json",
+      "date_created": "2022-02-20T17:57:16.688230-08:00",
+      "date_modified": "2022-02-20T17:57:16.688252-08:00",
+      "degree_level": "ba",
+      "degree_detail": "summa cum laude",
+      "degree_year": 1978
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7693/?format=json",
+      "id": 7693,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6218/?format=json",
+        "id": 6218,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "College of William and Mary",
+        "ein": 546001718
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14060/?format=json",
+      "date_created": "2022-02-20T17:57:16.695271-08:00",
+      "date_modified": "2022-02-20T17:57:16.695293-08:00",
+      "degree_level": "jd",
+      "degree_detail": "1981",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/43736/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5546/?format=json",
+      "id": 5546,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14060/?format=json",
+      "date_created": "2022-02-20T17:57:16.700825-08:00",
+      "date_modified": "2022-02-20T17:57:16.700848-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:11:06.428719-07:00",
+  "date_modified": "2022-02-20T17:57:16.671272-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "timothy-p-dillon",
+  "name_first": "Timothy",
+  "name_middle": "P.",
+  "name_last": "Dillon",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,107 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/401/?format=json",
+  "id": 401,
+  "race": [
+    "b",
+    "h"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/229/?format=json",
+      "id": 229,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/401/?format=json",
+      "date_created": "2016-04-20T08:16:42.835231-07:00",
+      "date_modified": "2016-04-20T08:16:42.835252-07:00",
+      "year_rated": 2013,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/313/?format=json",
+      "id": 313,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/401/?format=json",
+      "date_created": "2016-04-20T08:16:42.849561-07:00",
+      "date_modified": "2016-04-20T08:16:42.849584-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1985
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/314/?format=json",
+      "id": 314,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/401/?format=json",
+      "date_created": "2016-04-20T08:16:42.877961-07:00",
+      "date_modified": "2016-04-20T08:16:42.877984-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1988
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/2363/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2364/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2365/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2366/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/2362/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/404/?format=json",
+      "id": 404,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/401/?format=json",
+      "date_created": "2016-04-20T08:16:42.828280-07:00",
+      "date_modified": "2016-04-20T08:16:42.828304-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2013-04-15",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:42.792138-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3488,
+  "slug": "vernon-speede-broderick",
+  "name_first": "Vernon",
+  "name_middle": "Speede",
+  "name_last": "Broderick",
+  "name_suffix": "",
+  "date_dob": "1963-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "New York",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

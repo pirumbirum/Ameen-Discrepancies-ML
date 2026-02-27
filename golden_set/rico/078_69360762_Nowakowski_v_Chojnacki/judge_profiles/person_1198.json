@@ -1,0 +1,70 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1198/?format=json",
+  "id": 1198,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/729/?format=json",
+      "id": 729,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1198/?format=json",
+      "date_created": "2016-04-20T08:18:31.214671-07:00",
+      "date_modified": "2016-04-20T08:18:31.214693-07:00",
+      "year_rated": 1992,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/7280/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7281/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7282/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7283/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7284/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7285/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7286/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7279/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1204/?format=json",
+      "id": 1204,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1198/?format=json",
+      "date_created": "2016-04-20T08:18:31.207678-07:00",
+      "date_modified": "2016-04-20T08:18:31.207702-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1992-07-02",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:31.176350-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 854,
+  "slug": "john-phil-gilbert",
+  "name_first": "John",
+  "name_middle": "Phil",
+  "name_last": "Gilbert",
+  "name_suffix": "",
+  "date_dob": "1949-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Carbondale",
+  "dob_state": "IL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

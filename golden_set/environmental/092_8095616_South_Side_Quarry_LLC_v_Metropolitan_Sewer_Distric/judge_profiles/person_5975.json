@@ -1,0 +1,72 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5975/?format=json",
+  "id": 5975,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2238/?format=json",
+      "id": 2238,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5975/?format=json",
+      "date_created": "2016-04-20T08:27:02.499135-07:00",
+      "date_modified": "2016-04-20T08:27:02.499157-07:00",
+      "url": "https://www.google.com/search?q=frank+hale+washington+supreme+court&oq=frank+hale&aqs=chrome.0.69i59l2j69i57.2058j0j4&sourceid=chrome&espv=210&es_sm=91&ie=UTF-8",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/2239/?format=json",
+      "id": 2239,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5975/?format=json",
+      "date_created": "2016-04-20T08:27:02.505648-07:00",
+      "date_modified": "2016-04-20T08:27:02.505669-07:00",
+      "url": "http://www.courts.wa.gov/education/history/?fa=education_history.display&fileID=scj1940a",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/29019/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4607/?format=json",
+      "id": 4607,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5975/?format=json",
+      "date_created": "2016-04-20T08:27:02.493383-07:00",
+      "date_modified": "2016-04-20T08:27:02.493408-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:02.475926-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "frank-hale",
+  "name_first": "Frank",
+  "name_middle": "",
+  "name_last": "Hale",
+  "name_suffix": "",
+  "date_dob": "1911-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

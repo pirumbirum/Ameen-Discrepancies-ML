@@ -1,0 +1,69 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4219/?format=json",
+  "id": 4219,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/264/?format=json",
+      "id": 264,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4219/?format=json",
+      "date_created": "2016-04-20T08:24:46.465893-07:00",
+      "date_modified": "2016-04-20T08:24:46.465923-07:00",
+      "url": "http://articles.chicagotribune.com/2010-09-13/news/ct-met-chief-justice-resigns-20100913_1_supreme-court-justices-chief-justice-rita-b-garman",
+      "date_accessed": null,
+      "notes": "presided over Gov. Blagojevich's impeachment"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3455/?format=json",
+      "id": 3455,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1086/?format=json",
+        "id": 1086,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "The John Marshall Law School",
+        "ein": 362371220
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4219/?format=json",
+      "date_created": "2016-04-20T08:24:46.454225-07:00",
+      "date_modified": "2016-04-20T08:24:46.454246-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/24060/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/24061/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:46.421956-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "thomas-r-fitzgerald",
+  "name_first": "Thomas",
+  "name_middle": "R.",
+  "name_last": "Fitzgerald",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": 1179766.17,
+  "ftm_eid": "6389792",
+  "has_photo": false
+}

@@ -1,0 +1,166 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6512/?format=json",
+  "id": 6512,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11050/?format=json",
+      "id": 11050,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6512/?format=json",
+      "date_created": "2022-03-08T13:57:25.732103-08:00",
+      "date_modified": "2022-03-08T13:57:25.732127-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-08",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11051/?format=json",
+      "id": 11051,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6512/?format=json",
+      "date_created": "2022-03-08T13:57:25.747339-08:00",
+      "date_modified": "2022-03-08T13:57:25.747363-08:00",
+      "url": "https://www.courts.ca.gov/3821.htm",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11052/?format=json",
+      "id": 11052,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6512/?format=json",
+      "date_created": "2022-03-08T13:57:25.755765-08:00",
+      "date_modified": "2022-03-08T13:57:25.755788-08:00",
+      "url": "https://ballotpedia.org/Eileen_Moore",
+      "date_accessed": "2022-03-08",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11053/?format=json",
+      "id": 11053,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6512/?format=json",
+      "date_created": "2022-03-08T13:57:25.775540-08:00",
+      "date_modified": "2022-03-08T13:57:25.775566-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-08",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9094/?format=json",
+      "id": 9094,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2588/?format=json",
+        "id": 2588,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of California-Irvine",
+        "ein": 952226406
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6512/?format=json",
+      "date_created": "2022-03-08T13:57:25.674557-08:00",
+      "date_modified": "2022-03-08T13:57:25.674581-08:00",
+      "degree_level": "ba",
+      "degree_detail": "cum laude",
+      "degree_year": 1975
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9095/?format=json",
+      "id": 9095,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3219/?format=json",
+        "id": 3219,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Pepperdine University",
+        "ein": 951644037
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6512/?format=json",
+      "date_created": "2022-03-08T13:57:25.685548-08:00",
+      "date_modified": "2022-03-08T13:57:25.685572-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1978
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9096/?format=json",
+      "id": 9096,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1024/?format=json",
+        "id": 1024,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Virginia-Main Campus",
+        "ein": 546001796
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6512/?format=json",
+      "date_created": "2022-03-08T13:57:25.699545-08:00",
+      "date_modified": "2022-03-08T13:57:25.699568-08:00",
+      "degree_level": "llm",
+      "degree_detail": "",
+      "degree_year": 2004
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/39839/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/39838/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6464/?format=json",
+      "id": 6464,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6512/?format=json",
+      "date_created": "2022-03-08T13:57:25.652180-08:00",
+      "date_modified": "2022-03-08T13:57:25.652205-08:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6465/?format=json",
+      "id": 6465,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6512/?format=json",
+      "date_created": "2022-03-08T13:57:25.664651-08:00",
+      "date_modified": "2022-03-08T13:57:25.664675-08:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:32.488384-07:00",
+  "date_modified": "2022-03-21T11:31:03.810950-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "eileen-c-moore",
+  "name_first": "Eileen",
+  "name_middle": "C.",
+  "name_last": "Moore",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

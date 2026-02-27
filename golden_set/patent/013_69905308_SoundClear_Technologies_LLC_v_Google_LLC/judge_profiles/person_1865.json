@@ -1,0 +1,107 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1865/?format=json",
+  "id": 1865,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1154/?format=json",
+      "id": 1154,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1865/?format=json",
+      "date_created": "2016-04-20T08:20:08.079259-07:00",
+      "date_modified": "2016-04-20T08:20:08.079282-07:00",
+      "year_rated": 2014,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1552/?format=json",
+      "id": 1552,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6112/?format=json",
+        "id": 6112,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Wellesley College",
+        "ein": 42103637
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1865/?format=json",
+      "date_created": "2016-04-20T08:20:08.092335-07:00",
+      "date_modified": "2016-04-20T08:20:08.092360-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1986
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1553/?format=json",
+      "id": 1553,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1865/?format=json",
+      "date_created": "2016-04-20T08:20:08.132904-07:00",
+      "date_modified": "2016-04-20T08:20:08.132952-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1991
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/11530/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11531/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11532/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11533/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11534/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11535/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1873/?format=json",
+      "id": 1873,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1865/?format=json",
+      "date_created": "2016-04-20T08:20:08.073956-07:00",
+      "date_modified": "2016-04-20T08:20:08.073981-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2014-01-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:08.042554-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3544,
+  "slug": "mary-hannah-lauck",
+  "name_first": "Mary",
+  "name_middle": "Hannah",
+  "name_last": "Lauck",
+  "name_suffix": "",
+  "date_dob": "1963-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Alexandria",
+  "dob_state": "VA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

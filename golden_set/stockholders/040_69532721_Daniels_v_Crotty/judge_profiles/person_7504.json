@@ -1,0 +1,48 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7504/?format=json",
+  "id": 7504,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3433/?format=json",
+      "id": 3433,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7504/?format=json",
+      "date_created": "2016-04-20T08:28:25.905037-07:00",
+      "date_modified": "2016-04-20T08:28:25.905059-07:00",
+      "url": "http://www.mass.gov/courts/court-info/appealscourt/appeals-court-justices/justice-reuben-goodman.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/32139/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:25.888060-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "reuben-goodman",
+  "name_first": "Reuben",
+  "name_middle": "",
+  "name_last": "Goodman",
+  "name_suffix": "",
+  "date_dob": "1913-07-14",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1982-08-12",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

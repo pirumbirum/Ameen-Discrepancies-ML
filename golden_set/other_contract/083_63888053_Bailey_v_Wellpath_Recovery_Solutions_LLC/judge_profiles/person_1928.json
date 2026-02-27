@@ -1,0 +1,59 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1928/?format=json",
+  "id": 1928,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/11938/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11939/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11940/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11941/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11942/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11943/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/11944/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1935/?format=json",
+      "id": 1935,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1928/?format=json",
+      "date_created": "2016-04-20T08:20:16.617850-07:00",
+      "date_modified": "2016-04-20T08:20:16.617874-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1906-04-09",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:20:16.589446-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 1393,
+  "slug": "robert-e-lewis",
+  "name_first": "Robert",
+  "name_middle": "E.",
+  "name_last": "Lewis",
+  "name_suffix": "",
+  "date_dob": "1857-04-03",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1941-07-31",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Cass County",
+  "dob_state": "MO",
+  "dob_country": "United States",
+  "dod_city": "Denver",
+  "dod_state": "CO",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,99 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1190/?format=json",
+  "id": 1190,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/994/?format=json",
+      "id": 994,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4090/?format=json",
+        "id": 4090,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Norwich University",
+        "ein": 30179424
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1190/?format=json",
+      "date_created": "2016-04-20T08:18:30.062080-07:00",
+      "date_modified": "2016-04-20T08:18:30.062103-07:00",
+      "degree_level": "ba",
+      "degree_detail": "A.B.",
+      "degree_year": 1923
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/995/?format=json",
+      "id": 995,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6050/?format=json",
+        "id": 6050,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "George Washington University",
+        "ein": 530196584
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1190/?format=json",
+      "date_created": "2016-04-20T08:18:30.089940-07:00",
+      "date_modified": "2016-04-20T08:18:30.089963-07:00",
+      "degree_level": "",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/7224/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7225/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7226/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7227/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7228/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7229/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7230/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/7231/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1196/?format=json",
+      "id": 1196,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/1190/?format=json",
+      "date_created": "2016-04-20T08:18:30.048047-07:00",
+      "date_modified": "2016-04-20T08:18:30.048071-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1949-09-15",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:18:30.017074-07:00",
+  "date_modified": "2020-11-25T08:30:20.615667-08:00",
+  "date_completed": null,
+  "fjc_id": 847,
+  "slug": "ernest-william-gibson-jr",
+  "name_first": "Ernest",
+  "name_middle": "William",
+  "name_last": "Gibson",
+  "name_suffix": "jr",
+  "date_dob": "1901-03-06",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "1969-11-04",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Brattleboro",
+  "dob_state": "VT",
+  "dob_country": "United States",
+  "dod_city": "Brattleboro",
+  "dod_state": "VT",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

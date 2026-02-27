@@ -1,0 +1,149 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15683/?format=json",
+  "id": 15683,
+  "race": [
+    "h"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17990/?format=json",
+      "id": 17990,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15683/?format=json",
+      "date_created": "2022-07-06T13:28:26.612604-07:00",
+      "date_modified": "2022-07-06T13:28:26.612618-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-06",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17991/?format=json",
+      "id": 17991,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15683/?format=json",
+      "date_created": "2022-07-06T13:51:28.776715-07:00",
+      "date_modified": "2022-07-06T13:51:28.776761-07:00",
+      "url": "https://ballotpedia.org/Noe_Gonzalez_(Texas_judge)",
+      "date_accessed": "2022-07-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17992/?format=json",
+      "id": 17992,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15683/?format=json",
+      "date_created": "2022-07-06T13:51:28.781954-07:00",
+      "date_modified": "2022-07-06T13:51:28.781991-07:00",
+      "url": "https://www.linkedin.com/in/noe-gonzalez-5837224b/",
+      "date_accessed": "2022-07-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17993/?format=json",
+      "id": 17993,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15683/?format=json",
+      "date_created": "2022-07-06T13:51:28.783294-07:00",
+      "date_modified": "2022-07-06T13:51:28.783332-07:00",
+      "url": "https://lawyers.justia.com/lawyer/judge-noe-gonzalez-291132",
+      "date_accessed": "2022-07-06",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17994/?format=json",
+      "id": 17994,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15683/?format=json",
+      "date_created": "2022-07-06T13:51:28.784969-07:00",
+      "date_modified": "2022-07-06T13:51:28.785004-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=21984&office=19534",
+      "date_accessed": "2022-07-06",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12077/?format=json",
+      "id": 12077,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5152/?format=json",
+        "id": 5152,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "St Mary's University",
+        "ein": 741143128
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15683/?format=json",
+      "date_created": "2022-07-06T13:28:26.592890-07:00",
+      "date_modified": "2022-07-06T13:28:26.592915-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12078/?format=json",
+      "id": 12078,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2480/?format=json",
+        "id": 2480,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Houston",
+        "ein": 746001399
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15683/?format=json",
+      "date_created": "2022-07-06T13:28:26.603007-07:00",
+      "date_modified": "2022-07-06T13:28:26.603027-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1986
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/50343/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50344/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50345/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50346/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50347/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50348/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/50349/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8184/?format=json",
+      "id": 8184,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15683/?format=json",
+      "date_created": "2022-07-06T13:28:26.605131-07:00",
+      "date_modified": "2022-07-06T13:28:26.605144-07:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-06T13:28:26.507791-07:00",
+  "date_modified": "2022-07-06T13:51:28.758114-07:00",
+  "date_completed": "2022-07-06T12:59:43-07:00",
+  "fjc_id": null,
+  "slug": "noe-gonzalez",
+  "name_first": "Noe",
+  "name_middle": "",
+  "name_last": "Gonzalez",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "ca",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

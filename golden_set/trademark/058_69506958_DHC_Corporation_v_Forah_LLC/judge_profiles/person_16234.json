@@ -1,0 +1,39 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/16234/?format=json",
+  "id": 16234,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/52637/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2024-07-11T14:19:18.237884-07:00",
+  "date_modified": "2024-07-11T14:19:18.237897-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "jack-l-wilson",
+  "name_first": "Jack",
+  "name_middle": "L",
+  "name_last": "Wilson",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

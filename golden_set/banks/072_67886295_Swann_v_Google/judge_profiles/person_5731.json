@@ -1,0 +1,74 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5731/?format=json",
+  "id": 5731,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1938/?format=json",
+      "id": 1938,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5731/?format=json",
+      "date_created": "2016-04-20T08:26:43.222453-07:00",
+      "date_modified": "2016-04-20T08:26:43.222483-07:00",
+      "url": "http://www.tncourts.gov/courts/supreme-court/judges/sharon-g-lee",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1939/?format=json",
+      "id": 1939,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5731/?format=json",
+      "date_created": "2016-04-20T08:26:43.227586-07:00",
+      "date_modified": "2016-04-20T08:26:43.227616-07:00",
+      "url": "http://en.wikipedia.org/wiki/Sharon_G._Lee",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/28298/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28299/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/28300/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4441/?format=json",
+      "id": 4441,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5731/?format=json",
+      "date_created": "2016-04-20T08:26:43.218157-07:00",
+      "date_modified": "2016-04-20T08:26:43.218190-07:00",
+      "political_party": "d",
+      "source": "",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:43.158280-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "sharon-gail-lee",
+  "name_first": "Sharon",
+  "name_middle": "Gail",
+  "name_last": "Lee",
+  "name_suffix": "",
+  "date_dob": "1953-12-08",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": 324518.01,
+  "ftm_eid": "6564653",
+  "has_photo": false
+}

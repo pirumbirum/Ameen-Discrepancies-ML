@@ -1,0 +1,123 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14975/?format=json",
+  "id": 14975,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15221/?format=json",
+      "id": 15221,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14975/?format=json",
+      "date_created": "2022-04-13T13:15:52.127065-07:00",
+      "date_modified": "2022-04-13T13:15:52.127086-07:00",
+      "url": "https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=hD64v6Jop2LTTm7QMcq6ew%3D%3D",
+      "date_accessed": "2022-04-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15222/?format=json",
+      "id": 15222,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14975/?format=json",
+      "date_created": "2022-04-13T13:15:52.128717-07:00",
+      "date_modified": "2022-04-13T13:15:52.128739-07:00",
+      "url": "https://ballotpedia.org/Robert_Neary#:~:text=Robert%20A.,York%20from%202006%20to%202015.",
+      "date_accessed": "2022-04-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15223/?format=json",
+      "id": 15223,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14975/?format=json",
+      "date_created": "2022-04-13T13:15:52.129721-07:00",
+      "date_modified": "2022-04-13T13:15:52.129742-07:00",
+      "url": "https://judges.newyorklawjournal.com/profile/Supreme_Court,_Westchester_County/Robert_Neary/Robert_Neary-1116.xml",
+      "date_accessed": "2022-04-13",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/15224/?format=json",
+      "id": 15224,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14975/?format=json",
+      "date_created": "2022-04-13T13:15:52.131047-07:00",
+      "date_modified": "2022-04-13T13:15:52.131068-07:00",
+      "url": "https://trellis.law/judge/robert.a.neary",
+      "date_accessed": "2022-04-13",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11090/?format=json",
+      "id": 11090,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1301/?format=json",
+        "id": 1301,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Saint Johns University",
+        "ein": 410693973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14975/?format=json",
+      "date_created": "2022-04-13T13:15:52.120580-07:00",
+      "date_modified": "2022-04-13T13:15:52.120604-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1975
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11091/?format=json",
+      "id": 11091,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6301/?format=json",
+        "id": 6301,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "College of the Holy Cross",
+        "ein": 42103558
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/14975/?format=json",
+      "date_created": "2022-04-13T13:15:52.125704-07:00",
+      "date_modified": "2022-04-13T13:15:52.125726-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": 1969
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47336/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47337/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47338/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47339/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47340/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47341/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47342/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-04-13T13:15:52.109338-07:00",
+  "date_modified": "2022-05-16T17:21:45.429694-07:00",
+  "date_completed": "2022-05-16T17:10:56-07:00",
+  "fjc_id": null,
+  "slug": "robert-a-neary",
+  "name_first": "Robert",
+  "name_middle": "A.",
+  "name_last": "Neary",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

@@ -1,0 +1,124 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15350/?format=json",
+  "id": 15350,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16329/?format=json",
+      "id": 16329,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15350/?format=json",
+      "date_created": "2022-05-23T10:14:06.916711-07:00",
+      "date_modified": "2022-05-23T10:14:06.916736-07:00",
+      "url": "https://ballotpedia.org/James_Wicks",
+      "date_accessed": "2022-05-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16330/?format=json",
+      "id": 16330,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15350/?format=json",
+      "date_created": "2022-05-23T10:14:06.948858-07:00",
+      "date_modified": "2022-05-23T10:14:06.948885-07:00",
+      "url": "https://storage.courtlistener.com/financial-disclosures/2020/Wicks-JM.%20M.%2002.%20NYE%20Ini_SR_20.pdf",
+      "date_accessed": "2022-05-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16331/?format=json",
+      "id": 16331,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15350/?format=json",
+      "date_created": "2022-05-23T10:14:06.972862-07:00",
+      "date_modified": "2022-05-23T10:14:06.972884-07:00",
+      "url": "https://www.nyed.uscourts.gov/content/magistrate-judge-james-m-wicks",
+      "date_accessed": "2022-05-23",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16332/?format=json",
+      "id": 16332,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15350/?format=json",
+      "date_created": "2022-05-23T10:14:06.996244-07:00",
+      "date_modified": "2022-05-23T10:14:06.996268-07:00",
+      "url": "https://www.farrellfritz.com/james-m-wicks-appointed-as-united-states-magistrate-judge-for-the-eastern-district-of-new-york/",
+      "date_accessed": "2022-05-23",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11542/?format=json",
+      "id": 11542,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/6180/?format=json",
+        "id": 6180,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Wheeling Jesuit University",
+        "ein": 550394213
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15350/?format=json",
+      "date_created": "2022-05-23T10:14:06.814981-07:00",
+      "date_modified": "2022-05-23T10:14:06.815006-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11543/?format=json",
+      "id": 11543,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4720/?format=json",
+        "id": 4720,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "St John's University-New York",
+        "ein": 111630830
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15350/?format=json",
+      "date_created": "2022-05-23T10:14:06.892274-07:00",
+      "date_modified": "2022-05-23T10:14:06.892303-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/47793/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47794/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47796/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47797/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47795/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/47798/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2022-05-23T10:14:06.322108-07:00",
+  "date_modified": "2022-05-23T10:19:19.921627-07:00",
+  "date_completed": "2022-05-23T10:03:09-07:00",
+  "fjc_id": null,
+  "slug": "james-m-wicks",
+  "name_first": "James",
+  "name_middle": "M.",
+  "name_last": "Wicks",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

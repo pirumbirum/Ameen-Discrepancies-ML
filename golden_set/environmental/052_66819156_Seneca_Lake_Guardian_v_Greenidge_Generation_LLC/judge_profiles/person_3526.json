@@ -1,0 +1,84 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3526/?format=json",
+  "id": 3526,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2214/?format=json",
+      "id": 2214,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3526/?format=json",
+      "date_created": "2016-04-20T08:24:01.144425-07:00",
+      "date_modified": "2016-04-20T08:24:01.144446-07:00",
+      "year_rated": 2013,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2956/?format=json",
+      "id": 2956,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2310/?format=json",
+        "id": 2310,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Colgate University",
+        "ein": 150532078
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3526/?format=json",
+      "date_created": "2016-04-20T08:24:01.159539-07:00",
+      "date_modified": "2016-04-20T08:24:01.159580-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1989
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22190/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22189/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3544/?format=json",
+      "id": 3544,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3526/?format=json",
+      "date_created": "2016-04-20T08:24:01.137078-07:00",
+      "date_modified": "2016-04-20T08:24:01.137106-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2013-05-16",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:24:01.103082-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3498,
+  "slug": "elizabeth-ann-wolford",
+  "name_first": "Elizabeth",
+  "name_middle": "Ann",
+  "name_last": "Wolford",
+  "name_suffix": "",
+  "date_dob": "1966-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Buffalo",
+  "dob_state": "NY",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

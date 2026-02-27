@@ -1,0 +1,88 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3070/?format=json",
+  "id": 3070,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1943/?format=json",
+      "id": 1943,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3070/?format=json",
+      "date_created": "2016-04-20T08:22:56.822995-07:00",
+      "date_modified": "2016-04-20T08:22:56.823020-07:00",
+      "year_rated": 1975,
+      "rating": "q"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2576/?format=json",
+      "id": 2576,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4382/?format=json",
+        "id": 4382,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Temple University",
+        "ein": 231365971
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3070/?format=json",
+      "date_created": "2016-04-20T08:22:56.839309-07:00",
+      "date_modified": "2016-04-20T08:22:56.839339-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1953
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/19295/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19296/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19297/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19298/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19299/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/19300/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3086/?format=json",
+      "id": 3086,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3070/?format=json",
+      "date_created": "2016-04-20T08:22:56.813133-07:00",
+      "date_modified": "2016-04-20T08:22:56.813157-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "1975-04-18",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:56.784268-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2264,
+  "slug": "william-henry-stafford-jr",
+  "name_first": "William",
+  "name_middle": "Henry",
+  "name_last": "Stafford",
+  "name_suffix": "jr",
+  "date_dob": "1931-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Masury",
+  "dob_state": "OH",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

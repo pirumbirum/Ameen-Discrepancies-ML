@@ -1,0 +1,106 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/3499/?format=json",
+  "id": 3499,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2202/?format=json",
+      "id": 2202,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3499/?format=json",
+      "date_created": "2016-04-20T08:23:57.423046-07:00",
+      "date_modified": "2016-04-20T08:23:57.423068-07:00",
+      "year_rated": 1993,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2923/?format=json",
+      "id": 2923,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1407/?format=json",
+        "id": 1407,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Hendrix College",
+        "ein": 710236897
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3499/?format=json",
+      "date_created": "2016-04-20T08:23:57.437884-07:00",
+      "date_modified": "2016-04-20T08:23:57.437910-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1962
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2924/?format=json",
+      "id": 2924,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3776/?format=json",
+        "id": 3776,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Vanderbilt University",
+        "ein": 620476822
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3499/?format=json",
+      "date_created": "2016-04-20T08:23:57.466772-07:00",
+      "date_modified": "2016-04-20T08:23:57.466798-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1965
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/22005/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22006/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22007/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22008/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/22009/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/3518/?format=json",
+      "id": 3518,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/3499/?format=json",
+      "date_created": "2016-04-20T08:23:57.415987-07:00",
+      "date_modified": "2016-04-20T08:23:57.416011-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1993-08-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:23:57.385489-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 2612,
+  "slug": "billy-roy-wilson",
+  "name_first": "Billy",
+  "name_middle": "Roy",
+  "name_last": "Wilson",
+  "name_suffix": "",
+  "date_dob": "1939-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Little Rock",
+  "dob_state": "AR",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

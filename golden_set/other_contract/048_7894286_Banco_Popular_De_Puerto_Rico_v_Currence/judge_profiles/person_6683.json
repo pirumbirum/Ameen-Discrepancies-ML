@@ -1,0 +1,58 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/6683/?format=json",
+  "id": 6683,
+  "race": [],
+  "sources": [],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/5421/?format=json",
+      "id": 5421,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4872/?format=json",
+        "id": 4872,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Augustana College",
+        "ein": 362166962
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/6683/?format=json",
+      "date_created": "2016-04-20T08:27:38.163738-07:00",
+      "date_modified": "2016-04-20T08:27:38.163761-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/30344/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/30345/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:27:38.139053-07:00",
+  "date_modified": "2020-11-25T08:30:13.697959-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "gale-t-miller",
+  "name_first": "Gale",
+  "name_middle": "T.",
+  "name_last": "Miller",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": true
+}

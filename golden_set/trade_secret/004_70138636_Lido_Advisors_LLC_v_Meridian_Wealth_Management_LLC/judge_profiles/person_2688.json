@@ -1,0 +1,64 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2688/?format=json",
+  "id": 2688,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1675/?format=json",
+      "id": 1675,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2688/?format=json",
+      "date_created": "2016-04-20T08:22:03.102383-07:00",
+      "date_modified": "2016-04-20T08:22:03.102404-07:00",
+      "year_rated": 2014,
+      "rating": "wq"
+    }
+  ],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/16828/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16829/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2696/?format=json",
+      "id": 2696,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2688/?format=json",
+      "date_created": "2016-04-20T08:22:03.095353-07:00",
+      "date_modified": "2016-04-20T08:22:03.095377-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2014-01-06",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:22:03.066024-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3508,
+  "slug": "pamela-lynn-reeves",
+  "name_first": "Pamela",
+  "name_middle": "Lynn",
+  "name_last": "Reeves",
+  "name_suffix": "",
+  "date_dob": "1954-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Marion",
+  "dob_state": "VA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

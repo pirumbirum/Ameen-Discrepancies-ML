@@ -1,0 +1,157 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15941/?format=json",
+  "id": 15941,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19283/?format=json",
+      "id": 19283,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15941/?format=json",
+      "date_created": "2022-07-25T15:54:52.955550-07:00",
+      "date_modified": "2022-07-25T15:54:52.955569-07:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-07-25",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19284/?format=json",
+      "id": 19284,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15941/?format=json",
+      "date_created": "2022-07-25T16:10:58.248337-07:00",
+      "date_modified": "2022-07-25T16:10:58.248350-07:00",
+      "url": "https://www.txcourts.gov/7thcoa/about-the-court/justices/justice-judy-c-parker/",
+      "date_accessed": "2022-07-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19285/?format=json",
+      "id": 19285,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15941/?format=json",
+      "date_created": "2022-07-25T16:10:58.250080-07:00",
+      "date_modified": "2022-07-25T16:10:58.250096-07:00",
+      "url": "https://www.txdirectory.com/online/person/?id=59393&office=20471",
+      "date_accessed": "2022-07-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19286/?format=json",
+      "id": 19286,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15941/?format=json",
+      "date_created": "2022-07-25T16:10:58.250783-07:00",
+      "date_modified": "2022-07-25T16:10:58.250795-07:00",
+      "url": "https://ballotpedia.org/Judy_Parker",
+      "date_accessed": "2022-07-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19287/?format=json",
+      "id": 19287,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15941/?format=json",
+      "date_created": "2022-07-25T16:10:58.251497-07:00",
+      "date_modified": "2022-07-25T16:10:58.251512-07:00",
+      "url": "https://www.legaldirectories.com/Parker-Judy-C-45023-Atty.aspx",
+      "date_accessed": "2022-07-25",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/19288/?format=json",
+      "id": 19288,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15941/?format=json",
+      "date_created": "2022-07-25T16:10:58.252191-07:00",
+      "date_modified": "2022-07-25T16:10:58.252203-07:00",
+      "url": "",
+      "date_accessed": "2022-07-25",
+      "notes": "catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12442/?format=json",
+      "id": 12442,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5123/?format=json",
+        "id": 5123,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Angelo State University",
+        "ein": 756002403
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15941/?format=json",
+      "date_created": "2022-07-25T15:54:52.935807-07:00",
+      "date_modified": "2022-07-25T15:54:52.935846-07:00",
+      "degree_level": "ba",
+      "degree_detail": "cum laude",
+      "degree_year": 1982
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12443/?format=json",
+      "id": 12443,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3164/?format=json",
+        "id": 3164,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Texas Tech University",
+        "ein": 756002622
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15941/?format=json",
+      "date_created": "2022-07-25T15:54:52.945198-07:00",
+      "date_modified": "2022-07-25T15:54:52.945223-07:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": 1985
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/51388/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51389/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51390/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51391/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/51392/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8347/?format=json",
+      "id": 8347,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/15941/?format=json",
+      "date_created": "2022-07-25T15:54:52.948912-07:00",
+      "date_modified": "2022-07-25T15:54:52.948935-07:00",
+      "political_party": "r",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2022-07-25T15:54:52.913655-07:00",
+  "date_modified": "2022-07-25T16:11:39.994826-07:00",
+  "date_completed": "2022-07-25T15:50:01-07:00",
+  "fjc_id": null,
+  "slug": "judy-c-parker",
+  "name_first": "Judy",
+  "name_middle": "C.",
+  "name_last": "Parker",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

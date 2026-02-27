@@ -1,0 +1,116 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/8615/?format=json",
+  "id": 8615,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/4319/?format=json",
+      "id": 4319,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8615/?format=json",
+      "date_created": "2019-09-22T15:32:11.379375-07:00",
+      "date_modified": "2019-09-22T15:32:11.379398-07:00",
+      "url": "https://www.fjc.gov/sites/default/files/history/judges.csv",
+      "date_accessed": "2019-09-22",
+      "notes": ""
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/2362/?format=json",
+      "id": 2362,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8615/?format=json",
+      "date_created": "2019-09-22T15:32:11.376625-07:00",
+      "date_modified": "2019-09-22T15:32:11.376647-07:00",
+      "year_rated": 2017,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6806/?format=json",
+      "id": 6806,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4707/?format=json",
+        "id": 4707,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Brigham Young University-Provo",
+        "ein": 870217280
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8615/?format=json",
+      "date_created": "2019-09-22T15:32:11.394167-07:00",
+      "date_modified": "2019-09-22T15:32:11.394192-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1982
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/6807/?format=json",
+      "id": 6807,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4707/?format=json",
+        "id": 4707,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Brigham Young University-Provo",
+        "ein": 870217280
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8615/?format=json",
+      "date_created": "2019-09-22T15:32:11.409001-07:00",
+      "date_modified": "2019-09-22T15:32:11.409026-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1986
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/34304/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34305/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34306/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/34307/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/4963/?format=json",
+      "id": 4963,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/8615/?format=json",
+      "date_created": "2019-09-22T15:32:11.372210-07:00",
+      "date_modified": "2019-09-22T15:32:11.372264-07:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": "2017-05-08",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2019-09-22T15:32:11.334910-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3015971,
+  "slug": "david-charles-nye",
+  "name_first": "David",
+  "name_middle": "Charles",
+  "name_last": "Nye",
+  "name_suffix": "",
+  "date_dob": "1958-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Lynwood",
+  "dob_state": "CA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

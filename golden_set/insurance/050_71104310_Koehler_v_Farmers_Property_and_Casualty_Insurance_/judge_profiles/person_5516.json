@@ -1,0 +1,49 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/5516/?format=json",
+  "id": 5516,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/1717/?format=json",
+      "id": 1717,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/5516/?format=json",
+      "date_created": "2016-04-20T08:26:26.148528-07:00",
+      "date_modified": "2016-04-20T08:26:26.148550-07:00",
+      "url": "http://en.wikipedia.org/wiki/Cynthia_Baldwin",
+      "date_accessed": null,
+      "notes": "In January 2010, she was recruited to come to Penn State as the University's first general counsel, establish the Office of General Counsel and assist in recruiting a permanent general counsel. In that capacity, she became involved in the Jerry Sandusky scandal. News reports in July 2012 indicated that Baldwin, in her capacity as General Counsel, recommended that then-Penn State president Graham Spanier reject calls for an independent body overseeing the school's athletic programs.[5] Additionally, her role is being questioned in the case of the potential criminal cases against Penn State Athletic Director Tim Curley. When Curley appeared before the grand jury, he told court officials that Baldwin was his attorney, but she stated that she was only representing the university on that occasion."
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/27762/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/27763/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:26:26.088220-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "cynthia-a-baldwin",
+  "name_first": "Cynthia",
+  "name_middle": "A.",
+  "name_last": "Baldwin",
+  "name_suffix": "",
+  "date_dob": "1954-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "f",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

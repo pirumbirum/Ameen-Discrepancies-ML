@@ -1,0 +1,82 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/4700/?format=json",
+  "id": 4700,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/872/?format=json",
+      "id": 872,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4700/?format=json",
+      "date_created": "2016-04-20T08:25:21.360409-07:00",
+      "date_modified": "2016-04-20T08:25:21.360430-07:00",
+      "url": "http://search.marquiswhoswho.com/profile/100034130278",
+      "date_accessed": null,
+      "notes": "nan"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/873/?format=json",
+      "id": 873,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4700/?format=json",
+      "date_created": "2016-04-20T08:25:21.365528-07:00",
+      "date_modified": "2016-04-20T08:25:21.365550-07:00",
+      "url": "http://www.mdarchives.us/megafile/msa/speccol/sc3500/sc3520/011600/011684/html/11684bio.html",
+      "date_accessed": null,
+      "notes": "nan"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/3825/?format=json",
+      "id": 3825,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1044/?format=json",
+        "id": 1044,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Boston College",
+        "ein": 42103545
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/4700/?format=json",
+      "date_created": "2016-04-20T08:25:21.311414-07:00",
+      "date_modified": "2016-04-20T08:25:21.311439-07:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/25392/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25393/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25394/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25395/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/25396/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:25:21.284946-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "joseph-f-murphy-jr",
+  "name_first": "Joseph",
+  "name_middle": "F.",
+  "name_last": "Murphy",
+  "name_suffix": "jr",
+  "date_dob": "1944-01-09",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

@@ -1,0 +1,146 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13474/?format=json",
+  "id": 13474,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11883/?format=json",
+      "id": 11883,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13474/?format=json",
+      "date_created": "2022-03-11T10:27:21.867575-08:00",
+      "date_modified": "2022-03-11T10:27:21.867608-08:00",
+      "url": "https://www.forster-long.com/americanbench",
+      "date_accessed": "2022-03-11",
+      "notes": "American Bench, 2021 ed."
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11884/?format=json",
+      "id": 11884,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13474/?format=json",
+      "date_created": "2022-03-11T10:27:21.872592-08:00",
+      "date_modified": "2022-03-11T10:27:21.872614-08:00",
+      "url": "https://ballotpedia.org/Roger_Ross",
+      "date_accessed": "2022-03-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11885/?format=json",
+      "id": 11885,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13474/?format=json",
+      "date_created": "2022-03-11T10:27:21.877014-08:00",
+      "date_modified": "2022-03-11T10:27:21.877035-08:00",
+      "url": "https://www.martindale.com/attorney/roger-ross-272791/",
+      "date_accessed": "2022-03-11",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/11886/?format=json",
+      "id": 11886,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13474/?format=json",
+      "date_created": "2022-03-11T10:27:21.887542-08:00",
+      "date_modified": "2022-03-11T10:27:21.887570-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-03-11",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9503/?format=json",
+      "id": 9503,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3394/?format=json",
+        "id": 3394,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Tufts University",
+        "ein": 42103634
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13474/?format=json",
+      "date_created": "2022-03-11T10:27:21.851438-08:00",
+      "date_modified": "2022-03-11T10:27:21.851483-08:00",
+      "degree_level": "ba",
+      "degree_detail": "",
+      "degree_year": null
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/9504/?format=json",
+      "id": 9504,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5226/?format=json",
+        "id": 5226,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of San Francisco",
+        "ein": 941156628
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13474/?format=json",
+      "date_created": "2022-03-11T10:27:21.861049-08:00",
+      "date_modified": "2022-03-11T10:27:21.861071-08:00",
+      "degree_level": "jd",
+      "degree_detail": "",
+      "degree_year": null
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/42993/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6748/?format=json",
+      "id": 6748,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13474/?format=json",
+      "date_created": "2022-03-11T10:27:21.829100-08:00",
+      "date_modified": "2022-03-11T10:27:21.829122-08:00",
+      "political_party": "d",
+      "source": "o",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/6749/?format=json",
+      "id": 6749,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/13474/?format=json",
+      "date_created": "2022-03-11T10:27:21.839979-08:00",
+      "date_modified": "2022-03-11T10:27:21.840001-08:00",
+      "political_party": "r",
+      "source": "a",
+      "date_start": null,
+      "date_granularity_start": "",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2021-10-29T17:10:40.169866-07:00",
+  "date_modified": "2022-03-21T14:53:55.495412-07:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "roger-ross",
+  "name_first": "Roger",
+  "name_middle": "",
+  "name_last": "Ross",
+  "name_suffix": "",
+  "date_dob": "1949-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": null,
+  "has_photo": false
+}

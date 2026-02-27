@@ -1,0 +1,59 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/7639/?format=json",
+  "id": 7639,
+  "race": [],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3492/?format=json",
+      "id": 3492,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7639/?format=json",
+      "date_created": "2016-04-20T08:28:30.133775-07:00",
+      "date_modified": "2016-04-20T08:28:30.133793-07:00",
+      "url": "http://www.ncschs.net/Justices_of_the_Court.aspx",
+      "date_accessed": null,
+      "notes": "Law professor"
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/3493/?format=json",
+      "id": 3493,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/7639/?format=json",
+      "date_created": "2016-04-20T08:28:30.139785-07:00",
+      "date_modified": "2016-04-20T08:28:30.139803-07:00",
+      "url": "https://archive.org/stream/recordofuniversi917univ/recordofuniversi917univ_djvu.txt",
+      "date_accessed": null,
+      "notes": "Law professor"
+    }
+  ],
+  "aba_ratings": [],
+  "educations": [],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/32326/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/32327/?format=json"
+  ],
+  "political_affiliations": [],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:28:30.110508-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": null,
+  "slug": "edward-j-parker",
+  "name_first": "Edward",
+  "name_middle": "J.",
+  "name_last": "Parker",
+  "name_suffix": "",
+  "date_dob": null,
+  "date_granularity_dob": "",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

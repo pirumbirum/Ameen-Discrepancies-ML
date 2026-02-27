@@ -1,0 +1,92 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/134/?format=json",
+  "id": 134,
+  "race": [
+    "w"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/66/?format=json",
+      "id": 66,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/134/?format=json",
+      "date_created": "2016-04-20T08:16:05.929306-07:00",
+      "date_modified": "2016-04-20T08:16:05.929347-07:00",
+      "year_rated": 1979,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/90/?format=json",
+      "id": 90,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1886/?format=json",
+        "id": 1886,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Northwestern University",
+        "ein": 362167817
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/134/?format=json",
+      "date_created": "2016-04-20T08:16:05.943704-07:00",
+      "date_modified": "2016-04-20T08:16:05.943728-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1956
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/643/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/644/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/645/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/646/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/647/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/648/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/649/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/650/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/651/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/652/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/136/?format=json",
+      "id": 136,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/134/?format=json",
+      "date_created": "2016-04-20T08:16:05.921919-07:00",
+      "date_modified": "2016-04-20T08:16:05.921947-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1979-04-30",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:16:05.889118-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 67,
+  "slug": "marvin-e-aspen",
+  "name_first": "Marvin",
+  "name_middle": "E.",
+  "name_last": "Aspen",
+  "name_suffix": "",
+  "date_dob": "1934-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Chicago",
+  "dob_state": "IL",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

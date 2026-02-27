@@ -1,0 +1,105 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2655/?format=json",
+  "id": 2655,
+  "race": [
+    "h"
+  ],
+  "sources": [],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1654/?format=json",
+      "id": 1654,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2655/?format=json",
+      "date_created": "2016-04-20T08:21:58.504930-07:00",
+      "date_modified": "2016-04-20T08:21:58.504948-07:00",
+      "year_rated": 2011,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2221/?format=json",
+      "id": 2221,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3832/?format=json",
+        "id": 3832,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Yale University",
+        "ein": 60646973
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2655/?format=json",
+      "date_created": "2016-04-20T08:21:58.530853-07:00",
+      "date_modified": "2016-04-20T08:21:58.530875-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.A.",
+      "degree_year": 1982
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2222/?format=json",
+      "id": 2222,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/860/?format=json",
+        "id": 860,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Harvard University",
+        "ein": 42103580
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2655/?format=json",
+      "date_created": "2016-04-20T08:21:58.556901-07:00",
+      "date_modified": "2016-04-20T08:21:58.556921-07:00",
+      "degree_level": "jd",
+      "degree_detail": "J.D.",
+      "degree_year": 1987
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/16621/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16622/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16623/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/16620/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2663/?format=json",
+      "id": 2663,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/2655/?format=json",
+      "date_created": "2016-04-20T08:21:58.499872-07:00",
+      "date_modified": "2016-04-20T08:21:58.499894-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "2011-05-04",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:21:58.469243-07:00",
+  "date_modified": "2020-11-25T08:30:09.267808-08:00",
+  "date_completed": null,
+  "fjc_id": 3405,
+  "slug": "edgardo-ramos",
+  "name_first": "Edgardo",
+  "name_middle": "",
+  "name_last": "Ramos",
+  "name_suffix": "",
+  "date_dob": "1960-01-01",
+  "date_granularity_dob": "%Y",
+  "date_dod": null,
+  "date_granularity_dod": "",
+  "dob_city": "Ponce",
+  "dob_state": "",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}

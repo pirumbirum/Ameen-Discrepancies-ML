@@ -1,0 +1,124 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/635/?format=json",
+  "id": 635,
+  "race": [
+    "w"
+  ],
+  "sources": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7321/?format=json",
+      "id": 7321,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/635/?format=json",
+      "date_created": "2022-02-16T11:43:54.310052-08:00",
+      "date_modified": "2022-02-16T11:43:54.310090-08:00",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Alonzo_Clark",
+      "date_accessed": "2022-02-16",
+      "notes": ""
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/7322/?format=json",
+      "id": 7322,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/635/?format=json",
+      "date_created": "2022-02-16T11:43:54.319452-08:00",
+      "date_modified": "2022-02-16T11:43:54.319485-08:00",
+      "url": "https://www.courtlistener.com",
+      "date_accessed": "2022-02-16",
+      "notes": "Data updated by: catmom"
+    }
+  ],
+  "aba_ratings": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/372/?format=json",
+      "id": 372,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/635/?format=json",
+      "date_created": "2016-04-20T08:17:14.253357-07:00",
+      "date_modified": "2016-04-20T08:17:14.253379-07:00",
+      "year_rated": 1979,
+      "rating": "wq"
+    }
+  ],
+  "educations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/497/?format=json",
+      "id": 497,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3012/?format=json",
+        "id": 3012,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "Washington and Lee University",
+        "ein": 540505977
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/635/?format=json",
+      "date_created": "2016-04-20T08:17:14.280144-07:00",
+      "date_modified": "2016-04-20T08:17:14.280169-07:00",
+      "degree_level": "ba",
+      "degree_detail": "B.S.",
+      "degree_year": 1942
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/7459/?format=json",
+      "id": 7459,
+      "school": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/239/?format=json",
+        "id": 239,
+        "is_alias_of": null,
+        "date_created": "2010-06-07T17:00:00-07:00",
+        "date_modified": "2010-06-07T17:00:00-07:00",
+        "name": "University of Georgia",
+        "ein": 586001998
+      },
+      "person": "https://www.courtlistener.com/api/rest/v4/people/635/?format=json",
+      "date_created": "2022-02-16T11:43:54.237342-08:00",
+      "date_modified": "2022-02-16T11:43:54.237378-08:00",
+      "degree_level": "llb",
+      "degree_detail": "",
+      "degree_year": 1949
+    }
+  ],
+  "positions": [
+    "https://www.courtlistener.com/api/rest/v4/positions/3801/?format=json",
+    "https://www.courtlistener.com/api/rest/v4/positions/3802/?format=json"
+  ],
+  "political_affiliations": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/639/?format=json",
+      "id": 639,
+      "person": "https://www.courtlistener.com/api/rest/v4/people/635/?format=json",
+      "date_created": "2016-04-20T08:17:14.247522-07:00",
+      "date_modified": "2016-04-20T08:17:14.247547-07:00",
+      "political_party": "d",
+      "source": "a",
+      "date_start": "1979-08-28",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_end": null,
+      "date_granularity_end": ""
+    }
+  ],
+  "is_alias_of": null,
+  "date_created": "2016-04-20T08:17:14.216423-07:00",
+  "date_modified": "2022-02-16T11:43:54.217306-08:00",
+  "date_completed": null,
+  "fjc_id": 443,
+  "slug": "thomas-alonzo-clark",
+  "name_first": "Thomas",
+  "name_middle": "Alonzo",
+  "name_last": "Clark",
+  "name_suffix": "",
+  "date_dob": "1920-12-20",
+  "date_granularity_dob": "%Y-%m-%d",
+  "date_dod": "2005-09-04",
+  "date_granularity_dod": "%Y-%m-%d",
+  "dob_city": "Atlanta",
+  "dob_state": "GA",
+  "dob_country": "United States",
+  "dod_city": "",
+  "dod_state": "",
+  "dod_country": "United States",
+  "gender": "m",
+  "religion": "",
+  "ftm_total_received": null,
+  "ftm_eid": "",
+  "has_photo": false
+}
