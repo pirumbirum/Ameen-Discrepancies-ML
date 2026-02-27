@@ -1,0 +1,35 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/opinions/10112219/?format=json",
+    "id": 10112219,
+    "absolute_url": "/opinion/9645606/warren-v-cardona/",
+    "cluster_id": 9645606,
+    "cluster": "https://www.courtlistener.com/api/rest/v4/clusters/9645606/?format=json",
+    "author_id": null,
+    "author": null,
+    "joined_by": [],
+    "date_created": "2024-06-20T22:07:44.537639-07:00",
+    "date_modified": "2025-06-02T11:57:42.463291-07:00",
+    "author_str": "",
+    "per_curiam": false,
+    "joined_by_str": "",
+    "type": "100trialcourt",
+    "sha1": "0614f57c7c041e83ba2a5a6cbf633d5ede39ef48",
+    "page_count": 2,
+    "download_url": null,
+    "local_path": "recap/gov.uscourts.flmd.409424/gov.uscourts.flmd.409424.13.0.pdf",
+    "plain_text": "           UNITED STATES DISTRICT COURT                           \n             MIDDLE DISTRICT OF FLORIDA                           \n                  ORLANDO DIVISION                                \n\n\nNILS WARREN,                                                           \n\n          Plaintiff,                                              \n\nv.                                  Case No:  6:22-cv-2432-WWB-LHP     \n\nNELNET SERVING, LLC and                                                \nMIGUEL S. CARDONA,                                                     \n\n          Defendants                                              \n\n\n\n                         ORDER                                    \nThis cause came on for consideration without oral argument on the following \nmotion filed herein:                                                   \nMOTION:   MOTION TO STRIKE DEFENDANTS MOTION TO                   \n          DISMISS (Doc. No. 10)                                   \nFILED:    February 28, 2023                                       \n\nTHEREON it is ORDERED that the motion is DENIED without           \nprejudice.                                                        \nThe motion fails to comply with the Local Rules, including Local Rule 3.01(a) \nand Local Rule 3.01(g).  See also Moon v. Newsome, 863 F.2d 835, 837 (11th Cir. 1989) \n(stating  that pro  se  litigants  are  \u201csubject  to  the  relevant  law  and  rules  of court, \nincluding the Federal Rules of Civil Procedure\u201d). \n DONE and ORDERED in Orlando, Florida on March 3, 2023. \n\n                                            |              Ayn        \n                                               LESLIE       AN PRICE \n                                         UNITED STATES MAGISTRATE JUDGE \n\nCopies furnished to: \nCounsel of Record \nUnrepresented Parties \n\n                                 _2- ",
+    "html": "",
+    "html_lawbox": "",
+    "html_columbia": "",
+    "html_anon_2020": "",
+    "xml_harvard": "",
+    "html_with_citations": "<pre class=\"inline\">           UNITED STATES DISTRICT COURT                           \n             MIDDLE DISTRICT OF FLORIDA                           \n                  ORLANDO DIVISION                                \n\n\nNILS WARREN,                                                           \n\n          Plaintiff,                                              \n\nv.                                  Case No:  6:22-cv-2432-WWB-LHP     \n\nNELNET SERVING, LLC and                                                \nMIGUEL S. CARDONA,                                                     \n\n          Defendants                                              \n\n\n\n                         ORDER                                    \nThis cause came on for consideration without oral argument on the following \nmotion filed herein:                                                   \nMOTION:   MOTION TO STRIKE DEFENDANTS MOTION TO                   \n          DISMISS (Doc. No. 10)                                   \nFILED:    February 28, 2023                                       \n\nTHEREON it is ORDERED that the motion is DENIED without           \nprejudice.                                                        \nThe motion fails to comply with the Local Rules, including Local Rule 3.01(a) \nand Local Rule 3.01(g).  See also Moon v. Newsome, </pre><span class=\"citation\" data-id=\"515821\"><a href=\"/opinion/515821/david-richard-moon-v-lanson-newsome-warden/#837\" aria-description=\"Citation for case: David Richard Moon v. Lanson Newsome, Warden\">863 F.2d 835, 837</a></span><pre class=\"inline\"> (11th Cir. 1989) \n(stating  that pro  se  litigants  are  \u201csubject  to  the  relevant  law  and  rules  of court, \nincluding the Federal Rules of Civil Procedure\u201d). \n DONE and ORDERED in Orlando, Florida on March 3, 2023. \n\n                                            |              Ayn        \n                                               LESLIE       AN PRICE \n                                         UNITED STATES MAGISTRATE JUDGE \n\nCopies furnished to: \nCounsel of Record \nUnrepresented Parties \n\n                                 _2- </pre>",
+    "extracted_by_ocr": true,
+    "ordering_key": null,
+    "main_version": null,
+    "opinions_cited": [
+      "https://www.courtlistener.com/api/rest/v4/opinions/515821/?format=json"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/opinions/10394150/?format=json",
+    "id": 10394150,
+    "absolute_url": "/opinion/9927541/cascadia-wildlands-v-united-states-bureau-of-land-management/",
+    "cluster_id": 9927541,
+    "cluster": "https://www.courtlistener.com/api/rest/v4/clusters/9927541/?format=json",
+    "author_id": null,
+    "author": null,
+    "joined_by": [],
+    "date_created": "2024-06-27T04:25:47.592932-07:00",
+    "date_modified": "2025-06-04T00:58:06.328705-07:00",
+    "author_str": "",
+    "per_curiam": false,
+    "joined_by_str": "",
+    "type": "100trialcourt",
+    "sha1": "0ca9c931d5cd37a73e01f1018c9132fada8df22a",
+    "page_count": 2,
+    "download_url": null,
+    "local_path": "recap/gov.uscourts.ord.154356/gov.uscourts.ord.154356.54.0.pdf",
+    "plain_text": "           IN THE UNITED STATES DISTRICT COURT                       \n\n               FOR THE DISTRICT OF OREGON                            \n\nCASCADIA WILDLANDS, an Oregon                                             \nnon-profit corporation; and OREGON                                        \nWILD, an Oregon non-profit corporation,,                                  \n\n     Plaintiffs,                        Civ. No. 6:20-cv-1395-MK     \n\nv.                                      ORDER                        \n\nUNITED STATES BUREAU OF LAND                                              \nMANAGEMENT, an administrative agency                                      \nof the United States Department of Interior,                              \n\n     Defendant;                                                      \n\nSENECA SAWMILL COMPANY, an                                                \nOregon corporation                                                        \n_____________________________                                             \n\nMCSHANE, Judge:                                                           \nMagistrate Judge Mustafa Kasubhai filed a Findings and Recommendation (ECF No. 43), \nand the matter is now before this court. See 28 U.S.C. \u00a7 636(b)(1)(B), Fed. R. Civ. P. 72(b). AlL \nparties filed objections to the Findings and Recommendation. Accordingly, I have reviewed the \nfile of this case de novo. See 28 U.S.C. \u00a7 636(b)(1)(c); McDonnell Douglas Corp. v. Commodore \nBus. Mach., Inc., 656 F.2d 1309, 1313 (9th Cir. 1981). The Court finds no error and concludes \nthe report is correct.                                                    \n1 \u2013ORDER                                                                  \nMagistrate Judge Kasubhai\u2019s Findings and Recommendation (ECF No. 43) is adopted. \nPlaintiffs\u2019 motion for summary judgment (ECF No. 10) is GRANTED in part as recommended \nin the Findings and Recommendation. Defendants\u2019 motion for summary judgment (ECF Nos. 26, \n28) are GRANTED as to Plaintiff\u2019s NEPA claim and DENIED in all other respects. The \nunderlying Project is REMANDED to BLM and the Decision Notice and Finding of No \n\nSignificant Impact is VACATED.                                            \nIT IS SO ORDERED.                                                    \nDATED this 3rd day of January, 2022.                                 \n                         _______/s/ Michael J. McShane________       \n                               Michael McShane                       \n                            United States District Judge             \n\n\n\n\n\n\n\n\n\n\n\n\n\n2 \u2013ORDER                                                                  ",
+    "html": "",
+    "html_lawbox": "",
+    "html_columbia": "",
+    "html_anon_2020": "",
+    "xml_harvard": "",
+    "html_with_citations": "<pre class=\"inline\">           IN THE UNITED STATES DISTRICT COURT                       \n\n               FOR THE DISTRICT OF OREGON                            \n\nCASCADIA WILDLANDS, an Oregon                                             \nnon-profit corporation; and OREGON                                        \nWILD, an Oregon non-profit corporation,,                                  \n\n     Plaintiffs,                        Civ. No. 6:20-cv-1395-MK     \n\nv.                                      ORDER                        \n\nUNITED STATES BUREAU OF LAND                                              \nMANAGEMENT, an administrative agency                                      \nof the United States Department of Interior,                              \n\n     Defendant;                                                      \n\nSENECA SAWMILL COMPANY, an                                                \nOregon corporation                                                        \n_____________________________                                             \n\nMCSHANE, Judge:                                                           \nMagistrate Judge Mustafa Kasubhai filed a Findings and Recommendation (ECF No. 43), \nand the matter is now before this court. See </pre><span class=\"citation no-link\">28 U.S.C. \u00a7 636</span><pre class=\"inline\">(b)(1)(B), Fed. R. Civ. P. 72(b). AlL \nparties filed objections to the Findings and Recommendation. Accordingly, I have reviewed the \nfile of this case de novo. See </pre><span class=\"citation no-link\">28 U.S.C. \u00a7 636</span><pre class=\"inline\">(b)(1)(c); McDonnell Douglas Corp. v. Commodore \nBus. Mach., Inc., </pre><span class=\"citation\" data-id=\"393286\"><a href=\"/opinion/393286/mcdonnell-douglas-corporation-v-commodore-business-machines-inc-and/#1313\" aria-description=\"Citation for case: McDonnell Douglas Corporation v. Commodore Business...\">656 F.2d 1309, 1313</a></span><pre class=\"inline\"> (9th Cir. 1981). The Court finds no error and concludes \nthe report is correct.                                                    \n1 \u2013ORDER                                                                  \nMagistrate Judge Kasubhai\u2019s Findings and Recommendation (ECF No. 43) is adopted. \nPlaintiffs\u2019 motion for summary judgment (ECF No. 10) is GRANTED in part as recommended \nin the Findings and Recommendation. Defendants\u2019 motion for summary judgment (ECF Nos. 26, \n28) are GRANTED as to Plaintiff\u2019s NEPA claim and DENIED in all other respects. The \nunderlying Project is REMANDED to BLM and the Decision Notice and Finding of No \n\nSignificant Impact is VACATED.                                            \nIT IS SO ORDERED.                                                    \nDATED this 3rd day of January, 2022.                                 \n                         _______/s/ Michael J. McShane________       \n                               Michael McShane                       \n                            United States District Judge             \n\n\n\n\n\n\n\n\n\n\n\n\n\n2 \u2013ORDER                                                                  </pre>",
+    "extracted_by_ocr": false,
+    "ordering_key": null,
+    "main_version": null,
+    "opinions_cited": [
+      "https://www.courtlistener.com/api/rest/v4/opinions/393286/?format=json"
+    ]
+  }
+]

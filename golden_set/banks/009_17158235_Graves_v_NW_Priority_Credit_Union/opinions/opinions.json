@@ -1,0 +1,36 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/opinions/10392792/?format=json",
+    "id": 10392792,
+    "absolute_url": "/opinion/9926183/graves-v-nw-priority-credit-union/",
+    "cluster_id": 9926183,
+    "cluster": "https://www.courtlistener.com/api/rest/v4/clusters/9926183/?format=json",
+    "author_id": null,
+    "author": null,
+    "joined_by": [],
+    "date_created": "2024-06-27T04:11:54.619421-07:00",
+    "date_modified": "2025-06-04T00:56:39.869068-07:00",
+    "author_str": "",
+    "per_curiam": false,
+    "joined_by_str": "",
+    "type": "100trialcourt",
+    "sha1": "7c079f1b4f74484b06f7a7ca9120208813a4ffc7",
+    "page_count": 2,
+    "download_url": null,
+    "local_path": "recap/gov.uscourts.ord.152503/gov.uscourts.ord.152503.18.0_5.pdf",
+    "plain_text": "           IN THE UNITED STATES DISTRICT COURT                       \n\n               FOR THE DISTRICT OF OREGON                            \n\n\n\n\n\nCEDRIC GRAVES II,                       No. 3:20-cv-00770-JR              \n\n          Plaintiff,               ORDER                             \n\nv.                                                                   \n\nNW PRIORITY CREDIT UNION,                                                 \n\n          Defendant.                                                 \n\n\nHERN\u00c1NDEZ, District Judge:                                                \nMagistrate Judge Russo issued a Findings and Recommendation [16] on December 16, \n2020, in which she recommends that the Court grant Defendant\u2019s motion to dismiss. The matter \nis now before the Court pursuant to 28 U.S.C. \u00a7 636(b)(1)(B) and Federal Rule of Civil \nProcedure 72(b).                                                          \nBecause no objections to the Magistrate Judge\u2019s Findings and Recommendation were \ntimely filed, the Court is relieved of its obligation to review the record de novo. United States v. \nReyna-Tapia, 328 F.3d 1114, 1121 (9th Cir. 2003) (en banc); see also United States v. \nBernhardt, 840 F.2d 1441, 1444 (9th Cir. 1988) (de novo review required only for portions of \nMagistrate Judge\u2019s report to which objections have been made). Having reviewed the legal \nprinciples de novo, the Court finds no error.                             \n                      CONCLUSION                                     \n\nThe Court ADOPTS Magistrate Judge Russo\u2019s Findings and Recommendation [16]. \nAccordingly, Defendant\u2019s Motion to Dismiss [11] is GRANTED.               \nIT IS SO ORDERED.                                                    \n\nDATED: _____J_a_n_u_a_r_y_ 9_,_ 2_0__2_1________.                    \n\n\n                              MARCO A. HERN\u00c1NDEZ                     \n                              United States District Judge           ",
+    "html": "",
+    "html_lawbox": "",
+    "html_columbia": "",
+    "html_anon_2020": "",
+    "xml_harvard": "",
+    "html_with_citations": "<pre class=\"inline\">           IN THE UNITED STATES DISTRICT COURT                       \n\n               FOR THE DISTRICT OF OREGON                            \n\n\n\n\n\nCEDRIC GRAVES II,                       No. 3:20-cv-00770-JR              \n\n          Plaintiff,               ORDER                             \n\nv.                                                                   \n\nNW PRIORITY CREDIT UNION,                                                 \n\n          Defendant.                                                 \n\n\nHERN\u00c1NDEZ, District Judge:                                                \nMagistrate Judge Russo issued a Findings and Recommendation [16] on December 16, \n2020, in which she recommends that the Court grant Defendant\u2019s motion to dismiss. The matter \nis now before the Court pursuant to </pre><span class=\"citation no-link\">28 U.S.C. \u00a7 636</span><pre class=\"inline\">(b)(1)(B) and Federal Rule of Civil \nProcedure 72(b).                                                          \nBecause no objections to the Magistrate Judge\u2019s Findings and Recommendation were \ntimely filed, the Court is relieved of its obligation to review the record de novo. United States v. \nReyna-Tapia, </pre><span class=\"citation\" data-id=\"781951\"><a href=\"/opinion/781951/united-states-v-jose-francisco-reyna-tapia-aka-jose-reyna/#1121\" aria-description=\"Citation for case: United States v. Jose Francisco Reyna-Tapia, AKA Jose Reyna\">328 F.3d 1114, 1121</a></span><pre class=\"inline\"> (9th Cir. 2003) (en banc); see also United States v. \nBernhardt, </pre><span class=\"citation\" data-id=\"502465\"><a href=\"/opinion/502465/united-states-v-curtis-j-bernhardt-michael-f-mccarthy-harold-t/#1444\" aria-description=\"Citation for case: United States v. Curtis J. Bernhardt, Michael F. McCarthy...\">840 F.2d 1441, 1444</a></span><pre class=\"inline\"> (9th Cir. 1988) (de novo review required only for portions of \nMagistrate Judge\u2019s report to which objections have been made). Having reviewed the legal \nprinciples de novo, the Court finds no error.                             \n                      CONCLUSION                                     \n\nThe Court ADOPTS Magistrate Judge Russo\u2019s Findings and Recommendation [16]. \nAccordingly, Defendant\u2019s Motion to Dismiss [11] is GRANTED.               \nIT IS SO ORDERED.                                                    \n\nDATED: _____J_a_n_u_a_r_y_ 9_,_ 2_0__2_1________.                    \n\n\n                              MARCO A. HERN\u00c1NDEZ                     \n                              United States District Judge           </pre>",
+    "extracted_by_ocr": false,
+    "ordering_key": null,
+    "main_version": null,
+    "opinions_cited": [
+      "https://www.courtlistener.com/api/rest/v4/opinions/502465/?format=json",
+      "https://www.courtlistener.com/api/rest/v4/opinions/781951/?format=json"
+    ]
+  }
+]
