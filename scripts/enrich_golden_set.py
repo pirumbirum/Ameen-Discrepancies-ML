@@ -273,8 +273,8 @@ def enrich_parties(cases, token):
         sub_dir = os.path.join(case_dir, "parties")
         os.makedirs(sub_dir, exist_ok=True)
 
-        # Use nested endpoint: /dockets/{id}/parties/
-        url = f"{CL_API}/dockets/{docket_id}/parties/?format=json"
+        # Use flat endpoint with docket filter
+        url = f"{CL_API}/parties/?docket={docket_id}&format=json"
         parties, err = api_get_all_pages(url, token, max_pages=50)
 
         if err:
@@ -332,8 +332,8 @@ def enrich_attorneys(cases, token):
         sub_dir = os.path.join(case_dir, "attorneys")
         os.makedirs(sub_dir, exist_ok=True)
 
-        # Use nested endpoint: /dockets/{id}/attorneys/
-        url = f"{CL_API}/dockets/{docket_id}/attorneys/?format=json"
+        # Use flat endpoint with docket filter
+        url = f"{CL_API}/attorneys/?docket={docket_id}&format=json"
         attorneys, err = api_get_all_pages(url, token, max_pages=50)
 
         if err:
