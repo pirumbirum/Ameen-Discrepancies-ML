@@ -632,11 +632,11 @@ def main():
     _checkpoint_interval = args.checkpoint_minutes * 60
     print(f"Checkpoint interval: every {args.checkpoint_minutes} minutes")
 
-    token = os.environ.get("CL_API_TOKEN", "")
+    token = os.environ.get("CL_API_TOKEN", "") or os.environ.get("COURTLISTENER_TOKEN", "")
     if not token:
-        print("FATAL: CL_API_TOKEN is required (v4.3+ requires authentication)")
+        print("FATAL: CL_API_TOKEN or COURTLISTENER_TOKEN is required (v4.3+ requires authentication)")
         sys.exit(1)
-    print(f"Using API token (authenticated)")
+    print(f"Using API token (length={len(token)})")
 
     if args.clean_bad_markers:
         cleaned = 0
