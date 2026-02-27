@@ -1,0 +1,345 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/32404/?format=json",
+    "id": 32404,
+    "agreements": [],
+    "debts": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/51530/?format=json",
+        "id": 51530,
+        "date_created": "2022-02-23T07:35:24.849864-08:00",
+        "date_modified": "2022-02-23T07:35:24.849892-08:00",
+        "creditor_name": "1st Mark",
+        "description": "Personal Loan",
+        "value_code": "K",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/32404/?format=json"
+      }
+    ],
+    "gifts": [],
+    "investments": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/5160583/?format=json",
+        "id": 5160583,
+        "date_created": "2022-02-23T07:35:24.847530-08:00",
+        "date_modified": "2022-02-23T07:35:24.847568-08:00",
+        "page_number": 4,
+        "description": "Idaho State University Credit Union - Cash Account",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "L",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/32404/?format=json"
+      }
+    ],
+    "non_investment_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/41111/?format=json",
+        "id": 41111,
+        "date_created": "2022-02-23T07:35:24.851496-08:00",
+        "date_modified": "2022-02-23T07:35:24.851523-08:00",
+        "date_raw": "2020",
+        "source_type": "State of Idaho - Retirement Benefits for State District Judge",
+        "income_amount": "$64,183.00",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/32404/?format=json"
+      }
+    ],
+    "positions": [],
+    "reimbursements": [],
+    "spouse_incomes": [],
+    "person": "https://www.courtlistener.com/api/rest/v4/people/8615/?format=json",
+    "filepath": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/8615/david-charles-nye-disclosure.2020.pdf",
+    "thumbnail": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/8615/david-charles-nye-disclosure.2020-thumbnail_1.png",
+    "date_created": "2022-02-23T07:34:06.527619-08:00",
+    "date_modified": "2022-02-23T07:35:26.554235-08:00",
+    "year": 2020,
+    "thumbnail_status": 1,
+    "page_count": 6,
+    "sha1": "dda2db2b1eccf6066d1df99f4314770e1704786e",
+    "report_type": -1,
+    "is_amended": false,
+    "addendum_content_raw": "",
+    "addendum_redacted": false,
+    "has_been_extracted": true
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/30050/?format=json",
+    "id": 30050,
+    "agreements": [],
+    "debts": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/50525/?format=json",
+        "id": 50525,
+        "date_created": "2021-11-23T10:52:20.032798-08:00",
+        "date_modified": "2021-11-23T10:52:20.032836-08:00",
+        "creditor_name": "1st Mark",
+        "description": "Personal Loan",
+        "value_code": "K",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/30050/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/50526/?format=json",
+        "id": 50526,
+        "date_created": "2021-11-23T10:52:20.032909-08:00",
+        "date_modified": "2021-11-23T10:52:20.032926-08:00",
+        "creditor_name": "Lowe's Credit Card",
+        "description": "Personal Loan",
+        "value_code": "J",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/30050/?format=json"
+      }
+    ],
+    "gifts": [],
+    "investments": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/5065426/?format=json",
+        "id": 5065426,
+        "date_created": "2021-11-23T10:52:20.029344-08:00",
+        "date_modified": "2021-11-23T10:52:20.029424-08:00",
+        "page_number": 4,
+        "description": "Idaho State University Credit Union - Savings Account",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "K",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/30050/?format=json"
+      }
+    ],
+    "non_investment_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/40361/?format=json",
+        "id": 40361,
+        "date_created": "2021-11-23T10:52:20.035524-08:00",
+        "date_modified": "2021-11-23T10:52:20.035556-08:00",
+        "date_raw": "2019",
+        "source_type": "State of Idaho - Retirement Benefits for State District Judge",
+        "income_amount": "$62,788.00",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/30050/?format=json"
+      }
+    ],
+    "positions": [],
+    "reimbursements": [],
+    "spouse_incomes": [],
+    "person": "https://www.courtlistener.com/api/rest/v4/people/8615/?format=json",
+    "filepath": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/8615/david-charles-nye-disclosure.2019.pdf",
+    "thumbnail": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/8615/david-charles-nye-disclosure.2019-thumbnail_1.png",
+    "date_created": "2021-11-23T10:51:38.051862-08:00",
+    "date_modified": "2021-11-23T10:52:36.626954-08:00",
+    "year": 2019,
+    "thumbnail_status": 1,
+    "page_count": 6,
+    "sha1": "354ad6f5db315436838a5406617668a89429343f",
+    "report_type": -1,
+    "is_amended": false,
+    "addendum_content_raw": "",
+    "addendum_redacted": false,
+    "has_been_extracted": true
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/17310/?format=json",
+    "id": 17310,
+    "agreements": [],
+    "debts": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/39057/?format=json",
+        "id": 39057,
+        "date_created": "2021-01-12T17:47:08.840084-08:00",
+        "date_modified": "2021-01-12T17:47:08.840140-08:00",
+        "creditor_name": "CinBank - Firstmark Services",
+        "description": "Personal Loan",
+        "value_code": "K",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/17310/?format=json"
+      }
+    ],
+    "gifts": [],
+    "investments": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/3687949/?format=json",
+        "id": 3687949,
+        "date_created": "2021-01-12T17:47:08.836251-08:00",
+        "date_modified": "2021-01-12T17:47:08.836305-08:00",
+        "page_number": 4,
+        "description": "Idaho State University Credit Union Savings Account",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "K",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/17310/?format=json"
+      }
+    ],
+    "non_investment_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/30554/?format=json",
+        "id": 30554,
+        "date_created": "2021-01-12T17:47:08.843027-08:00",
+        "date_modified": "2021-01-12T17:47:08.843071-08:00",
+        "date_raw": "2018",
+        "source_type": "State of Idaho - Retirement Benefits tor State District Judge",
+        "income_amount": "$15,619.00",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/17310/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/30555/?format=json",
+        "id": 30555,
+        "date_created": "2021-01-12T17:47:08.843148-08:00",
+        "date_modified": "2021-01-12T17:47:08.843173-08:00",
+        "date_raw": "2018",
+        "source_type": "United States Judges - Salary for Federal District Judge",
+        "income_amount": "S192 888.00",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/17310/?format=json"
+      }
+    ],
+    "positions": [],
+    "reimbursements": [],
+    "spouse_incomes": [],
+    "person": "https://www.courtlistener.com/api/rest/v4/people/8615/?format=json",
+    "filepath": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/8615/david-charles-nye-disclosure.2018.pdf",
+    "thumbnail": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/8615/david-charles-nye-disclosure.2018-thumbnail_1.png",
+    "date_created": "2021-01-12T17:12:39.157357-08:00",
+    "date_modified": "2021-01-12T17:47:08.831166-08:00",
+    "year": 2018,
+    "thumbnail_status": 1,
+    "page_count": 6,
+    "sha1": "1ee211e799560f2c7bdd1f5421f7b0ad93a9b06b",
+    "report_type": 2,
+    "is_amended": false,
+    "addendum_content_raw": "",
+    "addendum_redacted": false,
+    "has_been_extracted": true
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/10005/?format=json",
+    "id": 10005,
+    "agreements": [],
+    "debts": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/17577/?format=json",
+        "id": 17577,
+        "date_created": "2021-01-10T21:31:17.586099-08:00",
+        "date_modified": "2021-01-10T21:31:17.586142-08:00",
+        "creditor_name": "CinBank - Firstmark Services",
+        "description": "Personal Loan",
+        "value_code": "K",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/10005/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/17578/?format=json",
+        "id": 17578,
+        "date_created": "2021-01-10T21:31:17.586226-08:00",
+        "date_modified": "2021-01-10T21:31:17.586249-08:00",
+        "creditor_name": "ISU Credit Union",
+        "description": "Credit Card",
+        "value_code": "J",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/10005/?format=json"
+      }
+    ],
+    "gifts": [],
+    "investments": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/1776740/?format=json",
+        "id": 1776740,
+        "date_created": "2021-01-10T21:31:17.581603-08:00",
+        "date_modified": "2021-01-10T21:31:17.581648-08:00",
+        "page_number": 4,
+        "description": "Idaho State University Credit Union Savings Account (X)",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "J",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/10005/?format=json"
+      }
+    ],
+    "non_investment_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/14585/?format=json",
+        "id": 14585,
+        "date_created": "2021-01-10T21:31:17.591821-08:00",
+        "date_modified": "2021-01-10T21:31:17.591867-08:00",
+        "date_raw": "27",
+        "source_type": "State of Idaho - Salary for State District Judge",
+        "income_amount": "SKK. 893.30",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/10005/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/14586/?format=json",
+        "id": 14586,
+        "date_created": "2021-01-10T21:31:17.591947-08:00",
+        "date_modified": "2021-01-10T21:31:17.591965-08:00",
+        "date_raw": "2007",
+        "source_type": "United States Judges - Salary for Federal District Judge",
+        "income_amount": "S64.35091",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/10005/?format=json"
+      }
+    ],
+    "positions": [],
+    "reimbursements": [],
+    "spouse_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/spouse-incomes/19893/?format=json",
+        "id": 19893,
+        "date_created": "2021-01-10T21:31:17.594518-08:00",
+        "date_modified": "2021-01-10T21:31:17.594558-08:00",
+        "source_type": "Bannock County, State of Idaho - Salary",
+        "date_raw": "2017",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/10005/?format=json"
+      }
+    ],
+    "person": "https://www.courtlistener.com/api/rest/v4/people/8615/?format=json",
+    "filepath": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/8615/david-charles-nye-disclosure.2017.pdf",
+    "thumbnail": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/8615/david-charles-nye-disclosure.2017-thumbnail_1.png",
+    "date_created": "2021-01-10T20:30:03.464316-08:00",
+    "date_modified": "2021-01-10T21:31:17.577485-08:00",
+    "year": 2017,
+    "thumbnail_status": 1,
+    "page_count": 6,
+    "sha1": "49ce5f9d7e79dd4684c54d9c01e3cdedcc6d2320",
+    "report_type": 2,
+    "is_amended": true,
+    "addendum_content_raw": "",
+    "addendum_redacted": false,
+    "has_been_extracted": true
+  }
+]

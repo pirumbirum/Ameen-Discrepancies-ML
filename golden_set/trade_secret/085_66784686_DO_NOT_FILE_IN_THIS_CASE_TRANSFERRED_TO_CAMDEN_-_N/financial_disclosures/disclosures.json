@@ -1,0 +1,1571 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/33404/?format=json",
+    "id": 33404,
+    "agreements": [],
+    "debts": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/52605/?format=json",
+        "id": 52605,
+        "date_created": "2022-05-18T11:52:29.763626-07:00",
+        "date_modified": "2022-05-18T11:52:29.763660-07:00",
+        "creditor_name": "Direct Loan Servicing Center",
+        "description": "Education Loan",
+        "value_code": "L",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/33404/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/52606/?format=json",
+        "id": 52606,
+        "date_created": "2022-05-18T11:52:29.763726-07:00",
+        "date_modified": "2022-05-18T11:52:29.763744-07:00",
+        "creditor_name": "Direct Loan Servicing Center",
+        "description": "Education Loan",
+        "value_code": "L",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/33404/?format=json"
+      }
+    ],
+    "gifts": [],
+    "investments": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/5254458/?format=json",
+        "id": 5254458,
+        "date_created": "2022-05-18T11:52:29.738506-07:00",
+        "date_modified": "2022-05-18T11:52:29.738549-07:00",
+        "page_number": 4,
+        "description": "PNC Bank Cash Accounts",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "J",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/33404/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/5254459/?format=json",
+        "id": 5254459,
+        "date_created": "2022-05-18T11:52:29.738690-07:00",
+        "date_modified": "2022-05-18T11:52:29.738710-07:00",
+        "page_number": 4,
+        "description": "SECU Cash Account",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "J",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/33404/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/5254460/?format=json",
+        "id": 5254460,
+        "date_created": "2022-05-18T11:52:29.738839-07:00",
+        "date_modified": "2022-05-18T11:52:29.738858-07:00",
+        "page_number": 4,
+        "description": "Vanguard Target Retirement Income (IRA)",
+        "redacted": false,
+        "income_during_reporting_period_code": "E",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "M",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/33404/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/5254461/?format=json",
+        "id": 5254461,
+        "date_created": "2022-05-18T11:52:29.738964-07:00",
+        "date_modified": "2022-05-18T11:52:29.738982-07:00",
+        "page_number": 4,
+        "description": "Skypoint FCU Cash Account",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "J",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/33404/?format=json"
+      }
+    ],
+    "non_investment_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/41841/?format=json",
+        "id": 41841,
+        "date_created": "2022-05-18T11:52:29.809878-07:00",
+        "date_modified": "2022-05-18T11:52:29.809912-07:00",
+        "date_raw": "2020",
+        "source_type": "American University - Washington College of Law",
+        "income_amount": "$8,600.00",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/33404/?format=json"
+      }
+    ],
+    "positions": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v3/disclosure-positions/96775/",
+        "id": 96775,
+        "date_created": "2022-05-18T11:52:29.786890-07:00",
+        "date_modified": "2022-05-18T11:52:29.786924-07:00",
+        "position": "Adjunct Professor",
+        "organization_name": "American University, Washington College of Law",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/33404/?format=json"
+      }
+    ],
+    "reimbursements": [],
+    "spouse_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/spouse-incomes/60515/?format=json",
+        "id": 60515,
+        "date_created": "2022-05-18T11:52:29.832753-07:00",
+        "date_modified": "2022-05-18T11:52:29.832786-07:00",
+        "source_type": "Montgomery County Public Schools",
+        "date_raw": "2020",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/33404/?format=json"
+      }
+    ],
+    "person": "https://www.courtlistener.com/api/rest/v4/people/9296/?format=json",
+    "filepath": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9296/charles-bernard-day-disclosure.2020.pdf",
+    "thumbnail": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9296/charles-bernard-day-disclosure.2020-thumbnail_1.png",
+    "date_created": "2022-05-18T11:50:54.275235-07:00",
+    "date_modified": "2022-05-18T11:52:30.287262-07:00",
+    "year": 2020,
+    "thumbnail_status": 1,
+    "page_count": 6,
+    "sha1": "b26a4423b4757161e61f903049e49cad176cde27",
+    "report_type": -1,
+    "is_amended": false,
+    "addendum_content_raw": "",
+    "addendum_redacted": false,
+    "has_been_extracted": true
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/29999/?format=json",
+    "id": 29999,
+    "agreements": [],
+    "debts": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/50495/?format=json",
+        "id": 50495,
+        "date_created": "2021-11-23T10:51:10.345072-08:00",
+        "date_modified": "2021-11-23T10:51:10.345104-08:00",
+        "creditor_name": "Direct Loan Servicing Center",
+        "description": "Education Loan",
+        "value_code": "L",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/29999/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/50496/?format=json",
+        "id": 50496,
+        "date_created": "2021-11-23T10:51:10.345172-08:00",
+        "date_modified": "2021-11-23T10:51:10.345190-08:00",
+        "creditor_name": "Direct Loan Servicing Center",
+        "description": "Education Loan",
+        "value_code": "L",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/29999/?format=json"
+      }
+    ],
+    "gifts": [],
+    "investments": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/5064155/?format=json",
+        "id": 5064155,
+        "date_created": "2021-11-23T10:51:10.340304-08:00",
+        "date_modified": "2021-11-23T10:51:10.340346-08:00",
+        "page_number": 4,
+        "description": "PNC Bank Cash Accounts",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "J",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/29999/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/5064156/?format=json",
+        "id": 5064156,
+        "date_created": "2021-11-23T10:51:10.340521-08:00",
+        "date_modified": "2021-11-23T10:51:10.340546-08:00",
+        "page_number": 4,
+        "description": "SECU Cash Account",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "J",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/29999/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/5064157/?format=json",
+        "id": 5064157,
+        "date_created": "2021-11-23T10:51:10.340687-08:00",
+        "date_modified": "2021-11-23T10:51:10.340709-08:00",
+        "page_number": 4,
+        "description": "Vanguard Target Retirement Income (IRA)",
+        "redacted": false,
+        "income_during_reporting_period_code": "E",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "M",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/29999/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/5064158/?format=json",
+        "id": 5064158,
+        "date_created": "2021-11-23T10:51:10.340847-08:00",
+        "date_modified": "2021-11-23T10:51:10.340870-08:00",
+        "page_number": 4,
+        "description": "Skypoint FCU Cash Account",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "J",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/29999/?format=json"
+      }
+    ],
+    "non_investment_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/40346/?format=json",
+        "id": 40346,
+        "date_created": "2021-11-23T10:51:10.349590-08:00",
+        "date_modified": "2021-11-23T10:51:10.349620-08:00",
+        "date_raw": "2019",
+        "source_type": "American University - Washington College of Law",
+        "income_amount": "$9,000.00",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/29999/?format=json"
+      }
+    ],
+    "positions": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v3/disclosure-positions/92876/",
+        "id": 92876,
+        "date_created": "2021-11-23T10:51:10.347331-08:00",
+        "date_modified": "2021-11-23T10:51:10.347357-08:00",
+        "position": "Adjunct Professor",
+        "organization_name": "American University, Washington College of Law",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/29999/?format=json"
+      }
+    ],
+    "reimbursements": [],
+    "spouse_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/spouse-incomes/58448/?format=json",
+        "id": 58448,
+        "date_created": "2021-11-23T10:51:10.352943-08:00",
+        "date_modified": "2021-11-23T10:51:10.352972-08:00",
+        "source_type": "Montgomery County Public Schools",
+        "date_raw": "2019",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/29999/?format=json"
+      }
+    ],
+    "person": "https://www.courtlistener.com/api/rest/v4/people/9296/?format=json",
+    "filepath": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9296/charles-bernard-day-disclosure.2019.pdf",
+    "thumbnail": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9296/charles-bernard-day-disclosure.2019-thumbnail_1.png",
+    "date_created": "2021-11-23T10:50:49.507606-08:00",
+    "date_modified": "2021-11-23T10:51:27.895094-08:00",
+    "year": 2019,
+    "thumbnail_status": 1,
+    "page_count": 6,
+    "sha1": "30df5c118621815709eec8ecd45e67c07bb7c352",
+    "report_type": -1,
+    "is_amended": false,
+    "addendum_content_raw": "",
+    "addendum_redacted": false,
+    "has_been_extracted": true
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/19228/?format=json",
+    "id": 19228,
+    "agreements": [],
+    "debts": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/43634/?format=json",
+        "id": 43634,
+        "date_created": "2021-01-25T20:37:37.965447-08:00",
+        "date_modified": "2021-01-25T20:37:37.965482-08:00",
+        "creditor_name": "Direct Loan Servicing Center",
+        "description": "Education Loan",
+        "value_code": "L",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/19228/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/43635/?format=json",
+        "id": 43635,
+        "date_created": "2021-01-25T20:37:37.965549-08:00",
+        "date_modified": "2021-01-25T20:37:37.965564-08:00",
+        "creditor_name": "Direct Loan Servicing Center",
+        "description": "Education Loan",
+        "value_code": "L",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/19228/?format=json"
+      }
+    ],
+    "gifts": [],
+    "investments": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/4266950/?format=json",
+        "id": 4266950,
+        "date_created": "2021-01-25T20:37:37.961090-08:00",
+        "date_modified": "2021-01-25T20:37:37.961127-08:00",
+        "page_number": 4,
+        "description": "PNC Bank Cash Accounts",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "J",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/19228/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/4266951/?format=json",
+        "id": 4266951,
+        "date_created": "2021-01-25T20:37:37.961263-08:00",
+        "date_modified": "2021-01-25T20:37:37.961280-08:00",
+        "page_number": 4,
+        "description": "SECU Cash Account",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "J",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/19228/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/4266952/?format=json",
+        "id": 4266952,
+        "date_created": "2021-01-25T20:37:37.961386-08:00",
+        "date_modified": "2021-01-25T20:37:37.961404-08:00",
+        "page_number": 4,
+        "description": "Vanguard Target Retirement Income (IRA)",
+        "redacted": false,
+        "income_during_reporting_period_code": "-1",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "M",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "Sold (part)",
+        "transaction_date_raw": "01/03/18",
+        "transaction_date": "2018-01-03",
+        "transaction_value_code": "M",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/19228/?format=json"
+      }
+    ],
+    "non_investment_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/34008/?format=json",
+        "id": 34008,
+        "date_created": "2021-01-25T20:37:37.969511-08:00",
+        "date_modified": "2021-01-25T20:37:37.969542-08:00",
+        "date_raw": "2018",
+        "source_type": "American University - Washington College of Law",
+        "income_amount": "SK.200.00",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/19228/?format=json"
+      }
+    ],
+    "positions": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v3/disclosure-positions/77360/",
+        "id": 77360,
+        "date_created": "2021-01-25T20:37:37.967783-08:00",
+        "date_modified": "2021-01-25T20:37:37.967820-08:00",
+        "position": "Adpmunct Professor",
+        "organization_name": "American University, Washington College of Law",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/19228/?format=json"
+      }
+    ],
+    "reimbursements": [],
+    "spouse_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/spouse-incomes/43722/?format=json",
+        "id": 43722,
+        "date_created": "2021-01-25T20:37:37.971062-08:00",
+        "date_modified": "2021-01-25T20:37:37.971091-08:00",
+        "source_type": "Montgomery County Public Schools",
+        "date_raw": "2018",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/19228/?format=json"
+      }
+    ],
+    "person": "https://www.courtlistener.com/api/rest/v4/people/9296/?format=json",
+    "filepath": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9296/charles-bernard-day-disclosure.2018.pdf",
+    "thumbnail": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9296/charles-bernard-day-disclosure.2018-thumbnail_1.png",
+    "date_created": "2021-01-25T19:48:12.027931-08:00",
+    "date_modified": "2021-01-25T20:37:37.956262-08:00",
+    "year": 2018,
+    "thumbnail_status": 1,
+    "page_count": 6,
+    "sha1": "6483d46df837ed9d8350af030222d549d3b57b55",
+    "report_type": 2,
+    "is_amended": false,
+    "addendum_content_raw": "",
+    "addendum_redacted": false,
+    "has_been_extracted": true
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/16759/?format=json",
+    "id": 16759,
+    "agreements": [],
+    "debts": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/38228/?format=json",
+        "id": 38228,
+        "date_created": "2021-01-12T15:55:42.552631-08:00",
+        "date_modified": "2021-01-12T15:55:42.552694-08:00",
+        "creditor_name": "MBNA (now called Bank of America)",
+        "description": "Credit account",
+        "value_code": "K",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/16759/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/38229/?format=json",
+        "id": 38229,
+        "date_created": "2021-01-12T15:55:42.552821-08:00",
+        "date_modified": "2021-01-12T15:55:42.552852-08:00",
+        "creditor_name": "Capital One",
+        "description": "Credit account",
+        "value_code": "K",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/16759/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/38230/?format=json",
+        "id": 38230,
+        "date_created": "2021-01-12T15:55:42.552946-08:00",
+        "date_modified": "2021-01-12T15:55:42.552975-08:00",
+        "creditor_name": "Direct Loan Servicing Center",
+        "description": "Educanon loan",
+        "value_code": "K",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/16759/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/38231/?format=json",
+        "id": 38231,
+        "date_created": "2021-01-12T15:55:42.553066-08:00",
+        "date_modified": "2021-01-12T15:55:42.553095-08:00",
+        "creditor_name": "Darect Loan Servicing Center",
+        "description": "Education loan",
+        "value_code": "L",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/16759/?format=json"
+      }
+    ],
+    "gifts": [],
+    "investments": [],
+    "non_investment_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/29991/?format=json",
+        "id": 29991,
+        "date_created": "2021-01-12T15:55:42.558687-08:00",
+        "date_modified": "2021-01-12T15:55:42.558737-08:00",
+        "date_raw": "2011",
+        "source_type": "American University - Washington College of Law - teaching",
+        "income_amount": "S6.000.00)",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/16759/?format=json"
+      }
+    ],
+    "positions": [],
+    "reimbursements": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/reimbursements/68533/?format=json",
+        "id": 68533,
+        "date_created": "2021-01-12T15:55:42.556388-08:00",
+        "date_modified": "2021-01-12T15:55:42.556433-08:00",
+        "source": "American Bar Association",
+        "date_raw": "Aug 5-8, 201",
+        "location": "Toronto, Canada",
+        "purpose": "To attend ABA Annual meeting",
+        "items_paid_or_provided": "Transportation, meals, hotel",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/16759/?format=json"
+      }
+    ],
+    "spouse_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/spouse-incomes/38272/?format=json",
+        "id": 38272,
+        "date_created": "2021-01-12T15:55:42.560925-08:00",
+        "date_modified": "2021-01-12T15:55:42.560968-08:00",
+        "source_type": "Montgomery County Public Schools",
+        "date_raw": "2011",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/16759/?format=json"
+      }
+    ],
+    "person": "https://www.courtlistener.com/api/rest/v4/people/9296/?format=json",
+    "filepath": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9296/charles-bernard-day-disclosure.2011.pdf",
+    "thumbnail": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9296/charles-bernard-day-disclosure.2011-thumbnail_1.png",
+    "date_created": "2021-01-12T13:42:59.827107-08:00",
+    "date_modified": "2021-01-12T15:55:42.547249-08:00",
+    "year": 2011,
+    "thumbnail_status": 1,
+    "page_count": 6,
+    "sha1": "b697a2b778f2d56f3693a11c61db57cad25a9fec",
+    "report_type": 2,
+    "is_amended": false,
+    "addendum_content_raw": "",
+    "addendum_redacted": false,
+    "has_been_extracted": true
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/14155/?format=json",
+    "id": 14155,
+    "agreements": [],
+    "debts": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/30109/?format=json",
+        "id": 30109,
+        "date_created": "2021-01-11T23:17:43.344704-08:00",
+        "date_modified": "2021-01-11T23:17:43.344761-08:00",
+        "creditor_name": "MBNA (Bank of America)",
+        "description": "Credit Account",
+        "value_code": "-1",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/14155/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/30110/?format=json",
+        "id": 30110,
+        "date_created": "2021-01-11T23:17:43.344869-08:00",
+        "date_modified": "2021-01-11T23:17:43.344898-08:00",
+        "creditor_name": "Capital One",
+        "description": "Credit Account",
+        "value_code": "-1",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/14155/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/30111/?format=json",
+        "id": 30111,
+        "date_created": "2021-01-11T23:17:43.344980-08:00",
+        "date_modified": "2021-01-11T23:17:43.345008-08:00",
+        "creditor_name": "Direct Loan Servicing Center",
+        "description": "Education Loan",
+        "value_code": "K",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/14155/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/30112/?format=json",
+        "id": 30112,
+        "date_created": "2021-01-11T23:17:43.345090-08:00",
+        "date_modified": "2021-01-11T23:17:43.345117-08:00",
+        "creditor_name": "Direct Loan Servicing Center",
+        "description": "Education Loan",
+        "value_code": "M",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/14155/?format=json"
+      }
+    ],
+    "gifts": [],
+    "investments": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/2885678/?format=json",
+        "id": 2885678,
+        "date_created": "2021-01-11T23:17:43.339668-08:00",
+        "date_modified": "2021-01-11T23:17:43.339719-08:00",
+        "page_number": 4,
+        "description": "PNC Bank Cash Accounts (X)",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "L",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/14155/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/2885679/?format=json",
+        "id": 2885679,
+        "date_created": "2021-01-11T23:17:43.339878-08:00",
+        "date_modified": "2021-01-11T23:17:43.339900-08:00",
+        "page_number": 4,
+        "description": "SECU Cash Account (X)",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "J",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/14155/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/2885680/?format=json",
+        "id": 2885680,
+        "date_created": "2021-01-11T23:17:43.340012-08:00",
+        "date_modified": "2021-01-11T23:17:43.340032-08:00",
+        "page_number": 4,
+        "description": "Vanguard Target Retirement Income (IRA) XxX)",
+        "redacted": false,
+        "income_during_reporting_period_code": "C",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "N",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "Sold (part)",
+        "transaction_date_raw": "11/30/16",
+        "transaction_date": "2016-11-30",
+        "transaction_value_code": "M",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/14155/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/2885681/?format=json",
+        "id": 2885681,
+        "date_created": "2021-01-11T23:17:43.340147-08:00",
+        "date_modified": "2021-01-11T23:17:43.340165-08:00",
+        "page_number": 4,
+        "description": "Vanguard Target Retirement Income (IRA) XxX)",
+        "redacted": false,
+        "income_during_reporting_period_code": "",
+        "income_during_reporting_period_type": "",
+        "gross_value_code": "",
+        "gross_value_method": "",
+        "transaction_during_reporting_period": "Sold (part)",
+        "transaction_date_raw": "12/02/16",
+        "transaction_date": "2016-12-02",
+        "transaction_value_code": "K",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": true,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/14155/?format=json"
+      }
+    ],
+    "non_investment_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/23820/?format=json",
+        "id": 23820,
+        "date_created": "2021-01-11T23:17:43.355052-08:00",
+        "date_modified": "2021-01-11T23:17:43.355100-08:00",
+        "date_raw": "2016",
+        "source_type": "American University - Washington College of Law",
+        "income_amount": "S8.200.00",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/14155/?format=json"
+      }
+    ],
+    "positions": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v3/disclosure-positions/53588/",
+        "id": 53588,
+        "date_created": "2021-01-11T23:17:43.349160-08:00",
+        "date_modified": "2021-01-11T23:17:43.349205-08:00",
+        "position": "Immediate Past-Chair. Criminal Law and Practice Section",
+        "organization_name": "Maryland State Bar Association",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/14155/?format=json"
+      }
+    ],
+    "reimbursements": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/reimbursements/54887/?format=json",
+        "id": 54887,
+        "date_created": "2021-01-11T23:17:43.351753-08:00",
+        "date_modified": "2021-01-11T23:17:43.351804-08:00",
+        "source": "American Bar Association",
+        "date_raw": "23/16 - 277/16",
+        "location": "San Diego. California",
+        "purpose": "To attend ABA Mid-Year meeting",
+        "items_paid_or_provided": "transportation and hotel",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/14155/?format=json"
+      }
+    ],
+    "spouse_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/spouse-incomes/31053/?format=json",
+        "id": 31053,
+        "date_created": "2021-01-11T23:17:43.357799-08:00",
+        "date_modified": "2021-01-11T23:17:43.357843-08:00",
+        "source_type": "Montgomery County Public Schools",
+        "date_raw": "2016",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/14155/?format=json"
+      }
+    ],
+    "person": "https://www.courtlistener.com/api/rest/v4/people/9296/?format=json",
+    "filepath": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9296/charles-bernard-day-disclosure.2016.pdf",
+    "thumbnail": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9296/charles-bernard-day-disclosure.2016-thumbnail_1.png",
+    "date_created": "2021-01-11T21:50:40.461427-08:00",
+    "date_modified": "2021-01-11T23:17:43.334443-08:00",
+    "year": 2016,
+    "thumbnail_status": 1,
+    "page_count": 6,
+    "sha1": "91c3544a198f5e5d5ff3e400ccf0222c39e4329d",
+    "report_type": 2,
+    "is_amended": false,
+    "addendum_content_raw": "VII - Liabilities - MBNA and Capital One no longer listed as debts have been paid",
+    "addendum_redacted": false,
+    "has_been_extracted": true
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/13898/?format=json",
+    "id": 13898,
+    "agreements": [],
+    "debts": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/29668/?format=json",
+        "id": 29668,
+        "date_created": "2021-01-11T22:30:17.074884-08:00",
+        "date_modified": "2021-01-11T22:30:17.074946-08:00",
+        "creditor_name": "Discover",
+        "description": "Credit account",
+        "value_code": "J",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/13898/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/29669/?format=json",
+        "id": 29669,
+        "date_created": "2021-01-11T22:30:17.075030-08:00",
+        "date_modified": "2021-01-11T22:30:17.075048-08:00",
+        "creditor_name": "MBNA (now called Bank of America)",
+        "description": "Credit account",
+        "value_code": "K",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/13898/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/29670/?format=json",
+        "id": 29670,
+        "date_created": "2021-01-11T22:30:17.075097-08:00",
+        "date_modified": "2021-01-11T22:30:17.075118-08:00",
+        "creditor_name": "Capital One",
+        "description": "Credit account",
+        "value_code": "K",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/13898/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/29671/?format=json",
+        "id": 29671,
+        "date_created": "2021-01-11T22:30:17.075166-08:00",
+        "date_modified": "2021-01-11T22:30:17.075183-08:00",
+        "creditor_name": "Direct Loan Servicing Center",
+        "description": "Educanon loan",
+        "value_code": "K",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/13898/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/29672/?format=json",
+        "id": 29672,
+        "date_created": "2021-01-11T22:30:17.075234-08:00",
+        "date_modified": "2021-01-11T22:30:17.075251-08:00",
+        "creditor_name": "Darect Loan Servicing Center",
+        "description": "Education loan",
+        "value_code": "L",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/13898/?format=json"
+      }
+    ],
+    "gifts": [],
+    "investments": [],
+    "non_investment_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/23555/?format=json",
+        "id": 23555,
+        "date_created": "2021-01-11T22:30:17.086840-08:00",
+        "date_modified": "2021-01-11T22:30:17.086909-08:00",
+        "date_raw": "2012",
+        "source_type": "American University - Washington College of Law - teaching",
+        "income_amount": "SO. 400.00",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/13898/?format=json"
+      }
+    ],
+    "positions": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v3/disclosure-positions/52875/",
+        "id": 52875,
+        "date_created": "2021-01-11T22:30:17.079356-08:00",
+        "date_modified": "2021-01-11T22:30:17.079420-08:00",
+        "position": "Vice-Chair of the National Conference of Federal Tnal Judges",
+        "organization_name": "American Bar Association",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/13898/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v3/disclosure-positions/52876/",
+        "id": 52876,
+        "date_created": "2021-01-11T22:30:17.079495-08:00",
+        "date_modified": "2021-01-11T22:30:17.079512-08:00",
+        "position": "Secretary of the Comimal Law and Practice Section",
+        "organization_name": "Maryland State Bar Associaton",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/13898/?format=json"
+      }
+    ],
+    "reimbursements": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/reimbursements/54198/?format=json",
+        "id": 54198,
+        "date_created": "2021-01-11T22:30:17.083185-08:00",
+        "date_modified": "2021-01-11T22:30:17.083209-08:00",
+        "source": "",
+        "date_raw": "",
+        "location": "",
+        "purpose": "Judicial Improvements meeting",
+        "items_paid_or_provided": "",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/13898/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/reimbursements/54196/?format=json",
+        "id": 54196,
+        "date_created": "2021-01-11T22:30:17.082849-08:00",
+        "date_modified": "2021-01-11T22:30:17.082941-08:00",
+        "source": "American Bar Association",
+        "date_raw": "May 3-5, 2012",
+        "location": "National Harbor, MD",
+        "purpose": "To attend ABA Judicial Division Planning Meeting",
+        "items_paid_or_provided": "Transportation, meals, hotel",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/13898/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/reimbursements/54197/?format=json",
+        "id": 54197,
+        "date_created": "2021-01-11T22:30:17.083068-08:00",
+        "date_modified": "2021-01-11T22:30:17.083104-08:00",
+        "source": "American Bar Association",
+        "date_raw": "Aug 2-5, 2012",
+        "location": "Chicago, 111",
+        "purpose": "To anend ABA Annual Meeting",
+        "items_paid_or_provided": "I ransportation, meals, hotel",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/13898/?format=json"
+      }
+    ],
+    "spouse_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/spouse-incomes/30641/?format=json",
+        "id": 30641,
+        "date_created": "2021-01-11T22:30:17.090393-08:00",
+        "date_modified": "2021-01-11T22:30:17.090464-08:00",
+        "source_type": "Montgomery County Public Schools",
+        "date_raw": "2012",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/13898/?format=json"
+      }
+    ],
+    "person": "https://www.courtlistener.com/api/rest/v4/people/9296/?format=json",
+    "filepath": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9296/charles-bernard-day-disclosure.2012.pdf",
+    "thumbnail": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9296/charles-bernard-day-disclosure.2012-thumbnail.png",
+    "date_created": "2021-01-11T20:26:26.663211-08:00",
+    "date_modified": "2021-01-11T22:30:17.068831-08:00",
+    "year": 2012,
+    "thumbnail_status": 1,
+    "page_count": 6,
+    "sha1": "55a1433a9b17824fa4b01dff6728bdf495a02705",
+    "report_type": 2,
+    "is_amended": false,
+    "addendum_content_raw": "",
+    "addendum_redacted": false,
+    "has_been_extracted": true
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/11285/?format=json",
+    "id": 11285,
+    "agreements": [],
+    "debts": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/21836/?format=json",
+        "id": 21836,
+        "date_created": "2021-01-11T06:32:47.936872-08:00",
+        "date_modified": "2021-01-11T06:32:47.936912-08:00",
+        "creditor_name": "Discover",
+        "description": "Credit Account",
+        "value_code": "J",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/11285/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/21837/?format=json",
+        "id": 21837,
+        "date_created": "2021-01-11T06:32:47.936974-08:00",
+        "date_modified": "2021-01-11T06:32:47.936985-08:00",
+        "creditor_name": "MBNA (now called Bank of America)",
+        "description": "Credit Account",
+        "value_code": "K",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/11285/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/21838/?format=json",
+        "id": 21838,
+        "date_created": "2021-01-11T06:32:47.937018-08:00",
+        "date_modified": "2021-01-11T06:32:47.937029-08:00",
+        "creditor_name": "Capital One",
+        "description": "Credit Account",
+        "value_code": "K",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/11285/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/21839/?format=json",
+        "id": 21839,
+        "date_created": "2021-01-11T06:32:47.937061-08:00",
+        "date_modified": "2021-01-11T06:32:47.937071-08:00",
+        "creditor_name": "Direct Loan Servicing Center",
+        "description": "Educanon loan",
+        "value_code": "K",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/11285/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/21840/?format=json",
+        "id": 21840,
+        "date_created": "2021-01-11T06:32:47.937103-08:00",
+        "date_modified": "2021-01-11T06:32:47.937114-08:00",
+        "creditor_name": "Darect Loan Servicing Center",
+        "description": "Education loan",
+        "value_code": "L",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/11285/?format=json"
+      }
+    ],
+    "gifts": [],
+    "investments": [],
+    "non_investment_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/17789/?format=json",
+        "id": 17789,
+        "date_created": "2021-01-11T06:32:47.947695-08:00",
+        "date_modified": "2021-01-11T06:32:47.947719-08:00",
+        "date_raw": "2014",
+        "source_type": "American University - Washington College of Law - teaching",
+        "income_amount": "S7.767.00",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/11285/?format=json"
+      }
+    ],
+    "positions": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v3/disclosure-positions/39574/",
+        "id": 39574,
+        "date_created": "2021-01-11T06:32:47.940230-08:00",
+        "date_modified": "2021-01-11T06:32:47.940253-08:00",
+        "position": "President National Conference of Federal Trial Judges",
+        "organization_name": "American Bar Association",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/11285/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v3/disclosure-positions/39575/",
+        "id": 39575,
+        "date_created": "2021-01-11T06:32:47.940298-08:00",
+        "date_modified": "2021-01-11T06:32:47.940309-08:00",
+        "position": "Char-\u00a2lect of the Criminal Law and Practoe Section",
+        "organization_name": "Maryland State Bar Associaton",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/11285/?format=json"
+      }
+    ],
+    "reimbursements": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/reimbursements/40408/?format=json",
+        "id": 40408,
+        "date_created": "2021-01-11T06:32:47.943866-08:00",
+        "date_modified": "2021-01-11T06:32:47.943894-08:00",
+        "source": "American Bar Association",
+        "date_raw": "May 8-10, 2014",
+        "location": "Kansas City, MO",
+        "purpose": "To attend Judicial Division Planning meeting",
+        "items_paid_or_provided": "Transportation, meals, hotel",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/11285/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/reimbursements/40409/?format=json",
+        "id": 40409,
+        "date_created": "2021-01-11T06:32:47.943954-08:00",
+        "date_modified": "2021-01-11T06:32:47.943966-08:00",
+        "source": "American Bar Association",
+        "date_raw": "Aug 6-10, 2014",
+        "location": "Boston, MA",
+        "purpose": "To anend ABA Annual Meeting",
+        "items_paid_or_provided": "I ransportation, meals, hotel",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/11285/?format=json"
+      }
+    ],
+    "spouse_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/spouse-incomes/23424/?format=json",
+        "id": 23424,
+        "date_created": "2021-01-11T06:32:47.949339-08:00",
+        "date_modified": "2021-01-11T06:32:47.949360-08:00",
+        "source_type": "Montgomery County Public Schools",
+        "date_raw": "2014",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/11285/?format=json"
+      }
+    ],
+    "person": "https://www.courtlistener.com/api/rest/v4/people/9296/?format=json",
+    "filepath": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9296/charles-bernard-day-disclosure.2014.pdf",
+    "thumbnail": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9296/charles-bernard-day-disclosure.2014-thumbnail_1.png",
+    "date_created": "2021-01-11T04:36:49.976641-08:00",
+    "date_modified": "2021-01-11T06:32:47.926043-08:00",
+    "year": 2014,
+    "thumbnail_status": 1,
+    "page_count": 6,
+    "sha1": "3be2c4ba404aee88fac11f57353b9e17392b6453",
+    "report_type": 2,
+    "is_amended": false,
+    "addendum_content_raw": "",
+    "addendum_redacted": false,
+    "has_been_extracted": true
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/10216/?format=json",
+    "id": 10216,
+    "agreements": [],
+    "debts": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/18026/?format=json",
+        "id": 18026,
+        "date_created": "2021-01-10T22:31:37.920806-08:00",
+        "date_modified": "2021-01-10T22:31:37.920887-08:00",
+        "creditor_name": "MBNA (Bank of America)",
+        "description": "Credit Account",
+        "value_code": "K",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/10216/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/18027/?format=json",
+        "id": 18027,
+        "date_created": "2021-01-10T22:31:37.921022-08:00",
+        "date_modified": "2021-01-10T22:31:37.921037-08:00",
+        "creditor_name": "Capital One",
+        "description": "Credit Account",
+        "value_code": "J",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/10216/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/18028/?format=json",
+        "id": 18028,
+        "date_created": "2021-01-10T22:31:37.921075-08:00",
+        "date_modified": "2021-01-10T22:31:37.921087-08:00",
+        "creditor_name": "Direct Loan Servicing Center",
+        "description": "Education Loan",
+        "value_code": "K",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/10216/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/18029/?format=json",
+        "id": 18029,
+        "date_created": "2021-01-10T22:31:37.921122-08:00",
+        "date_modified": "2021-01-10T22:31:37.921133-08:00",
+        "creditor_name": "Direct Loan Servicing Center",
+        "description": "Education Loan",
+        "value_code": "",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/10216/?format=json"
+      }
+    ],
+    "gifts": [],
+    "investments": [],
+    "non_investment_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/14896/?format=json",
+        "id": 14896,
+        "date_created": "2021-01-10T22:31:37.931623-08:00",
+        "date_modified": "2021-01-10T22:31:37.931671-08:00",
+        "date_raw": "2015",
+        "source_type": "American Unmiversity- Washington College of Law - teaching",
+        "income_amount": "S$7.900.00",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/10216/?format=json"
+      }
+    ],
+    "positions": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v3/disclosure-positions/33114/",
+        "id": 33114,
+        "date_created": "2021-01-10T22:31:37.925279-08:00",
+        "date_modified": "2021-01-10T22:31:37.925408-08:00",
+        "position": "Immediate Past Chair, National Conference of Federal Trial Judges",
+        "organization_name": "American Bar Association",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/10216/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v3/disclosure-positions/33115/",
+        "id": 33115,
+        "date_created": "2021-01-10T22:31:37.925592-08:00",
+        "date_modified": "2021-01-10T22:31:37.925622-08:00",
+        "position": "Chair, Cromuinal Law and Practice Section",
+        "organization_name": "Maryland State Bar Associaton",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/10216/?format=json"
+      }
+    ],
+    "reimbursements": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/reimbursements/33837/?format=json",
+        "id": 33837,
+        "date_created": "2021-01-10T22:31:37.928872-08:00",
+        "date_modified": "2021-01-10T22:31:37.928947-08:00",
+        "source": "American Bar Association",
+        "date_raw": "7/29/15 - 8/3/15",
+        "location": "Chicago IL",
+        "purpose": "To attend ABA Annual meeting",
+        "items_paid_or_provided": "transportation, meals, hotel",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/10216/?format=json"
+      }
+    ],
+    "spouse_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/spouse-incomes/20338/?format=json",
+        "id": 20338,
+        "date_created": "2021-01-10T22:31:37.933745-08:00",
+        "date_modified": "2021-01-10T22:31:37.933790-08:00",
+        "source_type": "Montgomery County Public Schools",
+        "date_raw": "2015",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/10216/?format=json"
+      }
+    ],
+    "person": "https://www.courtlistener.com/api/rest/v4/people/9296/?format=json",
+    "filepath": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9296/charles-bernard-day-disclosure.2015.pdf",
+    "thumbnail": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9296/charles-bernard-day-disclosure.2015-thumbnail_1.png",
+    "date_created": "2021-01-10T21:48:10.376868-08:00",
+    "date_modified": "2021-01-10T22:31:37.915755-08:00",
+    "year": 2015,
+    "thumbnail_status": 1,
+    "page_count": 6,
+    "sha1": "22a8adb35596e3e2faf340bf06f67ddaabf0c143",
+    "report_type": 2,
+    "is_amended": false,
+    "addendum_content_raw": "VII - Liabilities - Discover Card no longer hsted as the debt has been paid",
+    "addendum_redacted": false,
+    "has_been_extracted": true
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/7553/?format=json",
+    "id": 7553,
+    "agreements": [],
+    "debts": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/10286/?format=json",
+        "id": 10286,
+        "date_created": "2021-01-10T05:59:01.360297-08:00",
+        "date_modified": "2021-01-10T05:59:01.360332-08:00",
+        "creditor_name": "Direct Loan Servicing Center",
+        "description": "Education Loan",
+        "value_code": "K",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/7553/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/10287/?format=json",
+        "id": 10287,
+        "date_created": "2021-01-10T05:59:01.360401-08:00",
+        "date_modified": "2021-01-10T05:59:01.360417-08:00",
+        "creditor_name": "Direct Loan Servicing Center",
+        "description": "Education Loan",
+        "value_code": "M",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/7553/?format=json"
+      }
+    ],
+    "gifts": [],
+    "investments": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/1095309/?format=json",
+        "id": 1095309,
+        "date_created": "2021-01-10T05:59:01.356986-08:00",
+        "date_modified": "2021-01-10T05:59:01.357018-08:00",
+        "page_number": 4,
+        "description": "PNC Bank Cash Accounts (X)",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "L",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/7553/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/1095310/?format=json",
+        "id": 1095310,
+        "date_created": "2021-01-10T05:59:01.357135-08:00",
+        "date_modified": "2021-01-10T05:59:01.357150-08:00",
+        "page_number": 4,
+        "description": "SECU Cash Account (X)",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "J",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/7553/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/1095311/?format=json",
+        "id": 1095311,
+        "date_created": "2021-01-10T05:59:01.357233-08:00",
+        "date_modified": "2021-01-10T05:59:01.357246-08:00",
+        "page_number": 4,
+        "description": "Vanguard Target Retirement Income (IRA) xX)",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "M",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "Sold (part)",
+        "transaction_date_raw": "03/07/17",
+        "transaction_date": "2017-03-07",
+        "transaction_value_code": "L",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/7553/?format=json"
+      }
+    ],
+    "non_investment_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/9402/?format=json",
+        "id": 9402,
+        "date_created": "2021-01-10T05:59:01.364395-08:00",
+        "date_modified": "2021-01-10T05:59:01.364423-08:00",
+        "date_raw": "27",
+        "source_type": "American University - Washington College of Law",
+        "income_amount": "SK.700.00",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/7553/?format=json"
+      }
+    ],
+    "positions": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v3/disclosure-positions/20095/",
+        "id": 20095,
+        "date_created": "2021-01-10T05:59:01.362446-08:00",
+        "date_modified": "2021-01-10T05:59:01.362487-08:00",
+        "position": "Adpmunct Professor",
+        "organization_name": "American University, Washington College of Law",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/7553/?format=json"
+      }
+    ],
+    "reimbursements": [],
+    "spouse_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/spouse-incomes/12948/?format=json",
+        "id": 12948,
+        "date_created": "2021-01-10T05:59:01.366117-08:00",
+        "date_modified": "2021-01-10T05:59:01.366152-08:00",
+        "source_type": "Montgomery County Public Schools",
+        "date_raw": "2017",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/7553/?format=json"
+      }
+    ],
+    "person": "https://www.courtlistener.com/api/rest/v4/people/9296/?format=json",
+    "filepath": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9296/charles-bernard-day-disclosure.2017.pdf",
+    "thumbnail": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9296/charles-bernard-day-disclosure.2017-thumbnail_1.png",
+    "date_created": "2021-01-10T05:57:59.119281-08:00",
+    "date_modified": "2021-01-10T05:59:02.207447-08:00",
+    "year": 2017,
+    "thumbnail_status": 1,
+    "page_count": 6,
+    "sha1": "76f40abf014371421d469dfa1f1f2fef0073f812",
+    "report_type": 2,
+    "is_amended": false,
+    "addendum_content_raw": "",
+    "addendum_redacted": false,
+    "has_been_extracted": true
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/4629/?format=json",
+    "id": 4629,
+    "agreements": [],
+    "debts": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/6276/?format=json",
+        "id": 6276,
+        "date_created": "2021-01-09T10:23:41.230195-08:00",
+        "date_modified": "2021-01-09T10:23:41.230253-08:00",
+        "creditor_name": "Discover",
+        "description": "Credit Account",
+        "value_code": "",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/4629/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/6277/?format=json",
+        "id": 6277,
+        "date_created": "2021-01-09T10:23:41.230479-08:00",
+        "date_modified": "2021-01-09T10:23:41.230513-08:00",
+        "creditor_name": "MBNA (now called Bank of America)",
+        "description": "Credit Account",
+        "value_code": "K",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/4629/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/6278/?format=json",
+        "id": 6278,
+        "date_created": "2021-01-09T10:23:41.230604-08:00",
+        "date_modified": "2021-01-09T10:23:41.230632-08:00",
+        "creditor_name": "Capital One",
+        "description": "Credit Account",
+        "value_code": "K",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/4629/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/6279/?format=json",
+        "id": 6279,
+        "date_created": "2021-01-09T10:23:41.230685-08:00",
+        "date_modified": "2021-01-09T10:23:41.230709-08:00",
+        "creditor_name": "Direct Loan Servicing Center",
+        "description": "Education loan",
+        "value_code": "K",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/4629/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/debts/6280/?format=json",
+        "id": 6280,
+        "date_created": "2021-01-09T10:23:41.230785-08:00",
+        "date_modified": "2021-01-09T10:23:41.230823-08:00",
+        "creditor_name": "Darect Loan Servicing Center",
+        "description": "Education loan",
+        "value_code": "L",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/4629/?format=json"
+      }
+    ],
+    "gifts": [],
+    "investments": [],
+    "non_investment_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/6241/?format=json",
+        "id": 6241,
+        "date_created": "2021-01-09T10:23:41.240896-08:00",
+        "date_modified": "2021-01-09T10:23:41.240954-08:00",
+        "date_raw": "2013",
+        "source_type": "American University - Washington College of Law - teaching",
+        "income_amount": "S10.934.00",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/4629/?format=json"
+      }
+    ],
+    "positions": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v3/disclosure-positions/12951/",
+        "id": 12951,
+        "date_created": "2021-01-09T10:23:41.234261-08:00",
+        "date_modified": "2021-01-09T10:23:41.234310-08:00",
+        "position": "President Elect National Conference of Federal Trial Judges",
+        "organization_name": "American Bar Association",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/4629/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v3/disclosure-positions/12952/",
+        "id": 12952,
+        "date_created": "2021-01-09T10:23:41.234466-08:00",
+        "date_modified": "2021-01-09T10:23:41.234488-08:00",
+        "position": "Vice Chaur of the Criminal Law and Practice Section",
+        "organization_name": "Maryland State Bar Associaton",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/4629/?format=json"
+      }
+    ],
+    "reimbursements": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/reimbursements/12352/?format=json",
+        "id": 12352,
+        "date_created": "2021-01-09T10:23:41.237725-08:00",
+        "date_modified": "2021-01-09T10:23:41.237802-08:00",
+        "source": "",
+        "date_raw": "",
+        "location": "",
+        "purpose": "Judicial Improvements meeting",
+        "items_paid_or_provided": "",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/4629/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/reimbursements/12353/?format=json",
+        "id": 12353,
+        "date_created": "2021-01-09T10:23:41.237960-08:00",
+        "date_modified": "2021-01-09T10:23:41.237983-08:00",
+        "source": "American Bar Association",
+        "date_raw": "April 25-27, 2013",
+        "location": "Washington, DC",
+        "purpose": "To attend ABA Judicial Division Planning meeting",
+        "items_paid_or_provided": "Transportation, meals, hotel",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/4629/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/reimbursements/12354/?format=json",
+        "id": 12354,
+        "date_created": "2021-01-09T10:23:41.238064-08:00",
+        "date_modified": "2021-01-09T10:23:41.238081-08:00",
+        "source": "American Bar Association",
+        "date_raw": "Aug 7-12, 2013",
+        "location": "San Francisco, CA",
+        "purpose": "Toatend ABA Annual Meeting",
+        "items_paid_or_provided": "Transportation, meals, hotel",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/4629/?format=json"
+      },
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/reimbursements/12355/?format=json",
+        "id": 12355,
+        "date_created": "2021-01-09T10:23:41.238152-08:00",
+        "date_modified": "2021-01-09T10:23:41.238175-08:00",
+        "source": "SS, American Bar Association",
+        "date_raw": "Sept 25-27, 2013",
+        "location": "Chicago, 1",
+        "purpose": "To attend ABA Section on Committees meeting",
+        "items_paid_or_provided": "Transportation, meals, hotel",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/4629/?format=json"
+      }
+    ],
+    "spouse_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/spouse-incomes/8985/?format=json",
+        "id": 8985,
+        "date_created": "2021-01-09T10:23:41.243056-08:00",
+        "date_modified": "2021-01-09T10:23:41.243097-08:00",
+        "source_type": "Montgomery County Public Schools",
+        "date_raw": "2013",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/4629/?format=json"
+      }
+    ],
+    "person": "https://www.courtlistener.com/api/rest/v4/people/9296/?format=json",
+    "filepath": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9296/charles-bernard-day-disclosure.2013.pdf",
+    "thumbnail": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9296/charles-bernard-day-disclosure.2013-thumbnail_15.png",
+    "date_created": "2021-01-09T07:40:55.559124-08:00",
+    "date_modified": "2021-01-09T10:57:35.310137-08:00",
+    "year": 2013,
+    "thumbnail_status": 1,
+    "page_count": 7,
+    "sha1": "d1c25eae88db9f6bac1846326599cbcbf8c7e1be",
+    "report_type": 2,
+    "is_amended": false,
+    "addendum_content_raw": "",
+    "addendum_redacted": false,
+    "has_been_extracted": true
+  }
+]

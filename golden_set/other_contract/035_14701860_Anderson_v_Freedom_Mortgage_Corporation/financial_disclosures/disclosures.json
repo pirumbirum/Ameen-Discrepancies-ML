@@ -1,0 +1,428 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/33798/?format=json",
+    "id": 33798,
+    "agreements": [],
+    "debts": [],
+    "gifts": [],
+    "investments": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/5326184/?format=json",
+        "id": 5326184,
+        "date_created": "2022-05-18T14:02:15.046796-07:00",
+        "date_modified": "2022-05-18T14:02:15.046834-07:00",
+        "page_number": 4,
+        "description": "Key Bank Accounts",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "J",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/33798/?format=json"
+      }
+    ],
+    "non_investment_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/42205/?format=json",
+        "id": 42205,
+        "date_created": "2022-05-18T14:02:15.096226-07:00",
+        "date_modified": "2022-05-18T14:02:15.096264-07:00",
+        "date_raw": "2020",
+        "source_type": "University of Oregon Law School",
+        "income_amount": "$10,000.00",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/33798/?format=json"
+      }
+    ],
+    "positions": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v3/disclosure-positions/98107/",
+        "id": 98107,
+        "date_created": "2022-05-18T14:02:15.071953-07:00",
+        "date_modified": "2022-05-18T14:02:15.071984-07:00",
+        "position": "Assistant Adjunct Professor",
+        "organization_name": "University of Oregon Law School",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/33798/?format=json"
+      }
+    ],
+    "reimbursements": [],
+    "spouse_incomes": [],
+    "person": "https://www.courtlistener.com/api/rest/v4/people/9497/?format=json",
+    "filepath": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9497/jolie-a-russo-disclosure.2020.pdf",
+    "thumbnail": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9497/jolie-a-russo-disclosure.2020-thumbnail_1.png",
+    "date_created": "2022-05-18T14:01:26.893692-07:00",
+    "date_modified": "2022-05-18T14:02:42.000599-07:00",
+    "year": 2020,
+    "thumbnail_status": 1,
+    "page_count": 6,
+    "sha1": "96f2d4dc0ba273c65205f70339a981bfab56e62a",
+    "report_type": -1,
+    "is_amended": false,
+    "addendum_content_raw": "",
+    "addendum_redacted": false,
+    "has_been_extracted": true
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/30224/?format=json",
+    "id": 30224,
+    "agreements": [],
+    "debts": [],
+    "gifts": [],
+    "investments": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/5073043/?format=json",
+        "id": 5073043,
+        "date_created": "2021-11-23T10:55:08.616978-08:00",
+        "date_modified": "2021-11-23T10:55:08.617030-08:00",
+        "page_number": 4,
+        "description": "Key Bank Accounts",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "J",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/30224/?format=json"
+      }
+    ],
+    "non_investment_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/40447/?format=json",
+        "id": 40447,
+        "date_created": "2021-11-23T10:55:08.622570-08:00",
+        "date_modified": "2021-11-23T10:55:08.622595-08:00",
+        "date_raw": "2019",
+        "source_type": "University of Oregon Law School",
+        "income_amount": "$10,000.00",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/30224/?format=json"
+      }
+    ],
+    "positions": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v3/disclosure-positions/93095/",
+        "id": 93095,
+        "date_created": "2021-11-23T10:55:08.620294-08:00",
+        "date_modified": "2021-11-23T10:55:08.620320-08:00",
+        "position": "Assistant Adjunct Professor",
+        "organization_name": "University of Oregon Law School",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/30224/?format=json"
+      }
+    ],
+    "reimbursements": [],
+    "spouse_incomes": [],
+    "person": "https://www.courtlistener.com/api/rest/v4/people/9497/?format=json",
+    "filepath": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9497/jolie-a-russo-disclosure.2019.pdf",
+    "thumbnail": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9497/jolie-a-russo-disclosure.2019-thumbnail_1.png",
+    "date_created": "2021-11-23T10:54:56.004857-08:00",
+    "date_modified": "2021-11-23T10:55:09.237634-08:00",
+    "year": 2019,
+    "thumbnail_status": 1,
+    "page_count": 6,
+    "sha1": "d054625a22bc4e267503f068c24aed8553e40a53",
+    "report_type": -1,
+    "is_amended": false,
+    "addendum_content_raw": "",
+    "addendum_redacted": false,
+    "has_been_extracted": true
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/28917/?format=json",
+    "id": 28917,
+    "agreements": [],
+    "debts": [],
+    "gifts": [],
+    "investments": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/4986591/?format=json",
+        "id": 4986591,
+        "date_created": "2021-06-17T14:55:00.057397-07:00",
+        "date_modified": "2021-06-17T14:55:00.057439-07:00",
+        "page_number": 4,
+        "description": "Kev Bank Accounts",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "J",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/28917/?format=json"
+      }
+    ],
+    "non_investment_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/39834/?format=json",
+        "id": 39834,
+        "date_created": "2021-06-17T14:55:00.062664-07:00",
+        "date_modified": "2021-06-17T14:55:00.062690-07:00",
+        "date_raw": "2015",
+        "source_type": "University of Oregon Law School",
+        "income_amount": "S10.000.00",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/28917/?format=json"
+      }
+    ],
+    "positions": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v3/disclosure-positions/91380/",
+        "id": 91380,
+        "date_created": "2021-06-17T14:55:00.060720-07:00",
+        "date_modified": "2021-06-17T14:55:00.060762-07:00",
+        "position": "Assistant Adpunct Professor",
+        "organization_name": "Umiversity of Oregon Law School",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/28917/?format=json"
+      }
+    ],
+    "reimbursements": [],
+    "spouse_incomes": [],
+    "person": "https://www.courtlistener.com/api/rest/v4/people/9497/?format=json",
+    "filepath": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9497/jolie-a-russo-disclosure.2016.pdf",
+    "thumbnail": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9497/jolie-a-russo-disclosure.2016-thumbnail_1.png",
+    "date_created": "2021-06-17T14:54:07.849135-07:00",
+    "date_modified": "2021-06-17T15:06:08.721958-07:00",
+    "year": 2016,
+    "thumbnail_status": 1,
+    "page_count": 6,
+    "sha1": "e0e66cbb2eac3f5a7f6af78569ddf93e07553cba",
+    "report_type": 2,
+    "is_amended": false,
+    "addendum_content_raw": "",
+    "addendum_redacted": false,
+    "has_been_extracted": true
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/20018/?format=json",
+    "id": 20018,
+    "agreements": [],
+    "debts": [],
+    "gifts": [],
+    "investments": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/4437097/?format=json",
+        "id": 4437097,
+        "date_created": "2021-01-26T01:14:11.385357-08:00",
+        "date_modified": "2021-01-26T01:14:11.385398-08:00",
+        "page_number": 4,
+        "description": "Kev Bank Accounts",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "J",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/20018/?format=json"
+      }
+    ],
+    "non_investment_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/35195/?format=json",
+        "id": 35195,
+        "date_created": "2021-01-26T01:14:11.392232-08:00",
+        "date_modified": "2021-01-26T01:14:11.392275-08:00",
+        "date_raw": "2018",
+        "source_type": "University of Oregon Law School",
+        "income_amount": "S10.000.00",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/20018/?format=json"
+      }
+    ],
+    "positions": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v3/disclosure-positions/80442/",
+        "id": 80442,
+        "date_created": "2021-01-26T01:14:11.388539-08:00",
+        "date_modified": "2021-01-26T01:14:11.388578-08:00",
+        "position": "Assistant Adpunct Professor",
+        "organization_name": "Umiversity of Oregon Law School",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/20018/?format=json"
+      }
+    ],
+    "reimbursements": [],
+    "spouse_incomes": [],
+    "person": "https://www.courtlistener.com/api/rest/v4/people/9497/?format=json",
+    "filepath": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9497/jolie-a-russo-disclosure.2018.pdf",
+    "thumbnail": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9497/jolie-a-russo-disclosure.2018-thumbnail_1.png",
+    "date_created": "2021-01-25T23:58:24.662449-08:00",
+    "date_modified": "2021-01-26T01:14:11.379416-08:00",
+    "year": 2018,
+    "thumbnail_status": 1,
+    "page_count": 6,
+    "sha1": "5e8b08ce5fa706c5c1947e6db5773538b4a645e3",
+    "report_type": 2,
+    "is_amended": false,
+    "addendum_content_raw": "",
+    "addendum_redacted": false,
+    "has_been_extracted": true
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/13580/?format=json",
+    "id": 13580,
+    "agreements": [],
+    "debts": [],
+    "gifts": [],
+    "investments": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/2799692/?format=json",
+        "id": 2799692,
+        "date_created": "2021-01-11T21:19:51.846740-08:00",
+        "date_modified": "2021-01-11T21:19:51.846788-08:00",
+        "page_number": 4,
+        "description": "Kev Bank Accounts",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "J",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/13580/?format=json"
+      }
+    ],
+    "non_investment_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/23108/?format=json",
+        "id": 23108,
+        "date_created": "2021-01-11T21:19:51.853397-08:00",
+        "date_modified": "2021-01-11T21:19:51.853441-08:00",
+        "date_raw": "2015",
+        "source_type": "University of Oregon Law School",
+        "income_amount": "S10.000.00",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/13580/?format=json"
+      }
+    ],
+    "positions": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v3/disclosure-positions/51934/",
+        "id": 51934,
+        "date_created": "2021-01-11T21:19:51.850324-08:00",
+        "date_modified": "2021-01-11T21:19:51.850438-08:00",
+        "position": "Assistant Adpunct Professor",
+        "organization_name": "Umiversity of Oregon Law School",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/13580/?format=json"
+      }
+    ],
+    "reimbursements": [],
+    "spouse_incomes": [],
+    "person": "https://www.courtlistener.com/api/rest/v4/people/9497/?format=json",
+    "filepath": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9497/jolie-a-russo-disclosure.2015.pdf",
+    "thumbnail": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9497/jolie-a-russo-disclosure.2015-thumbnail.png",
+    "date_created": "2021-01-11T18:36:29.631769-08:00",
+    "date_modified": "2021-01-11T21:19:51.841323-08:00",
+    "year": 2015,
+    "thumbnail_status": 1,
+    "page_count": 6,
+    "sha1": "521b18266575d71db1ba63b054bf6217c1b0c488",
+    "report_type": 2,
+    "is_amended": true,
+    "addendum_content_raw": "",
+    "addendum_redacted": false,
+    "has_been_extracted": true
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/8913/?format=json",
+    "id": 8913,
+    "agreements": [],
+    "debts": [],
+    "gifts": [],
+    "investments": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/investments/1509302/?format=json",
+        "id": 1509302,
+        "date_created": "2021-01-10T15:15:20.582187-08:00",
+        "date_modified": "2021-01-10T15:15:20.582237-08:00",
+        "page_number": 4,
+        "description": "Kev Bank Accounts",
+        "redacted": false,
+        "income_during_reporting_period_code": "A",
+        "income_during_reporting_period_type": "Interest",
+        "gross_value_code": "J",
+        "gross_value_method": "T",
+        "transaction_during_reporting_period": "",
+        "transaction_date_raw": "",
+        "transaction_date": null,
+        "transaction_value_code": "",
+        "transaction_gain_code": "",
+        "transaction_partner": "",
+        "has_inferred_values": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/8913/?format=json"
+      }
+    ],
+    "non_investment_incomes": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/non-investment-incomes/12630/?format=json",
+        "id": 12630,
+        "date_created": "2021-01-10T15:15:20.590079-08:00",
+        "date_modified": "2021-01-10T15:15:20.590129-08:00",
+        "date_raw": "2015",
+        "source_type": "University of Oregon Law School",
+        "income_amount": "S10.000.00",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/8913/?format=json"
+      }
+    ],
+    "positions": [
+      {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v3/disclosure-positions/27678/",
+        "id": 27678,
+        "date_created": "2021-01-10T15:15:20.585588-08:00",
+        "date_modified": "2021-01-10T15:15:20.585643-08:00",
+        "position": "Assistant Adpunct Professor",
+        "organization_name": "Umiversity of Oregon Law School",
+        "redacted": false,
+        "financial_disclosure": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/8913/?format=json"
+      }
+    ],
+    "reimbursements": [],
+    "spouse_incomes": [],
+    "person": "https://www.courtlistener.com/api/rest/v4/people/9497/?format=json",
+    "filepath": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9497/jolie-a-russo-disclosure.2017.pdf",
+    "thumbnail": "https://storage.courtlistener.com/us/federal/judicial/financial-disclosures/9497/jolie-a-russo-disclosure.2017-thumbnail_1.png",
+    "date_created": "2021-01-10T13:28:49.716734-08:00",
+    "date_modified": "2021-01-10T15:15:20.576967-08:00",
+    "year": 2017,
+    "thumbnail_status": 1,
+    "page_count": 6,
+    "sha1": "b4e2b77c6f0fa0137ef3bf0950446af4b48268fb",
+    "report_type": 2,
+    "is_amended": false,
+    "addendum_content_raw": "",
+    "addendum_redacted": false,
+    "has_been_extracted": true
+  }
+]
