@@ -1,12 +1,6 @@
 name: "20: Test 326 recap doc counts"
 
 on:
-  push:
-    branches:
-      - claude/review-previous-chats-iDzNp
-    paths:
-      - 'scripts/test_326_recap_docs.py'
-      - '.github/workflows/20_test_326_recap_docs.yml'
   workflow_dispatch:
 
 permissions:
