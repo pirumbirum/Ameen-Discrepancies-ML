@@ -1,10 +1,29 @@
 Loaded 326 BOTH cases from trade_secret sweep
 
 ======================================================================
-  STAGE 1: Re-paginating RECAP search to capture doc counts
+  PHASE 0: DIAGNOSTIC — checking API status & rate limits
 ======================================================================
-  RATE LIMITED, waiting 2s...
-  RATE LIMITED, waiting 4s...
-  RATE LIMITED, waiting 8s...
-  RATE LIMITED, waiting 16s...
-FATAL: MAX_RETRIES
+  Testing with a lightweight clusters query...
+  API is responsive. Rate limit info:
+    status: 200
+    elapsed_ms: 20490
+    x-ratelimit-remaining: ?
+    x-ratelimit-limit: ?
+    retry-after: ?
+    x-ratelimit-reset: ?
+
+  Testing search API (type=r)...
+  Search API OK. RECAP total for NOS 880: 1434
+    status: 200
+    elapsed_ms: 547
+    x-ratelimit-remaining: ?
+    x-ratelimit-limit: ?
+    retry-after: ?
+    x-ratelimit-reset: ?
+  First result keys: ['assignedTo', 'assigned_to_id', 'attorney', 'attorney_id', 'caseName', 'case_name_full', 'cause', 'chapter', 'court', 'court_citation_string', 'court_id', 'dateArgued', 'dateFiled', 'dateTerminated', 'docketNumber', 'docket_absolute_url', 'docket_id', 'firm', 'firm_id', 'jurisdictionType', 'juryDemand', 'meta', 'pacer_case_id', 'party', 'party_id', 'recap_documents', 'referredTo', 'referred_to_id', 'suitNature', 'trustee_str']
+  First result recap_documents count: 3
+  Sample doc keys: ['absolute_url', 'attachment_number', 'cites', 'description', 'docket_entry_id', 'document_number', 'document_type', 'entry_date_filed', 'entry_number', 'filepath_local', 'id', 'is_available', 'meta', 'pacer_doc_id', 'page_count', 'short_description', 'snippet']
+
+  Testing docket endpoint...
+  Docket API OK. Keys: ['absolute_url', 'appeal_from', 'appeal_from_str', 'appellate_case_type_information', 'appellate_fee_status', 'assigned_to', 'assigned_to_str', 'audio_files', 'bankruptcy_information', 'blocked', 'case_name', 'case_name_full', 'case_name_short', 'cause', 'clusters', 'court', 'court_id', 'date_argued', 'date_blocked', 'date_cert_denied']...
+  RECAP-related fields: []

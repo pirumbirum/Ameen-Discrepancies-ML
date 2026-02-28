@@ -1,0 +1,74 @@
+{
+  "phase": "diagnostic",
+  "diagnostics": [
+    {
+      "call": 1,
+      "label": "diag",
+      "url_short": "https://www.courtlistener.com/api/rest/v4/clusters/?page_size=1&fields=id",
+      "status": 200,
+      "elapsed_ms": 20490,
+      "x-ratelimit-remaining": "?",
+      "x-ratelimit-limit": "?",
+      "retry-after": "?",
+      "x-ratelimit-reset": "?",
+      "all_headers": {
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "X-Cache": "Miss from cloudfront",
+        "X-Amz-Cf-Pop": "SFO5-P1",
+        "X-Amz-Cf-Id": "cTyGuF3liYIKoCVvzDwGI2aSFhruo2XoOtrClIxl1IPit1kzAgaQOg=="
+      }
+    },
+    {
+      "call": 2,
+      "label": "diag",
+      "url_short": "https://www.courtlistener.com/api/rest/v4/search/?type=r&q=suitNature%3A880&page_size=1",
+      "status": 200,
+      "elapsed_ms": 547,
+      "x-ratelimit-remaining": "?",
+      "x-ratelimit-limit": "?",
+      "retry-after": "?",
+      "x-ratelimit-reset": "?",
+      "all_headers": {
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "X-Cache": "Miss from cloudfront",
+        "X-Amz-Cf-Pop": "SFO5-P1",
+        "X-Amz-Cf-Id": "2i9rWuip6x18ylhFByy2bEluneEuiDyvuhBeBZh54AU_RBGTEQqWew=="
+      }
+    },
+    {
+      "call": 3,
+      "label": "diag",
+      "url_short": "https://www.courtlistener.com/api/rest/v4/dockets/18526699/",
+      "status": 200,
+      "elapsed_ms": 746,
+      "x-ratelimit-remaining": "?",
+      "x-ratelimit-limit": "?",
+      "retry-after": "?",
+      "x-ratelimit-reset": "?",
+      "all_headers": {
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "X-Cache": "Miss from cloudfront",
+        "X-Amz-Cf-Pop": "SFO5-P1",
+        "X-Amz-Cf-Id": "KmxfT301rngn6KVGlo9Lx9e5HiUwn9LDy4ewHxQgyYM6j1fpcb4pKQ=="
+      }
+    }
+  ],
+  "errors": [
+    {
+      "call": 2,
+      "label": "diag",
+      "type": "HTTP_502",
+      "body": "<!DOCTYPE html>\n<html lang=\"en\"><head>\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n  <meta charset=\"utf-8\">\n  <meta http-equiv=\"Content-Language\" content=\"en\">\n  <meta name=\"la"
+    }
+  ],
+  "_meta": {
+    "api_calls": 3,
+    "rate_limits_hit": 0,
+    "elapsed_seconds": 31,
+    "elapsed_minutes": 0.5,
+    "timestamp": "2026-02-28 23:15:02 UTC"
+  }
+}
