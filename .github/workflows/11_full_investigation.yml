@@ -1,0 +1,73 @@
+name: "11: Full CourtListener Investigation"
+
+on:
+  push:
+    branches:
+      - claude/review-previous-chats-iDzNp
+    paths:
+      - 'scripts/full_investigation.py'
+      - '.github/workflows/11_full_investigation.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  investigate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: "Run full investigation"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: |
+          echo "Starting full CourtListener investigation..."
+          python3 scripts/full_investigation.py 2>&1 | tee research/investigation_log.txt
+          echo "Investigation complete."
+
+      - name: "Show summary"
+        if: always()
+        run: |
+          echo "=== Research output files ==="
+          ls -la research/ 2>/dev/null || echo "No research dir"
+          ls -la research/api_docs/ 2>/dev/null || echo "No api_docs dir"
+          echo ""
+          echo "=== Key counts ==="
+          cat research/global_counts.json 2>/dev/null || echo "No global counts"
+          echo ""
+          echo "=== NOS counts ==="
+          cat research/nos_search_counts.json 2>/dev/null || echo "No NOS counts"
+
+      - name: "Commit results"
+        if: always()
+        run: |
+          git add research/
+          git diff --cached --quiet && echo "Nothing new to commit" && exit 0
+          git commit -m "Full investigation: API docs, global counts, NOS analysis, golden set audit"
+          git push
+
+      - name: Upload artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: full-investigation-${{ github.run_id }}
+          path: research/
+          retention-days: 90
