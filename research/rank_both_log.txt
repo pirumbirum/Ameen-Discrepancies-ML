@@ -1,0 +1,126 @@
+Ranking 326 BOTH cases...
+
+  [50/326] 29s, 100 API calls
+  [100/326] 60s, 200 API calls
+  [150/326] 89s, 300 API calls
+  [200/326] 117s, 400 API calls
+  [250/326] 145s, 500 API calls
+  [300/326] 175s, 600 API calls
+
+================================================================================
+  TOP 100 CASES — BOTH RECAP + OPINIONS (ranked by combined count)
+================================================================================
+Rank  Docket ID Opinions RECAP Docs Combined  Case Name
+---- ---------- -------- ---------- --------  ----------------------------------------
+   1   63589690       18          0       18  loanDepot.com, LLC v. CrossCountry Mortgage, LLC
+   2   60991111       12          0       12  Blockchain Innovation, LLC v. Franklin Resources, Inc.
+   3   63262219       12          0       12  MMR Constructors, Inc. v. JB Group of LA, LLC
+   4   68431468       12          0       12  Jane Street Group, LLC v. Millennium Management LLC
+   5   59853917       11          0       11  Hedgeye Risk Management, LLC v. Dale
+   6   59914331       11          0       11  Allscripts Healthcare, LLC v. Andor Health, LLC
+   7   67986142       11          0       11  Valeo Schalter und Sensoren GmbH v. NVIDIA Corporation
+   8   68282969       11          0       11  Aristocrat Technologies, Inc. v. Light & Wonder, Inc.
+   9   67663695        9          0        9  Insulet Corporation v. EOFlow, Co. Ltd.
+  10   67878351        9          0        9  Rocket Pharmaceuticals, Inc. v. Lexeo Therapeutics, Inc
+  11   69903479        8          0        8  MPHASIS Corporation v. Rojas
+  12   63125786        7          0        7  I-Mab Biopharma v. Inhibrx, Inc.
+  13   66637329        7          0        7  Terran Biosciences, Inc. v. Compass Pathfinder Limited
+  14   59935621        6          0        6  Wagner Aeronautical, Inc. v. Dotzenroth
+  15   60049803        6          0        6  CNG Financial Corporation v. Brichler
+  16   65367114        6          0        6  Aarow Electrical Solutions, LLC v. TriCore Systems, LLC
+  17   18543316        5          0        5  AZIMA v. DEL ROSSO
+  18   59693219        5          0        5  Bronx Conservatory of Music, Inc. v. Bronx School for M
+  19   59796865        5          0        5  KPM Analytics North America Corporation v. Blue Sun Sci
+  20   66824671        5          0        5  StoneX Group Inc. v. shipman
+  21   67617609        5          0        5  Direct Components, Inc. v. Microchip USA, LLC
+  22   69086558        5          0        5  Select Research Ltd. v. Amazon.Com, Inc.
+  23   69314070        5          0        5  Oracle America, Inc. v. Procore Technologies, Inc.
+  24   59838182        4          0        4  Fareportal, Inc. v. HNA Group (International) Co., LTD.
+  25   60674266        4          0        4  Valmarc Corporation v. Nike, Inc.
+  26   61573744        4          0        4  DANIELI CORPORATION v. SMS GROUP, INC.
+  27   63175934        4          0        4  Network Data Rooms, LLC v. Saulrealism LLC
+  28   63277771        4          0        4  Apple Inc. v. Rivos, Inc.
+  29   63314651        4          0        4  Groves Incorporated v. R.C. Bremer Marketing Associates
+  30   64952087        4          0        4  BHI Energy I Power Services LLC v. KVP Holdings LLC
+  31   65882475        4          0        4  Palltronics, Inc. v. PALIoT Solutions, Inc.
+  32   66730618        4          0        4  Abiomed, Inc. v. Enmodes GmbH
+  33   67237406        4          0        4  GlobalFoundries U.S. Inc. v. International Business Mac
+  34   67389827        4          0        4  Boxabl Inc. v. Tassev
+  35   68164273        4          0        4  Vivint Inc v. Sunrun Inc
+  36   68382231        4          0        4  EL PASO DISPOSAL, LP v. ECUBE LABS CO. d/b/a HAULLA SER
+  37   68812296        4          0        4  Zebra Strategies Inc. v. Gonzalez- Nazario
+  38   68907189        4          0        4  Roche Molecular Systems, Inc. v. Foresight Diagnostics 
+  39   69049634        4          0        4  Wireless Advanced Vehicle Electrification, LLC v. WiTri
+  40   69058369        4          0        4  Talenthub Worldwide, Inc. v. Talenthub Workforce, Inc.
+  41   69930217        4          0        4  Firehawk Aerospace Inc v. Jones
+  42   70644525        4          0        4  MEDICAL BUYERS GROUP LLC v. PENCE
+  43   71099112        4          0        4  Kettering Adventist Healthcare v. Collier
+  44   18526699        3          0        3  AllRounds, Inc. v. eShares, Inc.
+  45   18749697        3          0        3  Greater Oceans, Inc. v. Eric Thorstenson
+  46   59251713        3          0        3  HOUSER v. FELDMAN
+  47   59754172        3          0        3  Hayden v. International Business Machines Corporation
+  48   60005635        3          0        3  Champion Salt, LLC v. Arthofer
+  49   61617509        3          0        3  IQVIA Inc. v. Medimpact Healthcare Systems, Inc.
+  50   62149116        3          0        3  Elko, Inc. v. Corey Peters
+  51   63152690        3          0        3  DEAD RIVER COMPANY LLC v. BOYINGTON
+  52   63848389        3          0        3  Cynosure, LLC v. Reveal Lasers LLC
+  53   63892697        3          0        3  Mutual of Omaha Mortgage, Inc. v. WaterStone Mortgage C
+  54   64984421        3          0        3  West Shore Home, LLC v. Chappell
+  55   66974711        3          0        3  Crystal Lagoons U.S. Corp. v. Oasis Amenities, LLC
+  56   67719018        3          0        3  Lupin Atlantis Holdings SA v. Zeng
+  57   67751263        3          0        3  Bullion Shark, LLC v. Flip a Coin Bullion LLC
+  58   68015397        3          0        3  Edelman Financial Engines, LLC v. Mariner Wealth Adviso
+  59   68115642        3          0        3  Wilhoite v. Hou
+  60   68222894        3          0        3  North American Science Associates, LLC v. Conforti
+  61   68293539        3          0        3  Brady Corporation v. Wood
+  62   68330464        3          0        3  BDO USA, P.C. v. Ankura Consulting Group, LLC
+  63   69434473        3          0        3  Luminate Home Loans, Inc. v. Better Mortgage Co.
+  64   69715549        3          0        3  Aerosonic LLC v. Joby Aviation, Inc.
+  65   70496121        3          0        3  Cross Fire & Security Co., Inc. v. Alan Doorly
+  66   70520339        3          0        3  Tesla, Inc. v. Proception, Inc.
+  67   71664804        3          0        3  First Technology Federal Credit Union v. LPL Financial,
+  68   18554874        2          0        2  Allstate Insurance Company v. Cruz
+  69   18599483        2          0        2  Southern Natural Resources, LLC v. Nations Energy Solut
+  70   18703995        2          0        2  SUNBELT RENTALS, INC. v. LOVE
+  71   31184240        2          0        2  XpandOrtho, Inc. v. Zimmer Biomet Holdings, Inc.
+  72   59929747        2          0        2  Health Care Facilities Partners, LLC v. Diamond
+  73   60659026        2          0        2  SkyLab Ventures, Inc. v. WKND Digital
+  74   61567506        2          0        2  Veritiv Operating Company v. Phoenix Paper Wickliffe, L
+  75   63104894        2          0        2  Benchmark Technologies, Inc. v. Yuqiang Tu
+  76   63181087        2          0        2  IDEXX LABORATORIES INC v. BILBROUGH
+  77   63201695        2          0        2  Northwest Building Components, Inc. v. Adams
+  78   63250375        2          0        2  Quest Diagnostics Incorporated v. Elarja
+  79   63287497        2          0        2  Guaranteed Rate, Inc. v. Rorvig
+  80   63568270        2          0        2  PFG Ventures, L.P. v. Brandon C. Kennedy
+  81   63589036        2          0        2  NAV Consulting Inc. v. Kumawat
+  82   63655936        2          0        2  PARAMOUNT RESIDENTIAL MORTGAGE GROUP, INC. v. NATIONWID
+  83   64890523        2          0        2  DFW Dance Floors LLC v. Suchil
+  84   64946051        2          0        2  USI Insurance Services, LLC v. Aitkin
+  85   65756589        2          0        2  Reger v. All Things Gel, LLC
+  86   65773295        2          0        2  City Communications, Inc. v. Dailytel, Inc.
+  87   65774834        2          0        2  Talman Consultants, LLC v. Urevig
+  88   66717412        2          0        2  Bill.com v. Cox
+  89   66793562        2          0        2  Harley Marine NY, Inc. v. Moore
+  90   66932411        2          0        2  BAE Systems Information and Electronic Systems Integrat
+  91   67090009        2          0        2  Biohaven Therapeutics Ltd. v. Avilar Therapeutics, Inc.
+  92   67326540        2          0        2  Grams v. Treis Blockchain, LLC
+  93   67410636        2          0        2  Hammerhead Group, LLC v. Riley
+  94   67412743        2          0        2  First-Citizens Bank and Trust Company v. HSBC Holdings 
+  95   67488892        2          0        2  VERTICAL BRIDGE REIT, LLC v. EVEREST INFRASTRUCTURE PAR
+  96   67563472        2          0        2  Tradin Organics USA LLC v. Terra Nostra Organics, LLC
+  97   67612318        2          0        2  RIG CONSULTING, INC. v. ROGERS
+  98   67698392        2          0        2  White Cap, L.P. v. Heyden Enterprises, LLC
+  99   67727459        2          0        2  National Specialty Pharmacy, LLC v. Padhye
+ 100   67738549        2          0        2  Digital Alpha Advisors, LLC v. Ladak
+
+  Stats for top 100:
+    Avg opinions: 4.1, max: 18
+    Avg RECAP docs: 0.0, max: 0
+
+  Stats for all 326:
+    Avg opinions: 2.0
+    Avg RECAP docs: 0.0
+
+  Total: 652 API calls in 192s (3.2min)
+
+Saved to research/top100_trade_secret.json
