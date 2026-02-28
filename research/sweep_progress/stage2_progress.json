@@ -1,0 +1,2298 @@
+{
+  "checked": 1046,
+  "total_to_check": 1046,
+  "both_count": 326,
+  "recap_only_count": 719,
+  "error_count": 1,
+  "both_cases": [
+    {
+      "docket_id": "18526699",
+      "case_name": "AllRounds, Inc. v. eShares, Inc.",
+      "court_id": "cand",
+      "date_filed": "2020-10-09",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "18541637",
+      "case_name": "ELITE TRANSIT SOLUTIONS, LLC. v. CUNNINGHAM",
+      "court_id": "pawd",
+      "date_filed": "2020-10-13",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "18543316",
+      "case_name": "AZIMA v. DEL ROSSO",
+      "court_id": "ncmd",
+      "date_filed": "2020-10-15",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "18554874",
+      "case_name": "Allstate Insurance Company v. Cruz",
+      "court_id": "cod",
+      "date_filed": "2020-10-20",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "18599483",
+      "case_name": "Southern Natural Resources, LLC v. Nations Energy Solutions, Inc",
+      "court_id": "casd",
+      "date_filed": "2020-11-02",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "18601539",
+      "case_name": "Genesis 1 Oil Services LLC v. Wismann Group, LLC",
+      "court_id": "cacd",
+      "date_filed": "2020-11-02",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "18703995",
+      "case_name": "SUNBELT RENTALS, INC. v. LOVE",
+      "court_id": "njd",
+      "date_filed": "2020-12-01",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "18749697",
+      "case_name": "Greater Oceans, Inc. v. Eric Thorstenson",
+      "court_id": "cacd",
+      "date_filed": "2020-12-15",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "18759358",
+      "case_name": "Local Access, LLC v. Kelley Drye & Warren LLP",
+      "court_id": "flmd",
+      "date_filed": "2020-12-18",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "29089898",
+      "case_name": "United HealthCare Services, Inc. v. Louro",
+      "court_id": "mnd",
+      "date_filed": "2020-12-30",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "31184240",
+      "case_name": "XpandOrtho, Inc. v. Zimmer Biomet Holdings, Inc.",
+      "court_id": "casd",
+      "date_filed": "2021-01-20",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "36968980",
+      "case_name": "Tesla, Inc. v. Khatilov",
+      "court_id": "cand",
+      "date_filed": "2021-01-22",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "48908424",
+      "case_name": "MFB Fertility Inc. v. Easy Healthcare Corporation",
+      "court_id": "ilnd",
+      "date_filed": "2020-12-31",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "59207326",
+      "case_name": "Northgauge Healthcare Advisors, LLC v. Constellation, Inc.",
+      "court_id": "cod",
+      "date_filed": "2021-02-05",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "59251713",
+      "case_name": "HOUSER v. FELDMAN",
+      "court_id": "paed",
+      "date_filed": "2021-02-12",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "59673639",
+      "case_name": "Pairprep, Inc. d/b/a OpticsML v. Ascension Data and Analytics, LLC",
+      "court_id": "txed",
+      "date_filed": "2021-02-22",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "59693219",
+      "case_name": "Bronx Conservatory of Music, Inc. v. Bronx School for Music, Inc.",
+      "court_id": "nysd",
+      "date_filed": "2021-02-26",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "59713272",
+      "case_name": "Clean Waste Systems, LLC v. WasteMedX, LLC",
+      "court_id": "ndd",
+      "date_filed": "2021-02-24",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "59720231",
+      "case_name": "INVENTION SUBMISSION CORPORATION v. TAYLOR MACK ENTERPRISES, INC.",
+      "court_id": "pawd",
+      "date_filed": "2021-01-05",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "59724048",
+      "case_name": "Rustik Haws, LLC v. Lime Press, LLC",
+      "court_id": "flmd",
+      "date_filed": "2021-03-11",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "59731679",
+      "case_name": "BETA PHARMA, INC. v. INVENTISBIO (SHANGHAI) CO., LTD.",
+      "court_id": "njd",
+      "date_filed": "2021-03-15",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "59754172",
+      "case_name": "Hayden v. International Business Machines Corporation",
+      "court_id": "nysd",
+      "date_filed": "2021-03-22",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "59770915",
+      "case_name": "Ramirez Capital Services, LLC v. McMahan",
+      "court_id": "txed",
+      "date_filed": "2021-03-26",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "59796865",
+      "case_name": "KPM Analytics North America Corporation v. Blue Sun Scientific, LLC",
+      "court_id": "mad",
+      "date_filed": "2021-04-05",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "59816026",
+      "case_name": "Nulogy Corporation v. Menasha Packaging Company, LLC",
+      "court_id": "ilnd",
+      "date_filed": "2021-03-01",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "59834745",
+      "case_name": "American Freight, LLC v. Surplus Freight, LLC",
+      "court_id": "ohsd",
+      "date_filed": "2021-04-19",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "59838182",
+      "case_name": "Fareportal, Inc. v. HNA Group (International) Co., LTD.",
+      "court_id": "cand",
+      "date_filed": "2021-04-16",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "59853917",
+      "case_name": "Hedgeye Risk Management, LLC v. Dale",
+      "court_id": "nysd",
+      "date_filed": "2021-04-26",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "59914331",
+      "case_name": "Allscripts Healthcare, LLC v. Andor Health, LLC",
+      "court_id": "ded",
+      "date_filed": "2021-05-17",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "59929747",
+      "case_name": "Health Care Facilities Partners, LLC v. Diamond",
+      "court_id": "ohnd",
+      "date_filed": "2021-05-24",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "59935621",
+      "case_name": "Wagner Aeronautical, Inc. v. Dotzenroth",
+      "court_id": "casd",
+      "date_filed": "2021-05-25",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "59959176",
+      "case_name": "AbbVie Inc. v. Alvotech hf.",
+      "court_id": "ilnd",
+      "date_filed": "2021-03-19",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "59968828",
+      "case_name": "Amazing Lash Franchise, LLC v. Sayed",
+      "court_id": "cod",
+      "date_filed": "2021-06-08",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "60005635",
+      "case_name": "Champion Salt, LLC v. Arthofer",
+      "court_id": "moed",
+      "date_filed": "2021-06-22",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "60049803",
+      "case_name": "CNG Financial Corporation v. Brichler",
+      "court_id": "ohsd",
+      "date_filed": "2021-07-09",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "60049936",
+      "case_name": "Buff City Soap LLC v. Bynum",
+      "court_id": "tnwd",
+      "date_filed": "2021-07-09",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "60202907",
+      "case_name": "Corporate Lodging Consultants, Inc. v. Szafarski",
+      "court_id": "ohnd",
+      "date_filed": "2021-08-18",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "60292381",
+      "case_name": "Cashman Dredging and Marine Contracting Co., LLC v. Belesimo",
+      "court_id": "mad",
+      "date_filed": "2021-08-25",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "60377360",
+      "case_name": "Carrington Mortgage Services, LLC v. DeLory",
+      "court_id": "rid",
+      "date_filed": "2021-09-10",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "60625911",
+      "case_name": "H-1 AUTO CARE, LLC v. LASHER",
+      "court_id": "njd",
+      "date_filed": "2021-10-05",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "60659026",
+      "case_name": "SkyLab Ventures, Inc. v. WKND Digital",
+      "court_id": "caed",
+      "date_filed": "2021-10-19",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "60674266",
+      "case_name": "Valmarc Corporation v. Nike, Inc.",
+      "court_id": "ord",
+      "date_filed": "2021-10-26",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "60698779",
+      "case_name": "Service Experts LLC v. Otte",
+      "court_id": "ksd",
+      "date_filed": "2021-11-04",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "60979554",
+      "case_name": "Prysmian Cables & Systems USA LLC v. Szymanski",
+      "court_id": "scd",
+      "date_filed": "2021-06-02",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "60991111",
+      "case_name": "Blockchain Innovation, LLC v. Franklin Resources, Inc.",
+      "court_id": "cand",
+      "date_filed": "2021-11-12",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "60993390",
+      "case_name": "Kohler Company v. TrueNorth Collective LLC",
+      "court_id": "wied",
+      "date_filed": "2021-11-12",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "61029998",
+      "case_name": "RoadSync, Inc. v. Relay Payments, Inc.",
+      "court_id": "gand",
+      "date_filed": "2021-08-20",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "61031297",
+      "case_name": "Groupon, Inc. v. Shin",
+      "court_id": "ilnd",
+      "date_filed": "2021-11-12",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "61382901",
+      "case_name": "Arthrex, Inc. v. Hilton",
+      "court_id": "flmd",
+      "date_filed": "2021-11-15",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "61567506",
+      "case_name": "Veritiv Operating Company v. Phoenix Paper Wickliffe, LLC",
+      "court_id": "kywd",
+      "date_filed": "2021-11-22",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "61573744",
+      "case_name": "DANIELI CORPORATION v. SMS GROUP, INC.",
+      "court_id": "pawd",
+      "date_filed": "2021-11-23",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "61573862",
+      "case_name": "Ipsos MMA, Inc. v. John Doe",
+      "court_id": "nysd",
+      "date_filed": "2021-11-01",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "61576898",
+      "case_name": "Temujin Labs inc. a Delaware Corporation v. Translucence Research, Inc.",
+      "court_id": "cand",
+      "date_filed": "2021-11-24",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "61600806",
+      "case_name": "The Hilb Group of New England, LLC v. LePage",
+      "court_id": "vaed",
+      "date_filed": "2021-12-07",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "61609858",
+      "case_name": "Drut Technologies Inc v. Microsoft Corporation Inc",
+      "court_id": "wawd",
+      "date_filed": "2021-12-10",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "61615929",
+      "case_name": "Midwest MFG, LLC v. Curt Manufacturing, LLC",
+      "court_id": "sdd",
+      "date_filed": "2021-12-09",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "61617509",
+      "case_name": "IQVIA Inc. v. Medimpact Healthcare Systems, Inc.",
+      "court_id": "casd",
+      "date_filed": "2021-12-13",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "61617578",
+      "case_name": "RN Wellness LLC v. Essentials Hero LLC",
+      "court_id": "nysd",
+      "date_filed": "2021-12-14",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "61622124",
+      "case_name": "FranNet, LLC v. Grant",
+      "court_id": "cod",
+      "date_filed": "2021-12-16",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "62149116",
+      "case_name": "Elko, Inc. v. Corey Peters",
+      "court_id": "nvd",
+      "date_filed": "2022-01-10",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "62608064",
+      "case_name": "DAT Solutions, LLC v. Convoy, Inc.",
+      "court_id": "ord",
+      "date_filed": "2022-01-19",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "62635758",
+      "case_name": "ONEFlight International, Inc. v. Thaw",
+      "court_id": "cod",
+      "date_filed": "2022-01-27",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "62646248",
+      "case_name": "Pfizer, Inc. v. Regor Therapeutics Inc.",
+      "court_id": "ctd",
+      "date_filed": "2022-02-02",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "62984579",
+      "case_name": "Hedgeye Risk Management, LLC v. Terman",
+      "court_id": "nysd",
+      "date_filed": "2022-02-09",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63104894",
+      "case_name": "Benchmark Technologies, Inc. v. Yuqiang Tu",
+      "court_id": "mad",
+      "date_filed": "2022-02-10",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63125786",
+      "case_name": "I-Mab Biopharma v. Inhibrx, Inc.",
+      "court_id": "ded",
+      "date_filed": "2022-03-01",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63133663",
+      "case_name": "Ecolab, Inc. v. Ridley",
+      "court_id": "tned",
+      "date_filed": "2022-03-03",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63152690",
+      "case_name": "DEAD RIVER COMPANY LLC v. BOYINGTON",
+      "court_id": "med",
+      "date_filed": "2022-02-17",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63168209",
+      "case_name": "JTH Tax, LLC v. Gilbert",
+      "court_id": "flmd",
+      "date_filed": "2022-03-17",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63172131",
+      "case_name": "GLE Scrap Metal, Inc. v. Tan",
+      "court_id": "flmd",
+      "date_filed": "2022-03-18",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63175934",
+      "case_name": "Network Data Rooms, LLC v. Saulrealism LLC",
+      "court_id": "nysd",
+      "date_filed": "2022-03-21",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63181087",
+      "case_name": "IDEXX LABORATORIES INC v. BILBROUGH",
+      "court_id": "med",
+      "date_filed": "2022-02-28",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63182395",
+      "case_name": "ImageTrend, Inc. v. Locality Media, Inc.",
+      "court_id": "mnd",
+      "date_filed": "2022-01-28",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63194932",
+      "case_name": "MESA Industries, Inc. v. Charter Industrial Supply, Inc.",
+      "court_id": "ohsd",
+      "date_filed": "2022-03-29",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63201340",
+      "case_name": "Equity Bank v. McGregor",
+      "court_id": "ksd",
+      "date_filed": "2022-03-30",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63201695",
+      "case_name": "Northwest Building Components, Inc. v. Adams",
+      "court_id": "cod",
+      "date_filed": "2022-03-30",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63250375",
+      "case_name": "Quest Diagnostics Incorporated v. Elarja",
+      "court_id": "nvd",
+      "date_filed": "2022-04-19",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63262219",
+      "case_name": "MMR Constructors, Inc. v. JB Group of LA, LLC",
+      "court_id": "lamd",
+      "date_filed": "2022-04-25",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63262260",
+      "case_name": "R2 Medical Clinic, P.C. v. Lann",
+      "court_id": "cod",
+      "date_filed": "2022-04-25",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63270872",
+      "case_name": "Carlisle Interconnect Technologies Incorporated v. Foresight Finishing LLC",
+      "court_id": "azd",
+      "date_filed": "2022-04-27",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63277771",
+      "case_name": "Apple Inc. v. Rivos, Inc.",
+      "court_id": "cand",
+      "date_filed": "2022-04-29",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63287245",
+      "case_name": "Osborne Partners Capital Management, LLC v. Whisler",
+      "court_id": "cand",
+      "date_filed": "2022-05-04",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63287497",
+      "case_name": "Guaranteed Rate, Inc. v. Rorvig",
+      "court_id": "ilnd",
+      "date_filed": "2022-05-04",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63293486",
+      "case_name": "Tesla, Inc. v. Yatskov",
+      "court_id": "cand",
+      "date_filed": "2022-05-06",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63294039",
+      "case_name": "Caliber Home Loans Inc v. CrossCountry Mortgage LLC",
+      "court_id": "wawd",
+      "date_filed": "2022-05-06",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63314651",
+      "case_name": "Groves Incorporated v. R.C. Bremer Marketing Associates Inc",
+      "court_id": "ilnd",
+      "date_filed": "2022-05-16",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63315250",
+      "case_name": "WEST CHESTER DESIGN BUILD, LLC v. MOSES",
+      "court_id": "paed",
+      "date_filed": "2022-05-16",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63392337",
+      "case_name": "Edelman Financial Engines, LLC v. Butera",
+      "court_id": "mdd",
+      "date_filed": "2022-06-07",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63404078",
+      "case_name": "James B. Oswald Company v. Neate",
+      "court_id": "ohnd",
+      "date_filed": "2022-06-22",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63559097",
+      "case_name": "Tilebar v. Glazzio Tiles",
+      "court_id": "nyed",
+      "date_filed": "2022-06-29",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63568270",
+      "case_name": "PFG Ventures, L.P. v. Brandon C. Kennedy",
+      "court_id": "ohnd",
+      "date_filed": "2022-07-01",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63589036",
+      "case_name": "NAV Consulting Inc. v. Kumawat",
+      "court_id": "ilnd",
+      "date_filed": "2022-07-13",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63589690",
+      "case_name": "loanDepot.com, LLC v. CrossCountry Mortgage, LLC",
+      "court_id": "nysd",
+      "date_filed": "2022-07-13",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63595194",
+      "case_name": "Universal Plant Services, Inc. v. Adams",
+      "court_id": "txsd",
+      "date_filed": "2022-07-15",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63655936",
+      "case_name": "PARAMOUNT RESIDENTIAL MORTGAGE GROUP, INC. v. NATIONWIDE MORTGAGE BANKERS, INC.",
+      "court_id": "njd",
+      "date_filed": "2022-07-20",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63848389",
+      "case_name": "Cynosure, LLC v. Reveal Lasers LLC",
+      "court_id": "mad",
+      "date_filed": "2022-07-20",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "63892697",
+      "case_name": "Mutual of Omaha Mortgage, Inc. v. WaterStone Mortgage Corporation",
+      "court_id": "flmd",
+      "date_filed": "2022-07-22",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "64876991",
+      "case_name": "International Technological University Foundation v. WASC Senior College and University Commission",
+      "court_id": "cand",
+      "date_filed": "2022-08-08",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "64890523",
+      "case_name": "DFW Dance Floors LLC v. Suchil",
+      "court_id": "txnd",
+      "date_filed": "2022-08-12",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "64927552",
+      "case_name": "First Insurance Funding v. Stonemark, Inc.",
+      "court_id": "flmd",
+      "date_filed": "2022-08-26",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "64946051",
+      "case_name": "USI Insurance Services, LLC v. Aitkin",
+      "court_id": "ord",
+      "date_filed": "2021-02-18",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "64952087",
+      "case_name": "BHI Energy I Power Services LLC v. KVP Holdings LLC",
+      "court_id": "txnd",
+      "date_filed": "2022-09-06",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "64984421",
+      "case_name": "West Shore Home, LLC v. Chappell",
+      "court_id": "pamd",
+      "date_filed": "2022-02-11",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "65354671",
+      "case_name": "Minc LLC v. Stebbins",
+      "court_id": "ohnd",
+      "date_filed": "2022-09-16",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "65367114",
+      "case_name": "Aarow Electrical Solutions, LLC v. TriCore Systems, LLC",
+      "court_id": "mdd",
+      "date_filed": "2022-09-15",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "65375429",
+      "case_name": "Rapid Enterprises v. United States Postal Service",
+      "court_id": "utd",
+      "date_filed": "2022-09-23",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "65415928",
+      "case_name": "Boston Centerless, Inc. v. DeSantis",
+      "court_id": "mad",
+      "date_filed": "2022-10-11",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "65598527",
+      "case_name": "Sysco Machinery Corp. v. Cymtek Solutions, Inc.",
+      "court_id": "mad",
+      "date_filed": "2022-10-21",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "65756589",
+      "case_name": "Reger v. All Things Gel, LLC",
+      "court_id": "flsd",
+      "date_filed": "2022-11-15",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "65764276",
+      "case_name": "Total Quality Logistics, LLC v. Qureshi",
+      "court_id": "ohsd",
+      "date_filed": "2022-11-17",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "65773295",
+      "case_name": "City Communications, Inc. v. Dailytel, Inc.",
+      "court_id": "flsd",
+      "date_filed": "2022-11-21",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "65774834",
+      "case_name": "Talman Consultants, LLC v. Urevig",
+      "court_id": "ilnd",
+      "date_filed": "2022-11-21",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "65882475",
+      "case_name": "Palltronics, Inc. v. PALIoT Solutions, Inc.",
+      "court_id": "mied",
+      "date_filed": "2022-11-23",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "66637329",
+      "case_name": "Terran Biosciences, Inc. v. Compass Pathfinder Limited",
+      "court_id": "mdd",
+      "date_filed": "2022-08-05",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "66680178",
+      "case_name": "Canoo Technologies, Inc. v. Harbinger Motors, Inc.",
+      "court_id": "cacd",
+      "date_filed": "2022-12-22",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "66687059",
+      "case_name": "J.D Workforce, Inc. v. Gafoor",
+      "court_id": "nyed",
+      "date_filed": "2022-12-28",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "66688723",
+      "case_name": "Viking Therapeutics,Inc. v. Ascletis Bioscience Co., Ltd.",
+      "court_id": "casd",
+      "date_filed": "2022-12-29",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "66710888",
+      "case_name": "Shakuff LLC v. Shakuff Custom Glass Lighting Inc",
+      "court_id": "nyed",
+      "date_filed": "2023-01-09",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "66717412",
+      "case_name": "Bill.com v. Cox",
+      "court_id": "utd",
+      "date_filed": "2023-01-11",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "66730618",
+      "case_name": "Abiomed, Inc. v. Enmodes GmbH",
+      "court_id": "mad",
+      "date_filed": "2023-01-13",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "66733875",
+      "case_name": "DermSource, Inc. v. CityMedRx, LLC",
+      "court_id": "nyed",
+      "date_filed": "2023-01-16",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "66750663",
+      "case_name": "Vivos Therapeutics, Inc v. Singh",
+      "court_id": "cod",
+      "date_filed": "2023-01-23",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "66793562",
+      "case_name": "Harley Marine NY, Inc. v. Moore",
+      "court_id": "nynd",
+      "date_filed": "2023-02-07",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "66822303",
+      "case_name": "JRM CONSTRUCTION MANAGEMENT, LLC v. PLESCIA",
+      "court_id": "njd",
+      "date_filed": "2023-02-17",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "66824671",
+      "case_name": "StoneX Group Inc. v. shipman",
+      "court_id": "nysd",
+      "date_filed": "2023-01-24",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "66835289",
+      "case_name": "Salient Power Solutions, LLC v. Cullari Industries, LLC",
+      "court_id": "cod",
+      "date_filed": "2023-02-21",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "66863109",
+      "case_name": "Kiosk Information Systems, Inc. v. Cole Kepro International, LLC",
+      "court_id": "cod",
+      "date_filed": "2023-02-07",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "66923610",
+      "case_name": "Neutron Holdings, Inc. v. Hertz Corporation",
+      "court_id": "cand",
+      "date_filed": "2023-03-02",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "66932411",
+      "case_name": "BAE Systems Information and Electronic Systems Integration Inc. v. L3Harris Cincinnati Electronics Corporation",
+      "court_id": "nysd",
+      "date_filed": "2023-03-03",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "66974711",
+      "case_name": "Crystal Lagoons U.S. Corp. v. Oasis Amenities, LLC",
+      "court_id": "flmd",
+      "date_filed": "2023-03-08",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "66977907",
+      "case_name": "Acousti Engineering Company of Florida v. Palmer",
+      "court_id": "flmd",
+      "date_filed": "2023-03-09",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67090009",
+      "case_name": "Biohaven Therapeutics Ltd. v. Avilar Therapeutics, Inc.",
+      "court_id": "ded",
+      "date_filed": "2023-03-24",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67146118",
+      "case_name": "POM of Pennsylvania, LLC v. BMM Testlabs",
+      "court_id": "pamd",
+      "date_filed": "2023-04-05",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67237406",
+      "case_name": "GlobalFoundries U.S. Inc. v. International Business Machines Corporation",
+      "court_id": "nysd",
+      "date_filed": "2023-04-21",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67241155",
+      "case_name": "Columbia Sportswear Company v. Ferreira",
+      "court_id": "ord",
+      "date_filed": "2023-04-21",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67256401",
+      "case_name": "Dupre Logistics, LLC v. Greenberg",
+      "court_id": "txsd",
+      "date_filed": "2023-04-24",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67310532",
+      "case_name": "Thomas v. Joule Processing LLC <b><font color=\\red\\\">Count 5- Breach of contract of the Consulting Agreement electronically transferred to USDC ND/NY- Albany Division. </font></b>\"",
+      "court_id": "txsd",
+      "date_filed": "2023-05-02",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67326540",
+      "case_name": "Grams v. Treis Blockchain, LLC",
+      "court_id": "almd",
+      "date_filed": "2023-05-04",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67389827",
+      "case_name": "Boxabl Inc. v. Tassev",
+      "court_id": "nvd",
+      "date_filed": "2023-05-15",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67410636",
+      "case_name": "Hammerhead Group, LLC v. Riley",
+      "court_id": "moed",
+      "date_filed": "2023-05-19",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67412743",
+      "case_name": "First-Citizens Bank and Trust Company v. HSBC Holdings plc",
+      "court_id": "cand",
+      "date_filed": "2023-05-22",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67461400",
+      "case_name": "Rigney v. Cyberpoint3 Holdings, LLC",
+      "court_id": "mdd",
+      "date_filed": "2023-05-26",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67480215",
+      "case_name": "Battaglia Management, Inc. v. Abramowicz",
+      "court_id": "ded",
+      "date_filed": "2023-06-06",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67488892",
+      "case_name": "VERTICAL BRIDGE REIT, LLC v. EVEREST INFRASTRUCTURE PARTNERS, INC.",
+      "court_id": "pawd",
+      "date_filed": "2023-06-08",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67515069",
+      "case_name": "Hoffenmer, Inc. v. Slesinski",
+      "court_id": "ilnd",
+      "date_filed": "2023-06-20",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67546004",
+      "case_name": "Weatherford International, LLC v. Ameen",
+      "court_id": "txsd",
+      "date_filed": "2023-06-30",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67547053",
+      "case_name": "Healthbookplus Holdings Inc. v. Jardine",
+      "court_id": "cod",
+      "date_filed": "2023-04-13",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67563472",
+      "case_name": "Tradin Organics USA LLC v. Terra Nostra Organics, LLC",
+      "court_id": "cand",
+      "date_filed": "2023-07-06",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67596013",
+      "case_name": "Admiin Inc. v. Kohan",
+      "court_id": "ilnd",
+      "date_filed": "2023-07-10",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67612318",
+      "case_name": "RIG CONSULTING, INC. v. ROGERS",
+      "court_id": "pawd",
+      "date_filed": "2023-07-14",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67617609",
+      "case_name": "Direct Components, Inc. v. Microchip USA, LLC",
+      "court_id": "flmd",
+      "date_filed": "2023-07-18",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67663695",
+      "case_name": "Insulet Corporation v. EOFlow, Co. Ltd.",
+      "court_id": "mad",
+      "date_filed": "2023-08-03",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67690994",
+      "case_name": "Project Management Resource Group Corporation v. Nokia Solutions and Networks Oy",
+      "court_id": "ded",
+      "date_filed": "2023-08-14",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67697518",
+      "case_name": "Allstate Financial Services, LLC v. Nolan",
+      "court_id": "moed",
+      "date_filed": "2023-08-16",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67698392",
+      "case_name": "White Cap, L.P. v. Heyden Enterprises, LLC",
+      "court_id": "flsd",
+      "date_filed": "2023-08-16",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67719018",
+      "case_name": "Lupin Atlantis Holdings SA v. Zeng",
+      "court_id": "flsd",
+      "date_filed": "2023-08-22",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67727459",
+      "case_name": "National Specialty Pharmacy, LLC v. Padhye",
+      "court_id": "cand",
+      "date_filed": "2023-08-24",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67738549",
+      "case_name": "Digital Alpha Advisors, LLC v. Ladak",
+      "court_id": "nvd",
+      "date_filed": "2023-08-28",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67739661",
+      "case_name": "Empire Staple Co. v. SouthernCarlson, Inc.",
+      "court_id": "cod",
+      "date_filed": "2023-08-28",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67751263",
+      "case_name": "Bullion Shark, LLC v. Flip a Coin Bullion LLC",
+      "court_id": "nyed",
+      "date_filed": "2023-08-31",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67752288",
+      "case_name": "R2X, LLC v. WINDSOR",
+      "court_id": "insd",
+      "date_filed": "2023-08-31",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67761878",
+      "case_name": "CHG Medcial Staffing, Inc v. Shafer",
+      "court_id": "flsd",
+      "date_filed": "2023-09-05",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67786976",
+      "case_name": "1900 Market LLC v. Omnia LLC",
+      "court_id": "tnmd",
+      "date_filed": "2023-09-07",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67788714",
+      "case_name": "Weatherford U.S., L.P. v. Iron IQ, Inc.",
+      "court_id": "txsd",
+      "date_filed": "2023-09-12",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67796859",
+      "case_name": "Inner Circle Sports LLC v. Bluestone Equity Partners",
+      "court_id": "nysd",
+      "date_filed": "2023-09-14",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67815799",
+      "case_name": "E-Gate Holding AG v. Walker Manufacturing Company",
+      "court_id": "cod",
+      "date_filed": "2023-09-21",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67825584",
+      "case_name": "Laerdal Medical Corp. v. Tomczak",
+      "court_id": "txwd",
+      "date_filed": "2023-09-25",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67844803",
+      "case_name": "Section Partners Management, LLC v. EquityBee, Inc.",
+      "court_id": "cand",
+      "date_filed": "2023-09-29",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67856251",
+      "case_name": "Movement Mortgage LLC v. Summit Funding, Inc.",
+      "court_id": "ncwd",
+      "date_filed": "2023-10-04",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67865448",
+      "case_name": "LifeVoxel.AI Inc. v. Khan",
+      "court_id": "ctd",
+      "date_filed": "2023-10-09",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67878351",
+      "case_name": "Rocket Pharmaceuticals, Inc. v. Lexeo Therapeutics, Inc.",
+      "court_id": "nysd",
+      "date_filed": "2023-10-12",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67895257",
+      "case_name": "Kia America, Inc. v. McAdams",
+      "court_id": "txwd",
+      "date_filed": "2023-10-18",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67899392",
+      "case_name": "GREENSTAR TECHNOLOGIES, LLC v. DOES",
+      "court_id": "njd",
+      "date_filed": "2023-10-19",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67903471",
+      "case_name": "Soelect, Inc. v. Hyundai Motor Company",
+      "court_id": "cand",
+      "date_filed": "2023-10-20",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67986142",
+      "case_name": "Valeo Schalter und Sensoren GmbH v. NVIDIA Corporation",
+      "court_id": "cand",
+      "date_filed": "2023-11-07",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "67994538",
+      "case_name": "BlueLinx Corporation v. Edwards",
+      "court_id": "txnd",
+      "date_filed": "2023-11-09",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68015397",
+      "case_name": "Edelman Financial Engines, LLC v. Mariner Wealth Advisors LLC",
+      "court_id": "ksd",
+      "date_filed": "2023-11-17",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68030533",
+      "case_name": "Mattson Technology, Inc. v. Applied Materials, Inc.",
+      "court_id": "cand",
+      "date_filed": "2023-11-22",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68055140",
+      "case_name": "Joe Hand Promotions, Inc. v. Jones",
+      "court_id": "tnwd",
+      "date_filed": "2023-12-01",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68063448",
+      "case_name": "Trigo ADR Americas, LLC v. OEM Logistics, LLC",
+      "court_id": "casd",
+      "date_filed": "2023-12-04",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68063707",
+      "case_name": "Thomas v. Joule Processing LLC Count 5- Breach of contract of the Consulting Agreement electronically transferred to USDC ND/NY- Albany Division.",
+      "court_id": "nynd",
+      "date_filed": "2023-12-05",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68075941",
+      "case_name": "Paylocity Corporation v. Cangrade, Inc.",
+      "court_id": "cand",
+      "date_filed": "2023-12-08",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68095115",
+      "case_name": "AbbVie Inc. v. Adcentrx Therapeutics Inc.",
+      "court_id": "casd",
+      "date_filed": "2023-12-15",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68115642",
+      "case_name": "Wilhoite v. Hou",
+      "court_id": "casd",
+      "date_filed": "2023-12-22",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68122437",
+      "case_name": "Dulcich, Inc. v. DaPron",
+      "court_id": "txsd",
+      "date_filed": "2023-12-28",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68153788",
+      "case_name": "Sagewater, LLC v. Hossfeld",
+      "court_id": "vaed",
+      "date_filed": "2023-06-13",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68164273",
+      "case_name": "Vivint Inc v. Sunrun Inc",
+      "court_id": "utd",
+      "date_filed": "2024-01-15",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68183404",
+      "case_name": "Bullion Exchange LLC v. Bullion Shark, LLC",
+      "court_id": "nyed",
+      "date_filed": "2024-01-22",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68222894",
+      "case_name": "North American Science Associates, LLC v. Conforti",
+      "court_id": "mnd",
+      "date_filed": "2024-02-02",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68226281",
+      "case_name": "DraftKings Inc. v. Hermalyn",
+      "court_id": "mad",
+      "date_filed": "2024-02-05",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68260874",
+      "case_name": "SIGNANT HEALTH HOLDING CORP. v. DEBONIS",
+      "court_id": "paed",
+      "date_filed": "2024-02-16",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68279522",
+      "case_name": "Carrier Corporation v. Holmes",
+      "court_id": "txwd",
+      "date_filed": "2024-02-23",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68282969",
+      "case_name": "Aristocrat Technologies, Inc. v. Light & Wonder, Inc.",
+      "court_id": "nvd",
+      "date_filed": "2024-02-26",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68287819",
+      "case_name": "America Science Team Richmond, Inc. v. Chan",
+      "court_id": "vaed",
+      "date_filed": "2022-06-22",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68293539",
+      "case_name": "Brady Corporation v. Wood",
+      "court_id": "wied",
+      "date_filed": "2024-02-28",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68293875",
+      "case_name": "Geostabilization International LLC v. Anderson",
+      "court_id": "cod",
+      "date_filed": "2024-02-28",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68321339",
+      "case_name": "My Fav Electronics, Inc. v. Currie",
+      "court_id": "ilnd",
+      "date_filed": "2024-03-07",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68330464",
+      "case_name": "BDO USA, P.C. v. Ankura Consulting Group, LLC",
+      "court_id": "vaed",
+      "date_filed": "2024-03-11",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68346847",
+      "case_name": "Kroll LLC v. Povinelli",
+      "court_id": "nysd",
+      "date_filed": "2024-03-15",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68353296",
+      "case_name": "JPMorgan Chase Bank, National Association v. Argus Information & Advisory Services Inc.",
+      "court_id": "ded",
+      "date_filed": "2024-03-19",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68356773",
+      "case_name": "7EDU Impact Academy Inc. v. You",
+      "court_id": "cand",
+      "date_filed": "2024-03-19",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68359996",
+      "case_name": "Allstate Insurance Company v. Goings",
+      "court_id": "ared",
+      "date_filed": "2024-03-20",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68382231",
+      "case_name": "EL PASO DISPOSAL, LP v. ECUBE LABS CO. d/b/a HAULLA SERVICES",
+      "court_id": "txwd",
+      "date_filed": "2024-03-27",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68388900",
+      "case_name": "American Conservative Union v. Institute for Legislative Analysis",
+      "court_id": "vaed",
+      "date_filed": "2024-03-28",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68397927",
+      "case_name": "SIGNET MEDIA, INC. v. LG ELECTRONICS, U.S.A., INC.",
+      "court_id": "njd",
+      "date_filed": "2024-04-01",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68406680",
+      "case_name": "FTI Consulting, Inc. v. Secretariat Advisors, LLC",
+      "court_id": "gand",
+      "date_filed": "2024-03-28",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68431468",
+      "case_name": "Jane Street Group, LLC v. Millennium Management LLC",
+      "court_id": "nysd",
+      "date_filed": "2024-04-12",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68431893",
+      "case_name": "American Plastics LLC v. Hummel",
+      "court_id": "ohnd",
+      "date_filed": "2024-04-12",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68468269",
+      "case_name": "NEW JERSEY DEER CONTROL, LLC v. EN GARDE DEER DEFENSE, LLC",
+      "court_id": "njd",
+      "date_filed": "2024-04-24",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68471082",
+      "case_name": "T&T Management, Inc. v. Choice Hotels International, Inc.",
+      "court_id": "mnd",
+      "date_filed": "2024-04-25",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68481499",
+      "case_name": "RapDev LLC v. Vecellio",
+      "court_id": "mad",
+      "date_filed": "2024-04-29",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68492614",
+      "case_name": "Alliance Solutions Group, LLC v. Bishop",
+      "court_id": "ohnd",
+      "date_filed": "2024-05-01",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68502499",
+      "case_name": "LaRose v. Combs",
+      "court_id": "nysd",
+      "date_filed": "2024-05-01",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68523586",
+      "case_name": "Agensys, Inc. v. The Regents of The University of California",
+      "court_id": "cacd",
+      "date_filed": "2024-05-13",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68767533",
+      "case_name": "United Energy Workers Healthcare, LLC v. Cavallaro",
+      "court_id": "utd",
+      "date_filed": "2024-05-03",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68812296",
+      "case_name": "Zebra Strategies Inc. v. Gonzalez- Nazario",
+      "court_id": "nysd",
+      "date_filed": "2024-05-30",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68813377",
+      "case_name": "Neuropublic S.A. - Information Technologies v. Ladas & Parry LLP",
+      "court_id": "nysd",
+      "date_filed": "2024-05-30",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68814558",
+      "case_name": "SALOMON & LUDWIN, LLC v. WINTERS",
+      "court_id": "vaed",
+      "date_filed": "2024-05-28",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68822274",
+      "case_name": "Nutrien Ag Solutions, Inc. v. Rogers",
+      "court_id": "scd",
+      "date_filed": "2024-05-31",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68829983",
+      "case_name": "MAX MINDS, LLC v. TRIANGLE EXPERIENCE GROUP, INC.",
+      "court_id": "insd",
+      "date_filed": "2024-05-07",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68852671",
+      "case_name": "Ocimum Biosolutions (India) Limited v. Prestige Biopharma IDC",
+      "court_id": "ded",
+      "date_filed": "2024-06-12",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68853045",
+      "case_name": "SOCi, Inc. v. Yext, Inc.",
+      "court_id": "nysd",
+      "date_filed": "2024-06-13",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68882187",
+      "case_name": "The Hilb Group of New England, LLC v. Christopher LaVorgna",
+      "court_id": "vaed",
+      "date_filed": "2024-06-21",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68885835",
+      "case_name": "WCG CLINICAL, INC. v. SITERO, LLC",
+      "court_id": "insd",
+      "date_filed": "2024-06-25",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68890959",
+      "case_name": "BTIG, LLC v. Bhaduri",
+      "court_id": "nysd",
+      "date_filed": "2024-06-27",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68907189",
+      "case_name": "Roche Molecular Systems, Inc. v. Foresight Diagnostics Inc.",
+      "court_id": "cand",
+      "date_filed": "2024-07-01",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68909525",
+      "case_name": "Product Management Services v. Verizon Corporation",
+      "court_id": "wvsd",
+      "date_filed": "2024-07-02",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68945885",
+      "case_name": "Allstate Insurance Company v. Freeman, Deanna",
+      "court_id": "wiwd",
+      "date_filed": "2024-07-15",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68952649",
+      "case_name": "WEB DESIGN AND CONSULTING SERVICES INC v. ARAGON",
+      "court_id": "med",
+      "date_filed": "2024-07-12",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68988022",
+      "case_name": "Mainsail Parent, LLC v. Jewell",
+      "court_id": "flsd",
+      "date_filed": "2024-07-29",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "68997638",
+      "case_name": "Turing Video Technology, Inc. v. AGI7 Inc.",
+      "court_id": "cand",
+      "date_filed": "2024-07-30",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69018048",
+      "case_name": "AEB Biochemical USA v. Tagliente",
+      "court_id": "caed",
+      "date_filed": "2024-08-05",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69029172",
+      "case_name": "League corp. v. Khan",
+      "court_id": "ilnd",
+      "date_filed": "2024-08-08",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69042214",
+      "case_name": "Gratuity Solutions, LLC v. Toast, Inc.",
+      "court_id": "flmd",
+      "date_filed": "2024-08-14",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69043770",
+      "case_name": "Agnuity Inc v. Satterfield",
+      "court_id": "txnd",
+      "date_filed": "2024-08-14",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69049634",
+      "case_name": "Wireless Advanced Vehicle Electrification, LLC v. WiTricity Corporation",
+      "court_id": "utd",
+      "date_filed": "2024-08-09",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69052523",
+      "case_name": "Balmuccino, LLC v. Starbucks Corporation",
+      "court_id": "nysd",
+      "date_filed": "2024-08-16",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69056502",
+      "case_name": "Replenium Inc v. Albertsons Companies Inc",
+      "court_id": "wawd",
+      "date_filed": "2024-08-19",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69058369",
+      "case_name": "Talenthub Worldwide, Inc. v. Talenthub Workforce, Inc.",
+      "court_id": "nysd",
+      "date_filed": "2024-08-19",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69086558",
+      "case_name": "Select Research Ltd. v. Amazon.Com, Inc.",
+      "court_id": "nysd",
+      "date_filed": "2024-08-26",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69143598",
+      "case_name": "Beyond the Dog, LLC v. Salzer",
+      "court_id": "ctd",
+      "date_filed": "2024-09-09",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69150356",
+      "case_name": "Vitiprints LLC v. Veganz Group AG",
+      "court_id": "nysd",
+      "date_filed": "2024-09-10",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69158273",
+      "case_name": "Symphony Risk Solutions Insurance Services, Inc. v. Perlite",
+      "court_id": "cand",
+      "date_filed": "2024-09-12",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69172336",
+      "case_name": "Edwards Lifesciences LLC v. Thompson",
+      "court_id": "cod",
+      "date_filed": "2024-09-17",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69175370",
+      "case_name": "MAPAY, LLC v. Metz",
+      "court_id": "ilnd",
+      "date_filed": "2024-09-18",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69195997",
+      "case_name": "NRD GP LLC v. Centiva Capital, LP",
+      "court_id": "nysd",
+      "date_filed": "2024-09-25",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69203995",
+      "case_name": "GTY Technology Holdings Inc. v. Wonderware, Inc.",
+      "court_id": "ilnd",
+      "date_filed": "2024-09-27",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69223791",
+      "case_name": "Armory5, Inc. v. Logan",
+      "court_id": "nywd",
+      "date_filed": "2024-10-02",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69228719",
+      "case_name": "The Service Companies, Inc. v. Barajas",
+      "court_id": "txed",
+      "date_filed": "2024-10-04",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69306652",
+      "case_name": "Nielsen Consumer LLC v. Circana, LLC",
+      "court_id": "ilnd",
+      "date_filed": "2024-10-24",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69314070",
+      "case_name": "Oracle America, Inc. v. Procore Technologies, Inc.",
+      "court_id": "cand",
+      "date_filed": "2024-10-25",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69336645",
+      "case_name": "Amerikal Products Corporation v. Cave",
+      "court_id": "ilnd",
+      "date_filed": "2024-11-01",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69411645",
+      "case_name": "Multi-State Partnership for Prevention, LLC v. Deloitte Consulting, LLP",
+      "court_id": "nysd",
+      "date_filed": "2024-11-25",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69412777",
+      "case_name": "Knocking Inc. v. Carter",
+      "court_id": "nysd",
+      "date_filed": "2024-11-25",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69434473",
+      "case_name": "Luminate Home Loans, Inc. v. Better Mortgage Co.",
+      "court_id": "casd",
+      "date_filed": "2024-12-02",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69442953",
+      "case_name": "CURO HEALTH SERVICES LLC v. LILLY",
+      "court_id": "med",
+      "date_filed": "2024-12-05",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69444978",
+      "case_name": "Project Travel, LLC v. Rowe",
+      "court_id": "flmd",
+      "date_filed": "2024-12-06",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69549093",
+      "case_name": "Restem, LLC v. Neuvian LLC",
+      "court_id": "flsd",
+      "date_filed": "2025-01-15",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69559321",
+      "case_name": "Institute for Legislative Analysis v. Schlapp",
+      "court_id": "vaed",
+      "date_filed": "2024-12-12",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69590335",
+      "case_name": "Hilco Diligence Services, LLC v. Sikich, LLC",
+      "court_id": "ilnd",
+      "date_filed": "2025-01-29",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69593468",
+      "case_name": "Home Life Health Care, LLC v. Dorfman",
+      "court_id": "nyed",
+      "date_filed": "2025-01-30",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69624567",
+      "case_name": "Chatham Financial Corp. v. Milhaus, LLC",
+      "court_id": "ded",
+      "date_filed": "2025-02-07",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69632887",
+      "case_name": "Ameriprise Financial Services LLC v. Roskelley",
+      "court_id": "azd",
+      "date_filed": "2025-02-11",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69636108",
+      "case_name": "John Zink Company, LLC v. Zeeco, Inc.",
+      "court_id": "oknd",
+      "date_filed": "2025-02-03",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69644247",
+      "case_name": "Elder Care Homecare Inc. v. Racanelli",
+      "court_id": "nysd",
+      "date_filed": "2025-02-14",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69644646",
+      "case_name": "TJT Capital Group, LLC v. McFadden",
+      "court_id": "ctd",
+      "date_filed": "2025-02-15",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69646852",
+      "case_name": "Fair Isaac Corporation v. Gurobi Optimization, LLC",
+      "court_id": "ded",
+      "date_filed": "2025-02-17",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69710055",
+      "case_name": "Ascent AeroSystems Inc. v. Hill",
+      "court_id": "nynd",
+      "date_filed": "2025-03-03",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69715549",
+      "case_name": "Aerosonic LLC v. Joby Aviation, Inc.",
+      "court_id": "flmd",
+      "date_filed": "2025-03-07",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69727193",
+      "case_name": "SP Plus LLC v. Diniz",
+      "court_id": "ilnd",
+      "date_filed": "2025-03-11",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69770758",
+      "case_name": "Geminatio, Inc. v. Hustad",
+      "court_id": "nynd",
+      "date_filed": "2025-03-21",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69801934",
+      "case_name": "Justin Edward Rome MD PC v. Mariotti",
+      "court_id": "nysd",
+      "date_filed": "2025-03-27",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69827821",
+      "case_name": "Middesk, Inc. v. Osiris Ratings, Inc.",
+      "court_id": "nysd",
+      "date_filed": "2025-03-31",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69845642",
+      "case_name": "Limelight Trading Cards, LLC v. Fye",
+      "court_id": "txsd",
+      "date_filed": "2025-04-04",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69856238",
+      "case_name": "Eastpoint Prosthetics and Orthotics, Inc. v. Bailey",
+      "court_id": "ohnd",
+      "date_filed": "2025-04-07",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69865519",
+      "case_name": "Irongate AI, LLC v. Houk",
+      "court_id": "txwd",
+      "date_filed": "2025-04-09",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69881714",
+      "case_name": "Multi-Color Corporation v. Cuny",
+      "court_id": "ilnd",
+      "date_filed": "2025-04-11",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69888264",
+      "case_name": "Naples Cheer Academy Inc v. Naples Element All Stars, LLC",
+      "court_id": "flmd",
+      "date_filed": "2025-04-14",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69894384",
+      "case_name": "Gratuity Solutions, LLC v. Toast, Inc. - DO NOT DOCKET IN THIS CASE: ALL FILINGS ARE TO BE MADE IN 22-cv-11539-JEK",
+      "court_id": "mad",
+      "date_filed": "2025-04-15",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69901649",
+      "case_name": "Mastronardi Produce Limited v. NS Brands Ltd",
+      "court_id": "txwd",
+      "date_filed": "2025-04-16",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69903479",
+      "case_name": "MPHASIS Corporation v. Rojas",
+      "court_id": "nysd",
+      "date_filed": "2025-04-16",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69930217",
+      "case_name": "Firehawk Aerospace Inc v. Jones",
+      "court_id": "txnd",
+      "date_filed": "2025-04-23",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "69937788",
+      "case_name": "Zoox, Inc. v. Navarro",
+      "court_id": "cand",
+      "date_filed": "2025-04-24",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70173704",
+      "case_name": "PCC Airfoils, LLC v. Daugherty",
+      "court_id": "ohnd",
+      "date_filed": "2025-05-06",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70197794",
+      "case_name": "Care.Stat! Inc v. Litehouse Health WI LLC",
+      "court_id": "wied",
+      "date_filed": "2025-05-07",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70235211",
+      "case_name": "Varonis Systems, Inc. v. Guanciale",
+      "court_id": "ded",
+      "date_filed": "2025-05-08",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70246150",
+      "case_name": "First-Citizens Bank & Trust Company v. Onorato",
+      "court_id": "mad",
+      "date_filed": "2025-05-12",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70321115",
+      "case_name": "Lothamer Tax Resolution, Inc. v. Kimmel",
+      "court_id": "miwd",
+      "date_filed": "2025-05-20",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70417386",
+      "case_name": "PTC Therapeutics, Inc. v. AcureX Biosciences Corporation",
+      "court_id": "cand",
+      "date_filed": "2025-05-30",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70448887",
+      "case_name": "3 STEP SPORTS LLC v. VANGUARD ELITE VOLLEYBALL ACADEMY, LLC",
+      "court_id": "paed",
+      "date_filed": "2025-06-03",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70449925",
+      "case_name": "Aaron J. West, M.D., P.A. v. Drago",
+      "court_id": "flmd",
+      "date_filed": "2025-06-03",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70477980",
+      "case_name": "Revvity, Inc. v. Hauser",
+      "court_id": "mad",
+      "date_filed": "2025-06-06",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70496121",
+      "case_name": "Cross Fire & Security Co., Inc. v. Alan Doorly",
+      "court_id": "nysd",
+      "date_filed": "2025-06-09",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70520339",
+      "case_name": "Tesla, Inc. v. Proception, Inc.",
+      "court_id": "cand",
+      "date_filed": "2025-06-11",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70531730",
+      "case_name": "Miner, Ltd. v. Sanacore",
+      "court_id": "flmd",
+      "date_filed": "2025-06-13",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70564158",
+      "case_name": "TEXDOOR LLC v. SAMFORD",
+      "court_id": "gamd",
+      "date_filed": "2025-06-17",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70578659",
+      "case_name": "LeapXpert UK Limited v. MirrorWeb Limited",
+      "court_id": "txwd",
+      "date_filed": "2025-06-18",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70633465",
+      "case_name": "Apex Group Capital Advisors LLC v. Related Fund Management LLC",
+      "court_id": "txnd",
+      "date_filed": "2025-06-24",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70644525",
+      "case_name": "MEDICAL BUYERS GROUP LLC v. PENCE",
+      "court_id": "gamd",
+      "date_filed": "2025-06-26",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70651517",
+      "case_name": "Lynx Services LLC v. State Farm Mutual Automobile Insurance Company",
+      "court_id": "ilcd",
+      "date_filed": "2025-06-27",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70684372",
+      "case_name": "Three Dog Bakery, LLC v. Paws on the Pavement, LLC DO NOT FILE IN THIS CASE - case consolidated with case number 25-CV-00217-DGK. All filings should be docketed in Lead Case 25-CV-00217-DGK.",
+      "court_id": "mowd",
+      "date_filed": "2025-07-01",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70684394",
+      "case_name": "Three Dog Bakery, LLC v. J.L.E.T. Enterprises, LLC DO NOT FILE IN THIS CASE - case consolidated with case number 25-CV-00217-DGK. All filings should be docketed in Lead Case 25-CV-00217-DGK.",
+      "court_id": "mowd",
+      "date_filed": "2025-07-01",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70704247",
+      "case_name": "Dairy Farmers of America Inc v. Westrock Coffee Company Inc",
+      "court_id": "ared",
+      "date_filed": "2025-07-03",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70829905",
+      "case_name": "SGD Pharma Packaging, Inc. v. Lahmeur",
+      "court_id": "nysd",
+      "date_filed": "2025-07-17",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70942591",
+      "case_name": "Elder Technologies, Inc. v. Visone",
+      "court_id": "nysd",
+      "date_filed": "2025-07-28",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70978507",
+      "case_name": "Lonza Greenwood LLC v. Natals, Inc.",
+      "court_id": "nysd",
+      "date_filed": "2025-07-31",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "70988057",
+      "case_name": "COVETRUS INC v. TAFFERE",
+      "court_id": "med",
+      "date_filed": "2025-07-31",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "71023510",
+      "case_name": "Red Cat Holdings Inc. v. Vector Defense Inc.",
+      "court_id": "utd",
+      "date_filed": "2025-08-04",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "71046238",
+      "case_name": "Flexpak, LLC v. Scharrer",
+      "court_id": "cod",
+      "date_filed": "2025-08-06",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "71092214",
+      "case_name": "Advanced Technologies Group, Inc. v. L3Harris Technologies, Inc.",
+      "court_id": "nysd",
+      "date_filed": "2025-08-12",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "71099112",
+      "case_name": "Kettering Adventist Healthcare v. Collier",
+      "court_id": "ohsd",
+      "date_filed": "2025-08-13",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "71231957",
+      "case_name": "Artisan Technologies LLC v. Interlude US Inc.",
+      "court_id": "nysd",
+      "date_filed": "2025-08-29",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "71493175",
+      "case_name": "MSIG Holdings (U.S.A.), Inc. v. Pye",
+      "court_id": "nysd",
+      "date_filed": "2025-09-29",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "71531885",
+      "case_name": "CyberCoders, Inc. v. Smith",
+      "court_id": "txed",
+      "date_filed": "2025-10-02",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "71664804",
+      "case_name": "First Technology Federal Credit Union v. LPL Financial, LLC",
+      "court_id": "idd",
+      "date_filed": "2025-10-16",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "71704240",
+      "case_name": "Signode Industrial Group LLC v. Gipperich",
+      "court_id": "flmd",
+      "date_filed": "2025-10-20",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "71726341",
+      "case_name": "GENOMIC PREDICTION, INC. v. TREFF",
+      "court_id": "njd",
+      "date_filed": "2025-10-22",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "71819744",
+      "case_name": "Erhinyo v. Google LLC",
+      "court_id": "flmd",
+      "date_filed": "2025-10-30",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "71886336",
+      "case_name": "San Mar Corporation v. Rough",
+      "court_id": "flmd",
+      "date_filed": "2025-11-06",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "71906007",
+      "case_name": "Prosperity Tax ADV, LLC v. Vorwig",
+      "court_id": "flmd",
+      "date_filed": "2025-11-12",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "71907984",
+      "case_name": "BORDER STATES INDUSTRIES INC v. NISEWONGER",
+      "court_id": "flnd",
+      "date_filed": "2025-11-13",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "71921405",
+      "case_name": "Border States Industries, Inc. v. Bradford, Jr.",
+      "court_id": "alsd",
+      "date_filed": "2025-11-17",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "71936526",
+      "case_name": "Laz Karp Associates LLC v. Starre",
+      "court_id": "vaed",
+      "date_filed": "2025-11-19",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "71957073",
+      "case_name": "Juries.ai, Inc. v. Sheu",
+      "court_id": "cand",
+      "date_filed": "2025-11-24",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "71980667",
+      "case_name": "Tran v. Pham",
+      "court_id": "cand",
+      "date_filed": "2025-12-01",
+      "opinion_count": 1
+    },
+    {
+      "docket_id": "71982650",
+      "case_name": "Chaturvedi v. Jaiswal",
+      "court_id": "mad",
+      "date_filed": "2025-12-02",
+      "opinion_count": 1
+    }
+  ],
+  "_meta": {
+    "api_calls": 1101,
+    "elapsed_seconds": 556,
+    "elapsed_minutes": 9.3,
+    "stage": "stage2_opinion_check",
+    "timestamp": "2026-02-28 19:34:05 UTC"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "status": "complete",
+  "_meta": {
+    "api_calls": 1121,
+    "elapsed_seconds": 566,
+    "elapsed_minutes": 9.4,
+    "stage": "complete",
+    "timestamp": "2026-02-28 19:34:14 UTC"
+  }
+}
