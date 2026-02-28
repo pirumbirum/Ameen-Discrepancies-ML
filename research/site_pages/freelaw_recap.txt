@@ -1,0 +1,266 @@
+RECAP Suite — Turning PACER Around Since 2009 | Free Law Project | Making the legal ecosystem more equitable and competitive.
+
+Open menu
+
+About
+
+Tools
+
+Data
+
+Engage
+
+Blog
+
+ Donate
+
+ Install RECAP
+
+RECAP Suite — Turning PACER Around Since 2009
+
+The RECAP Suite is a 
+collection of tools
+ for working with PACER, the data access system for American federal courts.
+
+If you use PACER, consider installing the RECAP extension in your browser. If you are a researcher, you can search millions of federal filings in the 
+RECAP Archive
+. Journalists and court watchers will find 
+docket alerts
+ and 
+RECAP search alerts
+ invaluable. If you get notifications from PACER, check out 
+our NEF notification handler
+.
+
+ Add to Chrome
+
+ Add to Edge
+
+ Add to Safari 
+
+ Add to Firefox 
+
+Install RECAP
+
+If you use PACER, install RECAP.
+
+Once the RECAP extension is installed, your PACER purchases will be automatically added to the 
+RECAP Archive
+. Anything somebody else has added to the archive will be available to you for free — right in PACER itself.
+
+The RECAP extension is private and secure by design. It only has access to the PACER and CourtListener websites and does not track you or care who you are.
+
+Tens of thousands of people use the RECAP extension. To join them, install the extension in your browser using the button above, and then use PACER as you normally would.
+
+It&#x27;s that simple. If you don&#x27;t like it, you can uninstall the extension at any time.
+
+Have questions? 
+We&#x27;re here to help
+.
+
+See Screenshots
+
+ 
+
+See the FAQs
+
+The Archives and APIs
+
+Thanks to our users and our 
+data consulting projects
+, the 
+RECAP Archive
+ contains tens of millions of PACER documents, including 
+every free opinion in PACER
+. Everything in the archive is fully searchable, including millions of pages that were originally scanned PDFs.
+
+The RECAP Archive is also regularly uploaded to 
+the Internet Archive
+, where it has 
+a lasting home
+. This amounts to thousands of liberated documents daily.
+
+Finally, we make the RECAP Archive available via an API or as bulk data for journalists, researchers, startups, and developers.
+
+Visit the RECAP Archive
+
+ 
+
+Read about the RECAP APIs
+
+Use Docket Alerts to Keep Up with Cases
+
+Thousands of journalists and court watchers subscribe to our docket alerts to know when there are new filings in cases they follow. You can create a number of alerts for free, and you get even more if you have the RECAP extension installed.
+
+Creating a docket alert is easy. Just find a case you want to follow and press the button that says &quot;Get Alerts&quot;. That&#x27;s it.
+
+Learn More About Docket Alerts
+
+Use Search Alerts for Notifications on New Cases or Filings
+
+With RECAP search alerts, you’ll be notified whenever there&#x27;s a new match in our PACER holdings for any search you make. You can follow topics, people, organizations, and more. You can create a number of alerts for free, and you get even more if you 
+become a member
+ of Free Law Project.
+
+To save an alert, do a search and hit the bell icon next to your query. That’s it!
+
+Learn More About Search Alerts
+
+The @recap.email ECF Notification Handler
+
+If you&#x27;re an attorney that gets notifications from PACER, you can use our notification handler to automatically contribute your cases and filings to the RECAP Archive.
+
+We create a special email address for every CourtListener user. All you have to do is add that email address as a secondary recipient in the PACER system, and we&#x27;ll start getting and processing your notifications. Set and forget — until you want to do full text search on your case!
+
+Learn More and Get Started
+
+And More…
+
+The RECAP Suite also has tools for techies, including:
+
+Webhooks
+ so events on our website can trigger workflows in your systems.
+
+An 
+API for purchasing PACER content
+, so you don&#x27;t have to scrape it yourself.
+
+A tool for 
+finding bad redactions
+ in filings.
+
+A 
+Python package
+ for pulling citations out of text.
+
+A 
+microservice
+ for extracting text from documents, including doing OCR.
+
+What People are Saying
+
+Recap is an invaluable resource for journalists, activists - and really anyone who cares about law and justice in the United States. The work of the Free Law Project puts our courts within reach for everyone, and reinforces a pillar of democracy that is often overlooked. Everyone should support — and contribute — to this effort.
+
+— Charles Duhigg, 
+Pulitzer Prize winning journalist for New York Times
+
+If you are a PACER user, I strongly encourage you to download RECAP.
+
+— Todd Ito of the 
+Chicago Association of Law Libraries
+
+Citizens deserve open and easy access to all public court documents. Until public access becomes a matter of policy rather than blocked by PACER&#x27;s artificial pay wall, independent efforts like RECAP continue to fill a critical gap in our ability to foster a more participatory and engaged democracy.
+
+— Ari Schwartz, 
+Center for Democracy and Technology
+
+For More Information, See…
+
+The Frequently Asked Questions
+
+Facts about PACER
+
+Why It Matters
+
+The RECAP Privacy Policy
+
+We also have an API and bulk data available for developers. For details, 
+get in touch
+.
+
+About
+
+Overview
+
+Team
+
+Presentations &amp; Press
+
+Non-Profit Documents
+
+Hiring
+
+Press 
+Logos and 
+Assets
+
+Vulnerability Disclosure Policy
+
+Contact Us
+
+Our Work
+
+Data 
+Services and 
+Consulting
+
+PACER Fact Sheet
+
+Integrated Database Fact Sheet
+
+Court Contracts
+
+Tools
+
+CourtListener.com
+
+RECAP Suite
+
+Bots.law
+
+Open Source Tools
+
+More 
+ on GitHub
+
+Data
+
+Our Data Services
+
+Legal APIs
+
+Bulk Data
+
+Database Replication
+
+Datasets
+
+Engage
+
+Membership
+
+Read the Blog
+
+Startup Guide
+
+Librarian Guide
+
+Justice Partner Circle
+
+Our Latest Post
+
+Join our Newsletter
+
+Volunteer
+
+Support FLP
+
+Donate Now
+
+Donations FAQ
+
+Other Ways to Help
+
+Stickers
+ 
+&amp;
+ 
+Store
+!
+
+© 
+2026
+ Free Law Project. Content licensed under a Creative Commons BY-ND international 4.0, license, except where indicated.
+ 
+Site powered by Netlify
+.

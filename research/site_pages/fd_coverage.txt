@@ -1,0 +1,1259 @@
+Financial Disclosure Coverage – CourtListener.com
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Toggle navigation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+About
+
+ 
+
+FAQ
+
+ 
+
+ 
+Become a Member
+
+ 
+
+ 
+
+ 
+ 
+Sign in / Register
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Case Law&nbsp;
+
+ 
+
+ 
+
+ 
+
+ 
+Search Case Law
+
+ 
+
+ 
+ 
+
+ 
+Look Up Citations
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+RECAP Archive&nbsp;
+
+ 
+
+ 
+
+ 
+
+ 
+Search PACER Data
+
+ 
+
+ 
+
+ 
+Install RECAP
+
+ 
+
+ 
+
+ 
+Pray and Pay Project
+
+ 
+
+ 
+
+ 
+Get Case Alerts
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+Bulk Data Service
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Oral Arguments&nbsp;
+
+ 
+
+ 
+
+ 
+Search Oral Arguments
+
+ 
+
+ 
+
+ 
+Get Search Alerts
+
+ 
+
+ 
+
+ 
+Custom Podcasts
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Judges&nbsp;
+
+ 
+
+ 
+
+ 
+Search Judges
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Financial Disclosures&nbsp;
+
+ 
+
+ 
+
+ 
+Search Financial Disclosures
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+&nbsp;Donate
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+Back to Coverage Overview
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Back to Coverage Home
+
+ 
+
+ 
+Table of Contents
+
+ 
+
+ 
+
+Overview
+
+ 
+
+Yearly Totals
+
+ 
+
+Our Enhancements
+
+ 
+
+Data Gaps
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Data Coverage &mdash; What Financial Disclosures Does CourtListener Have?
+
+ 
+The 
+ Ethics in Government Act of 1978
+ requires that senior government officials file annual disclosures listing their personal financial interests. In the Judicial Branch, this law applies to certain judicial employees and all judges. Once filed, these disclosures are generally available to the public for six years. After that time has elapsed the statute generally 
+requires that disclosures be "destroyed."
+
+ 
+
+ 
+Historically, these disclosures were not collected systematically because it was too difficult to do so. Each disclosure had to be requested individually by fax, and had to be paid for by check. A big change to this policy came in the 
+March, 2017 meeting of the Judicial Conference
+, where they created a new policy that allowed the disclosures to be released on "electronic storage devices…at no cost to the requestor."
+ 
+
+ 
+This was a monumental change in policy, and since that time, 
+Free Law Project has requested all of the judicial disclosures that are legally available
+. The Ethics in Government Act also requires certain judicial personnel to complete financial disclosures. We have requested these as well, but asked that the request be fulfilled as a lower priority than the judicial disclosures.
+ 
+
+ 
+At this time, we have received over 
+a dozen thumb drives from the Financial Disclosures Office
+.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Additionally, judicial nominees file financial disclosures with the Senate Judiciary Committee during the nomination process. Free Law Project 
+built a machine learning model and tool
+ that could identify financial disclosures and used it to scan hundreds of thousands of pages of Senate records.
+
+ 
+
+One other organization
+ has systematically placed disclosures online, and we have gathered their corpus as well, as described below. A news organization called ABPNews also gathered them in the late nineties, but after going out of business in 2000, 
+their records were lost to water damage
+. If you know of other sources, 
+please get in touch
+.
+ 
+
+ 
+This collection was used by the 
+Wall Street Journal
+ in their 
+groundbreaking series on judicial conflicts of interest
+.
+
+ 
+In 2023, ProPublica utilized our dataset for an ambitious investigation into the Supreme Court, which led to their winning the prestigious public service Pulitzer Prize in 2024. The Pulitzer committee 
+praised
+ ProPublica's "groundbreaking and ambitious reporting that pierced the thick wall of secrecy surrounding the Supreme Court." This recognition underscores the critical importance of judicial transparency and the impact of our database in supporting investigative journalism.
+ 
+
+ 
+
+ 
+Yearly Totals
+
+ 
+
+ 
+
+ 
+
+ 
+Source
+
+ 
+Year
+
+ 
+File Count*
+
+ 
+File Size (GB)*
+
+ 
+Notes
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Senate Records
+
+ 
+1987-2013
+
+ 
+874
+
+ 
+394.7 MB
+
+ 
+
+Extracted from Senate Records
+
+ 
+
+ 
+
+ 
+Judicial Watch
+
+ 
+2003-2010
+
+ 
+9,157
+
+ 
+7.6
+
+ 
+Gathered from their website
+
+ 
+
+ 
+
+ 
+U.S. Courts
+
+ 
+2011
+
+ 
+3,515
+
+ 
+46.8
+
+ 
+Complete
+
+ 
+
+ 
+
+ 
+U.S. Courts
+
+ 
+2012
+
+ 
+2,763
+
+ 
+49.8
+
+ 
+Complete
+
+ 
+
+ 
+
+ 
+U.S. Courts
+
+ 
+2013
+
+ 
+3,238
+
+ 
+50.1
+
+ 
+Complete
+
+ 
+
+ 
+
+ 
+U.S. Courts
+
+ 
+2014
+
+ 
+2,951
+
+ 
+51.1
+
+ 
+Complete
+
+ 
+
+ 
+
+ 
+U.S. Courts
+
+ 
+2015
+
+ 
+2,737
+
+ 
+52.4
+
+ 
+Complete
+
+ 
+
+ 
+
+ 
+U.S. Courts
+
+ 
+2016
+
+ 
+2,764
+
+ 
+49.1
+
+ 
+Complete
+
+ 
+
+ 
+
+ 
+U.S. Courts
+
+ 
+2017
+
+ 
+2,467
+
+ 
+49.5
+
+ 
+Complete
+
+ 
+
+ 
+
+ 
+U.S. Courts
+
+ 
+2018
+
+ 
+2,361
+
+ 
+50.4
+
+ 
+Complete
+
+ 
+
+ 
+
+ 
+U.S. Courts
+
+ 
+2019
+
+ 
+2246
+
+ 
+191.6 MB
+
+ 
+Requested 1/1/2020
+Received partial set of 2019 disclosures. Disclosures received as PDFs.
+
+ 
+
+ 
+
+ 
+U.S. Courts
+
+ 
+2020
+
+ 
+1188
+
+ 
+153.3 MB
+
+ 
+Requested 1/1/2021.
+Only received ~1200 disclosures.
+
+ 
+
+ 
+
+ 
+U.S. Courts
+
+ 
+2021
+
+ 
+0
+
+ 
+-
+
+ 
+Requested 1/1/2022.
+None received.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOTAL
+
+ 
+
+34 YEARS
+
+ 
+
+35k
+
+ 
+
+407GB
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+* Differences in these columns are due to disclosures frequently being broken into multiple files.
+ 
+
+ 
+If you know of other disclosures not already in our collection, we would 
+love to hear from you
+. We need your help to complete this collection.
+
+ 
+
+ 
+Our Enhancements
+
+ 
+We have dedicated considerable energy to develop 
+a parsing system
+ for these disclosures. This system takes the disclosure, whether it’s a single-page TIFF, multi-page TIFF or PDF, scanned document or text, and converts it into machine-readable JSON data. When we first ran this system, it took weeks for our servers to parse the information from the disclosures.
+ 
+
+ 
+Additionally, we developed a 
+machine learning model
+ that extracted 843 Financial Disclosure from over 250k pages of Senate hearing documents.
+
+ 
+Once the parsing was completed, we converted all the disclosures into good PDF files and ingested the data into our database, where it is 
+available via our APIs and website
+. As of this moment, there are 
+32,336
+ disclosures documenting:
+ 
+
+ 
+
+ 
+
+1,901,720
+ investments
+
+ 
+
+37,050
+ positions held outside of the judiciary
+
+ 
+
+10,007
+ legal agreements
+
+ 
+
+15,302
+ sources of non-investment income
+
+ 
+
+20,174
+ sources of spousal income
+
+ 
+
+33,472
+ reimbursements
+
+ 
+
+2,025
+ gifts to judges and judicial employees
+
+ 
+
+18,775
+ debts
+
+ 
+
+ 
+When combined with our detailed database of judges, this creates a one-of-a-kind resource for understanding the conflicts, resources, and entanglements of federal judges. We believe this brings our country closer to finally realizing the goals set out by the 1978 Ethics in Government Act.
+ 
+
+ 
+What's Missing
+
+ 
+We have worked hard to parse all of the disclosures that we have collected, but there are a few places where we were unable to make meaningful progress:
+ 
+
+ 
+
+ 
+
+ 
+We have a basic parser for documents from Judicial Watch, but due to their age the disclosures in this collection vary considerably. We were able to parse many of them, but some were too difficult.
+ 
+
+ 
+
+ 
+
+ 
+Some disclosures were scanned incorrectly. 
+Here's a representative example
+.
+ 
+
+ 
+
+ 
+
+ 
+Some disclosures had scanned and embedded spreadsheets, 
+like this one
+. These were too challenging to automate.
+ 
+
+ 
+
+ 
+
+ 
+A few disclosures were handwritten. We were unable to parse those.
+
+ 
+
+ 
+
+ 
+Many disclosures we lack &mdash; particularly older ones &mdash; 
+are available as part of judicial nomination proceedings
+. We are looking for a funder to help us add them to the collection.
+
+ 
+
+ 
+
+ 
+Whenever possible, we work with the Office of Financial Disclosures to remedy badly processed disclosures and get them into our system, but this can be an overwhelming administrative effort for our small organization. As with everything we do, your support helps makes this project possible.
+ 
+
+ 
+
+ 
+Please Support Open Legal&nbsp;Data
+
+ 
+These services are sponsored by 
+Free Law Project
+ and users like you. We provide these services in furtherance of our mission to make the legal sector more innovative and equitable.
+ 
+
+ 
+We have provided these services for over a decade, and we need your contributions to continue curating and enhancing them.
+ 
+
+ 
+Will you support us today by becoming a member?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Join FLP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+Newsletter
+
+ 
+Sign up to receive the Free Law Project newsletter with tips and announcements.
+
+ 
+
+ 
+
+ 
+
+ 
+
+&nbsp;Subscribe
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+About
+
+ 
+
+ 
+
+ 
+Help
+ &amp; 
+FAQ
+
+ 
+
+ 
+
+ 
+Donate
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+About Our Data
+
+ 
+
+ 
+
+ 
+APIs &amp; Bulk Data
+
+ 
+
+ 
+
+ 
+Feeds
+ 
+&amp;
+
+ 
+Podcasts
+&nbsp;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Blog Posts
+
+ 
+
+ 
+
+ 
+Contact
+
+ 
+
+ 
+
+ 
+Data Services
+
+ 
+
+ 
+
+ 
+Contribute
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Terms &amp; Privacy
+
+ 
+
+ 
+
+ 
+Removal
+
+ 
+
+ 
+
+ 
+Vulnerability Policies
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+CourtListener is sponsored by the non-profit 
+Free Law Project
+.

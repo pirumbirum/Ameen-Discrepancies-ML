@@ -1,0 +1,985 @@
+RECAP Archive Coverage — CourtListener.com
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Toggle navigation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+About
+
+ 
+
+FAQ
+
+ 
+
+ 
+Become a Member
+
+ 
+
+ 
+
+ 
+ 
+Sign in / Register
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Case Law&nbsp;
+
+ 
+
+ 
+
+ 
+
+ 
+Search Case Law
+
+ 
+
+ 
+ 
+
+ 
+Look Up Citations
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+RECAP Archive&nbsp;
+
+ 
+
+ 
+
+ 
+
+ 
+Search PACER Data
+
+ 
+
+ 
+
+ 
+Install RECAP
+
+ 
+
+ 
+
+ 
+Pray and Pay Project
+
+ 
+
+ 
+
+ 
+Get Case Alerts
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+Bulk Data Service
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Oral Arguments&nbsp;
+
+ 
+
+ 
+
+ 
+Search Oral Arguments
+
+ 
+
+ 
+
+ 
+Get Search Alerts
+
+ 
+
+ 
+
+ 
+Custom Podcasts
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Judges&nbsp;
+
+ 
+
+ 
+
+ 
+Search Judges
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Financial Disclosures&nbsp;
+
+ 
+
+ 
+
+ 
+Search Financial Disclosures
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+&nbsp;Donate
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+Back to Coverage Overview
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Back to Coverage Home
+
+ 
+
+ 
+Table of Contents
+
+ 
+
+ 
+
+Overview
+
+ 
+
+Data Sources
+
+ 
+
+ 
+
+RECAP Extensions
+
+ 
+
+@recap.email
+
+ 
+
+Special Scrapers
+
+ 
+
+Fetch APIs
+
+ 
+
+Client Work
+
+ 
+
+Opinion Scrapers
+
+ 
+
+RSS Feeds
+
+ 
+
+Social Media Bots
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+RECAP Archive Coverage — What PACER Data Does CourtListener Have?
+
+ 
+The 
+RECAP Archive
+ is the biggest open collection of PACER data on the Internet.
+
+ 
+It contains hundreds of millions of docket entries, nearly every federal case, and millions of documents. On a given day, it is likely to gain numerous new dockets, thousands of new documents, and around 100,000 new docket entries.
+ 
+
+ 
+Our goal with the RECAP Archive is to collect any PACER data that we can so that we can share it as widely as possible.
+ 
+
+ 
+
+ 
+Data Sources
+
+ 
+There is no easy answer to "
+What's in RECAP?
+," but we can share how we get content from PACER and provide details about data gathering projects we have completed.
+ 
+
+ 
+RECAP Extension
+
+ 
+An important source of PACER data in CourtListener is the 
+RECAP Extension
+.
+ 
+The RECAP Extension is a tool for your browser that is used by around 30,000 people. As you use PACER, the extension will send copies of your purchases to the RECAP Archive.
+ 
+
+ 
+RECAP is used by many journalists. As a result, the documents contributed by the extensions are some of the most newsworthy in the country. If you use PACER, 
+install the RECAP Extension
+ to save money and contribute to the public commons.
+ 
+
+ 
+
+Install RECAP Now
+
+ 
+
+ 
+@recap.email system
+
+ 
+People that receive ECF notification emails from PACER can use the 
+@recap.email system
+ to seamlessly add documents to the RECAP Archive.
+ 
+
+ 
+Each time they get a notification from PACER, we get it too.
+ 
+
+ 
+
+Learn More
+
+ 
+
+ 
+Special Case Scrapers
+
+ 
+CourtListener automatically identifies certain cases as "special." These cases get additional monitoring via scrapers that regularly gather data from PACER. Examples of special cases are those that have active 
+Docket Alerts
+, are saved in 
+Notes
+, or are otherwise popular or important.
+ 
+
+ 
+
+Learn About Docket Alerts
+&nbsp;
+Learn About Notes
+
+ 
+
+ 
+PACER Fetch APIs
+
+ 
+We host free APIs that many organizations use to gather cases and documents from PACER. Every day, many organizations rely on these automated tools to add data to our system.
+ 
+
+ 
+
+Learn More
+
+ 
+Client Work
+
+ 
+CourtListener is an initiative of 
+Free Law Project
+, a non-profit that consults with organizations to gather PACER data. In these arrangements, we purchase thousands of items from PACER, which we add to the RECAP Archive.
+ 
+
+ 
+In general, we do not discuss the details of these engagements, but we are able to share the following datasets we have created:
+
+ 
+
+ 
+
+Broad Data
+ — In early 2023, we added short descriptions and basic metadata for about 150M documents in the PACER system. This data was drawn from over three million PACER RSS feeds gathered and contributed by 
+Troller BK
+ in support of our mission.
+
+ 
+
+Broad Data
+ — In early 2021, we scraped basic metadata from every unsealed bankruptcy, civil, and criminal case in the PACER system. This data, gathered on behalf of a major media organization, spans about 60M cases, and includes the case name, date filed, date terminated, and judge.
+
+ 
+
+Broad Data
+ — In May 2019, we downloaded nearly all civil district court dockets filed from January 1, 2016 to November 9, 2018. Dockets with natures of suit related to civil rights, prisoner petitions or patent law were excluded.
+ 
+
+ 
+
+Bankruptcy Data
+ — In 2020, we gathered $1.9M worth of content from the Southern District of Illinois Bankruptcy Court. For every case from 2007 to 2017, we downloaded the docket sheet, initial petition, and docket entries containing the word "final."
+ 
+
+ 
+
+Fair Labor Standards Act Data (FLSA)
+ — We worked with a start-up to create an extensive collection of labor-related dockets and initial complaints. The date range for this collection is from 2009 to 2017.
+
+ 
+
+Export Control
+ — We have a large, random sample of dockets related to export-controlled technology collected on behalf of a major Department of Defense policy organization.
+
+ 
+
+Invoices
+ — We have a large collection of documents described by the word "invoice" that can be used for machine learning.
+
+ 
+
+ 
+Finally, we have some data sources that we have not yet merged into CourtListener. These can be treasure troves of data and are detailed on 
+our project board dedicated to the topic
+.
+ 
+
+ 
+
+Discuss Your Data Needs
+
+ 
+PACER Opinion Scraper
+
+ 
+When clerks upload documents to PACER, they 
+mark items as official opinions or orders of the court
+. Such documents are then free to download from PACER. Each night 
+we download all documents that clerks mark in this way
+ from district and bankruptcy courts across the country.
+ 
+
+ 
+PACER RSS Feeds
+
+ 
+Most federal district courts provide RSS feeds listing their latest docket entries. We crawl these feeds on an ongoing basis to get the latest docket entries.
+ 
+
+ 
+For details on which courts have enabled RSS feeds, 
+see the documentation on alerts
+.
+ 
+
+ 
+Basic PACER Content Scraper
+
+ 
+Basic case metadata is freely available on PACER for all District and Bankruptcy cases. This includes details such as the case name, docket number, date filed, date of last filing, and date terminated.
+
+ 
+For bankruptcy cases, additional information is available, including the assigned judge, bankruptcy chapter, date the plan was confirmed, and date the debtor was discharged.
+
+ 
+We regularly scrape these pages for each court, ensuring that we collect basic metadata for all new District and Bankruptcy cases shortly after they are filed. This data can be used to trigger RECAP Search Alerts.
+
+ 
+Social Media Bots
+
+ 
+We host a fleet of social media bots
+ that download important documents from PACER so they can be shared with the public. The bots use 
+CourtListener APIs
+ to download content from PACER. As a result, anything the bots buy is automatically contributed to the RECAP Archive.
+ 
+
+ 
+
+Meet the Bots
+
+ 
+
+ 
+Please Support Open Legal&nbsp;Data
+
+ 
+These services are sponsored by 
+Free Law Project
+ and users like you. We provide these services in furtherance of our mission to make the legal sector more innovative and equitable.
+ 
+
+ 
+We have provided these services for over a decade, and we need your contributions to continue curating and enhancing them.
+ 
+
+ 
+Will you support us today by becoming a member?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Join FLP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+Newsletter
+
+ 
+Sign up to receive the Free Law Project newsletter with tips and announcements.
+
+ 
+
+ 
+
+ 
+
+ 
+
+&nbsp;Subscribe
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+About
+
+ 
+
+ 
+
+ 
+Help
+ &amp; 
+FAQ
+
+ 
+
+ 
+
+ 
+Donate
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+About Our Data
+
+ 
+
+ 
+
+ 
+APIs &amp; Bulk Data
+
+ 
+
+ 
+
+ 
+Feeds
+ 
+&amp;
+
+ 
+Podcasts
+&nbsp;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Blog Posts
+
+ 
+
+ 
+
+ 
+Contact
+
+ 
+
+ 
+
+ 
+Data Services
+
+ 
+
+ 
+
+ 
+Contribute
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Terms &amp; Privacy
+
+ 
+
+ 
+
+ 
+Removal
+
+ 
+
+ 
+
+ 
+Vulnerability Policies
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+CourtListener is sponsored by the non-profit 
+Free Law Project
+.

@@ -1,0 +1,1175 @@
+Bulk Legal Data – CourtListener.com
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Toggle navigation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+About
+
+ 
+
+FAQ
+
+ 
+
+ 
+Become a Member
+
+ 
+
+ 
+
+ 
+ 
+Sign in / Register
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Case Law&nbsp;
+
+ 
+
+ 
+
+ 
+
+ 
+Search Case Law
+
+ 
+
+ 
+ 
+
+ 
+Look Up Citations
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+RECAP Archive&nbsp;
+
+ 
+
+ 
+
+ 
+
+ 
+Search PACER Data
+
+ 
+
+ 
+
+ 
+Install RECAP
+
+ 
+
+ 
+
+ 
+Pray and Pay Project
+
+ 
+
+ 
+
+ 
+Get Case Alerts
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+Bulk Data Service
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Oral Arguments&nbsp;
+
+ 
+
+ 
+
+ 
+Search Oral Arguments
+
+ 
+
+ 
+
+ 
+Get Search Alerts
+
+ 
+
+ 
+
+ 
+Custom Podcasts
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Judges&nbsp;
+
+ 
+
+ 
+
+ 
+Search Judges
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Financial Disclosures&nbsp;
+
+ 
+
+ 
+
+ 
+Search Financial Disclosures
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+&nbsp;Donate
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Back to API Home
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Back to API Home
+
+ 
+
+ 
+Table of Contents
+
+ 
+
+ 
+
+Overview
+
+ 
+
+Browsing the Files
+
+ 
+
+Data Definitions
+
+ 
+
+Schema Diagrams
+
+ 
+
+ 
+
+Case Law Data
+
+ 
+
+Disclosures Data
+
+ 
+
+Judge Data
+
+ 
+
+Oral Argument Data
+
+ 
+
+ 
+
+Embeddings
+
+ 
+
+Odds and Ends
+
+ 
+
+ 
+
+Data Generation Schedule
+
+ 
+
+Contributions
+
+ 
+
+Release Notes
+
+ 
+
+Copyright
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Bulk Legal Data
+
+ 
+For developers, legal researchers, journalists, and the public, we provide bulk files containing many types of data. In general, the files that are available correspond to the major types of data we have in our database, such as case law, case law embeddings, oral arguments, dockets, and judges.
+ 
+
+ 
+
+Get in touch
+ if you're interested in types of data not provided here.
+ 
+
+ 
+If you have questions about the data, 
+please use our forum
+ and we'll get back to you as soon as possible.
+ 
+
+ 
+Browsing the Data Files
+
+ 
+As they are generated, bulk data files are streamed to an AWS S3 bucket. Files are named with their generation time (UTC) and object type.
+ 
+
+ 
+
+Important:
+ Files are snapshots, not deltas, meaning each file contains everything in our database at the time of generation.
+ 
+
+ 
+
+ 
+Browse Bulk Data
+
+ 
+
+ 
+Data Format and Field Definitions
+
+ 
+Files are generated using the PostgreSQL 
+
+COPY TO
+
+ command. This generates CSV files that correspond with the tables in our database. Files are provided using the CSV output format, in the UTF-8 encoding, with a header row on the top. If you are using PostgreSQL, the easiest way to import these files is to use the 
+COPY FROM
+ command. Details about the CSVs we generate can be found in the 
+COPY documentation
+ or by reading 
+the code we use to generate these files
+. You can import the data using 
+COPY FROM
+ by executing a sql statement like this:
+ 
+
+ 
+
+ 
+
+ COPY public.search_opinionscited (id, depth, cited_opinion_id, citing_opinion_id) FROM 'path_to_csv_file.csv' WITH (FORMAT csv, ENCODING utf8, ESCAPE '\', HEADER);
+ 
+
+ 
+
+ 
+The SQL commands to generate our database schema (including tables, columns, indexes, and constraints) are dumped whenever we generate the bulk data files. You can import the schema file into your own database with something like:
+ 
+
+ 
+
+ 
+psql [various connection parameters] 
+
+ 
+
+ 
+Field definitions can be found in one of two ways. First, you can 
+browse the CourtListener code base
+, where all the fields and tables are defined in 
+models.py
+ files. Second, if you send an 
+HTTP OPTIONS
+ request to our
+ 
+REST API
+, it will give you field definitions (though the API does not always correspond to the CSV files on a 1-to-1 basis).
+ 
+
+ 
+Schema Diagrams
+
+ 
+Click for more detail.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Bulk Data Files
+
+ 
+Case Law Data
+
+ 
+The following bulk data files are available for our Case Law database. Use
+ 
+the browsable interface
+ to get their most recent links:
+
+ 
+
+ 
+
+ 
+
+Courts
+ &mdash; This is a dump of court table and contains metadata about the courts we have in our system. Because nearly every data type 
+happens
+ in a court, you'll probably need this table to import any other data type below. We suggest importing it first.
+ 
+
+ 
+
+ 
+
+ 
+
+Dockets
+ &mdash; Dockets contain high-level case information like the docket number, case name, etc. This table contains many millions of rows and should be imported before the opinions data below. A docket can have multiple opinion clusters within it, just like a real life case can have multiple opinions and orders.
+ 
+
+ 
+
+ 
+
+ 
+
+Opinion Clusters and Opinions
+ &mdash; Clusters serve the purpose of grouping dissenting and concurring opinions together. Each cluster tends to have a lot of metadata about the opinion(s) that it groups together. Opinions hold the text of the opinion as well as a few other bits of metadata. Because of the text, the opinions bulk data file is our largest.
+ 
+
+ 
+
+ 
+
+ 
+
+Citations Map
+ &mdash; This is a narrow table that indicates which opinion cited which and how deeply.
+ 
+
+ 
+
+ 
+
+ 
+
+Parentheticals
+ &mdash; Parentheticals are short summaries of opinions written by the Court. 
+Learn more about them from our blog
+.
+ 
+
+ 
+
+ 
+
+ 
+
+Integrated DB
+ — We regularly import the 
+FJC Integrated Database
+ into our database, merging it with the data we have.
+ 
+
+ 
+
+ 
+
+ 
+We have also partnered with the Library Innovation Lab at Harvard Law Library to create 
+a dataset on Hugging Face
+ with similar data.
+ 
+
+ 
+Financial Disclosure Data
+
+ 
+We have built a database of 32,336 financial disclosure documents containing 1,901,720 investments. To learn more about this data, please read the 
+REST API documentation
+ or the 
+disclosures coverage page
+.
+ 
+
+ 
+Judge Data
+
+ 
+Our judge database is described in detail in our 
+REST API documentation
+. To learn more about that data, we suggest you read that documentation. Before you can import this data, you will need to import the court data.
+ 
+
+ 
+Oral Argument Data
+
+ 
+Our database of oral arguments is the largest in the world, but has a very simple structure consisting of only a single table that we export. That said, it relies on our court, judge, and docket data, so before you can import the oral argument data, you will likely want to import those other sources.
+ 
+
+ 
+Case Law Embeddings
+
+ 
+To encourage innovation, the case law embeddings for 
+our semantic search engine
+ are available for download.
+ 
+
+ 
+These embeddings are about 2TB in size and can be downloaded from our AWS S3 bucket with a command like:
+ 
+
+ 
+aws s3 sync s3://com-courtlistener-storage/embeddings/opinions/ . \
+ --no-sign-request
+
+ 
+
+S3 Inventory files
+ are also available in the bucket:
+
+ 
+aws s3 sync s3://com-courtlistener-storage/embeddings/inventories/ . \
+ --no-sign-request
+
+ 
+These are generated nightly and can be used to identify new embeddings.
+
+ 
+Embeddings are organized into directories named after the model used to generate them:
+
+ 
+
+ 
+
+modernbert-embed-base_finetune_512
+ — This uses 
+our fine-tuned ModernBERT model
+.
+
+ 
+
+ 
+Please note that downloading these embeddings incurs about $200 in AWS fees upon Free Law Project. Donations 
+are highly encouraged
+ to offset such costs.
+ 
+
+ 
+Odds and Ends
+
+ 
+Generation Schedule
+
+ 
+As can be seen on the public 
+CourtListener maintenance calendar
+, bulk data files are regenerated quarterly on the last day of March, June, September, and December beginning at 3AM PST. Generation can take many hours, but in general is expected to conclude before the next day. Check the date in the filename to be sure you have the most recent data.
+ 
+
+ 
+Adding Features and Fixing Bugs
+
+ 
+Like all Free Law Project initiatives, CourtListener is an open source project. If you are a developer and you notice bugs or missing features, we enthusiastically welcome your contributions 
+on GitHub
+.
+ 
+
+ 
+Release Notes
+
+ 
+
+ 
+2025-01-24
+: Improved PostgreSQL bulk data export by defaulting to double quotes for quoting instead of backticks, resolving parsing errors. Added the 
+ESCAPE
+ option to handle embedded double quotes, ensuring reliable exports and data integrity. Updated the generated import shell script to include this option.
+ 
+
+ 
+
+ 
+2024-08-07
+: Added 
+filepath_pdf_harvard
+ field to OpinionCluster data in bulk exports. This field contains the path to the PDF file from the Harvard Caselaw Access Project for the given case.
+ 
+
+ 
+
+ 
+2024-08-02
+: Add new fields to the bulk data files for the Docket object: federal_dn_case_type, federal_dn_office_code, federal_dn_judge_initials_assigned, federal_dn_judge_initials_referred, federal_defendant_number, parent_docket_id.
+ 
+
+ 
+
+ 
+2023-09-26
+: Bulk script refactored to make it easier to maintain. Courthouse table added to bulk script. Court appeals_to through table added to bulk script. Bulk script now automatically generates a shell script to load bulk data and stream the script to S3.
+ 
+
+ 
+
+ 
+2023-07-07
+: We added the 
+FORCE_QUOTE *
+ option to our export script so that null can be distinguished from blank values. In the past, both appeared in the CSVs as commas with nothing between them (
+,,
+). With this change, blanks will use quotes: (
+,"",
+), while nulls will remain as before. This should make the 
+COPY TO
+ commands work better. In addition, several missing columns are added to the bulk data to align our exports more closely with our database.
+ 
+
+ 
+This is the third version of our bulk data system. Previous versions were available by jurisdiction, by day, month, or year, and in JSON format corresponding to our REST API. We also previously provided our CiteGeist&trade; data file. Each of these features has been removed in an effort to simply the feature. For more information, see 
+here (removing day/month/year files)
+ and 
+here (removing the JSON format and switching to PostgreSQL dumps)
+.
+ 
+
+ 
+
+Copyright
+
+ 
+Our bulk data files are free of known copyright restrictions.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Please Support Open Legal Data
+
+ 
+These bulk data files are sponsored by 
+Free Law Project
+ and users like you. We provide these files in furtherance of our mission to make the legal sector more innovative and equitable.
+ 
+
+ 
+We have provided these files for over a decade, and we need your contributions to continue curating and enhancing this service.
+ 
+
+ 
+Will you support us today with a donation?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Donate Now
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+Newsletter
+
+ 
+Sign up to receive the Free Law Project newsletter with tips and announcements.
+
+ 
+
+ 
+
+ 
+
+ 
+
+&nbsp;Subscribe
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+About
+
+ 
+
+ 
+
+ 
+Help
+ &amp; 
+FAQ
+
+ 
+
+ 
+
+ 
+Donate
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+About Our Data
+
+ 
+
+ 
+
+ 
+APIs &amp; Bulk Data
+
+ 
+
+ 
+
+ 
+Feeds
+ 
+&amp;
+
+ 
+Podcasts
+&nbsp;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Blog Posts
+
+ 
+
+ 
+
+ 
+Contact
+
+ 
+
+ 
+
+ 
+Data Services
+
+ 
+
+ 
+
+ 
+Contribute
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Terms &amp; Privacy
+
+ 
+
+ 
+
+ 
+Removal
+
+ 
+
+ 
+
+ 
+Vulnerability Policies
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+CourtListener is sponsored by the non-profit 
+Free Law Project
+.

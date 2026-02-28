@@ -1,0 +1,873 @@
+Getting Help – CourtListener.com
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Toggle navigation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+About
+
+ 
+
+FAQ
+
+ 
+
+ 
+Become a Member
+
+ 
+
+ 
+
+ 
+ 
+Sign in / Register
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Case Law&nbsp;
+
+ 
+
+ 
+
+ 
+
+ 
+Search Case Law
+
+ 
+
+ 
+ 
+
+ 
+Look Up Citations
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+RECAP Archive&nbsp;
+
+ 
+
+ 
+
+ 
+
+ 
+Search PACER Data
+
+ 
+
+ 
+
+ 
+Install RECAP
+
+ 
+
+ 
+
+ 
+Pray and Pay Project
+
+ 
+
+ 
+
+ 
+Get Case Alerts
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+Bulk Data Service
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Oral Arguments&nbsp;
+
+ 
+
+ 
+
+ 
+Search Oral Arguments
+
+ 
+
+ 
+
+ 
+Get Search Alerts
+
+ 
+
+ 
+
+ 
+Custom Podcasts
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Judges&nbsp;
+
+ 
+
+ 
+
+ 
+Search Judges
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Financial Disclosures&nbsp;
+
+ 
+
+ 
+
+ 
+Search Financial Disclosures
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+&nbsp;Donate
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Getting Help on CourtListener
+
+ 
+The following help articles are currently available:
+
+ 
+
+ 
+
+Help with search and docket alerts
+
+ 
+
+Help with Pray and Pay project
+
+ 
+
+Help with @recap.email
+
+ 
+
+Help with advanced search parameters
+
+ 
+
+How search results are ranked
+
+ 
+
+Help with relative date queries
+
+ 
+
+Learn how to tag dockets and save notes
+
+ 
+
+Learn about RSS feeds
+
+ 
+
+Learn about our Podcasts
+
+ 
+
+Help formatting with Markdown
+
+ 
+
+Help with your donations
+
+ 
+
+Help deleting your account
+
+ 
+
+ 
+About our Data
+
+ 
+We've built some of the biggest open datasets in the world. Learn more about them:
+
+ 
+
+ 
+
+Coverage Homepage
+
+ 
+
+PACER Data Coverage
+
+ 
+
+Case Law Coverage
+
+ 
+
+Financial Disclosure Coverage
+
+ 
+
+Judge Coverage
+
+ 
+
+Oral Argument Recording Coverage
+
+ 
+
+ 
+Developer Documentation
+
+ 
+The following documentation is available for developers:
+
+ 
+
+ 
+
+API Documentation
+
+ 
+
+ 
+
+REST API Overview
+
+ 
+
+Citation Lookup API
+
+ 
+
+Search API
+
+ 
+
+Case Law APIs
+
+ 
+
+PACER Data APIs
+
+ 
+
+RECAP APIs
+
+ 
+
+Judge APIs
+
+ 
+
+Financial Disclosure APIs
+
+ 
+
+Citation APIs
+
+ 
+
+Alert APIs
+
+ 
+
+Supreme Court Visualization APIs
+
+ 
+
+ 
+
+Webhook Documentation
+
+ 
+
+ 
+
+Webhook Overview
+
+ 
+
+Getting Started
+
+ 
+
+ 
+
+MCP Server for AI Assistants
+ 
+Coming Soon
+
+ 
+
+Bulk Data Documentation
+
+ 
+
+Replication Documentation
+
+ 
+
+Data Services on CourtListener
+
+ 
+
+ 
+Removing Content
+
+ 
+We will not remove content from our systems absent a valid court order, but we will usually remove content from public search engines like Google, upon request.
+ 
+
+ 
+
+Read our removal policy to learn more
+
+ 
+More Help?
+
+ 
+If you're unable to find what you're looking for above you have a few more options:
+
+ 
+
+ 
+
+Try our 
+FAQs
+
+ 
+Contact Us
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+Newsletter
+
+ 
+Sign up to receive the Free Law Project newsletter with tips and announcements.
+
+ 
+
+ 
+
+ 
+
+ 
+
+&nbsp;Subscribe
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+About
+
+ 
+
+ 
+
+ 
+Help
+ &amp; 
+FAQ
+
+ 
+
+ 
+
+ 
+Donate
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+About Our Data
+
+ 
+
+ 
+
+ 
+APIs &amp; Bulk Data
+
+ 
+
+ 
+
+ 
+Feeds
+ 
+&amp;
+
+ 
+Podcasts
+&nbsp;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Blog Posts
+
+ 
+
+ 
+
+ 
+Contact
+
+ 
+
+ 
+
+ 
+Data Services
+
+ 
+
+ 
+
+ 
+Contribute
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Terms &amp; Privacy
+
+ 
+
+ 
+
+ 
+Removal
+
+ 
+
+ 
+
+ 
+Vulnerability Policies
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+CourtListener is sponsored by the non-profit 
+Free Law Project
+.

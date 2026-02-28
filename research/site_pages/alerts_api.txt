@@ -1,0 +1,1080 @@
+Legal Alert APIs – CourtListener.com
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Toggle navigation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+About
+
+ 
+
+FAQ
+
+ 
+
+ 
+Become a Member
+
+ 
+
+ 
+
+ 
+ 
+Sign in / Register
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Case Law&nbsp;
+
+ 
+
+ 
+
+ 
+
+ 
+Search Case Law
+
+ 
+
+ 
+ 
+
+ 
+Look Up Citations
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+RECAP Archive&nbsp;
+
+ 
+
+ 
+
+ 
+
+ 
+Search PACER Data
+
+ 
+
+ 
+
+ 
+Install RECAP
+
+ 
+
+ 
+
+ 
+Pray and Pay Project
+
+ 
+
+ 
+
+ 
+Get Case Alerts
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+Bulk Data Service
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Oral Arguments&nbsp;
+
+ 
+
+ 
+
+ 
+Search Oral Arguments
+
+ 
+
+ 
+
+ 
+Get Search Alerts
+
+ 
+
+ 
+
+ 
+Custom Podcasts
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Judges&nbsp;
+
+ 
+
+ 
+
+ 
+Search Judges
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Financial Disclosures&nbsp;
+
+ 
+
+ 
+
+ 
+Search Financial Disclosures
+
+ 
+
+ 
+
+ 
+About this Collection
+
+ 
+
+ 
+
+ 
+API
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+&nbsp;Donate
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Back to API Docs
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Back to API Docs
+
+ 
+
+ 
+Table of Contents
+
+ 
+
+ 
+
+Overview
+
+ 
+
+Search Alerts
+
+ 
+
+ 
+
+Example Usage
+
+ 
+
+ 
+
+Docket Alerts
+
+ 
+
+ 
+
+Example Usage
+
+ 
+
+ 
+
+Help with Relative Date Queries
+
+ 
+
+ 
+
+ 
+ 
+Legal Alert&nbsp;APIs
+
+ 
+Use these APIs to create, modify, list, and delete search and docket alerts in our system.
+
+ 
+Once configured, alerts can notify you by email or with a 
+webhook event sent to your server
+.
+ 
+
+ 
+This page focuses on the alerts API itself. To learn more about alerts generally, read the alert documentation.
+ 
+
+ 
+
+ 
+Learn About Alerts
+
+ 
+
+ 
+Search Alerts 
+— 
+
+/api/rest/v4/alerts/
+
+ 
+Search Alerts update you when there is new information in our search engine.
+
+ 
+This system scales to support thousands or even millions of alerts, allowing organizations to stay updated about numerous topics. This is a powerful system when used with 
+webhooks
+.
+ 
+
+ 
+Search alerts have three required fields and one optional field:
+
+ 
+
+ 
+
+name
+
+ &mdash; A human-friendly name for the alert.
+
+ 
+
+query
+
+ &mdash; Search parameters you get from the front end, as a string.
+ 
+
+ 
+
+rate
+
+ &mdash; How frequently you want to receive email updates. Webhook events are always sent in real time. This field accepts the following values:
+ 
+
+ 
+
+ 
+
+rt
+ — Real time
+
+ 
+
+dly
+ — Daily
+
+ 
+
+wly
+ — Weekly
+
+ 
+
+mly
+ — Monthly
+
+ 
+
+ 
+
+alert_type
+
+ &mdash; This is a required field for RECAP Search Alerts, but it is ignored for other types. When used with RECAP Search alerts, this field specifies whether you want alerts for each new case matching the query or for both new cases and new filings.
+ For notifications on cases only, use the 
+d
+ type (short for "dockets").
+ For notifications on both cases and filings, use the 
+r
+ type (meaning all of RECAP).
+ 
+
+ 
+
+ 
+To learn more about this API, make an HTTP 
+OPTIONS
+ request:
+
+ 
+curl -X OPTIONS \
+ --header 'Authorization: Token &lt;your-token-here&gt;' \
+ "https://www.courtlistener.com/api/rest/v4/alerts/" 
+
+ 
+Example Usage
+
+ 
+Let's say we want to know about case law involving Apple Inc. On the front end, we search for "Apple Inc" (in quotes) and 
+get query parameters
+ like:
+ 
+
+ 
+q=%22Apple%20Inc%22&type=o
+
+ 
+We can create that as an alert with an HTTP 
+POST
+ request:
+
+ 
+curl -X POST \
+ --data 'name=Apple' \
+ --data 'query=q=%22Apple%20Inc%22&type=o' \
+ --data 'rate=rt' \
+ --header 'Authorization: Token &lt;your-token-here&gt;' \
+ "https://www.courtlistener.com/api/rest/v4/alerts/"
+
+ 
+The response:
+
+ 
+{
+ "resource_uri": "https://www.courtlistener.com/api/rest/v4/alerts/4839/",
+ "id": 4839,
+ "date_created": "2024-05-02T15:29:32.048912-07:00",
+ "date_modified": "2024-05-02T15:29:32.048929-07:00",
+ "date_last_hit": null,
+ "name": "Apple",
+ "query": "q=\"Apple Inc\"",
+ "rate": "rt",
+ "alert_type": "o",
+ "secret_key": "ybSBXwtDcMKI2SxPZDCEx02DSSUF7EEvx1CjOk4f"
+}
+
+ 
+Search Alerts can be modified with HTTP 
+PATCH
+ requests. For example, to change the rate to 
+dly
+:
+ 
+
+ 
+curl -X PATCH \
+ --data 'rate=dly' \
+ --header 'Authorization: Token &lt;your-token-here&gt;' \
+ "https://www.courtlistener.com/api/rest/v4/alerts/4839/"
+
+ 
+Search Alerts can be deleted with HTTP 
+DELETE
+ requests:
+
+ 
+curl -X DELETE \
+ --header 'Authorization: Token &lt;your-token-here&gt;' \
+ "https://www.courtlistener.com/api/rest/v4/alerts/4839/"
+
+ 
+To list your alerts, send an HTTP 
+GET
+ request with no filters:
+
+ 
+curl -X GET \
+ --header 'Authorization: Token &lt;your-token-here&gt;' \
+ "https://www.courtlistener.com/api/rest/v4/alerts/" 
+
+ 
+Docket Alerts 
+— 
+
+/api/rest/v4/docket-alerts/
+
+ 
+Docket Alerts keep you updated about cases by sending notifications by email or webhook whenever there is new information in our system. Use this API to create, modify, list, and delete Docket Alerts.
+ 
+
+ 
+Docket Alerts are always sent as soon as an update is available. See 
+the help page on Docket Alerts
+ to learn more about how we get updates.
+ 
+
+ 
+Docket Alerts have two fields you can set:
+
+ 
+
+ 
+
+docket
+
+ — Required: The docket you want to subscribe to or unsubscribe from.
+
+ 
+
+ 
+
+alert_type
+
+ — Whether to subscribe or unsubscribe from the docket.
+
+ 
+This field is part of 
+@recap.email
+'s auto-subscribe feature. If you are not using @recap.email or have auto-subscribe disabled, you can ignore this field.
+ 
+
+ 
+If you are using @recap.email and have auto-subscribe enabled 
+in your profile
+, Docket Alerts will be automatically created for you as CourtListener receives notifications about cases. To permanently unsubscribe from a case for which you are receiving notifications from PACER, create an "Unsubscription" for the case.
+ 
+
+ 
+
+ 
+
+ 
+To learn more about this API, make an HTTP 
+OPTIONS
+ request:
+
+ 
+curl -X OPTIONS \
+ --header 'Authorization: Token &lt;your-token-here&gt;'
+ "https://www.courtlistener.com/api/rest/v4/docket-alerts/"
+
+ 
+Example Usage
+
+ 
+To create a Docket Alert, send a POST request with the 
+docket
+ ID you wish to subscribe to.
+ 
+
+ 
+This example subscribes to docket number 1:
+
+ 
+curl -X POST \
+ --data 'docket=1' \
+ --header 'Authorization: Token &lt;your-token-here&gt;' \
+ "https://www.courtlistener.com/api/rest/v4/docket-alerts/"
+
+ 
+The response:
+
+ 
+{
+ "id": 133013,
+ "date_created": "2024-05-02T16:35:58.562617-07:00",
+ "date_modified": "2024-05-02T16:35:58.562629-07:00",
+ "date_last_hit": null,
+ "secret_key": "Xv6sg4xkarzyWdzABi84AyjzV3CslJs9Ldippq3s",
+ "alert_type": 1,
+ "docket": 1
+}
+
+ 
+To unsubscribe from a docket, you can either delete the alert with an HTTP 
+DELETE
+ request:
+
+ 
+curl -X DELETE \
+ --header 'Authorization: Token &lt;your-token-here&gt;' \
+ "https://www.courtlistener.com/api/rest/v4/docket-alerts/133013/"
+
+ 
+Or, if you are using @recap.email and have auto-subscribe enabled, you can send an HTTP 
+PATCH
+ request to change it from a subscription (
+alert_type=1
+) to an unsubscription (
+alert_type=0
+):
+ 
+
+ 
+curl -X PATCH \
+ --data 'alert_type=0' \
+ --header 'Authorization: Token &lt;your-token-here&gt;' \
+ "https://www.courtlistener.com/api/rest/v4/docket-alerts/133013/"
+
+ 
+To list your Docket Alerts, send an HTTP 
+GET
+ request with no filters:
+
+ 
+curl -X GET \
+ --header 'Authorization: Token &lt;your-token-here&gt;' \
+ "https://www.courtlistener.com/api/rest/v4/docket-alerts/" 
+
+ 
+Help with Relative Dates Queries
+
+ 
+Use relative dates in your queries to keep your searches and alerts dynamically up to date.
+ 
+
+ 
+
+ 
+Learn More
+
+ 
+
+ 
+
+ 
+Please Support Open Legal&nbsp;Data
+
+ 
+These services are sponsored by 
+Free Law Project
+ and users like you. We provide these services in furtherance of our mission to make the legal sector more innovative and equitable.
+ 
+
+ 
+We have provided these services for over a decade, and we need your contributions to continue curating and enhancing them.
+ 
+
+ 
+Will you support us today by becoming a member?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Join FLP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+Newsletter
+
+ 
+Sign up to receive the Free Law Project newsletter with tips and announcements.
+
+ 
+
+ 
+
+ 
+
+ 
+
+&nbsp;Subscribe
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+About
+
+ 
+
+ 
+
+ 
+Help
+ &amp; 
+FAQ
+
+ 
+
+ 
+
+ 
+Donate
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+About Our Data
+
+ 
+
+ 
+
+ 
+APIs &amp; Bulk Data
+
+ 
+
+ 
+
+ 
+Feeds
+ 
+&amp;
+
+ 
+Podcasts
+&nbsp;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Blog Posts
+
+ 
+
+ 
+
+ 
+Contact
+
+ 
+
+ 
+
+ 
+Data Services
+
+ 
+
+ 
+
+ 
+Contribute
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Terms &amp; Privacy
+
+ 
+
+ 
+
+ 
+Removal
+
+ 
+
+ 
+
+ 
+Vulnerability Policies
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+CourtListener is sponsored by the non-profit 
+Free Law Project
+.
