@@ -1,0 +1,46 @@
+name: "14: Test Filter Approach"
+
+on:
+  push:
+    branches:
+      - claude/review-previous-chats-iDzNp
+    paths:
+      - 'scripts/test_filter_approach.py'
+      - '.github/workflows/14_test_filter.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run test
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/test_filter_approach.py 2>&1 | tee research/test_filter_log.txt
+
+      - name: Commit results
+        if: always()
+        run: |
+          git add research/
+          git diff --cached --quiet && echo "Nothing new" && exit 0
+          git commit -m "Test filter results: opinions + RECAP check"
+          git push
