@@ -1,0 +1,51 @@
+name: "12: Scrape CourtListener Site"
+
+on:
+  push:
+    branches:
+      - claude/review-previous-chats-iDzNp
+    paths:
+      - 'scripts/scrape_courtlistener_site.py'
+      - '.github/workflows/12_scrape_site.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Scrape site
+        run: python3 scripts/scrape_courtlistener_site.py
+
+      - name: Commit results
+        if: always()
+        run: |
+          git add research/
+          git diff --cached --quiet && echo "Nothing new" && exit 0
+          git commit -m "Scrape CourtListener site pages"
+          git push
+
+      - name: Upload artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-scrape-${{ github.run_id }}
+          path: research/site_pages/
+          retention-days: 90
