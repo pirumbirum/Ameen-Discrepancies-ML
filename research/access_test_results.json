@@ -1,0 +1,80 @@
+{
+  "dockets": {
+    "status": "OK",
+    "count": "https://www.courtlistener.com/api/rest/v4/dockets/?count=on&format=json&page_size=1"
+  },
+  "docket-entries": {
+    "status": "DENIED"
+  },
+  "recap-documents": {
+    "status": "DENIED"
+  },
+  "recap-query": {
+    "status": "DENIED"
+  },
+  "clusters": {
+    "status": "OK",
+    "count": "https://www.courtlistener.com/api/rest/v4/clusters/?count=on&format=json&page_size=1"
+  },
+  "opinions": {
+    "status": "OK",
+    "count": "https://www.courtlistener.com/api/rest/v4/opinions/?count=on&format=json&page_size=1"
+  },
+  "courts": {
+    "status": "OK",
+    "count": 3355
+  },
+  "parties": {
+    "status": "DENIED"
+  },
+  "attorneys": {
+    "status": "DENIED"
+  },
+  "people": {
+    "status": "OK",
+    "count": "https://www.courtlistener.com/api/rest/v4/people/?count=on&page_size=1"
+  },
+  "search (type=d)": {
+    "status": "OK",
+    "count": 2073723
+  },
+  "search (type=r)": {
+    "status": "OK",
+    "count": 2073723
+  },
+  "search (type=rd)": {
+    "status": "OK",
+    "count": 3400871
+  },
+  "search (type=o)": {
+    "status": "OK",
+    "count": 1091931
+  },
+  "audio": {
+    "status": "OK",
+    "count": "https://www.courtlistener.com/api/rest/v4/audio/?count=on&page_size=1"
+  },
+  "fjc-integrated-database": {
+    "status": "OK",
+    "count": "https://www.courtlistener.com/api/rest/v4/fjc-integrated-database/?count=on&format=json&page_size=1"
+  },
+  "recap-fetch (GET)": {
+    "status": "OK",
+    "count": "https://www.courtlistener.com/api/rest/v4/recap-fetch/?count=on&page_size=1"
+  },
+  "recap (upload, GET)": {
+    "status": "DENIED"
+  },
+  "prayers": {
+    "status": "OK",
+    "count": "https://www.courtlistener.com/api/rest/v4/prayers/?count=on"
+  },
+  "financial-disclosures": {
+    "status": "OK",
+    "count": "https://www.courtlistener.com/api/rest/v4/financial-disclosures/?count=on&page_size=1"
+  },
+  "tags": {
+    "status": "OK",
+    "count": "https://www.courtlistener.com/api/rest/v4/tags/?count=on&page_size=1"
+  }
+}

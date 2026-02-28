@@ -1,0 +1,75 @@
+============================================================
+ENDPOINT ACCESS TEST
+============================================================
+  OK    dockets
+  403   docket-entries
+  403   recap-documents
+  403   recap-query
+  OK    clusters
+  OK    opinions
+  OK    courts
+  403   parties
+  403   attorneys
+  OK    people
+  OK    search (type=d)
+  OK    search (type=r)
+  OK    search (type=rd)
+  OK    search (type=o)
+  OK    audio
+  OK    fjc-integrated-database
+  OK    recap-fetch (GET)
+  403   recap (upload, GET)
+  OK    prayers
+  OK    financial-disclosures
+  OK    tags
+
+============================================================
+RECAP DOCUMENT FILE ACCESS TEST
+============================================================
+
+1. Finding an available RECAP document...
+  403   recap-documents (available)
+   Could not find an available RECAP document
+
+============================================================
+RECAP DOCUMENT TEXT ACCESS TEST
+============================================================
+
+4. Getting plain_text from a RECAP document...
+  403   recap-doc with text
+
+============================================================
+DOCKET ENTRY + NESTED DOCS TEST
+============================================================
+
+5. Getting docket entries with nested RECAP docs...
+  OK    search for busy docket
+   Using docket_id: 20623631
+  403   docket-entries for docket
+
+============================================================
+SUMMARY
+============================================================
+  attorneys                          : {'status': 'DENIED'}
+  audio                              : {'status': 'OK', 'count': 'https://www.courtlistener.com/api/rest/v4/audio/?count=on&page_size=1'}
+  clusters                           : {'status': 'OK', 'count': 'https://www.courtlistener.com/api/rest/v4/clusters/?count=on&format=json&page_size=1'}
+  courts                             : {'status': 'OK', 'count': 3355}
+  docket-entries                     : {'status': 'DENIED'}
+  dockets                            : {'status': 'OK', 'count': 'https://www.courtlistener.com/api/rest/v4/dockets/?count=on&format=json&page_size=1'}
+  financial-disclosures              : {'status': 'OK', 'count': 'https://www.courtlistener.com/api/rest/v4/financial-disclosures/?count=on&page_size=1'}
+  fjc-integrated-database            : {'status': 'OK', 'count': 'https://www.courtlistener.com/api/rest/v4/fjc-integrated-database/?count=on&format=json&page_size=1'}
+  opinions                           : {'status': 'OK', 'count': 'https://www.courtlistener.com/api/rest/v4/opinions/?count=on&format=json&page_size=1'}
+  parties                            : {'status': 'DENIED'}
+  people                             : {'status': 'OK', 'count': 'https://www.courtlistener.com/api/rest/v4/people/?count=on&page_size=1'}
+  prayers                            : {'status': 'OK', 'count': 'https://www.courtlistener.com/api/rest/v4/prayers/?count=on'}
+  recap (upload, GET)                : {'status': 'DENIED'}
+  recap-documents                    : {'status': 'DENIED'}
+  recap-fetch (GET)                  : {'status': 'OK', 'count': 'https://www.courtlistener.com/api/rest/v4/recap-fetch/?count=on&page_size=1'}
+  recap-query                        : {'status': 'DENIED'}
+  search (type=d)                    : {'status': 'OK', 'count': 2073723}
+  search (type=o)                    : {'status': 'OK', 'count': 1091931}
+  search (type=r)                    : {'status': 'OK', 'count': 2073723}
+  search (type=rd)                   : {'status': 'OK', 'count': 3400871}
+  tags                               : {'status': 'OK', 'count': 'https://www.courtlistener.com/api/rest/v4/tags/?count=on&page_size=1'}
+
+Saved to research/access_test_results.json
