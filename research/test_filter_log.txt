@@ -1,0 +1,164 @@
+
+============================================================
+  SECURITIES — testing 20 / 15234 cases
+============================================================
+
+  [ 1/20]   68215328 RECAP    opinions=0 recap_docs=2 — Taylor v. RayzeBio, Inc.
+  [ 2/20]   16629347 NEITHER  opinions=0 recap_docs=0 — MOONEY v. INNOPHOS HOLDINGS, INC.
+  [ 3/20]    4528112 RECAP    opinions=0 recap_docs=1 — JEWELTEX MANUFACTURING INC. RETIREMENT PLAN v. QLI
+  [ 4/20]    4528118 NEITHER  opinions=0 recap_docs=0 — WALKER v. QLIK TECHNOLOGIES, INC.
+  [ 5/20]   69168985 RECAP    opinions=0 recap_docs=20 — IN RE NEW FORTRESS ENERGY INC. SECURITIES LITIGATI
+  [ 6/20]    6355065 RECAP    opinions=0 recap_docs=2 — Williams v. CSRA, Inc.
+  [ 7/20]   71033169 RECAP    opinions=0 recap_docs=1 — Collier v. Altimmune, Inc.
+  [ 8/20]   13450564 NEITHER  opinions=0 recap_docs=0 — Maresh v. Chicago Bridge & Iron Company N.V.
+  [ 9/20]   13334598 NEITHER  opinions=0 recap_docs=0 — Abt v. AGL Resources, Inc.
+  [10/20]    8471040 RECAP    opinions=0 recap_docs=5 — Craig Cohen v. YogaWorks, Inc.
+  [11/20]    7027662 RECAP    opinions=0 recap_docs=1 — Maresh v. Chicago Bridge & Iron Company N.V. Do no
+  [12/20]    6601791 RECAP    opinions=0 recap_docs=3 — Schneider v. Fairmont Santrol Holdings Inc.
+  [13/20]   60033945 RECAP    opinions=0 recap_docs=3 — Securities and Exchange Commission v. Wygovsky
+  [14/20]    4355793 RECAP    opinions=0 recap_docs=77 — Zagami v. Cellceutix Corporation
+  [15/20]   71872791 NEITHER  opinions=0 recap_docs=0 — Silverberg v. Steinberg
+  [16/20]   17145847 RECAP    opinions=0 recap_docs=2 — Lutz v. Higgins
+  [17/20]   60184796 RECAP    opinions=0 recap_docs=1 — United States Securities and Exchange Commission v
+  [18/20]   59673765 BOTH     opinions=1 recap_docs=4 — United States v. Mawad
+  [19/20]   68013869 RECAP    opinions=0 recap_docs=10 — KH Capital, LLC v. Cardinale
+  [20/20]   63549632 RECAP    opinions=0 recap_docs=4 — Securities Exchange Commission v. Moynes
+
+  securities summary: 1/20 opinions, 15/20 recap, 1/20 BOTH
+
+============================================================
+  ANTITRUST — testing 20 / 5799 cases
+============================================================
+
+  [ 1/20]    7498214 NEITHER  opinions=0 recap_docs=0 — Wire Harness - OEM Actions
+  [ 2/20]   18218092 NEITHER  opinions=0 recap_docs=0 — United States v. Uriel
+  [ 3/20]   13324242 NEITHER  opinions=0 recap_docs=0 — Feeney v. Cox Communications, Inc.
+  [ 4/20]   13419350 NEITHER  opinions=0 recap_docs=0 — Bagwell v. Cox Commnications, Inc
+  [ 5/20]   71996879 RECAP    opinions=0 recap_docs=1 — Moir Watershed Services, LLC v. City of Dallas
+  [ 6/20]   13429468 NEITHER  opinions=0 recap_docs=0 — United Subcontractors, Inc. v. Rust Consulting, In
+  [ 7/20]    7974575 NEITHER  opinions=0 recap_docs=0 — Gray v. Alcon Laboratories, Inc.
+  [ 8/20]   13338898 RECAP    opinions=0 recap_docs=1 — Demos v. Norfolk Southern Railway Co.
+  [ 9/20]    8366323 NEITHER  opinions=0 recap_docs=0 — Greer v. Papa John's International, Inc.
+  [10/20]   16944444 NEITHER  opinions=0 recap_docs=0 — MSP Recovery Claims Series LLC v. Amgen, Inc.
+  [11/20]   59920893 RECAP    opinions=0 recap_docs=4 — Park 80 Hotels LLC v. Holiday Hospitality Franchis
+  [12/20]    6626712 RECAP    opinions=0 recap_docs=1 — City of Philadelphia v. Bank of America Corporatio
+  [13/20]    7387650 NEITHER  opinions=0 recap_docs=0 — Elich v. CBOE Exchange, Inc.
+  [14/20]   13441699 NEITHER  opinions=0 recap_docs=0 — Philadelphia Federation of Teachers Health and Wel
+  [15/20]    4324332 RECAP    opinions=0 recap_docs=4 — Trailer Craft Inc v. Espar Inc.
+  [16/20]   13431013 NEITHER  opinions=0 recap_docs=0 — STEVEN M. TRAUT WELLS, INC. v. AMERICAN AIRLINES G
+  [17/20]    4355876 RECAP    opinions=0 recap_docs=1 — The New Jersey Laborers Statewide Funds v. Bank of
+  [18/20]   70037900 NEITHER  opinions=0 recap_docs=0 — IPCS Corp v. RB Global, Inc.
+  [19/20]   16850243 NEITHER  opinions=0 recap_docs=0 — KAWASAKI KISEN KAISHA, LTD. v. BNSF RAILWAY COMPAN
+  [20/20]   69152954 RECAP    opinions=0 recap_docs=1 — TC Construction, Inc. v. Atkore Inc.
+
+  antitrust summary: 0/20 opinions, 7/20 recap, 0/20 BOTH
+
+============================================================
+  TRADE_SECRET — testing 20 / 2395 cases
+============================================================
+
+  [ 1/20]   69308145 BOTH     opinions=1 recap_docs=102 — Tecspec LLC v. Donnolo
+  [ 2/20]   69603697 NEITHER  opinions=0 recap_docs=0 — Edwards Lifesciences LLC v. Thompson
+  [ 3/20]   69265660 RECAP    opinions=0 recap_docs=158 — M Corp d/b/a 11:59 v. Infinitive, Inc.
+  [ 4/20]   71997039 RECAP    opinions=0 recap_docs=1 — CHRIS PAGNANI MD PC v. SCARY
+  [ 5/20]   71973710 NEITHER  opinions=0 recap_docs=0 — Ankura Consulting Group, LLC v. Ferrara
+  [ 6/20]   61022115 RECAP    opinions=0 recap_docs=2 — Tanium Inc. v. Yago
+  [ 7/20]   67903286 RECAP    opinions=0 recap_docs=25 — Same Day Processing, Inc. v. Franck, Gabriel
+  [ 8/20]   67545259 BOTH     opinions=2 recap_docs=31 — NORTH AMERICAN DENTAL MANAGEMENT, LLC v. PHILLIPS
+  [ 9/20]   61027117 RECAP    opinions=0 recap_docs=5 — Werner Enterprises, Inc. v. Wire
+  [10/20]   65403679 RECAP    opinions=0 recap_docs=96 — Frost Solutions, LLC v. Baglien
+  [11/20]   18500426 RECAP    opinions=0 recap_docs=1 — List Services Corporation v. David Clemen
+  [12/20]   71099112 BOTH     opinions=4 recap_docs=15 — Kettering Adventist Healthcare v. Collier
+  [13/20]   59986214 BOTH     opinions=1 recap_docs=1 — Red Rock Healthcare v. Rowland
+  [14/20]   59838182 BOTH     opinions=4 recap_docs=17 — Fareportal, Inc. v. HNA Group (International) Co.,
+  [15/20]   63589690 BOTH     opinions=18 recap_docs=130 — loanDepot.com, LLC v. CrossCountry Mortgage, LLC
+  [16/20]   64879340 RECAP    opinions=0 recap_docs=1 — Morrell, LLC v. Bollin
+  [17/20]   69835992 NEITHER  opinions=0 recap_docs=0 — Valiant Management Partners, LLC v. Andrade
+  [18/20]   65396714 BOTH     opinions=2 recap_docs=2 — Schnitzer Steel Industries, Inc. v. Dingman
+  [19/20]   59962528 BOTH     opinions=3 recap_docs=9 — Just Funky, LLC v. Boom Trendz, LLC
+  [20/20]   67223866 NEITHER  opinions=0 recap_docs=0 — Switchboard Apparatus Inc v. O'Doherty
+
+  trade_secret summary: 8/20 opinions, 16/20 recap, 8/20 BOTH
+
+============================================================
+  OVERALL RESULTS
+============================================================
+  Total tested: 60
+  Has opinions: 9 (15%)
+  Has RECAP:    38 (63%)
+  Has BOTH:     9 (15%)
+  API calls:    120
+
+  Estimated for 275K cases:
+    Calls per case: 2.0
+    Total calls:    550,188
+    At 5000/hr:     110.0 hours
+    Both rate:      ~15% => ~41,264 cases with BOTH
+
+============================================================
+  SAMPLE CASES WITH BOTH
+============================================================
+
+  [securities] Docket 59673765: United States v. Mawad
+    Court: wawd, Filed: 2021-02-22
+    Opinion clusters: 1
+    RECAP docs: 4
+      Doc 161432407: Complaint (pages=9)
+      Doc 195943248: ~Util - Set/Reset Motion Noting Date AND 2 - Minute Order (pages=2)
+
+  [trade_secret] Docket 69308145: Tecspec LLC v. Donnolo
+    Court: nysd, Filed: 2024-10-24
+    Opinion clusters: 1
+    RECAP docs: 102
+      Doc 457540318: Notice of Appearance (pages=1)
+      Doc 446837983: Order on Motion for Discovery (pages=2)
+
+  [trade_secret] Docket 67545259: NORTH AMERICAN DENTAL MANAGEMENT, LLC v. PHILLIPS
+    Court: pawd, Filed: 2023-06-30
+    Opinion clusters: 2
+    RECAP docs: 31
+      Doc 461032562:  (pages=22)
+      Doc 380500718: Dismiss for Failure to State a Claim (pages=2)
+
+  [trade_secret] Docket 71099112: Kettering Adventist Healthcare v. Collier
+    Court: ohsd, Filed: 2025-08-13
+    Opinion clusters: 4
+    RECAP docs: 15
+      Doc 448937113: Complaint (pages=57)
+      Doc 449058291: Exhibit (pages=10)
+
+  [trade_secret] Docket 59986214: Red Rock Healthcare v. Rowland
+    Court: utd, Filed: 2021-06-11
+    Opinion clusters: 1
+    RECAP docs: 1
+      Doc 210889015: Order Dismissing Case AND Memorandum Decision (pages=3)
+
+  [trade_secret] Docket 59838182: Fareportal, Inc. v. HNA Group (International) Co., LTD.
+    Court: cand, Filed: 2021-04-16
+    Opinion clusters: 4
+    RECAP docs: 17
+      Doc 400032046: 1 - Terminate Deadlines and Hearings AND Order AND Set Motio (pages=2)
+      Doc 202839123: Notice of Change of Address (pages=3)
+
+  [trade_secret] Docket 63589690: loanDepot.com, LLC v. CrossCountry Mortgage, LLC
+    Court: nysd, Filed: 2022-07-13
+    Opinion clusters: 18
+    RECAP docs: 130
+      Doc 424758157: Conference (pages=3)
+      Doc 408451502: Order on Motion to Seal (pages=1)
+
+  [trade_secret] Docket 65396714: Schnitzer Steel Industries, Inc. v. Dingman
+    Court: rid, Filed: 2022-10-03
+    Opinion clusters: 2
+    RECAP docs: 2
+      Doc 222795748: Order on Motion to Dismiss (pages=11)
+      Doc 217142439: Order on Motion for Discovery AND Order on Motion for TRO AN (pages=16)
+
+  [trade_secret] Docket 59962528: Just Funky, LLC v. Boom Trendz, LLC
+    Court: ohnd, Filed: 2021-06-04
+    Opinion clusters: 3
+    RECAP docs: 9
+      Doc 416230734: Memorandum Opinion and Order (pages=12)
+      Doc 181935022: Seal (pages=3)
+
+Saved to research/test_filter_results.json

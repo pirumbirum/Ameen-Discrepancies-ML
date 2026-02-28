@@ -1,0 +1,1559 @@
+{
+  "totals": {
+    "tested": 60,
+    "has_opinions": 9,
+    "has_recap": 38,
+    "has_both": 9
+  },
+  "results": {
+    "securities": [
+      {
+        "docket_id": "68215328",
+        "case_name": "Taylor v. RayzeBio, Inc.",
+        "court_id": "ded",
+        "date_filed": "2024-02-01",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 2,
+        "recap_doc_samples": [
+          {
+            "id": 384901356,
+            "short_description": "Complaint",
+            "document_number": 1,
+            "page_count": 14,
+            "is_available": true
+          },
+          {
+            "id": 388861073,
+            "short_description": "Notice of Voluntary Dismissal",
+            "document_number": 4,
+            "page_count": 1,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "16629347",
+        "case_name": "MOONEY v. INNOPHOS HOLDINGS, INC.",
+        "court_id": "njd",
+        "date_filed": "2019-12-26",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "4528112",
+        "case_name": "JEWELTEX MANUFACTURING INC. RETIREMENT PLAN v. QLIK TECHNOLOGIES, INC.",
+        "court_id": "paed",
+        "date_filed": "2016-07-13",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 1,
+        "recap_doc_samples": [
+          {
+            "id": 22040697,
+            "short_description": "",
+            "document_number": 7,
+            "page_count": 3,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "4528118",
+        "case_name": "WALKER v. QLIK TECHNOLOGIES, INC.",
+        "court_id": "paed",
+        "date_filed": "2016-07-18",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "69168985",
+        "case_name": "IN RE NEW FORTRESS ENERGY INC. SECURITIES LITIGATION",
+        "court_id": "nysd",
+        "date_filed": "2024-09-17",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 20,
+        "recap_doc_samples": [
+          {
+            "id": 412353045,
+            "short_description": "Complaint",
+            "document_number": 1,
+            "page_count": 25,
+            "is_available": true
+          },
+          {
+            "id": 440051365,
+            "short_description": "Memorandum of Law in Opposition to Motion",
+            "document_number": 42,
+            "page_count": 29,
+            "is_available": true
+          },
+          {
+            "id": 412529998,
+            "short_description": "Exhibit PSLRA Certification",
+            "document_number": 1,
+            "page_count": 2,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "6355065",
+        "case_name": "Williams v. CSRA, Inc.",
+        "court_id": "nvd",
+        "date_filed": "2018-03-06",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 2,
+        "recap_doc_samples": [
+          {
+            "id": 26493297,
+            "short_description": "",
+            "document_number": 1,
+            "page_count": 19,
+            "is_available": true
+          },
+          {
+            "id": 25708010,
+            "short_description": "",
+            "document_number": 10,
+            "page_count": 4,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "71033169",
+        "case_name": "Collier v. Altimmune, Inc.",
+        "court_id": "mdd",
+        "date_filed": "2025-08-05",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 1,
+        "recap_doc_samples": [
+          {
+            "id": 448365310,
+            "short_description": "",
+            "document_number": 1,
+            "page_count": 25,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "13450564",
+        "case_name": "Maresh v. Chicago Bridge & Iron Company N.V.",
+        "court_id": "ded",
+        "date_filed": "2018-02-09",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "13334598",
+        "case_name": "Abt v. AGL Resources, Inc.",
+        "court_id": "gand",
+        "date_filed": "2015-10-09",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "8471040",
+        "case_name": "Craig Cohen v. YogaWorks, Inc.",
+        "court_id": "cacd",
+        "date_filed": "2018-12-27",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 5,
+        "recap_doc_samples": [
+          {
+            "id": 132235779,
+            "short_description": "",
+            "document_number": 71,
+            "page_count": 2,
+            "is_available": true
+          },
+          {
+            "id": 132316949,
+            "short_description": "Judgment",
+            "document_number": 72,
+            "page_count": 2,
+            "is_available": true
+          },
+          {
+            "id": 88276506,
+            "short_description": "Consolidated Complaint",
+            "document_number": 39,
+            "page_count": 52,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "7027662",
+        "case_name": "Maresh v. Chicago Bridge & Iron Company N.V. Do not docket in this case. Case is consolidated under 4:18-cv-273.",
+        "court_id": "txsd",
+        "date_filed": "2018-02-16",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 1,
+        "recap_doc_samples": [
+          {
+            "id": 29902069,
+            "short_description": "",
+            "document_number": 1,
+            "page_count": 27,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "6601791",
+        "case_name": "Schneider v. Fairmont Santrol Holdings Inc.",
+        "court_id": "ohnd",
+        "date_filed": "2018-05-10",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 3,
+        "recap_doc_samples": [
+          {
+            "id": 27528956,
+            "short_description": "Complaint",
+            "document_number": 1,
+            "page_count": 18,
+            "is_available": true
+          },
+          {
+            "id": 46559709,
+            "short_description": "Order on Motion for order",
+            "document_number": 12,
+            "page_count": 9,
+            "is_available": true
+          },
+          {
+            "id": 68752410,
+            "short_description": "Order Dismissing Case",
+            "document_number": 13,
+            "page_count": 2,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "60033945",
+        "case_name": "Securities and Exchange Commission v. Wygovsky",
+        "court_id": "nysd",
+        "date_filed": "2021-07-02",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 3,
+        "recap_doc_samples": [
+          {
+            "id": 174215580,
+            "short_description": "Complaint",
+            "document_number": 1,
+            "page_count": 13,
+            "is_available": true
+          },
+          {
+            "id": 191613493,
+            "short_description": "Letter",
+            "document_number": 13,
+            "page_count": 2,
+            "is_available": true
+          },
+          {
+            "id": 191676314,
+            "short_description": "~Util - Add and Terminate Parties AND Judgment",
+            "document_number": 14,
+            "page_count": 10,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "4355793",
+        "case_name": "Zagami v. Cellceutix Corporation",
+        "court_id": "nysd",
+        "date_filed": "2015-09-11",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 77,
+        "recap_doc_samples": [
+          {
+            "id": 11320154,
+            "short_description": "",
+            "document_number": 66,
+            "page_count": 1,
+            "is_available": true
+          },
+          {
+            "id": 11320175,
+            "short_description": "",
+            "document_number": 67,
+            "page_count": 22,
+            "is_available": true
+          },
+          {
+            "id": 11320182,
+            "short_description": "",
+            "document_number": 68,
+            "page_count": 2,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "71872791",
+        "case_name": "Silverberg v. Steinberg",
+        "court_id": "nysd",
+        "date_filed": "2025-11-04",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "17145847",
+        "case_name": "Lutz v. Higgins",
+        "court_id": "ded",
+        "date_filed": "2018-12-21",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 2,
+        "recap_doc_samples": [
+          {
+            "id": 139926508,
+            "short_description": "",
+            "document_number": 7,
+            "page_count": 55,
+            "is_available": true
+          },
+          {
+            "id": 176613073,
+            "short_description": "Status Report",
+            "document_number": 9,
+            "page_count": 2,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "60184796",
+        "case_name": "United States Securities and Exchange Commission v. Drennan",
+        "court_id": "casd",
+        "date_filed": "2021-08-16",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 1,
+        "recap_doc_samples": [
+          {
+            "id": 177830005,
+            "short_description": "Complaint",
+            "document_number": 1,
+            "page_count": 10,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "59673765",
+        "case_name": "United States v. Mawad",
+        "court_id": "wawd",
+        "date_filed": "2021-02-22",
+        "opinion_clusters": 1,
+        "opinion_samples": [
+          {
+            "id": 10240233,
+            "date_filed": "2022-08-22",
+            "precedential_status": "Unknown"
+          }
+        ],
+        "recap_docket_count": 1,
+        "recap_doc_count": 4,
+        "recap_doc_samples": [
+          {
+            "id": 161432407,
+            "short_description": "Complaint",
+            "document_number": 1,
+            "page_count": 9,
+            "is_available": true
+          },
+          {
+            "id": 195943248,
+            "short_description": "~Util - Set/Reset Motion Noting Date AND 2 - Minute Order",
+            "document_number": 18,
+            "page_count": 2,
+            "is_available": true
+          },
+          {
+            "id": 210078912,
+            "short_description": "2 - Minute Order",
+            "document_number": 22,
+            "page_count": 2,
+            "is_available": true
+          }
+        ],
+        "has_opinions": true,
+        "has_recap": true,
+        "has_both": true
+      },
+      {
+        "docket_id": "68013869",
+        "case_name": "KH Capital, LLC v. Cardinale",
+        "court_id": "nysd",
+        "date_filed": "2023-11-16",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 10,
+        "recap_doc_samples": [
+          {
+            "id": 425873385,
+            "short_description": "Order AND ~Util - Set Hearings",
+            "document_number": 48,
+            "page_count": 1,
+            "is_available": true
+          },
+          {
+            "id": 425898080,
+            "short_description": "Order AND ~Util - Set Hearings",
+            "document_number": 50,
+            "page_count": 1,
+            "is_available": true
+          },
+          {
+            "id": 378373489,
+            "short_description": "Request for Issuance of Summons",
+            "document_number": 5,
+            "page_count": 2,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "63549632",
+        "case_name": "Securities Exchange Commission v. Moynes",
+        "court_id": "mad",
+        "date_filed": "2022-06-27",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 4,
+        "recap_doc_samples": [
+          {
+            "id": 237481432,
+            "short_description": "Judgment",
+            "document_number": 26,
+            "page_count": 8,
+            "is_available": true
+          },
+          {
+            "id": 237481425,
+            "short_description": "Judgment",
+            "document_number": 27,
+            "page_count": 4,
+            "is_available": true
+          },
+          {
+            "id": 237481438,
+            "short_description": "Judgment",
+            "document_number": 25,
+            "page_count": 9,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      }
+    ],
+    "antitrust": [
+      {
+        "docket_id": "7498214",
+        "case_name": "Wire Harness - OEM Actions",
+        "court_id": "mied",
+        "date_filed": "2018-07-16",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "18218092",
+        "case_name": "United States v. Uriel",
+        "court_id": "casd",
+        "date_filed": "2015-09-14",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "13324242",
+        "case_name": "Feeney v. Cox Communications, Inc.",
+        "court_id": "okwd",
+        "date_filed": "2016-04-28",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "13419350",
+        "case_name": "Bagwell v. Cox Commnications, Inc",
+        "court_id": "okwd",
+        "date_filed": "2016-11-14",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "71996879",
+        "case_name": "Moir Watershed Services, LLC v. City of Dallas",
+        "court_id": "txnd",
+        "date_filed": "2025-12-04",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 1,
+        "recap_doc_samples": [
+          {
+            "id": 460940869,
+            "short_description": "Complaint",
+            "document_number": 1,
+            "page_count": 5,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "13429468",
+        "case_name": "United Subcontractors, Inc. v. Rust Consulting, Inc.",
+        "court_id": "gand",
+        "date_filed": "2016-12-23",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "7974575",
+        "case_name": "Gray v. Alcon Laboratories, Inc.",
+        "court_id": "ksd",
+        "date_filed": "2015-03-05",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "13338898",
+        "case_name": "Demos v. Norfolk Southern Railway Co.",
+        "court_id": "mad",
+        "date_filed": "2016-11-10",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 1,
+        "recap_doc_samples": [
+          {
+            "id": 211056048,
+            "short_description": "",
+            "document_number": 1,
+            "page_count": 6,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "8366323",
+        "case_name": "Greer v. Papa John's International, Inc.",
+        "court_id": "nysd",
+        "date_filed": "2018-12-04",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "16944444",
+        "case_name": "MSP Recovery Claims Series LLC v. Amgen, Inc.",
+        "court_id": "ded",
+        "date_filed": "2020-03-09",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "59920893",
+        "case_name": "Park 80 Hotels LLC v. Holiday Hospitality Franchising, LLC",
+        "court_id": "laed",
+        "date_filed": "2021-05-19",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 4,
+        "recap_doc_samples": [
+          {
+            "id": 170159790,
+            "short_description": "Complaint",
+            "document_number": 1,
+            "page_count": 46,
+            "is_available": true
+          },
+          {
+            "id": 185240565,
+            "short_description": "Case Transferred Out to Another District",
+            "document_number": 46,
+            "page_count": 13,
+            "is_available": true
+          },
+          {
+            "id": 185282074,
+            "short_description": "Receipt",
+            "document_number": 47,
+            "page_count": 1,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "6626712",
+        "case_name": "City of Philadelphia v. Bank of America Corporation",
+        "court_id": "nysd",
+        "date_filed": "2015-10-30",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 1,
+        "recap_doc_samples": [
+          {
+            "id": 456658107,
+            "short_description": "Letter",
+            "document_number": 132,
+            "page_count": 1,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "7387650",
+        "case_name": "Elich v. CBOE Exchange, Inc.",
+        "court_id": "ilnd",
+        "date_filed": "2018-06-26",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "13441699",
+        "case_name": "Philadelphia Federation of Teachers Health and Welfare Fund v. Merck & Co., Inc.",
+        "court_id": "nyed",
+        "date_filed": "2018-02-24",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "4324332",
+        "case_name": "Trailer Craft Inc v. Espar Inc.",
+        "court_id": "nyed",
+        "date_filed": "2015-04-28",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 4,
+        "recap_doc_samples": [
+          {
+            "id": 26379422,
+            "short_description": "",
+            "document_number": 33,
+            "page_count": 1,
+            "is_available": true
+          },
+          {
+            "id": 6760368,
+            "short_description": "",
+            "document_number": 1,
+            "page_count": 22,
+            "is_available": true
+          },
+          {
+            "id": 6760386,
+            "short_description": "",
+            "document_number": 13,
+            "page_count": 1,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "13431013",
+        "case_name": "STEVEN M. TRAUT WELLS, INC. v. AMERICAN AIRLINES GROUP, INC.",
+        "court_id": "dcd",
+        "date_filed": "2015-11-02",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "4355876",
+        "case_name": "The New Jersey Laborers Statewide Funds v. Bank of Nova Scotia, New York Agency",
+        "court_id": "nysd",
+        "date_filed": "2015-09-28",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 1,
+        "recap_doc_samples": [
+          {
+            "id": 7413177,
+            "short_description": "",
+            "document_number": 77,
+            "page_count": 30,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "70037900",
+        "case_name": "IPCS Corp v. RB Global, Inc.",
+        "court_id": "ilnd",
+        "date_filed": "2025-05-01",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "16850243",
+        "case_name": "KAWASAKI KISEN KAISHA, LTD. v. BNSF RAILWAY COMPANY",
+        "court_id": "dcd",
+        "date_filed": "2020-02-14",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "69152954",
+        "case_name": "TC Construction, Inc. v. Atkore Inc.",
+        "court_id": "ilnd",
+        "date_filed": "2024-09-11",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 1,
+        "recap_doc_samples": [
+          {
+            "id": 411612716,
+            "short_description": "Complaint",
+            "document_number": 1,
+            "page_count": 71,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      }
+    ],
+    "trade_secret": [
+      {
+        "docket_id": "69308145",
+        "case_name": "Tecspec LLC v. Donnolo",
+        "court_id": "nysd",
+        "date_filed": "2024-10-24",
+        "opinion_clusters": 1,
+        "opinion_samples": [
+          {
+            "id": 10600697,
+            "date_filed": "2025-06-06",
+            "precedential_status": "Unknown"
+          }
+        ],
+        "recap_docket_count": 1,
+        "recap_doc_count": 102,
+        "recap_doc_samples": [
+          {
+            "id": 457540318,
+            "short_description": "Notice of Appearance",
+            "document_number": 190,
+            "page_count": 1,
+            "is_available": true
+          },
+          {
+            "id": 446837983,
+            "short_description": "Order on Motion for Discovery",
+            "document_number": 167,
+            "page_count": 2,
+            "is_available": true
+          },
+          {
+            "id": 457711154,
+            "short_description": "Motion for Discovery",
+            "document_number": 191,
+            "page_count": 2,
+            "is_available": true
+          }
+        ],
+        "has_opinions": true,
+        "has_recap": true,
+        "has_both": true
+      },
+      {
+        "docket_id": "69603697",
+        "case_name": "Edwards Lifesciences LLC v. Thompson",
+        "court_id": "cod",
+        "date_filed": "2024-09-17",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "69265660",
+        "case_name": "M Corp d/b/a 11:59 v. Infinitive, Inc.",
+        "court_id": "vaed",
+        "date_filed": "2024-10-15",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 158,
+        "recap_doc_samples": [
+          {
+            "id": 445932684,
+            "short_description": "Reply to Response to Motion",
+            "document_number": 114,
+            "page_count": 16,
+            "is_available": true
+          },
+          {
+            "id": 443305743,
+            "short_description": "Motion Hearing",
+            "document_number": 104,
+            "page_count": 1,
+            "is_available": true
+          },
+          {
+            "id": 443446348,
+            "short_description": "Order on Motion to Compel",
+            "document_number": 105,
+            "page_count": 2,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "71997039",
+        "case_name": "CHRIS PAGNANI MD PC v. SCARY",
+        "court_id": "paed",
+        "date_filed": "2025-12-04",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 1,
+        "recap_doc_samples": [
+          {
+            "id": 460941163,
+            "short_description": "Complaint (Attorney)",
+            "document_number": 1,
+            "page_count": 15,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "71973710",
+        "case_name": "Ankura Consulting Group, LLC v. Ferrara",
+        "court_id": "ilnd",
+        "date_filed": "2025-11-28",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "61022115",
+        "case_name": "Tanium Inc. v. Yago",
+        "court_id": "gand",
+        "date_filed": "2021-05-05",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 2,
+        "recap_doc_samples": [
+          {
+            "id": 189684046,
+            "short_description": "",
+            "document_number": 78,
+            "page_count": 36,
+            "is_available": true
+          },
+          {
+            "id": 190966559,
+            "short_description": "",
+            "document_number": 79,
+            "page_count": 4,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "67903286",
+        "case_name": "Same Day Processing, Inc. v. Franck, Gabriel",
+        "court_id": "wiwd",
+        "date_filed": "2023-10-20",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 25,
+        "recap_doc_samples": [
+          {
+            "id": 375944885,
+            "short_description": "Complaint",
+            "document_number": 1,
+            "page_count": 17,
+            "is_available": true
+          },
+          {
+            "id": 376434952,
+            "short_description": "Corporate Disclosure Statement",
+            "document_number": 6,
+            "page_count": 1,
+            "is_available": true
+          },
+          {
+            "id": 402619994,
+            "short_description": "Exhibit A - Correspondence",
+            "document_number": 51,
+            "page_count": 3,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "67545259",
+        "case_name": "NORTH AMERICAN DENTAL MANAGEMENT, LLC v. PHILLIPS",
+        "court_id": "pawd",
+        "date_filed": "2023-06-30",
+        "opinion_clusters": 2,
+        "opinion_samples": [
+          {
+            "id": 10332287,
+            "date_filed": "2025-02-12",
+            "precedential_status": "Unknown"
+          },
+          {
+            "id": 9952308,
+            "date_filed": "2023-07-14",
+            "precedential_status": "Unknown"
+          }
+        ],
+        "recap_docket_count": 1,
+        "recap_doc_count": 31,
+        "recap_doc_samples": [
+          {
+            "id": 461032562,
+            "short_description": "",
+            "document_number": 55,
+            "page_count": 22,
+            "is_available": true
+          },
+          {
+            "id": 380500718,
+            "short_description": "Dismiss for Failure to State a Claim",
+            "document_number": 54,
+            "page_count": 2,
+            "is_available": true
+          },
+          {
+            "id": 461032549,
+            "short_description": "",
+            "document_number": 39,
+            "page_count": 1,
+            "is_available": true
+          }
+        ],
+        "has_opinions": true,
+        "has_recap": true,
+        "has_both": true
+      },
+      {
+        "docket_id": "61027117",
+        "case_name": "Werner Enterprises, Inc. v. Wire",
+        "court_id": "gand",
+        "date_filed": "2021-07-02",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 5,
+        "recap_doc_samples": [
+          {
+            "id": 360090680,
+            "short_description": "",
+            "document_number": 66,
+            "page_count": 26,
+            "is_available": true
+          },
+          {
+            "id": 360090683,
+            "short_description": "",
+            "document_number": 69,
+            "page_count": 15,
+            "is_available": true
+          },
+          {
+            "id": 360090687,
+            "short_description": "",
+            "document_number": 72,
+            "page_count": 2,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "65403679",
+        "case_name": "Frost Solutions, LLC v. Baglien",
+        "court_id": "nhd",
+        "date_filed": "2022-10-05",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 96,
+        "recap_doc_samples": [
+          {
+            "id": 429550189,
+            "short_description": "Sealed Motion - Court Use",
+            "document_number": 98,
+            "page_count": 4,
+            "is_available": true
+          },
+          {
+            "id": 215013020,
+            "short_description": "Exhibit B: Baglien Confidentiality Agreement",
+            "document_number": 1,
+            "page_count": 11,
+            "is_available": true
+          },
+          {
+            "id": 420408398,
+            "short_description": "Dismiss for Failure to State a Claim",
+            "document_number": 92,
+            "page_count": 3,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "18500426",
+        "case_name": "List Services Corporation v. David Clemen",
+        "court_id": "ctd",
+        "date_filed": "2020-10-02",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 1,
+        "recap_doc_samples": [
+          {
+            "id": 147541672,
+            "short_description": "Complaint",
+            "document_number": 1,
+            "page_count": 31,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "71099112",
+        "case_name": "Kettering Adventist Healthcare v. Collier",
+        "court_id": "ohsd",
+        "date_filed": "2025-08-13",
+        "opinion_clusters": 4,
+        "opinion_samples": [
+          {
+            "id": 10768468,
+            "date_filed": "2026-01-02",
+            "precedential_status": "Unknown"
+          },
+          {
+            "id": 10762107,
+            "date_filed": "2025-12-18",
+            "precedential_status": "Unknown"
+          }
+        ],
+        "recap_docket_count": 1,
+        "recap_doc_count": 15,
+        "recap_doc_samples": [
+          {
+            "id": 448937113,
+            "short_description": "Complaint",
+            "document_number": 1,
+            "page_count": 57,
+            "is_available": true
+          },
+          {
+            "id": 449058291,
+            "short_description": "Exhibit",
+            "document_number": 1,
+            "page_count": 10,
+            "is_available": true
+          },
+          {
+            "id": 464359465,
+            "short_description": "Exhibit Exparte communication",
+            "document_number": 109,
+            "page_count": 4,
+            "is_available": true
+          }
+        ],
+        "has_opinions": true,
+        "has_recap": true,
+        "has_both": true
+      },
+      {
+        "docket_id": "59986214",
+        "case_name": "Red Rock Healthcare v. Rowland",
+        "court_id": "utd",
+        "date_filed": "2021-06-11",
+        "opinion_clusters": 1,
+        "opinion_samples": [
+          {
+            "id": 10219077,
+            "date_filed": "2022-08-30",
+            "precedential_status": "Unknown"
+          }
+        ],
+        "recap_docket_count": 1,
+        "recap_doc_count": 1,
+        "recap_doc_samples": [
+          {
+            "id": 210889015,
+            "short_description": "Order Dismissing Case AND Memorandum Decision",
+            "document_number": 66,
+            "page_count": 3,
+            "is_available": true
+          }
+        ],
+        "has_opinions": true,
+        "has_recap": true,
+        "has_both": true
+      },
+      {
+        "docket_id": "59838182",
+        "case_name": "Fareportal, Inc. v. HNA Group (International) Co., LTD.",
+        "court_id": "cand",
+        "date_filed": "2021-04-16",
+        "opinion_clusters": 4,
+        "opinion_samples": [
+          {
+            "id": 9612503,
+            "date_filed": "2024-05-23",
+            "precedential_status": "Unknown"
+          },
+          {
+            "id": 9610757,
+            "date_filed": "2023-12-05",
+            "precedential_status": "Unknown"
+          }
+        ],
+        "recap_docket_count": 1,
+        "recap_doc_count": 17,
+        "recap_doc_samples": [
+          {
+            "id": 400032046,
+            "short_description": "1 - Terminate Deadlines and Hearings AND Order AND Set Motio",
+            "document_number": 172,
+            "page_count": 2,
+            "is_available": true
+          },
+          {
+            "id": 202839123,
+            "short_description": "Notice of Change of Address",
+            "document_number": 80,
+            "page_count": 3,
+            "is_available": true
+          },
+          {
+            "id": 195734566,
+            "short_description": "~Util - Set Deadlines/Hearings AND Case Management Conferenc",
+            "document_number": 71,
+            "page_count": 1,
+            "is_available": true
+          }
+        ],
+        "has_opinions": true,
+        "has_recap": true,
+        "has_both": true
+      },
+      {
+        "docket_id": "63589690",
+        "case_name": "loanDepot.com, LLC v. CrossCountry Mortgage, LLC",
+        "court_id": "nysd",
+        "date_filed": "2022-07-13",
+        "opinion_clusters": 18,
+        "opinion_samples": [
+          {
+            "id": 10194756,
+            "date_filed": "2024-07-09",
+            "precedential_status": "Unknown"
+          },
+          {
+            "id": 9893203,
+            "date_filed": "2024-04-09",
+            "precedential_status": "Unknown"
+          }
+        ],
+        "recap_docket_count": 1,
+        "recap_doc_count": 130,
+        "recap_doc_samples": [
+          {
+            "id": 424758157,
+            "short_description": "Conference",
+            "document_number": 539,
+            "page_count": 3,
+            "is_available": true
+          },
+          {
+            "id": 408451502,
+            "short_description": "Order on Motion to Seal",
+            "document_number": 518,
+            "page_count": 1,
+            "is_available": true
+          },
+          {
+            "id": 409864401,
+            "short_description": "Order on Motion to Seal",
+            "document_number": 522,
+            "page_count": 1,
+            "is_available": true
+          }
+        ],
+        "has_opinions": true,
+        "has_recap": true,
+        "has_both": true
+      },
+      {
+        "docket_id": "64879340",
+        "case_name": "Morrell, LLC v. Bollin",
+        "court_id": "mied",
+        "date_filed": "2022-08-09",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 1,
+        "recap_doc_count": 1,
+        "recap_doc_samples": [
+          {
+            "id": 208802580,
+            "short_description": "Civil Case - Complaint",
+            "document_number": 1,
+            "page_count": 32,
+            "is_available": true
+          }
+        ],
+        "has_opinions": false,
+        "has_recap": true,
+        "has_both": false
+      },
+      {
+        "docket_id": "69835992",
+        "case_name": "Valiant Management Partners, LLC v. Andrade",
+        "court_id": "flsd",
+        "date_filed": "2025-04-02",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      },
+      {
+        "docket_id": "65396714",
+        "case_name": "Schnitzer Steel Industries, Inc. v. Dingman",
+        "court_id": "rid",
+        "date_filed": "2022-10-03",
+        "opinion_clusters": 2,
+        "opinion_samples": [
+          {
+            "id": 9955400,
+            "date_filed": "2022-11-08",
+            "precedential_status": "Unknown"
+          },
+          {
+            "id": 9955326,
+            "date_filed": "2023-01-18",
+            "precedential_status": "Unknown"
+          }
+        ],
+        "recap_docket_count": 1,
+        "recap_doc_count": 2,
+        "recap_doc_samples": [
+          {
+            "id": 222795748,
+            "short_description": "Order on Motion to Dismiss",
+            "document_number": 29,
+            "page_count": 11,
+            "is_available": true
+          },
+          {
+            "id": 217142439,
+            "short_description": "Order on Motion for Discovery AND Order on Motion for TRO AN",
+            "document_number": 23,
+            "page_count": 16,
+            "is_available": true
+          }
+        ],
+        "has_opinions": true,
+        "has_recap": true,
+        "has_both": true
+      },
+      {
+        "docket_id": "59962528",
+        "case_name": "Just Funky, LLC v. Boom Trendz, LLC",
+        "court_id": "ohnd",
+        "date_filed": "2021-06-04",
+        "opinion_clusters": 3,
+        "opinion_samples": [
+          {
+            "id": 10198152,
+            "date_filed": "2024-10-16",
+            "precedential_status": "Unknown"
+          },
+          {
+            "id": 9905006,
+            "date_filed": "2023-01-18",
+            "precedential_status": "Unknown"
+          }
+        ],
+        "recap_docket_count": 1,
+        "recap_doc_count": 9,
+        "recap_doc_samples": [
+          {
+            "id": 416230734,
+            "short_description": "Memorandum Opinion and Order",
+            "document_number": 123,
+            "page_count": 12,
+            "is_available": true
+          },
+          {
+            "id": 181935022,
+            "short_description": "Seal",
+            "document_number": 34,
+            "page_count": 3,
+            "is_available": true
+          },
+          {
+            "id": 186477014,
+            "short_description": "",
+            "document_number": 20,
+            "page_count": 3,
+            "is_available": true
+          }
+        ],
+        "has_opinions": true,
+        "has_recap": true,
+        "has_both": true
+      },
+      {
+        "docket_id": "67223866",
+        "case_name": "Switchboard Apparatus Inc v. O'Doherty",
+        "court_id": "scd",
+        "date_filed": "2023-04-18",
+        "opinion_clusters": 0,
+        "opinion_samples": [],
+        "recap_docket_count": 0,
+        "recap_doc_count": 0,
+        "recap_doc_samples": [],
+        "has_opinions": false,
+        "has_recap": false,
+        "has_both": false
+      }
+    ]
+  }
+}
