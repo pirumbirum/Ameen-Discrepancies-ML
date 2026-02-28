@@ -1,0 +1,161 @@
+name: "10: Investigate RECAP Data"
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  investigate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # ── Scrape CourtListener API docs ──
+      - name: "Scrape CourtListener API documentation"
+        run: |
+          mkdir -p research/api_docs
+          pip install beautifulsoup4 lxml 2>/dev/null
+
+          python3 << 'PYSCRIPT'
+          import urllib.request
+          import json
+          import os
+          import time
+
+          pages = [
+              # API documentation - every page
+              ("https://www.courtlistener.com/help/api/", "api_overview.html"),
+              ("https://www.courtlistener.com/help/api/rest/", "rest_overview.html"),
+              ("https://www.courtlistener.com/help/api/rest/case-law/", "case_law.html"),
+              ("https://www.courtlistener.com/help/api/rest/pacer/", "pacer.html"),
+              ("https://www.courtlistener.com/help/api/rest/search/", "search.html"),
+              ("https://www.courtlistener.com/help/api/rest/citations/", "citations.html"),
+              ("https://www.courtlistener.com/help/api/rest/judges/", "judges.html"),
+              ("https://www.courtlistener.com/help/api/rest/financial-disclosures/", "financial_disclosures.html"),
+              ("https://www.courtlistener.com/help/api/rest/visualizations/", "visualizations.html"),
+              ("https://www.courtlistener.com/help/api/rest/fields/", "fields.html"),
+              ("https://www.courtlistener.com/help/api/rest/recap/", "recap_api.html"),
+              ("https://www.courtlistener.com/help/api/rest/permissions/", "permissions.html"),
+              ("https://www.courtlistener.com/help/api/rest/changes/", "api_changes.html"),
+              # Bulk data & replication
+              ("https://www.courtlistener.com/help/api/bulk-data/", "bulk_data.html"),
+              ("https://www.courtlistener.com/help/api/replication/", "replication.html"),
+              # Coverage pages
+              ("https://www.courtlistener.com/coverage/", "coverage.html"),
+              ("https://www.courtlistener.com/coverage/recap/", "recap_coverage.html"),
+              ("https://www.courtlistener.com/coverage/opinions/", "opinion_coverage.html"),
+              ("https://www.courtlistener.com/coverage/financial-disclosures/", "fd_coverage.html"),
+              ("https://www.courtlistener.com/coverage/oral-arguments/", "oa_coverage.html"),
+              # About / help pages
+              ("https://www.courtlistener.com/help/", "help_main.html"),
+              ("https://www.courtlistener.com/help/recap/", "help_recap.html"),
+              ("https://www.courtlistener.com/help/recap/what-is-pacer/", "help_what_is_pacer.html"),
+              ("https://www.courtlistener.com/help/recap/installing/", "help_recap_installing.html"),
+              ("https://www.courtlistener.com/about/", "about.html"),
+              ("https://www.courtlistener.com/faq/", "faq.html"),
+              # RECAP specific
+              ("https://www.courtlistener.com/recap/", "recap_main.html"),
+              ("https://free.law/recap/", "freelaw_recap.html"),
+              ("https://free.law/projects/recap/", "freelaw_recap_project.html"),
+              # API root (JSON)
+              ("https://www.courtlistener.com/api/rest/v4/", "api_root.html"),
+              # Webhooks & alerts
+              ("https://www.courtlistener.com/help/api/rest/alerts/", "alerts.html"),
+              ("https://www.courtlistener.com/help/api/rest/webhooks/", "webhooks.html"),
+              # Terms & policies (may contain data limits info)
+              ("https://www.courtlistener.com/terms/", "terms.html"),
+              # Blog posts about RECAP and API
+              ("https://free.law/2024/01/18/recap-fetch-api/", "blog_recap_fetch.html"),
+              ("https://free.law/2023/12/12/v4-api/", "blog_v4_api.html"),
+          ]
+
+          for url, filename in pages:
+              try:
+                  req = urllib.request.Request(url, headers={"User-Agent": "Ameen-Research/1.0"})
+                  with urllib.request.urlopen(req, timeout=30) as resp:
+                      html = resp.read().decode("utf-8", errors="replace")
+                  path = os.path.join("research", "api_docs", filename)
+                  with open(path, "w") as f:
+                      f.write(html)
+                  print(f"  OK {url} -> {path} ({len(html):,} bytes)")
+              except Exception as e:
+                  print(f"  FAIL {url}: {e}")
+              time.sleep(0.5)
+
+          # Also try to extract text from HTML pages
+          try:
+              from bs4 import BeautifulSoup
+              for filename in os.listdir("research/api_docs"):
+                  if filename.endswith(".html"):
+                      html_path = os.path.join("research", "api_docs", filename)
+                      with open(html_path) as f:
+                          soup = BeautifulSoup(f.read(), "lxml")
+                      # Extract main content
+                      main = soup.find("main") or soup.find("article") or soup.find("div", class_="content") or soup.body
+                      if main:
+                          text = main.get_text(separator="\n", strip=True)
+                          txt_path = html_path.replace(".html", ".txt")
+                          with open(txt_path, "w") as f:
+                              f.write(text)
+                          print(f"  Extracted text: {txt_path} ({len(text):,} chars)")
+          except ImportError:
+              print("  bs4 not available, keeping raw HTML only")
+
+          # Hit the API root to discover all endpoints
+          token = os.environ.get("CL_API_TOKEN", "") or os.environ.get("COURTLISTENER_TOKEN", "")
+          if token:
+              headers = {"Authorization": f"Token {token}", "User-Agent": "Ameen-Research/1.0"}
+              try:
+                  req = urllib.request.Request("https://www.courtlistener.com/api/rest/v4/?format=json", headers=headers)
+                  with urllib.request.urlopen(req, timeout=30) as resp:
+                      root = json.loads(resp.read().decode())
+                  with open("research/api_docs/api_v4_root.json", "w") as f:
+                      json.dump(root, f, indent=2)
+                  print(f"\n  API v4 Root endpoints ({len(root)} total):")
+                  for name, url in sorted(root.items()):
+                      print(f"    {name}: {url}")
+              except Exception as e:
+                  print(f"  API root fetch failed: {e}")
+          PYSCRIPT
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+
+      # ── Run the full RECAP investigation ──
+      - name: "Run RECAP investigation"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/investigate_recap.py
+
+      # ── Save results ──
+      - name: "Commit results"
+        if: always()
+        run: |
+          git add research/
+          git diff --cached --quiet && echo "Nothing new" && exit 0
+          git commit -m "RECAP investigation: API docs + golden_set audit + search counts"
+          git push
+
+      - name: Upload artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: recap-investigation-${{ github.run_id }}
+          path: research/
+          retention-days: 90
