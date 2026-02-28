@@ -131,13 +131,18 @@ for nos_label, nos_code in sorted(NOS_CODES.items()):
         continue
 
     recap_total = data.get("count", 0)
-    print(f"  Total RECAP results for NOS {nos_code}: {recap_total}", flush=True)
+    recap_doc_global = data.get("document_count", 0)
+    print(f"  Total RECAP results for NOS {nos_code}: {recap_total} "
+          f"(document_count: {recap_doc_global})", flush=True)
 
     recap_docket_ids = set()
+    recap_doc_counts = {}  # docket_id -> document count from search results
     for r in data.get("results", []):
         did = str(r.get("docket_id", ""))
         if did:
             recap_docket_ids.add(did)
+            doc_count = len(r.get("recap_documents", []))
+            recap_doc_counts[did] = recap_doc_counts.get(did, 0) + doc_count
 
     next_url = data.get("next")
     page = 1
@@ -157,6 +162,8 @@ for nos_label, nos_code in sorted(NOS_CODES.items()):
             did = str(r.get("docket_id", ""))
             if did:
                 recap_docket_ids.add(did)
+                doc_count = len(r.get("recap_documents", []))
+                recap_doc_counts[did] = recap_doc_counts.get(did, 0) + doc_count
 
         next_url = data.get("next")
 
@@ -209,6 +216,7 @@ for nos_label, nos_code in sorted(NOS_CODES.items()):
                     "nos_category": nos_label,
                     "nos_code": nos_code,
                     "opinion_count": opinion_count,
+                    "recap_doc_count": recap_doc_counts.get(did, 0),
                 })
             else:
                 recap_only += 1
@@ -273,6 +281,7 @@ for cat, cases in sorted(by_nos.items()):
             "court_id": case["court_id"],
             "date_filed": case["date_filed"],
             "opinion_count": case["opinion_count"],
+            "recap_doc_count": case.get("recap_doc_count", 0),
         })
 
     with open(os.path.join(cat_dir, "index.json"), "w") as f:
@@ -294,6 +303,7 @@ for rank, case in enumerate(all_both_cases, 1):
         "nos_category": case["nos_category"],
         "nos_code": case["nos_code"],
         "opinion_count": case["opinion_count"],
+        "recap_doc_count": case.get("recap_doc_count", 0),
     })
 
 with open(os.path.join(OUTPUT_DIR, "master_index.json"), "w") as f:
@@ -334,10 +344,11 @@ for cat, info in sorted(per_nos_summary.items()):
               f"{info['total_cases']:>6} total ({info['cases_with_both_pct']:.1f}%)", flush=True)
 
 print(f"\n  Top 20 by opinion count:", flush=True)
-print(f"  {'Rank':>4} {'Opinions':>8} {'NOS':>14} {'Case Name'}", flush=True)
-print(f"  {'-'*4} {'-'*8} {'-'*14} {'-'*45}", flush=True)
+print(f"  {'Rank':>4} {'Opinions':>8} {'RECAP Docs':>10} {'NOS':>14} {'Case Name'}", flush=True)
+print(f"  {'-'*4} {'-'*8} {'-'*10} {'-'*14} {'-'*45}", flush=True)
 for entry in master_index[:20]:
     print(f"  {entry['global_rank']:>4} {entry['opinion_count']:>8} "
+          f"{entry['recap_doc_count']:>10} "
           f"{entry['nos_category']:>14} {entry['case_name'][:45]}", flush=True)
 
 print(f"\n  Total API calls: {stats['api_calls']}", flush=True)
