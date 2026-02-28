@@ -1,12 +1,6 @@
 name: "19: Sweep ALL NOS — golden set + recap"
 
 on:
-  push:
-    branches:
-      - claude/review-previous-chats-iDzNp
-    paths:
-      - 'scripts/sweep_all_nos_recap.py'
-      - '.github/workflows/19_sweep_all_nos_recap.yml'
   workflow_dispatch:
 
 permissions:
