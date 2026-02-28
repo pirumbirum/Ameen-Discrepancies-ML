@@ -1,0 +1,56 @@
+{
+  "category": "trade_secret",
+  "nos": "880",
+  "our_case_count": 2395,
+  "opinion_sweep_dockets": 10000,
+  "recap_sweep_dockets": 10000,
+  "has_opinions": 0,
+  "has_recap": 0,
+  "has_both": 0,
+  "has_neither": 2395,
+  "api_calls": 1010,
+  "elapsed_seconds": 1062,
+  "validation": [
+    {
+      "docket_id": "12908208",
+      "case_name": "Automotive Keys Group, LLC v. Sanchez",
+      "sweep_says_neither": true,
+      "direct_opinions": 1,
+      "direct_recap": 0,
+      "direct_confirms_no_both": true
+    },
+    {
+      "docket_id": "14213759",
+      "case_name": "Ecolab, Inc. v. Ridley",
+      "sweep_says_neither": true,
+      "direct_opinions": 1,
+      "direct_recap": 2,
+      "direct_confirms_no_both": false
+    },
+    {
+      "docket_id": "14575681",
+      "case_name": "United States v. Westberry",
+      "sweep_says_neither": true,
+      "direct_opinions": 1,
+      "direct_recap": 0,
+      "direct_confirms_no_both": true
+    },
+    {
+      "docket_id": "16785023",
+      "case_name": "United States v. Bauer",
+      "sweep_says_neither": true,
+      "direct_opinions": 1,
+      "direct_recap": 0,
+      "direct_confirms_no_both": true
+    },
+    {
+      "docket_id": "17064059",
+      "case_name": "ILAPAK, INC. v. YOUNG",
+      "sweep_says_neither": true,
+      "direct_opinions": 1,
+      "direct_recap": 2,
+      "direct_confirms_no_both": false
+    }
+  ],
+  "both_docket_ids": []
+}
