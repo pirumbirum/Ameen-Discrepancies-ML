@@ -1,0 +1,15 @@
+{
+  "recap_total_reported": 1085,
+  "pages_so_far": 40,
+  "unique_docket_ids": 800,
+  "our_cases_with_recap": 796,
+  "our_cases_total": 2395,
+  "percent_with_recap": 33.2,
+  "_meta": {
+    "api_calls": 40,
+    "elapsed_seconds": 36,
+    "elapsed_minutes": 0.6,
+    "stage": "stage1_recap_sweep",
+    "timestamp": "2026-02-28 19:25:24 UTC"
+  }
+}
