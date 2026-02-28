@@ -1,0 +1,103 @@
+{
+  "type=r No filter": {
+    "count": 61080248,
+    "doc_count": 470969808,
+    "first_nos": ""
+  },
+  "type=r suitNature=880 (GET param)": {
+    "count": 61080248,
+    "doc_count": 470969808,
+    "first_nos": ""
+  },
+  "type=r q=suitNature:880": {
+    "count": 1434,
+    "doc_count": 130571,
+    "first_nos": "880 Defend Trade Secrets Act (of 2016)"
+  },
+  "type=r q=suitNature:\"880\"": {
+    "count": 1434,
+    "doc_count": 130571,
+    "first_nos": "880 Defend Trade Secrets Act (of 2016)"
+  },
+  "type=r q=suitNature:\"Trade Secret\"": {
+    "count": 3,
+    "doc_count": 80,
+    "first_nos": "3880 Defend Trade Secret Act 2016"
+  },
+  "type=r suitNature=880 + available_only": {
+    "count": 4282811,
+    "doc_count": 16391324,
+    "first_nos": ""
+  },
+  "type=r q=suitNature:880 + available_only": {
+    "count": 1085,
+    "doc_count": 11745,
+    "first_nos": "880 Defend Trade Secrets Act (of 2016)"
+  },
+  "type=o No filter": {
+    "count": 8278486,
+    "first_nos": ""
+  },
+  "type=o suitNature=880 (GET param)": {
+    "count": 8278486,
+    "first_nos": ""
+  },
+  "type=o q=suitNature:880": {
+    "count": 0,
+    "first_nos": ""
+  },
+  "type=o suitNature=850 (securities)": {
+    "count": 8278486,
+    "first_nos": ""
+  },
+  "type=o q=suitNature:850": {
+    "count": 1,
+    "first_nos": "Department of Corrections\u2014Inmate\u2014Grievances\u2014Quasi-Judicial Action\u2014Regulation 850-04\u2014Abuse of Discretion\u2014Due Process"
+  },
+  "type=d No filter": {
+    "count": 61080248,
+    "first_nos": ""
+  },
+  "type=d suitNature=880": {
+    "count": 61080248,
+    "first_nos": ""
+  },
+  "type=d q=suitNature:880": {
+    "count": 1434,
+    "first_nos": "880 Defend Trade Secrets Act (of 2016)"
+  },
+  "type=d suitNature=850": {
+    "count": 61080248,
+    "first_nos": ""
+  },
+  "clusters No filter": {
+    "count": "https://www.courtlistener.com/api/rest/v4/clusters/?count=on&fields=id%2Cdocket&page_size=1"
+  },
+  "clusters nature_of_suit=880": {
+    "error": "400"
+  },
+  "clusters docket__nature_of_suit=Trade Secret": {
+    "error": "The read operation timed out"
+  },
+  "clusters docket__nature_of_suit=880": {
+    "error": "The read operation timed out"
+  },
+  "dockets No filter": {
+    "count": "https://www.courtlistener.com/api/rest/v4/dockets/?count=on&fields=id%2Cnature_of_suit&page_size=1",
+    "first_nos": ""
+  },
+  "dockets nature_of_suit=Trade Secret": {
+    "error": "The read operation timed out"
+  },
+  "dockets nature_of_suit=880": {
+    "error": "The read operation timed out"
+  },
+  "dockets nature_of_suit__startswith=880": {
+    "count": "https://www.courtlistener.com/api/rest/v4/dockets/?count=on&fields=id%2Cnature_of_suit&nature_of_suit__startswith=880&page_size=1",
+    "first_nos": "880 Defend Trade Secrets Act (of 2016)"
+  },
+  "dockets nature_of_suit__contains=Trade Secret": {
+    "count": "https://www.courtlistener.com/api/rest/v4/dockets/?count=on&fields=id%2Cnature_of_suit&nature_of_suit__contains=Trade+Secret&page_size=1",
+    "first_nos": "880 Defend Trade Secrets Act (of 2016)"
+  }
+}

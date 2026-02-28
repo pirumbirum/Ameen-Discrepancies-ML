@@ -1,0 +1,59 @@
+============================================================
+  TEST 1: Search API NOS filtering (type=r)
+============================================================
+  No filter                                     count=    61080248 doc_count=   470969808 first_NOS=
+  suitNature=880 (GET param)                    count=    61080248 doc_count=   470969808 first_NOS=
+  q=suitNature:880                              count=        1434 doc_count=      130571 first_NOS=880 Defend Trade Secrets Act (of 2016)
+  q=suitNature:"880"                            count=        1434 doc_count=      130571 first_NOS=880 Defend Trade Secrets Act (of 2016)
+  q=suitNature:"Trade Secret"                   count=           3 doc_count=          80 first_NOS=3880 Defend Trade Secret Act 2016
+  suitNature=880 + available_only               count=     4282811 doc_count=    16391324 first_NOS=
+  q=suitNature:880 + available_only             count=        1085 doc_count=       11745 first_NOS=880 Defend Trade Secrets Act (of 2016)
+
+============================================================
+  TEST 2: Search API NOS filtering (type=o)
+============================================================
+  No filter                                     count=     8278486 first_NOS=
+  suitNature=880 (GET param)                    count=     8278486 first_NOS=
+  q=suitNature:880                              count=           0 first_NOS=
+  suitNature=850 (securities)                   count=     8278486 first_NOS=
+  q=suitNature:850                              count=           1 first_NOS=Department of Corrections—Inmate—Grievances—Quasi-Judicial Action—Regulation 850-04—Abuse of Discretion—Due Process
+
+============================================================
+  TEST 3: Search API NOS filtering (type=d)
+============================================================
+  No filter                                     count=    61080248 first_NOS=
+  suitNature=880                                count=    61080248 first_NOS=
+  q=suitNature:880                              count=        1434 first_NOS=880 Defend Trade Secrets Act (of 2016)
+  suitNature=850                                count=    61080248 first_NOS=
+
+============================================================
+  TEST 4: /clusters/ endpoint NOS filtering
+============================================================
+  No filter                                     count=https://www.courtlistener.com/api/rest/v4/clusters/?count=on&fields=id%2Cdocket&page_size=1
+  nature_of_suit=880                            ERROR: 400
+  docket__nature_of_suit=Trade Secret           ERROR: The read operation timed out
+  docket__nature_of_suit=880                    ERROR: The read operation timed out
+
+============================================================
+  TEST 5: /dockets/ NOS filter
+============================================================
+  No filter                                     count=https://www.courtlistener.com/api/rest/v4/dockets/?count=on&fields=id%2Cnature_of_suit&page_size=1 first_NOS=
+  nature_of_suit=Trade Secret                   ERROR: The read operation timed out
+  nature_of_suit=880                            ERROR: The read operation timed out
+  nature_of_suit__startswith=880                count=https://www.courtlistener.com/api/rest/v4/dockets/?count=on&fields=id%2Cnature_of_suit&nature_of_suit__startswith=880&page_size=1 first_NOS=880 Defend Trade Secrets Act (of 2016)
+  nature_of_suit__contains=Trade Secret         count=https://www.courtlistener.com/api/rest/v4/dockets/?count=on&fields=id%2Cnature_of_suit&nature_of_suit__contains=Trade+Secret&page_size=1 first_NOS=880 Defend Trade Secrets Act (of 2016)
+
+============================================================
+  TEST 6: Known docket check
+  Docket 14213759 should have opinions + RECAP for trade_secret
+============================================================
+  Docket: {
+  "id": 14213759,
+  "case_name": "Ecolab, Inc. v. Ridley",
+  "nature_of_suit": "880 Defend Trade Secrets Act (of 2016)"
+}
+  Search type=r: count=1, doc_count=4
+    suitNature=880 Defend Trade Secrets Act (of 2016), caseName=Ecolab, Inc. v. Ridley
+  Search type=o: count=0
+
+Saved to research/nos_filter_debug.json
