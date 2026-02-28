@@ -1,0 +1,46 @@
+name: "20: Test 326 recap doc counts"
+
+on:
+  push:
+    branches:
+      - claude/review-previous-chats-iDzNp
+    paths:
+      - 'scripts/test_326_recap_docs.py'
+      - '.github/workflows/20_test_326_recap_docs.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Test 326 recap doc counts
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/test_326_recap_docs.py 2>&1 | tee research/test_326_log.txt
+
+      - name: Commit results
+        if: always()
+        run: |
+          git add research/
+          git diff --cached --quiet && echo "Nothing new" && exit 0
+          git commit -m "Test 326: recap doc counts from search API"
+          git push
