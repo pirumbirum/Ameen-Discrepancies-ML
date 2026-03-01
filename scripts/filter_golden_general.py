@@ -145,7 +145,7 @@ def batch_check_opinions(docket_ids, token):
         return set()
 
     ids_str = ",".join(str(did) for did in docket_ids)
-    url = f"{CL_API}/dockets/?id__in={ids_str}&fields=id,clusters&format=json"
+    url = f"{CL_API}/dockets/?id__in={ids_str}&fields=id,clusters&format=json&page_size=100"
 
     has_opinions = set()
     while url:
