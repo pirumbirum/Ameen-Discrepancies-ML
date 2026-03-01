@@ -1,0 +1,20 @@
+{
+  "id": "63181500",
+  "case_name": "Jones v. Progressive Universal Insurance Company",
+  "case_name_full": "",
+  "docket_number": "2:22-cv-00364",
+  "docket_number_core": "2200364",
+  "court_id": "wied",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-03-23",
+  "date_terminated": "2024-06-07",
+  "date_last_filing": "2024-06-25",
+  "assigned_to_str": "Pamela Pepper",
+  "referred_to_str": "",
+  "pacer_case_id": "98529",
+  "source": "1",
+  "slug": "jones-v-progressive-universal-insurance-company",
+  "federal_dn_case_type": "cv"
+}

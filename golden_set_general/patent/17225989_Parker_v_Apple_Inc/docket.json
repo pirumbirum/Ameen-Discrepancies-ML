@@ -1,0 +1,20 @@
+{
+  "id": "17225989",
+  "case_name": "Parker v. Apple Inc.",
+  "case_name_full": "",
+  "docket_number": "4:20-cv-00731",
+  "docket_number_core": "2000731",
+  "court_id": "moed",
+  "nature_of_suit": "Patent",
+  "cause": "15:1126 Patent Infringement",
+  "jurisdiction_type": "Federal question",
+  "date_filed": "2020-06-01",
+  "date_terminated": "2020-07-30",
+  "date_last_filing": "2020-09-23",
+  "assigned_to_str": "Sarah E. Pitlyk",
+  "referred_to_str": "",
+  "pacer_case_id": "180756",
+  "source": "9",
+  "slug": "parker-v-apple-inc",
+  "federal_dn_case_type": "cv"
+}

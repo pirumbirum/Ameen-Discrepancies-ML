@@ -1,0 +1,20 @@
+{
+  "id": "60181234",
+  "case_name": "E. Remy Martin & Co. v. Sire Spirits LLC",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-06838",
+  "docket_number_core": "2106838",
+  "court_id": "nysd",
+  "nature_of_suit": "Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-08-13",
+  "date_terminated": "2023-06-14",
+  "date_last_filing": "2023-06-14",
+  "assigned_to_str": "Alvin K. Hellerstein",
+  "referred_to_str": "",
+  "pacer_case_id": "565000",
+  "source": "1",
+  "slug": "e-remy-martin-co-v-sire-spirits-llc",
+  "federal_dn_case_type": "cv"
+}

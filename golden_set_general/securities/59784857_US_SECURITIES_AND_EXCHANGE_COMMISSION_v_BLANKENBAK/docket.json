@@ -1,0 +1,20 @@
+{
+  "id": "59784857",
+  "case_name": "U.S. SECURITIES AND EXCHANGE COMMISSION v. BLANKENBAKER",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-00790",
+  "docket_number_core": "2100790",
+  "court_id": "insd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "12:22 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-03-31",
+  "date_terminated": "2022-01-21",
+  "date_last_filing": "2022-01-21",
+  "assigned_to_str": "James Patrick Hanlon",
+  "referred_to_str": "Tim A. Baker",
+  "pacer_case_id": "191213",
+  "source": "1",
+  "slug": "us-securities-and-exchange-commission-v-blankenbaker",
+  "federal_dn_case_type": "cv"
+}

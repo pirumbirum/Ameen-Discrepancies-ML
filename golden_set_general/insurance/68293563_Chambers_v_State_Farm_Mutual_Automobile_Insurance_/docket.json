@@ -1,0 +1,20 @@
+{
+  "id": "68293563",
+  "case_name": "Chambers v. State Farm Mutual Automobile Insurance Co.",
+  "case_name_full": "",
+  "docket_number": "1:24-cv-00557",
+  "docket_number_core": "2400557",
+  "court_id": "cod",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2024-02-28",
+  "date_terminated": "2025-01-21",
+  "date_last_filing": "2025-01-21",
+  "assigned_to_str": "Philip A. Brimmer",
+  "referred_to_str": "N. Reid Neureiter",
+  "pacer_case_id": "231885",
+  "source": "1",
+  "slug": "chambers-v-state-farm-mutual-automobile-insurance-co",
+  "federal_dn_case_type": "cv"
+}

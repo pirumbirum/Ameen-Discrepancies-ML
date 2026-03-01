@@ -1,0 +1,20 @@
+{
+  "id": "62626300",
+  "case_name": "Finnegan v. ServeCorp",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-00629",
+  "docket_number_core": "2200629",
+  "court_id": "nysd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1331bc Fed. Question: Breach of Contract",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-01-21",
+  "date_terminated": "2022-02-07",
+  "date_last_filing": "2022-02-07",
+  "assigned_to_str": "Laura Taylor Swain",
+  "referred_to_str": "",
+  "pacer_case_id": "573774",
+  "source": "1",
+  "slug": "finnegan-v-servecorp",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "7500701",
+  "case_name": "Paul v. Plank",
+  "case_name_full": "",
+  "docket_number": "1:18-cv-02239",
+  "docket_number_core": "1802239",
+  "court_id": "mdd",
+  "nature_of_suit": "Stockholders Suits",
+  "cause": "28:1332 Diversity Action",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2018-07-23",
+  "date_terminated": "2023-09-27",
+  "date_last_filing": "2025-04-10",
+  "assigned_to_str": "Richard D. Bennett",
+  "referred_to_str": "",
+  "pacer_case_id": "427513",
+  "source": "9",
+  "slug": "paul-v-plank",
+  "federal_dn_case_type": "cv"
+}

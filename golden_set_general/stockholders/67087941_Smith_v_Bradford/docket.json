@@ -1,0 +1,20 @@
+{
+  "id": "67087941",
+  "case_name": "Smith v. Bradford",
+  "case_name_full": "",
+  "docket_number": "2:23-cv-00445",
+  "docket_number_core": "2300445",
+  "court_id": "nvd",
+  "nature_of_suit": "Stockholders Suits",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2023-03-23",
+  "date_terminated": "2023-05-23",
+  "date_last_filing": "2023-05-23",
+  "assigned_to_str": "Gloria M. Navarro",
+  "referred_to_str": "Brenda Weksler",
+  "pacer_case_id": "161419",
+  "source": "1",
+  "slug": "smith-v-bradford",
+  "federal_dn_case_type": "cv"
+}

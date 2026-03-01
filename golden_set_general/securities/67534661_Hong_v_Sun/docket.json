@@ -1,0 +1,20 @@
+{
+  "id": "67534661",
+  "case_name": "Hong v. Sun",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-05500",
+  "docket_number_core": "2305500",
+  "court_id": "nysd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-06-27",
+  "date_terminated": "2025-06-30",
+  "date_last_filing": "2025-06-30",
+  "assigned_to_str": "Jennifer L. Rochon",
+  "referred_to_str": "",
+  "pacer_case_id": "601210",
+  "source": "1",
+  "slug": "hong-v-sun",
+  "federal_dn_case_type": "cv"
+}

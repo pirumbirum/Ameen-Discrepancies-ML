@@ -1,0 +1,20 @@
+{
+  "id": "17534499",
+  "case_name": "Teradata US, Inc. v. SAP SE",
+  "case_name_full": "",
+  "docket_number": "3:20-cv-06127",
+  "docket_number_core": "2006127",
+  "court_id": "cand",
+  "nature_of_suit": "830 Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-08-31",
+  "date_terminated": "2021-11-23",
+  "date_last_filing": "2025-11-21",
+  "assigned_to_str": "William H. Orrick",
+  "referred_to_str": "Joseph C. Spero",
+  "pacer_case_id": "365218",
+  "source": "1",
+  "slug": "teradata-us-inc-v-sap-se",
+  "federal_dn_case_type": "cv"
+}

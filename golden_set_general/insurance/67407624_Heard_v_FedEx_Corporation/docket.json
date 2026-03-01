@@ -1,0 +1,20 @@
+{
+  "id": "67407624",
+  "case_name": "Heard v. FedEx Corporation",
+  "case_name_full": "",
+  "docket_number": "4:23-cv-00012",
+  "docket_number_core": "2300012",
+  "court_id": "gasd",
+  "nature_of_suit": "Insurance",
+  "cause": "29:1001 E.R.I.S.A.: Employee Retirement",
+  "jurisdiction_type": "",
+  "date_filed": "2023-01-10",
+  "date_terminated": "2024-01-03",
+  "date_last_filing": "2024-01-03",
+  "assigned_to_str": "R. Stan Baker",
+  "referred_to_str": "Christopher L. Ray",
+  "pacer_case_id": "88850",
+  "source": "1",
+  "slug": "heard-v-fedex-corporation",
+  "federal_dn_case_type": "cv"
+}

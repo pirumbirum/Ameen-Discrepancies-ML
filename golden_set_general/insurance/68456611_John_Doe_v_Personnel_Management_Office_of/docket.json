@@ -1,0 +1,20 @@
+{
+  "id": "68456611",
+  "case_name": "John Doe v. Personnel Management, Office of",
+  "case_name_full": "",
+  "docket_number": "3:24-cv-02371",
+  "docket_number_core": "2402371",
+  "court_id": "cand",
+  "nature_of_suit": "110 Insurance",
+  "cause": "05:551 Administrative Procedure Act",
+  "jurisdiction_type": "U.S. Government Defendant",
+  "date_filed": "2024-04-21",
+  "date_terminated": "",
+  "date_last_filing": "2025-09-25",
+  "assigned_to_str": "Rita F. Lin",
+  "referred_to_str": "Donna M. Ryu",
+  "pacer_case_id": "428297",
+  "source": "1",
+  "slug": "john-doe-v-personnel-management-office-of",
+  "federal_dn_case_type": "cv"
+}

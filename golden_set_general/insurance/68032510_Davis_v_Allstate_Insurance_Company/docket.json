@@ -1,0 +1,20 @@
+{
+  "id": "68032510",
+  "case_name": "Davis v. Allstate Insurance Company",
+  "case_name_full": "",
+  "docket_number": "2:23-cv-07048",
+  "docket_number_core": "2307048",
+  "court_id": "laed",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "",
+  "date_filed": "2023-11-22",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-11",
+  "assigned_to_str": "Brandon S. Long",
+  "referred_to_str": "Janis van Meerveld",
+  "pacer_case_id": "266935",
+  "source": "1",
+  "slug": "davis-v-allstate-insurance-company",
+  "federal_dn_case_type": "cv"
+}

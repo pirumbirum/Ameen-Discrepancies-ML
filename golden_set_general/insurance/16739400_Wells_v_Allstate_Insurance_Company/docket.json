@@ -1,0 +1,20 @@
+{
+  "id": "16739400",
+  "case_name": "Wells v. Allstate Insurance Company",
+  "case_name_full": "",
+  "docket_number": "3:20-cv-00044",
+  "docket_number_core": "2000044",
+  "court_id": "lamd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity of citizenship",
+  "date_filed": "2020-01-22",
+  "date_terminated": "2021-02-11",
+  "date_last_filing": "2021-02-11",
+  "assigned_to_str": "Shelly D. Dick",
+  "referred_to_str": "Erin Wilder-Doomes",
+  "pacer_case_id": "57121",
+  "source": "9",
+  "slug": "wells-v-allstate-insurance-company",
+  "federal_dn_case_type": "cv"
+}

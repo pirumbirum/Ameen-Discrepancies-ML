@@ -1,0 +1,20 @@
+{
+  "id": "66771157",
+  "case_name": "Nike, Inc. v. Lululemon USA Inc.",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-00771",
+  "docket_number_core": "2300771",
+  "court_id": "nysd",
+  "nature_of_suit": "Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-01-30",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-11",
+  "assigned_to_str": "Arun Subramanian",
+  "referred_to_str": "",
+  "pacer_case_id": "593182",
+  "source": "1",
+  "slug": "nike-inc-v-lululemon-usa-inc",
+  "federal_dn_case_type": "cv"
+}

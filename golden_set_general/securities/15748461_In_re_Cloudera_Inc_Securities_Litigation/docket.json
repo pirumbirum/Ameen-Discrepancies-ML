@@ -1,0 +1,20 @@
+{
+  "id": "15748461",
+  "case_name": "In re Cloudera, Inc. Securities Litigation",
+  "case_name_full": "",
+  "docket_number": "3:19-cv-03221",
+  "docket_number_core": "1903221",
+  "court_id": "cand",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-06-07",
+  "date_terminated": "2022-10-26",
+  "date_last_filing": "2025-01-31",
+  "assigned_to_str": "Maxine M. Chesney",
+  "referred_to_str": "Susan Van Keulen",
+  "pacer_case_id": "343253",
+  "source": "9",
+  "slug": "in-re-cloudera-inc-securities-litigation",
+  "federal_dn_case_type": "cv"
+}

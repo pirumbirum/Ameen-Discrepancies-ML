@@ -1,0 +1,20 @@
+{
+  "id": "60062645",
+  "case_name": "Berall v. Verathon Inc",
+  "case_name_full": "",
+  "docket_number": "2:21-cv-00944",
+  "docket_number_core": "2100944",
+  "court_id": "wawd",
+  "nature_of_suit": "Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-07-14",
+  "date_terminated": "2023-01-19",
+  "date_last_filing": "2023-01-19",
+  "assigned_to_str": "Ricardo S. Martinez",
+  "referred_to_str": "",
+  "pacer_case_id": "301466",
+  "source": "1",
+  "slug": "berall-v-verathon-inc",
+  "federal_dn_case_type": "cv"
+}

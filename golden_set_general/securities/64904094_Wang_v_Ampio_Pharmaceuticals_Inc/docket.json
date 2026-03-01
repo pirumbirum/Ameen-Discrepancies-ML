@@ -1,0 +1,20 @@
+{
+  "id": "64904094",
+  "case_name": "Wang v. Ampio Pharmaceuticals, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-02105",
+  "docket_number_core": "2202105",
+  "court_id": "cod",
+  "nature_of_suit": "850 Securities, Commodities, Exchange",
+  "cause": "15:0078j(b)ss - Stockholder Suit",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-08-17",
+  "date_terminated": "2025-02-20",
+  "date_last_filing": "2025-02-25",
+  "assigned_to_str": "William J. Martinez",
+  "referred_to_str": "Cyrus Y. Chung",
+  "pacer_case_id": "217587",
+  "source": "1",
+  "slug": "wang-v-ampio-pharmaceuticals-inc",
+  "federal_dn_case_type": "cv"
+}

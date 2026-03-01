@@ -1,0 +1,20 @@
+{
+  "id": "67016457",
+  "case_name": "Stewart v. Boeing Company",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-02225",
+  "docket_number_core": "2302225",
+  "court_id": "nysd",
+  "nature_of_suit": "Patent",
+  "cause": "28:1331 Fed. Question",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-03-14",
+  "date_terminated": "2023-03-22",
+  "date_last_filing": "2023-03-23",
+  "assigned_to_str": "Gregory H. Woods",
+  "referred_to_str": "",
+  "pacer_case_id": "595698",
+  "source": "1",
+  "slug": "stewart-v-boeing-company",
+  "federal_dn_case_type": "cv"
+}

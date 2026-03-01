@@ -1,0 +1,20 @@
+{
+  "id": "59901234",
+  "case_name": "United States v. Sharfi",
+  "case_name_full": "",
+  "docket_number": "2:21-cv-14205",
+  "docket_number_core": "2114205",
+  "court_id": "flsd",
+  "nature_of_suit": "893 Environmental Matters",
+  "cause": "33:1319 Clean Water Act",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2021-05-12",
+  "date_terminated": "2024-12-30",
+  "date_last_filing": "2024-12-30",
+  "assigned_to_str": "Kenneth A. Marra",
+  "referred_to_str": "Shaniek Mills Maynard",
+  "pacer_case_id": "592735",
+  "source": "1",
+  "slug": "united-states-v-sharfi",
+  "federal_dn_case_type": "cv"
+}

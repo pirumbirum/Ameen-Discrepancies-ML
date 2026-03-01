@@ -1,0 +1,20 @@
+{
+  "id": "63192921",
+  "case_name": "Brady v. FedNat Insurance Company",
+  "case_name_full": "",
+  "docket_number": "2:22-cv-00799",
+  "docket_number_core": "2200799",
+  "court_id": "laed",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "",
+  "date_filed": "2022-03-28",
+  "date_terminated": "",
+  "date_last_filing": "2025-04-10",
+  "assigned_to_str": "Darrel James Papillion",
+  "referred_to_str": "Karen Wells Roby",
+  "pacer_case_id": "253141",
+  "source": "1",
+  "slug": "brady-v-fednat-insurance-company",
+  "federal_dn_case_type": "cv"
+}

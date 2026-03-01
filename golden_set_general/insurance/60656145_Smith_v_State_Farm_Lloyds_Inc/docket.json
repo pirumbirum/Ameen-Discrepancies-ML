@@ -1,0 +1,20 @@
+{
+  "id": "60656145",
+  "case_name": "Smith v. State Farm Lloyds, Inc.",
+  "case_name_full": "",
+  "docket_number": "4:21-cv-00837",
+  "docket_number_core": "2100837",
+  "court_id": "txed",
+  "nature_of_suit": "Insurance",
+  "cause": "12:635 Breach of Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2021-10-18",
+  "date_terminated": "2023-02-02",
+  "date_last_filing": "2025-12-29",
+  "assigned_to_str": "Amos L Mazzant",
+  "referred_to_str": "",
+  "pacer_case_id": "210389",
+  "source": "1",
+  "slug": "smith-v-state-farm-lloyds-inc",
+  "federal_dn_case_type": "cv"
+}

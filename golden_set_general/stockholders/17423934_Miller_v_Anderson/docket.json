@@ -1,0 +1,20 @@
+{
+  "id": "17423934",
+  "case_name": "Miller v. Anderson",
+  "case_name_full": "",
+  "docket_number": "5:20-cv-01743",
+  "docket_number_core": "2001743",
+  "court_id": "ohnd",
+  "nature_of_suit": "160 Stockholders Suits",
+  "cause": "28:1332 Diversity-Breach of Fiduciary Duty",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2020-08-07",
+  "date_terminated": "2024-05-17",
+  "date_last_filing": "2024-06-27",
+  "assigned_to_str": "John R. Adams",
+  "referred_to_str": "",
+  "pacer_case_id": "268354",
+  "source": "1",
+  "slug": "miller-v-anderson",
+  "federal_dn_case_type": "cv"
+}

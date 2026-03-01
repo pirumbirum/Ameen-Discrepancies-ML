@@ -1,0 +1,20 @@
+{
+  "id": "67823143",
+  "case_name": "Securities and Exchange Commission v. Vista Financial Advisors LLC",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-08432",
+  "docket_number_core": "2308432",
+  "court_id": "nysd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2023-09-25",
+  "date_terminated": "2024-07-08",
+  "date_last_filing": "2025-06-23",
+  "assigned_to_str": "Victor Marrero",
+  "referred_to_str": "",
+  "pacer_case_id": "606992",
+  "source": "1",
+  "slug": "securities-and-exchange-commission-v-vista-financial-advisors-llc",
+  "federal_dn_case_type": "cv"
+}

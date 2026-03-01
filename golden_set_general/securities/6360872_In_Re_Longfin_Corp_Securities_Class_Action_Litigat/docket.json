@@ -1,0 +1,20 @@
+{
+  "id": "6360872",
+  "case_name": "In Re Longfin Corp. Securities Class Action Litigation",
+  "case_name_full": "",
+  "docket_number": "1:18-cv-02933",
+  "docket_number_core": "1802933",
+  "court_id": "nysd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "28:1331sv Fed. Question: Securities Violation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2018-04-03",
+  "date_terminated": "2020-08-11",
+  "date_last_filing": "2023-02-17",
+  "assigned_to_str": "Denise L. Cote",
+  "referred_to_str": "",
+  "pacer_case_id": "491274",
+  "source": "9",
+  "slug": "in-re-longfin-corp-securities-class-action-litigation",
+  "federal_dn_case_type": "cv"
+}

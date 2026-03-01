@@ -1,0 +1,20 @@
+{
+  "id": "63123500",
+  "case_name": "Exist, Inc. v. Tokio Marine America Insurance Company",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-01679",
+  "docket_number_core": "2201679",
+  "court_id": "nysd",
+  "nature_of_suit": "Insurance",
+  "cause": "12:635 Breach of Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-02-28",
+  "date_terminated": "",
+  "date_last_filing": "2025-05-22",
+  "assigned_to_str": "Loretta A. Preska",
+  "referred_to_str": "Barbara C. Moses",
+  "pacer_case_id": "575764",
+  "source": "1",
+  "slug": "exist-inc-v-tokio-marine-america-insurance-company",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "59303474",
+  "case_name": "Pitman v. Immunovant, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-00918",
+  "docket_number_core": "2100918",
+  "court_id": "nyed",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-02-19",
+  "date_terminated": "2024-04-05",
+  "date_last_filing": "2024-04-05",
+  "assigned_to_str": "Kiyo A. Matsumoto",
+  "referred_to_str": "Vera M. Scanlon",
+  "pacer_case_id": "460079",
+  "source": "1",
+  "slug": "pitman-v-immunovant-inc",
+  "federal_dn_case_type": "cv"
+}

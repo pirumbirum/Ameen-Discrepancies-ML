@@ -1,0 +1,20 @@
+{
+  "id": "64905813",
+  "case_name": "Jones v. State Farm Fire and Casualty Insurance Company",
+  "case_name_full": "",
+  "docket_number": "2:22-cv-02541",
+  "docket_number_core": "2202541",
+  "court_id": "tnwd",
+  "nature_of_suit": "Insurance",
+  "cause": "12:635 Breach of Insurance Contract",
+  "jurisdiction_type": "",
+  "date_filed": "2022-08-19",
+  "date_terminated": "2023-12-11",
+  "date_last_filing": "2023-12-11",
+  "assigned_to_str": "John Thomas Fowlkes, Jr",
+  "referred_to_str": "Annie T. Christoff",
+  "pacer_case_id": "96315",
+  "source": "1",
+  "slug": "jones-v-state-farm-fire-and-casualty-insurance-company",
+  "federal_dn_case_type": "cv"
+}

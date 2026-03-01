@@ -1,0 +1,20 @@
+{
+  "id": "63568311",
+  "case_name": "Young v. Solana Labs, Inc.",
+  "case_name_full": "",
+  "docket_number": "5:22-cv-03912",
+  "docket_number_core": "2203912",
+  "court_id": "cand",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-07-01",
+  "date_terminated": "2023-11-13",
+  "date_last_filing": "2025-12-29",
+  "assigned_to_str": "Noel Wise",
+  "referred_to_str": "Susan Van Keulen",
+  "pacer_case_id": "397697",
+  "source": "1",
+  "slug": "young-v-solana-labs-inc",
+  "federal_dn_case_type": "cv"
+}

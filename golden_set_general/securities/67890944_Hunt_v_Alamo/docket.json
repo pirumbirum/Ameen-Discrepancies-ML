@@ -1,0 +1,20 @@
+{
+  "id": "67890944",
+  "case_name": "Hunt v. Alamo",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-09151",
+  "docket_number_core": "2309151",
+  "court_id": "nysd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "",
+  "date_filed": "2023-10-17",
+  "date_terminated": "2024-02-09",
+  "date_last_filing": "2024-02-09",
+  "assigned_to_str": "Paul A. Engelmayer",
+  "referred_to_str": "",
+  "pacer_case_id": "608446",
+  "source": "1",
+  "slug": "hunt-v-alamo",
+  "federal_dn_case_type": "cv"
+}

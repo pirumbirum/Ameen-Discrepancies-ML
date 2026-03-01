@@ -1,0 +1,20 @@
+{
+  "id": "17479320",
+  "case_name": "Kaufman v. Salesforce.com, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-06879",
+  "docket_number_core": "2006879",
+  "court_id": "nysd",
+  "nature_of_suit": "Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-08-25",
+  "date_terminated": "2021-06-03",
+  "date_last_filing": "2021-06-10",
+  "assigned_to_str": "John P. Cronan",
+  "referred_to_str": "Sarah Netburn",
+  "pacer_case_id": "542985",
+  "source": "1",
+  "slug": "kaufman-v-salesforcecom-inc",
+  "federal_dn_case_type": "cv"
+}

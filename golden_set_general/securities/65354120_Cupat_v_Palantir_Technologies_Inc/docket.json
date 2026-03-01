@@ -1,0 +1,20 @@
+{
+  "id": "65354120",
+  "case_name": "Cupat v. Palantir Technologies Inc.",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-02384",
+  "docket_number_core": "2202384",
+  "court_id": "cod",
+  "nature_of_suit": "Securities, Commodities, Exchange",
+  "cause": "15:78 Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-09-15",
+  "date_terminated": "2025-04-04",
+  "date_last_filing": "2025-05-28",
+  "assigned_to_str": "Gordon P Gallagher",
+  "referred_to_str": "Susan Prose",
+  "pacer_case_id": "218281",
+  "source": "1",
+  "slug": "cupat-v-palantir-technologies-inc",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "17168008",
+  "case_name": "Bush v. Brown Farms",
+  "case_name_full": "",
+  "docket_number": "3:20-cv-03275",
+  "docket_number_core": "2003275",
+  "court_id": "cand",
+  "nature_of_suit": "Environmental Matters",
+  "cause": "28:1391 Personal Injury",
+  "jurisdiction_type": "Federal question",
+  "date_filed": "2020-05-14",
+  "date_terminated": "2021-03-22",
+  "date_last_filing": "2021-03-22",
+  "assigned_to_str": "James Donato",
+  "referred_to_str": "",
+  "pacer_case_id": "359551",
+  "source": "9",
+  "slug": "bush-v-brown-farms",
+  "federal_dn_case_type": "cv"
+}

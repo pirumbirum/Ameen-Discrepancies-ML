@@ -1,0 +1,20 @@
+{
+  "id": "67406232",
+  "case_name": "John Doe v. MKS Instruments Inc.",
+  "case_name_full": "",
+  "docket_number": "8:23-cv-00868",
+  "docket_number_core": "2300868",
+  "court_id": "cacd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1441 Notice of Removal -- Other Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2023-05-18",
+  "date_terminated": "2024-01-08",
+  "date_last_filing": "2024-03-04",
+  "assigned_to_str": "Cormac J. Carney",
+  "referred_to_str": "Karen E. Scott",
+  "pacer_case_id": "885038",
+  "source": "1",
+  "slug": "john-doe-v-mks-instruments-inc",
+  "federal_dn_case_type": "cv"
+}

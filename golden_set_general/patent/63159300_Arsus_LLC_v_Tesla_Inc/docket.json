@@ -1,0 +1,20 @@
+{
+  "id": "63159300",
+  "case_name": "Arsus, LLC v. Tesla, Inc.",
+  "case_name_full": "",
+  "docket_number": "6:22-cv-00276",
+  "docket_number_core": "2200276",
+  "court_id": "txwd",
+  "nature_of_suit": "Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-03-15",
+  "date_terminated": "2023-06-02",
+  "date_last_filing": "2025-09-03",
+  "assigned_to_str": "Alan D Albright",
+  "referred_to_str": "Derek T. Gilliland",
+  "pacer_case_id": "1165585",
+  "source": "1",
+  "slug": "arsus-llc-v-tesla-inc",
+  "federal_dn_case_type": "cv"
+}

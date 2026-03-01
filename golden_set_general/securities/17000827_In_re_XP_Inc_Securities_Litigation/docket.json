@@ -1,0 +1,20 @@
+{
+  "id": "17000827",
+  "case_name": "In re XP Inc. Securities Litigation",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-01502",
+  "docket_number_core": "2001502",
+  "court_id": "nyed",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-03-21",
+  "date_terminated": "2021-03-09",
+  "date_last_filing": "2021-12-13",
+  "assigned_to_str": "Brian M. Cogan",
+  "referred_to_str": "",
+  "pacer_case_id": "446598",
+  "source": "9",
+  "slug": "in-re-xp-inc-securities-litigation",
+  "federal_dn_case_type": "cv"
+}

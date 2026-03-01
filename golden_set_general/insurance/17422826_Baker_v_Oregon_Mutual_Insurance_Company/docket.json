@@ -1,0 +1,20 @@
+{
+  "id": "17422826",
+  "case_name": "Baker v. Oregon Mutual Insurance Company",
+  "case_name_full": "",
+  "docket_number": "3:20-cv-05467",
+  "docket_number_core": "2005467",
+  "court_id": "cand",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2020-08-06",
+  "date_terminated": "2021-03-25",
+  "date_last_filing": "2022-04-07",
+  "assigned_to_str": "Laurel Beeler",
+  "referred_to_str": "",
+  "pacer_case_id": "363873",
+  "source": "1",
+  "slug": "baker-v-oregon-mutual-insurance-company",
+  "federal_dn_case_type": "cv"
+}

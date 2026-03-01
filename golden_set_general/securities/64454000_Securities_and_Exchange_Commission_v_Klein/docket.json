@@ -1,0 +1,20 @@
+{
+  "id": "64454000",
+  "case_name": "Securities and Exchange Commission v. Klein",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-06426",
+  "docket_number_core": "2206426",
+  "court_id": "nysd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2022-07-28",
+  "date_terminated": "2023-08-02",
+  "date_last_filing": "2023-08-02",
+  "assigned_to_str": "Lorna G. Schofield",
+  "referred_to_str": "Stewart D. Aaron",
+  "pacer_case_id": "583880",
+  "source": "1",
+  "slug": "securities-and-exchange-commission-v-klein",
+  "federal_dn_case_type": "cv"
+}

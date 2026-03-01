@@ -1,0 +1,20 @@
+{
+  "id": "63208129",
+  "case_name": "In re Lucid Group, Inc. Securities Litigation",
+  "case_name_full": "",
+  "docket_number": "3:22-cv-02094",
+  "docket_number_core": "2202094",
+  "court_id": "cand",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "28:1331 Fed. Question: Securities Violation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-04-01",
+  "date_terminated": "",
+  "date_last_filing": "2025-10-03",
+  "assigned_to_str": "Araceli Martinez-Olguin",
+  "referred_to_str": "",
+  "pacer_case_id": "393959",
+  "source": "1",
+  "slug": "in-re-lucid-group-inc-securities-litigation",
+  "federal_dn_case_type": "cv"
+}

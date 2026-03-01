@@ -1,0 +1,20 @@
+{
+  "id": "67885781",
+  "case_name": "Smith v. Crowl",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-01474",
+  "docket_number_core": "2301474",
+  "court_id": "caed",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "",
+  "date_filed": "2023-10-16",
+  "date_terminated": "2024-02-09",
+  "date_last_filing": "2024-02-09",
+  "assigned_to_str": "Jennifer L. Thurston",
+  "referred_to_str": "Barbara A. McAuliffe",
+  "pacer_case_id": "435845",
+  "source": "1",
+  "slug": "smith-v-crowl",
+  "federal_dn_case_type": "cv"
+}

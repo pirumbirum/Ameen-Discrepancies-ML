@@ -1,0 +1,20 @@
+{
+  "id": "65593299",
+  "case_name": "Apple Inc. v. Masimo Corporation",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-01377",
+  "docket_number_core": "2201377",
+  "court_id": "ded",
+  "nature_of_suit": "830 Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-10-20",
+  "date_terminated": "",
+  "date_last_filing": "2025-08-22",
+  "assigned_to_str": "Jennifer L. Hall",
+  "referred_to_str": "Jennifer L. Hall",
+  "pacer_case_id": "80440",
+  "source": "1",
+  "slug": "apple-inc-v-masimo-corporation",
+  "federal_dn_case_type": "cv"
+}

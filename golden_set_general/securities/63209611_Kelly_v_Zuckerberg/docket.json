@@ -1,0 +1,20 @@
+{
+  "id": "63209611",
+  "case_name": "Kelly v. Zuckerberg",
+  "case_name_full": "",
+  "docket_number": "3:22-cv-00430",
+  "docket_number_core": "2200430",
+  "court_id": "casd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "18:1030 Fraud & Related Activity in Connection with Computers",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-04-01",
+  "date_terminated": "2022-05-09",
+  "date_last_filing": "2022-04-04",
+  "assigned_to_str": "Cathy Ann Bencivengo",
+  "referred_to_str": "Karen S. Crawford",
+  "pacer_case_id": "730467",
+  "source": "1",
+  "slug": "kelly-v-zuckerberg",
+  "federal_dn_case_type": "cv"
+}

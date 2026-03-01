@@ -1,0 +1,20 @@
+{
+  "id": "67490214",
+  "case_name": "Pierce v. Bankman-Fried",
+  "case_name_full": "",
+  "docket_number": "3:23-cv-01077",
+  "docket_number_core": "2301077",
+  "court_id": "casd",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "28:1331ra Fed. Question: Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-06-09",
+  "date_terminated": "2023-06-09",
+  "date_last_filing": "2023-06-09",
+  "assigned_to_str": "Anthony J. Battaglia",
+  "referred_to_str": "Barbara Lynn Major",
+  "pacer_case_id": "761164",
+  "source": "1",
+  "slug": "pierce-v-bankman-fried",
+  "federal_dn_case_type": "cv"
+}

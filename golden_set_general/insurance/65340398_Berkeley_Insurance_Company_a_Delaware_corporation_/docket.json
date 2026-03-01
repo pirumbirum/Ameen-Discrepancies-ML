@@ -1,0 +1,20 @@
+{
+  "id": "65340398",
+  "case_name": "Berkeley Insurance Company, a Delaware corporation v. OakCare Medical Group",
+  "case_name_full": "",
+  "docket_number": "3:22-cv-05181",
+  "docket_number_core": "2205181",
+  "court_id": "cand",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-09-12",
+  "date_terminated": "2024-09-18",
+  "date_last_filing": "2024-09-18",
+  "assigned_to_str": "Rita F. Lin",
+  "referred_to_str": "Robert M. Illman",
+  "pacer_case_id": "400300",
+  "source": "1",
+  "slug": "berkeley-insurance-company-a-delaware-corporation-v-oakcare-medical-group",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "65230578",
+  "case_name": "Smith v. Brown University",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-00329",
+  "docket_number_core": "2200329",
+  "court_id": "rid",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1330 Breach of Contract",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-09-09",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-30",
+  "assigned_to_str": "John J. McConnell Jr.",
+  "referred_to_str": "Patricia A. Sullivan",
+  "pacer_case_id": "54235",
+  "source": "1",
+  "slug": "smith-v-brown-university",
+  "federal_dn_case_type": "cv"
+}

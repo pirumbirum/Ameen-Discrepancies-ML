@@ -1,0 +1,20 @@
+{
+  "id": "67621638",
+  "case_name": "McCarthy v. Minnesota Lawyers Mutual Insurance Company",
+  "case_name_full": "",
+  "docket_number": "3:23-cv-00450",
+  "docket_number_core": "2300450",
+  "court_id": "pamd",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-(Citizenship)",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2023-03-14",
+  "date_terminated": "2023-12-29",
+  "date_last_filing": "2024-01-08",
+  "assigned_to_str": "Julia K Munley",
+  "referred_to_str": "",
+  "pacer_case_id": "137228",
+  "source": "1",
+  "slug": "mccarthy-v-minnesota-lawyers-mutual-insurance-company",
+  "federal_dn_case_type": "cv"
+}

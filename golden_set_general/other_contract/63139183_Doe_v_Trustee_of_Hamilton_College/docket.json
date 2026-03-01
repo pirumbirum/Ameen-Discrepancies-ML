@@ -1,0 +1,20 @@
+{
+  "id": "63139183",
+  "case_name": "Doe v. Trustee of Hamilton College",
+  "case_name_full": "",
+  "docket_number": "6:22-cv-00214",
+  "docket_number_core": "2200214",
+  "court_id": "nynd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "20:1681 Title IX Educational Amendments 1992 - Sex Discrimination",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-03-04",
+  "date_terminated": "2024-11-20",
+  "date_last_filing": "2024-11-20",
+  "assigned_to_str": "Mae A. D'Agostino",
+  "referred_to_str": "Mitchell J. Katz",
+  "pacer_case_id": "131853",
+  "source": "1",
+  "slug": "doe-v-trustee-of-hamilton-college",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "67216085",
+  "case_name": "US Patent No 7,679,637 LLC v. Google LLC",
+  "case_name_full": "",
+  "docket_number": "2:23-cv-00592",
+  "docket_number_core": "2300592",
+  "court_id": "wawd",
+  "nature_of_suit": "Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-04-18",
+  "date_terminated": "2024-01-25",
+  "date_last_filing": "2024-02-27",
+  "assigned_to_str": "John H. Chun",
+  "referred_to_str": "",
+  "pacer_case_id": "321228",
+  "source": "1",
+  "slug": "us-patent-no-7679637-llc-v-google-llc",
+  "federal_dn_case_type": "cv"
+}

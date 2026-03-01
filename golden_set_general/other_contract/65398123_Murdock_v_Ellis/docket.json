@@ -1,0 +1,20 @@
+{
+  "id": "65398123",
+  "case_name": "Murdock v. Ellis",
+  "case_name_full": "",
+  "docket_number": "3:22-cv-00520",
+  "docket_number_core": "2200520",
+  "court_id": "ncwd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1330 Breach of Contract",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-10-03",
+  "date_terminated": "2023-04-13",
+  "date_last_filing": "2023-04-13",
+  "assigned_to_str": "Frank D. Whitney",
+  "referred_to_str": "Susan C. Rodriguez",
+  "pacer_case_id": "109856",
+  "source": "1",
+  "slug": "murdock-v-ellis",
+  "federal_dn_case_type": "cv"
+}

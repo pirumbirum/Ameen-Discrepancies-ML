@@ -1,0 +1,20 @@
+{
+  "id": "7139958",
+  "case_name": "In Re PG&E Corporation Securities Litigation",
+  "case_name_full": "",
+  "docket_number": "5:18-cv-03509",
+  "docket_number_core": "1803509",
+  "court_id": "cand",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "28:1331 Fed. Question: Securities Violation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2018-06-12",
+  "date_terminated": "2022-09-30",
+  "date_last_filing": "2025-12-22",
+  "assigned_to_str": "Edward J. Davila",
+  "referred_to_str": "Susan Van Keulen",
+  "pacer_case_id": "327820",
+  "source": "9",
+  "slug": "in-re-pge-corporation-securities-litigation",
+  "federal_dn_case_type": "cv"
+}

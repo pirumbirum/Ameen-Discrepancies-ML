@@ -1,0 +1,20 @@
+{
+  "id": "68892373",
+  "case_name": "Benton v. Founders Federal Credit Union",
+  "case_name_full": "",
+  "docket_number": "3:24-cv-03710",
+  "docket_number_core": "2403710",
+  "court_id": "scd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1331 Fed. Question: Breach of Contract",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-06-27",
+  "date_terminated": "2024-08-21",
+  "date_last_filing": "2024-08-21",
+  "assigned_to_str": "Mary Geiger Lewis",
+  "referred_to_str": "Paige J. Gossett",
+  "pacer_case_id": "293000",
+  "source": "1",
+  "slug": "benton-v-founders-federal-credit-union",
+  "federal_dn_case_type": "cv"
+}

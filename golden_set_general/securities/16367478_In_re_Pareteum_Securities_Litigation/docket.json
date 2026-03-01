@@ -1,0 +1,20 @@
+{
+  "id": "16367478",
+  "case_name": "In re Pareteum Securities Litigation",
+  "case_name_full": "",
+  "docket_number": "1:19-cv-09767",
+  "docket_number_core": "1909767",
+  "court_id": "nysd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-10-22",
+  "date_terminated": "2023-05-03",
+  "date_last_filing": "2025-07-07",
+  "assigned_to_str": "Alvin K. Hellerstein",
+  "referred_to_str": "",
+  "pacer_case_id": "525046",
+  "source": "9",
+  "slug": "in-re-pareteum-securities-litigation",
+  "federal_dn_case_type": "cv"
+}

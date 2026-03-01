@@ -1,0 +1,20 @@
+{
+  "id": "66732000",
+  "case_name": "David v. Girardi",
+  "case_name_full": "",
+  "docket_number": "3:23-cv-00108",
+  "docket_number_core": "2300108",
+  "court_id": "txnd",
+  "nature_of_suit": "470 Other Statutes: Racketeer Influenced and Corrupt Organizations",
+  "cause": "18:1964 Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-01-13",
+  "date_terminated": "2023-01-27",
+  "date_last_filing": "2023-03-01",
+  "assigned_to_str": "Sam A. Lindsay",
+  "referred_to_str": "",
+  "pacer_case_id": "372013",
+  "source": "1",
+  "slug": "david-v-girardi",
+  "federal_dn_case_type": "cv"
+}

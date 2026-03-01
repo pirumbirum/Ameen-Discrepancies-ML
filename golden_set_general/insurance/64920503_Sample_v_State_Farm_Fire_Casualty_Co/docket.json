@@ -1,0 +1,20 @@
+{
+  "id": "64920503",
+  "case_name": "Sample v. State Farm Fire & Casualty Co",
+  "case_name_full": "",
+  "docket_number": "2:22-cv-04150",
+  "docket_number_core": "2204150",
+  "court_id": "lawd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "",
+  "date_filed": "2022-08-25",
+  "date_terminated": "2023-10-13",
+  "date_last_filing": "2023-11-27",
+  "assigned_to_str": "James D Cain, Jr",
+  "referred_to_str": "Kathleen Kay",
+  "pacer_case_id": "194086",
+  "source": "1",
+  "slug": "sample-v-state-farm-fire-casualty-co",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "63391145",
+  "case_name": "In Re: Tesla Inc. Stockholder Derivative Litigation",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-00592",
+  "docket_number_core": "2200592",
+  "court_id": "txwd",
+  "nature_of_suit": "160 Stockholders Suits",
+  "cause": "28:1332 Diversity-Breach of Fiduciary Duty",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-06-16",
+  "date_terminated": "2025-03-12",
+  "date_last_filing": "2025-03-12",
+  "assigned_to_str": "David A. Ezra",
+  "referred_to_str": "",
+  "pacer_case_id": "1178532",
+  "source": "1",
+  "slug": "in-re-tesla-inc-stockholder-derivative-litigation",
+  "federal_dn_case_type": "cv"
+}

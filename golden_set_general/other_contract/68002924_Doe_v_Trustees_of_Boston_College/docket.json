@@ -1,0 +1,20 @@
+{
+  "id": "68002924",
+  "case_name": "Doe v. Trustees of Boston College",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-12737",
+  "docket_number_core": "2312737",
+  "court_id": "mad",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2023-11-10",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-18",
+  "assigned_to_str": "Allison D. Burroughs",
+  "referred_to_str": "",
+  "pacer_case_id": "263577",
+  "source": "1",
+  "slug": "doe-v-trustees-of-boston-college",
+  "federal_dn_case_type": "cv"
+}

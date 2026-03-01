@@ -1,0 +1,20 @@
+{
+  "id": "66820843",
+  "case_name": "Securities and Exchange Commission v. Terraform Labs Pte Ltd.",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-01346",
+  "docket_number_core": "2301346",
+  "court_id": "nysd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "12:22 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-02-16",
+  "date_terminated": "2024-06-12",
+  "date_last_filing": "2024-06-12",
+  "assigned_to_str": "Jed S. Rakoff",
+  "referred_to_str": "",
+  "pacer_case_id": "594150",
+  "source": "1",
+  "slug": "securities-and-exchange-commission-v-terraform-labs-pte-ltd",
+  "federal_dn_case_type": "cv"
+}

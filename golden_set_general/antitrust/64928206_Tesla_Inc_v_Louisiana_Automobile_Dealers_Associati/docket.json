@@ -1,0 +1,20 @@
+{
+  "id": "64928206",
+  "case_name": "Tesla Inc. v. Louisiana Automobile Dealers Association",
+  "case_name_full": "",
+  "docket_number": "2:22-cv-02982",
+  "docket_number_core": "2202982",
+  "court_id": "laed",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "15:1 Antitrust Litigation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-08-26",
+  "date_terminated": "2023-06-16",
+  "date_last_filing": "2025-07-21",
+  "assigned_to_str": "Brandon S. Long",
+  "referred_to_str": "Donna Phillips Currault",
+  "pacer_case_id": "255844",
+  "source": "1",
+  "slug": "tesla-inc-v-louisiana-automobile-dealers-association",
+  "federal_dn_case_type": "cv"
+}

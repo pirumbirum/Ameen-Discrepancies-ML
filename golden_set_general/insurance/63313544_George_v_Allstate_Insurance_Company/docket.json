@@ -1,0 +1,20 @@
+{
+  "id": "63313544",
+  "case_name": "George v. Allstate Insurance Company",
+  "case_name_full": "",
+  "docket_number": "4:22-cv-00532",
+  "docket_number_core": "2200532",
+  "court_id": "moed",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-05-16",
+  "date_terminated": "2023-07-31",
+  "date_last_filing": "2023-07-31",
+  "assigned_to_str": "Matthew T. Schelp",
+  "referred_to_str": "",
+  "pacer_case_id": "195590",
+  "source": "1",
+  "slug": "george-v-allstate-insurance-company",
+  "federal_dn_case_type": "cv"
+}

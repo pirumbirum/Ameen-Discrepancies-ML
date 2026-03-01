@@ -1,0 +1,20 @@
+{
+  "id": "63383213",
+  "case_name": "Auer v. State Farm Mutual Automobile Insurance Company",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-01454",
+  "docket_number_core": "2201454",
+  "court_id": "cod",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-06-09",
+  "date_terminated": "2025-01-15",
+  "date_last_filing": "2025-01-15",
+  "assigned_to_str": "Raymond P. Moore",
+  "referred_to_str": "N. Reid Neureiter",
+  "pacer_case_id": "215901",
+  "source": "1",
+  "slug": "auer-v-state-farm-mutual-automobile-insurance-company",
+  "federal_dn_case_type": "cv"
+}

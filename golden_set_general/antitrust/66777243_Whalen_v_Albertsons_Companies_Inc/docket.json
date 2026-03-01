@@ -1,0 +1,20 @@
+{
+  "id": "66777243",
+  "case_name": "Whalen v. Albertsons Companies Inc.",
+  "case_name_full": "",
+  "docket_number": "3:23-cv-00459",
+  "docket_number_core": "2300459",
+  "court_id": "cand",
+  "nature_of_suit": "410 Anti-Trust",
+  "cause": "15:1 Antitrust Litigation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-01-31",
+  "date_terminated": "2025-02-03",
+  "date_last_filing": "2025-05-02",
+  "assigned_to_str": "Vince Chhabria",
+  "referred_to_str": "Laurel Beeler",
+  "pacer_case_id": "407838",
+  "source": "1",
+  "slug": "whalen-v-albertsons-companies-inc",
+  "federal_dn_case_type": "cv"
+}

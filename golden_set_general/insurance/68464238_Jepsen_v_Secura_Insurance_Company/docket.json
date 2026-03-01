@@ -1,0 +1,20 @@
+{
+  "id": "68464238",
+  "case_name": "Jepsen v. Secura Insurance Company",
+  "case_name_full": "",
+  "docket_number": "5:24-cv-04022",
+  "docket_number_core": "2404022",
+  "court_id": "iand",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1441 Petition for Removal- Breach of Contract",
+  "jurisdiction_type": "",
+  "date_filed": "2024-04-22",
+  "date_terminated": "",
+  "date_last_filing": "2025-07-05",
+  "assigned_to_str": "CJ Williams",
+  "referred_to_str": "Mark A Roberts",
+  "pacer_case_id": "66243",
+  "source": "1",
+  "slug": "jepsen-v-secura-insurance-company",
+  "federal_dn_case_type": "cv"
+}

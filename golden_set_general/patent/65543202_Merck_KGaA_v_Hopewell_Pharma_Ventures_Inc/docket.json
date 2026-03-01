@@ -1,0 +1,20 @@
+{
+  "id": "65543202",
+  "case_name": "Merck KGaA v. Hopewell Pharma Ventures, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-01365",
+  "docket_number_core": "2201365",
+  "court_id": "ded",
+  "nature_of_suit": "835 Patent - Abbreviated New Drug Application(ANDA)",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-10-17",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-04",
+  "assigned_to_str": "Gregory B. Williams",
+  "referred_to_str": "Christopher J. Burke",
+  "pacer_case_id": "80395",
+  "source": "1",
+  "slug": "merck-kgaa-v-hopewell-pharma-ventures-inc",
+  "federal_dn_case_type": "cv"
+}

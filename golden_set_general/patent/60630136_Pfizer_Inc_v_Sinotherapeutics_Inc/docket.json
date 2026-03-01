@@ -1,0 +1,20 @@
+{
+  "id": "60630136",
+  "case_name": "Pfizer Inc. v. Sinotherapeutics Inc.",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-01427",
+  "docket_number_core": "2101427",
+  "court_id": "ded",
+  "nature_of_suit": "835 Patent - Abbreviated New Drug Application(ANDA)",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-10-06",
+  "date_terminated": "2024-10-03",
+  "date_last_filing": "2024-10-04",
+  "assigned_to_str": "Gregory B. Williams",
+  "referred_to_str": "",
+  "pacer_case_id": "76770",
+  "source": "1",
+  "slug": "pfizer-inc-v-sinotherapeutics-inc",
+  "federal_dn_case_type": "cv"
+}

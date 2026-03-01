@@ -1,0 +1,20 @@
+{
+  "id": "17309960",
+  "case_name": "Pierce v. Grinnell Select Insurance Company",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-00144",
+  "docket_number_core": "2000144",
+  "court_id": "moed",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-(Citizenship)",
+  "jurisdiction_type": "Diversity of citizenship",
+  "date_filed": "2020-06-30",
+  "date_terminated": "2021-06-03",
+  "date_last_filing": "2021-06-03",
+  "assigned_to_str": "Stephen N. Limbaugh, Jr",
+  "referred_to_str": "",
+  "pacer_case_id": "181210",
+  "source": "9",
+  "slug": "pierce-v-grinnell-select-insurance-company",
+  "federal_dn_case_type": "cv"
+}

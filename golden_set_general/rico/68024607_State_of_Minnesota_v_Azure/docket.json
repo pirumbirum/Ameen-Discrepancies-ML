@@ -1,0 +1,20 @@
+{
+  "id": "68024607",
+  "case_name": "State of Minnesota v. Azure",
+  "case_name_full": "",
+  "docket_number": "0:23-cv-03321",
+  "docket_number_core": "2303321",
+  "court_id": "mnd",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "18:1962 Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-10-30",
+  "date_terminated": "2024-02-27",
+  "date_last_filing": "2024-04-09",
+  "assigned_to_str": "Patrick J. Schiltz",
+  "referred_to_str": "Dulce J. Foster",
+  "pacer_case_id": "211352",
+  "source": "1",
+  "slug": "state-of-minnesota-v-azure",
+  "federal_dn_case_type": "cv"
+}

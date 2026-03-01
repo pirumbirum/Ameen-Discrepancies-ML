@@ -1,0 +1,20 @@
+{
+  "id": "16176667",
+  "case_name": "ZapFraud, Inc. v. Barracuda Networks, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:19-cv-01687",
+  "docket_number_core": "1901687",
+  "court_id": "ded",
+  "nature_of_suit": "830 Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-09-10",
+  "date_terminated": "2021-10-04",
+  "date_last_filing": "2021-10-04",
+  "assigned_to_str": "Colm F. Connolly",
+  "referred_to_str": "Christopher J. Burke",
+  "pacer_case_id": "69973",
+  "source": "9",
+  "slug": "zapfraud-inc-v-barracuda-networks-inc",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "17000419",
+  "case_name": "Smith v. American National Property and Casualty Company",
+  "case_name_full": "",
+  "docket_number": "4:20-cv-00115",
+  "docket_number_core": "2000115",
+  "court_id": "oknd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2020-03-20",
+  "date_terminated": "2021-07-07",
+  "date_last_filing": "2021-08-05",
+  "assigned_to_str": "Gregory K. Frizzell",
+  "referred_to_str": "Susan E. Huntsman",
+  "pacer_case_id": "51150",
+  "source": "9",
+  "slug": "smith-v-american-national-property-and-casualty-company",
+  "federal_dn_case_type": "cv"
+}

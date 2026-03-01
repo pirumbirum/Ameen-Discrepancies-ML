@@ -1,0 +1,20 @@
+{
+  "id": "67412141",
+  "case_name": "Mylan Pharmaceuticals Inc. v. Bayer Intellectual Property GMBH",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-00556",
+  "docket_number_core": "2300556",
+  "court_id": "ded",
+  "nature_of_suit": "Patent - Abbreviated New Drug Application(ANDA)",
+  "cause": "35:1 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-05-19",
+  "date_terminated": "2024-03-14",
+  "date_last_filing": "2024-03-14",
+  "assigned_to_str": "Richard G. Andrews",
+  "referred_to_str": "",
+  "pacer_case_id": "82536",
+  "source": "1",
+  "slug": "mylan-pharmaceuticals-inc-v-bayer-intellectual-property-gmbh",
+  "federal_dn_case_type": "cv"
+}

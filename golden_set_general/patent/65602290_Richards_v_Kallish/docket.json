@@ -1,0 +1,20 @@
+{
+  "id": "65602290",
+  "case_name": "Richards v. Kallish",
+  "case_name_full": "",
+  "docket_number": "7:22-cv-09095",
+  "docket_number_core": "2209095",
+  "court_id": "nysd",
+  "nature_of_suit": "Patent",
+  "cause": "35:256 Patent Non-Infringement (Correction of Named Inventor)",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-10-24",
+  "date_terminated": "",
+  "date_last_filing": "2025-10-07",
+  "assigned_to_str": "Cathy Seibel",
+  "referred_to_str": "Victoria Reznik",
+  "pacer_case_id": "588304",
+  "source": "1",
+  "slug": "richards-v-kallish",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "8434080",
+  "case_name": "Garcia v. United States",
+  "case_name_full": "",
+  "docket_number": "3:18-cv-00176",
+  "docket_number_core": "1800176",
+  "court_id": "ord",
+  "nature_of_suit": "Insurance",
+  "cause": "42:1983 Prisoner Civil Rights",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2018-01-26",
+  "date_terminated": "",
+  "date_last_filing": "2025-10-27",
+  "assigned_to_str": "",
+  "referred_to_str": "",
+  "pacer_case_id": "135153",
+  "source": "9",
+  "slug": "garcia-v-united-states",
+  "federal_dn_case_type": "cv"
+}

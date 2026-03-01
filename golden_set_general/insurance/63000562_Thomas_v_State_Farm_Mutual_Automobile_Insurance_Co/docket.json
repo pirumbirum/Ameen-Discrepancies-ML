@@ -1,0 +1,20 @@
+{
+  "id": "63000562",
+  "case_name": "Thomas v. State Farm Mutual Automobile Insurance Company",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-00341",
+  "docket_number_core": "2200341",
+  "court_id": "cod",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-02-07",
+  "date_terminated": "2024-01-19",
+  "date_last_filing": "2024-01-19",
+  "assigned_to_str": "Charlotte N. Sweeney",
+  "referred_to_str": "Kathryn A. Starnella",
+  "pacer_case_id": "212955",
+  "source": "1",
+  "slug": "thomas-v-state-farm-mutual-automobile-insurance-company",
+  "federal_dn_case_type": "cv"
+}

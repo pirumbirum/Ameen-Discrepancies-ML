@@ -1,0 +1,20 @@
+{
+  "id": "68399667",
+  "case_name": "Saul v. Thomas",
+  "case_name_full": "",
+  "docket_number": "1:24-cv-00315",
+  "docket_number_core": "2400315",
+  "court_id": "nmd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1345 Property Damage",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-04-02",
+  "date_terminated": "2024-05-01",
+  "date_last_filing": "2024-05-01",
+  "assigned_to_str": "Martha Vazquez",
+  "referred_to_str": "John F. Robbenhaar",
+  "pacer_case_id": "499869",
+  "source": "1",
+  "slug": "saul-v-thomas",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "60375107",
+  "case_name": "Garza v. American Family Insurance Company",
+  "case_name_full": "",
+  "docket_number": "2:21-cv-01234",
+  "docket_number_core": "2101234",
+  "court_id": "wawd",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1442 Petition for Removal- Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2021-09-09",
+  "date_terminated": "2021-11-19",
+  "date_last_filing": "2021-12-06",
+  "assigned_to_str": "Thomas S. Zilly",
+  "referred_to_str": "",
+  "pacer_case_id": "303327",
+  "source": "1",
+  "slug": "garza-v-american-family-insurance-company",
+  "federal_dn_case_type": "cv"
+}

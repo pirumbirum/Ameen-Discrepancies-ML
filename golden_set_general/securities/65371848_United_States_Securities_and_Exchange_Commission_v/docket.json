@@ -1,0 +1,20 @@
+{
+  "id": "65371848",
+  "case_name": "United States Securities and Exchange Commission v. Morningview Financial LLC",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-08142",
+  "docket_number_core": "2208142",
+  "court_id": "nysd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2022-09-23",
+  "date_terminated": "2024-12-23",
+  "date_last_filing": "2025-05-14",
+  "assigned_to_str": "Victor Marrero",
+  "referred_to_str": "",
+  "pacer_case_id": "586803",
+  "source": "1",
+  "slug": "united-states-securities-and-exchange-commission-v-morningview-financial",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "17130438",
+  "case_name": "In re JPMorgan Treasury Futures Spoofing Litig.",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-03515",
+  "docket_number_core": "2003515",
+  "court_id": "nysd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "07:4(b) Agriculture, Commodity Exchanges",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-05-05",
+  "date_terminated": "2022-06-03",
+  "date_last_filing": "2024-12-13",
+  "assigned_to_str": "Paul A. Engelmayer",
+  "referred_to_str": "",
+  "pacer_case_id": "536703",
+  "source": "9",
+  "slug": "in-re-jpmorgan-treasury-futures-spoofing-litig",
+  "federal_dn_case_type": "cv"
+}

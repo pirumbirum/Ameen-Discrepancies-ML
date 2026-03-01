@@ -1,0 +1,20 @@
+{
+  "id": "60073850",
+  "case_name": "Urban v. Zurich American Insurance Company",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-11182",
+  "docket_number_core": "2111182",
+  "court_id": "mad",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2021-07-21",
+  "date_terminated": "2024-09-30",
+  "date_last_filing": "2025-12-17",
+  "assigned_to_str": "Angel Kelley",
+  "referred_to_str": "",
+  "pacer_case_id": "236570",
+  "source": "1",
+  "slug": "urban-v-zurich-american-insurance-company",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "63394813",
+  "case_name": "Smith v. Mt. Hawley Insurance Company",
+  "case_name_full": "",
+  "docket_number": "8:22-cv-01386",
+  "docket_number_core": "2201386",
+  "court_id": "flmd",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Notice of Removal",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-06-17",
+  "date_terminated": "2022-11-14",
+  "date_last_filing": "2022-11-18",
+  "assigned_to_str": "Charlene Edwards Honeywell",
+  "referred_to_str": "Thomas G. Wilson",
+  "pacer_case_id": "402806",
+  "source": "1",
+  "slug": "smith-v-mt-hawley-insurance-company",
+  "federal_dn_case_type": "cv"
+}

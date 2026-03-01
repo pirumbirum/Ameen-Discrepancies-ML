@@ -1,0 +1,20 @@
+{
+  "id": "67313208",
+  "case_name": "Kansas, State of, ex rel., Kris W. Kobach, Attorney General v. Macquarie Energy LLC",
+  "case_name_full": "",
+  "docket_number": "5:23-cv-04035",
+  "docket_number_core": "2304035",
+  "court_id": "ksd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "7:6(b) Federal Commodity Exchange Regulation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-05-02",
+  "date_terminated": "2023-10-05",
+  "date_last_filing": "2024-04-05",
+  "assigned_to_str": "Daniel D. Crabtree",
+  "referred_to_str": "Rachel E. Schwartz",
+  "pacer_case_id": "147058",
+  "source": "1",
+  "slug": "kansas-state-of-ex-rel-kris-w-kobach-attorney-general-v-macquarie",
+  "federal_dn_case_type": "cv"
+}

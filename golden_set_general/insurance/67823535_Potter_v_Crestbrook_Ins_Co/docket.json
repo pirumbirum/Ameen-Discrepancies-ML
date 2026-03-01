@@ -1,0 +1,20 @@
+{
+  "id": "67823535",
+  "case_name": "Potter v. Crestbrook Ins. Co.",
+  "case_name_full": "",
+  "docket_number": "5:23-cv-00098",
+  "docket_number_core": "2300098",
+  "court_id": "txed",
+  "nature_of_suit": "Insurance",
+  "cause": "12:635 Breach of Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2023-09-25",
+  "date_terminated": "2025-01-29",
+  "date_last_filing": "2025-01-29",
+  "assigned_to_str": "Robert W. Schroeder, III",
+  "referred_to_str": "James Boone Baxter",
+  "pacer_case_id": "225153",
+  "source": "1",
+  "slug": "potter-v-crestbrook-ins-co",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "68548793",
+  "case_name": "IN RE AT&T SECURITIES LITIGATION",
+  "case_name_full": "",
+  "docket_number": "3:24-cv-01196",
+  "docket_number_core": "2401196",
+  "court_id": "txnd",
+  "nature_of_suit": "850 Other Statutes: Securities/Commodities/Exchange",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-05-20",
+  "date_terminated": "",
+  "date_last_filing": "2025-10-16",
+  "assigned_to_str": "David C. Godbey",
+  "referred_to_str": "",
+  "pacer_case_id": "390009",
+  "source": "1",
+  "slug": "in-re-att-securities-litigation",
+  "federal_dn_case_type": "cv"
+}

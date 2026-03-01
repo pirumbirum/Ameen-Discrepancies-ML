@@ -1,0 +1,20 @@
+{
+  "id": "67183819",
+  "case_name": "Plunk v. Shelter Mutual Insurance Company",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-01058",
+  "docket_number_core": "2301058",
+  "court_id": "tnwd",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2023-04-13",
+  "date_terminated": "2025-01-02",
+  "date_last_filing": "2025-12-29",
+  "assigned_to_str": "J. Daniel Breen",
+  "referred_to_str": "Jon A. York",
+  "pacer_case_id": "98549",
+  "source": "1",
+  "slug": "plunk-v-shelter-mutual-insurance-company",
+  "federal_dn_case_type": "cv"
+}

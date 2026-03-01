@@ -1,0 +1,20 @@
+{
+  "id": "29083275",
+  "case_name": "Shapiro v. Biogen Inc.",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-10017",
+  "docket_number_core": "2110017",
+  "court_id": "mad",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-01-05",
+  "date_terminated": "2021-03-30",
+  "date_last_filing": "2021-03-30",
+  "assigned_to_str": "Indira Talwani",
+  "referred_to_str": "",
+  "pacer_case_id": "229274",
+  "source": "1",
+  "slug": "shapiro-v-biogen-inc",
+  "federal_dn_case_type": "cv"
+}

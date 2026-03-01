@@ -1,0 +1,20 @@
+{
+  "id": "69830084",
+  "case_name": "George v. United Healthcare Services, Inc",
+  "case_name_full": "",
+  "docket_number": "3:25-cv-00071",
+  "docket_number_core": "2500071",
+  "court_id": "ndd",
+  "nature_of_suit": "Insurance",
+  "cause": "29:1132 ERISA - Employee Benefits",
+  "jurisdiction_type": "",
+  "date_filed": "2025-04-01",
+  "date_terminated": "",
+  "date_last_filing": "2025-04-25",
+  "assigned_to_str": "Peter D. Welte",
+  "referred_to_str": "Alice R. Senechal",
+  "pacer_case_id": "67686",
+  "source": "1",
+  "slug": "george-v-united-healthcare-services-inc",
+  "federal_dn_case_type": "cv"
+}

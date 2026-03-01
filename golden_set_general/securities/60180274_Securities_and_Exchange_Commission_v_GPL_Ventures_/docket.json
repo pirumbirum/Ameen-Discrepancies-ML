@@ -1,0 +1,20 @@
+{
+  "id": "60180274",
+  "case_name": "Securities and Exchange Commission v. GPL Ventures LLC",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-06814",
+  "docket_number_core": "2106814",
+  "court_id": "nysd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2021-08-13",
+  "date_terminated": "2023-07-28",
+  "date_last_filing": "2025-09-16",
+  "assigned_to_str": "Alvin K. Hellerstein",
+  "referred_to_str": "Robert W. Lehrburger",
+  "pacer_case_id": "564970",
+  "source": "1",
+  "slug": "securities-and-exchange-commission-v-gpl-ventures-llc",
+  "federal_dn_case_type": "cv"
+}

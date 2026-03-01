@@ -1,0 +1,20 @@
+{
+  "id": "70763003",
+  "case_name": "Nixon v. Trump",
+  "case_name_full": "",
+  "docket_number": "2:25-cv-00604",
+  "docket_number_core": "2500604",
+  "court_id": "flmd",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "18:1961 Racketeering (RICO) Act",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2025-07-10",
+  "date_terminated": "",
+  "date_last_filing": "2025-08-14",
+  "assigned_to_str": "John L. Badalamenti",
+  "referred_to_str": "Nicholas P. Mizell",
+  "pacer_case_id": "444442",
+  "source": "1",
+  "slug": "nixon-v-trump",
+  "federal_dn_case_type": "cv"
+}

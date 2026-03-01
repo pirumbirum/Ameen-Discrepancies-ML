@@ -1,0 +1,20 @@
+{
+  "id": "62622581",
+  "case_name": "BIGGS v. ERIE INSURANCE EXCHANGE",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-00050",
+  "docket_number_core": "2200050",
+  "court_id": "ncmd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Declaratory Judgment",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-01-24",
+  "date_terminated": "2022-05-31",
+  "date_last_filing": "2022-05-31",
+  "assigned_to_str": "THOMAS D. SCHROEDER",
+  "referred_to_str": "JOI ELIZABETH PEAKE",
+  "pacer_case_id": "91209",
+  "source": "1",
+  "slug": "biggs-v-erie-insurance-exchange",
+  "federal_dn_case_type": "cv"
+}

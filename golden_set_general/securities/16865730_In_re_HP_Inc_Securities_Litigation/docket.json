@@ -1,0 +1,20 @@
+{
+  "id": "16865730",
+  "case_name": "In re HP Inc. Securities Litigation",
+  "case_name_full": "",
+  "docket_number": "3:20-cv-01260",
+  "docket_number_core": "2001260",
+  "court_id": "cand",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "28:1331 Fed. Question: Securities Violation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-02-19",
+  "date_terminated": "2021-09-15",
+  "date_last_filing": "2025-09-30",
+  "assigned_to_str": "Susan Illston",
+  "referred_to_str": "",
+  "pacer_case_id": "355657",
+  "source": "9",
+  "slug": "in-re-hp-inc-securities-litigation",
+  "federal_dn_case_type": "cv"
+}

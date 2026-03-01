@@ -1,0 +1,20 @@
+{
+  "id": "63597120",
+  "case_name": "Denver v. Markel Corporation",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-11150",
+  "docket_number_core": "2211150",
+  "court_id": "mad",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1333 Admiralty",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-07-15",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-30",
+  "assigned_to_str": "Allison D. Burroughs",
+  "referred_to_str": "M. Page Kelley",
+  "pacer_case_id": "246533",
+  "source": "1",
+  "slug": "denver-v-markel-corporation",
+  "federal_dn_case_type": "cv"
+}

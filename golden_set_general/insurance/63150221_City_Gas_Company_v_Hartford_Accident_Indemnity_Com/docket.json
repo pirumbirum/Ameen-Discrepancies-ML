@@ -1,0 +1,20 @@
+{
+  "id": "63150221",
+  "case_name": "City Gas Company v. Hartford Accident & Indemnity Company",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-00311",
+  "docket_number_core": "2200311",
+  "court_id": "wied",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-03-10",
+  "date_terminated": "2025-01-07",
+  "date_last_filing": "2025-01-07",
+  "assigned_to_str": "William C Griesbach",
+  "referred_to_str": "",
+  "pacer_case_id": "98380",
+  "source": "1",
+  "slug": "city-gas-company-v-hartford-accident-indemnity-company",
+  "federal_dn_case_type": "cv"
+}

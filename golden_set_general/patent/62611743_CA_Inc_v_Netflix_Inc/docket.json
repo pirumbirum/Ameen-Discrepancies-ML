@@ -1,0 +1,20 @@
+{
+  "id": "62611743",
+  "case_name": "CA, Inc. v. Netflix, Inc.",
+  "case_name_full": "",
+  "docket_number": "3:22-cv-00373",
+  "docket_number_core": "2200373",
+  "court_id": "cand",
+  "nature_of_suit": "830 Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-01-19",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-22",
+  "assigned_to_str": "Edward M. Chen",
+  "referred_to_str": "",
+  "pacer_case_id": "390780",
+  "source": "1",
+  "slug": "ca-inc-v-netflix-inc",
+  "federal_dn_case_type": "cv"
+}

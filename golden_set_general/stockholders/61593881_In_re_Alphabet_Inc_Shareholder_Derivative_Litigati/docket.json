@@ -1,0 +1,20 @@
+{
+  "id": "61593881",
+  "case_name": "In re Alphabet, Inc., Shareholder Derivative Litigation",
+  "case_name_full": "",
+  "docket_number": "3:21-cv-09388",
+  "docket_number_core": "2109388",
+  "court_id": "cand",
+  "nature_of_suit": "Stockholders Suits",
+  "cause": "28:1332 Diversity-Stockholders Suits",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2021-12-03",
+  "date_terminated": "2025-10-03",
+  "date_last_filing": "2025-10-22",
+  "assigned_to_str": "Rita F. Lin",
+  "referred_to_str": "",
+  "pacer_case_id": "388891",
+  "source": "1",
+  "slug": "in-re-alphabet-inc-shareholder-derivative-litigation",
+  "federal_dn_case_type": "cv"
+}

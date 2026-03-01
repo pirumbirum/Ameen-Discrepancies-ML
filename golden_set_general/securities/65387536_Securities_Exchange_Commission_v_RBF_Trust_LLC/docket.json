@@ -1,0 +1,20 @@
+{
+  "id": "65387536",
+  "case_name": "Securities & Exchange Commission v. RBF Trust LLC",
+  "case_name_full": "",
+  "docket_number": "0:22-cv-61831",
+  "docket_number_core": "2261831",
+  "court_id": "flsd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:0077 Securities Fraud",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2022-09-29",
+  "date_terminated": "2025-06-11",
+  "date_last_filing": "2025-12-11",
+  "assigned_to_str": "Raag Singhal",
+  "referred_to_str": "Alicia O. Valle",
+  "pacer_case_id": "621099",
+  "source": "1",
+  "slug": "securities-exchange-commission-v-rbf-trust-llc",
+  "federal_dn_case_type": "cv"
+}

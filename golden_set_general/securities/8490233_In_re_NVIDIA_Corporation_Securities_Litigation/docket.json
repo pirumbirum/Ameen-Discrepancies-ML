@@ -1,0 +1,20 @@
+{
+  "id": "8490233",
+  "case_name": "In re NVIDIA Corporation Securities Litigation",
+  "case_name_full": "",
+  "docket_number": "4:18-cv-07669",
+  "docket_number_core": "1807669",
+  "court_id": "cand",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2018-12-21",
+  "date_terminated": "2021-03-02",
+  "date_last_filing": "2025-11-28",
+  "assigned_to_str": "Haywood S. Gilliam Jr.",
+  "referred_to_str": "",
+  "pacer_case_id": "336305",
+  "source": "9",
+  "slug": "in-re-nvidia-corporation-securities-litigation",
+  "federal_dn_case_type": "cv"
+}

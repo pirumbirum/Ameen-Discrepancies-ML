@@ -1,0 +1,20 @@
+{
+  "id": "7724482",
+  "case_name": "Securities and Exchange Commission v. Kornfeld",
+  "case_name_full": "",
+  "docket_number": "1:18-cv-23369",
+  "docket_number_core": "1823369",
+  "court_id": "flsd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:0077 Securities Fraud",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2018-08-20",
+  "date_terminated": "2019-03-08",
+  "date_last_filing": "2021-11-08",
+  "assigned_to_str": "Federico A. Moreno",
+  "referred_to_str": "Jonathan Goodman",
+  "pacer_case_id": "533549",
+  "source": "9",
+  "slug": "securities-and-exchange-commission-v-kornfeld",
+  "federal_dn_case_type": "cv"
+}

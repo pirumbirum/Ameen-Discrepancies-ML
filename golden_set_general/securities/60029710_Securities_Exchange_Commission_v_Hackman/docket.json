@@ -1,0 +1,20 @@
+{
+  "id": "60029710",
+  "case_name": "Securities & Exchange Commission v. Hackman",
+  "case_name_full": "",
+  "docket_number": "2:21-cv-01234",
+  "docket_number_core": "2101234",
+  "court_id": "nvd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2021-06-30",
+  "date_terminated": "2022-04-28",
+  "date_last_filing": "2023-03-17",
+  "assigned_to_str": "Andrew P. Gordon",
+  "referred_to_str": "Elayna J. Youchah",
+  "pacer_case_id": "151044",
+  "source": "1",
+  "slug": "securities-exchange-commission-v-hackman",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "16213533",
+  "case_name": "ABC v. DEF",
+  "case_name_full": "",
+  "docket_number": "1:19-cv-07725",
+  "docket_number_core": "1907725",
+  "court_id": "nysd",
+  "nature_of_suit": "Trademark",
+  "cause": "15:1051 Trademark Infringement",
+  "jurisdiction_type": "Federal question",
+  "date_filed": "2019-08-19",
+  "date_terminated": "2020-07-03",
+  "date_last_filing": "2020-12-01",
+  "assigned_to_str": "John G. Koeltl",
+  "referred_to_str": "",
+  "pacer_case_id": "521310",
+  "source": "9",
+  "slug": "abc-v-def",
+  "federal_dn_case_type": ""
+}

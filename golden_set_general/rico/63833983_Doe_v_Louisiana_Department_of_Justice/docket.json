@@ -1,0 +1,20 @@
+{
+  "id": "63833983",
+  "case_name": "Doe v. Louisiana Department of Justice",
+  "case_name_full": "",
+  "docket_number": "3:22-cv-01056",
+  "docket_number_core": "2201056",
+  "court_id": "ord",
+  "nature_of_suit": "Civil (RICO) Racketeer/Corrupt Organization",
+  "cause": "18:1964 Racketeering (RICO) Act",
+  "jurisdiction_type": "",
+  "date_filed": "2022-07-20",
+  "date_terminated": "2022-09-01",
+  "date_last_filing": "2023-06-15",
+  "assigned_to_str": "Michael W. Mosman",
+  "referred_to_str": "",
+  "pacer_case_id": "168072",
+  "source": "1",
+  "slug": "doe-v-louisiana-department-of-justice",
+  "federal_dn_case_type": "cv"
+}

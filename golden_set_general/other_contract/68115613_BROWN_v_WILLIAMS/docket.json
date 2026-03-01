@@ -1,0 +1,20 @@
+{
+  "id": "68115613",
+  "case_name": "BROWN v. WILLIAMS",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-23324",
+  "docket_number_core": "2323324",
+  "court_id": "njd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1332 Diversity-Contract Dispute",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2023-12-26",
+  "date_terminated": "2024-08-14",
+  "date_last_filing": "2024-08-14",
+  "assigned_to_str": "Karen M. Williams",
+  "referred_to_str": "Sharon A. King",
+  "pacer_case_id": "538410",
+  "source": "1",
+  "slug": "brown-v-williams",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "6345928",
+  "case_name": "JOHNSON v. ENCOMPASS INSURANCE COMPANY",
+  "case_name_full": "",
+  "docket_number": "2:17-cv-03527",
+  "docket_number_core": "1703527",
+  "court_id": "njd",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2017-05-18",
+  "date_terminated": "2020-01-30",
+  "date_last_filing": "2020-01-30",
+  "assigned_to_str": "John Michael Vazquez",
+  "referred_to_str": "Mark Falk",
+  "pacer_case_id": "349084",
+  "source": "9",
+  "slug": "johnson-v-encompass-insurance-company",
+  "federal_dn_case_type": "cv"
+}

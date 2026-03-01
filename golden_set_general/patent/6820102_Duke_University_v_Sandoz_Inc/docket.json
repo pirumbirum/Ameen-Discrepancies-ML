@@ -1,0 +1,20 @@
+{
+  "id": "6820102",
+  "case_name": "Duke University v. Sandoz Inc.",
+  "case_name_full": "",
+  "docket_number": "1:18-cv-00997",
+  "docket_number_core": "1800997",
+  "court_id": "cod",
+  "nature_of_suit": "830 Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2018-04-26",
+  "date_terminated": "2023-05-22",
+  "date_last_filing": "2025-12-12",
+  "assigned_to_str": "Raymond P. Moore",
+  "referred_to_str": "Kristen L. Mix",
+  "pacer_case_id": "179637",
+  "source": "9",
+  "slug": "duke-university-v-sandoz-inc",
+  "federal_dn_case_type": "cv"
+}

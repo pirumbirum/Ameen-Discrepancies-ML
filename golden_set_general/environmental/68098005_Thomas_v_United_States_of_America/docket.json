@@ -1,0 +1,20 @@
+{
+  "id": "68098005",
+  "case_name": "Thomas v. United States of America",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-01309",
+  "docket_number_core": "2301309",
+  "court_id": "miwd",
+  "nature_of_suit": "893 Environmental Matters",
+  "cause": "42:7413(b)  Clean Air Act",
+  "jurisdiction_type": "U.S. Government Defendant",
+  "date_filed": "2023-12-15",
+  "date_terminated": "2024-01-24",
+  "date_last_filing": "2024-01-25",
+  "assigned_to_str": "Paul L. Maloney",
+  "referred_to_str": "Sally J. Berens",
+  "pacer_case_id": "110312",
+  "source": "1",
+  "slug": "thomas-v-united-states-of-america",
+  "federal_dn_case_type": "cv"
+}

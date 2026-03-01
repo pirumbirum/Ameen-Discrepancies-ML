@@ -1,0 +1,20 @@
+{
+  "id": "68266376",
+  "case_name": "Horace v. Cincinnati Insurance Company",
+  "case_name_full": "",
+  "docket_number": "1:24-cv-00461",
+  "docket_number_core": "2400461",
+  "court_id": "cod",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2024-02-16",
+  "date_terminated": "",
+  "date_last_filing": "2025-08-15",
+  "assigned_to_str": "Susan Prose",
+  "referred_to_str": "Susan Prose",
+  "pacer_case_id": "231582",
+  "source": "1",
+  "slug": "horace-v-cincinnati-insurance-company",
+  "federal_dn_case_type": "cv"
+}

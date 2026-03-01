@@ -1,0 +1,20 @@
+{
+  "id": "67478171",
+  "case_name": "Smith v. Transamerica Corporation",
+  "case_name_full": "",
+  "docket_number": "3:23-cv-00357",
+  "docket_number_core": "2300357",
+  "court_id": "mssd",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2023-06-05",
+  "date_terminated": "2024-02-05",
+  "date_last_filing": "2025-06-02",
+  "assigned_to_str": "Kristi H. Johnson",
+  "referred_to_str": "Michael T. Parker",
+  "pacer_case_id": "118847",
+  "source": "1",
+  "slug": "smith-v-transamerica-corporation",
+  "federal_dn_case_type": "cv"
+}

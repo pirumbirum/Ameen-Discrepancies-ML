@@ -1,0 +1,20 @@
+{
+  "id": "63571979",
+  "case_name": "Stanford v. Microsoft Inc.",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-00015",
+  "docket_number_core": "2200015",
+  "court_id": "gud",
+  "nature_of_suit": "Patent",
+  "cause": "35:145 Patent Infringement",
+  "jurisdiction_type": "",
+  "date_filed": "2022-07-06",
+  "date_terminated": "2023-02-07",
+  "date_last_filing": "2023-03-07",
+  "assigned_to_str": "Frances M. Tydingco-Gatewood",
+  "referred_to_str": "Michael J. Bordallo",
+  "pacer_case_id": "16867",
+  "source": "1",
+  "slug": "stanford-v-microsoft-inc",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "17171378",
+  "case_name": "Hong v. Block.One",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-03829",
+  "docket_number_core": "2003829",
+  "court_id": "nysd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-05-18",
+  "date_terminated": "2025-01-28",
+  "date_last_filing": "2025-12-02",
+  "assigned_to_str": "Lewis A. Kaplan",
+  "referred_to_str": "",
+  "pacer_case_id": "537252",
+  "source": "9",
+  "slug": "hong-v-blockone",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "70228413",
+  "case_name": "Auth Token LLC v. Citizens Financial Group, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:25-cv-03866",
+  "docket_number_core": "2503866",
+  "court_id": "nysd",
+  "nature_of_suit": "830 Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2025-05-08",
+  "date_terminated": "",
+  "date_last_filing": "2025-10-27",
+  "assigned_to_str": "Dale E. Ho",
+  "referred_to_str": "",
+  "pacer_case_id": "642171",
+  "source": "1",
+  "slug": "auth-token-llc-v-citizens-financial-group-inc",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,58 @@
+{
+  "description": "Cases with BOTH RECAP data AND opinion clusters",
+  "source_data": "cases2/metadata/",
+  "cluster_source": "https://com-courtlistener-storage.s3-us-west-2.amazonaws.com/bulk-data/opinion-clusters-2025-12-31.csv.bz2",
+  "filter_criteria": {
+    "recap": "source bitmask bit 0 = 1",
+    "opinions": "docket_id appears in CourtListener opinion-clusters bulk CSV"
+  },
+  "created_at": "2026-03-01T18:55:01Z",
+  "total_qualifying": 37372,
+  "categories": {
+    "banks": {
+      "total_in_cases2": 417,
+      "qualifying": 417
+    },
+    "trade_secret": {
+      "total_in_cases2": 1072,
+      "qualifying": 1072
+    },
+    "stockholders": {
+      "total_in_cases2": 501,
+      "qualifying": 501
+    },
+    "antitrust": {
+      "total_in_cases2": 566,
+      "qualifying": 566
+    },
+    "environmental": {
+      "total_in_cases2": 975,
+      "qualifying": 975
+    },
+    "rico": {
+      "total_in_cases2": 764,
+      "qualifying": 764
+    },
+    "securities": {
+      "total_in_cases2": 2505,
+      "qualifying": 2505
+    },
+    "trademark": {
+      "total_in_cases2": 4134,
+      "qualifying": 4134
+    },
+    "patent": {
+      "total_in_cases2": 4241,
+      "qualifying": 4241
+    },
+    "other_contract": {
+      "total_in_cases2": 5665,
+      "qualifying": 5665
+    },
+    "insurance": {
+      "total_in_cases2": 16532,
+      "qualifying": 16532
+    }
+  },
+  "elapsed_minutes": 6.5
+}

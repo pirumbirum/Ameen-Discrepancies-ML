@@ -1,0 +1,20 @@
+{
+  "id": "18432359",
+  "case_name": "Stanford v. General Insurance Company of America",
+  "case_name_full": "",
+  "docket_number": "3:20-cv-06382",
+  "docket_number_core": "2006382",
+  "court_id": "cand",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2020-09-10",
+  "date_terminated": "2021-04-22",
+  "date_last_filing": "2021-06-23",
+  "assigned_to_str": "Vince Chhabria",
+  "referred_to_str": "Kandis A. Westmore",
+  "pacer_case_id": "365726",
+  "source": "1",
+  "slug": "stanford-v-general-insurance-company-of-america",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "63285082",
+  "case_name": "In re Netflix, Inc. Securities Litigation",
+  "case_name_full": "",
+  "docket_number": "4:22-cv-02672",
+  "docket_number_core": "2202672",
+  "court_id": "cand",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-05-03",
+  "date_terminated": "2024-11-26",
+  "date_last_filing": "2025-01-03",
+  "assigned_to_str": "Jon S. Tigar",
+  "referred_to_str": "",
+  "pacer_case_id": "395130",
+  "source": "1",
+  "slug": "in-re-netflix-inc-securities-litigation",
+  "federal_dn_case_type": "cv"
+}

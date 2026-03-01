@@ -1,0 +1,20 @@
+{
+  "id": "67770893",
+  "case_name": "Harrall v. Allstate Indemnity Company",
+  "case_name_full": "",
+  "docket_number": "3:23-cv-00262",
+  "docket_number_core": "2300262",
+  "court_id": "ohsd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2023-09-07",
+  "date_terminated": "2025-04-29",
+  "date_last_filing": "2025-04-29",
+  "assigned_to_str": "Michael J. Newman",
+  "referred_to_str": "Caroline H. Gentry",
+  "pacer_case_id": "283423",
+  "source": "1",
+  "slug": "harrall-v-allstate-indemnity-company",
+  "federal_dn_case_type": "cv"
+}

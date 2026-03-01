@@ -1,0 +1,20 @@
+{
+  "id": "16933919",
+  "case_name": "Securities and Exchange Commission v. Church-Koegel",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-21001",
+  "docket_number_core": "2021001",
+  "court_id": "flsd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:0077 Securities Fraud",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2020-03-05",
+  "date_terminated": "2020-09-15",
+  "date_last_filing": "2020-09-17",
+  "assigned_to_str": "Robert N. Scola Jr.",
+  "referred_to_str": "Edwin G. Torres",
+  "pacer_case_id": "567770",
+  "source": "9",
+  "slug": "securities-and-exchange-commission-v-church-koegel",
+  "federal_dn_case_type": "cv"
+}

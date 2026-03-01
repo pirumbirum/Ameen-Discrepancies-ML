@@ -1,0 +1,20 @@
+{
+  "id": "60803238",
+  "case_name": "Smith v. Stanton, KY",
+  "case_name_full": "",
+  "docket_number": "5:21-cv-00222",
+  "docket_number_core": "2100222",
+  "court_id": "kyed",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1442 Petition for Removal",
+  "jurisdiction_type": "",
+  "date_filed": "2021-08-25",
+  "date_terminated": "2022-02-24",
+  "date_last_filing": "2022-02-24",
+  "assigned_to_str": "Gregory F. VanTatenhove",
+  "referred_to_str": "",
+  "pacer_case_id": "96485",
+  "source": "1",
+  "slug": "smith-v-stanton-ky",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "60294103",
+  "case_name": "Donoghue v. Gad",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-07182",
+  "docket_number_core": "2107182",
+  "court_id": "nysd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-08-25",
+  "date_terminated": "2024-08-05",
+  "date_last_filing": "2025-12-15",
+  "assigned_to_str": "Katherine Polk Failla",
+  "referred_to_str": "Sarah L. Cave",
+  "pacer_case_id": "565615",
+  "source": "1",
+  "slug": "donoghue-v-gad",
+  "federal_dn_case_type": "cv"
+}

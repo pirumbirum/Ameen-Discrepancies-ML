@@ -1,0 +1,20 @@
+{
+  "id": "63249033",
+  "case_name": "Knight v. New York City",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-03215",
+  "docket_number_core": "2203215",
+  "court_id": "nysd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:631 Small Business Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-04-19",
+  "date_terminated": "2024-03-13",
+  "date_last_filing": "2024-04-22",
+  "assigned_to_str": "Valerie E. Caproni",
+  "referred_to_str": "Valerie Figueredo",
+  "pacer_case_id": "578547",
+  "source": "1",
+  "slug": "knight-v-new-york-city",
+  "federal_dn_case_type": "cv"
+}

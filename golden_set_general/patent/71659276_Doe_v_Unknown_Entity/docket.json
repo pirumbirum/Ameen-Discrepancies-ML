@@ -1,0 +1,20 @@
+{
+  "id": "71659276",
+  "case_name": "Doe v. Unknown Entity",
+  "case_name_full": "",
+  "docket_number": "1:25-cv-01576",
+  "docket_number_core": "2501576",
+  "court_id": "vaed",
+  "nature_of_suit": "Patent",
+  "cause": "05:101 Ethics in Government Act",
+  "jurisdiction_type": "",
+  "date_filed": "2025-09-19",
+  "date_terminated": "",
+  "date_last_filing": "2025-11-12",
+  "assigned_to_str": "Rossie D. Alston Jr.",
+  "referred_to_str": "Lindsey R. Vaala",
+  "pacer_case_id": "581855",
+  "source": "1",
+  "slug": "doe-v-unknown-entity",
+  "federal_dn_case_type": "cv"
+}

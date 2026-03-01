@@ -1,0 +1,20 @@
+{
+  "id": "70069330",
+  "case_name": "Ware v. John Doe",
+  "case_name_full": "",
+  "docket_number": "2:24-cv-00722",
+  "docket_number_core": "2400722",
+  "court_id": "wvsd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1441 Petition for Removal- Insurance Contract",
+  "jurisdiction_type": "",
+  "date_filed": "2024-12-13",
+  "date_terminated": "",
+  "date_last_filing": "2025-03-13",
+  "assigned_to_str": "Joseph R. Goodwin",
+  "referred_to_str": "",
+  "pacer_case_id": "240653",
+  "source": "1",
+  "slug": "ware-v-john-doe",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "60490496",
+  "case_name": "Securities and Exchange Commission v. Sky Group USA LLC",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-23443",
+  "docket_number_core": "2123443",
+  "court_id": "flsd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:0077 Securities Fraud",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2021-09-27",
+  "date_terminated": "2022-07-15",
+  "date_last_filing": "2023-10-03",
+  "assigned_to_str": "Beth Bloom",
+  "referred_to_str": "Alicia M. Otazo-Reyes",
+  "pacer_case_id": "600737",
+  "source": "1",
+  "slug": "securities-and-exchange-commission-v-sky-group-usa-llc",
+  "federal_dn_case_type": "cv"
+}

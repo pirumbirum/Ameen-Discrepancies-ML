@@ -1,0 +1,20 @@
+{
+  "id": "17330909",
+  "case_name": "Wang v. Tesla, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-03040",
+  "docket_number_core": "2003040",
+  "court_id": "nyed",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1332 Diversity-Fraud",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2020-07-08",
+  "date_terminated": "2022-10-04",
+  "date_last_filing": "2022-10-04",
+  "assigned_to_str": "Hector Gonzalez",
+  "referred_to_str": "Sanket J. Bulsara",
+  "pacer_case_id": "449982",
+  "source": "1",
+  "slug": "wang-v-tesla-inc",
+  "federal_dn_case_type": "cv"
+}

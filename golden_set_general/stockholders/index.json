@@ -1,0 +1,4010 @@
+[
+  {
+    "docket_id": "70809629",
+    "case_name": "The Bryn Mawr Trust Company Of Delaware v. EVALUESERVE HOLDINGS AG",
+    "court_id": "cand",
+    "date_filed": "2025-07-16",
+    "date_terminated": "2025-07-25",
+    "source": "1"
+  },
+  {
+    "docket_id": "68813052",
+    "case_name": "Shetterly v. Bienstock",
+    "court_id": "nysd",
+    "date_filed": "2024-05-30",
+    "date_terminated": "2024-08-29",
+    "source": "1"
+  },
+  {
+    "docket_id": "37086777",
+    "case_name": "Jesse Lowe v. Marc Thomas",
+    "court_id": "cacd",
+    "date_filed": "2021-01-22",
+    "date_terminated": "2021-02-16",
+    "source": "1"
+  },
+  {
+    "docket_id": "6475007",
+    "case_name": "Wallach v. Lardos",
+    "court_id": "nysd",
+    "date_filed": "2016-07-06",
+    "date_terminated": "2021-03-22",
+    "source": "9"
+  },
+  {
+    "docket_id": "16837493",
+    "case_name": "Mims v. Wilson",
+    "court_id": "ilnd",
+    "date_filed": "2020-02-12",
+    "date_terminated": "2020-12-08",
+    "source": "9"
+  },
+  {
+    "docket_id": "16817768",
+    "case_name": "Allen v. Zink",
+    "court_id": "txed",
+    "date_filed": "2020-02-06",
+    "date_terminated": "2021-03-26",
+    "source": "9"
+  },
+  {
+    "docket_id": "68086124",
+    "case_name": "Bull v. Murphy",
+    "court_id": "nynd",
+    "date_filed": "2023-12-12",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69657047",
+    "case_name": "Pearl v. Flux Power Holdings, Inc.",
+    "court_id": "casd",
+    "date_filed": "2025-02-19",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69123687",
+    "case_name": "Shetterly v. Bienstock",
+    "court_id": "ded",
+    "date_filed": "2024-08-29",
+    "date_terminated": "2024-11-26",
+    "source": "1"
+  },
+  {
+    "docket_id": "6876558",
+    "case_name": "Robichaud v. Engage2Excel, Inc.",
+    "court_id": "ncwd",
+    "date_filed": "2018-05-23",
+    "date_terminated": "2020-01-29",
+    "source": "9"
+  },
+  {
+    "docket_id": "48877587",
+    "case_name": "Roe v. Nano Gas Technologies, Inc.",
+    "court_id": "ilnd",
+    "date_filed": "2020-12-08",
+    "date_terminated": "2021-06-02",
+    "source": "1"
+  },
+  {
+    "docket_id": "59953033",
+    "case_name": "PALEMPALLI v. PATSALOS-FOX",
+    "court_id": "njd",
+    "date_filed": "2021-06-01",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "4496427",
+    "case_name": "In Re: B of I Holding, Inc. Shareholder Litigation",
+    "court_id": "casd",
+    "date_filed": "2015-12-03",
+    "date_terminated": "2025-09-18",
+    "source": "9"
+  },
+  {
+    "docket_id": "69683637",
+    "case_name": "Edelman v. Bickerstaff",
+    "court_id": "cand",
+    "date_filed": "2025-02-26",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67821534",
+    "case_name": "Gaza v. Northern Plant Services, Ltd",
+    "court_id": "innd",
+    "date_filed": "2023-09-22",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69643870",
+    "case_name": "Richard Irvin v. Betty F. Irvin",
+    "court_id": "cacd",
+    "date_filed": "2025-02-13",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67302537",
+    "case_name": "WILLIAMS v. WILLIAMS",
+    "court_id": "pawd",
+    "date_filed": "2023-04-28",
+    "date_terminated": "2023-11-22",
+    "source": "1"
+  },
+  {
+    "docket_id": "18420272",
+    "case_name": "Tecku v. YieldStreet Inc.",
+    "court_id": "nysd",
+    "date_filed": "2020-09-09",
+    "date_terminated": "2025-02-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "16965237",
+    "case_name": "Matthew D. Van Steenwyk v. Kedrin E. Van Steenwyk",
+    "court_id": "cacd",
+    "date_filed": "2020-03-12",
+    "date_terminated": "2025-03-07",
+    "source": "9"
+  },
+  {
+    "docket_id": "69555752",
+    "case_name": "Kassam v. Flux Power Holdings, Inc.",
+    "court_id": "casd",
+    "date_filed": "2025-01-15",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "65586678",
+    "case_name": "Jarosz v. Jarosz",
+    "court_id": "mdd",
+    "date_filed": "2022-10-11",
+    "date_terminated": "2023-09-15",
+    "source": "1"
+  },
+  {
+    "docket_id": "69406760",
+    "case_name": "Hurst v. Aviles",
+    "court_id": "ohsd",
+    "date_filed": "2024-11-22",
+    "date_terminated": "2025-12-10",
+    "source": "1"
+  },
+  {
+    "docket_id": "69532633",
+    "case_name": "Cameron v. Winter",
+    "court_id": "nysd",
+    "date_filed": "2025-01-09",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "65662950",
+    "case_name": "Maresca v. Martino",
+    "court_id": "cod",
+    "date_filed": "2022-10-07",
+    "date_terminated": "2025-05-13",
+    "source": "1"
+  },
+  {
+    "docket_id": "65882583",
+    "case_name": "Li v. Karp",
+    "court_id": "cod",
+    "date_filed": "2022-11-21",
+    "date_terminated": "2023-05-25",
+    "source": "1"
+  },
+  {
+    "docket_id": "65966802",
+    "case_name": "Dimensional Certification, Inc. v. Axis Mechanical Group, Inc.",
+    "court_id": "mied",
+    "date_filed": "2022-11-25",
+    "date_terminated": "2024-12-06",
+    "source": "1"
+  },
+  {
+    "docket_id": "59815975",
+    "case_name": "KENNEDY v. STEIN",
+    "court_id": "gamd",
+    "date_filed": "2021-03-31",
+    "date_terminated": "2023-03-28",
+    "source": "1"
+  },
+  {
+    "docket_id": "69184488",
+    "case_name": "Miesen v. Groff",
+    "court_id": "wyd",
+    "date_filed": "2024-09-22",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69341522",
+    "case_name": "Apex Holdings LLC v. FairBridge Hotels International Incorporated",
+    "court_id": "azd",
+    "date_filed": "2024-11-01",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "70964723",
+    "case_name": "Chowdhury v. Government of the Peoples Republic of Bangladesh",
+    "court_id": "nysd",
+    "date_filed": "2025-07-25",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "71933409",
+    "case_name": "In re Target Corp. Shareholder Derivative Litigation",
+    "court_id": "mnd",
+    "date_filed": "2025-11-19",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "15820701",
+    "case_name": "Kreutter v. Teladoc Health, Inc.",
+    "court_id": "nysd",
+    "date_filed": "2019-06-21",
+    "date_terminated": "2021-09-17",
+    "source": "9"
+  },
+  {
+    "docket_id": "66628711",
+    "case_name": "DRIVER OPPORTUNITY PARTNERS I, LP v. AMERISERV FINANCIAL, INC.",
+    "court_id": "pawd",
+    "date_filed": "2022-12-09",
+    "date_terminated": "2024-06-17",
+    "source": "1"
+  },
+  {
+    "docket_id": "66636953",
+    "case_name": "Davidson v. Nguyen-Sperry",
+    "court_id": "ohsd",
+    "date_filed": "2022-12-14",
+    "date_terminated": "2024-12-02",
+    "source": "1"
+  },
+  {
+    "docket_id": "61569515",
+    "case_name": "Li Dong v. Eastern International Corporation, LLC",
+    "court_id": "cacd",
+    "date_filed": "2021-11-22",
+    "date_terminated": "2022-06-09",
+    "source": "1"
+  },
+  {
+    "docket_id": "61628069",
+    "case_name": "TAREK HOLDINGS, LLC v. SHOCKLEY",
+    "court_id": "njd",
+    "date_filed": "2021-12-17",
+    "date_terminated": "2022-10-24",
+    "source": "1"
+  },
+  {
+    "docket_id": "69640463",
+    "case_name": "Cesario v. Vistagen Therapeutics Inc.",
+    "court_id": "cand",
+    "date_filed": "2025-02-13",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "60679066",
+    "case_name": "Khanna v. Banks",
+    "court_id": "ilnd",
+    "date_filed": "2021-10-27",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69693295",
+    "case_name": "Fortis Advisors LLC v. NuVasive (Aust/Nz) Pty Ltd",
+    "court_id": "casd",
+    "date_filed": "2025-02-28",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69532721",
+    "case_name": "Daniels v. Crotty",
+    "court_id": "flsd",
+    "date_filed": "2025-01-09",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68244121",
+    "case_name": "Williams v. Caption Management LLC",
+    "court_id": "nysd",
+    "date_filed": "2024-02-12",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "65590025",
+    "case_name": "Cruz v. Resolute Capital Partners LTD LLC",
+    "court_id": "txnd",
+    "date_filed": "2022-10-19",
+    "date_terminated": "2023-04-20",
+    "source": "1"
+  },
+  {
+    "docket_id": "67894671",
+    "case_name": "Roumeliotis v. Nordenson",
+    "court_id": "ctd",
+    "date_filed": "2023-10-18",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69310440",
+    "case_name": "Down v. Holcomb",
+    "court_id": "flmd",
+    "date_filed": "2024-10-25",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68234154",
+    "case_name": "Sabby Volatility Warrant Master Fund Ltd. v. Safety Shot Inc.",
+    "court_id": "nysd",
+    "date_filed": "2024-02-08",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "17317005",
+    "case_name": "Lin v. Kennewick",
+    "court_id": "wawd",
+    "date_filed": "2020-07-01",
+    "date_terminated": "2021-06-29",
+    "source": "1"
+  },
+  {
+    "docket_id": "16120026",
+    "case_name": "Gingold v. Itronics, Inc.",
+    "court_id": "nvd",
+    "date_filed": "2019-08-26",
+    "date_terminated": "2022-02-17",
+    "source": "9"
+  },
+  {
+    "docket_id": "67763694",
+    "case_name": "Sabby Volatility Warrant Master Fund Ltd. v. Jupiter Wellness, Inc.",
+    "court_id": "nysd",
+    "date_filed": "2023-09-05",
+    "date_terminated": "2024-09-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "67681924",
+    "case_name": "David Williams v. Timothy Allen",
+    "court_id": "vid",
+    "date_filed": "2023-08-08",
+    "date_terminated": "2025-05-22",
+    "source": "1"
+  },
+  {
+    "docket_id": "70704598",
+    "case_name": "Oldfield v. Drake Enterprises, Ltd.",
+    "court_id": "mnd",
+    "date_filed": "2025-07-03",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68326347",
+    "case_name": "IN RE XPONENTIAL FITNESS, INC. DERIVATIVE LITIGATION",
+    "court_id": "cacd",
+    "date_filed": "2024-03-10",
+    "date_terminated": "2024-04-03",
+    "source": "1"
+  },
+  {
+    "docket_id": "67232843",
+    "case_name": "Coniglio v. Cucuzza",
+    "court_id": "nyed",
+    "date_filed": "2023-04-20",
+    "date_terminated": "2024-11-20",
+    "source": "1"
+  },
+  {
+    "docket_id": "68946028",
+    "case_name": "Hayes v. Enphase Energy, Inc.",
+    "court_id": "cand",
+    "date_filed": "2024-07-15",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69721303",
+    "case_name": "In Re: Origin Materials, Inc., Stockholder Derivative Litigation",
+    "court_id": "caed",
+    "date_filed": "2025-03-07",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "18490332",
+    "case_name": "Electrical Workers Pension Fund, Local 103, I.B.E.W. v. Anderson",
+    "court_id": "ohsd",
+    "date_filed": "2020-09-30",
+    "date_terminated": "2022-08-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "18581468",
+    "case_name": "Atherton v. Dowling",
+    "court_id": "ohsd",
+    "date_filed": "2020-10-27",
+    "date_terminated": "2022-08-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "66752581",
+    "case_name": "Conforti v. Owen",
+    "court_id": "tnmd",
+    "date_filed": "2023-01-20",
+    "date_terminated": "2023-10-12",
+    "source": "1"
+  },
+  {
+    "docket_id": "62613667",
+    "case_name": "ABEOME CORPORATION INC v. STEVENS",
+    "court_id": "gamd",
+    "date_filed": "2022-01-14",
+    "date_terminated": "2024-04-05",
+    "source": "1"
+  },
+  {
+    "docket_id": "63213066",
+    "case_name": "Wolf v. Altmann",
+    "court_id": "moed",
+    "date_filed": "2022-04-04",
+    "date_terminated": "2024-02-05",
+    "source": "1"
+  },
+  {
+    "docket_id": "63304830",
+    "case_name": "Kim v. Cedar Realty Trust, Inc.",
+    "court_id": "mdd",
+    "date_filed": "2022-05-06",
+    "date_terminated": "2023-08-01",
+    "source": "1"
+  },
+  {
+    "docket_id": "59748892",
+    "case_name": "Clem v. Skinner",
+    "court_id": "ded",
+    "date_filed": "2021-03-19",
+    "date_terminated": "2022-03-25",
+    "source": "1"
+  },
+  {
+    "docket_id": "60988956",
+    "case_name": "Wells v. Global Tech Industries, Inc",
+    "court_id": "nvd",
+    "date_filed": "2021-11-11",
+    "date_terminated": "2024-01-12",
+    "source": "1"
+  },
+  {
+    "docket_id": "16997854",
+    "case_name": "Shi v. Paysign, Inc.",
+    "court_id": "nvd",
+    "date_filed": "2020-03-19",
+    "date_terminated": "2024-12-03",
+    "source": "9"
+  },
+  {
+    "docket_id": "60318072",
+    "case_name": "In Re Cassava Sciences, Inc. Securities Litigation",
+    "court_id": "txwd",
+    "date_filed": "2021-08-27",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "61564917",
+    "case_name": "Silverberg v. Zillow Group Inc",
+    "court_id": "wawd",
+    "date_filed": "2021-11-19",
+    "date_terminated": "2022-02-16",
+    "source": "1"
+  },
+  {
+    "docket_id": "18759444",
+    "case_name": "Huhn v. Milton",
+    "court_id": "azd",
+    "date_filed": "2020-12-18",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69827831",
+    "case_name": "AQR Arbitrage LLC v. Nordstrom Inc",
+    "court_id": "wawd",
+    "date_filed": "2025-03-31",
+    "date_terminated": "2025-09-12",
+    "source": "1"
+  },
+  {
+    "docket_id": "16859894",
+    "case_name": "Brian Hellman v. Steven W. Streit",
+    "court_id": "cacd",
+    "date_filed": "2020-02-18",
+    "date_terminated": "",
+    "source": "9"
+  },
+  {
+    "docket_id": "14731238",
+    "case_name": "Kurlander v. Kaplan",
+    "court_id": "flmd",
+    "date_filed": "2019-03-15",
+    "date_terminated": "2019-11-14",
+    "source": "9"
+  },
+  {
+    "docket_id": "69609086",
+    "case_name": "Hammond v. Leopold",
+    "court_id": "mdd",
+    "date_filed": "2025-02-04",
+    "date_terminated": "2025-12-01",
+    "source": "1"
+  },
+  {
+    "docket_id": "67408522",
+    "case_name": "City of Hollywood Firefighters' Pension System v. Wells Fargo & Company",
+    "court_id": "cand",
+    "date_filed": "2023-05-19",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67441724",
+    "case_name": "Stevenson v. Thornburgh",
+    "court_id": "nysd",
+    "date_filed": "2023-05-28",
+    "date_terminated": "2024-05-29",
+    "source": "1"
+  },
+  {
+    "docket_id": "67538914",
+    "case_name": "Voruganti v. Bankers Standard Insurance Company",
+    "court_id": "nysd",
+    "date_filed": "2023-06-29",
+    "date_terminated": "2023-09-18",
+    "source": "1"
+  },
+  {
+    "docket_id": "67689455",
+    "case_name": "BENES v. de la Aguilera",
+    "court_id": "flsd",
+    "date_filed": "2023-08-14",
+    "date_terminated": "2023-10-24",
+    "source": "1"
+  },
+  {
+    "docket_id": "67760458",
+    "case_name": "Abramowski v. Nuvei Corporation",
+    "court_id": "ded",
+    "date_filed": "2023-09-01",
+    "date_terminated": "2024-11-01",
+    "source": "1"
+  },
+  {
+    "docket_id": "68182134",
+    "case_name": "Lu v. Cheer Holding Inc",
+    "court_id": "nysd",
+    "date_filed": "2024-01-22",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68144738",
+    "case_name": "In re ChargePoint Holdings, Inc. Derivative Litigation",
+    "court_id": "cand",
+    "date_filed": "2024-01-08",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67410624",
+    "case_name": "Ardent Technologies Inc. v. Advent Svcs LLC",
+    "court_id": "ohsd",
+    "date_filed": "2023-05-19",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68709353",
+    "case_name": "Parsons v. Osborn",
+    "court_id": "alnd",
+    "date_filed": "2024-01-23",
+    "date_terminated": "2024-06-27",
+    "source": "1"
+  },
+  {
+    "docket_id": "68522767",
+    "case_name": "FAGAN v. BARNHISER",
+    "court_id": "njd",
+    "date_filed": "2024-05-10",
+    "date_terminated": "2025-02-19",
+    "source": "1"
+  },
+  {
+    "docket_id": "68638388",
+    "case_name": "Kent Farms Holding, LLC v. NVR, Inc.",
+    "court_id": "vaed",
+    "date_filed": "2024-03-13",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68856432",
+    "case_name": "Podems v. Cangemi",
+    "court_id": "nyed",
+    "date_filed": "2024-06-13",
+    "date_terminated": "2025-04-09",
+    "source": "1"
+  },
+  {
+    "docket_id": "68947725",
+    "case_name": "Centerline Architectural Supply, LLC v. RNA Real Estate, LLC",
+    "court_id": "wiwd",
+    "date_filed": "2024-07-16",
+    "date_terminated": "2025-02-14",
+    "source": "1"
+  },
+  {
+    "docket_id": "68979336",
+    "case_name": "Jay v. Bean",
+    "court_id": "mad",
+    "date_filed": "2024-07-25",
+    "date_terminated": "2025-01-28",
+    "source": "1"
+  },
+  {
+    "docket_id": "69227790",
+    "case_name": "Meier v. Davis",
+    "court_id": "caed",
+    "date_filed": "2024-10-02",
+    "date_terminated": "2025-02-11",
+    "source": "1"
+  },
+  {
+    "docket_id": "68186351",
+    "case_name": "Bancredito Holding Corporation v. Driven Administrative Services, LLC",
+    "court_id": "prd",
+    "date_filed": "2024-01-23",
+    "date_terminated": "2024-07-11",
+    "source": "1"
+  },
+  {
+    "docket_id": "67730176",
+    "case_name": "FERRARI v. FERRARI",
+    "court_id": "pawd",
+    "date_filed": "2023-08-25",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "7629045",
+    "case_name": "Finom Management GmbH v. Celerion Holdco, LLC",
+    "court_id": "ded",
+    "date_filed": "2018-08-09",
+    "date_terminated": "2020-05-04",
+    "source": "9"
+  },
+  {
+    "docket_id": "15671495",
+    "case_name": "Henry v. Tyler",
+    "court_id": "cand",
+    "date_filed": "2019-05-23",
+    "date_terminated": "2020-07-06",
+    "source": "9"
+  },
+  {
+    "docket_id": "16938256",
+    "case_name": "Chamani v. Quasar Mining Group Inc.",
+    "court_id": "nvd",
+    "date_filed": "2020-01-13",
+    "date_terminated": "2020-05-18",
+    "source": "9"
+  },
+  {
+    "docket_id": "65423498",
+    "case_name": "Bader v. Thilman",
+    "court_id": "ilnd",
+    "date_filed": "2022-10-13",
+    "date_terminated": "2025-04-07",
+    "source": "1"
+  },
+  {
+    "docket_id": "17370123",
+    "case_name": "Della Ratta v. Broadneck Development Corp.",
+    "court_id": "mdd",
+    "date_filed": "2020-04-10",
+    "date_terminated": "2020-07-21",
+    "source": "9"
+  },
+  {
+    "docket_id": "67627474",
+    "case_name": "Chisano v. Newton",
+    "court_id": "ned",
+    "date_filed": "2023-07-21",
+    "date_terminated": "2024-07-15",
+    "source": "1"
+  },
+  {
+    "docket_id": "7051799",
+    "case_name": "Ema Financial, LLC v. 5BARZ International Inc.",
+    "court_id": "nysd",
+    "date_filed": "2018-06-05",
+    "date_terminated": "2019-11-18",
+    "source": "9"
+  },
+  {
+    "docket_id": "38072764",
+    "case_name": "O'Shea v. OMi Holdings Inc",
+    "court_id": "alnd",
+    "date_filed": "2020-10-14",
+    "date_terminated": "2021-09-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "14653119",
+    "case_name": "Smith v. Smith",
+    "court_id": "mied",
+    "date_filed": "2019-02-04",
+    "date_terminated": "2021-03-15",
+    "source": "9"
+  },
+  {
+    "docket_id": "17366467",
+    "case_name": "Sardinas v. Miami Veterinary Specialists,P.A.",
+    "court_id": "flsd",
+    "date_filed": "2020-07-20",
+    "date_terminated": "2021-08-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "17252155",
+    "case_name": "Emerson v. Mezzion International, LLC",
+    "court_id": "ded",
+    "date_filed": "2020-06-15",
+    "date_terminated": "2021-09-30",
+    "source": "9"
+  },
+  {
+    "docket_id": "13438561",
+    "case_name": "Van Buskirk v. The United Group of Companies, Inc.",
+    "court_id": "nynd",
+    "date_filed": "2016-07-15",
+    "date_terminated": "2020-08-19",
+    "source": "9"
+  },
+  {
+    "docket_id": "67089046",
+    "case_name": "France v. Bradford",
+    "court_id": "nvd",
+    "date_filed": "2023-03-23",
+    "date_terminated": "2023-05-04",
+    "source": "1"
+  },
+  {
+    "docket_id": "18758909",
+    "case_name": "KETNER v. WIDELL",
+    "court_id": "paed",
+    "date_filed": "2020-12-18",
+    "date_terminated": "2021-09-17",
+    "source": "1"
+  },
+  {
+    "docket_id": "16806281",
+    "case_name": "HSM Holdings, LLC v. Mantu I.M. Mobile LTD.",
+    "court_id": "nysd",
+    "date_filed": "2020-02-05",
+    "date_terminated": "2023-07-13",
+    "source": "9"
+  },
+  {
+    "docket_id": "18200184",
+    "case_name": "Olin v. Plank",
+    "court_id": "mdd",
+    "date_filed": "2020-09-01",
+    "date_terminated": "2023-09-27",
+    "source": "1"
+  },
+  {
+    "docket_id": "17243094",
+    "case_name": "LAUGHLIN v. WALDIS",
+    "court_id": "njd",
+    "date_filed": "2020-06-11",
+    "date_terminated": "2021-12-15",
+    "source": "9"
+  },
+  {
+    "docket_id": "64920348",
+    "case_name": "Innovativ Media Group, Inc. v. Beys",
+    "court_id": "nvd",
+    "date_filed": "2022-08-23",
+    "date_terminated": "2023-07-25",
+    "source": "1"
+  },
+  {
+    "docket_id": "59236317",
+    "case_name": "Li v. Prodigy Network LLC",
+    "court_id": "nysd",
+    "date_filed": "2021-02-08",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68110173",
+    "case_name": "You v. Zang",
+    "court_id": "mad",
+    "date_filed": "2023-12-21",
+    "date_terminated": "2024-10-30",
+    "source": "1"
+  },
+  {
+    "docket_id": "8219928",
+    "case_name": "McCullough v. Lewis",
+    "court_id": "ded",
+    "date_filed": "2018-11-20",
+    "date_terminated": "2021-02-22",
+    "source": "9"
+  },
+  {
+    "docket_id": "60703803",
+    "case_name": "Dresner v. Silverback Therapeutics Inc",
+    "court_id": "wawd",
+    "date_filed": "2021-11-05",
+    "date_terminated": "2023-04-12",
+    "source": "1"
+  },
+  {
+    "docket_id": "69627897",
+    "case_name": "Stefanie Nelson v. Anthony Geisler",
+    "court_id": "cacd",
+    "date_filed": "2025-02-10",
+    "date_terminated": "2025-03-31",
+    "source": "1"
+  },
+  {
+    "docket_id": "63152416",
+    "case_name": "ANDERSON v. DAVID",
+    "court_id": "pawd",
+    "date_filed": "2022-03-10",
+    "date_terminated": "2022-08-11",
+    "source": "1"
+  },
+  {
+    "docket_id": "63138192",
+    "case_name": "Cooke v. Lancelotta",
+    "court_id": "mdd",
+    "date_filed": "2022-02-03",
+    "date_terminated": "2022-04-05",
+    "source": "1"
+  },
+  {
+    "docket_id": "17086729",
+    "case_name": "Ingrao v. Stoppelman",
+    "court_id": "cand",
+    "date_filed": "2020-04-21",
+    "date_terminated": "2022-08-26",
+    "source": "1"
+  },
+  {
+    "docket_id": "65416419",
+    "case_name": "Fordemwalt v. Hydropoint Data Systems, Inc.",
+    "court_id": "idd",
+    "date_filed": "2022-09-14",
+    "date_terminated": "2024-04-04",
+    "source": "1"
+  },
+  {
+    "docket_id": "18633319",
+    "case_name": "In re Wrap Technologies, Inc. Shareholder Derivative Litigation",
+    "court_id": "cacd",
+    "date_filed": "2020-11-13",
+    "date_terminated": "2022-05-03",
+    "source": "1"
+  },
+  {
+    "docket_id": "68089846",
+    "case_name": "WALTERS v. WILLIAMS, JR.",
+    "court_id": "pawd",
+    "date_filed": "2023-11-13",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "17663911",
+    "case_name": "Adams v. Kake Tribal Corporation",
+    "court_id": "akd",
+    "date_filed": "2020-08-31",
+    "date_terminated": "2022-01-19",
+    "source": "1"
+  },
+  {
+    "docket_id": "60633864",
+    "case_name": "Chen v. Eclipse Theater Las Vegas, L.P.",
+    "court_id": "nvd",
+    "date_filed": "2021-10-06",
+    "date_terminated": "2023-03-28",
+    "source": "1"
+  },
+  {
+    "docket_id": "17372654",
+    "case_name": "Lamothe v. Moran",
+    "court_id": "ctd",
+    "date_filed": "2020-07-22",
+    "date_terminated": "2021-08-26",
+    "source": "1"
+  },
+  {
+    "docket_id": "64863135",
+    "case_name": "Galloway v. Ahamed",
+    "court_id": "ctd",
+    "date_filed": "2022-08-02",
+    "date_terminated": "2022-08-05",
+    "source": "1"
+  },
+  {
+    "docket_id": "29094879",
+    "case_name": "Corbin v. Levine",
+    "court_id": "ilnd",
+    "date_filed": "2020-07-02",
+    "date_terminated": "2022-03-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "63095283",
+    "case_name": "Berardi v. Berardi",
+    "court_id": "nynd",
+    "date_filed": "2022-02-17",
+    "date_terminated": "2023-02-07",
+    "source": "1"
+  },
+  {
+    "docket_id": "59246928",
+    "case_name": "Kalin v. Semper Midas Fund, Ltd.",
+    "court_id": "cand",
+    "date_filed": "2021-02-11",
+    "date_terminated": "2022-10-12",
+    "source": "1"
+  },
+  {
+    "docket_id": "16997778",
+    "case_name": "RUBIN v. MCGARRY",
+    "court_id": "pawd",
+    "date_filed": "2020-03-04",
+    "date_terminated": "2020-12-03",
+    "source": "9"
+  },
+  {
+    "docket_id": "18611037",
+    "case_name": "Coil v. Coil",
+    "court_id": "ilsd",
+    "date_filed": "2020-11-04",
+    "date_terminated": "2022-05-18",
+    "source": "1"
+  },
+  {
+    "docket_id": "66915598",
+    "case_name": "Kaiser v. Imperial Oil of North Dakota, Inc.",
+    "court_id": "ndd",
+    "date_filed": "2022-10-14",
+    "date_terminated": "2023-05-24",
+    "source": "1"
+  },
+  {
+    "docket_id": "16195171",
+    "case_name": "In re Inogen, Inc. Shareholder Derivative Litigation",
+    "court_id": "ded",
+    "date_filed": "2019-09-13",
+    "date_terminated": "2021-11-03",
+    "source": "9"
+  },
+  {
+    "docket_id": "63890834",
+    "case_name": "Kirst v. Erck",
+    "court_id": "mdd",
+    "date_filed": "2022-01-05",
+    "date_terminated": "2022-07-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "67698993",
+    "case_name": "Corcoran v. Sustainable Living Innovations Inc",
+    "court_id": "wawd",
+    "date_filed": "2023-08-16",
+    "date_terminated": "2024-12-11",
+    "source": "1"
+  },
+  {
+    "docket_id": "60682203",
+    "case_name": "RMST Holding Company, Inc. v. Premium 72 Capital, LLC",
+    "court_id": "flsd",
+    "date_filed": "2021-10-28",
+    "date_terminated": "2023-04-04",
+    "source": "1"
+  },
+  {
+    "docket_id": "18542776",
+    "case_name": "Hausman v. Green",
+    "court_id": "ilcd",
+    "date_filed": "2020-10-15",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "63157681",
+    "case_name": "Csaba v. Turgeon",
+    "court_id": "nvd",
+    "date_filed": "2021-12-15",
+    "date_terminated": "2024-10-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "59795170",
+    "case_name": "Dillon v. Davis",
+    "court_id": "mssd",
+    "date_filed": "2021-04-05",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "18364762",
+    "case_name": "Courtelis v. Rosenberg",
+    "court_id": "kyed",
+    "date_filed": "2020-05-26",
+    "date_terminated": "2022-03-31",
+    "source": "9"
+  },
+  {
+    "docket_id": "15909604",
+    "case_name": "Kooker v. Baker",
+    "court_id": "ded",
+    "date_filed": "2019-07-12",
+    "date_terminated": "2020-11-18",
+    "source": "9"
+  },
+  {
+    "docket_id": "6823757",
+    "case_name": "Sundquist v. Wilson",
+    "court_id": "ilnd",
+    "date_filed": "2018-05-21",
+    "date_terminated": "2022-03-14",
+    "source": "9"
+  },
+  {
+    "docket_id": "60124552",
+    "case_name": "Mergenthaler v. Enzolytics, Inc.",
+    "court_id": "ded",
+    "date_filed": "2021-08-11",
+    "date_terminated": "2022-08-17",
+    "source": "1"
+  },
+  {
+    "docket_id": "61601028",
+    "case_name": "Oil Com Uganda v. Wessel Van Tonder",
+    "court_id": "flmd",
+    "date_filed": "2021-12-07",
+    "date_terminated": "2023-02-03",
+    "source": "1"
+  },
+  {
+    "docket_id": "66912920",
+    "case_name": "Miller v. Quartzview, Inc.",
+    "court_id": "caed",
+    "date_filed": "2023-02-28",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "6334708",
+    "case_name": "City of Warren Police and Fire Retirement System v. SCANA Corporation",
+    "court_id": "scd",
+    "date_filed": "2018-02-21",
+    "date_terminated": "2019-09-06",
+    "source": "9"
+  },
+  {
+    "docket_id": "16321982",
+    "case_name": "Trondheim Capital Partners LP v. Life Insurance Company of Alabama",
+    "court_id": "alnd",
+    "date_filed": "2019-08-28",
+    "date_terminated": "",
+    "source": "9"
+  },
+  {
+    "docket_id": "18619330",
+    "case_name": "Billhartz v. First Co Bancorp, Inc.",
+    "court_id": "ilsd",
+    "date_filed": "2020-08-23",
+    "date_terminated": "2020-11-05",
+    "source": "1"
+  },
+  {
+    "docket_id": "15770245",
+    "case_name": "Pinto v. Aggarwal",
+    "court_id": "cand",
+    "date_filed": "2019-06-13",
+    "date_terminated": "2022-08-09",
+    "source": "9"
+  },
+  {
+    "docket_id": "65338862",
+    "case_name": "IN RE WELLS FARGO & COMPANY HIRING PRACTICES DERIVATIVE LITIGATION",
+    "court_id": "cand",
+    "date_filed": "2022-09-09",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "16487758",
+    "case_name": "Mizel v. Unified Capital Partners 3 LLC",
+    "court_id": "nysd",
+    "date_filed": "2019-11-19",
+    "date_terminated": "",
+    "source": "9"
+  },
+  {
+    "docket_id": "68544780",
+    "case_name": "Amos v. Home Depot USA, Inc.",
+    "court_id": "laed",
+    "date_filed": "2024-05-19",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67755662",
+    "case_name": "Schiermeyer v. Thurston",
+    "court_id": "utd",
+    "date_filed": "2023-08-31",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "64881846",
+    "case_name": "SportsQuest, Inc. v. Epic Worldwide",
+    "court_id": "nysd",
+    "date_filed": "2022-08-10",
+    "date_terminated": "2023-01-13",
+    "source": "1"
+  },
+  {
+    "docket_id": "60332755",
+    "case_name": "GENTLES v. BLUE HORIZON INNOVATIONS LLC",
+    "court_id": "njd",
+    "date_filed": "2021-09-01",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "16274803",
+    "case_name": "In Re: Security First, LLC",
+    "court_id": "lamd",
+    "date_filed": "2019-10-01",
+    "date_terminated": "2021-05-07",
+    "source": "9"
+  },
+  {
+    "docket_id": "60120430",
+    "case_name": "Sommer v. Southwestern Energy Company",
+    "court_id": "ded",
+    "date_filed": "2021-08-09",
+    "date_terminated": "2021-09-13",
+    "source": "1"
+  },
+  {
+    "docket_id": "17531932",
+    "case_name": "Champa v. Champa",
+    "court_id": "gand",
+    "date_filed": "2018-06-25",
+    "date_terminated": "2023-01-06",
+    "source": "1"
+  },
+  {
+    "docket_id": "15979352",
+    "case_name": "LEVIEN v. HIBU PLC",
+    "court_id": "paed",
+    "date_filed": "2019-07-25",
+    "date_terminated": "2020-07-30",
+    "source": "9"
+  },
+  {
+    "docket_id": "16801678",
+    "case_name": "Streeter v. Izadi",
+    "court_id": "nvd",
+    "date_filed": "2018-10-04",
+    "date_terminated": "",
+    "source": "9"
+  },
+  {
+    "docket_id": "7789350",
+    "case_name": "Pacheco v. Guyer",
+    "court_id": "nysd",
+    "date_filed": "2018-08-31",
+    "date_terminated": "2023-01-27",
+    "source": "9"
+  },
+  {
+    "docket_id": "17429692",
+    "case_name": "Loughlin v. Harada",
+    "court_id": "ded",
+    "date_filed": "2020-08-10",
+    "date_terminated": "2023-03-27",
+    "source": "1"
+  },
+  {
+    "docket_id": "68473520",
+    "case_name": "In Re Quidelortho Corporation Derivative Litigation",
+    "court_id": "nysd",
+    "date_filed": "2024-04-25",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "18738727",
+    "case_name": "Pinkerton v. Bardia",
+    "court_id": "alnd",
+    "date_filed": "2020-11-19",
+    "date_terminated": "2020-12-11",
+    "source": "1"
+  },
+  {
+    "docket_id": "61628019",
+    "case_name": "TAREK HOLDINGS, LLC v. GREG SHOCKLEY",
+    "court_id": "njd",
+    "date_filed": "2021-12-17",
+    "date_terminated": "2023-01-31",
+    "source": "1"
+  },
+  {
+    "docket_id": "18198080",
+    "case_name": "Bloom v. Anderson",
+    "court_id": "ohsd",
+    "date_filed": "2020-09-01",
+    "date_terminated": "2022-08-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "16586853",
+    "case_name": "Kealey v. Russell",
+    "court_id": "nvd",
+    "date_filed": "2019-12-12",
+    "date_terminated": "2021-01-07",
+    "source": "9"
+  },
+  {
+    "docket_id": "18354743",
+    "case_name": "Janis v. Earle",
+    "court_id": "oknd",
+    "date_filed": "2020-05-07",
+    "date_terminated": "2021-09-28",
+    "source": "9"
+  },
+  {
+    "docket_id": "59816054",
+    "case_name": "GOTTFREDSON v. DONNELLY",
+    "court_id": "pawd",
+    "date_filed": "2021-04-12",
+    "date_terminated": "2022-04-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "16006889",
+    "case_name": "Endico v. Endico",
+    "court_id": "nysd",
+    "date_filed": "2019-08-02",
+    "date_terminated": "",
+    "source": "9"
+  },
+  {
+    "docket_id": "68221590",
+    "case_name": "Batchelor, Jr. v. York Holding, Ltd.",
+    "court_id": "nvd",
+    "date_filed": "2024-02-02",
+    "date_terminated": "2024-03-19",
+    "source": "1"
+  },
+  {
+    "docket_id": "4556671",
+    "case_name": "Graham v. Peltz",
+    "court_id": "ohsd",
+    "date_filed": "2016-12-16",
+    "date_terminated": "2021-09-24",
+    "source": "9"
+  },
+  {
+    "docket_id": "16386197",
+    "case_name": "Kinnie Ma Individual Retirement Account v. Ascendant Capital, LLC",
+    "court_id": "txwd",
+    "date_filed": "2019-10-25",
+    "date_terminated": "",
+    "source": "9"
+  },
+  {
+    "docket_id": "16846835",
+    "case_name": "Patel v. AR Group Tennessee, LLC",
+    "court_id": "tnmd",
+    "date_filed": "2020-01-17",
+    "date_terminated": "2022-07-11",
+    "source": "1"
+  },
+  {
+    "docket_id": "67101481",
+    "case_name": "Taubman v. LadRx Corp.",
+    "court_id": "ohnd",
+    "date_filed": "2023-03-28",
+    "date_terminated": "2024-02-22",
+    "source": "1"
+  },
+  {
+    "docket_id": "60665315",
+    "case_name": "Walk v. DraftKings Inc.",
+    "court_id": "nvd",
+    "date_filed": "2021-10-21",
+    "date_terminated": "2023-03-03",
+    "source": "1"
+  },
+  {
+    "docket_id": "71735714",
+    "case_name": "Semler Scientific, Inc. v. Daniels",
+    "court_id": "cand",
+    "date_filed": "2025-10-23",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "61593881",
+    "case_name": "In re Alphabet, Inc., Shareholder Derivative Litigation",
+    "court_id": "cand",
+    "date_filed": "2021-12-03",
+    "date_terminated": "2025-10-03",
+    "source": "1"
+  },
+  {
+    "docket_id": "71017985",
+    "case_name": "Miller v. Anderson",
+    "court_id": "casd",
+    "date_filed": "2025-08-01",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68977936",
+    "case_name": "Cheffers v. Ideagen Software Inc.",
+    "court_id": "ded",
+    "date_filed": "2024-07-25",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69321303",
+    "case_name": "Luven v. Soon-Shiong",
+    "court_id": "casd",
+    "date_filed": "2024-10-29",
+    "date_terminated": "2025-11-05",
+    "source": "1"
+  },
+  {
+    "docket_id": "69510867",
+    "case_name": "In Re Edwards Lifesciences Corporation Derivative Litigation",
+    "court_id": "cacd",
+    "date_filed": "2024-12-31",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69531375",
+    "case_name": "In re Target Corp. Shareholder Derivative Litigation",
+    "court_id": "flmd",
+    "date_filed": "2025-01-09",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "59765870",
+    "case_name": "Sobel v. Thompson",
+    "court_id": "txwd",
+    "date_filed": "2021-03-25",
+    "date_terminated": "2023-07-05",
+    "source": "1"
+  },
+  {
+    "docket_id": "60186532",
+    "case_name": "Assad v. Pershing Square Tontine Holdings, Ltd.",
+    "court_id": "nysd",
+    "date_filed": "2021-08-17",
+    "date_terminated": "2022-08-03",
+    "source": "1"
+  },
+  {
+    "docket_id": "65372443",
+    "case_name": "Hexin Global Limited v. Singularity Future Technology, Ltd.",
+    "court_id": "nysd",
+    "date_filed": "2022-09-23",
+    "date_terminated": "2023-02-24",
+    "source": "1"
+  },
+  {
+    "docket_id": "66791209",
+    "case_name": "Fredericks v. Lee",
+    "court_id": "nvd",
+    "date_filed": "2023-01-27",
+    "date_terminated": "2023-09-11",
+    "source": "1"
+  },
+  {
+    "docket_id": "6106701",
+    "case_name": "Soo Line Railroad Company v. Consolidated Rail Corporation",
+    "court_id": "innd",
+    "date_filed": "2017-03-06",
+    "date_terminated": "2019-09-27",
+    "source": "9"
+  },
+  {
+    "docket_id": "60417294",
+    "case_name": "Lyon III v. Aron",
+    "court_id": "nysd",
+    "date_filed": "2021-09-23",
+    "date_terminated": "2023-03-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "18416943",
+    "case_name": "Shui v. Prodigy Network, LLC",
+    "court_id": "nysd",
+    "date_filed": "2020-09-08",
+    "date_terminated": "2023-04-19",
+    "source": "1"
+  },
+  {
+    "docket_id": "63400627",
+    "case_name": "Her Imports v. Cabello Real Ltd",
+    "court_id": "ilnd",
+    "date_filed": "2022-06-21",
+    "date_terminated": "2023-01-12",
+    "source": "1"
+  },
+  {
+    "docket_id": "67376690",
+    "case_name": "Orahem-Chaharbakhshi v. LaRue",
+    "court_id": "nced",
+    "date_filed": "2023-05-12",
+    "date_terminated": "2023-08-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "15662588",
+    "case_name": "Vance v. Vance",
+    "court_id": "ksd",
+    "date_filed": "2019-05-22",
+    "date_terminated": "",
+    "source": "9"
+  },
+  {
+    "docket_id": "16367238",
+    "case_name": "In Re Alphabet Inc. Stockholder Derivative Litigation",
+    "court_id": "cand",
+    "date_filed": "2019-10-22",
+    "date_terminated": "2022-04-07",
+    "source": "9"
+  },
+  {
+    "docket_id": "16128660",
+    "case_name": "Li v. Waveland Ventures LLC",
+    "court_id": "cod",
+    "date_filed": "2019-08-28",
+    "date_terminated": "2021-06-14",
+    "source": "9"
+  },
+  {
+    "docket_id": "17296812",
+    "case_name": "Stanley Rubenstein v. Linda L. Adamany",
+    "court_id": "nysd",
+    "date_filed": "2020-04-02",
+    "date_terminated": "2022-09-29",
+    "source": "1"
+  },
+  {
+    "docket_id": "67226180",
+    "case_name": "Thompson v. Gertler",
+    "court_id": "ilnd",
+    "date_filed": "2023-04-19",
+    "date_terminated": "2024-03-27",
+    "source": "1"
+  },
+  {
+    "docket_id": "67017321",
+    "case_name": "Park v. Kim",
+    "court_id": "wawd",
+    "date_filed": "2023-03-15",
+    "date_terminated": "2024-07-15",
+    "source": "1"
+  },
+  {
+    "docket_id": "14556090",
+    "case_name": "Gault v. Thacher",
+    "court_id": "scd",
+    "date_filed": "2018-11-21",
+    "date_terminated": "2019-10-23",
+    "source": "9"
+  },
+  {
+    "docket_id": "66781405",
+    "case_name": "Malek v. Minicozzi",
+    "court_id": "txwd",
+    "date_filed": "2023-02-02",
+    "date_terminated": "2024-02-02",
+    "source": "1"
+  },
+  {
+    "docket_id": "67869570",
+    "case_name": "Avisar v. Chen",
+    "court_id": "ohnd",
+    "date_filed": "2023-10-10",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67087941",
+    "case_name": "Smith v. Bradford",
+    "court_id": "nvd",
+    "date_filed": "2023-03-23",
+    "date_terminated": "2023-05-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "67799922",
+    "case_name": "In Re Stem, Inc. Derivative Litigation",
+    "court_id": "ded",
+    "date_filed": "2023-09-15",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "63278288",
+    "case_name": "Strous v. McPheely",
+    "court_id": "nvd",
+    "date_filed": "2022-02-10",
+    "date_terminated": "2024-07-03",
+    "source": "1"
+  },
+  {
+    "docket_id": "60690734",
+    "case_name": "Miracle Ventures I, LP v. Spear",
+    "court_id": "nysd",
+    "date_filed": "2021-11-01",
+    "date_terminated": "2023-05-04",
+    "source": "1"
+  },
+  {
+    "docket_id": "14560658",
+    "case_name": "Fulton County Employees' Retirement System v. Blankfein",
+    "court_id": "nysd",
+    "date_filed": "2019-02-19",
+    "date_terminated": "2023-01-20",
+    "source": "9"
+  },
+  {
+    "docket_id": "69062234",
+    "case_name": "Marci Bertuzzi v. Timothy Mutton",
+    "court_id": "cacd",
+    "date_filed": "2024-08-20",
+    "date_terminated": "2024-08-30",
+    "source": "1"
+  },
+  {
+    "docket_id": "59881054",
+    "case_name": "Ferm v. Aziel Corporation",
+    "court_id": "utd",
+    "date_filed": "2021-05-04",
+    "date_terminated": "2023-03-20",
+    "source": "1"
+  },
+  {
+    "docket_id": "69181693",
+    "case_name": "DooVoo Trust and Holdings v. Bank of the West",
+    "court_id": "okwd",
+    "date_filed": "2024-09-20",
+    "date_terminated": "2025-02-11",
+    "source": "1"
+  },
+  {
+    "docket_id": "59900072",
+    "case_name": "Anders v. Baier",
+    "court_id": "tnmd",
+    "date_filed": "2021-05-10",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "62648776",
+    "case_name": "Finco Prime Consulting Corporation v. Belmamoun",
+    "court_id": "nysd",
+    "date_filed": "2022-02-02",
+    "date_terminated": "2023-02-03",
+    "source": "1"
+  },
+  {
+    "docket_id": "62628606",
+    "case_name": "Affare v. University of Tennessee",
+    "court_id": "tned",
+    "date_filed": "2022-01-26",
+    "date_terminated": "2024-10-10",
+    "source": "1"
+  },
+  {
+    "docket_id": "14781898",
+    "case_name": "TRAHER v. REPUBLIC FIRST BANCORP, INC.",
+    "court_id": "paed",
+    "date_filed": "2019-03-20",
+    "date_terminated": "2020-04-10",
+    "source": "9"
+  },
+  {
+    "docket_id": "13506644",
+    "case_name": "Lefoldt v. Frankel",
+    "court_id": "laed",
+    "date_filed": "2018-05-24",
+    "date_terminated": "2021-10-20",
+    "source": "9"
+  },
+  {
+    "docket_id": "4356273",
+    "case_name": "Scott v. Wei",
+    "court_id": "nysd",
+    "date_filed": "2015-12-11",
+    "date_terminated": "2021-05-12",
+    "source": "9"
+  },
+  {
+    "docket_id": "66914579",
+    "case_name": "Rooney v. Prospect Capital Management L.P.",
+    "court_id": "nysd",
+    "date_filed": "2023-02-28",
+    "date_terminated": "2023-06-26",
+    "source": "1"
+  },
+  {
+    "docket_id": "8221670",
+    "case_name": "Tchatchou v. India Globalization Capital, Inc.",
+    "court_id": "mdd",
+    "date_filed": "2018-11-02",
+    "date_terminated": "2022-04-13",
+    "source": "9"
+  },
+  {
+    "docket_id": "60497426",
+    "case_name": "Gold Coast Transportation Service LLC v. NTI-NY, Inc.",
+    "court_id": "nyed",
+    "date_filed": "2021-09-29",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "59249546",
+    "case_name": "WILLIAMS v. EBX ENTERPRISES, LLC",
+    "court_id": "insd",
+    "date_filed": "2021-02-12",
+    "date_terminated": "2024-03-07",
+    "source": "1"
+  },
+  {
+    "docket_id": "67718372",
+    "case_name": "Taylor v. Apex Forth Worth Partners, LLC",
+    "court_id": "scd",
+    "date_filed": "2023-08-22",
+    "date_terminated": "2024-03-19",
+    "source": "1"
+  },
+  {
+    "docket_id": "7210062",
+    "case_name": "Shih v. Petal Card, Inc.",
+    "court_id": "nysd",
+    "date_filed": "2018-06-19",
+    "date_terminated": "2022-10-20",
+    "source": "9"
+  },
+  {
+    "docket_id": "68991983",
+    "case_name": "Ayers v. Hagedorn",
+    "court_id": "ohsd",
+    "date_filed": "2024-07-30",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "16777918",
+    "case_name": "Wollman v. Hospitality Investors Trust, Inc.",
+    "court_id": "nysd",
+    "date_filed": "2020-01-29",
+    "date_terminated": "2020-06-19",
+    "source": "9"
+  },
+  {
+    "docket_id": "62743989",
+    "case_name": "Warrington v. Patel",
+    "court_id": "flmd",
+    "date_filed": "2022-02-04",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "63404019",
+    "case_name": "Kay v. Frodl",
+    "court_id": "mad",
+    "date_filed": "2022-06-22",
+    "date_terminated": "2024-09-16",
+    "source": "1"
+  },
+  {
+    "docket_id": "69069393",
+    "case_name": "Cody v. Young",
+    "court_id": "cand",
+    "date_filed": "2024-08-22",
+    "date_terminated": "2025-04-14",
+    "source": "1"
+  },
+  {
+    "docket_id": "14876151",
+    "case_name": "Berger v. Transcontinental Realty Investors Inc",
+    "court_id": "txnd",
+    "date_filed": "2019-02-04",
+    "date_terminated": "2019-04-09",
+    "source": "9"
+  },
+  {
+    "docket_id": "67887328",
+    "case_name": "Miller v. HFN",
+    "court_id": "utd",
+    "date_filed": "2023-10-16",
+    "date_terminated": "2024-09-26",
+    "source": "1"
+  },
+  {
+    "docket_id": "14815508",
+    "case_name": "Cellucci v. O'Leary",
+    "court_id": "nysd",
+    "date_filed": "2019-03-27",
+    "date_terminated": "2021-02-12",
+    "source": "9"
+  },
+  {
+    "docket_id": "6349032",
+    "case_name": "Henley Mining, Inc. v. Parton",
+    "court_id": "kyed",
+    "date_filed": "2017-04-12",
+    "date_terminated": "2017-06-13",
+    "source": "9"
+  },
+  {
+    "docket_id": "69670770",
+    "case_name": "Reybol v. State of California",
+    "court_id": "cand",
+    "date_filed": "2025-02-24",
+    "date_terminated": "2025-07-09",
+    "source": "1"
+  },
+  {
+    "docket_id": "7989151",
+    "case_name": "Denham v. Tramuto",
+    "court_id": "tnmd",
+    "date_filed": "2018-01-26",
+    "date_terminated": "2019-10-21",
+    "source": "9"
+  },
+  {
+    "docket_id": "29113415",
+    "case_name": "Kogus v. Akins",
+    "court_id": "ohsd",
+    "date_filed": "2021-01-15",
+    "date_terminated": "2024-10-03",
+    "source": "1"
+  },
+  {
+    "docket_id": "7981515",
+    "case_name": "IN RE COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION DERIVATIVE LITIGATION",
+    "court_id": "njd",
+    "date_filed": "2017-02-22",
+    "date_terminated": "",
+    "source": "9"
+  },
+  {
+    "docket_id": "69138170",
+    "case_name": "Lamb v. Chapin",
+    "court_id": "ared",
+    "date_filed": "2024-09-04",
+    "date_terminated": "2024-11-19",
+    "source": "1"
+  },
+  {
+    "docket_id": "67995667",
+    "case_name": "Martinez v. Kellermeyer Bergensons Services, LLC",
+    "court_id": "casd",
+    "date_filed": "2023-11-09",
+    "date_terminated": "2024-10-04",
+    "source": "1"
+  },
+  {
+    "docket_id": "67450985",
+    "case_name": "Evans Adhesive Corp. v. Golden State Adhesives, Inc.",
+    "court_id": "ohsd",
+    "date_filed": "2023-05-30",
+    "date_terminated": "2023-10-30",
+    "source": "1"
+  },
+  {
+    "docket_id": "60022954",
+    "case_name": "Shupe v. Rocket Companies, Inc.",
+    "court_id": "mied",
+    "date_filed": "2021-06-29",
+    "date_terminated": "2025-07-28",
+    "source": "1"
+  },
+  {
+    "docket_id": "68057304",
+    "case_name": "MBFMCA, LLC v. MILLER",
+    "court_id": "insd",
+    "date_filed": "2023-12-02",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67355735",
+    "case_name": "Operating Engineers Construction Industry and Miscellaneous Pension Fund v. Dimon",
+    "court_id": "nysd",
+    "date_filed": "2023-05-09",
+    "date_terminated": "2024-01-12",
+    "source": "1"
+  },
+  {
+    "docket_id": "59761497",
+    "case_name": "Lorca v. Gifford FILE IN CIVIL CASE 3:20cv00772 ONLY",
+    "court_id": "vaed",
+    "date_filed": "2021-03-24",
+    "date_terminated": "2023-02-20",
+    "source": "1"
+  },
+  {
+    "docket_id": "68000899",
+    "case_name": "Ventrillo v. Paycom Software Inc",
+    "court_id": "okwd",
+    "date_filed": "2023-11-10",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "59937953",
+    "case_name": "Carter v. Spiegel",
+    "court_id": "cand",
+    "date_filed": "2021-05-26",
+    "date_terminated": "2022-03-11",
+    "source": "1"
+  },
+  {
+    "docket_id": "8119953",
+    "case_name": "Dewey v. Bechthold",
+    "court_id": "wied",
+    "date_filed": "2018-11-01",
+    "date_terminated": "2019-10-31",
+    "source": "9"
+  },
+  {
+    "docket_id": "8158559",
+    "case_name": "In Re Allegiant Travel Co. Stockholder Derivative Litigation",
+    "court_id": "nvd",
+    "date_filed": "2018-09-26",
+    "date_terminated": "2021-06-28",
+    "source": "9"
+  },
+  {
+    "docket_id": "60315125",
+    "case_name": "Setliff v. ZOCCAM Technologies Inc",
+    "court_id": "txnd",
+    "date_filed": "2021-08-26",
+    "date_terminated": "2023-07-14",
+    "source": "1"
+  },
+  {
+    "docket_id": "7222834",
+    "case_name": "HENMAN ENGINEERING AND MACHINE, INC. v. JD NORMAN MUNCIE, LLC",
+    "court_id": "insd",
+    "date_filed": "2017-03-08",
+    "date_terminated": "2020-09-04",
+    "source": "9"
+  },
+  {
+    "docket_id": "69162742",
+    "case_name": "Silva v. Sayer",
+    "court_id": "casd",
+    "date_filed": "2024-09-13",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "61055624",
+    "case_name": "Miller v. Hastert",
+    "court_id": "ilnd",
+    "date_filed": "2021-04-21",
+    "date_terminated": "2024-10-16",
+    "source": "1"
+  },
+  {
+    "docket_id": "59761322",
+    "case_name": "Sandys v. Willard FILE IN CIVIL CASE 3:20cv00772 ONLY",
+    "court_id": "vaed",
+    "date_filed": "2021-03-24",
+    "date_terminated": "2023-02-20",
+    "source": "1"
+  },
+  {
+    "docket_id": "68098685",
+    "case_name": "Schur v. Dougan",
+    "court_id": "nysd",
+    "date_filed": "2023-12-18",
+    "date_terminated": "2024-11-13",
+    "source": "1"
+  },
+  {
+    "docket_id": "7500701",
+    "case_name": "Paul v. Plank",
+    "court_id": "mdd",
+    "date_filed": "2018-07-23",
+    "date_terminated": "2023-09-27",
+    "source": "9"
+  },
+  {
+    "docket_id": "4355618",
+    "case_name": "Witchko v. Schorsch",
+    "court_id": "nysd",
+    "date_filed": "2015-07-31",
+    "date_terminated": "2020-01-22",
+    "source": "9"
+  },
+  {
+    "docket_id": "17149587",
+    "case_name": "Roberts v. Clifford",
+    "court_id": "flsd",
+    "date_filed": "2020-05-12",
+    "date_terminated": "2020-07-29",
+    "source": "9"
+  },
+  {
+    "docket_id": "68112950",
+    "case_name": "Hohimer Wealth Management LLC v. Dougan",
+    "court_id": "nysd",
+    "date_filed": "2023-12-22",
+    "date_terminated": "2024-11-13",
+    "source": "1"
+  },
+  {
+    "docket_id": "6633956",
+    "case_name": "Green v. Blake",
+    "court_id": "ksd",
+    "date_filed": "2018-05-11",
+    "date_terminated": "2022-07-15",
+    "source": "9"
+  },
+  {
+    "docket_id": "67809674",
+    "case_name": "Ochoa v. Classic Tile and Plaster, LLC",
+    "court_id": "tnwd",
+    "date_filed": "2023-09-19",
+    "date_terminated": "2024-01-10",
+    "source": "1"
+  },
+  {
+    "docket_id": "60879254",
+    "case_name": "Silverberg v. Continenza",
+    "court_id": "nywd",
+    "date_filed": "2021-09-02",
+    "date_terminated": "2022-01-18",
+    "source": "1"
+  },
+  {
+    "docket_id": "68388287",
+    "case_name": "Greenland Asset Management Corporation v. Transfer Online, Inc.",
+    "court_id": "ord",
+    "date_filed": "2024-03-28",
+    "date_terminated": "2024-12-20",
+    "source": "1"
+  },
+  {
+    "docket_id": "67186489",
+    "case_name": "Zhang v. Xia",
+    "court_id": "nyed",
+    "date_filed": "2023-04-13",
+    "date_terminated": "2023-10-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "63111558",
+    "case_name": "Mason, DPM, etc. v. Mazzei",
+    "court_id": "vawd",
+    "date_filed": "2022-02-23",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "59237437",
+    "case_name": "Aleman v. Sanchez",
+    "court_id": "flsd",
+    "date_filed": "2021-02-08",
+    "date_terminated": "2021-04-05",
+    "source": "1"
+  },
+  {
+    "docket_id": "69640064",
+    "case_name": "Johnson v. NBF Securities (USA)",
+    "court_id": "nvd",
+    "date_filed": "2025-02-13",
+    "date_terminated": "2025-04-10",
+    "source": "1"
+  },
+  {
+    "docket_id": "60693231",
+    "case_name": "Rubin v. Rubin",
+    "court_id": "flsd",
+    "date_filed": "2021-11-02",
+    "date_terminated": "2023-07-10",
+    "source": "1"
+  },
+  {
+    "docket_id": "70722637",
+    "case_name": "STERNER v. MCP HOLDINGS CORP.",
+    "court_id": "pamd",
+    "date_filed": "2025-07-07",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68913373",
+    "case_name": "STERNER v. MCP HOLDINGS CORP.",
+    "court_id": "paed",
+    "date_filed": "2024-07-03",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "63208099",
+    "case_name": "Courtelis v. Rosenberg",
+    "court_id": "mnd",
+    "date_filed": "2022-04-01",
+    "date_terminated": "2022-09-19",
+    "source": "1"
+  },
+  {
+    "docket_id": "7956297",
+    "case_name": "Mitri v. Rahma",
+    "court_id": "ohnd",
+    "date_filed": "2018-09-28",
+    "date_terminated": "2020-05-04",
+    "source": "9"
+  },
+  {
+    "docket_id": "69444071",
+    "case_name": "Hallenberg v. Walker",
+    "court_id": "caed",
+    "date_filed": "2024-12-05",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "66682178",
+    "case_name": "CRUZ v. OK2 CONSTRUCTION, LLC.",
+    "court_id": "flsd",
+    "date_filed": "2022-12-26",
+    "date_terminated": "2022-12-28",
+    "source": "1"
+  },
+  {
+    "docket_id": "29093951",
+    "case_name": "Burden v. Bazin",
+    "court_id": "nysd",
+    "date_filed": "2021-01-08",
+    "date_terminated": "2021-02-26",
+    "source": "1"
+  },
+  {
+    "docket_id": "16690351",
+    "case_name": "Rasawehr v. Belcher",
+    "court_id": "ohnd",
+    "date_filed": "2020-01-14",
+    "date_terminated": "2020-10-07",
+    "source": "9"
+  },
+  {
+    "docket_id": "17423934",
+    "case_name": "Miller v. Anderson",
+    "court_id": "ohnd",
+    "date_filed": "2020-08-07",
+    "date_terminated": "2024-05-17",
+    "source": "1"
+  },
+  {
+    "docket_id": "48822984",
+    "case_name": "Viskovich v. Under Armour, Inc.",
+    "court_id": "mdd",
+    "date_filed": "2020-11-20",
+    "date_terminated": "2023-09-27",
+    "source": "1"
+  },
+  {
+    "docket_id": "51844119",
+    "case_name": "Laios v. MTM Builder/Developer, Inc.",
+    "court_id": "mdd",
+    "date_filed": "2020-11-17",
+    "date_terminated": "2021-09-30",
+    "source": "1"
+  },
+  {
+    "docket_id": "63325356",
+    "case_name": "Oak Plaza, LLC v. Buckingham",
+    "court_id": "mdd",
+    "date_filed": "2022-01-31",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "4363841",
+    "case_name": "Joseph v. Joseph",
+    "court_id": "ohsd",
+    "date_filed": "2016-04-12",
+    "date_terminated": "2019-11-25",
+    "source": "9"
+  },
+  {
+    "docket_id": "17321697",
+    "case_name": "Marrow v. SSOE, Inc.",
+    "court_id": "ohnd",
+    "date_filed": "2020-07-03",
+    "date_terminated": "2022-04-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "14637387",
+    "case_name": "Teamsters Local 677 Health Services and Insurance Plan v. Friedman",
+    "court_id": "mdd",
+    "date_filed": "2018-12-14",
+    "date_terminated": "2019-10-23",
+    "source": "9"
+  },
+  {
+    "docket_id": "14637091",
+    "case_name": "Fire and Police Retiree Health Care Fund, San Antonio v. Smith",
+    "court_id": "mdd",
+    "date_filed": "2018-11-29",
+    "date_terminated": "2020-11-20",
+    "source": "9"
+  },
+  {
+    "docket_id": "14636396",
+    "case_name": "Norfolk County Retirement System v. Smith",
+    "court_id": "mdd",
+    "date_filed": "2018-12-21",
+    "date_terminated": "2020-11-20",
+    "source": "9"
+  },
+  {
+    "docket_id": "68438501",
+    "case_name": "Cellura v. Dollinger",
+    "court_id": "nvd",
+    "date_filed": "2024-04-15",
+    "date_terminated": "2024-11-18",
+    "source": "1"
+  },
+  {
+    "docket_id": "69338576",
+    "case_name": "Kassam v. Flux Power Holdings, Inc.",
+    "court_id": "nvd",
+    "date_filed": "2024-11-01",
+    "date_terminated": "2025-01-14",
+    "source": "1"
+  },
+  {
+    "docket_id": "7821672",
+    "case_name": "Visions In Learning Inc. v. Verity, Inc",
+    "court_id": "nyed",
+    "date_filed": "2018-09-06",
+    "date_terminated": "",
+    "source": "9"
+  },
+  {
+    "docket_id": "17062138",
+    "case_name": "In Re: Kraft Heinz Shareholder Derivative Litigation",
+    "court_id": "ilnd",
+    "date_filed": "2020-04-10",
+    "date_terminated": "2023-06-05",
+    "source": "9"
+  },
+  {
+    "docket_id": "4508626",
+    "case_name": "Kravetz v. Bridge to Life, LTD., a Wyoming Corporation",
+    "court_id": "ilnd",
+    "date_filed": "2016-09-23",
+    "date_terminated": "2020-09-16",
+    "source": "9"
+  },
+  {
+    "docket_id": "16192647",
+    "case_name": "Vanco v. Mancini",
+    "court_id": "ilnd",
+    "date_filed": "2019-09-12",
+    "date_terminated": "2020-11-23",
+    "source": "9"
+  },
+  {
+    "docket_id": "7631468",
+    "case_name": "Haney v. Bridge to Life, LTD., a Wyoming Corporation",
+    "court_id": "ilnd",
+    "date_filed": "2018-08-09",
+    "date_terminated": "2020-03-24",
+    "source": "9"
+  },
+  {
+    "docket_id": "6991360",
+    "case_name": "Stankiewicz, MD, FAAD v. DuPage Medical Group, Ltd.",
+    "court_id": "ilnd",
+    "date_filed": "2018-05-31",
+    "date_terminated": "2022-04-15",
+    "source": "9"
+  },
+  {
+    "docket_id": "7551243",
+    "case_name": "Turney v. Miller",
+    "court_id": "ilnd",
+    "date_filed": "2018-07-30",
+    "date_terminated": "2019-08-13",
+    "source": "9"
+  },
+  {
+    "docket_id": "7508361",
+    "case_name": "Ohrstrom v. P.B. Ohrstrom & Sons, Inc.",
+    "court_id": "ilnd",
+    "date_filed": "2018-02-06",
+    "date_terminated": "2019-02-22",
+    "source": "9"
+  },
+  {
+    "docket_id": "68418693",
+    "case_name": "Assad v. Hawaiian Electric Industries, Inc.",
+    "court_id": "hid",
+    "date_filed": "2024-04-08",
+    "date_terminated": "2024-07-30",
+    "source": "1"
+  },
+  {
+    "docket_id": "68106327",
+    "case_name": "Hattori v. Anand",
+    "court_id": "nysd",
+    "date_filed": "2023-12-20",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69955175",
+    "case_name": "Mukamal v. Onexxx Production & Exploration Corporation",
+    "court_id": "nysd",
+    "date_filed": "2025-04-28",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69170226",
+    "case_name": "Vogel v. Jones",
+    "court_id": "lawd",
+    "date_filed": "2024-09-17",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67902918",
+    "case_name": "Bowers v. Kelly",
+    "court_id": "cand",
+    "date_filed": "2023-10-20",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "65701148",
+    "case_name": "Parekh v. Avalara Inc",
+    "court_id": "wawd",
+    "date_filed": "2022-11-04",
+    "date_terminated": "2024-03-01",
+    "source": "1"
+  },
+  {
+    "docket_id": "69828097",
+    "case_name": "In Re Skyworks Solutions, Inc. Derivative Litigation",
+    "court_id": "cacd",
+    "date_filed": "2025-03-31",
+    "date_terminated": "2025-07-15",
+    "source": "1"
+  },
+  {
+    "docket_id": "4181833",
+    "case_name": "Hamilton v. Barnes",
+    "court_id": "cand",
+    "date_filed": "2015-04-27",
+    "date_terminated": "2021-04-05",
+    "source": "9"
+  },
+  {
+    "docket_id": "4182038",
+    "case_name": "Charlotte B Milliner v. Mutual Securities, Inc.",
+    "court_id": "cand",
+    "date_filed": "2015-07-21",
+    "date_terminated": "2018-09-11",
+    "source": "9"
+  },
+  {
+    "docket_id": "63237742",
+    "case_name": "Bushansky v. Kawas",
+    "court_id": "wawd",
+    "date_filed": "2022-04-14",
+    "date_terminated": "2024-07-18",
+    "source": "1"
+  },
+  {
+    "docket_id": "70435557",
+    "case_name": "Miley v. Hatteras Funds, L.P.",
+    "court_id": "ded",
+    "date_filed": "2025-05-30",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "70516274",
+    "case_name": "Copeland v. Interactive Brokers LLC",
+    "court_id": "okwd",
+    "date_filed": "2025-06-11",
+    "date_terminated": "2025-09-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "59856733",
+    "case_name": "In Re Emergent Biosolutions Inc. Securities Litigation",
+    "court_id": "mdd",
+    "date_filed": "2021-04-19",
+    "date_terminated": "2025-07-03",
+    "source": "1"
+  },
+  {
+    "docket_id": "66779050",
+    "case_name": "Stein v. Crutchfield",
+    "court_id": "ksd",
+    "date_filed": "2023-02-01",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "66684065",
+    "case_name": "ROYZENSHTEYN v. ONYX ENTERPRISES CANADA INC.",
+    "court_id": "njd",
+    "date_filed": "2022-12-27",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67604850",
+    "case_name": "Crace v. Robert Weed Plywood Corporation",
+    "court_id": "innd",
+    "date_filed": "2023-07-13",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67431858",
+    "case_name": "Kaiser v. Imperial Oil of North Dakota, Inc.",
+    "court_id": "mtd",
+    "date_filed": "2023-05-26",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68966084",
+    "case_name": "Strnad v. Kabel",
+    "court_id": "ilnd",
+    "date_filed": "2024-07-22",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "15658986",
+    "case_name": "JIAO v. Xu",
+    "court_id": "txsd",
+    "date_filed": "2019-05-22",
+    "date_terminated": "2023-09-20",
+    "source": "9"
+  },
+  {
+    "docket_id": "15777841",
+    "case_name": "In Re: Cardinal Health, Inc. Derivative Litigation",
+    "court_id": "ohsd",
+    "date_filed": "2019-06-14",
+    "date_terminated": "2022-10-07",
+    "source": "9"
+  },
+  {
+    "docket_id": "18244650",
+    "case_name": "Wallace v. Southeastern Transfer and Storage Company, Inc.",
+    "court_id": "gand",
+    "date_filed": "2019-03-11",
+    "date_terminated": "2021-03-23",
+    "source": "9"
+  },
+  {
+    "docket_id": "18487544",
+    "case_name": "City of Pontiac Police and Fire Retirement System v. Caldwell",
+    "court_id": "cand",
+    "date_filed": "2020-09-29",
+    "date_terminated": "2021-08-03",
+    "source": "1"
+  },
+  {
+    "docket_id": "18434440",
+    "case_name": "POSCO Energy Co., Ltd. v. FuelCell Energy, Inc.",
+    "court_id": "nysd",
+    "date_filed": "2020-09-14",
+    "date_terminated": "2022-01-06",
+    "source": "1"
+  },
+  {
+    "docket_id": "18563742",
+    "case_name": "Hoffman v. Rattner",
+    "court_id": "nysd",
+    "date_filed": "2020-10-22",
+    "date_terminated": "2021-11-30",
+    "source": "1"
+  },
+  {
+    "docket_id": "18517824",
+    "case_name": "Saratoga Advantage Trust Energy & Basic Materials Portfolio v. Woods",
+    "court_id": "txnd",
+    "date_filed": "2020-09-29",
+    "date_terminated": "2020-10-15",
+    "source": "1"
+  },
+  {
+    "docket_id": "18637212",
+    "case_name": "Fire House Block Associates, Limited Partnership v. Weston Associates Management Co., Inc.",
+    "court_id": "nhd",
+    "date_filed": "2020-11-16",
+    "date_terminated": "2021-02-26",
+    "source": "1"
+  },
+  {
+    "docket_id": "18714534",
+    "case_name": "Polk 33 Lending, LLC. v. Schwartz",
+    "court_id": "ded",
+    "date_filed": "2020-12-03",
+    "date_terminated": "2021-08-18",
+    "source": "1"
+  },
+  {
+    "docket_id": "18748557",
+    "case_name": "In re Boston Scientific Corporation Securities Litigation",
+    "court_id": "mad",
+    "date_filed": "2020-12-16",
+    "date_terminated": "2024-04-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "18763652",
+    "case_name": "IN RE LYFT, INC. DERIVATIVE LITIGATION",
+    "court_id": "cand",
+    "date_filed": "2020-12-21",
+    "date_terminated": "2025-03-28",
+    "source": "1"
+  },
+  {
+    "docket_id": "18732317",
+    "case_name": "In re: Wells Fargo & Company Stockholder Derivative Litigation",
+    "court_id": "cand",
+    "date_filed": "2020-12-10",
+    "date_terminated": "2022-02-07",
+    "source": "1"
+  },
+  {
+    "docket_id": "15800745",
+    "case_name": "Enalasys Corporation v. Taylor",
+    "court_id": "casd",
+    "date_filed": "2019-06-19",
+    "date_terminated": "2020-03-19",
+    "source": "9"
+  },
+  {
+    "docket_id": "15891183",
+    "case_name": "Kates v. Kandarian",
+    "court_id": "ded",
+    "date_filed": "2019-07-09",
+    "date_terminated": "2021-04-12",
+    "source": "9"
+  },
+  {
+    "docket_id": "4270845",
+    "case_name": "Kinzler v. First NBC Bank Holding Company",
+    "court_id": "laed",
+    "date_filed": "2016-05-05",
+    "date_terminated": "2025-08-12",
+    "source": "9"
+  },
+  {
+    "docket_id": "15874474",
+    "case_name": "SIEGEL v. GOLDSTEIN",
+    "court_id": "paed",
+    "date_filed": "2019-07-02",
+    "date_terminated": "2020-12-09",
+    "source": "9"
+  },
+  {
+    "docket_id": "4402391",
+    "case_name": "Craig v. Xlear",
+    "court_id": "utd",
+    "date_filed": "2016-05-10",
+    "date_terminated": "2022-02-02",
+    "source": "9"
+  },
+  {
+    "docket_id": "4518242",
+    "case_name": "BERGSTEINs v. EMERSON CONVALESCENT CENTER, INC.",
+    "court_id": "njd",
+    "date_filed": "2016-10-27",
+    "date_terminated": "",
+    "source": "9"
+  },
+  {
+    "docket_id": "4551170",
+    "case_name": "Green v. Paz",
+    "court_id": "moed",
+    "date_filed": "2016-12-07",
+    "date_terminated": "2020-02-04",
+    "source": "9"
+  },
+  {
+    "docket_id": "15911425",
+    "case_name": "IN RE TEEKAY OFFSHORE PARTNERS L.P. COMMON UNITHOLDERS LITIGATION",
+    "court_id": "nysd",
+    "date_filed": "2019-07-12",
+    "date_terminated": "2023-03-21",
+    "source": "9"
+  },
+  {
+    "docket_id": "15996140",
+    "case_name": "HSM Holdings, LLC v. Mantu I.M. Mobile LTD.",
+    "court_id": "cand",
+    "date_filed": "2019-07-31",
+    "date_terminated": "2020-01-30",
+    "source": "9"
+  },
+  {
+    "docket_id": "15961358",
+    "case_name": "Kapila v. Lewis",
+    "court_id": "flmd",
+    "date_filed": "2019-07-24",
+    "date_terminated": "2021-02-08",
+    "source": "9"
+  },
+  {
+    "docket_id": "62980991",
+    "case_name": "Meyer v. Erck",
+    "court_id": "mdd",
+    "date_filed": "2021-11-22",
+    "date_terminated": "2025-03-07",
+    "source": "1"
+  },
+  {
+    "docket_id": "69841614",
+    "case_name": "Dehority v. Chamberlain",
+    "court_id": "tnwd",
+    "date_filed": "2025-04-03",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69353264",
+    "case_name": "AYER v. LIGHTSTONE VALUE PLUS REIT I, INC.",
+    "court_id": "njd",
+    "date_filed": "2024-11-07",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "70193930",
+    "case_name": "Cady v. Palmer",
+    "court_id": "flmd",
+    "date_filed": "2025-05-07",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67869088",
+    "case_name": "PARKER v. ROBINHOOD CYRPTO LLC",
+    "court_id": "pawd",
+    "date_filed": "2023-10-05",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "15984805",
+    "case_name": "Lee v. Verimatrix Inc",
+    "court_id": "txnd",
+    "date_filed": "2019-04-12",
+    "date_terminated": "2019-10-25",
+    "source": "9"
+  },
+  {
+    "docket_id": "15911189",
+    "case_name": "Boschan v. Steinmetz",
+    "court_id": "nysd",
+    "date_filed": "2019-07-12",
+    "date_terminated": "2020-07-06",
+    "source": "9"
+  },
+  {
+    "docket_id": "15973475",
+    "case_name": "CASPERSEN v. ORING",
+    "court_id": "njd",
+    "date_filed": "2019-07-25",
+    "date_terminated": "2021-09-27",
+    "source": "9"
+  },
+  {
+    "docket_id": "15937616",
+    "case_name": "Bonilla-Davila v. UBS Financial Services Incorporated of Puerto Rico",
+    "court_id": "prd",
+    "date_filed": "2019-07-18",
+    "date_terminated": "2020-03-13",
+    "source": "9"
+  },
+  {
+    "docket_id": "15994114",
+    "case_name": "Heng Ren Investments LP v. Sinovac Biotech Ltd.",
+    "court_id": "mad",
+    "date_filed": "2019-07-25",
+    "date_terminated": "2024-06-17",
+    "source": "9"
+  },
+  {
+    "docket_id": "16016013",
+    "case_name": "Joseph v. Pond Realty Company",
+    "court_id": "ohsd",
+    "date_filed": "2019-08-05",
+    "date_terminated": "2022-11-01",
+    "source": "9"
+  },
+  {
+    "docket_id": "16076846",
+    "case_name": "IN RE APPLE INC. STOCKHOLDER DERIVATIVE LITIGATION",
+    "court_id": "cand",
+    "date_filed": "2019-08-19",
+    "date_terminated": "2024-07-17",
+    "source": "9"
+  },
+  {
+    "docket_id": "16021982",
+    "case_name": "SARATOGA ADVANTAGE TRUST ENERGY & BASIC MATERIALS PORTFOLIO v. DARREN W. WOODS",
+    "court_id": "njd",
+    "date_filed": "2019-08-06",
+    "date_terminated": "2020-09-15",
+    "source": "9"
+  },
+  {
+    "docket_id": "6057763",
+    "case_name": "Sutton v. Saint-Sauveur Valley Resorts, Inc.",
+    "court_id": "vtd",
+    "date_filed": "2017-04-07",
+    "date_terminated": "2021-03-15",
+    "source": "9"
+  },
+  {
+    "docket_id": "6058869",
+    "case_name": "Guo v. Mahaffy",
+    "court_id": "cod",
+    "date_filed": "2017-03-20",
+    "date_terminated": "2020-09-29",
+    "source": "9"
+  },
+  {
+    "docket_id": "6112487",
+    "case_name": "Robert Carlyle v. Akorn, Inc.",
+    "court_id": "ilnd",
+    "date_filed": "2017-07-06",
+    "date_terminated": "2017-07-17",
+    "source": "9"
+  },
+  {
+    "docket_id": "6112504",
+    "case_name": "Pullos v. Akorn, Inc.",
+    "court_id": "ilnd",
+    "date_filed": "2017-07-06",
+    "date_terminated": "2017-07-17",
+    "source": "9"
+  },
+  {
+    "docket_id": "6113730",
+    "case_name": "Maksoud v. Hopkins",
+    "court_id": "casd",
+    "date_filed": "2017-02-23",
+    "date_terminated": "2020-03-20",
+    "source": "9"
+  },
+  {
+    "docket_id": "6130070",
+    "case_name": "U4, LLC v. Sonic Drive-In of Pittsburg, LLC",
+    "court_id": "ksd",
+    "date_filed": "2016-06-29",
+    "date_terminated": "2019-12-13",
+    "source": "9"
+  },
+  {
+    "docket_id": "6133712",
+    "case_name": "Rougier v. Applied Optoelectronics, Inc.",
+    "court_id": "txsd",
+    "date_filed": "2017-08-05",
+    "date_terminated": "2020-11-24",
+    "source": "9"
+  },
+  {
+    "docket_id": "6135606",
+    "case_name": "Robert Berg v. Akorn, Inc.",
+    "court_id": "ilnd",
+    "date_filed": "2017-07-06",
+    "date_terminated": "2017-07-19",
+    "source": "9"
+  },
+  {
+    "docket_id": "6135607",
+    "case_name": "Jorge Alcarez v. Akorn, Inc.",
+    "court_id": "ilnd",
+    "date_filed": "2017-07-06",
+    "date_terminated": "2017-07-17",
+    "source": "9"
+  },
+  {
+    "docket_id": "6135608",
+    "case_name": "House v. Akorn, Inc.",
+    "court_id": "ilnd",
+    "date_filed": "2017-07-06",
+    "date_terminated": "2017-07-25",
+    "source": "9"
+  },
+  {
+    "docket_id": "6135609",
+    "case_name": "Sean Harris v. Akorn, Inc.",
+    "court_id": "ilnd",
+    "date_filed": "2017-07-06",
+    "date_terminated": "2017-07-17",
+    "source": "9"
+  },
+  {
+    "docket_id": "62602595",
+    "case_name": "Bancor Group Inc. v. Rodriguez",
+    "court_id": "flsd",
+    "date_filed": "2022-01-14",
+    "date_terminated": "2024-06-28",
+    "source": "1"
+  },
+  {
+    "docket_id": "6170535",
+    "case_name": "Sullivan v. Finn",
+    "court_id": "cand",
+    "date_filed": "2017-10-06",
+    "date_terminated": "2021-03-02",
+    "source": "9"
+  },
+  {
+    "docket_id": "6170656",
+    "case_name": "Smith v. Smith, III",
+    "court_id": "nysd",
+    "date_filed": "2017-08-31",
+    "date_terminated": "2020-04-22",
+    "source": "9"
+  },
+  {
+    "docket_id": "6172890",
+    "case_name": "SUMMERVILLE v. BURRITT",
+    "court_id": "pawd",
+    "date_filed": "2017-07-31",
+    "date_terminated": "2023-09-04",
+    "source": "9"
+  },
+  {
+    "docket_id": "6216767",
+    "case_name": "Torres v. La Favorita Broadcasting, Inc.",
+    "court_id": "caed",
+    "date_filed": "2017-07-06",
+    "date_terminated": "2021-06-08",
+    "source": "9"
+  },
+  {
+    "docket_id": "6240629",
+    "case_name": "Overwell Harvest, Limited v. Widerhorn",
+    "court_id": "ilnd",
+    "date_filed": "2017-08-22",
+    "date_terminated": "2023-05-08",
+    "source": "9"
+  },
+  {
+    "docket_id": "6240672",
+    "case_name": "Petri v. GeaCom, Inc.",
+    "court_id": "ilnd",
+    "date_filed": "2017-04-04",
+    "date_terminated": "2019-07-08",
+    "source": "9"
+  },
+  {
+    "docket_id": "6246775",
+    "case_name": "Weiner v. Tivity Health, Inc.",
+    "court_id": "tnmd",
+    "date_filed": "2017-11-20",
+    "date_terminated": "2021-10-07",
+    "source": "9"
+  },
+  {
+    "docket_id": "6279877",
+    "case_name": "In re: SCANA Corporation Derivative Litigation",
+    "court_id": "scd",
+    "date_filed": "2017-11-21",
+    "date_terminated": "2019-09-03",
+    "source": "9"
+  },
+  {
+    "docket_id": "6281268",
+    "case_name": "Carpenters Pension Fund of Illinois v. Neidorff",
+    "court_id": "moed",
+    "date_filed": "2018-01-24",
+    "date_terminated": "2020-09-15",
+    "source": "9"
+  },
+  {
+    "docket_id": "6316343",
+    "case_name": "Milliken v. American Realty Capital Hospitality Advisors, LLC",
+    "court_id": "nysd",
+    "date_filed": "2018-02-26",
+    "date_terminated": "2020-06-19",
+    "source": "9"
+  },
+  {
+    "docket_id": "6386302",
+    "case_name": "DO NOT DOCKET IN THIS MEMBER CASE- LEAD CASE IS NOW CIVIL NO. 16-cv-02719-JAW",
+    "court_id": "prd",
+    "date_filed": "2018-04-17",
+    "date_terminated": "2022-07-01",
+    "source": "9"
+  },
+  {
+    "docket_id": "7017544",
+    "case_name": "Shin v. Yoon",
+    "court_id": "caed",
+    "date_filed": "2018-03-20",
+    "date_terminated": "",
+    "source": "9"
+  },
+  {
+    "docket_id": "7053136",
+    "case_name": "GW Holdings Group, LLC v. US Highland, Inc.",
+    "court_id": "nysd",
+    "date_filed": "2018-06-05",
+    "date_terminated": "2021-02-16",
+    "source": "9"
+  },
+  {
+    "docket_id": "7500704",
+    "case_name": "King v. Plank",
+    "court_id": "mdd",
+    "date_filed": "2018-04-30",
+    "date_terminated": "2020-03-30",
+    "source": "9"
+  },
+  {
+    "docket_id": "7631414",
+    "case_name": "Wright v. Stewart",
+    "court_id": "nysd",
+    "date_filed": "2018-08-09",
+    "date_terminated": "2021-10-14",
+    "source": "9"
+  },
+  {
+    "docket_id": "16150599",
+    "case_name": "Bardwil Industries Incorporated v. Kennedy",
+    "court_id": "nysd",
+    "date_filed": "2019-09-04",
+    "date_terminated": "2020-09-22",
+    "source": "9"
+  },
+  {
+    "docket_id": "16278222",
+    "case_name": "Caron v. TD Ameritrade",
+    "court_id": "nysd",
+    "date_filed": "2019-09-26",
+    "date_terminated": "2020-11-30",
+    "source": "9"
+  },
+  {
+    "docket_id": "16497792",
+    "case_name": "Munn v. APF Management Company, LLC.",
+    "court_id": "nysd",
+    "date_filed": "2019-11-21",
+    "date_terminated": "2020-12-11",
+    "source": "9"
+  },
+  {
+    "docket_id": "16462031",
+    "case_name": "Meridian OHC Partners, LP v. Davis",
+    "court_id": "hid",
+    "date_filed": "2019-10-02",
+    "date_terminated": "2020-07-15",
+    "source": "9"
+  },
+  {
+    "docket_id": "16411003",
+    "case_name": "John Mitchell v. Scott Wilkinson",
+    "court_id": "cacd",
+    "date_filed": "2019-10-31",
+    "date_terminated": "2020-01-13",
+    "source": "9"
+  },
+  {
+    "docket_id": "16566955",
+    "case_name": "Zhu v. Ge",
+    "court_id": "cand",
+    "date_filed": "2019-12-09",
+    "date_terminated": "2020-08-28",
+    "source": "9"
+  },
+  {
+    "docket_id": "16540642",
+    "case_name": "Schneider, Carl v. Hybrid Car Store, Inc.",
+    "court_id": "wiwd",
+    "date_filed": "2019-12-03",
+    "date_terminated": "",
+    "source": "9"
+  },
+  {
+    "docket_id": "16734926",
+    "case_name": "Rokowsky v. Vericity, Inc.",
+    "court_id": "ilnd",
+    "date_filed": "2020-01-21",
+    "date_terminated": "2022-10-26",
+    "source": "9"
+  },
+  {
+    "docket_id": "16870316",
+    "case_name": "Total Sweeteners, Inc. v. Christopher Quevedo",
+    "court_id": "cacd",
+    "date_filed": "2020-02-20",
+    "date_terminated": "2020-12-10",
+    "source": "1"
+  },
+  {
+    "docket_id": "16819745",
+    "case_name": "In re Acadia Pharmaceuticals Inc. Stockholder Derivative Litigation",
+    "court_id": "casd",
+    "date_filed": "2020-02-07",
+    "date_terminated": "2022-03-21",
+    "source": "9"
+  },
+  {
+    "docket_id": "16806395",
+    "case_name": "Denimal v. Prodigy Network, LLC",
+    "court_id": "nysd",
+    "date_filed": "2020-02-05",
+    "date_terminated": "",
+    "source": "9"
+  },
+  {
+    "docket_id": "16972934",
+    "case_name": "The Mangrove Partners Master Fund, Ltd. v. Navios Maritime Containers L.P.",
+    "court_id": "nysd",
+    "date_filed": "2020-03-13",
+    "date_terminated": "2021-07-13",
+    "source": "9"
+  },
+  {
+    "docket_id": "16976909",
+    "case_name": "Haua v. Prodigy Network, LLC",
+    "court_id": "nysd",
+    "date_filed": "2020-03-16",
+    "date_terminated": "2022-02-09",
+    "source": "9"
+  },
+  {
+    "docket_id": "17043760",
+    "case_name": "Elling v. Cai",
+    "court_id": "nmd",
+    "date_filed": "2020-04-03",
+    "date_terminated": "2021-03-31",
+    "source": "9"
+  },
+  {
+    "docket_id": "17045138",
+    "case_name": "Sensoria, LLC v. Kaweske",
+    "court_id": "cod",
+    "date_filed": "2020-04-03",
+    "date_terminated": "",
+    "source": "9"
+  },
+  {
+    "docket_id": "17054780",
+    "case_name": "To Be Limited Partnership v. Jude Hudson",
+    "court_id": "cacd",
+    "date_filed": "2020-04-07",
+    "date_terminated": "2022-01-04",
+    "source": "9"
+  },
+  {
+    "docket_id": "17008945",
+    "case_name": "Donelon v. Pollick",
+    "court_id": "lamd",
+    "date_filed": "2020-03-24",
+    "date_terminated": "2021-03-02",
+    "source": "9"
+  },
+  {
+    "docket_id": "17127377",
+    "case_name": "Hansen v. African Contract Solutions Inc",
+    "court_id": "txnd",
+    "date_filed": "2020-04-20",
+    "date_terminated": "2020-05-04",
+    "source": "9"
+  },
+  {
+    "docket_id": "17255492",
+    "case_name": "Bottoni v. Hernandez",
+    "court_id": "txnd",
+    "date_filed": "2020-06-05",
+    "date_terminated": "2021-09-16",
+    "source": "9"
+  },
+  {
+    "docket_id": "17345125",
+    "case_name": "MCCOLLUM v. WAHL",
+    "court_id": "paed",
+    "date_filed": "2020-07-13",
+    "date_terminated": "2022-07-28",
+    "source": "1"
+  },
+  {
+    "docket_id": "17394104",
+    "case_name": "Strong v. Scout Security, Inc.",
+    "court_id": "nmd",
+    "date_filed": "2020-07-29",
+    "date_terminated": "2021-03-05",
+    "source": "1"
+  },
+  {
+    "docket_id": "66633774",
+    "case_name": "ZANFARDINO v. KAY",
+    "court_id": "njd",
+    "date_filed": "2022-12-13",
+    "date_terminated": "2025-03-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "63387588",
+    "case_name": "Watkins v. Watkins",
+    "court_id": "mied",
+    "date_filed": "2022-06-15",
+    "date_terminated": "2022-06-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "71293887",
+    "case_name": "Nathan C. Silva v. Evan Spiegel",
+    "court_id": "cacd",
+    "date_filed": "2025-09-08",
+    "date_terminated": "2025-09-30",
+    "source": "1"
+  },
+  {
+    "docket_id": "68967784",
+    "case_name": "In Re Humana Shareholder Derivative Action",
+    "court_id": "kywd",
+    "date_filed": "2024-07-22",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "63592902",
+    "case_name": "In re Netflix, Inc. Stockholder Derivative Litigation",
+    "court_id": "cand",
+    "date_filed": "2022-07-14",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "64287652",
+    "case_name": "Innovativ Media Group, Inc. v. Beys",
+    "court_id": "nvd",
+    "date_filed": "2022-07-22",
+    "date_terminated": "2024-09-30",
+    "source": "1"
+  },
+  {
+    "docket_id": "68835397",
+    "case_name": "Crain v. Airport Transportation Company",
+    "court_id": "arwd",
+    "date_filed": "2024-06-06",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "64452458",
+    "case_name": "In Re Upstart Holdings, Inc., Derivative Litigation",
+    "court_id": "ohsd",
+    "date_filed": "2022-07-28",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "64870487",
+    "case_name": "Vicentini v. Tillster, Inc.",
+    "court_id": "casd",
+    "date_filed": "2022-08-04",
+    "date_terminated": "2024-08-16",
+    "source": "1"
+  },
+  {
+    "docket_id": "69115249",
+    "case_name": "Matthew D. Van Steenwyk v. Kedrin E. Van Steenwyk",
+    "court_id": "cacd",
+    "date_filed": "2024-08-29",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69525030",
+    "case_name": "Pearl v. Flux Power Holdings, Inc.",
+    "court_id": "nvd",
+    "date_filed": "2025-01-07",
+    "date_terminated": "2025-02-19",
+    "source": "1"
+  },
+  {
+    "docket_id": "67897098",
+    "case_name": "Gera v. Palihapitiya",
+    "court_id": "azd",
+    "date_filed": "2023-10-18",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69761102",
+    "case_name": "Steede v. Freight Logic, Inc.",
+    "court_id": "ksd",
+    "date_filed": "2025-03-20",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "70443906",
+    "case_name": "Karnani v. Interactive Brokers, LLC.",
+    "court_id": "vaed",
+    "date_filed": "2025-03-14",
+    "date_terminated": "2025-05-30",
+    "source": "1"
+  },
+  {
+    "docket_id": "63156988",
+    "case_name": "WASH v. FINCH",
+    "court_id": "njd",
+    "date_filed": "2022-03-14",
+    "date_terminated": "2025-01-16",
+    "source": "1"
+  },
+  {
+    "docket_id": "62643198",
+    "case_name": "JUCHHEIM v. JULABO USA, INC.",
+    "court_id": "paed",
+    "date_filed": "2022-01-31",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "18466974",
+    "case_name": "City of Pontiac General Employees' Retirement System v. Bush",
+    "court_id": "cand",
+    "date_filed": "2020-09-23",
+    "date_terminated": "2022-04-12",
+    "source": "1"
+  },
+  {
+    "docket_id": "66803557",
+    "case_name": "FETTER v. FETTER",
+    "court_id": "insd",
+    "date_filed": "2023-02-10",
+    "date_terminated": "2025-02-13",
+    "source": "1"
+  },
+  {
+    "docket_id": "63272782",
+    "case_name": "Debra Debbie Remmers v. Keith Davis",
+    "court_id": "cacd",
+    "date_filed": "2022-04-28",
+    "date_terminated": "2024-01-22",
+    "source": "1"
+  },
+  {
+    "docket_id": "17265381",
+    "case_name": "Rafsky v. Smallbizpros, Inc.",
+    "court_id": "mad",
+    "date_filed": "2020-06-17",
+    "date_terminated": "2024-03-19",
+    "source": "9"
+  },
+  {
+    "docket_id": "18498322",
+    "case_name": "In Re Altria Group, Inc. Derivative Litigation FILE IN THIS CASE ONLY",
+    "court_id": "vaed",
+    "date_filed": "2020-10-01",
+    "date_terminated": "2023-02-20",
+    "source": "1"
+  },
+  {
+    "docket_id": "7036291",
+    "case_name": "Lavin v. Reed",
+    "court_id": "ilnd",
+    "date_filed": "2017-02-07",
+    "date_terminated": "2023-11-08",
+    "source": "9"
+  },
+  {
+    "docket_id": "16461251",
+    "case_name": "Deluca v. GPB Automotive Portfolio, LP",
+    "court_id": "nysd",
+    "date_filed": "2019-11-12",
+    "date_terminated": "",
+    "source": "9"
+  },
+  {
+    "docket_id": "66692432",
+    "case_name": "MOSLEY v. HUGGINS",
+    "court_id": "paed",
+    "date_filed": "2022-12-27",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "63338473",
+    "case_name": "Heresniak v. Musk",
+    "court_id": "cand",
+    "date_filed": "2022-05-25",
+    "date_terminated": "2023-05-22",
+    "source": "1"
+  },
+  {
+    "docket_id": "67484508",
+    "case_name": "Lawtone-Bowles v. Thornburgh",
+    "court_id": "nysd",
+    "date_filed": "2023-06-07",
+    "date_terminated": "2024-05-29",
+    "source": "1"
+  },
+  {
+    "docket_id": "4565729",
+    "case_name": "Kleeberg v. Eber",
+    "court_id": "nysd",
+    "date_filed": "2016-12-09",
+    "date_terminated": "2023-04-07",
+    "source": "9"
+  },
+  {
+    "docket_id": "63294409",
+    "case_name": "Joyce v. Amazon.com Inc",
+    "court_id": "wawd",
+    "date_filed": "2022-05-06",
+    "date_terminated": "2025-03-17",
+    "source": "1"
+  },
+  {
+    "docket_id": "15863724",
+    "case_name": "In re Nutanix, Inc. Stockholder Derivative Litigation",
+    "court_id": "cand",
+    "date_filed": "2019-07-01",
+    "date_terminated": "2020-12-22",
+    "source": "9"
+  },
+  {
+    "docket_id": "61643888",
+    "case_name": "Isakina v. ReAlpha Tech Corp",
+    "court_id": "ohsd",
+    "date_filed": "2021-12-27",
+    "date_terminated": "2023-11-03",
+    "source": "1"
+  },
+  {
+    "docket_id": "16593296",
+    "case_name": "LARSON TEXTS, INC. v. O'NEIL",
+    "court_id": "pawd",
+    "date_filed": "2019-10-17",
+    "date_terminated": "",
+    "source": "9"
+  },
+  {
+    "docket_id": "65737058",
+    "case_name": "National Center for Public Policy Research v. Schultz",
+    "court_id": "waed",
+    "date_filed": "2022-11-07",
+    "date_terminated": "2023-09-11",
+    "source": "1"
+  },
+  {
+    "docket_id": "66790610",
+    "case_name": "Miller v. HFN, Inc.",
+    "court_id": "cand",
+    "date_filed": "2023-02-06",
+    "date_terminated": "2023-08-16",
+    "source": "1"
+  },
+  {
+    "docket_id": "65369591",
+    "case_name": "SPORT-BLX, Inc. v. Salerno",
+    "court_id": "nysd",
+    "date_filed": "2022-09-22",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "7610690",
+    "case_name": "Shaffer v. Health Acquisition Company LLC",
+    "court_id": "mowd",
+    "date_filed": "2018-08-07",
+    "date_terminated": "2021-05-21",
+    "source": "9"
+  },
+  {
+    "docket_id": "8415267",
+    "case_name": "Ye v. Zhang",
+    "court_id": "txsd",
+    "date_filed": "2018-12-14",
+    "date_terminated": "2022-01-12",
+    "source": "9"
+  },
+  {
+    "docket_id": "16216247",
+    "case_name": "Li v. Arcsoft, Inc.",
+    "court_id": "cand",
+    "date_filed": "2019-09-18",
+    "date_terminated": "2024-03-05",
+    "source": "9"
+  },
+  {
+    "docket_id": "16271328",
+    "case_name": "Mangrove Partners Master Fund, The v. Overstock.com",
+    "court_id": "utd",
+    "date_filed": "2019-09-27",
+    "date_terminated": "2021-09-20",
+    "source": "9"
+  },
+  {
+    "docket_id": "67502985",
+    "case_name": "Elco Securities, LTD v. Dear Cashmere Holdings, Inc.",
+    "court_id": "nysd",
+    "date_filed": "2023-06-14",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67510758",
+    "case_name": "ATS Equity, L.L.C. v. Advanced Technology Services, Inc.",
+    "court_id": "moed",
+    "date_filed": "2023-06-19",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "63150940",
+    "case_name": "Lase Guaranty Trust v. Bammann",
+    "court_id": "nyed",
+    "date_filed": "2022-03-10",
+    "date_terminated": "2024-10-29",
+    "source": "1"
+  },
+  {
+    "docket_id": "65359662",
+    "case_name": "Surina v. NuScale Power, LLC",
+    "court_id": "ord",
+    "date_filed": "2022-09-19",
+    "date_terminated": "2025-02-14",
+    "source": "1"
+  },
+  {
+    "docket_id": "61652636",
+    "case_name": "Chin v. KE Holdings Inc.",
+    "court_id": "nysd",
+    "date_filed": "2021-12-30",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "64394042",
+    "case_name": "Labby v. Labby Memorial Enterprises L L C",
+    "court_id": "lawd",
+    "date_filed": "2022-07-25",
+    "date_terminated": "2024-12-19",
+    "source": "1"
+  },
+  {
+    "docket_id": "62149175",
+    "case_name": "Rubio v. Dell Aquila",
+    "court_id": "nyed",
+    "date_filed": "2022-01-11",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "18693083",
+    "case_name": "In re Pinterest Derivative Litigation",
+    "court_id": "cand",
+    "date_filed": "2020-11-25",
+    "date_terminated": "2022-06-26",
+    "source": "1"
+  },
+  {
+    "docket_id": "17306164",
+    "case_name": "Chowdhury v. PlayAGS, Inc.",
+    "court_id": "nvd",
+    "date_filed": "2020-06-25",
+    "date_terminated": "2024-02-12",
+    "source": "9"
+  },
+  {
+    "docket_id": "16671275",
+    "case_name": "Moore v. J.W. Marriott, Jr.",
+    "court_id": "mdd",
+    "date_filed": "2019-03-21",
+    "date_terminated": "2021-06-11",
+    "source": "9"
+  },
+  {
+    "docket_id": "63255293",
+    "case_name": "Johnson v. Dickey",
+    "court_id": "cod",
+    "date_filed": "2022-04-21",
+    "date_terminated": "2022-04-27",
+    "source": "1"
+  },
+  {
+    "docket_id": "17030047",
+    "case_name": "DO NOT FILE IN THIS CASE TRANSFERRED TO CAMDEN - NEW CIVIL ACTION NO.1:20-CV-3446",
+    "court_id": "njd",
+    "date_filed": "2020-03-31",
+    "date_terminated": "2024-03-28",
+    "source": "9"
+  },
+  {
+    "docket_id": "8418909",
+    "case_name": "Bergus v. Florian",
+    "court_id": "mad",
+    "date_filed": "2018-02-20",
+    "date_terminated": "2023-10-19",
+    "source": "9"
+  },
+  {
+    "docket_id": "16629666",
+    "case_name": "Galaitsis v. BETA CAE Systems International AG",
+    "court_id": "mied",
+    "date_filed": "2019-12-26",
+    "date_terminated": "2021-06-28",
+    "source": "9"
+  },
+  {
+    "docket_id": "17284191",
+    "case_name": "Kim v. H Guys, LLC",
+    "court_id": "ilnd",
+    "date_filed": "2020-06-18",
+    "date_terminated": "2023-08-25",
+    "source": "9"
+  },
+  {
+    "docket_id": "8220865",
+    "case_name": "DIETRICH & ASSOCIATES, INC. v. NEISON",
+    "court_id": "paed",
+    "date_filed": "2018-11-21",
+    "date_terminated": "2022-02-18",
+    "source": "9"
+  },
+  {
+    "docket_id": "8430034",
+    "case_name": "Lawson v. Klondex Mines Ltd.",
+    "court_id": "nvd",
+    "date_filed": "2018-06-15",
+    "date_terminated": "2020-03-24",
+    "source": "9"
+  },
+  {
+    "docket_id": "67672933",
+    "case_name": "O'Reilly v. California Ski Company",
+    "court_id": "cand",
+    "date_filed": "2023-08-07",
+    "date_terminated": "2023-11-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "7288065",
+    "case_name": "Whaley v. Esebag",
+    "court_id": "arwd",
+    "date_filed": "2018-06-26",
+    "date_terminated": "2020-08-28",
+    "source": "9"
+  },
+  {
+    "docket_id": "15430344",
+    "case_name": "IN RE KRAFT HEINZ SHAREHOLDER DERIVATIVE LITIGATION",
+    "court_id": "pawd",
+    "date_filed": "2019-05-08",
+    "date_terminated": "2020-04-09",
+    "source": "9"
+  },
+  {
+    "docket_id": "68342467",
+    "case_name": "Marburger v. Whetstone",
+    "court_id": "ohnd",
+    "date_filed": "2024-03-14",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "17360066",
+    "case_name": "Williams v. 3rd Home Limited",
+    "court_id": "flmd",
+    "date_filed": "2020-07-17",
+    "date_terminated": "2023-09-27",
+    "source": "1"
+  },
+  {
+    "docket_id": "67021191",
+    "case_name": "Front Row Fund I, L.P. v. Gross",
+    "court_id": "nysd",
+    "date_filed": "2023-03-16",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "18642292",
+    "case_name": "Pinkerton v. Bardia",
+    "court_id": "alnd",
+    "date_filed": "2020-11-06",
+    "date_terminated": "2020-11-17",
+    "source": "1"
+  },
+  {
+    "docket_id": "16484999",
+    "case_name": "Buhannic v. Tradingscreen Inc.",
+    "court_id": "nysd",
+    "date_filed": "2019-11-18",
+    "date_terminated": "2020-07-20",
+    "source": "9"
+  },
+  {
+    "docket_id": "15721609",
+    "case_name": "VICCHAIRELLI v. NEW ENGLAND LINEN SUPPLY COMPANY, INC.",
+    "court_id": "njd",
+    "date_filed": "2019-05-28",
+    "date_terminated": "2021-09-08",
+    "source": "9"
+  },
+  {
+    "docket_id": "60629970",
+    "case_name": "In re Eastman Kodak Company Derivative Litigation",
+    "court_id": "nywd",
+    "date_filed": "2021-10-04",
+    "date_terminated": "2023-09-26",
+    "source": "1"
+  },
+  {
+    "docket_id": "29081284",
+    "case_name": "Andes Capital Financing LLC v. Crossed Keys LLC",
+    "court_id": "txnd",
+    "date_filed": "2020-10-01",
+    "date_terminated": "2022-04-28",
+    "source": "1"
+  },
+  {
+    "docket_id": "62635171",
+    "case_name": "HOY v. HOY",
+    "court_id": "njd",
+    "date_filed": "2022-01-28",
+    "date_terminated": "2022-11-22",
+    "source": "1"
+  },
+  {
+    "docket_id": "66707943",
+    "case_name": "SECURITY VALIDATION LLC v. BOSTON HELP DESK INC.",
+    "court_id": "njd",
+    "date_filed": "2023-01-09",
+    "date_terminated": "2023-09-20",
+    "source": "1"
+  },
+  {
+    "docket_id": "31418191",
+    "case_name": "Ray Westerman v. Marc Thomas",
+    "court_id": "cacd",
+    "date_filed": "2021-01-20",
+    "date_terminated": "2021-02-16",
+    "source": "1"
+  },
+  {
+    "docket_id": "69478861",
+    "case_name": "Mednick v. Egeck",
+    "court_id": "azd",
+    "date_filed": "2024-12-17",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68387166",
+    "case_name": "GU v. WANG",
+    "court_id": "njd",
+    "date_filed": "2024-03-28",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "15960342",
+    "case_name": "Brown v. Asselin",
+    "court_id": "cod",
+    "date_filed": "2019-07-01",
+    "date_terminated": "2020-04-14",
+    "source": "9"
+  },
+  {
+    "docket_id": "6909944",
+    "case_name": "Broussard v. Hagenbuch",
+    "court_id": "nvd",
+    "date_filed": "2018-02-15",
+    "date_terminated": "2021-01-12",
+    "source": "9"
+  },
+  {
+    "docket_id": "14986949",
+    "case_name": "Gaj v. Wynn",
+    "court_id": "nvd",
+    "date_filed": "2019-03-25",
+    "date_terminated": "2021-01-12",
+    "source": "9"
+  },
+  {
+    "docket_id": "63265678",
+    "case_name": "Nelson v. Bezos",
+    "court_id": "wawd",
+    "date_filed": "2022-04-26",
+    "date_terminated": "2024-03-27",
+    "source": "1"
+  },
+  {
+    "docket_id": "16996136",
+    "case_name": "CFGAdvance, LLC v. AgileCap, LLC",
+    "court_id": "vtd",
+    "date_filed": "2020-03-19",
+    "date_terminated": "2021-09-30",
+    "source": "9"
+  },
+  {
+    "docket_id": "17452439",
+    "case_name": "Pak v. EoCell, Inc.",
+    "court_id": "cand",
+    "date_filed": "2020-08-17",
+    "date_terminated": "2020-10-28",
+    "source": "1"
+  },
+  {
+    "docket_id": "70617934",
+    "case_name": "DUNDON ADVISERS LLC v. ELIOT L. BUCHANAN",
+    "court_id": "cand",
+    "date_filed": "2025-06-23",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "8421047",
+    "case_name": "HIRSCHFELD v. BECKERLE",
+    "court_id": "njd",
+    "date_filed": "2018-10-09",
+    "date_terminated": "2019-09-27",
+    "source": "9"
+  },
+  {
+    "docket_id": "17424629",
+    "case_name": "Sandys v. Willard",
+    "court_id": "cand",
+    "date_filed": "2020-08-07",
+    "date_terminated": "2021-03-22",
+    "source": "1"
+  },
+  {
+    "docket_id": "65761985",
+    "case_name": "Krasner v. Cedar Realty Trust, Inc.",
+    "court_id": "nyed",
+    "date_filed": "2022-11-14",
+    "date_terminated": "2023-04-24",
+    "source": "1"
+  },
+  {
+    "docket_id": "17468952",
+    "case_name": "HEIL TRAILER v. XL RISK CONSULTANTS, INC.",
+    "court_id": "paed",
+    "date_filed": "2020-08-21",
+    "date_terminated": "2021-03-26",
+    "source": "1"
+  },
+  {
+    "docket_id": "16385930",
+    "case_name": "Lee v. Verimatrix Inc",
+    "court_id": "casd",
+    "date_filed": "2019-10-25",
+    "date_terminated": "2020-12-17",
+    "source": "9"
+  },
+  {
+    "docket_id": "17313586",
+    "case_name": "Nordstrom v. McMahon",
+    "court_id": "ctd",
+    "date_filed": "2020-07-01",
+    "date_terminated": "2021-12-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "17017941",
+    "case_name": "Seibel v. Frederick",
+    "court_id": "nysd",
+    "date_filed": "2020-03-27",
+    "date_terminated": "2020-04-13",
+    "source": "9"
+  },
+  {
+    "docket_id": "17121606",
+    "case_name": "Buhannic v. Tradingscreen Inc.",
+    "court_id": "nysd",
+    "date_filed": "2020-05-01",
+    "date_terminated": "2020-07-20",
+    "source": "9"
+  },
+  {
+    "docket_id": "17175364",
+    "case_name": "Chamani v. Quasar Mining Group Inc.",
+    "court_id": "nysd",
+    "date_filed": "2020-05-19",
+    "date_terminated": "2020-08-07",
+    "source": "9"
+  },
+  {
+    "docket_id": "63391145",
+    "case_name": "In Re: Tesla Inc. Stockholder Derivative Litigation",
+    "court_id": "txwd",
+    "date_filed": "2022-06-16",
+    "date_terminated": "2025-03-12",
+    "source": "1"
+  },
+  {
+    "docket_id": "16584549",
+    "case_name": "Lewis v. Hill",
+    "court_id": "mad",
+    "date_filed": "2019-12-12",
+    "date_terminated": "",
+    "source": "9"
+  },
+  {
+    "docket_id": "16304091",
+    "case_name": "Haitham Saeed v. Scott Wilkinson",
+    "court_id": "cacd",
+    "date_filed": "2019-10-07",
+    "date_terminated": "2020-01-13",
+    "source": "9"
+  },
+  {
+    "docket_id": "38128173",
+    "case_name": "Egenberg v. Mainsail Digital LLC",
+    "court_id": "alnd",
+    "date_filed": "2021-01-07",
+    "date_terminated": "2022-06-07",
+    "source": "1"
+  },
+  {
+    "docket_id": "69927584",
+    "case_name": "Swisher v. Apex Marketing Management Inc.",
+    "court_id": "ohsd",
+    "date_filed": "2025-04-22",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "70493245",
+    "case_name": "Crossing Bay Partners, LLC v. Gottfried",
+    "court_id": "nysd",
+    "date_filed": "2025-06-09",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "59292496",
+    "case_name": "4FLAC LLC v. Transcol, S.A.",
+    "court_id": "flsd",
+    "date_filed": "2021-02-16",
+    "date_terminated": "2021-04-22",
+    "source": "1"
+  },
+  {
+    "docket_id": "59238998",
+    "case_name": "Trost v. Hotchkiss",
+    "court_id": "ohsd",
+    "date_filed": "2021-02-09",
+    "date_terminated": "2022-08-09",
+    "source": "1"
+  },
+  {
+    "docket_id": "71277962",
+    "case_name": "Broce Ranch Inc v. Vance",
+    "court_id": "okwd",
+    "date_filed": "2025-09-04",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "16507880",
+    "case_name": "CipherLoc Corporation v. LaGanke",
+    "court_id": "txwd",
+    "date_filed": "2019-11-22",
+    "date_terminated": "2021-03-09",
+    "source": "9"
+  },
+  {
+    "docket_id": "59749833",
+    "case_name": "System Management Group v. NCU Investors, LLC",
+    "court_id": "casd",
+    "date_filed": "2021-03-19",
+    "date_terminated": "2021-04-14",
+    "source": "1"
+  },
+  {
+    "docket_id": "59698824",
+    "case_name": "Donelon v. Pollick",
+    "court_id": "flmd",
+    "date_filed": "2021-03-02",
+    "date_terminated": "2021-12-13",
+    "source": "1"
+  },
+  {
+    "docket_id": "59690601",
+    "case_name": "Vishkin v. Pintuitive, Inc.",
+    "court_id": "cand",
+    "date_filed": "2021-02-26",
+    "date_terminated": "2022-03-18",
+    "source": "1"
+  },
+  {
+    "docket_id": "59741532",
+    "case_name": "JS Halberstam Irrevocable Grantor Trust v. Davis",
+    "court_id": "ord",
+    "date_filed": "2021-03-17",
+    "date_terminated": "2022-05-09",
+    "source": "1"
+  },
+  {
+    "docket_id": "59815732",
+    "case_name": "Amorosa v. GENERAL ELECTRIC COMPANY",
+    "court_id": "nysd",
+    "date_filed": "2021-04-12",
+    "date_terminated": "2023-06-07",
+    "source": "1"
+  },
+  {
+    "docket_id": "59858078",
+    "case_name": "Stegmann v. Wolin",
+    "court_id": "nyed",
+    "date_filed": "2021-03-30",
+    "date_terminated": "2021-05-26",
+    "source": "1"
+  },
+  {
+    "docket_id": "67785334",
+    "case_name": "Poarch v. Unit Corporation",
+    "court_id": "okwd",
+    "date_filed": "2023-09-11",
+    "date_terminated": "2024-09-20",
+    "source": "1"
+  },
+  {
+    "docket_id": "59948149",
+    "case_name": "Beskrone v. Berlin",
+    "court_id": "nysd",
+    "date_filed": "2021-05-28",
+    "date_terminated": "2023-02-15",
+    "source": "1"
+  },
+  {
+    "docket_id": "60089819",
+    "case_name": "Ball v. Baker",
+    "court_id": "nysd",
+    "date_filed": "2021-07-28",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "60126045",
+    "case_name": "Motameni v. Adams",
+    "court_id": "ord",
+    "date_filed": "2021-08-11",
+    "date_terminated": "2023-11-16",
+    "source": "1"
+  },
+  {
+    "docket_id": "60115705",
+    "case_name": "Tucker v. Parker",
+    "court_id": "nyed",
+    "date_filed": "2021-08-06",
+    "date_terminated": "2024-11-01",
+    "source": "1"
+  },
+  {
+    "docket_id": "16922094",
+    "case_name": "A HASHIM v. AIR PRODUCTS AND CHEMICALS, INC.",
+    "court_id": "paed",
+    "date_filed": "2020-02-28",
+    "date_terminated": "2021-10-15",
+    "source": "9"
+  },
+  {
+    "docket_id": "60322305",
+    "case_name": "Ponder v. Maaranu",
+    "court_id": "ded",
+    "date_filed": "2021-08-27",
+    "date_terminated": "2022-02-28",
+    "source": "1"
+  },
+  {
+    "docket_id": "60396989",
+    "case_name": "Savoy v. Boston Private Financial Holdings, Inc.",
+    "court_id": "mad",
+    "date_filed": "2021-09-20",
+    "date_terminated": "2022-08-26",
+    "source": "1"
+  },
+  {
+    "docket_id": "17034095",
+    "case_name": "Patel v. Henslee Chicken, LLC",
+    "court_id": "tnmd",
+    "date_filed": "2020-03-31",
+    "date_terminated": "2020-12-10",
+    "source": "9"
+  },
+  {
+    "docket_id": "60691965",
+    "case_name": "Mian v. Mafooz",
+    "court_id": "mied",
+    "date_filed": "2021-11-01",
+    "date_terminated": "2022-10-13",
+    "source": "1"
+  },
+  {
+    "docket_id": "60681822",
+    "case_name": "SOSV, IV, LLC v. Hottab Pte. Ltd.",
+    "court_id": "nysd",
+    "date_filed": "2021-10-28",
+    "date_terminated": "2021-11-08",
+    "source": "1"
+  },
+  {
+    "docket_id": "60986537",
+    "case_name": "Pasionek v. Pasionek",
+    "court_id": "mied",
+    "date_filed": "2021-11-12",
+    "date_terminated": "",
+    "source": "1"
+  }
+]

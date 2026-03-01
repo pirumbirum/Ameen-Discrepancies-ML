@@ -1,0 +1,20 @@
+{
+  "id": "62635171",
+  "case_name": "HOY v. HOY",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-00425",
+  "docket_number_core": "2200425",
+  "court_id": "njd",
+  "nature_of_suit": "160 Stockholders Suits",
+  "cause": "28:1332 Diversity-Breach of Fiduciary Duty",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-01-28",
+  "date_terminated": "2022-11-22",
+  "date_last_filing": "2022-11-22",
+  "assigned_to_str": "Noel L. Hillman",
+  "referred_to_str": "Elizabeth A. Pascal",
+  "pacer_case_id": "490134",
+  "source": "1",
+  "slug": "hoy-v-hoy",
+  "federal_dn_case_type": "cv"
+}

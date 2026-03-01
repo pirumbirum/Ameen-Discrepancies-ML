@@ -1,0 +1,20 @@
+{
+  "id": "67095407",
+  "case_name": "May v. Barclays PLC",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-02583",
+  "docket_number_core": "2302583",
+  "court_id": "nysd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-03-27",
+  "date_terminated": "2025-03-21",
+  "date_last_filing": "2025-07-01",
+  "assigned_to_str": "Lewis J. Liman",
+  "referred_to_str": "",
+  "pacer_case_id": "596278",
+  "source": "1",
+  "slug": "may-v-barclays-plc",
+  "federal_dn_case_type": "cv"
+}

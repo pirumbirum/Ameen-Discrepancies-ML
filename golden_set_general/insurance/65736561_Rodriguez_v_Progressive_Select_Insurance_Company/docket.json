@@ -1,0 +1,20 @@
+{
+  "id": "65736561",
+  "case_name": "Rodriguez v. Progressive Select Insurance Company",
+  "case_name_full": "",
+  "docket_number": "5:22-cv-00528",
+  "docket_number_core": "2200528",
+  "court_id": "flmd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-11-07",
+  "date_terminated": "2023-11-13",
+  "date_last_filing": "2023-11-28",
+  "assigned_to_str": "James S. Moody Jr.",
+  "referred_to_str": "Philip R. Lammens",
+  "pacer_case_id": "407570",
+  "source": "1",
+  "slug": "rodriguez-v-progressive-select-insurance-company",
+  "federal_dn_case_type": "cv"
+}

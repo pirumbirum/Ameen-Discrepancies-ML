@@ -1,0 +1,20 @@
+{
+  "id": "67484890",
+  "case_name": "Shelton v. Comerica Bank",
+  "case_name_full": "",
+  "docket_number": "3:23-cv-02815",
+  "docket_number_core": "2302815",
+  "court_id": "cand",
+  "nature_of_suit": "Banks and Banking",
+  "cause": "28:1331 Fed. Question",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-06-07",
+  "date_terminated": "2025-01-09",
+  "date_last_filing": "2025-01-09",
+  "assigned_to_str": "William Alsup",
+  "referred_to_str": "",
+  "pacer_case_id": "413799",
+  "source": "1",
+  "slug": "shelton-v-comerica-bank",
+  "federal_dn_case_type": "cv"
+}

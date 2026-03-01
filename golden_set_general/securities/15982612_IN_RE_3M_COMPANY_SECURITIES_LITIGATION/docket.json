@@ -1,0 +1,20 @@
+{
+  "id": "15982612",
+  "case_name": "IN RE 3M COMPANY SECURITIES LITIGATION",
+  "case_name_full": "",
+  "docket_number": "2:19-cv-15982",
+  "docket_number_core": "1915982",
+  "court_id": "njd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-07-29",
+  "date_terminated": "2020-12-04",
+  "date_last_filing": "2020-12-08",
+  "assigned_to_str": "Claire C. Cecchi",
+  "referred_to_str": "Mark Falk",
+  "pacer_case_id": "413179",
+  "source": "9",
+  "slug": "in-re-3m-company-securities-litigation",
+  "federal_dn_case_type": "cv"
+}

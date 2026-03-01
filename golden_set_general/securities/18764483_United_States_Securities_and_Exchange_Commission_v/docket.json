@@ -1,0 +1,20 @@
+{
+  "id": "18764483",
+  "case_name": "United States Securities and Exchange Commission v. CapSource, Inc.",
+  "case_name_full": "",
+  "docket_number": "2:20-cv-02303",
+  "docket_number_core": "2002303",
+  "court_id": "nvd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2020-12-21",
+  "date_terminated": "2021-05-06",
+  "date_last_filing": "2025-12-10",
+  "assigned_to_str": "Richard F. Boulware II",
+  "referred_to_str": "Daniel J. Albregts",
+  "pacer_case_id": "147587",
+  "source": "1",
+  "slug": "united-states-securities-and-exchange-commission-v-capsource-inc",
+  "federal_dn_case_type": "cv"
+}

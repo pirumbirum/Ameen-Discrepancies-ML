@@ -1,0 +1,20 @@
+{
+  "id": "62611424",
+  "case_name": "Gray v. Fidelity Investment",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-00041",
+  "docket_number_core": "2200041",
+  "court_id": "nynd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "28:1332 - Diversity: Securities & Exchange Commiss",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-01-19",
+  "date_terminated": "2022-05-12",
+  "date_last_filing": "2022-08-25",
+  "assigned_to_str": "David N. Hurd",
+  "referred_to_str": "Christian F. Hummel",
+  "pacer_case_id": "131384",
+  "source": "1",
+  "slug": "gray-v-fidelity-investment",
+  "federal_dn_case_type": "cv"
+}

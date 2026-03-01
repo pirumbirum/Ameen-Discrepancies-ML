@@ -1,0 +1,20 @@
+{
+  "id": "59864376",
+  "case_name": "In re Lordstown Motors Corp. Shareholder Derivative Litigation",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-00604",
+  "docket_number_core": "2100604",
+  "court_id": "ded",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-04-28",
+  "date_terminated": "2025-03-12",
+  "date_last_filing": "2025-03-12",
+  "assigned_to_str": "Stephanos Bibas",
+  "referred_to_str": "",
+  "pacer_case_id": "75317",
+  "source": "1",
+  "slug": "in-re-lordstown-motors-corp-shareholder-derivative-litigation",
+  "federal_dn_case_type": "cv"
+}

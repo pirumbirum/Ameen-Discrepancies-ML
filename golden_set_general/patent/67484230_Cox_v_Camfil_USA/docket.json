@@ -1,0 +1,20 @@
+{
+  "id": "67484230",
+  "case_name": "Cox v. Camfil USA",
+  "case_name_full": "",
+  "docket_number": "5:23-cv-00504",
+  "docket_number_core": "2300504",
+  "court_id": "okwd",
+  "nature_of_suit": "Patent",
+  "cause": "28:1331 Fed. Question",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-06-07",
+  "date_terminated": "2023-10-24",
+  "date_last_filing": "2023-11-30",
+  "assigned_to_str": "David L. Russell",
+  "referred_to_str": "",
+  "pacer_case_id": "122623",
+  "source": "1",
+  "slug": "cox-v-camfil-usa",
+  "federal_dn_case_type": "cv"
+}

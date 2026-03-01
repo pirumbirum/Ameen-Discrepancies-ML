@@ -1,0 +1,20 @@
+{
+  "id": "67095461",
+  "case_name": "Anderson v. Acuity, A Mutual Insurance Company",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-01046",
+  "docket_number_core": "2301046",
+  "court_id": "tnwd",
+  "nature_of_suit": "Insurance",
+  "cause": "12:635 Breach of Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2023-03-27",
+  "date_terminated": "2025-02-03",
+  "date_last_filing": "2025-11-07",
+  "assigned_to_str": "Daniel Breen",
+  "referred_to_str": "Jon A. York",
+  "pacer_case_id": "98393",
+  "source": "1",
+  "slug": "anderson-v-acuity-a-mutual-insurance-company",
+  "federal_dn_case_type": "cv"
+}

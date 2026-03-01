@@ -1,0 +1,20 @@
+{
+  "id": "67612095",
+  "case_name": "Young v. Allstate Insurance Company",
+  "case_name_full": "",
+  "docket_number": "8:23-cv-01589",
+  "docket_number_core": "2301589",
+  "court_id": "flmd",
+  "nature_of_suit": "Insurance",
+  "cause": "12:0635 Breach of Insurance Contract",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-07-17",
+  "date_terminated": "2024-05-07",
+  "date_last_filing": "2024-05-08",
+  "assigned_to_str": "William F. Jung",
+  "referred_to_str": "Unassigned Magistrate",
+  "pacer_case_id": "416298",
+  "source": "1",
+  "slug": "young-v-allstate-insurance-company",
+  "federal_dn_case_type": "cv"
+}

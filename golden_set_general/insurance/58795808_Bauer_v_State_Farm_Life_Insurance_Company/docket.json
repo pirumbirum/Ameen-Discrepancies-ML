@@ -1,0 +1,20 @@
+{
+  "id": "58795808",
+  "case_name": "Bauer v. State Farm Life Insurance Company",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-00464",
+  "docket_number_core": "2100464",
+  "court_id": "gand",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-01-29",
+  "date_terminated": "2022-12-20",
+  "date_last_filing": "2023-05-30",
+  "assigned_to_str": "Steven D. Grimberg",
+  "referred_to_str": "",
+  "pacer_case_id": "286346",
+  "source": "1",
+  "slug": "bauer-v-state-farm-life-insurance-company",
+  "federal_dn_case_type": "cv"
+}

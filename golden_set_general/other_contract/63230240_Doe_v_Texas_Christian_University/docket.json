@@ -1,0 +1,20 @@
+{
+  "id": "63230240",
+  "case_name": "Doe v. Texas Christian University",
+  "case_name_full": "",
+  "docket_number": "4:22-cv-00297",
+  "docket_number_core": "2200297",
+  "court_id": "txnd",
+  "nature_of_suit": "190 Contract: Other Contract",
+  "cause": "28:1331 Fed. Question: Breach of Contract",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-04-12",
+  "date_terminated": "2023-01-09",
+  "date_last_filing": "2023-01-10",
+  "assigned_to_str": "Reed C. O'Connor",
+  "referred_to_str": "",
+  "pacer_case_id": "361429",
+  "source": "1",
+  "slug": "doe-v-texas-christian-university",
+  "federal_dn_case_type": "cv"
+}

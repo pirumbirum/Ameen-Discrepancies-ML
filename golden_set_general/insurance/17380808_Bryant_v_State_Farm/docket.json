@@ -1,0 +1,20 @@
+{
+  "id": "17380808",
+  "case_name": "Bryant v. State Farm",
+  "case_name_full": "",
+  "docket_number": "2:20-cv-00134",
+  "docket_number_core": "2000134",
+  "court_id": "mssd",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2020-07-24",
+  "date_terminated": "2022-09-27",
+  "date_last_filing": "2024-02-28",
+  "assigned_to_str": "Keith Starrett",
+  "referred_to_str": "Michael T. Parker",
+  "pacer_case_id": "108903",
+  "source": "1",
+  "slug": "bryant-v-state-farm",
+  "federal_dn_case_type": "cv"
+}

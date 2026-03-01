@@ -1,0 +1,20 @@
+{
+  "id": "17112345",
+  "case_name": "Werner Enterprises, Inc. v. SMC Transport, LLC",
+  "case_name_full": "",
+  "docket_number": "8:20-cv-00164",
+  "docket_number_core": "2000164",
+  "court_id": "ned",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "Diversity of citizenship",
+  "date_filed": "2020-04-29",
+  "date_terminated": "2023-01-23",
+  "date_last_filing": "2023-01-23",
+  "assigned_to_str": "Joseph F. Bataillon",
+  "referred_to_str": "Susan M. Bazis Magistrate Judge",
+  "pacer_case_id": "87442",
+  "source": "9",
+  "slug": "werner-enterprises-inc-v-smc-transport-llc",
+  "federal_dn_case_type": "cv"
+}

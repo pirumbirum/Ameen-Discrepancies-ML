@@ -1,0 +1,20 @@
+{
+  "id": "17037190",
+  "case_name": "Securities and Exchange Commission v. Meta 1 Coin Trust",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-00273",
+  "docket_number_core": "2000273",
+  "court_id": "txwd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2020-03-16",
+  "date_terminated": "2023-03-15",
+  "date_last_filing": "2025-04-10",
+  "assigned_to_str": "Robert Pitman",
+  "referred_to_str": "",
+  "pacer_case_id": "1091880",
+  "source": "9",
+  "slug": "securities-and-exchange-commission-v-meta-1-coin-trust",
+  "federal_dn_case_type": "cv"
+}

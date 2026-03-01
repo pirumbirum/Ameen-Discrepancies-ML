@@ -1,0 +1,20 @@
+{
+  "id": "17222235",
+  "case_name": "Pierce v. Safe Credit Union",
+  "case_name_full": "",
+  "docket_number": "2:20-cv-00985",
+  "docket_number_core": "2000985",
+  "court_id": "caed",
+  "nature_of_suit": "Banks and Banking",
+  "cause": "28:1441 Petition for Removal",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-05-15",
+  "date_terminated": "2020-07-20",
+  "date_last_filing": "2020-07-20",
+  "assigned_to_str": "William B. Shubb",
+  "referred_to_str": "Deborah Barnes",
+  "pacer_case_id": "373273",
+  "source": "9",
+  "slug": "pierce-v-safe-credit-union",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "59934166",
+  "case_name": "Milliman, Inc. v. Gradient A.I. Corp.",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-10865",
+  "docket_number_core": "2110865",
+  "court_id": "mad",
+  "nature_of_suit": "830 Patent",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-05-25",
+  "date_terminated": "2024-02-13",
+  "date_last_filing": "2024-04-19",
+  "assigned_to_str": "Nathaniel M. Gorton",
+  "referred_to_str": "M. Page Kelley",
+  "pacer_case_id": "234535",
+  "source": "1",
+  "slug": "milliman-inc-v-gradient-ai-corp",
+  "federal_dn_case_type": "cv"
+}

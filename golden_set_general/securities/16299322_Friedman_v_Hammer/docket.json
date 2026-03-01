@@ -1,0 +1,20 @@
+{
+  "id": "16299322",
+  "case_name": "Friedman v. Hammer",
+  "case_name_full": "",
+  "docket_number": "0:19-cv-62481",
+  "docket_number_core": "1962481",
+  "court_id": "flsd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "28:1331 Fed. Question: Securities Violation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-10-04",
+  "date_terminated": "2020-09-16",
+  "date_last_filing": "2020-10-20",
+  "assigned_to_str": "Paul C. Huck",
+  "referred_to_str": "Chris M. McAliley",
+  "pacer_case_id": "558752",
+  "source": "9",
+  "slug": "friedman-v-hammer",
+  "federal_dn_case_type": "cv"
+}

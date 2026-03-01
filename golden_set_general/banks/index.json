@@ -1,0 +1,3338 @@
+[
+  {
+    "docket_id": "16408805",
+    "case_name": "Hugunin v. J.P. Morgan Chase Bank, N.A.",
+    "court_id": "idd",
+    "date_filed": "2019-10-31",
+    "date_terminated": "2019-12-06",
+    "source": "9"
+  },
+  {
+    "docket_id": "67785096",
+    "case_name": "Morton v. Wells Fargo",
+    "court_id": "scd",
+    "date_filed": "2023-09-06",
+    "date_terminated": "2024-02-02",
+    "source": "1"
+  },
+  {
+    "docket_id": "65748851",
+    "case_name": "Georgion v. Bank of America Corporation",
+    "court_id": "ncwd",
+    "date_filed": "2022-11-11",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "17105933",
+    "case_name": "Sachs v. Citizens Financial Group, Inc.",
+    "court_id": "ctd",
+    "date_filed": "2020-04-28",
+    "date_terminated": "2021-08-17",
+    "source": "9"
+  },
+  {
+    "docket_id": "17458159",
+    "case_name": "Patten v. Lown",
+    "court_id": "flmd",
+    "date_filed": "2020-08-18",
+    "date_terminated": "2021-01-25",
+    "source": "1"
+  },
+  {
+    "docket_id": "70565472",
+    "case_name": "Brown v. Zenith International Bank PLC",
+    "court_id": "txnd",
+    "date_filed": "2025-06-17",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "62980853",
+    "case_name": "Boyd v. Bank of America, N.A.",
+    "court_id": "caed",
+    "date_filed": "2022-02-04",
+    "date_terminated": "2022-06-06",
+    "source": "1"
+  },
+  {
+    "docket_id": "48831177",
+    "case_name": "Swanson v. PNC Bank N.A.",
+    "court_id": "ilnd",
+    "date_filed": "2020-10-27",
+    "date_terminated": "2021-09-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "17158235",
+    "case_name": "Graves v. NW Priority Credit Union",
+    "court_id": "ord",
+    "date_filed": "2020-05-11",
+    "date_terminated": "2021-02-01",
+    "source": "9"
+  },
+  {
+    "docket_id": "68861138",
+    "case_name": "RICE v. WELLS FARGO BANK, NATIONAL ASSOCIATION",
+    "court_id": "paed",
+    "date_filed": "2024-06-17",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "71019544",
+    "case_name": "Marie Gutierrez v. Affirm, Inc.",
+    "court_id": "cacd",
+    "date_filed": "2025-08-04",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "65209978",
+    "case_name": "Lane v. Security National Mortgage Company",
+    "court_id": "flmd",
+    "date_filed": "2022-09-08",
+    "date_terminated": "2023-11-06",
+    "source": "1"
+  },
+  {
+    "docket_id": "70004068",
+    "case_name": "Matthew Kenney v. Fifth Third Bancorp",
+    "court_id": "nysd",
+    "date_filed": "2025-04-30",
+    "date_terminated": "2025-06-30",
+    "source": "1"
+  },
+  {
+    "docket_id": "6347853",
+    "case_name": "Federal Deposit Insurance Corporation v. Crowe Horwath LLP",
+    "court_id": "ilnd",
+    "date_filed": "2017-06-09",
+    "date_terminated": "2020-02-04",
+    "source": "9"
+  },
+  {
+    "docket_id": "71137427",
+    "case_name": "Williams v. TD Bank, N.A.",
+    "court_id": "nysd",
+    "date_filed": "2025-08-15",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "65597599",
+    "case_name": "Savvidis v. Bank of America NA",
+    "court_id": "nysd",
+    "date_filed": "2022-10-18",
+    "date_terminated": "2022-10-31",
+    "source": "1"
+  },
+  {
+    "docket_id": "65592737",
+    "case_name": "Copple v. Southern Bank of Tennessee",
+    "court_id": "tnmd",
+    "date_filed": "2022-09-07",
+    "date_terminated": "2023-09-20",
+    "source": "1"
+  },
+  {
+    "docket_id": "65640681",
+    "case_name": "Pacmoore Products, Inc. v. Fifth Third Bank",
+    "court_id": "ilnd",
+    "date_filed": "2022-10-26",
+    "date_terminated": "2023-05-01",
+    "source": "1"
+  },
+  {
+    "docket_id": "68211362",
+    "case_name": "Pak v. JP Morgan Chase Bank N.A.",
+    "court_id": "cod",
+    "date_filed": "2024-01-31",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "51763760",
+    "case_name": "McClain v. Wells Fargo Bank, N.A.",
+    "court_id": "mdd",
+    "date_filed": "2020-07-10",
+    "date_terminated": "2021-08-27",
+    "source": "1"
+  },
+  {
+    "docket_id": "51850933",
+    "case_name": "Moyer v. Mr. Cooper Group, Inc.",
+    "court_id": "mdd",
+    "date_filed": "2020-11-25",
+    "date_terminated": "2024-10-15",
+    "source": "1"
+  },
+  {
+    "docket_id": "68817580",
+    "case_name": "Alexander v. Bank of America",
+    "court_id": "casd",
+    "date_filed": "2024-05-30",
+    "date_terminated": "2024-06-20",
+    "source": "1"
+  },
+  {
+    "docket_id": "68828037",
+    "case_name": "Alexander v. Chime",
+    "court_id": "casd",
+    "date_filed": "2024-06-03",
+    "date_terminated": "2024-06-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "71328484",
+    "case_name": "The People of The State of New York v. Early Warning Services, LLC",
+    "court_id": "nysd",
+    "date_filed": "2025-09-12",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "70273465",
+    "case_name": "Chang v. Citibank",
+    "court_id": "cand",
+    "date_filed": "2025-05-14",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68513714",
+    "case_name": "Bernstein v. JPMORGAN CHASE BANK, N.A.",
+    "court_id": "nysd",
+    "date_filed": "2024-05-08",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69785939",
+    "case_name": "Baldi v. Service Finance Co. LLC",
+    "court_id": "caed",
+    "date_filed": "2025-03-24",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68379841",
+    "case_name": "Mongiello v. Indymac Bank, F.S.B.",
+    "court_id": "nysd",
+    "date_filed": "2024-03-25",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "51865659",
+    "case_name": "Adeyemi v. SunTrust Banks",
+    "court_id": "mdd",
+    "date_filed": "2020-12-21",
+    "date_terminated": "2021-08-02",
+    "source": "1"
+  },
+  {
+    "docket_id": "69634669",
+    "case_name": "Jalalian v. JPMorgan Chase Bank, N.A.",
+    "court_id": "cand",
+    "date_filed": "2025-02-10",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "66673882",
+    "case_name": "Boushehri v. Citizens Financial Group, Inc.",
+    "court_id": "mied",
+    "date_filed": "2022-12-21",
+    "date_terminated": "2024-04-29",
+    "source": "1"
+  },
+  {
+    "docket_id": "66692443",
+    "case_name": "Warren v. Cardona",
+    "court_id": "flmd",
+    "date_filed": "2022-12-30",
+    "date_terminated": "2023-08-04",
+    "source": "1"
+  },
+  {
+    "docket_id": "67169565",
+    "case_name": "Anderson v. Corizon Health Services",
+    "court_id": "moed",
+    "date_filed": "2023-04-10",
+    "date_terminated": "2023-09-18",
+    "source": "1"
+  },
+  {
+    "docket_id": "61637062",
+    "case_name": "The Deaconess Associations, Inc. v. Wells Fargo Bank - National Association",
+    "court_id": "ord",
+    "date_filed": "2021-12-21",
+    "date_terminated": "2022-10-13",
+    "source": "1"
+  },
+  {
+    "docket_id": "69657289",
+    "case_name": "Washington v. Bank Of America",
+    "court_id": "cand",
+    "date_filed": "2025-02-18",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "71092986",
+    "case_name": "Jensen v. Navy Federal Credit Union",
+    "court_id": "azd",
+    "date_filed": "2025-08-12",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "63230272",
+    "case_name": "Padao v. American Express National Bank",
+    "court_id": "nced",
+    "date_filed": "2022-04-12",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "66573460",
+    "case_name": "Best v. Green Dot Corporation",
+    "court_id": "nced",
+    "date_filed": "2022-11-29",
+    "date_terminated": "2023-03-30",
+    "source": "1"
+  },
+  {
+    "docket_id": "59852948",
+    "case_name": "Natour v. BANK OF AMERICA, N.A.",
+    "court_id": "txed",
+    "date_filed": "2021-04-26",
+    "date_terminated": "2023-03-09",
+    "source": "1"
+  },
+  {
+    "docket_id": "71516159",
+    "case_name": "Slatus v. Flake",
+    "court_id": "gasd",
+    "date_filed": "2025-09-30",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68495657",
+    "case_name": "Palma v. Wells Fargo Bank, National Association",
+    "court_id": "cand",
+    "date_filed": "2024-05-02",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "66634492",
+    "case_name": "Mosley v. Wells Fargo & Co.",
+    "court_id": "casd",
+    "date_filed": "2022-12-13",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "61588491",
+    "case_name": "Goodrich v. Cross River Bank",
+    "court_id": "cand",
+    "date_filed": "2021-12-01",
+    "date_terminated": "2024-02-02",
+    "source": "1"
+  },
+  {
+    "docket_id": "7395488",
+    "case_name": "PAGE v. ALLIANT CREDIT UNION",
+    "court_id": "njd",
+    "date_filed": "2018-07-10",
+    "date_terminated": "2019-07-15",
+    "source": "9"
+  },
+  {
+    "docket_id": "67259202",
+    "case_name": "Schlichting v. R.I.A. Federal Credit Union",
+    "court_id": "ilcd",
+    "date_filed": "2023-04-24",
+    "date_terminated": "2024-03-05",
+    "source": "1"
+  },
+  {
+    "docket_id": "30545239",
+    "case_name": "Jory Zoelle v. Bank of America, N.A.",
+    "court_id": "cacd",
+    "date_filed": "2021-01-19",
+    "date_terminated": "2021-06-11",
+    "source": "1"
+  },
+  {
+    "docket_id": "68364397",
+    "case_name": "505 SFD, LLC v. Federal Deposit Insurance Corporation",
+    "court_id": "cand",
+    "date_filed": "2024-03-21",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67409570",
+    "case_name": "Wamhoff v. Navy Federal Credit Union",
+    "court_id": "moed",
+    "date_filed": "2023-05-19",
+    "date_terminated": "2023-07-14",
+    "source": "1"
+  },
+  {
+    "docket_id": "63314666",
+    "case_name": "White v. Shipley",
+    "court_id": "ord",
+    "date_filed": "2022-05-16",
+    "date_terminated": "2022-06-16",
+    "source": "1"
+  },
+  {
+    "docket_id": "63307808",
+    "case_name": "Landscape Images Ltd. v. IberiaBank Corporation",
+    "court_id": "laed",
+    "date_filed": "2022-05-12",
+    "date_terminated": "2024-02-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "60682806",
+    "case_name": "Fairchild-Cathey v. Americu Credit Union",
+    "court_id": "nynd",
+    "date_filed": "2021-10-27",
+    "date_terminated": "2024-05-10",
+    "source": "1"
+  },
+  {
+    "docket_id": "29111860",
+    "case_name": "Carter v. The City National Bank and Trust Company of Lawton Oklahoma",
+    "court_id": "okwd",
+    "date_filed": "2021-01-14",
+    "date_terminated": "2024-01-22",
+    "source": "1"
+  },
+  {
+    "docket_id": "59685603",
+    "case_name": "Williams v. JPMorgan Chase Bank, N.A.",
+    "court_id": "ilnd",
+    "date_filed": "2021-02-16",
+    "date_terminated": "2021-06-10",
+    "source": "1"
+  },
+  {
+    "docket_id": "18717862",
+    "case_name": "Cortes v. Cabrillo Credit Union",
+    "court_id": "casd",
+    "date_filed": "2020-12-04",
+    "date_terminated": "2022-12-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "18721140",
+    "case_name": "Bryant v. Washington Federal Bank, Inc",
+    "court_id": "nmd",
+    "date_filed": "2020-12-07",
+    "date_terminated": "2024-05-28",
+    "source": "1"
+  },
+  {
+    "docket_id": "7877982",
+    "case_name": "Hyde v. Franklin American Mortgage Company",
+    "court_id": "sdd",
+    "date_filed": "2018-09-14",
+    "date_terminated": "2020-04-08",
+    "source": "9"
+  },
+  {
+    "docket_id": "18569535",
+    "case_name": "Adams v. Liberty Bank",
+    "court_id": "ctd",
+    "date_filed": "2020-10-23",
+    "date_terminated": "2022-04-19",
+    "source": "1"
+  },
+  {
+    "docket_id": "67386900",
+    "case_name": "Krueger v. Wells Fargo",
+    "court_id": "sdd",
+    "date_filed": "2023-05-12",
+    "date_terminated": "2023-07-12",
+    "source": "1"
+  },
+  {
+    "docket_id": "71542134",
+    "case_name": "Michael Painter v. Green Dot Bank",
+    "court_id": "cacd",
+    "date_filed": "2025-10-03",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "66616030",
+    "case_name": "Park v. Shinhan Bank America",
+    "court_id": "nysd",
+    "date_filed": "2022-12-06",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67413596",
+    "case_name": "Rise Development Partners, LLC v. Signature Bank",
+    "court_id": "nysd",
+    "date_filed": "2023-05-22",
+    "date_terminated": "2024-10-22",
+    "source": "1"
+  },
+  {
+    "docket_id": "67507965",
+    "case_name": "Comiesee Sampson v. USAA Federal Savings Bank",
+    "court_id": "cacd",
+    "date_filed": "2023-06-16",
+    "date_terminated": "2023-07-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "67615001",
+    "case_name": "Frazier v. 5/3 Bank",
+    "court_id": "ohsd",
+    "date_filed": "2023-07-17",
+    "date_terminated": "2023-08-11",
+    "source": "1"
+  },
+  {
+    "docket_id": "67614604",
+    "case_name": "Green Valley Villas West Condominium Association v. Washington Federal Bank",
+    "court_id": "azd",
+    "date_filed": "2023-07-14",
+    "date_terminated": "2024-12-20",
+    "source": "1"
+  },
+  {
+    "docket_id": "67704753",
+    "case_name": "Honore v. Gulf Coast Bank & Trust Company",
+    "court_id": "lamd",
+    "date_filed": "2023-08-18",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67677906",
+    "case_name": "Romain v. Webster Bank N.A.",
+    "court_id": "nyed",
+    "date_filed": "2023-08-07",
+    "date_terminated": "2025-01-10",
+    "source": "1"
+  },
+  {
+    "docket_id": "67688889",
+    "case_name": "Keita v. Chase Bank",
+    "court_id": "nysd",
+    "date_filed": "2023-08-11",
+    "date_terminated": "2023-10-11",
+    "source": "1"
+  },
+  {
+    "docket_id": "67685781",
+    "case_name": "Ben-Avi v. Discover Financial Services, Inc.",
+    "court_id": "ilnd",
+    "date_filed": "2023-08-09",
+    "date_terminated": "2024-07-22",
+    "source": "1"
+  },
+  {
+    "docket_id": "67771396",
+    "case_name": "Murphy v. Capital One",
+    "court_id": "moed",
+    "date_filed": "2023-09-07",
+    "date_terminated": "2023-10-05",
+    "source": "1"
+  },
+  {
+    "docket_id": "67802665",
+    "case_name": "63rd & Morgan Currency Exchange, Inc. v. Citibank, N.A.",
+    "court_id": "ilnd",
+    "date_filed": "2023-08-01",
+    "date_terminated": "2024-02-14",
+    "source": "1"
+  },
+  {
+    "docket_id": "67785087",
+    "case_name": "Morton v. Duke Energy",
+    "court_id": "scd",
+    "date_filed": "2023-09-11",
+    "date_terminated": "2024-02-02",
+    "source": "1"
+  },
+  {
+    "docket_id": "67886295",
+    "case_name": "Swann v. Google",
+    "court_id": "tned",
+    "date_filed": "2023-10-05",
+    "date_terminated": "2023-12-14",
+    "source": "1"
+  },
+  {
+    "docket_id": "67926982",
+    "case_name": "Reybol v. JPMorgan Chase Bank, N.A.",
+    "court_id": "cand",
+    "date_filed": "2023-10-27",
+    "date_terminated": "2024-03-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "67861558",
+    "case_name": "QP CAPITAL, LLC v. INDIANA DEPARTMENT OF CHILD SERVICES",
+    "court_id": "insd",
+    "date_filed": "2023-10-06",
+    "date_terminated": "2023-10-17",
+    "source": "1"
+  },
+  {
+    "docket_id": "68307470",
+    "case_name": "Farella Braun + Martel LLP v. Federal Deposit Insurance Corporation as Receiver for Silicon Valley Bank",
+    "court_id": "cand",
+    "date_filed": "2024-03-04",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68450321",
+    "case_name": "Khan v. PNC Bank",
+    "court_id": "nced",
+    "date_filed": "2024-04-18",
+    "date_terminated": "2024-07-08",
+    "source": "1"
+  },
+  {
+    "docket_id": "68451741",
+    "case_name": "Law Offices of Phoenix Thottam v. JPMorgan Chase Bank, National Association",
+    "court_id": "cacd",
+    "date_filed": "2024-04-18",
+    "date_terminated": "2024-04-22",
+    "source": "1"
+  },
+  {
+    "docket_id": "68851220",
+    "case_name": "Bryant v. Tinker Federal Credit Union",
+    "court_id": "okwd",
+    "date_filed": "2024-06-12",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69196375",
+    "case_name": "Antunes v. Federal Deposit Insurance Corporation",
+    "court_id": "cand",
+    "date_filed": "2024-09-25",
+    "date_terminated": "2025-01-07",
+    "source": "1"
+  },
+  {
+    "docket_id": "69518733",
+    "case_name": "Abunameh v. Kuwait Projects Company",
+    "court_id": "nysd",
+    "date_filed": "2024-12-23",
+    "date_terminated": "2025-01-30",
+    "source": "1"
+  },
+  {
+    "docket_id": "69475823",
+    "case_name": "Zapata v. Bank of America",
+    "court_id": "flmd",
+    "date_filed": "2024-12-16",
+    "date_terminated": "2025-01-08",
+    "source": "1"
+  },
+  {
+    "docket_id": "69461599",
+    "case_name": "A&C Gaming, LLC v. BHG Financial, LLC",
+    "court_id": "nced",
+    "date_filed": "2024-12-12",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "71666054",
+    "case_name": "Mazza v. Primelending",
+    "court_id": "azd",
+    "date_filed": "2025-10-14",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "16109242",
+    "case_name": "DETROIT REHABILITATION INITIATIVES, LLC v. FEDERAL HOME LOAN BANK OF INDIANAPOLIS",
+    "court_id": "insd",
+    "date_filed": "2019-08-26",
+    "date_terminated": "2019-09-18",
+    "source": "9"
+  },
+  {
+    "docket_id": "29103658",
+    "case_name": "McDonald v. Citibank N.A.",
+    "court_id": "nysd",
+    "date_filed": "2021-01-12",
+    "date_terminated": "2021-02-05",
+    "source": "1"
+  },
+  {
+    "docket_id": "66958860",
+    "case_name": "Sneva v. JPMorgan Chase Bank NA",
+    "court_id": "waed",
+    "date_filed": "2023-03-06",
+    "date_terminated": "2024-02-12",
+    "source": "1"
+  },
+  {
+    "docket_id": "16569119",
+    "case_name": "Herrmann v. Wells Fargo Bank, N.A.",
+    "court_id": "vawd",
+    "date_filed": "2019-12-10",
+    "date_terminated": "2021-06-16",
+    "source": "9"
+  },
+  {
+    "docket_id": "17304194",
+    "case_name": "Shehan v. United States Department of Justice",
+    "court_id": "ohsd",
+    "date_filed": "2020-06-29",
+    "date_terminated": "2020-12-30",
+    "source": "9"
+  },
+  {
+    "docket_id": "65419306",
+    "case_name": "Kerames v. Wells Fargo",
+    "court_id": "nysd",
+    "date_filed": "2022-10-11",
+    "date_terminated": "2022-10-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "17106233",
+    "case_name": "DRAZDIK V DIRECTOR INTERNAL REVENUE SERVICE",
+    "court_id": "pawd",
+    "date_filed": "2020-04-15",
+    "date_terminated": "2020-06-11",
+    "source": "9"
+  },
+  {
+    "docket_id": "67847734",
+    "case_name": "Harris v. Nevada Funding, LLC",
+    "court_id": "nynd",
+    "date_filed": "2023-09-29",
+    "date_terminated": "2025-04-02",
+    "source": "1"
+  },
+  {
+    "docket_id": "60365044",
+    "case_name": "BROWN v. DEMCHAK",
+    "court_id": "pawd",
+    "date_filed": "2021-09-03",
+    "date_terminated": "2021-10-05",
+    "source": "1"
+  },
+  {
+    "docket_id": "60276904",
+    "case_name": "Santos Vasquez v. Specialized Loan Servicing LLC",
+    "court_id": "cacd",
+    "date_filed": "2021-08-23",
+    "date_terminated": "2021-10-07",
+    "source": "1"
+  },
+  {
+    "docket_id": "16894345",
+    "case_name": "Murph v. GTE Federal Credit Union",
+    "court_id": "flmd",
+    "date_filed": "2020-02-26",
+    "date_terminated": "2020-12-15",
+    "source": "9"
+  },
+  {
+    "docket_id": "59757901",
+    "case_name": "Johnson v. Wells Fargo",
+    "court_id": "wawd",
+    "date_filed": "2021-03-20",
+    "date_terminated": "2021-09-15",
+    "source": "1"
+  },
+  {
+    "docket_id": "17240184",
+    "case_name": "Bannister v. United States Treasury Department",
+    "court_id": "nysd",
+    "date_filed": "2020-06-10",
+    "date_terminated": "2021-09-30",
+    "source": "9"
+  },
+  {
+    "docket_id": "68872312",
+    "case_name": "Ballentine v. Credit One Bank N.A.",
+    "court_id": "nysd",
+    "date_filed": "2024-06-18",
+    "date_terminated": "2025-01-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "8381637",
+    "case_name": "St.Louis v. Selene Finance",
+    "court_id": "nyed",
+    "date_filed": "2018-11-02",
+    "date_terminated": "2020-10-01",
+    "source": "9"
+  },
+  {
+    "docket_id": "15770591",
+    "case_name": "Freitas v. Bank Of America",
+    "court_id": "cand",
+    "date_filed": "2019-06-13",
+    "date_terminated": "2019-11-11",
+    "source": "9"
+  },
+  {
+    "docket_id": "42572967",
+    "case_name": "Hoffman v. Federal Reserve Bank of New York, The",
+    "court_id": "scd",
+    "date_filed": "2020-11-09",
+    "date_terminated": "2021-03-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "68118962",
+    "case_name": "Sowell v. The Huntington Bank",
+    "court_id": "ohsd",
+    "date_filed": "2023-12-19",
+    "date_terminated": "2024-02-16",
+    "source": "1"
+  },
+  {
+    "docket_id": "62610308",
+    "case_name": "Washington v. Green Dot Corporation",
+    "court_id": "scd",
+    "date_filed": "2021-11-16",
+    "date_terminated": "2022-02-24",
+    "source": "1"
+  },
+  {
+    "docket_id": "68389178",
+    "case_name": "Fashion Group LLC v. Bank of America",
+    "court_id": "gand",
+    "date_filed": "2023-03-01",
+    "date_terminated": "2024-03-27",
+    "source": "1"
+  },
+  {
+    "docket_id": "67756089",
+    "case_name": "KIRBY v. JOYNER",
+    "court_id": "ncmd",
+    "date_filed": "2023-09-01",
+    "date_terminated": "2024-03-27",
+    "source": "1"
+  },
+  {
+    "docket_id": "68420177",
+    "case_name": "State of Minnesota v. GoodLeap LLC",
+    "court_id": "mnd",
+    "date_filed": "2024-04-05",
+    "date_terminated": "2025-03-10",
+    "source": "1"
+  },
+  {
+    "docket_id": "63137432",
+    "case_name": "Connor v. Bank of America",
+    "court_id": "casd",
+    "date_filed": "2022-03-04",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "63218507",
+    "case_name": "East v. PNC Bank National Association",
+    "court_id": "azd",
+    "date_filed": "2022-04-06",
+    "date_terminated": "2022-05-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "63297171",
+    "case_name": "Retzlaff v. Heartland Financial USA, Inc.",
+    "court_id": "nysd",
+    "date_filed": "2022-05-09",
+    "date_terminated": "2022-06-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "60032209",
+    "case_name": "CLAYTON v. DOLLAR BANK",
+    "court_id": "pawd",
+    "date_filed": "2021-06-30",
+    "date_terminated": "2021-10-05",
+    "source": "1"
+  },
+  {
+    "docket_id": "69602055",
+    "case_name": "Lumbus, Jr. v. Huntington Bank",
+    "court_id": "ohnd",
+    "date_filed": "2025-01-31",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "63291480",
+    "case_name": "Climate Change Truth, Inc. v. Shipley",
+    "court_id": "ord",
+    "date_filed": "2022-05-05",
+    "date_terminated": "2022-06-16",
+    "source": "1"
+  },
+  {
+    "docket_id": "69568862",
+    "case_name": "Lopez v. New Jersey Sun Tech, LLC",
+    "court_id": "pamd",
+    "date_filed": "2024-08-12",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "63304054",
+    "case_name": "Yousefzadeh v. Wells Fargo Bank, N.A.",
+    "court_id": "tnmd",
+    "date_filed": "2022-05-06",
+    "date_terminated": "2023-01-04",
+    "source": "1"
+  },
+  {
+    "docket_id": "42641429",
+    "case_name": "Hart v. Navy Federal Credit Union",
+    "court_id": "scd",
+    "date_filed": "2021-01-07",
+    "date_terminated": "2022-07-25",
+    "source": "1"
+  },
+  {
+    "docket_id": "63166548",
+    "case_name": "Nassir Black v. R.W. and Selby Co. Inc",
+    "court_id": "cacd",
+    "date_filed": "2022-03-16",
+    "date_terminated": "2022-06-08",
+    "source": "1"
+  },
+  {
+    "docket_id": "69890098",
+    "case_name": "Yasif v. American Express",
+    "court_id": "wawd",
+    "date_filed": "2025-04-11",
+    "date_terminated": "2025-05-13",
+    "source": "1"
+  },
+  {
+    "docket_id": "16561768",
+    "case_name": "Hugunin v. State of Idaho",
+    "court_id": "idd",
+    "date_filed": "2019-12-06",
+    "date_terminated": "2020-03-03",
+    "source": "9"
+  },
+  {
+    "docket_id": "66582477",
+    "case_name": "(PS) Selck v. Mikuni Restaurants",
+    "court_id": "caed",
+    "date_filed": "2022-12-01",
+    "date_terminated": "2023-03-06",
+    "source": "1"
+  },
+  {
+    "docket_id": "63566964",
+    "case_name": "Schwartz v. Wells Fargo Bank NA",
+    "court_id": "scd",
+    "date_filed": "2022-06-30",
+    "date_terminated": "2023-03-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "69606577",
+    "case_name": "Cooper v. Crowl",
+    "court_id": "ded",
+    "date_filed": "2025-02-03",
+    "date_terminated": "2025-05-02",
+    "source": "1"
+  },
+  {
+    "docket_id": "60492872",
+    "case_name": "Maskanian v. Wells Fargo & Company",
+    "court_id": "nyed",
+    "date_filed": "2021-09-27",
+    "date_terminated": "2023-06-26",
+    "source": "1"
+  },
+  {
+    "docket_id": "59810725",
+    "case_name": "William and Ave Bortz v. JP Morgan Chase Bank N.A.",
+    "court_id": "casd",
+    "date_filed": "2021-04-09",
+    "date_terminated": "2022-05-10",
+    "source": "1"
+  },
+  {
+    "docket_id": "69432163",
+    "case_name": "Avis Copelin v. The Old Point National Bank of Phoebus",
+    "court_id": "cacd",
+    "date_filed": "2024-11-27",
+    "date_terminated": "2025-01-24",
+    "source": "1"
+  },
+  {
+    "docket_id": "18516890",
+    "case_name": "(PS) Latorre v. Calaro",
+    "court_id": "caed",
+    "date_filed": "2020-04-30",
+    "date_terminated": "2021-01-26",
+    "source": "1"
+  },
+  {
+    "docket_id": "60032400",
+    "case_name": "Poorsina v. Wells Fargo Bank, N.A.",
+    "court_id": "cand",
+    "date_filed": "2021-07-01",
+    "date_terminated": "2022-07-25",
+    "source": "1"
+  },
+  {
+    "docket_id": "17353491",
+    "case_name": "Sims v. Opportunity Financial, LLC",
+    "court_id": "cand",
+    "date_filed": "2020-07-15",
+    "date_terminated": "2021-04-13",
+    "source": "1"
+  },
+  {
+    "docket_id": "68524293",
+    "case_name": "Tobiason v. BMO Bank NA",
+    "court_id": "wied",
+    "date_filed": "2024-05-13",
+    "date_terminated": "2024-12-06",
+    "source": "1"
+  },
+  {
+    "docket_id": "60331529",
+    "case_name": "PEARSALL v. JP MORGAN CHASE BANK",
+    "court_id": "paed",
+    "date_filed": "2021-08-26",
+    "date_terminated": "2022-07-08",
+    "source": "1"
+  },
+  {
+    "docket_id": "63363915",
+    "case_name": "Boyd v. Bank of America, N.A.",
+    "court_id": "casd",
+    "date_filed": "2022-06-06",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "71499980",
+    "case_name": "Thayer v. BMO Bank, N.A.",
+    "court_id": "mnd",
+    "date_filed": "2025-09-29",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "16376114",
+    "case_name": "Green Dolphin Capital LLC v. JPMorgan Chase Bank, N.A.",
+    "court_id": "ilnd",
+    "date_filed": "2019-10-22",
+    "date_terminated": "2020-10-26",
+    "source": "9"
+  },
+  {
+    "docket_id": "67820832",
+    "case_name": "Gould v. JP Morgan Chase & Co",
+    "court_id": "nysd",
+    "date_filed": "2023-09-22",
+    "date_terminated": "2024-05-15",
+    "source": "1"
+  },
+  {
+    "docket_id": "60703437",
+    "case_name": "Divison of Banking of Illinois v. Bank of Lincolnwood and Assigns",
+    "court_id": "hid",
+    "date_filed": "2021-11-05",
+    "date_terminated": "2022-03-09",
+    "source": "1"
+  },
+  {
+    "docket_id": "70464407",
+    "case_name": "Cunningham v. PlainsCapital Bank",
+    "court_id": "txsd",
+    "date_filed": "2025-06-05",
+    "date_terminated": "2025-07-31",
+    "source": "1"
+  },
+  {
+    "docket_id": "63256940",
+    "case_name": "Dretar v. Select Portfolio Servicing, Inc.",
+    "court_id": "laed",
+    "date_filed": "2022-04-20",
+    "date_terminated": "2022-11-08",
+    "source": "1"
+  },
+  {
+    "docket_id": "59827002",
+    "case_name": "Adkins v. OnPoint Community Credit Union",
+    "court_id": "ord",
+    "date_filed": "2021-04-15",
+    "date_terminated": "2021-09-13",
+    "source": "1"
+  },
+  {
+    "docket_id": "59988740",
+    "case_name": "WILLIAMS TRUST v. WELLS FARGO EASTWICK BRANCH",
+    "court_id": "paed",
+    "date_filed": "2021-06-10",
+    "date_terminated": "2021-08-13",
+    "source": "1"
+  },
+  {
+    "docket_id": "16846845",
+    "case_name": "Faison v. Doe",
+    "court_id": "flsd",
+    "date_filed": "2020-02-14",
+    "date_terminated": "2020-02-20",
+    "source": "9"
+  },
+  {
+    "docket_id": "69931274",
+    "case_name": "Will Pryor v. Bank of America, N.A.",
+    "court_id": "cacd",
+    "date_filed": "2025-04-16",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67638050",
+    "case_name": "Slater v. FDIC as Receiver for First Republic Bank",
+    "court_id": "cand",
+    "date_filed": "2023-07-26",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68839895",
+    "case_name": "Constrafor Inc. v. Federal Deposit Insurance Corporation",
+    "court_id": "nysd",
+    "date_filed": "2024-06-08",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "17200953",
+    "case_name": "Ezeiruaku v. American Express Company",
+    "court_id": "nysd",
+    "date_filed": "2020-05-22",
+    "date_terminated": "2020-11-23",
+    "source": "9"
+  },
+  {
+    "docket_id": "18558159",
+    "case_name": "Clark v. JPMorgan Chase Bank, N.A.",
+    "court_id": "flsd",
+    "date_filed": "2020-10-21",
+    "date_terminated": "2022-04-13",
+    "source": "1"
+  },
+  {
+    "docket_id": "63890974",
+    "case_name": "Wiley v. Moynihan",
+    "court_id": "ohnd",
+    "date_filed": "2022-07-21",
+    "date_terminated": "2022-09-08",
+    "source": "1"
+  },
+  {
+    "docket_id": "65369731",
+    "case_name": "Espin v. Citibank, N.A.",
+    "court_id": "nced",
+    "date_filed": "2022-09-22",
+    "date_terminated": "2023-11-02",
+    "source": "1"
+  },
+  {
+    "docket_id": "13602415",
+    "case_name": "Leach v. Wehling",
+    "court_id": "alsd",
+    "date_filed": "2018-10-19",
+    "date_terminated": "2019-04-05",
+    "source": "9"
+  },
+  {
+    "docket_id": "67887208",
+    "case_name": "Sumaira Rahman v. MTGLQ Investors, L.P.",
+    "court_id": "cacd",
+    "date_filed": "2023-10-16",
+    "date_terminated": "2024-02-27",
+    "source": "1"
+  },
+  {
+    "docket_id": "63153808",
+    "case_name": "Tyson v. Green Dot Corporation",
+    "court_id": "nysd",
+    "date_filed": "2022-03-11",
+    "date_terminated": "2022-12-19",
+    "source": "1"
+  },
+  {
+    "docket_id": "67785094",
+    "case_name": "Morton v. Citigroup",
+    "court_id": "scd",
+    "date_filed": "2023-09-06",
+    "date_terminated": "2024-02-02",
+    "source": "1"
+  },
+  {
+    "docket_id": "65344694",
+    "case_name": "Roberts v. Olson",
+    "court_id": "casd",
+    "date_filed": "2022-09-12",
+    "date_terminated": "2023-01-05",
+    "source": "1"
+  },
+  {
+    "docket_id": "8342629",
+    "case_name": "Walker v. BOKF, National Association",
+    "court_id": "nmd",
+    "date_filed": "2018-08-22",
+    "date_terminated": "2019-07-15",
+    "source": "9"
+  },
+  {
+    "docket_id": "67994631",
+    "case_name": "Guzzo v. Mason McDuffie Mortgage Co.",
+    "court_id": "cand",
+    "date_filed": "2023-11-09",
+    "date_terminated": "2024-04-16",
+    "source": "1"
+  },
+  {
+    "docket_id": "68459977",
+    "case_name": "Conti v. Bank of America",
+    "court_id": "hid",
+    "date_filed": "2024-04-22",
+    "date_terminated": "2025-05-06",
+    "source": "1"
+  },
+  {
+    "docket_id": "8394006",
+    "case_name": "Wachovia Mortgage, FSB v. Toczek",
+    "court_id": "ctd",
+    "date_filed": "2018-12-04",
+    "date_terminated": "2018-12-11",
+    "source": "9"
+  },
+  {
+    "docket_id": "16846115",
+    "case_name": "Zubair v. Bank of America",
+    "court_id": "nysd",
+    "date_filed": "2020-02-11",
+    "date_terminated": "2020-07-29",
+    "source": "9"
+  },
+  {
+    "docket_id": "6209439",
+    "case_name": "Cristo v. The Charles Schwab Corporation",
+    "court_id": "casd",
+    "date_filed": "2017-09-12",
+    "date_terminated": "2021-12-21",
+    "source": "9"
+  },
+  {
+    "docket_id": "61690564",
+    "case_name": "Hardin v. Bank of America, N.A.",
+    "court_id": "mied",
+    "date_filed": "2022-01-05",
+    "date_terminated": "2022-08-18",
+    "source": "1"
+  },
+  {
+    "docket_id": "63265381",
+    "case_name": "Broockmann v. The Bank of Greene County",
+    "court_id": "nynd",
+    "date_filed": "2022-04-26",
+    "date_terminated": "2023-10-25",
+    "source": "1"
+  },
+  {
+    "docket_id": "68395247",
+    "case_name": "KCL Resolutions, LLC v. Wells Fargo Bank, National Association (Inc.)",
+    "court_id": "gand",
+    "date_filed": "2023-07-06",
+    "date_terminated": "2024-03-31",
+    "source": "1"
+  },
+  {
+    "docket_id": "60622058",
+    "case_name": "Coppedge v. SLS, LLC",
+    "court_id": "ded",
+    "date_filed": "2021-10-04",
+    "date_terminated": "2022-08-09",
+    "source": "1"
+  },
+  {
+    "docket_id": "6093248",
+    "case_name": "McClain v. Wells Fargo Bank, N.A., Wells Fargo Home Mortgage",
+    "court_id": "mdd",
+    "date_filed": "2017-04-24",
+    "date_terminated": "2023-01-30",
+    "source": "9"
+  },
+  {
+    "docket_id": "69927941",
+    "case_name": "Meyer v. Intrepid Credit Union",
+    "court_id": "mtd",
+    "date_filed": "2025-04-22",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "71028333",
+    "case_name": "Thompson v. Pathward N.A. Corp.",
+    "court_id": "vawd",
+    "date_filed": "2025-08-05",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "70896615",
+    "case_name": "Payton v. Wells Fargo Bank",
+    "court_id": "nysd",
+    "date_filed": "2025-07-21",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69311119",
+    "case_name": "Marsh v. Freedom Mortgage Corporation",
+    "court_id": "caed",
+    "date_filed": "2024-10-24",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "70033240",
+    "case_name": "Chen v. Bank of America, N.A.",
+    "court_id": "cand",
+    "date_filed": "2025-05-01",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67395633",
+    "case_name": "Bennett v. The Federal Savings Bank",
+    "court_id": "idd",
+    "date_filed": "2023-04-07",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "65634767",
+    "case_name": "Collom v. Bank of America, National Association",
+    "court_id": "cand",
+    "date_filed": "2022-10-25",
+    "date_terminated": "2022-11-29",
+    "source": "1"
+  },
+  {
+    "docket_id": "67693471",
+    "case_name": "Holloway v. Penn Federal Credit Union",
+    "court_id": "mad",
+    "date_filed": "2023-08-15",
+    "date_terminated": "2023-08-17",
+    "source": "1"
+  },
+  {
+    "docket_id": "68240481",
+    "case_name": "Stallworth v. Newrez LLC",
+    "court_id": "mssd",
+    "date_filed": "2024-02-09",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67786375",
+    "case_name": "Garfield-Dan Ryan Currency Exchange, Inc. v. Citibank, N.A.",
+    "court_id": "ilnd",
+    "date_filed": "2023-08-01",
+    "date_terminated": "2024-08-09",
+    "source": "1"
+  },
+  {
+    "docket_id": "63294458",
+    "case_name": "Douglas G. Gray v. Kristine Ben",
+    "court_id": "cacd",
+    "date_filed": "2022-05-06",
+    "date_terminated": "2023-06-08",
+    "source": "1"
+  },
+  {
+    "docket_id": "65595701",
+    "case_name": "Herman v. The Mr/ Cooper Group Inc.",
+    "court_id": "nysd",
+    "date_filed": "2022-10-20",
+    "date_terminated": "2023-10-20",
+    "source": "1"
+  },
+  {
+    "docket_id": "66657760",
+    "case_name": "Garcia-Rodriguez v. Wells Fargo Bank",
+    "court_id": "txwd",
+    "date_filed": "2022-12-16",
+    "date_terminated": "2023-04-27",
+    "source": "1"
+  },
+  {
+    "docket_id": "66786552",
+    "case_name": "CHECCHIA v. SOLO FUNDS, INC.",
+    "court_id": "paed",
+    "date_filed": "2023-02-03",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "7089771",
+    "case_name": "United States v. DeMauro",
+    "court_id": "nhd",
+    "date_filed": "2017-11-27",
+    "date_terminated": "2020-09-18",
+    "source": "9"
+  },
+  {
+    "docket_id": "67107793",
+    "case_name": "Rise Development Partners, LLC v. Signature Bank",
+    "court_id": "nyed",
+    "date_filed": "2023-03-29",
+    "date_terminated": "2023-05-22",
+    "source": "1"
+  },
+  {
+    "docket_id": "69483055",
+    "case_name": "Buxbaum v. JP Morgan Chase & Co.",
+    "court_id": "nysd",
+    "date_filed": "2024-12-17",
+    "date_terminated": "2025-02-27",
+    "source": "1"
+  },
+  {
+    "docket_id": "67761722",
+    "case_name": "Gilbert v. Wells Fargo Bank, N.A.",
+    "court_id": "scd",
+    "date_filed": "2023-09-05",
+    "date_terminated": "2024-03-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "14504235",
+    "case_name": "Gasho v. Wells Fargo Bank NA",
+    "court_id": "azd",
+    "date_filed": "2018-11-16",
+    "date_terminated": "2019-11-20",
+    "source": "9"
+  },
+  {
+    "docket_id": "6241726",
+    "case_name": "Fernandez v. Santander Bank",
+    "court_id": "mad",
+    "date_filed": "2017-09-26",
+    "date_terminated": "2018-03-16",
+    "source": "9"
+  },
+  {
+    "docket_id": "6539009",
+    "case_name": "United States v. Kaufman",
+    "court_id": "ctd",
+    "date_filed": "2018-05-09",
+    "date_terminated": "2022-01-04",
+    "source": "9"
+  },
+  {
+    "docket_id": "17100143",
+    "case_name": "Sha-Poppin Gourmet Popcorn LLC v. JPMorgan Chase Bank, N.A",
+    "court_id": "ilnd",
+    "date_filed": "2020-04-24",
+    "date_terminated": "2024-10-22",
+    "source": "9"
+  },
+  {
+    "docket_id": "14587674",
+    "case_name": "Zaidi v. JPMorgan Chase Bank, N.A.",
+    "court_id": "nyed",
+    "date_filed": "2019-02-22",
+    "date_terminated": "2021-03-09",
+    "source": "9"
+  },
+  {
+    "docket_id": "14518129",
+    "case_name": "Estate of Russell E. Morgan Sr. v. BWW Law Group, LLC",
+    "court_id": "mdd",
+    "date_filed": "2018-01-18",
+    "date_terminated": "2022-01-18",
+    "source": "1"
+  },
+  {
+    "docket_id": "67468531",
+    "case_name": "Moore v. Fagundes",
+    "court_id": "caed",
+    "date_filed": "2023-06-02",
+    "date_terminated": "2023-11-09",
+    "source": "1"
+  },
+  {
+    "docket_id": "14653189",
+    "case_name": "Van Eck v. Deutsche Bank Americas Holding Corporation",
+    "court_id": "vtd",
+    "date_filed": "2018-12-28",
+    "date_terminated": "2020-09-23",
+    "source": "9"
+  },
+  {
+    "docket_id": "14642524",
+    "case_name": "Ally Bank v. Webster",
+    "court_id": "vtd",
+    "date_filed": "2019-02-06",
+    "date_terminated": "2020-10-06",
+    "source": "9"
+  },
+  {
+    "docket_id": "68177032",
+    "case_name": "Manzano v. Capitol One",
+    "court_id": "nysd",
+    "date_filed": "2024-01-17",
+    "date_terminated": "2024-03-13",
+    "source": "1"
+  },
+  {
+    "docket_id": "14675529",
+    "case_name": "Recovery Fund II USA LLC v. Rabobank, National Association",
+    "court_id": "ded",
+    "date_filed": "2018-12-21",
+    "date_terminated": "2020-02-18",
+    "source": "9"
+  },
+  {
+    "docket_id": "71149804",
+    "case_name": "McCaul v. Wells Fargo Bank, N.A.",
+    "court_id": "mtd",
+    "date_filed": "2025-08-19",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67808679",
+    "case_name": "Ahamed v. Navy Federal Credit Union",
+    "court_id": "casd",
+    "date_filed": "2023-09-18",
+    "date_terminated": "2024-04-24",
+    "source": "1"
+  },
+  {
+    "docket_id": "62648642",
+    "case_name": "Smith v. Nationstar Mortgage, LLC",
+    "court_id": "ord",
+    "date_filed": "2022-02-02",
+    "date_terminated": "2025-04-02",
+    "source": "1"
+  },
+  {
+    "docket_id": "68565633",
+    "case_name": "Mosley v. Wells Fargo & Company",
+    "court_id": "cand",
+    "date_filed": "2024-05-24",
+    "date_terminated": "2024-11-14",
+    "source": "1"
+  },
+  {
+    "docket_id": "68694840",
+    "case_name": "Rowe v. Mo",
+    "court_id": "cand",
+    "date_filed": "2024-05-22",
+    "date_terminated": "2024-09-24",
+    "source": "1"
+  },
+  {
+    "docket_id": "7785772",
+    "case_name": "TNB USA Inc. v. Federal Reserve Bank of New York",
+    "court_id": "nysd",
+    "date_filed": "2018-08-31",
+    "date_terminated": "2020-03-26",
+    "source": "9"
+  },
+  {
+    "docket_id": "6974736",
+    "case_name": "Higgins v. Ally Financial Inc.",
+    "court_id": "mowd",
+    "date_filed": "2018-05-30",
+    "date_terminated": "2018-11-01",
+    "source": "9"
+  },
+  {
+    "docket_id": "4516644",
+    "case_name": "Childress v. JPMorgan Chase & Co.",
+    "court_id": "nced",
+    "date_filed": "2016-05-31",
+    "date_terminated": "2020-10-01",
+    "source": "9"
+  },
+  {
+    "docket_id": "67914710",
+    "case_name": "Herman v. The Mr. Cooper Group Inc.",
+    "court_id": "flmd",
+    "date_filed": "2023-10-25",
+    "date_terminated": "2025-02-19",
+    "source": "1"
+  },
+  {
+    "docket_id": "69200131",
+    "case_name": "Davis v. The Bank of New York Mellon",
+    "court_id": "nysd",
+    "date_filed": "2024-09-25",
+    "date_terminated": "2024-11-20",
+    "source": "1"
+  },
+  {
+    "docket_id": "69715132",
+    "case_name": "VELOCITY INVESTMENTS, LLC v. PECK",
+    "court_id": "insd",
+    "date_filed": "2025-03-06",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67264223",
+    "case_name": "Weulander v. North Star Credit Union",
+    "court_id": "mnd",
+    "date_filed": "2023-04-07",
+    "date_terminated": "2024-07-30",
+    "source": "1"
+  },
+  {
+    "docket_id": "65741248",
+    "case_name": "Trang v. JPMorgan Chase Bank, N.A.",
+    "court_id": "ord",
+    "date_filed": "2022-11-08",
+    "date_terminated": "2024-07-30",
+    "source": "1"
+  },
+  {
+    "docket_id": "68156488",
+    "case_name": "TORO v. BANK OF AMERICA",
+    "court_id": "njd",
+    "date_filed": "2024-01-11",
+    "date_terminated": "2024-08-26",
+    "source": "1"
+  },
+  {
+    "docket_id": "59750030",
+    "case_name": "Silva v. Olsen",
+    "court_id": "txed",
+    "date_filed": "2021-03-19",
+    "date_terminated": "2023-12-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "68322379",
+    "case_name": "Epperson v. Deutsche Bank",
+    "court_id": "caed",
+    "date_filed": "2024-03-07",
+    "date_terminated": "2024-09-30",
+    "source": "1"
+  },
+  {
+    "docket_id": "61653072",
+    "case_name": "Song v. Shinhan Bank America",
+    "court_id": "nysd",
+    "date_filed": "2021-12-30",
+    "date_terminated": "2022-12-14",
+    "source": "1"
+  },
+  {
+    "docket_id": "65753920",
+    "case_name": "Williams v. J.P. Morgan Chase Bank, N.A.",
+    "court_id": "cand",
+    "date_filed": "2022-11-14",
+    "date_terminated": "2023-12-05",
+    "source": "1"
+  },
+  {
+    "docket_id": "65644154",
+    "case_name": "Kerames v. Wells Fargo",
+    "court_id": "ctd",
+    "date_filed": "2022-10-28",
+    "date_terminated": "2024-07-08",
+    "source": "1"
+  },
+  {
+    "docket_id": "69103099",
+    "case_name": "Cascone v. Williams",
+    "court_id": "scd",
+    "date_filed": "2024-08-27",
+    "date_terminated": "2024-11-19",
+    "source": "1"
+  },
+  {
+    "docket_id": "69005679",
+    "case_name": "Butler v. Credit One Bank",
+    "court_id": "scd",
+    "date_filed": "2024-07-31",
+    "date_terminated": "2025-01-07",
+    "source": "1"
+  },
+  {
+    "docket_id": "69187396",
+    "case_name": "BienAime v. Wells Fargo Bank",
+    "court_id": "flmd",
+    "date_filed": "2024-09-23",
+    "date_terminated": "2024-12-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "68106388",
+    "case_name": "Wells Fargo Bank NA v. Williams",
+    "court_id": "txnd",
+    "date_filed": "2023-12-20",
+    "date_terminated": "2024-10-01",
+    "source": "1"
+  },
+  {
+    "docket_id": "68308957",
+    "case_name": "Udo v. Bank of America, N.A.",
+    "court_id": "cand",
+    "date_filed": "2024-03-04",
+    "date_terminated": "2024-08-15",
+    "source": "1"
+  },
+  {
+    "docket_id": "67784857",
+    "case_name": "Morton v. American Express",
+    "court_id": "scd",
+    "date_filed": "2023-09-06",
+    "date_terminated": "2024-02-02",
+    "source": "1"
+  },
+  {
+    "docket_id": "67785089",
+    "case_name": "Morton v. J.P. Morgan Chase & Co.",
+    "court_id": "scd",
+    "date_filed": "2023-09-06",
+    "date_terminated": "2024-02-02",
+    "source": "1"
+  },
+  {
+    "docket_id": "67983471",
+    "case_name": "Baur v. Peoples Bancshares, Inc.",
+    "court_id": "mssd",
+    "date_filed": "2023-11-06",
+    "date_terminated": "2024-12-18",
+    "source": "1"
+  },
+  {
+    "docket_id": "67424916",
+    "case_name": "Acuna v. TD Bank",
+    "court_id": "nysd",
+    "date_filed": "2023-05-25",
+    "date_terminated": "2024-03-31",
+    "source": "1"
+  },
+  {
+    "docket_id": "69390372",
+    "case_name": "CBW Bank v. Federal Deposit Insurance Corporation",
+    "court_id": "ksd",
+    "date_filed": "2024-11-19",
+    "date_terminated": "2025-03-03",
+    "source": "1"
+  },
+  {
+    "docket_id": "14947015",
+    "case_name": "Rhodes v. Wells Fargo Bank, N.A.",
+    "court_id": "idd",
+    "date_filed": "2019-04-15",
+    "date_terminated": "2020-11-17",
+    "source": "9"
+  },
+  {
+    "docket_id": "59694617",
+    "case_name": "Nelipa v. TD Bank, N.A.",
+    "court_id": "nyed",
+    "date_filed": "2021-03-01",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67536162",
+    "case_name": "PayServices Bank v. Federal Reserve Bank of San Francisco",
+    "court_id": "idd",
+    "date_filed": "2023-06-27",
+    "date_terminated": "2024-03-30",
+    "source": "1"
+  },
+  {
+    "docket_id": "68487283",
+    "case_name": "Nijland v. Department of Financial Protection & Innovation, CA",
+    "court_id": "ctd",
+    "date_filed": "2024-04-30",
+    "date_terminated": "2024-10-09",
+    "source": "1"
+  },
+  {
+    "docket_id": "59291085",
+    "case_name": "McDonald v. Citibank N.A.",
+    "court_id": "cod",
+    "date_filed": "2021-02-12",
+    "date_terminated": "2021-08-24",
+    "source": "1"
+  },
+  {
+    "docket_id": "60498024",
+    "case_name": "Whitlow v. Fowler",
+    "court_id": "almd",
+    "date_filed": "2021-09-22",
+    "date_terminated": "2022-05-03",
+    "source": "1"
+  },
+  {
+    "docket_id": "67626739",
+    "case_name": "Sardo v. First Source Federal Credit Union",
+    "court_id": "nynd",
+    "date_filed": "2023-07-19",
+    "date_terminated": "2025-04-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "17194724",
+    "case_name": "McCombs v. M&T Bank Corporation",
+    "court_id": "nywd",
+    "date_filed": "2019-02-25",
+    "date_terminated": "2020-05-27",
+    "source": "9"
+  },
+  {
+    "docket_id": "69157341",
+    "case_name": "Wheels Financial Group LLC v. Stolfi",
+    "court_id": "ord",
+    "date_filed": "2024-09-12",
+    "date_terminated": "2025-01-07",
+    "source": "1"
+  },
+  {
+    "docket_id": "15060833",
+    "case_name": "Oparaji v. Municipal Credit Union",
+    "court_id": "nysd",
+    "date_filed": "2019-05-06",
+    "date_terminated": "2021-06-14",
+    "source": "9"
+  },
+  {
+    "docket_id": "15061364",
+    "case_name": "Ellis v. Nationstar Mortgage LLC",
+    "court_id": "wied",
+    "date_filed": "2019-05-06",
+    "date_terminated": "2023-01-25",
+    "source": "9"
+  },
+  {
+    "docket_id": "69272810",
+    "case_name": "Saldate v. Apple Incorporated",
+    "court_id": "azd",
+    "date_filed": "2024-10-16",
+    "date_terminated": "2025-05-13",
+    "source": "1"
+  },
+  {
+    "docket_id": "68251434",
+    "case_name": "McCrea v. Santomassimo",
+    "court_id": "scd",
+    "date_filed": "2024-02-14",
+    "date_terminated": "2024-09-27",
+    "source": "1"
+  },
+  {
+    "docket_id": "51115982",
+    "case_name": "Walker v. Dankos, Gordon & Tucker, P.C.",
+    "court_id": "vaed",
+    "date_filed": "2020-03-02",
+    "date_terminated": "2021-07-14",
+    "source": "1"
+  },
+  {
+    "docket_id": "66638262",
+    "case_name": "Woodron International Company, LLC v. Bank Of America",
+    "court_id": "mad",
+    "date_filed": "2022-12-14",
+    "date_terminated": "2023-10-06",
+    "source": "1"
+  },
+  {
+    "docket_id": "16192744",
+    "case_name": "Tolley v. Wells Fargo Bank, N.A.",
+    "court_id": "vawd",
+    "date_filed": "2019-09-12",
+    "date_terminated": "2020-02-05",
+    "source": "9"
+  },
+  {
+    "docket_id": "68149628",
+    "case_name": "Britner v. Mount Auburn Hospital",
+    "court_id": "mad",
+    "date_filed": "2024-01-10",
+    "date_terminated": "2024-10-02",
+    "source": "1"
+  },
+  {
+    "docket_id": "8356953",
+    "case_name": "FREEMAN v. OCWEN LOAN SERVICING, INC.",
+    "court_id": "insd",
+    "date_filed": "2018-12-06",
+    "date_terminated": "2023-07-05",
+    "source": "9"
+  },
+  {
+    "docket_id": "59731174",
+    "case_name": "McCall v. Flagship Credit Acceptance",
+    "court_id": "vawd",
+    "date_filed": "2021-03-15",
+    "date_terminated": "2022-04-07",
+    "source": "1"
+  },
+  {
+    "docket_id": "63200205",
+    "case_name": "APPROVED MORTGAGE CORPORATION v. TRUIST BANK",
+    "court_id": "insd",
+    "date_filed": "2022-03-30",
+    "date_terminated": "2025-03-06",
+    "source": "1"
+  },
+  {
+    "docket_id": "63558646",
+    "case_name": "Retzlaff v. Heartland Financial USA Inc",
+    "court_id": "wied",
+    "date_filed": "2022-06-29",
+    "date_terminated": "2023-07-18",
+    "source": "1"
+  },
+  {
+    "docket_id": "63267670",
+    "case_name": "General Agent Center Incorporated v. Donald Vanier LLP",
+    "court_id": "azd",
+    "date_filed": "2022-04-26",
+    "date_terminated": "2022-09-30",
+    "source": "1"
+  },
+  {
+    "docket_id": "60327323",
+    "case_name": "Munoz v. Chase Bank",
+    "court_id": "flsd",
+    "date_filed": "2021-08-31",
+    "date_terminated": "2021-08-31",
+    "source": "1"
+  },
+  {
+    "docket_id": "28966823",
+    "case_name": "Shawn Samuel v. JP Morgan Chase Bank Nat'l Assoc.",
+    "court_id": "cacd",
+    "date_filed": "2020-12-30",
+    "date_terminated": "2021-05-25",
+    "source": "1"
+  },
+  {
+    "docket_id": "15009781",
+    "case_name": "Soileau v. Midsouth Bancorp Inc",
+    "court_id": "lawd",
+    "date_filed": "2019-04-26",
+    "date_terminated": "2021-04-08",
+    "source": "9"
+  },
+  {
+    "docket_id": "69211054",
+    "case_name": "Letterings v. Bank of America Bank One",
+    "court_id": "okwd",
+    "date_filed": "2024-09-30",
+    "date_terminated": "2024-12-09",
+    "source": "1"
+  },
+  {
+    "docket_id": "16485422",
+    "case_name": "Liu v. Wells Fargo Bank",
+    "court_id": "txed",
+    "date_filed": "2019-11-18",
+    "date_terminated": "2020-01-29",
+    "source": "9"
+  },
+  {
+    "docket_id": "68075946",
+    "case_name": "Jackson v. Hancock Whitney Bank",
+    "court_id": "laed",
+    "date_filed": "2023-12-08",
+    "date_terminated": "2024-09-27",
+    "source": "1"
+  },
+  {
+    "docket_id": "64944862",
+    "case_name": "Mir v. Trinity Financial Services, LLC",
+    "court_id": "mdd",
+    "date_filed": "2021-12-13",
+    "date_terminated": "2023-04-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "67085941",
+    "case_name": "Machie v. Pinkett",
+    "court_id": "mdd",
+    "date_filed": "2022-11-16",
+    "date_terminated": "2023-03-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "17444431",
+    "case_name": "Freeman v. Bay Equity LLC",
+    "court_id": "gasd",
+    "date_filed": "2020-02-21",
+    "date_terminated": "2020-12-15",
+    "source": "9"
+  },
+  {
+    "docket_id": "15769716",
+    "case_name": "Pickaree v. Visa USA, Inc",
+    "court_id": "txsd",
+    "date_filed": "2019-06-13",
+    "date_terminated": "2019-09-09",
+    "source": "9"
+  },
+  {
+    "docket_id": "17311161",
+    "case_name": "Johnson v. Sheffield Financial",
+    "court_id": "ared",
+    "date_filed": "2019-09-04",
+    "date_terminated": "2021-01-22",
+    "source": "9"
+  },
+  {
+    "docket_id": "67814552",
+    "case_name": "Adeyemi v. Truist Bank",
+    "court_id": "mdd",
+    "date_filed": "2023-08-23",
+    "date_terminated": "2023-10-03",
+    "source": "1"
+  },
+  {
+    "docket_id": "65775119",
+    "case_name": "Sol v. Longang",
+    "court_id": "mdd",
+    "date_filed": "2022-11-18",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "7652476",
+    "case_name": "Federal Deposit Insurance Corporation v. Bansley & Kiener, L.L.P.",
+    "court_id": "ilnd",
+    "date_filed": "2018-08-13",
+    "date_terminated": "2019-03-22",
+    "source": "9"
+  },
+  {
+    "docket_id": "67532216",
+    "case_name": "Fifth Third Bank, National Association v. Uknown Heirs",
+    "court_id": "ohsd",
+    "date_filed": "2023-06-26",
+    "date_terminated": "2023-09-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "18500214",
+    "case_name": "McCall v. New American Funding",
+    "court_id": "txnd",
+    "date_filed": "2020-10-01",
+    "date_terminated": "2020-12-01",
+    "source": "1"
+  },
+  {
+    "docket_id": "16946776",
+    "case_name": "Bureau of Consumer Financial Protection v. Fifth Third Bank, N.A.",
+    "court_id": "ilnd",
+    "date_filed": "2020-03-09",
+    "date_terminated": "2021-02-12",
+    "source": "9"
+  },
+  {
+    "docket_id": "67696480",
+    "case_name": "Iguade v. First Home Mortgage Corporation",
+    "court_id": "mdd",
+    "date_filed": "2023-04-20",
+    "date_terminated": "2024-03-26",
+    "source": "1"
+  },
+  {
+    "docket_id": "6686557",
+    "case_name": "RUALES v. SPENCER SAVINGS BANK",
+    "court_id": "njd",
+    "date_filed": "2018-05-14",
+    "date_terminated": "2022-06-01",
+    "source": "9"
+  },
+  {
+    "docket_id": "67431902",
+    "case_name": "Lanahan v. Regions Bank",
+    "court_id": "tnmd",
+    "date_filed": "2023-05-19",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68012410",
+    "case_name": "Couto v. American Express Company",
+    "court_id": "nysd",
+    "date_filed": "2023-10-30",
+    "date_terminated": "2024-02-01",
+    "source": "1"
+  },
+  {
+    "docket_id": "68431498",
+    "case_name": "Mills v. Bank OZK",
+    "court_id": "txed",
+    "date_filed": "2024-04-11",
+    "date_terminated": "2024-11-19",
+    "source": "1"
+  },
+  {
+    "docket_id": "68487492",
+    "case_name": "J.P. Morgan Securities LLC v. Nickel",
+    "court_id": "cand",
+    "date_filed": "2024-04-30",
+    "date_terminated": "2025-04-29",
+    "source": "1"
+  },
+  {
+    "docket_id": "70398524",
+    "case_name": "Sowell v. Huntington Bank",
+    "court_id": "ohsd",
+    "date_filed": "2025-05-28",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "70008382",
+    "case_name": "Pegouske v. Sofi Bank",
+    "court_id": "mied",
+    "date_filed": "2025-04-29",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69450637",
+    "case_name": "Boyd v. Banco Popular de Puerto Rico",
+    "court_id": "prd",
+    "date_filed": "2024-12-09",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68066918",
+    "case_name": "Wells Fargo Bank, N.A. v. Robert M. Maloney Jr.",
+    "court_id": "txed",
+    "date_filed": "2023-12-06",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68091851",
+    "case_name": "Johnson v. Wells Fargo Bank, N.A",
+    "court_id": "nysd",
+    "date_filed": "2023-12-15",
+    "date_terminated": "2024-08-09",
+    "source": "1"
+  },
+  {
+    "docket_id": "64915771",
+    "case_name": "Patricia Graham v. Wells Fargo Bank, N.A.",
+    "court_id": "cacd",
+    "date_filed": "2022-08-23",
+    "date_terminated": "2022-11-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "70534419",
+    "case_name": "Shari v. Bank Of America",
+    "court_id": "cand",
+    "date_filed": "2025-06-13",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68364108",
+    "case_name": "Farella Braun + Martel LLP v. Federal Deposit Insurance Corporation as Receiver for First Republic Bank",
+    "court_id": "cand",
+    "date_filed": "2024-03-21",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "70165856",
+    "case_name": "Chavous v. M & T Bank",
+    "court_id": "nynd",
+    "date_filed": "2025-05-06",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69022836",
+    "case_name": "El Shaddai v. Knoxville TVA Employees Credit Union",
+    "court_id": "tned",
+    "date_filed": "2024-08-07",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67529815",
+    "case_name": "Pauly v. Becker",
+    "court_id": "cand",
+    "date_filed": "2023-06-23",
+    "date_terminated": "2024-03-25",
+    "source": "1"
+  },
+  {
+    "docket_id": "69726525",
+    "case_name": "Lavelle Carter v. Ally Bank",
+    "court_id": "cacd",
+    "date_filed": "2025-03-03",
+    "date_terminated": "2025-06-18",
+    "source": "1"
+  },
+  {
+    "docket_id": "70493246",
+    "case_name": "Sirfuentes, III v. CITIBANK, N.A.",
+    "court_id": "nysd",
+    "date_filed": "2025-06-03",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "70695696",
+    "case_name": "Scott Christopher Forbes v. Bank of America, N.A.",
+    "court_id": "cacd",
+    "date_filed": "2025-07-02",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69559096",
+    "case_name": "BELL v. NVE BANCORP",
+    "court_id": "njd",
+    "date_filed": "2025-01-19",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67666656",
+    "case_name": "Federal Deposit Insurance Corporation v. America West Bank Members, L.C.",
+    "court_id": "utd",
+    "date_filed": "2023-08-03",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "70295354",
+    "case_name": "Bova v. Sajone",
+    "court_id": "pamd",
+    "date_filed": "2025-02-12",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "15655948",
+    "case_name": "Fairman v. Fairman",
+    "court_id": "nysd",
+    "date_filed": "2019-05-20",
+    "date_terminated": "2019-08-02",
+    "source": "9"
+  },
+  {
+    "docket_id": "15656930",
+    "case_name": "Venture General Agency, LLC v. Wells Fargo Bank, N.A.",
+    "court_id": "cand",
+    "date_filed": "2019-05-21",
+    "date_terminated": "2019-10-16",
+    "source": "9"
+  },
+  {
+    "docket_id": "15662991",
+    "case_name": "CRUM v. SN SERVICING CORPORATION",
+    "court_id": "insd",
+    "date_filed": "2019-05-22",
+    "date_terminated": "2022-04-21",
+    "source": "9"
+  },
+  {
+    "docket_id": "15881715",
+    "case_name": "United States v. Weatherly",
+    "court_id": "flmd",
+    "date_filed": "2019-07-05",
+    "date_terminated": "2021-05-05",
+    "source": "9"
+  },
+  {
+    "docket_id": "18587268",
+    "case_name": "Ng Chie v. Citigroup, Inc.",
+    "court_id": "cand",
+    "date_filed": "2020-10-29",
+    "date_terminated": "2021-12-31",
+    "source": "1"
+  },
+  {
+    "docket_id": "67216159",
+    "case_name": "BROWN v. CHASE AUTO - JPMORGAN CHASE BANK",
+    "court_id": "paed",
+    "date_filed": "2023-04-17",
+    "date_terminated": "2023-08-03",
+    "source": "1"
+  },
+  {
+    "docket_id": "18651006",
+    "case_name": "Grazer v. State Farm Bank, F.S.B",
+    "court_id": "caed",
+    "date_filed": "2020-11-16",
+    "date_terminated": "2021-10-05",
+    "source": "1"
+  },
+  {
+    "docket_id": "18693481",
+    "case_name": "Wilson v. Wells Fargo & Co.",
+    "court_id": "casd",
+    "date_filed": "2020-11-25",
+    "date_terminated": "2022-09-08",
+    "source": "1"
+  },
+  {
+    "docket_id": "15887127",
+    "case_name": "Williams v. Department of Defense",
+    "court_id": "txwd",
+    "date_filed": "2019-07-08",
+    "date_terminated": "2019-09-23",
+    "source": "9"
+  },
+  {
+    "docket_id": "4505843",
+    "case_name": "Smith v. Bank of Hawaii",
+    "court_id": "hid",
+    "date_filed": "2016-09-19",
+    "date_terminated": "2020-12-22",
+    "source": "9"
+  },
+  {
+    "docket_id": "62978728",
+    "case_name": "Polino v. The Huntington National Bank",
+    "court_id": "wvnd",
+    "date_filed": "2022-02-07",
+    "date_terminated": "2022-04-22",
+    "source": "1"
+  },
+  {
+    "docket_id": "5237621",
+    "case_name": "National Credit Union Administration Board v. Vangh",
+    "court_id": "mnd",
+    "date_filed": "2015-10-16",
+    "date_terminated": "2018-06-29",
+    "source": "9"
+  },
+  {
+    "docket_id": "69927943",
+    "case_name": "Brusati v. Montana Federal Credit Union",
+    "court_id": "mtd",
+    "date_filed": "2025-04-22",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68317241",
+    "case_name": "Alice Lin v. JPMorgan Chase Bank N.A.",
+    "court_id": "cacd",
+    "date_filed": "2024-03-06",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "15952533",
+    "case_name": "Lowe v. FDIC as Receiver for NBRS Financial",
+    "court_id": "mdd",
+    "date_filed": "2018-02-15",
+    "date_terminated": "2019-07-02",
+    "source": "9"
+  },
+  {
+    "docket_id": "71528977",
+    "case_name": "Francis v. TD Bank NA",
+    "court_id": "nyed",
+    "date_filed": "2025-10-02",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "16011474",
+    "case_name": "Proctor v. Ally Financial Inc.",
+    "court_id": "mdd",
+    "date_filed": "2018-09-27",
+    "date_terminated": "2019-08-02",
+    "source": "9"
+  },
+  {
+    "docket_id": "6226552",
+    "case_name": "Consumer Financial Protection Bureau v. Genuine Title, LLC",
+    "court_id": "mdd",
+    "date_filed": "2015-04-29",
+    "date_terminated": "2015-11-16",
+    "source": "9"
+  },
+  {
+    "docket_id": "6281809",
+    "case_name": "FDIC v. Urban Partnership Bank",
+    "court_id": "ilnd",
+    "date_filed": "2017-02-27",
+    "date_terminated": "2018-10-12",
+    "source": "9"
+  },
+  {
+    "docket_id": "6307668",
+    "case_name": "Bertsch v. Discover Financial Services",
+    "court_id": "nvd",
+    "date_filed": "2018-02-15",
+    "date_terminated": "2020-04-07",
+    "source": "9"
+  },
+  {
+    "docket_id": "6318051",
+    "case_name": "Fawcett v. Citizens Bank, N.A.",
+    "court_id": "mad",
+    "date_filed": "2017-06-07",
+    "date_terminated": "2018-04-19",
+    "source": "9"
+  },
+  {
+    "docket_id": "6359941",
+    "case_name": "Boswell v. Riverdale Credit Union",
+    "court_id": "alsd",
+    "date_filed": "2018-03-19",
+    "date_terminated": "2018-04-18",
+    "source": "9"
+  },
+  {
+    "docket_id": "6362296",
+    "case_name": "Green v. Jenkins Services, LLC",
+    "court_id": "mdd",
+    "date_filed": "2016-07-14",
+    "date_terminated": "2018-05-15",
+    "source": "9"
+  },
+  {
+    "docket_id": "6863262",
+    "case_name": "Doherty v. Washington Federal Bank for Savings",
+    "court_id": "ilnd",
+    "date_filed": "2018-01-30",
+    "date_terminated": "2018-08-15",
+    "source": "9"
+  },
+  {
+    "docket_id": "7467638",
+    "case_name": "Rowe v. Seterus, Inc",
+    "court_id": "mad",
+    "date_filed": "2018-03-27",
+    "date_terminated": "2018-07-19",
+    "source": "9"
+  },
+  {
+    "docket_id": "7717261",
+    "case_name": "Dunton v. AEA Federal Credit Union",
+    "court_id": "azd",
+    "date_filed": "2018-08-21",
+    "date_terminated": "2020-08-20",
+    "source": "9"
+  },
+  {
+    "docket_id": "16130594",
+    "case_name": "BANK OF NEW YORK v. FAZIO",
+    "court_id": "paed",
+    "date_filed": "2019-08-28",
+    "date_terminated": "2019-09-05",
+    "source": "9"
+  },
+  {
+    "docket_id": "16192745",
+    "case_name": "Tolley v. Wells Fargo Bank, N.A.",
+    "court_id": "vawd",
+    "date_filed": "2019-09-12",
+    "date_terminated": "2020-02-05",
+    "source": "9"
+  },
+  {
+    "docket_id": "16182601",
+    "case_name": "Lewis v. First Choice America Community Federal Credit Union",
+    "court_id": "wvnd",
+    "date_filed": "2019-09-10",
+    "date_terminated": "2019-12-11",
+    "source": "9"
+  },
+  {
+    "docket_id": "16192742",
+    "case_name": "Tolley v. Wells Fargo Bank, N.A.",
+    "court_id": "vawd",
+    "date_filed": "2019-09-12",
+    "date_terminated": "2020-02-05",
+    "source": "9"
+  },
+  {
+    "docket_id": "16358513",
+    "case_name": "Federal Deposit Insurance Corporation v. Patel",
+    "court_id": "ilnd",
+    "date_filed": "2019-10-21",
+    "date_terminated": "2025-03-05",
+    "source": "9"
+  },
+  {
+    "docket_id": "16460207",
+    "case_name": "Sharma v. Santander Bank",
+    "court_id": "mad",
+    "date_filed": "2019-10-22",
+    "date_terminated": "2020-02-25",
+    "source": "9"
+  },
+  {
+    "docket_id": "16796761",
+    "case_name": "Ikosi v. CLS Bank International",
+    "court_id": "nysd",
+    "date_filed": "2020-02-03",
+    "date_terminated": "2020-06-08",
+    "source": "9"
+  },
+  {
+    "docket_id": "17223420",
+    "case_name": "Wilson v. South Carolina Telco Federal Credit Union Bank",
+    "court_id": "scd",
+    "date_filed": "2020-06-01",
+    "date_terminated": "2022-02-09",
+    "source": "9"
+  },
+  {
+    "docket_id": "16996551",
+    "case_name": "Barrow v. NewRez LLC",
+    "court_id": "azd",
+    "date_filed": "2020-03-19",
+    "date_terminated": "2021-03-11",
+    "source": "9"
+  },
+  {
+    "docket_id": "17138375",
+    "case_name": "Woodson v. Board of Directors of the Harbor Hill Condominium Homeowners Association",
+    "court_id": "cand",
+    "date_filed": "2020-05-07",
+    "date_terminated": "2020-10-15",
+    "source": "9"
+  },
+  {
+    "docket_id": "17120352",
+    "case_name": "Leigh King Norton & Underwood LLC v. Regions Financial Corporation",
+    "court_id": "alnd",
+    "date_filed": "2020-04-28",
+    "date_terminated": "2020-10-26",
+    "source": "9"
+  },
+  {
+    "docket_id": "17222235",
+    "case_name": "Pierce v. Safe Credit Union",
+    "court_id": "caed",
+    "date_filed": "2020-05-15",
+    "date_terminated": "2020-07-20",
+    "source": "9"
+  },
+  {
+    "docket_id": "17222763",
+    "case_name": "Aloha Accounting and Tax LLC v. First Hawaiian Bank",
+    "court_id": "hid",
+    "date_filed": "2020-06-02",
+    "date_terminated": "2020-10-19",
+    "source": "9"
+  },
+  {
+    "docket_id": "17253072",
+    "case_name": "Blue Flame Medical LLC v. Chain Bridge Bank, N.A.",
+    "court_id": "vaed",
+    "date_filed": "2020-06-12",
+    "date_terminated": "2022-02-11",
+    "source": "9"
+  },
+  {
+    "docket_id": "17343632",
+    "case_name": "BAKER v. LINCOLN PARK BANCORP",
+    "court_id": "njd",
+    "date_filed": "2020-07-13",
+    "date_terminated": "2021-03-01",
+    "source": "1"
+  },
+  {
+    "docket_id": "17370121",
+    "case_name": "Williams & Haupt, P.C. v. Century Bank",
+    "court_id": "gasd",
+    "date_filed": "2020-07-20",
+    "date_terminated": "2020-12-01",
+    "source": "1"
+  },
+  {
+    "docket_id": "17371592",
+    "case_name": "THOMPSON v. SELECT PORTFOLIO SERVICING, INC.",
+    "court_id": "insd",
+    "date_filed": "2020-07-22",
+    "date_terminated": "2021-12-06",
+    "source": "1"
+  },
+  {
+    "docket_id": "17313821",
+    "case_name": "Gray v. Fidelity Investment",
+    "court_id": "nynd",
+    "date_filed": "2020-06-29",
+    "date_terminated": "2022-03-28",
+    "source": "9"
+  },
+  {
+    "docket_id": "69283006",
+    "case_name": "Hunter v. America First Credit Union",
+    "court_id": "nvd",
+    "date_filed": "2024-10-21",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69004390",
+    "case_name": "Ferdowsi v. JPMorgan Chase Bank, N.A.",
+    "court_id": "cand",
+    "date_filed": "2024-07-31",
+    "date_terminated": "2025-04-24",
+    "source": "1"
+  },
+  {
+    "docket_id": "63350774",
+    "case_name": "White v. Apple Bank For Savings",
+    "court_id": "nysd",
+    "date_filed": "2022-05-31",
+    "date_terminated": "2023-02-27",
+    "source": "1"
+  },
+  {
+    "docket_id": "63364587",
+    "case_name": "Foster v. Pelican State Credit Union",
+    "court_id": "lamd",
+    "date_filed": "2022-06-06",
+    "date_terminated": "2023-11-29",
+    "source": "1"
+  },
+  {
+    "docket_id": "63326276",
+    "case_name": "Soto-Santini v. Banco Popular de Puerto Rico",
+    "court_id": "prd",
+    "date_filed": "2022-05-19",
+    "date_terminated": "2023-10-25",
+    "source": "1"
+  },
+  {
+    "docket_id": "63364307",
+    "case_name": "BPi Bright Power, Inc. v. Umpqua Holding Corporation d/b/a Umpqua Bank",
+    "court_id": "cand",
+    "date_filed": "2022-06-06",
+    "date_terminated": "2025-05-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "63385531",
+    "case_name": "Smith v. JP Morgan Chase Bank, N.A.",
+    "court_id": "nysd",
+    "date_filed": "2022-06-13",
+    "date_terminated": "2024-01-16",
+    "source": "1"
+  },
+  {
+    "docket_id": "63559200",
+    "case_name": "Roberts v. Milles",
+    "court_id": "casd",
+    "date_filed": "2022-06-29",
+    "date_terminated": "2022-10-11",
+    "source": "1"
+  },
+  {
+    "docket_id": "63601874",
+    "case_name": "Fuller v. Green Dot Bank",
+    "court_id": "casd",
+    "date_filed": "2022-07-18",
+    "date_terminated": "2022-08-25",
+    "source": "1"
+  },
+  {
+    "docket_id": "64953006",
+    "case_name": "Bolden v. Bank of America",
+    "court_id": "moed",
+    "date_filed": "2022-09-07",
+    "date_terminated": "2022-11-22",
+    "source": "1"
+  },
+  {
+    "docket_id": "68471538",
+    "case_name": "Perez v. Consumer Financial Services Corporation",
+    "court_id": "ilnd",
+    "date_filed": "2024-04-19",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69594862",
+    "case_name": "ABUNAMEH v. KUWAIT PROJECTS COMPANY",
+    "court_id": "njd",
+    "date_filed": "2025-01-30",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69535822",
+    "case_name": "Funkhouser & Smith, PLLC v. Huntington National Bank",
+    "court_id": "wvnd",
+    "date_filed": "2025-01-10",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69716360",
+    "case_name": "LVNV FUNDING LLC v. PECK",
+    "court_id": "insd",
+    "date_filed": "2025-03-06",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69896152",
+    "case_name": "Burroughs v. Bank of America, N.A.",
+    "court_id": "nysd",
+    "date_filed": "2025-04-14",
+    "date_terminated": "2025-05-16",
+    "source": "1"
+  },
+  {
+    "docket_id": "69937455",
+    "case_name": "LeBlanc v. AmeriCredit Financial Services, Inc.",
+    "court_id": "nhd",
+    "date_filed": "2025-04-24",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68379840",
+    "case_name": "Mongiello v. HSBC Bank USA NA",
+    "court_id": "nysd",
+    "date_filed": "2024-03-25",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "66920399",
+    "case_name": "Sixela Investment Group v. Hope Federal Credit Union",
+    "court_id": "lawd",
+    "date_filed": "2023-03-01",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "67618142",
+    "case_name": "Laramore v. Old National Bank",
+    "court_id": "kyed",
+    "date_filed": "2023-07-17",
+    "date_terminated": "2023-07-18",
+    "source": "1"
+  },
+  {
+    "docket_id": "63553767",
+    "case_name": "Campise v. Davilla",
+    "court_id": "txwd",
+    "date_filed": "2022-06-28",
+    "date_terminated": "2024-03-21",
+    "source": "1"
+  },
+  {
+    "docket_id": "59820681",
+    "case_name": "Bureau of Consumer Financial Protection v. Fifth Third Bank, N.A.",
+    "court_id": "ohsd",
+    "date_filed": "2021-04-14",
+    "date_terminated": "2024-07-18",
+    "source": "1"
+  },
+  {
+    "docket_id": "59994988",
+    "case_name": "Grenier v. Granite State Credit Union",
+    "court_id": "nhd",
+    "date_filed": "2021-06-17",
+    "date_terminated": "2023-12-07",
+    "source": "1"
+  },
+  {
+    "docket_id": "67544961",
+    "case_name": "Hoang v. Citibank, N.A.",
+    "court_id": "cand",
+    "date_filed": "2023-06-30",
+    "date_terminated": "2024-08-20",
+    "source": "1"
+  },
+  {
+    "docket_id": "66580449",
+    "case_name": "Collom v. Bank of America, National Association",
+    "court_id": "casd",
+    "date_filed": "2022-11-30",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "62630729",
+    "case_name": "Barber v. Unitus Community Credit Union",
+    "court_id": "ord",
+    "date_filed": "2022-01-25",
+    "date_terminated": "2023-01-04",
+    "source": "1"
+  },
+  {
+    "docket_id": "59897093",
+    "case_name": "Cornell v. Desert Financial Credit Union",
+    "court_id": "azd",
+    "date_filed": "2021-05-10",
+    "date_terminated": "2025-09-30",
+    "source": "1"
+  },
+  {
+    "docket_id": "67107242",
+    "case_name": "Holiday v. Ameris Bank",
+    "court_id": "scd",
+    "date_filed": "2023-03-29",
+    "date_terminated": "2023-08-07",
+    "source": "1"
+  },
+  {
+    "docket_id": "67639985",
+    "case_name": "SOL-MM III LLC v. JPMorgan Chase Bank, N.A.",
+    "court_id": "nysd",
+    "date_filed": "2023-07-26",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "16764331",
+    "case_name": "Federal Trade Commission v. Vyera Pharmaceuticals, LLC",
+    "court_id": "nysd",
+    "date_filed": "2020-01-27",
+    "date_terminated": "2022-02-04",
+    "source": "9"
+  },
+  {
+    "docket_id": "67484890",
+    "case_name": "Shelton v. Comerica Bank",
+    "court_id": "cand",
+    "date_filed": "2023-06-07",
+    "date_terminated": "2025-01-09",
+    "source": "1"
+  },
+  {
+    "docket_id": "67185923",
+    "case_name": "Q3 Investments Recovery Vehicle, LLC v. Mcevoy",
+    "court_id": "nysd",
+    "date_filed": "2023-04-13",
+    "date_terminated": "2025-01-14",
+    "source": "1"
+  },
+  {
+    "docket_id": "14693907",
+    "case_name": "TODD v. OCWEN LOAN SERVICING, LLC",
+    "court_id": "insd",
+    "date_filed": "2019-02-18",
+    "date_terminated": "2020-12-21",
+    "source": "9"
+  },
+  {
+    "docket_id": "18613038",
+    "case_name": "Wellington v. Empower Federal Credit Union",
+    "court_id": "nynd",
+    "date_filed": "2020-11-05",
+    "date_terminated": "2023-06-27",
+    "source": "1"
+  },
+  {
+    "docket_id": "66780650",
+    "case_name": "MILLER v. ALDECOCEA",
+    "court_id": "paed",
+    "date_filed": "2023-01-31",
+    "date_terminated": "2023-07-13",
+    "source": "1"
+  },
+  {
+    "docket_id": "8017872",
+    "case_name": "Bellow v. Cenlar FSB",
+    "court_id": "laed",
+    "date_filed": "2018-10-10",
+    "date_terminated": "2020-08-25",
+    "source": "9"
+  },
+  {
+    "docket_id": "8381279",
+    "case_name": "George v. Jackson",
+    "court_id": "wawd",
+    "date_filed": "2018-12-06",
+    "date_terminated": "2020-05-07",
+    "source": "9"
+  },
+  {
+    "docket_id": "68315862",
+    "case_name": "Derrick E. Fuller v. BMO Bank",
+    "court_id": "cacd",
+    "date_filed": "2024-03-05",
+    "date_terminated": "2024-09-16",
+    "source": "1"
+  },
+  {
+    "docket_id": "8169542",
+    "case_name": "Academy Place, LLC v. First NBC Bank",
+    "court_id": "laed",
+    "date_filed": "2018-11-13",
+    "date_terminated": "2019-08-22",
+    "source": "9"
+  },
+  {
+    "docket_id": "69628898",
+    "case_name": "Wallace v. Navy Federal Credit Union",
+    "court_id": "scd",
+    "date_filed": "2025-02-10",
+    "date_terminated": "2025-05-08",
+    "source": "1"
+  },
+  {
+    "docket_id": "14837963",
+    "case_name": "347 Townhouse, LLC v. Citibank, N.A.",
+    "court_id": "nysd",
+    "date_filed": "2019-01-18",
+    "date_terminated": "",
+    "source": "9"
+  },
+  {
+    "docket_id": "59779438",
+    "case_name": "Crowder v. Joseph",
+    "court_id": "ohsd",
+    "date_filed": "2021-03-30",
+    "date_terminated": "2022-09-29",
+    "source": "1"
+  },
+  {
+    "docket_id": "69716788",
+    "case_name": "Perez v. OFAC",
+    "court_id": "flsd",
+    "date_filed": "2025-03-07",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "63271085",
+    "case_name": "Taccino v. Chessie Federal Credit Union",
+    "court_id": "wvnd",
+    "date_filed": "2022-04-28",
+    "date_terminated": "2022-10-24",
+    "source": "1"
+  },
+  {
+    "docket_id": "13572309",
+    "case_name": "Shallenburg v. PNC Bank, N.A.",
+    "court_id": "flmd",
+    "date_filed": "2018-09-07",
+    "date_terminated": "2020-06-08",
+    "source": "9"
+  },
+  {
+    "docket_id": "14626048",
+    "case_name": "Datt v. Wells Fargo Bank, N.A.",
+    "court_id": "cand",
+    "date_filed": "2019-03-06",
+    "date_terminated": "2019-11-05",
+    "source": "9"
+  },
+  {
+    "docket_id": "67843703",
+    "case_name": "Franklin v. Wells Fargo Bank, NA",
+    "court_id": "txwd",
+    "date_filed": "2023-09-29",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "17066274",
+    "case_name": "Caple v. PA General Assembly",
+    "court_id": "pamd",
+    "date_filed": "2019-08-19",
+    "date_terminated": "2020-05-18",
+    "source": "9"
+  },
+  {
+    "docket_id": "66846017",
+    "case_name": "Villanueva v. Rabobank, N.A.",
+    "court_id": "cand",
+    "date_filed": "2023-02-23",
+    "date_terminated": "2023-06-16",
+    "source": "1"
+  },
+  {
+    "docket_id": "31424028",
+    "case_name": "Lacey v. State of California",
+    "court_id": "casd",
+    "date_filed": "2021-01-20",
+    "date_terminated": "2021-01-26",
+    "source": "1"
+  },
+  {
+    "docket_id": "69732580",
+    "case_name": "Chantilly Auto Body, Inc. v. Truist Bank",
+    "court_id": "vaed",
+    "date_filed": "2024-08-01",
+    "date_terminated": "2025-03-12",
+    "source": "1"
+  },
+  {
+    "docket_id": "68976203",
+    "case_name": "South River Capital v. Manufacturers and Traders Trust Company",
+    "court_id": "mdd",
+    "date_filed": "2023-08-30",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "71093456",
+    "case_name": "Diangelo v. Stawinski",
+    "court_id": "nysd",
+    "date_filed": "2025-08-08",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "63343407",
+    "case_name": "Edwards v. Mid-Hudson Valley Federal Credit Union",
+    "court_id": "nynd",
+    "date_filed": "2022-05-26",
+    "date_terminated": "2023-09-07",
+    "source": "1"
+  },
+  {
+    "docket_id": "14967759",
+    "case_name": "Ehrenfeld v. Wells Fargo NA",
+    "court_id": "nyed",
+    "date_filed": "2019-04-19",
+    "date_terminated": "2019-10-08",
+    "source": "9"
+  },
+  {
+    "docket_id": "17075414",
+    "case_name": "Morgan v. Bank of America NA",
+    "court_id": "waed",
+    "date_filed": "2020-04-16",
+    "date_terminated": "2020-07-14",
+    "source": "9"
+  },
+  {
+    "docket_id": "63171023",
+    "case_name": "Johnson v. One Nevada Credit Union",
+    "court_id": "nvd",
+    "date_filed": "2022-01-31",
+    "date_terminated": "2022-03-18",
+    "source": "1"
+  },
+  {
+    "docket_id": "60014595",
+    "case_name": "R.S. Coppola Trust - Oct. 19, 1995 v. National Default Services",
+    "court_id": "nvd",
+    "date_filed": "2021-06-24",
+    "date_terminated": "2022-07-14",
+    "source": "1"
+  },
+  {
+    "docket_id": "14607254",
+    "case_name": "Chinitz v. Ally Bank",
+    "court_id": "utd",
+    "date_filed": "2019-01-25",
+    "date_terminated": "2020-04-21",
+    "source": "9"
+  },
+  {
+    "docket_id": "69796634",
+    "case_name": "Matthew Kenney v. Fifth Third Bancorp",
+    "court_id": "cacd",
+    "date_filed": "2025-03-26",
+    "date_terminated": "2025-04-25",
+    "source": "1"
+  },
+  {
+    "docket_id": "15961796",
+    "case_name": "SAVITZ v. CITIZENS BANK, N.A.",
+    "court_id": "pawd",
+    "date_filed": "2019-07-19",
+    "date_terminated": "2020-01-14",
+    "source": "9"
+  },
+  {
+    "docket_id": "67905224",
+    "case_name": "Couto v. JPMorgan Chase & Co.",
+    "court_id": "nysd",
+    "date_filed": "2023-10-21",
+    "date_terminated": "2024-01-31",
+    "source": "1"
+  },
+  {
+    "docket_id": "16649758",
+    "case_name": "Bryant v. Bryant",
+    "court_id": "nced",
+    "date_filed": "2019-12-31",
+    "date_terminated": "2020-03-16",
+    "source": "9"
+  },
+  {
+    "docket_id": "68491814",
+    "case_name": "Gomez v. Capital One Bank, N.A.",
+    "court_id": "flmd",
+    "date_filed": "2024-05-01",
+    "date_terminated": "2024-09-12",
+    "source": "1"
+  },
+  {
+    "docket_id": "63305016",
+    "case_name": "Counts v. Cooper",
+    "court_id": "scd",
+    "date_filed": "2022-05-12",
+    "date_terminated": "2022-09-15",
+    "source": "1"
+  },
+  {
+    "docket_id": "67847140",
+    "case_name": "Morton v. Collins",
+    "court_id": "scd",
+    "date_filed": "2023-10-02",
+    "date_terminated": "2024-04-25",
+    "source": "1"
+  },
+  {
+    "docket_id": "16972990",
+    "case_name": "LOVE v. FIFTH THIRD BANK",
+    "court_id": "njd",
+    "date_filed": "2019-12-06",
+    "date_terminated": "2021-04-22",
+    "source": "9"
+  },
+  {
+    "docket_id": "17263502",
+    "case_name": "Williams v. Oriental Bank",
+    "court_id": "vid",
+    "date_filed": "2020-05-28",
+    "date_terminated": "2023-08-24",
+    "source": "9"
+  },
+  {
+    "docket_id": "17338606",
+    "case_name": "PINEHURST NEUROPSYCHOLOGY, PLLC v. FIRST CITIZENS BANK & TRUST COMPANY",
+    "court_id": "ncmd",
+    "date_filed": "2020-07-10",
+    "date_terminated": "2021-09-29",
+    "source": "1"
+  },
+  {
+    "docket_id": "17263990",
+    "case_name": "Hicks v. Wells Fargo Bank, N.A.",
+    "court_id": "nywd",
+    "date_filed": "2019-04-04",
+    "date_terminated": "2020-06-17",
+    "source": "9"
+  },
+  {
+    "docket_id": "14981527",
+    "case_name": "FIORELLO v. SANTANDER BANK",
+    "court_id": "njd",
+    "date_filed": "2019-04-19",
+    "date_terminated": "2021-10-19",
+    "source": "9"
+  },
+  {
+    "docket_id": "71138114",
+    "case_name": "Luste v. U.S. Bank National Association",
+    "court_id": "nvd",
+    "date_filed": "2025-08-18",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "68536507",
+    "case_name": "ANDERSON v. BARITZ",
+    "court_id": "paed",
+    "date_filed": "2024-05-15",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "70500890",
+    "case_name": "Norris v. JPMorgan Chase Bank N.A.",
+    "court_id": "nyed",
+    "date_filed": "2025-06-10",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "17400876",
+    "case_name": "ALEKSANDR v. PNC BANK",
+    "court_id": "pawd",
+    "date_filed": "2020-07-30",
+    "date_terminated": "2020-09-16",
+    "source": "1"
+  },
+  {
+    "docket_id": "68501801",
+    "case_name": "Aromaye v. Moynihan",
+    "court_id": "txnd",
+    "date_filed": "2024-04-22",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "70500362",
+    "case_name": "(PS) Ramirez v. Wescom Credit Union",
+    "court_id": "caed",
+    "date_filed": "2025-06-10",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "59791025",
+    "case_name": "Futrell v. Lowe's",
+    "court_id": "moed",
+    "date_filed": "2021-04-02",
+    "date_terminated": "2022-02-01",
+    "source": "1"
+  },
+  {
+    "docket_id": "59756755",
+    "case_name": "Hoffman v. Federal Reserve Bank of New York, The",
+    "court_id": "nysd",
+    "date_filed": "2021-03-23",
+    "date_terminated": "2024-03-25",
+    "source": "1"
+  },
+  {
+    "docket_id": "59884477",
+    "case_name": "Tyger v. Barclays Bank Delaware",
+    "court_id": "tnwd",
+    "date_filed": "2021-05-05",
+    "date_terminated": "2022-02-08",
+    "source": "1"
+  },
+  {
+    "docket_id": "59843295",
+    "case_name": "Easley Bryant v. Beardall",
+    "court_id": "nmd",
+    "date_filed": "2021-04-21",
+    "date_terminated": "2021-06-23",
+    "source": "1"
+  },
+  {
+    "docket_id": "59727274",
+    "case_name": "Elghossain v. Bank Audi S.A.L.",
+    "court_id": "nysd",
+    "date_filed": "2021-03-11",
+    "date_terminated": "2023-09-29",
+    "source": "1"
+  },
+  {
+    "docket_id": "60082961",
+    "case_name": "Finnegan v. Chase Bank",
+    "court_id": "nysd",
+    "date_filed": "2021-07-15",
+    "date_terminated": "2021-08-27",
+    "source": "1"
+  },
+  {
+    "docket_id": "68335959",
+    "case_name": "BYRD ESTATE v. NATIONSTAR MORTGAGE CORPORATION",
+    "court_id": "paed",
+    "date_filed": "2024-03-12",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "69318922",
+    "case_name": "Gotlib v. Federal Deposit Insurance Corporation",
+    "court_id": "nysd",
+    "date_filed": "2024-10-28",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "60323357",
+    "case_name": "PEARSALL v. BANK OF AMERICA",
+    "court_id": "paed",
+    "date_filed": "2021-08-26",
+    "date_terminated": "2022-02-17",
+    "source": "1"
+  },
+  {
+    "docket_id": "68845035",
+    "case_name": "Moran v. Pennymac, LLC",
+    "court_id": "ohnd",
+    "date_filed": "2024-06-10",
+    "date_terminated": "2024-11-20",
+    "source": "1"
+  },
+  {
+    "docket_id": "60331265",
+    "case_name": "PEARSALL v. COMENITY BANK/CAESARS",
+    "court_id": "paed",
+    "date_filed": "2021-08-26",
+    "date_terminated": "2022-01-03",
+    "source": "1"
+  },
+  {
+    "docket_id": "60391835",
+    "case_name": "PJF Limited Partnership v. Bank Of America, N.A",
+    "court_id": "vaed",
+    "date_filed": "2021-02-18",
+    "date_terminated": "2021-09-16",
+    "source": "1"
+  },
+  {
+    "docket_id": "60331267",
+    "case_name": "PEARSALL v. MIDLAND CREDIT MANAGEMENT",
+    "court_id": "paed",
+    "date_filed": "2021-08-26",
+    "date_terminated": "2022-02-11",
+    "source": "1"
+  },
+  {
+    "docket_id": "60413910",
+    "case_name": "Delapaz v. Bank of America, N.A.",
+    "court_id": "casd",
+    "date_filed": "2021-09-21",
+    "date_terminated": "",
+    "source": "1"
+  },
+  {
+    "docket_id": "60650838",
+    "case_name": "Salvador v. Meridias Capital",
+    "court_id": "nvd",
+    "date_filed": "2021-09-21",
+    "date_terminated": "2022-08-02",
+    "source": "1"
+  },
+  {
+    "docket_id": "60633918",
+    "case_name": "Miller v. Del-One Federal Credit Union",
+    "court_id": "ded",
+    "date_filed": "2021-10-07",
+    "date_terminated": "",
+    "source": "1"
+  }
+]

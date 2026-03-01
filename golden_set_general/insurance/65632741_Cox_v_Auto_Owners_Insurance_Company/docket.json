@@ -1,0 +1,20 @@
+{
+  "id": "65632741",
+  "case_name": "Cox v. Auto Owners Insurance Company",
+  "case_name_full": "",
+  "docket_number": "3:22-cv-03060",
+  "docket_number_core": "2203060",
+  "court_id": "arwd",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1441 Petition for Removal- Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-10-25",
+  "date_terminated": "2022-12-08",
+  "date_last_filing": "2023-01-13",
+  "assigned_to_str": "Timothy L. Brooks",
+  "referred_to_str": "",
+  "pacer_case_id": "67115",
+  "source": "1",
+  "slug": "cox-v-auto-owners-insurance-company",
+  "federal_dn_case_type": "cv"
+}

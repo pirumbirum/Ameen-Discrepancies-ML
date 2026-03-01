@@ -1,0 +1,20 @@
+{
+  "id": "63224198",
+  "case_name": "Mason v. Lemonade Insurance Company",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-00121",
+  "docket_number_core": "2200121",
+  "court_id": "innd",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-04-08",
+  "date_terminated": "2022-06-13",
+  "date_last_filing": "2022-07-07",
+  "assigned_to_str": "Holly A Brady",
+  "referred_to_str": "Susan L Collins",
+  "pacer_case_id": "110641",
+  "source": "1",
+  "slug": "mason-v-lemonade-insurance-company",
+  "federal_dn_case_type": "cv"
+}

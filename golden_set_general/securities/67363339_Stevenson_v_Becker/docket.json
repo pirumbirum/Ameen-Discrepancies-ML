@@ -1,0 +1,20 @@
+{
+  "id": "67363339",
+  "case_name": "Stevenson v. Becker",
+  "case_name_full": "",
+  "docket_number": "4:23-cv-02277",
+  "docket_number_core": "2302277",
+  "court_id": "cand",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-05-10",
+  "date_terminated": "2025-05-22",
+  "date_last_filing": "2025-10-06",
+  "assigned_to_str": "Haywood S Gilliam, Jr",
+  "referred_to_str": "",
+  "pacer_case_id": "412424",
+  "source": "1",
+  "slug": "stevenson-v-becker",
+  "federal_dn_case_type": "cv"
+}

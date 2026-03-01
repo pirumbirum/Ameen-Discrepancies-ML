@@ -1,0 +1,20 @@
+{
+  "id": "4326086",
+  "case_name": "Goldberg v. Gray, Jr.",
+  "case_name_full": "",
+  "docket_number": "5:15-cv-00538",
+  "docket_number_core": "1500538",
+  "court_id": "nynd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "18:1961 Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2015-04-30",
+  "date_terminated": "2020-09-03",
+  "date_last_filing": "2020-09-03",
+  "assigned_to_str": "David N. Hurd",
+  "referred_to_str": "Therese Wiley Dancks",
+  "pacer_case_id": "102137",
+  "source": "9",
+  "slug": "goldberg-v-gray-jr",
+  "federal_dn_case_type": "cv"
+}

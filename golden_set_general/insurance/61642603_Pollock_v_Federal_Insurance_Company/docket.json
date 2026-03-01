@@ -1,0 +1,20 @@
+{
+  "id": "61642603",
+  "case_name": "Pollock v. Federal Insurance Company",
+  "case_name_full": "",
+  "docket_number": "3:21-cv-09975",
+  "docket_number_core": "2109975",
+  "court_id": "cand",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2021-12-23",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-15",
+  "assigned_to_str": "Joseph C. Spero",
+  "referred_to_str": "",
+  "pacer_case_id": "389894",
+  "source": "1",
+  "slug": "pollock-v-federal-insurance-company",
+  "federal_dn_case_type": "cv"
+}

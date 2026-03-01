@@ -1,0 +1,20 @@
+{
+  "id": "4542905",
+  "case_name": "Li v. Walsh",
+  "case_name_full": "",
+  "docket_number": "9:16-cv-81871",
+  "docket_number_core": "1681871",
+  "court_id": "flsd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "12:0022 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2016-11-14",
+  "date_terminated": "2024-06-25",
+  "date_last_filing": "2024-06-25",
+  "assigned_to_str": "Kenneth A. Marra",
+  "referred_to_str": "William Matthewman",
+  "pacer_case_id": "496282",
+  "source": "9",
+  "slug": "li-v-walsh",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "66705920",
+  "case_name": "IN RE ENOVIX CORPORATION SECURITIES LITIGATION",
+  "case_name_full": "",
+  "docket_number": "3:23-cv-00071",
+  "docket_number_core": "2300071",
+  "court_id": "cand",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-01-06",
+  "date_terminated": "",
+  "date_last_filing": "2025-12-23",
+  "assigned_to_str": "Susan Illston",
+  "referred_to_str": "",
+  "pacer_case_id": "406945",
+  "source": "1",
+  "slug": "in-re-enovix-corporation-securities-litigation",
+  "federal_dn_case_type": "cv"
+}

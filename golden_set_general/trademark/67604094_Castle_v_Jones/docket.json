@@ -1,0 +1,20 @@
+{
+  "id": "67604094",
+  "case_name": "Castle v. Jones",
+  "case_name_full": "",
+  "docket_number": "2:23-cv-00444",
+  "docket_number_core": "2300444",
+  "court_id": "utd",
+  "nature_of_suit": "840 Trademark",
+  "cause": "28:1332 Diversity-Securities & Exchange Commiss",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-07-20",
+  "date_terminated": "2024-09-24",
+  "date_last_filing": "2024-09-24",
+  "assigned_to_str": "Ted Stewart",
+  "referred_to_str": "Jared C. Bennett",
+  "pacer_case_id": "141114",
+  "source": "1",
+  "slug": "castle-v-jones",
+  "federal_dn_case_type": "cv"
+}

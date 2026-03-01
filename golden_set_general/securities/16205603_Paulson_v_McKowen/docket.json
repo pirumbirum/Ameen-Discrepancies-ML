@@ -1,0 +1,20 @@
+{
+  "id": "16205603",
+  "case_name": "Paulson v. McKowen",
+  "case_name_full": "",
+  "docket_number": "1:19-cv-02639",
+  "docket_number_core": "1902639",
+  "court_id": "cod",
+  "nature_of_suit": "850 Securities, Commodities, Exchange",
+  "cause": "28:1452 (a) Removal of Claims Related to Bankruptcy Cases",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2019-09-16",
+  "date_terminated": "2023-03-16",
+  "date_last_filing": "2025-04-18",
+  "assigned_to_str": "Philip A. Brimmer",
+  "referred_to_str": "N. Reid Neureiter",
+  "pacer_case_id": "191862",
+  "source": "9",
+  "slug": "paulson-v-mckowen",
+  "federal_dn_case_type": "cv"
+}

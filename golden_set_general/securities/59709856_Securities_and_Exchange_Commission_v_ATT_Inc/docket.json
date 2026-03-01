@@ -1,0 +1,20 @@
+{
+  "id": "59709856",
+  "case_name": "Securities and Exchange Commission v. AT&T Inc.",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-01951",
+  "docket_number_core": "2101951",
+  "court_id": "nysd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2021-03-05",
+  "date_terminated": "2022-12-05",
+  "date_last_filing": "2022-12-05",
+  "assigned_to_str": "Paul A. Engelmayer",
+  "referred_to_str": "Jennifer E. Willis",
+  "pacer_case_id": "555523",
+  "source": "1",
+  "slug": "securities-and-exchange-commission-v-att-inc",
+  "federal_dn_case_type": "cv"
+}

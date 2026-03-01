@@ -1,0 +1,20 @@
+{
+  "id": "62629961",
+  "case_name": "U.S. Securities and Exchange Commission v. Bolton",
+  "case_name_full": "",
+  "docket_number": "3:22-cv-00055",
+  "docket_number_core": "2200055",
+  "court_id": "tnmd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2022-01-26",
+  "date_terminated": "2024-01-19",
+  "date_last_filing": "2024-01-19",
+  "assigned_to_str": "Waverly D. Crenshaw Jr.",
+  "referred_to_str": "Barbara D. Holmes",
+  "pacer_case_id": "89151",
+  "source": "1",
+  "slug": "us-securities-and-exchange-commission-v-bolton",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "67884187",
+  "case_name": "Smith v. ASI Lloyds",
+  "case_name_full": "",
+  "docket_number": "4:23-cv-03919",
+  "docket_number_core": "2303919",
+  "court_id": "txsd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1441 Notice of Removal",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2023-10-16",
+  "date_terminated": "2024-11-30",
+  "date_last_filing": "2024-11-30",
+  "assigned_to_str": "George C. Hanks Jr.",
+  "referred_to_str": "Andrew M. Edison",
+  "pacer_case_id": "1938432",
+  "source": "1",
+  "slug": "smith-v-asi-lloyds",
+  "federal_dn_case_type": "cv"
+}

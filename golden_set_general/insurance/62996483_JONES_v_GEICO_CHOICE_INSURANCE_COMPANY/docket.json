@@ -1,0 +1,20 @@
+{
+  "id": "62996483",
+  "case_name": "JONES v. GEICO CHOICE INSURANCE COMPANY",
+  "case_name_full": "",
+  "docket_number": "2:22-cv-00558",
+  "docket_number_core": "2200558",
+  "court_id": "paed",
+  "nature_of_suit": "110 Contract: Insurance",
+  "cause": "18:133",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-02-11",
+  "date_terminated": "2022-08-15",
+  "date_last_filing": "2022-08-25",
+  "assigned_to_str": "Gene Pratter",
+  "referred_to_str": "",
+  "pacer_case_id": "593610",
+  "source": "1",
+  "slug": "jones-v-geico-choice-insurance-company",
+  "federal_dn_case_type": "cv"
+}

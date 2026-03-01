@@ -1,0 +1,20 @@
+{
+  "id": "68654082",
+  "case_name": "Harrison v. Young",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-00129",
+  "docket_number_core": "2300129",
+  "court_id": "msnd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "",
+  "date_filed": "2023-10-05",
+  "date_terminated": "2024-09-30",
+  "date_last_filing": "2024-10-21",
+  "assigned_to_str": "Glen H. Davidson",
+  "referred_to_str": "David A. Sanders",
+  "pacer_case_id": "48485",
+  "source": "1",
+  "slug": "harrison-v-young",
+  "federal_dn_case_type": "cv"
+}

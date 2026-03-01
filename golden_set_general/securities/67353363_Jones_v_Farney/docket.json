@@ -1,0 +1,20 @@
+{
+  "id": "67353363",
+  "case_name": "Jones v. Farney",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-00563",
+  "docket_number_core": "2300563",
+  "court_id": "nynd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "28:1331 Fed. Question",
+  "jurisdiction_type": "",
+  "date_filed": "2023-05-08",
+  "date_terminated": "2023-08-21",
+  "date_last_filing": "2023-10-02",
+  "assigned_to_str": "Brenda K. Sannes",
+  "referred_to_str": "Daniel J. Stewart",
+  "pacer_case_id": "138347",
+  "source": "1",
+  "slug": "jones-v-farney",
+  "federal_dn_case_type": "cv"
+}

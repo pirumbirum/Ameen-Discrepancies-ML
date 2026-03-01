@@ -1,0 +1,20 @@
+{
+  "id": "63592902",
+  "case_name": "In re Netflix, Inc. Stockholder Derivative Litigation",
+  "case_name_full": "",
+  "docket_number": "4:22-cv-04134",
+  "docket_number_core": "2204134",
+  "court_id": "cand",
+  "nature_of_suit": "160 Stockholders Suits",
+  "cause": "28:1332 Diversity-Stockholders Suits",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-07-14",
+  "date_terminated": "",
+  "date_last_filing": "2025-04-30",
+  "assigned_to_str": "Jon S. Tigar",
+  "referred_to_str": "",
+  "pacer_case_id": "398061",
+  "source": "1",
+  "slug": "in-re-netflix-inc-stockholder-derivative-litigation",
+  "federal_dn_case_type": "cv"
+}

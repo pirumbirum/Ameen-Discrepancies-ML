@@ -1,0 +1,20 @@
+{
+  "id": "63327048",
+  "case_name": "In re Okta, Inc. Securities Litigation",
+  "case_name_full": "",
+  "docket_number": "3:22-cv-02990",
+  "docket_number_core": "2202990",
+  "court_id": "cand",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-05-20",
+  "date_terminated": "2024-11-19",
+  "date_last_filing": "2024-11-19",
+  "assigned_to_str": "Susan Illston",
+  "referred_to_str": "",
+  "pacer_case_id": "395825",
+  "source": "1",
+  "slug": "in-re-okta-inc-securities-litigation",
+  "federal_dn_case_type": "cv"
+}

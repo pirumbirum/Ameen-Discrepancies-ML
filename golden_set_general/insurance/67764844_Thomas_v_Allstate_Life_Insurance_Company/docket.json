@@ -1,0 +1,20 @@
+{
+  "id": "67764844",
+  "case_name": "Thomas v. Allstate Life Insurance Company",
+  "case_name_full": "",
+  "docket_number": "5:23-cv-00057",
+  "docket_number_core": "2300057",
+  "court_id": "vawd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Notice of Removal",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2023-09-05",
+  "date_terminated": "2024-12-02",
+  "date_last_filing": "2024-12-02",
+  "assigned_to_str": "Jasmine H. Yoon",
+  "referred_to_str": "Joel C. Hoppe",
+  "pacer_case_id": "129524",
+  "source": "1",
+  "slug": "thomas-v-allstate-life-insurance-company",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "64892087",
+  "case_name": "Ford v. State Farm Fire and Casualty Company",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-02051",
+  "docket_number_core": "2202051",
+  "court_id": "cod",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-08-12",
+  "date_terminated": "2024-02-27",
+  "date_last_filing": "2024-02-27",
+  "assigned_to_str": "Robert E. Blackburn",
+  "referred_to_str": "Susan Prose",
+  "pacer_case_id": "217476",
+  "source": "1",
+  "slug": "ford-v-state-farm-fire-and-casualty-company",
+  "federal_dn_case_type": "cv"
+}

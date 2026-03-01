@@ -1,0 +1,20 @@
+{
+  "id": "67902527",
+  "case_name": "In re Adobe Inc. Securities Litigation",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-09260",
+  "docket_number_core": "2309260",
+  "court_id": "nysd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "12:22 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-10-20",
+  "date_terminated": "2025-11-10",
+  "date_last_filing": "2025-12-11",
+  "assigned_to_str": "John G. Koeltl",
+  "referred_to_str": "",
+  "pacer_case_id": "608712",
+  "source": "1",
+  "slug": "in-re-adobe-inc-securities-litigation",
+  "federal_dn_case_type": "cv"
+}

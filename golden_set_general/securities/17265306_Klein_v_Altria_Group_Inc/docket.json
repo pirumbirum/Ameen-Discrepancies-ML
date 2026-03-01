@@ -1,0 +1,20 @@
+{
+  "id": "17265306",
+  "case_name": "Klein v. Altria Group, Inc.",
+  "case_name_full": "",
+  "docket_number": "3:20-cv-00075",
+  "docket_number_core": "2000075",
+  "court_id": "vaed",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-02-07",
+  "date_terminated": "2022-03-31",
+  "date_last_filing": "2023-03-03",
+  "assigned_to_str": "David J. Novak",
+  "referred_to_str": "Mark R. Colombell",
+  "pacer_case_id": "467197",
+  "source": "1",
+  "slug": "klein-v-altria-group-inc",
+  "federal_dn_case_type": "cv"
+}

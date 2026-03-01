@@ -1,0 +1,20 @@
+{
+  "id": "69126264",
+  "case_name": "SEC v. Dickerson",
+  "case_name_full": "",
+  "docket_number": "2:24-cv-02379",
+  "docket_number_core": "2402379",
+  "court_id": "caed",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-09-03",
+  "date_terminated": "",
+  "date_last_filing": "2024-11-07",
+  "assigned_to_str": "Judg John A. Mendez",
+  "referred_to_str": "Sean C. Riordan",
+  "pacer_case_id": "452208",
+  "source": "1",
+  "slug": "sec-v-dickerson",
+  "federal_dn_case_type": "cv"
+}

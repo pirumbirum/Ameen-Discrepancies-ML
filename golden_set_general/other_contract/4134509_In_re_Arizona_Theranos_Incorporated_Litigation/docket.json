@@ -1,0 +1,20 @@
+{
+  "id": "4134509",
+  "case_name": "In re: Arizona Theranos Incorporated Litigation",
+  "case_name_full": "",
+  "docket_number": "2:16-cv-02138",
+  "docket_number_core": "1602138",
+  "court_id": "azd",
+  "nature_of_suit": "190 Contract: Other",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2016-06-29",
+  "date_terminated": "2024-02-29",
+  "date_last_filing": "2024-05-31",
+  "assigned_to_str": "David G. Campbell",
+  "referred_to_str": "",
+  "pacer_case_id": "988210",
+  "source": "9",
+  "slug": "in-re-arizona-theranos-incorporated-litigation",
+  "federal_dn_case_type": "cv"
+}

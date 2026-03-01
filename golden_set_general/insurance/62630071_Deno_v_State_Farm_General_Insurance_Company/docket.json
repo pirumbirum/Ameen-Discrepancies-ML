@@ -1,0 +1,20 @@
+{
+  "id": "62630071",
+  "case_name": "Deno v. State Farm General Insurance Company",
+  "case_name_full": "",
+  "docket_number": "3:22-cv-00513",
+  "docket_number_core": "2200513",
+  "court_id": "cand",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2022-01-26",
+  "date_terminated": "2023-08-02",
+  "date_last_filing": "2023-08-01",
+  "assigned_to_str": "Araceli Martinez-Olguin",
+  "referred_to_str": "",
+  "pacer_case_id": "391038",
+  "source": "1",
+  "slug": "deno-v-state-farm-general-insurance-company",
+  "federal_dn_case_type": "cv"
+}

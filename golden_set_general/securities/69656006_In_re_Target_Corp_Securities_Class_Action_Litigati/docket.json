@@ -1,0 +1,20 @@
+{
+  "id": "69656006",
+  "case_name": "In re Target Corp. Securities Class Action Litigation",
+  "case_name_full": "",
+  "docket_number": "2:25-cv-00135",
+  "docket_number_core": "2500135",
+  "court_id": "flmd",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:0078m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2025-02-20",
+  "date_terminated": "2025-11-19",
+  "date_last_filing": "2025-11-19",
+  "assigned_to_str": "Kyle C. Dudek",
+  "referred_to_str": "Douglas N. Frazier",
+  "pacer_case_id": "438188",
+  "source": "1",
+  "slug": "in-re-target-corp-securities-class-action-litigation",
+  "federal_dn_case_type": "cv"
+}

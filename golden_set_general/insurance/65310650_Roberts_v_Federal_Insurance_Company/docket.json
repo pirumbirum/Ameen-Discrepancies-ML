@@ -1,0 +1,20 @@
+{
+  "id": "65310650",
+  "case_name": "Roberts v. Federal Insurance Company",
+  "case_name_full": "",
+  "docket_number": "6:22-cv-01653",
+  "docket_number_core": "2201653",
+  "court_id": "flmd",
+  "nature_of_suit": "Insurance",
+  "cause": "12:0635 Breach of Insurance Contract",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-09-09",
+  "date_terminated": "2023-10-24",
+  "date_last_filing": "2023-10-24",
+  "assigned_to_str": "Wendy W. Berger",
+  "referred_to_str": "Embry J. Kidd",
+  "pacer_case_id": "405607",
+  "source": "1",
+  "slug": "roberts-v-federal-insurance-company",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "18748557",
+  "case_name": "In re Boston Scientific Corporation Securities Litigation",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-12225",
+  "docket_number_core": "2012225",
+  "court_id": "mad",
+  "nature_of_suit": "160 Stockholders Suits",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2020-12-16",
+  "date_terminated": "2024-04-23",
+  "date_last_filing": "2025-02-26",
+  "assigned_to_str": "Allison D. Burroughs",
+  "referred_to_str": "Jennifer C. Boal",
+  "pacer_case_id": "228768",
+  "source": "1",
+  "slug": "in-re-boston-scientific-corporation-securities-litigation",
+  "federal_dn_case_type": "cv"
+}

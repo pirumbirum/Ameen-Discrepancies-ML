@@ -1,0 +1,20 @@
+{
+  "id": "63296900",
+  "case_name": "Gilead Sciences, Inc. v. Lupin Ltd.",
+  "case_name_full": "",
+  "docket_number": "1:22-cv-00615",
+  "docket_number_core": "2200615",
+  "court_id": "ded",
+  "nature_of_suit": "835 Patent - Abbreviated New Drug Application(ANDA)",
+  "cause": "35:271 Patent Infringement",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-05-09",
+  "date_terminated": "2025-10-06",
+  "date_last_filing": "2025-10-06",
+  "assigned_to_str": "Maryellen Noreika",
+  "referred_to_str": "",
+  "pacer_case_id": "78841",
+  "source": "1",
+  "slug": "gilead-sciences-inc-v-lupin-ltd",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "68095676",
+  "case_name": "Samuels v. Lido DAO",
+  "case_name_full": "",
+  "docket_number": "3:23-cv-06492",
+  "docket_number_core": "2306492",
+  "court_id": "cand",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-12-17",
+  "date_terminated": "",
+  "date_last_filing": "2025-10-21",
+  "assigned_to_str": "Vince Chhabria",
+  "referred_to_str": "Alex G. Tse",
+  "pacer_case_id": "422388",
+  "source": "1",
+  "slug": "samuels-v-lido-dao",
+  "federal_dn_case_type": "cv"
+}

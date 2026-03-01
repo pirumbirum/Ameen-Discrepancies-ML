@@ -1,0 +1,20 @@
+{
+  "id": "68177150",
+  "case_name": "CLEMENTE v. DOE",
+  "case_name_full": "",
+  "docket_number": "3:24-cv-00314",
+  "docket_number_core": "2400314",
+  "court_id": "njd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2024-01-19",
+  "date_terminated": "",
+  "date_last_filing": "2025-07-08",
+  "assigned_to_str": "Michael A. Shipp",
+  "referred_to_str": "J. Brendan Day",
+  "pacer_case_id": "539229",
+  "source": "1",
+  "slug": "clemente-v-doe",
+  "federal_dn_case_type": "cv"
+}

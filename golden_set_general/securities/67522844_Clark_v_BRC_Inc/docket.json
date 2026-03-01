@@ -1,0 +1,20 @@
+{
+  "id": "67522844",
+  "case_name": "Clark v. BRC Inc.",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-05340",
+  "docket_number_core": "2305340",
+  "court_id": "nysd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-06-22",
+  "date_terminated": "",
+  "date_last_filing": "2025-09-16",
+  "assigned_to_str": "Robert W. Lehrburger",
+  "referred_to_str": "",
+  "pacer_case_id": "600938",
+  "source": "1",
+  "slug": "clark-v-brc-inc",
+  "federal_dn_case_type": "cv"
+}

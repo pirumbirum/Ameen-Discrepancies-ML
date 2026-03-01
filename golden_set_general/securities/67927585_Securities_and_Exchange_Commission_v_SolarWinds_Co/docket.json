@@ -1,0 +1,20 @@
+{
+  "id": "67927585",
+  "case_name": "Securities and Exchange Commission v. SolarWinds Corp.",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-09518",
+  "docket_number_core": "2309518",
+  "court_id": "nysd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2023-10-30",
+  "date_terminated": "",
+  "date_last_filing": "2025-11-20",
+  "assigned_to_str": "Paul A. Engelmayer",
+  "referred_to_str": "Barbara C. Moses",
+  "pacer_case_id": "609279",
+  "source": "1",
+  "slug": "securities-and-exchange-commission-v-solarwinds-corp",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "66917742",
+  "case_name": "Elas v. Prince",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-10472",
+  "docket_number_core": "2310472",
+  "court_id": "mad",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "28:1331 Fed. Question: Securities Violation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-03-01",
+  "date_terminated": "2024-02-21",
+  "date_last_filing": "2024-02-28",
+  "assigned_to_str": "Indira Talwani",
+  "referred_to_str": "",
+  "pacer_case_id": "254084",
+  "source": "1",
+  "slug": "elas-v-prince",
+  "federal_dn_case_type": "cv"
+}

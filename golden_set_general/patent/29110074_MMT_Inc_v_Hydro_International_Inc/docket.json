@@ -1,0 +1,20 @@
+{
+  "id": "29110074",
+  "case_name": "MMT, Inc. v. Hydro International, Inc.",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-00027",
+  "docket_number_core": "2100027",
+  "court_id": "rid",
+  "nature_of_suit": "Patent",
+  "cause": "35:145 Patent Infringement",
+  "jurisdiction_type": "U.S. Government Plaintiff",
+  "date_filed": "2021-01-14",
+  "date_terminated": "2021-03-23",
+  "date_last_filing": "2021-03-24",
+  "assigned_to_str": "John J. McConnell, Jr.",
+  "referred_to_str": "Lincoln D. Almond",
+  "pacer_case_id": "50421",
+  "source": "1",
+  "slug": "mmt-inc-v-hydro-international-inc",
+  "federal_dn_case_type": "cv"
+}

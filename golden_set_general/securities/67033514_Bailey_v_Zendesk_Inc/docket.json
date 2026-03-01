@@ -1,0 +1,20 @@
+{
+  "id": "67033514",
+  "case_name": "Bailey v. Zendesk, Inc.",
+  "case_name_full": "",
+  "docket_number": "5:23-cv-01243",
+  "docket_number_core": "2301243",
+  "court_id": "cand",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "28:1331 Fed. Question: Securities Violation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-03-17",
+  "date_terminated": "2024-05-14",
+  "date_last_filing": "2024-05-13",
+  "assigned_to_str": "P. Casey Pitts",
+  "referred_to_str": "Virginia K. DeMarchi",
+  "pacer_case_id": "409735",
+  "source": "1",
+  "slug": "bailey-v-zendesk-inc",
+  "federal_dn_case_type": "cv"
+}

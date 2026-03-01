@@ -1,0 +1,20 @@
+{
+  "id": "70348417",
+  "case_name": "Jones v. Jones",
+  "case_name_full": "",
+  "docket_number": "1:24-cv-03713",
+  "docket_number_core": "2403713",
+  "court_id": "mdd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1335 Interpleader Action",
+  "jurisdiction_type": "",
+  "date_filed": "2024-12-23",
+  "date_terminated": "2025-06-02",
+  "date_last_filing": "2025-06-11",
+  "assigned_to_str": "Richard D. Bennett",
+  "referred_to_str": "",
+  "pacer_case_id": "573677",
+  "source": "1",
+  "slug": "jones-v-jones",
+  "federal_dn_case_type": "cv"
+}

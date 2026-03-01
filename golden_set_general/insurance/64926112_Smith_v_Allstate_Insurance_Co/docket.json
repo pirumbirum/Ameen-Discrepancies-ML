@@ -1,0 +1,20 @@
+{
+  "id": "64926112",
+  "case_name": "Smith v. Allstate Insurance Co",
+  "case_name_full": "",
+  "docket_number": "2:22-cv-04937",
+  "docket_number_core": "2204937",
+  "court_id": "lawd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "jurisdiction_type": "",
+  "date_filed": "2022-08-26",
+  "date_terminated": "2023-10-24",
+  "date_last_filing": "2023-11-01",
+  "assigned_to_str": "James D Cain, Jr",
+  "referred_to_str": "Kathleen Kay",
+  "pacer_case_id": "194900",
+  "source": "1",
+  "slug": "smith-v-allstate-insurance-co",
+  "federal_dn_case_type": "cv"
+}

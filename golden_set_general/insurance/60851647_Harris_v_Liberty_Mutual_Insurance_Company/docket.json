@@ -1,0 +1,20 @@
+{
+  "id": "60851647",
+  "case_name": "Harris v. Liberty Mutual Insurance Company",
+  "case_name_full": "",
+  "docket_number": "3:21-cv-01389",
+  "docket_number_core": "2101389",
+  "court_id": "ilsd",
+  "nature_of_suit": "110 Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2021-11-08",
+  "date_terminated": "2022-05-03",
+  "date_last_filing": "2022-05-03",
+  "assigned_to_str": "J. Phil Gilbert",
+  "referred_to_str": "",
+  "pacer_case_id": "89341",
+  "source": "1",
+  "slug": "harris-v-liberty-mutual-insurance-company",
+  "federal_dn_case_type": "cv"
+}

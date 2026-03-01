@@ -1,0 +1,20 @@
+{
+  "id": "67456952",
+  "case_name": "John Hancock Life Insurance Company (U.S.A.) v. Wu",
+  "case_name_full": "",
+  "docket_number": "3:23-cv-02700",
+  "docket_number_core": "2302700",
+  "court_id": "cand",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "Diversity",
+  "date_filed": "2023-05-31",
+  "date_terminated": "2023-09-19",
+  "date_last_filing": "2025-09-30",
+  "assigned_to_str": "Richard Seeborg",
+  "referred_to_str": "Thomas S. Hixson",
+  "pacer_case_id": "413481",
+  "source": "1",
+  "slug": "john-hancock-life-insurance-company-usa-v-wu",
+  "federal_dn_case_type": "cv"
+}

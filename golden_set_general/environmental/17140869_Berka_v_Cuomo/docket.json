@@ -1,0 +1,20 @@
+{
+  "id": "17140869",
+  "case_name": "Berka v. Cuomo",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-00516",
+  "docket_number_core": "2000516",
+  "court_id": "nynd",
+  "nature_of_suit": "Environmental Matters",
+  "cause": "42:1983 Civil Rights Act",
+  "jurisdiction_type": "Federal question",
+  "date_filed": "2020-05-07",
+  "date_terminated": "2021-07-20",
+  "date_last_filing": "2021-07-20",
+  "assigned_to_str": "Glenn T Suddaby",
+  "referred_to_str": "Daniel J. Stewart",
+  "pacer_case_id": "124307",
+  "source": "9",
+  "slug": "berka-v-cuomo",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "8444799",
+  "case_name": "In Re Allergan PLC Securities Litigation",
+  "case_name_full": "",
+  "docket_number": "1:18-cv-12089",
+  "docket_number_core": "1812089",
+  "court_id": "nysd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2018-12-20",
+  "date_terminated": "2022-12-12",
+  "date_last_filing": "2024-04-08",
+  "assigned_to_str": "Colleen McMahon",
+  "referred_to_str": "Gabriel W. Gorenstein",
+  "pacer_case_id": "507156",
+  "source": "9",
+  "slug": "in-re-allergan-plc-securities-litigation",
+  "federal_dn_case_type": "cv"
+}

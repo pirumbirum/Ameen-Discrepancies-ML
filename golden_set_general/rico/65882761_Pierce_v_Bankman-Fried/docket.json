@@ -1,0 +1,20 @@
+{
+  "id": "65882761",
+  "case_name": "Pierce v. Bankman-Fried",
+  "case_name_full": "",
+  "docket_number": "3:22-cv-07444",
+  "docket_number_core": "2207444",
+  "court_id": "cand",
+  "nature_of_suit": "470 Racketeer/Corrupt Organization",
+  "cause": "18:1962 Racketeering (RICO) Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2022-11-23",
+  "date_terminated": "2023-06-09",
+  "date_last_filing": "2023-06-14",
+  "assigned_to_str": "Jacqueline Scott Corley",
+  "referred_to_str": "",
+  "pacer_case_id": "404275",
+  "source": "1",
+  "slug": "pierce-v-bankman-fried",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "16846845",
+  "case_name": "Faison v. Doe",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-20668",
+  "docket_number_core": "2020668",
+  "court_id": "flsd",
+  "nature_of_suit": "Banks and Banking",
+  "cause": "28:1331 Federal Question",
+  "jurisdiction_type": "Federal question",
+  "date_filed": "2020-02-14",
+  "date_terminated": "2020-02-20",
+  "date_last_filing": "2022-11-22",
+  "assigned_to_str": "Beth Bloom",
+  "referred_to_str": "",
+  "pacer_case_id": "566425",
+  "source": "9",
+  "slug": "faison-v-doe",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "66958190",
+  "case_name": "Parker v. Sentry Insurance Company",
+  "case_name_full": "",
+  "docket_number": "5:23-cv-00151",
+  "docket_number_core": "2300151",
+  "court_id": "flmd",
+  "nature_of_suit": "Insurance",
+  "cause": "12:0635 Breach of Insurance Contract",
+  "jurisdiction_type": "",
+  "date_filed": "2023-03-06",
+  "date_terminated": "2024-08-08",
+  "date_last_filing": "2025-06-12",
+  "assigned_to_str": "John Antoon II",
+  "referred_to_str": "Philip R. Lammens",
+  "pacer_case_id": "411594",
+  "source": "1",
+  "slug": "parker-v-sentry-insurance-company",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "59943762",
+  "case_name": "Donoghue v. Tannenbaum",
+  "case_name_full": "",
+  "docket_number": "1:21-cv-04770",
+  "docket_number_core": "2104770",
+  "court_id": "nysd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "28:1331sv Fed. Question: Securities Violation",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2021-05-27",
+  "date_terminated": "2024-08-09",
+  "date_last_filing": "2024-08-09",
+  "assigned_to_str": "Paul A. Engelmayer",
+  "referred_to_str": "",
+  "pacer_case_id": "561101",
+  "source": "1",
+  "slug": "donoghue-v-tannenbaum",
+  "federal_dn_case_type": "cv"
+}

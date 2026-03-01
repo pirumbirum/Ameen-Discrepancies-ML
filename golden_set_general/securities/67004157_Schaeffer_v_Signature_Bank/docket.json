@@ -1,0 +1,20 @@
+{
+  "id": "67004157",
+  "case_name": "Schaeffer v. Signature Bank",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-01921",
+  "docket_number_core": "2301921",
+  "court_id": "nyed",
+  "nature_of_suit": "850 Securities/Commodities",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-03-14",
+  "date_terminated": "2025-03-24",
+  "date_last_filing": "2025-03-27",
+  "assigned_to_str": "Frederic Block",
+  "referred_to_str": "James R. Cho",
+  "pacer_case_id": "494065",
+  "source": "1",
+  "slug": "schaeffer-v-signature-bank",
+  "federal_dn_case_type": "cv"
+}

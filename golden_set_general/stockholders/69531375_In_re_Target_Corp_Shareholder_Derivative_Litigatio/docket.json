@@ -1,0 +1,20 @@
+{
+  "id": "69531375",
+  "case_name": "In re Target Corp. Shareholder Derivative Litigation",
+  "case_name_full": "",
+  "docket_number": "2:25-cv-00021",
+  "docket_number_core": "2500021",
+  "court_id": "flmd",
+  "nature_of_suit": "160 Stockholders Suits",
+  "cause": "12:0022 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2025-01-09",
+  "date_terminated": "",
+  "date_last_filing": "2025-11-19",
+  "assigned_to_str": "John L. Badalamenti",
+  "referred_to_str": "Kyle C. Dudek",
+  "pacer_case_id": "436451",
+  "source": "1",
+  "slug": "in-re-target-corp-shareholder-derivative-litigation",
+  "federal_dn_case_type": "cv"
+}

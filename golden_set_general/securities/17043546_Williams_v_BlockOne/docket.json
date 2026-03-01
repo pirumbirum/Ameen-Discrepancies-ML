@@ -1,0 +1,20 @@
+{
+  "id": "17043546",
+  "case_name": "Williams v. Block.One",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-02809",
+  "docket_number_core": "2002809",
+  "court_id": "nysd",
+  "nature_of_suit": "Securities/Commodities",
+  "cause": "15:77 Securities Fraud",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2020-04-03",
+  "date_terminated": "2025-01-28",
+  "date_last_filing": "2025-12-02",
+  "assigned_to_str": "Lewis A. Kaplan",
+  "referred_to_str": "",
+  "pacer_case_id": "535367",
+  "source": "9",
+  "slug": "williams-v-blockone",
+  "federal_dn_case_type": "cv"
+}

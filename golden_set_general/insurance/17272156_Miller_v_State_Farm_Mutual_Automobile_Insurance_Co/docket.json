@@ -1,0 +1,20 @@
+{
+  "id": "17272156",
+  "case_name": "Miller v. State Farm Mutual Automobile Insurance Company",
+  "case_name_full": "",
+  "docket_number": "1:20-cv-00367",
+  "docket_number_core": "2000367",
+  "court_id": "pamd",
+  "nature_of_suit": "Insurance",
+  "cause": "28:1332 Diversity-Insurance Contract",
+  "jurisdiction_type": "Diversity of citizenship",
+  "date_filed": "2020-03-02",
+  "date_terminated": "2020-08-25",
+  "date_last_filing": "2020-08-27",
+  "assigned_to_str": "Martin C Carlson (mj)",
+  "referred_to_str": "",
+  "pacer_case_id": "124080",
+  "source": "9",
+  "slug": "miller-v-state-farm-mutual-automobile-insurance-company",
+  "federal_dn_case_type": "cv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "67146118",
+  "case_name": "POM of Pennsylvania, LLC v. BMM Testlabs",
+  "case_name_full": "",
+  "docket_number": "1:23-cv-00579",
+  "docket_number_core": "2300579",
+  "court_id": "pamd",
+  "nature_of_suit": "880 Defend Trade Secrets Act (of 2016)",
+  "cause": "18:1836(a) Injunction against Misappropriation of Trade Secrets",
+  "jurisdiction_type": "Federal Question",
+  "date_filed": "2023-04-05",
+  "date_terminated": "2024-10-22",
+  "date_last_filing": "2025-02-06",
+  "assigned_to_str": "Karoline Mehalchick",
+  "referred_to_str": "",
+  "pacer_case_id": "137504",
+  "source": "1",
+  "slug": "pom-of-pennsylvania-llc-v-bmm-testlabs",
+  "federal_dn_case_type": "cv"
+}
