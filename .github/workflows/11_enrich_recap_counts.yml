@@ -18,7 +18,7 @@ permissions:
 jobs:
   enrich:
     runs-on: ubuntu-latest
-    timeout-minutes: 270  # 4.5h — script stops at 4h, buffer for git
+    timeout-minutes: 30  # short debug run — will restore to 270 after fixing
 
     steps:
       - uses: actions/checkout@v4
@@ -41,11 +41,14 @@ jobs:
         env:
           CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
           COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
-        run: python3 scripts/enrich_recap_counts.py --max-minutes 240
+        run: python3 scripts/enrich_recap_counts.py --max-minutes 10
 
       - name: "Progress report"
         if: always()
         run: |
+          echo ""
+          echo "=== RECAP DEBUG LOG ==="
+          cat golden_set_general/_recap_debug.log 2>/dev/null || echo "(no debug log)"
           echo ""
           echo "=== RECAP COUNTS CHECKPOINT ==="
           cat golden_set_general/_recap_checkpoint.json 2>/dev/null || echo "(none)"

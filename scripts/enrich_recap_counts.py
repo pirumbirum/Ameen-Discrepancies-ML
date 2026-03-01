@@ -90,17 +90,9 @@ class APIClient:
             try:
                 resp = self.session.get(url, timeout=30)
 
-                # Debug: log first few responses
-                if self.total_calls <= 3:
-                    print(f"    [DEBUG] docket={docket_id} "
-                          f"status={resp.status_code} "
-                          f"url={url[:120]}")
-                    if resp.status_code == 200:
-                        data = resp.json()
-                        print(f"    [DEBUG] response keys: {list(data.keys())}")
-                        print(f"    [DEBUG] count={data.get('count')}")
-                    else:
-                        print(f"    [DEBUG] body: {resp.text[:300]}")
+                # Write debug info to file for first few calls
+                if self.total_calls <= 5 or (self.total_errors > 0 and self.total_errors <= 3):
+                    self._log_debug(docket_id, url, resp)
 
                 if resp.status_code == 200:
                     return resp.json().get("count", 0)
@@ -112,23 +104,38 @@ class APIClient:
                     continue
                 if resp.status_code == 401:
                     print("FATAL: 401 Unauthorized")
+                    self._log_debug(docket_id, url, resp)
                     sys.exit(1)
                 if resp.status_code in (500, 502, 503, 504):
                     print(f"    [{resp.status_code}] Server error for docket {docket_id}")
                     time.sleep(5 * (2 ** attempt))
                     continue
 
-                # Log unexpected status codes
                 self.total_errors += 1
                 if self.total_errors <= 10:
                     print(f"    [ERROR] docket={docket_id} "
                           f"HTTP {resp.status_code}: {resp.text[:200]}")
                 return None
-            except requests.RequestException:
+            except requests.RequestException as e:
                 self.total_errors += 1
+                print(f"    [NETWORK] docket={docket_id} error={e}")
                 time.sleep(5 * (2 ** attempt))
 
         return None
+
+    def _log_debug(self, docket_id, url, resp):
+        """Write API debug info to a file that gets committed."""
+        debug_file = os.path.join(OUTPUT_DIR, "_recap_debug.log")
+        try:
+            with open(debug_file, "a") as f:
+                f.write(f"\n--- docket={docket_id} call#{self.total_calls} ---\n")
+                f.write(f"URL: {url}\n")
+                f.write(f"Status: {resp.status_code}\n")
+                f.write(f"Headers: {dict(resp.headers)}\n")
+                body = resp.text[:1000]
+                f.write(f"Body: {body}\n")
+        except Exception:
+            pass
 
     def stats_str(self):
         return f"API: {self.total_calls:,} calls, {self.total_errors:,} errors"
@@ -247,6 +254,36 @@ def main():
         total_dockets += len(dids)
         print(f"  {cat:20s}: {len(dids):>6,}")
     print(f"  {'TOTAL':>20s}: {total_dockets:>6,}\n")
+
+    # Test RECAP endpoint with first available docket ID
+    test_did = None
+    for cat in CATEGORY_ORDER:
+        if cat in all_dockets and all_dockets[cat]:
+            test_did = all_dockets[cat][0]
+            break
+    if test_did:
+        print(f"Testing RECAP endpoint with docket {test_did}...")
+        test_url = (f"{CL_API}/recap-documents/"
+                    f"?docket_entry__docket={test_did}"
+                    f"&format=json&page_size=1")
+        print(f"  URL: {test_url}")
+        client._enforce_rate_limit()
+        test_resp = client.session.get(test_url, timeout=30)
+        print(f"  Final URL: {test_resp.url}")
+        print(f"  Status: {test_resp.status_code}")
+        print(f"  Redirects: {len(test_resp.history)} "
+              f"({[r.status_code for r in test_resp.history]})")
+        print(f"  Headers: {dict(test_resp.headers)}")
+        body_preview = test_resp.text[:500]
+        print(f"  Body: {body_preview}")
+        client._log_debug(test_did, test_url, test_resp)
+        if test_resp.status_code == 200:
+            test_data = test_resp.json()
+            print(f"  count={test_data.get('count')} "
+                  f"keys={list(test_data.keys())}")
+        elif test_resp.status_code == 301 or test_resp.status_code == 302:
+            print(f"  REDIRECT to: {test_resp.headers.get('Location')}")
+        print()
 
     # Load existing progress
     ckpt = load_checkpoint()
