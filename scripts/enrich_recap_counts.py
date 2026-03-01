@@ -95,19 +95,15 @@ class APIClient:
         except Exception:
             pass
 
-        endpoints = [
+        # Try list endpoints first (they have pagination count)
+        list_endpoints = [
             ("docket-entries",
-             f"{CL_API}/docket-entries/?docket={test_docket_id}&format=json&page_size=1",
-             lambda data: data.get("count", 0)),
+             f"{CL_API}/docket-entries/?docket={test_docket_id}&format=json&page_size=1"),
             ("recap-documents",
-             f"{CL_API}/recap-documents/?docket_entry__docket={test_docket_id}&format=json&page_size=1",
-             lambda data: data.get("count", 0)),
-            ("dockets-detail",
-             f"{CL_API}/dockets/{test_docket_id}/?format=json",
-             lambda data: len(data.get("docket_entries", []))),
+             f"{CL_API}/recap-documents/?docket_entry__docket={test_docket_id}&format=json&page_size=1"),
         ]
 
-        for name, url, extractor in endpoints:
+        for name, url in list_endpoints:
             self._enforce_rate_limit()
             print(f"\n  Testing /{name}/ ...")
             print(f"    URL: {url}")
@@ -118,22 +114,74 @@ class APIClient:
 
                 if resp.status_code == 200:
                     data = resp.json()
-                    count = extractor(data)
+                    count = data.get("count", 0)
                     print(f"    SUCCESS! count={count}")
                     print(f"    Response keys: {list(data.keys())}")
                     self.endpoint_mode = name
                     return True
                 else:
-                    body = resp.text[:200]
-                    print(f"    FAILED: {body}")
+                    print(f"    FAILED: {resp.text[:200]}")
             except Exception as e:
                 print(f"    ERROR: {e}")
+
+        # Fall back to docket detail — inspect full structure
+        self._enforce_rate_limit()
+        url = f"{CL_API}/dockets/{test_docket_id}/?format=json"
+        print(f"\n  Testing /dockets-detail/ ...")
+        print(f"    URL: {url}")
+        try:
+            resp = self.session.get(url, timeout=30)
+            print(f"    Status: {resp.status_code}")
+
+            if resp.status_code == 200:
+                data = resp.json()
+                keys = list(data.keys())
+                print(f"    All keys: {keys}")
+
+                # Log list-type field lengths
+                list_fields = {}
+                for k, v in data.items():
+                    if isinstance(v, list):
+                        list_fields[k] = len(v)
+                print(f"    List fields: {list_fields}")
+
+                # Write detailed structure to debug log
+                try:
+                    with open(debug_file, "a") as f:
+                        f.write(f"\n=== Docket detail structure ===\n")
+                        f.write(f"Keys: {keys}\n")
+                        f.write(f"List fields: {list_fields}\n")
+                        for k, v in data.items():
+                            vtype = type(v).__name__
+                            if isinstance(v, list):
+                                sample = v[:3] if v else []
+                                f.write(f"  {k}: list[{len(v)}] sample={sample}\n")
+                            elif isinstance(v, dict):
+                                f.write(f"  {k}: dict keys={list(v.keys())[:10]}\n")
+                            elif isinstance(v, str) and len(v) > 100:
+                                f.write(f"  {k}: str[{len(v)}] = {v[:80]}...\n")
+                            else:
+                                f.write(f"  {k}: {vtype} = {v}\n")
+                except Exception:
+                    pass
+
+                self.endpoint_mode = "dockets-detail"
+                return True
+            else:
+                print(f"    FAILED: {resp.text[:200]}")
+                self._log_debug(test_docket_id, url, resp)
+        except Exception as e:
+            print(f"    ERROR: {e}")
 
         print("\n  WARNING: No accessible endpoint found!")
         return False
 
-    def get_entry_count(self, docket_id):
-        """Get docket entry count. Returns int or None on error."""
+    def get_count(self, docket_id):
+        """Get count for a docket. Returns dict or None on error.
+
+        For list endpoints: returns {"count": N}
+        For docket detail: returns dict with extracted metadata
+        """
         self._enforce_rate_limit()
 
         if self.endpoint_mode == "docket-entries":
@@ -159,9 +207,10 @@ class APIClient:
 
                 if resp.status_code == 200:
                     data = resp.json()
-                    if self.endpoint_mode == "dockets-detail":
-                        return len(data.get("docket_entries", []))
-                    return data.get("count", 0)
+                    if self.endpoint_mode in ("docket-entries", "recap-documents"):
+                        return {"count": data.get("count", 0)}
+                    # dockets-detail: extract useful metadata
+                    return self._extract_docket_metadata(data)
                 if resp.status_code == 429:
                     wait = 60 * (2 ** attempt)
                     print(f"    [429] Rate limited, waiting {wait}s")
@@ -193,6 +242,38 @@ class APIClient:
                 time.sleep(5 * (2 ** attempt))
 
         return None
+
+    def _extract_docket_metadata(self, data):
+        """Extract useful metadata from a docket detail response."""
+        meta = {}
+
+        # Count list-type related objects
+        for field in ["clusters", "audio_files", "docket_entries",
+                      "tags", "panel"]:
+            val = data.get(field)
+            if isinstance(val, list):
+                meta[f"{field}_count"] = len(val)
+
+        # Key dates
+        for field in ["date_created", "date_modified", "date_last_filing",
+                      "date_last_index", "date_filed", "date_terminated",
+                      "date_argued", "date_reargued",
+                      "date_reargument_denied", "date_blocked"]:
+            val = data.get(field)
+            if val:
+                meta[field] = val
+
+        # Useful flags
+        meta["has_assigned_to"] = bool(data.get("assigned_to"))
+        meta["has_referred_to"] = bool(data.get("referred_to"))
+        meta["has_bankruptcy_info"] = bool(data.get("bankruptcy_information"))
+        meta["has_idb_data"] = bool(data.get("idb_data"))
+
+        # Source info
+        meta["source"] = data.get("source", "")
+        meta["pacer_case_id"] = data.get("pacer_case_id", "")
+
+        return meta
 
     def _log_debug(self, docket_id, url, resp):
         """Write API debug info to a file that gets committed."""
@@ -348,23 +429,10 @@ def main():
     # Load existing progress
     ckpt = load_checkpoint()
     counts = load_counts()
-
-    # If switching from old recap_counts format, migrate
-    old_counts_file = "golden_set_general/_recap_counts.json"
-    if os.path.exists(old_counts_file) and not counts:
-        try:
-            with open(old_counts_file) as f:
-                old = json.load(f)
-            if old:
-                print(f"  Migrating {len(old)} entries from old _recap_counts.json")
-                counts.update(old)
-        except Exception:
-            pass
-
     already_done = len(counts)
 
     print("=" * 60)
-    print(f"DOCKET ENTRY COUNT ENRICHMENT")
+    print(f"DOCKET METADATA ENRICHMENT")
     print(f"  Endpoint: {client.endpoint_mode}")
     print(f"  Total dockets: {total_dockets:,}")
     print(f"  Already done: {already_done:,}")
@@ -438,9 +506,9 @@ def main():
                 sys.stdout.flush()
 
             # API call
-            count = client.get_entry_count(did)
-            if count is not None:
-                counts[did] = count
+            result = client.get_count(did)
+            if result is not None:
+                counts[did] = result
             session_processed += 1
 
             # Checkpoint every 500
@@ -453,7 +521,7 @@ def main():
             # Git commit every 30 min
             total_done = len(counts)
             maybe_git_commit(
-                f"entry_counts: {total_done:,}/{total_dockets:,} "
+                f"docket_meta: {total_done:,}/{total_dockets:,} "
                 f"({cat} {i+1}/{len(dids)})")
 
         if hit_timeout:
@@ -471,18 +539,15 @@ def main():
         save_checkpoint(ckpt)
         save_counts(counts)
 
-        cat_total = sum(counts.get(d, 0) for d in dids)
         git_commit(
-            f"entry_counts: {cat} done — {cat_counted:,} dockets, "
-            f"{cat_total:,} total entries")
+            f"docket_meta: {cat} done — {cat_counted:,} dockets enriched")
 
     # Save final state
     save_counts(counts)
     save_checkpoint(ckpt)
 
-    # Update category index.json files with entry counts
-    count_field = "docket_entry_count"
-    print(f"\nUpdating category index files with {count_field}...")
+    # Update category index.json files with API metadata
+    print("\nUpdating category index files with API metadata...")
     for cat in CATEGORY_ORDER:
         idx_file = os.path.join(OUTPUT_DIR, cat, "index.json")
         if not os.path.exists(idx_file):
@@ -492,13 +557,13 @@ def main():
         updated = False
         for entry in idx:
             did = entry.get("docket_id", "")
-            if did in counts and count_field not in entry:
-                entry[count_field] = counts[did]
+            if did in counts and "_api_meta" not in entry:
+                entry["_api_meta"] = counts[did]
                 updated = True
         if updated:
             with open(idx_file, "w") as f:
                 json.dump(idx, f, indent=2)
-            n = sum(1 for e in idx if count_field in e)
+            n = sum(1 for e in idx if "_api_meta" in e)
             print(f"  {cat:20s}: {n:,}/{len(idx):,} updated")
 
     # Final commit
@@ -510,7 +575,7 @@ def main():
                       and c not in ckpt.get("completed_categories", [])]
 
     git_commit(
-        f"entry_counts: {status} — {total_done:,}/{total_dockets:,} "
+        f"docket_meta: {status} — {total_done:,}/{total_dockets:,} "
         f"({session_processed:,} this session, {elapsed/60:.0f}min)")
 
     # Report
@@ -523,15 +588,19 @@ def main():
             continue
         dids = all_dockets[cat]
         done = sum(1 for d in dids if d in counts)
-        total = sum(counts.get(d, 0) for d in dids)
-        avg = total / max(done, 1)
         mark = "DONE" if cat in ckpt.get("completed_categories", []) else "..."
-        print(f"  {cat:20s}: {done:>6,}/{len(dids):>6,} counted  "
-              f"total_entries={total:>8,}  avg={avg:>6.1f}  [{mark}]")
+        # Count useful metadata fields
+        with_filing = sum(1 for d in dids
+                         if isinstance(counts.get(d), dict)
+                         and counts[d].get("date_last_filing"))
+        with_judge = sum(1 for d in dids
+                         if isinstance(counts.get(d), dict)
+                         and counts[d].get("has_assigned_to"))
+        print(f"  {cat:20s}: {done:>6,}/{len(dids):>6,} enriched  "
+              f"w/filing_date={with_filing:>5,}  "
+              f"w/judge={with_judge:>5,}  [{mark}]")
 
-    total_entries = sum(counts.values())
-    print(f"\n  Total: {total_done:,}/{total_dockets:,} dockets counted")
-    print(f"  Total entries: {total_entries:,}")
+    print(f"\n  Total: {total_done:,}/{total_dockets:,} dockets enriched")
     print(f"  This session: {session_processed:,} API calls in {elapsed/60:.1f} min")
     print(f"  {client.stats_str()}")
 
