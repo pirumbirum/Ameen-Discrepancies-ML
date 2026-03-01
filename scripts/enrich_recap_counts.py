@@ -89,6 +89,19 @@ class APIClient:
         for attempt in range(3):
             try:
                 resp = self.session.get(url, timeout=30)
+
+                # Debug: log first few responses
+                if self.total_calls <= 3:
+                    print(f"    [DEBUG] docket={docket_id} "
+                          f"status={resp.status_code} "
+                          f"url={url[:120]}")
+                    if resp.status_code == 200:
+                        data = resp.json()
+                        print(f"    [DEBUG] response keys: {list(data.keys())}")
+                        print(f"    [DEBUG] count={data.get('count')}")
+                    else:
+                        print(f"    [DEBUG] body: {resp.text[:300]}")
+
                 if resp.status_code == 200:
                     return resp.json().get("count", 0)
                 if resp.status_code == 429:
@@ -101,9 +114,15 @@ class APIClient:
                     print("FATAL: 401 Unauthorized")
                     sys.exit(1)
                 if resp.status_code in (500, 502, 503, 504):
+                    print(f"    [{resp.status_code}] Server error for docket {docket_id}")
                     time.sleep(5 * (2 ** attempt))
                     continue
+
+                # Log unexpected status codes
                 self.total_errors += 1
+                if self.total_errors <= 10:
+                    print(f"    [ERROR] docket={docket_id} "
+                          f"HTTP {resp.status_code}: {resp.text[:200]}")
                 return None
             except requests.RequestException:
                 self.total_errors += 1
@@ -166,6 +185,10 @@ def git_commit(msg):
             return
         subprocess.run(["git", "commit", "-m", msg],
                        check=True, capture_output=True)
+        # Pull-rebase to handle concurrent workflow commits
+        subprocess.run(["git", "pull", "--rebase", "origin",
+                        os.environ.get("GITHUB_REF_NAME", "")],
+                       capture_output=True, timeout=60)
         subprocess.run(["git", "push"],
                        check=True, capture_output=True, timeout=120)
         print(f"  [git] committed + pushed: {msg}")
@@ -325,14 +348,18 @@ def main():
         if hit_timeout:
             break
 
-        # Category completed
-        ckpt.setdefault("completed_categories", []).append(cat)
+        # Only mark category completed if we actually got results
+        cat_counted = sum(1 for d in dids if d in counts)
+        if cat_counted == 0 and len(dids) > 0:
+            print(f"  WARNING: {cat} got 0 counts for {len(dids)} dockets — "
+                  f"NOT marking as completed (will retry)")
+        else:
+            ckpt.setdefault("completed_categories", []).append(cat)
         ckpt["partial_category"] = None
         ckpt["partial_idx"] = 0
         save_checkpoint(ckpt)
         save_recap_counts(counts)
 
-        cat_counted = sum(1 for d in dids if d in counts)
         cat_total_docs = sum(counts.get(d, 0) for d in dids)
         git_commit(
             f"recap_counts: {cat} done — {cat_counted:,} dockets, "

@@ -85,6 +85,10 @@ def git_commit(msg):
             return
         subprocess.run(["git", "commit", "-m", msg],
                        check=True, capture_output=True)
+        # Pull-rebase to handle concurrent workflow commits
+        subprocess.run(["git", "pull", "--rebase", "origin",
+                        os.environ.get("GITHUB_REF_NAME", "")],
+                       capture_output=True, timeout=60)
         subprocess.run(["git", "push"],
                        check=True, capture_output=True, timeout=120)
         print(f"  [git] committed + pushed: {msg}")
