@@ -1,0 +1,76 @@
+name: "11: Enrich RECAP Doc Counts"
+
+# Gets RECAP document counts for all golden_set_general cases via API.
+# Runs in 4-hour sessions with checkpoint/resume.
+# Re-trigger (push or workflow_dispatch) to continue from checkpoint.
+on:
+  push:
+    branches:
+      - claude/integrate-api-keys-X96YT
+    paths:
+      - 'scripts/enrich_recap_counts.py'
+      - '.github/workflows/11_enrich_recap_counts.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    timeout-minutes: 270  # 4.5h — script stops at 4h, buffer for git
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: "Enrich RECAP doc counts (4h session)"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/enrich_recap_counts.py --max-minutes 240
+
+      - name: "Progress report"
+        if: always()
+        run: |
+          echo ""
+          echo "=== RECAP COUNTS CHECKPOINT ==="
+          cat golden_set_general/_recap_checkpoint.json 2>/dev/null || echo "(none)"
+          echo ""
+          echo "=== RECAP COUNTS SUMMARY ==="
+          python3 -c "
+          import json, os
+          counts_file = 'golden_set_general/_recap_counts.json'
+          if os.path.exists(counts_file):
+              counts = json.load(open(counts_file))
+              total_dockets = len(counts)
+              total_docs = sum(counts.values())
+              avg = total_docs / max(total_dockets, 1)
+              print(f'Dockets with counts: {total_dockets:,}')
+              print(f'Total RECAP docs:    {total_docs:,}')
+              print(f'Average per docket:  {avg:.1f}')
+          else:
+              print('No recap counts file yet')
+          " 2>/dev/null || echo "(error reading counts)"
+
+      - name: "Final commit (safety net)"
+        if: always()
+        run: |
+          git add golden_set_general/ || true
+          if ! git diff --cached --quiet 2>/dev/null; then
+            git commit -m "recap_counts: safety-net commit"
+            git push
+          fi

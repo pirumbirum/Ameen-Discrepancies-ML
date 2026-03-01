@@ -1,0 +1,405 @@
+#!/usr/bin/env python3
+"""
+Enrich golden_set_general cases with RECAP document counts from CourtListener API.
+
+For each of the ~37K qualifying cases, makes 1 API call to get the RECAP doc count:
+  GET /recap-documents/?docket_entry__docket={id}&format=json&page_size=1
+  → reads 'count' from pagination (no need to fetch actual documents)
+
+Runs in 4-hour sessions (--max-minutes 240) with checkpoint/resume.
+Git commits every 30 minutes with progress stats.
+~8 hours total = 2 workflow runs to complete.
+
+Requires CL_API_TOKEN or COURTLISTENER_TOKEN env var.
+"""
+
+import argparse
+import json
+import os
+import subprocess
+import sys
+import time
+
+# ---------------------------------------------------------------------------
+# Config
+# ---------------------------------------------------------------------------
+CL_API = "https://www.courtlistener.com/api/rest/v4"
+OUTPUT_DIR = "golden_set_general"
+RECAP_COUNTS_FILE = "golden_set_general/_recap_counts.json"
+CHECKPOINT_FILE = "golden_set_general/_recap_checkpoint.json"
+
+CALLS_PER_HOUR = 4600
+MIN_SLEEP = 3600 / CALLS_PER_HOUR  # ~0.78s
+GIT_COMMIT_INTERVAL = 1800  # 30 minutes
+MAX_MINUTES = 240  # 4 hours default
+
+CATEGORY_ORDER = [
+    "banks", "trade_secret", "stockholders", "antitrust",
+    "environmental", "rico", "securities", "trademark",
+    "patent", "other_contract", "insurance",
+]
+
+# ---------------------------------------------------------------------------
+# HTTP
+# ---------------------------------------------------------------------------
+try:
+    import requests
+except ImportError:
+    print("Installing requests...")
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "requests", "-q"])
+    import requests
+
+
+class APIClient:
+    """Rate-limited CourtListener client."""
+
+    def __init__(self, token):
+        self.session = requests.Session()
+        self.session.headers.update({
+            "Authorization": f"Token {token}",
+            "User-Agent": "Ameen-RecapCounts/1.0",
+        })
+        self.call_timestamps = []
+        self.total_calls = 0
+        self.total_errors = 0
+
+    def _enforce_rate_limit(self):
+        now = time.time()
+        self.call_timestamps = [t for t in self.call_timestamps
+                                if t > now - 3600]
+        if len(self.call_timestamps) >= CALLS_PER_HOUR:
+            wait = (self.call_timestamps[0] + 3600) - now + 1
+            if wait > 0:
+                print(f"  [RATE LIMIT] sleeping {wait:.0f}s")
+                time.sleep(wait)
+        if self.call_timestamps:
+            since_last = now - self.call_timestamps[-1]
+            if since_last < MIN_SLEEP:
+                time.sleep(MIN_SLEEP - since_last)
+        self.call_timestamps.append(time.time())
+        self.total_calls += 1
+
+    def get_recap_count(self, docket_id):
+        """Get RECAP document count for a docket. Returns int or None on error."""
+        self._enforce_rate_limit()
+        url = (f"{CL_API}/recap-documents/"
+               f"?docket_entry__docket={docket_id}"
+               f"&format=json&page_size=1")
+
+        for attempt in range(3):
+            try:
+                resp = self.session.get(url, timeout=30)
+                if resp.status_code == 200:
+                    return resp.json().get("count", 0)
+                if resp.status_code == 429:
+                    wait = 60 * (2 ** attempt)
+                    print(f"    [429] Rate limited, waiting {wait}s")
+                    time.sleep(wait)
+                    self._enforce_rate_limit()
+                    continue
+                if resp.status_code == 401:
+                    print("FATAL: 401 Unauthorized")
+                    sys.exit(1)
+                if resp.status_code in (500, 502, 503, 504):
+                    time.sleep(5 * (2 ** attempt))
+                    continue
+                self.total_errors += 1
+                return None
+            except requests.RequestException:
+                self.total_errors += 1
+                time.sleep(5 * (2 ** attempt))
+
+        return None
+
+    def stats_str(self):
+        return f"API: {self.total_calls:,} calls, {self.total_errors:,} errors"
+
+
+# ---------------------------------------------------------------------------
+# Checkpoint
+# ---------------------------------------------------------------------------
+
+def load_checkpoint():
+    if os.path.exists(CHECKPOINT_FILE):
+        with open(CHECKPOINT_FILE) as f:
+            return json.load(f)
+    return {"completed_categories": [], "partial_category": None,
+            "partial_idx": 0}
+
+
+def save_checkpoint(ckpt):
+    with open(CHECKPOINT_FILE, "w") as f:
+        json.dump(ckpt, f)
+
+
+# ---------------------------------------------------------------------------
+# Load/save recap counts
+# ---------------------------------------------------------------------------
+
+def load_recap_counts():
+    if os.path.exists(RECAP_COUNTS_FILE):
+        with open(RECAP_COUNTS_FILE) as f:
+            return json.load(f)
+    return {}
+
+
+def save_recap_counts(counts):
+    with open(RECAP_COUNTS_FILE, "w") as f:
+        json.dump(counts, f, indent=2)
+
+
+# ---------------------------------------------------------------------------
+# Git
+# ---------------------------------------------------------------------------
+
+_last_git_time = 0
+
+
+def git_commit(msg):
+    global _last_git_time
+    try:
+        subprocess.run(["git", "add", "golden_set_general/"],
+                       check=True, capture_output=True)
+        result = subprocess.run(["git", "diff", "--cached", "--quiet"],
+                                capture_output=True)
+        if result.returncode == 0:
+            return
+        subprocess.run(["git", "commit", "-m", msg],
+                       check=True, capture_output=True)
+        subprocess.run(["git", "push"],
+                       check=True, capture_output=True, timeout=120)
+        print(f"  [git] committed + pushed: {msg}")
+        _last_git_time = time.time()
+    except Exception as e:
+        print(f"  [git] WARNING: {e}")
+
+
+def maybe_git_commit(msg):
+    global _last_git_time
+    if time.time() - _last_git_time >= GIT_COMMIT_INTERVAL:
+        git_commit(msg)
+
+
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--max-minutes", type=int, default=MAX_MINUTES)
+    args = parser.parse_args()
+    max_minutes = args.max_minutes
+
+    token = (os.environ.get("CL_API_TOKEN", "")
+             or os.environ.get("COURTLISTENER_TOKEN", ""))
+    if not token:
+        print("FATAL: Set CL_API_TOKEN or COURTLISTENER_TOKEN env var")
+        sys.exit(1)
+
+    client = APIClient(token)
+
+    # Test API
+    print("Testing API connection...")
+    client._enforce_rate_limit()
+    resp = client.session.get(f"{CL_API}/courts/?format=json&page_size=1",
+                              timeout=30)
+    if resp.status_code != 200:
+        print(f"FATAL: API test failed ({resp.status_code})")
+        sys.exit(1)
+    client.total_calls += 1
+    print("API OK\n")
+
+    # Load all docket IDs from golden_set_general
+    print("Loading docket IDs from golden_set_general...")
+    all_dockets = {}  # {cat: [docket_id, ...]}
+    total_dockets = 0
+    for cat in CATEGORY_ORDER:
+        idx_file = os.path.join(OUTPUT_DIR, cat, "index.json")
+        if not os.path.exists(idx_file):
+            continue
+        with open(idx_file) as f:
+            idx = json.load(f)
+        dids = [entry["docket_id"] for entry in idx]
+        all_dockets[cat] = dids
+        total_dockets += len(dids)
+        print(f"  {cat:20s}: {len(dids):>6,}")
+    print(f"  {'TOTAL':>20s}: {total_dockets:>6,}\n")
+
+    # Load existing progress
+    ckpt = load_checkpoint()
+    counts = load_recap_counts()
+    already_done = len(counts)
+
+    print("=" * 60)
+    print(f"RECAP DOCUMENT COUNT ENRICHMENT")
+    print(f"  Total dockets: {total_dockets:,}")
+    print(f"  Already done: {already_done:,}")
+    print(f"  Remaining: {total_dockets - already_done:,}")
+    print(f"  Max time: {max_minutes} min")
+    print(f"  Rate: ~{CALLS_PER_HOUR:,}/hour")
+    eta_hours = (total_dockets - already_done) / CALLS_PER_HOUR
+    print(f"  ETA for remaining: {eta_hours:.1f} hours")
+    print("=" * 60)
+
+    global _last_git_time
+    _last_git_time = time.time()
+    start_time = time.time()
+    session_processed = 0
+    hit_timeout = False
+
+    for cat in CATEGORY_ORDER:
+        if cat not in all_dockets:
+            continue
+
+        # Skip fully completed categories
+        if cat in ckpt.get("completed_categories", []):
+            cat_done = sum(1 for d in all_dockets[cat] if d in counts)
+            print(f"\n{cat}: DONE (previous run) — {cat_done:,} counted")
+            continue
+
+        dids = all_dockets[cat]
+
+        # Resume from partial checkpoint
+        start_idx = 0
+        if ckpt.get("partial_category") == cat:
+            start_idx = ckpt.get("partial_idx", 0)
+
+        print(f"\n{'=' * 60}")
+        print(f"{cat}: {len(dids):,} dockets")
+        if start_idx > 0:
+            print(f"  Resuming from index {start_idx}")
+        print("=" * 60)
+
+        for i in range(start_idx, len(dids)):
+            did = dids[i]
+
+            # Time budget
+            elapsed_min = (time.time() - start_time) / 60
+            if elapsed_min >= max_minutes:
+                print(f"\n  [TIMEOUT] {elapsed_min:.0f} min elapsed, "
+                      f"stopping at {cat} [{i}/{len(dids)}]")
+                ckpt["partial_category"] = cat
+                ckpt["partial_idx"] = i
+                save_checkpoint(ckpt)
+                save_recap_counts(counts)
+                hit_timeout = True
+                break
+
+            # Skip if already counted
+            if did in counts:
+                continue
+
+            # Progress every 50 dockets
+            if session_processed % 50 == 0:
+                total_done = len(counts)
+                pct = total_done / max(total_dockets, 1) * 100
+                remaining = total_dockets - total_done
+                rate = session_processed / max(elapsed_min / 60, 0.01)
+                eta_h = remaining / max(rate, 1)
+                print(f"    [{total_done:,}/{total_dockets:,}] ({pct:.1f}%) "
+                      f"| {cat} [{i}/{len(dids)}] "
+                      f"| {client.stats_str()} "
+                      f"| {elapsed_min:.0f}min elapsed "
+                      f"| ETA {eta_h:.1f}h")
+                sys.stdout.flush()
+
+            # API call
+            count = client.get_recap_count(did)
+            if count is not None:
+                counts[did] = count
+            session_processed += 1
+
+            # Checkpoint every 500
+            if session_processed % 500 == 0:
+                ckpt["partial_category"] = cat
+                ckpt["partial_idx"] = i + 1
+                save_checkpoint(ckpt)
+                save_recap_counts(counts)
+
+            # Git commit every 30 min
+            total_done = len(counts)
+            maybe_git_commit(
+                f"recap_counts: {total_done:,}/{total_dockets:,} "
+                f"({cat} {i+1}/{len(dids)})")
+
+        if hit_timeout:
+            break
+
+        # Category completed
+        ckpt.setdefault("completed_categories", []).append(cat)
+        ckpt["partial_category"] = None
+        ckpt["partial_idx"] = 0
+        save_checkpoint(ckpt)
+        save_recap_counts(counts)
+
+        cat_counted = sum(1 for d in dids if d in counts)
+        cat_total_docs = sum(counts.get(d, 0) for d in dids)
+        git_commit(
+            f"recap_counts: {cat} done — {cat_counted:,} dockets, "
+            f"{cat_total_docs:,} total RECAP docs")
+
+    # Save final state
+    save_recap_counts(counts)
+    save_checkpoint(ckpt)
+
+    # Update category index.json files with recap counts
+    print("\nUpdating category index files with RECAP counts...")
+    for cat in CATEGORY_ORDER:
+        idx_file = os.path.join(OUTPUT_DIR, cat, "index.json")
+        if not os.path.exists(idx_file):
+            continue
+        with open(idx_file) as f:
+            idx = json.load(f)
+        updated = False
+        for entry in idx:
+            did = entry.get("docket_id", "")
+            if did in counts and "recap_doc_count" not in entry:
+                entry["recap_doc_count"] = counts[did]
+                updated = True
+        if updated:
+            with open(idx_file, "w") as f:
+                json.dump(idx, f, indent=2)
+            n = sum(1 for e in idx if "recap_doc_count" in e)
+            print(f"  {cat:20s}: {n:,}/{len(idx):,} updated")
+
+    # Final commit
+    elapsed = time.time() - start_time
+    total_done = len(counts)
+    status = "COMPLETE" if not hit_timeout else "PARTIAL"
+    remaining_cats = [c for c in CATEGORY_ORDER
+                      if c in all_dockets
+                      and c not in ckpt.get("completed_categories", [])]
+
+    git_commit(
+        f"recap_counts: {status} — {total_done:,}/{total_dockets:,} "
+        f"({session_processed:,} this session, {elapsed/60:.0f}min)")
+
+    # Report
+    print(f"\n{'=' * 60}")
+    print(f"RESULTS — {status}")
+    print("=" * 60)
+    for cat in CATEGORY_ORDER:
+        if cat not in all_dockets:
+            continue
+        dids = all_dockets[cat]
+        done = sum(1 for d in dids if d in counts)
+        total_docs = sum(counts.get(d, 0) for d in dids)
+        avg = total_docs / max(done, 1)
+        mark = "DONE" if cat in ckpt.get("completed_categories", []) else "..."
+        print(f"  {cat:20s}: {done:>6,}/{len(dids):>6,} counted  "
+              f"total_docs={total_docs:>8,}  avg={avg:>6.1f}  [{mark}]")
+
+    total_docs = sum(counts.values())
+    print(f"\n  Total: {total_done:,}/{total_dockets:,} dockets counted")
+    print(f"  Total RECAP docs: {total_docs:,}")
+    print(f"  This session: {session_processed:,} API calls in {elapsed/60:.1f} min")
+    print(f"  {client.stats_str()}")
+
+    if remaining_cats:
+        print(f"\n  Remaining categories: {', '.join(remaining_cats)}")
+        print("  Re-run to continue from checkpoint.")
+    print("=" * 60)
+
+
+if __name__ == "__main__":
+    main()
