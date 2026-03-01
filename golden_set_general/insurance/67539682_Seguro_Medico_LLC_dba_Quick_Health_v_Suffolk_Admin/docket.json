@@ -16,5 +16,20 @@
   "pacer_case_id": "611065",
   "source": "1",
   "slug": "seguro-medico-llc-dba-quick-health-v-suffolk-administrative-services-llc",
-  "federal_dn_case_type": "cv"
+  "federal_dn_case_type": "cv",
+  "_opinion_stats": {
+    "opinion_cluster_count": 2,
+    "total_citation_count": 0,
+    "precedential_statuses": [
+      "Unknown"
+    ],
+    "has_disposition": false,
+    "has_syllabus": false,
+    "has_procedural_history": false,
+    "has_arguments": false,
+    "has_headnotes": false,
+    "has_summary": false,
+    "earliest_opinion_date": "2023-11-07",
+    "latest_opinion_date": "2024-04-15"
+  }
 }

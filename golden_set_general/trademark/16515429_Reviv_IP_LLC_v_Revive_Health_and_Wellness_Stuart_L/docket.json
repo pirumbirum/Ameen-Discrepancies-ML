@@ -16,5 +16,20 @@
   "pacer_case_id": "562072",
   "source": "9",
   "slug": "reviv-ip-llc-v-revive-health-and-wellness-stuart-llc",
-  "federal_dn_case_type": ""
+  "federal_dn_case_type": "",
+  "_opinion_stats": {
+    "opinion_cluster_count": 2,
+    "total_citation_count": 0,
+    "precedential_statuses": [
+      "Unknown"
+    ],
+    "has_disposition": false,
+    "has_syllabus": false,
+    "has_procedural_history": false,
+    "has_arguments": false,
+    "has_headnotes": false,
+    "has_summary": false,
+    "earliest_opinion_date": "2020-08-24",
+    "latest_opinion_date": "2021-06-07"
+  }
 }

@@ -16,5 +16,20 @@
   "pacer_case_id": "70028",
   "source": "9",
   "slug": "allergan-usa-inc-v-msn-laboratories-private-limited",
-  "federal_dn_case_type": "cv"
+  "federal_dn_case_type": "cv",
+  "_opinion_stats": {
+    "opinion_cluster_count": 5,
+    "total_citation_count": 0,
+    "precedential_statuses": [
+      "Unknown"
+    ],
+    "has_disposition": false,
+    "has_syllabus": false,
+    "has_procedural_history": false,
+    "has_arguments": false,
+    "has_headnotes": false,
+    "has_summary": false,
+    "earliest_opinion_date": "2021-01-11",
+    "latest_opinion_date": "2023-08-04"
+  }
 }

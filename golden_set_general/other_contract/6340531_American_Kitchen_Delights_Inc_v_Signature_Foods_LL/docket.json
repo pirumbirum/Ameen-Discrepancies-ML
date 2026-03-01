@@ -16,5 +16,20 @@
   "pacer_case_id": "331034",
   "source": "9",
   "slug": "american-kitchen-delights-inc-v-signature-foods-llc",
-  "federal_dn_case_type": ""
+  "federal_dn_case_type": "",
+  "_opinion_stats": {
+    "opinion_cluster_count": 1,
+    "total_citation_count": 0,
+    "precedential_statuses": [
+      "Unknown"
+    ],
+    "has_disposition": false,
+    "has_syllabus": false,
+    "has_procedural_history": false,
+    "has_arguments": false,
+    "has_headnotes": false,
+    "has_summary": false,
+    "earliest_opinion_date": "2018-03-20",
+    "latest_opinion_date": "2018-03-20"
+  }
 }

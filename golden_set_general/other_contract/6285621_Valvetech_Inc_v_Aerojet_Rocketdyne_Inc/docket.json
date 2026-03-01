@@ -16,5 +16,20 @@
   "pacer_case_id": "114612",
   "source": "9",
   "slug": "valvetech-inc-v-aerojet-rocketdyne-inc",
-  "federal_dn_case_type": ""
+  "federal_dn_case_type": "",
+  "_opinion_stats": {
+    "opinion_cluster_count": 7,
+    "total_citation_count": 0,
+    "precedential_statuses": [
+      "Unknown"
+    ],
+    "has_disposition": false,
+    "has_syllabus": false,
+    "has_procedural_history": false,
+    "has_arguments": false,
+    "has_headnotes": false,
+    "has_summary": false,
+    "earliest_opinion_date": "2019-09-26",
+    "latest_opinion_date": "2024-05-06"
+  }
 }

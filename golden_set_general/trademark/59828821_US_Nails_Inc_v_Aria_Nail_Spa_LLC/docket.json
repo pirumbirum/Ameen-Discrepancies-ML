@@ -16,5 +16,20 @@
   "pacer_case_id": "254328",
   "source": "1",
   "slug": "us-nails-inc-v-aria-nail-spa-llc",
-  "federal_dn_case_type": "cv"
+  "federal_dn_case_type": "cv",
+  "_opinion_stats": {
+    "opinion_cluster_count": 1,
+    "total_citation_count": 0,
+    "precedential_statuses": [
+      "Unknown"
+    ],
+    "has_disposition": false,
+    "has_syllabus": false,
+    "has_procedural_history": false,
+    "has_arguments": false,
+    "has_headnotes": false,
+    "has_summary": false,
+    "earliest_opinion_date": "2022-01-20",
+    "latest_opinion_date": "2022-01-20"
+  }
 }
