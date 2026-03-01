@@ -31,19 +31,22 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install requests
+        run: pip install requests
+
       - name: "Filter: find cases with RECAP + opinions"
         env:
           CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
           COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
-        run: python3 scripts/filter_golden_general.py --resume
+        run: python3 scripts/filter_golden_general.py
 
-      - name: "Commit results"
+      # Safety net: if the script didn't push its final commit, do it here
+      - name: "Final commit (safety net)"
+        if: always()
         run: |
-          git add golden_set_general/
-          if git diff --cached --quiet; then
-            echo "No new results to commit"
-          else
-            COUNT=$(find golden_set_general -name "docket.json" | wc -l)
-            git commit -m "golden_set_general: ${COUNT} cases with RECAP + opinions"
+          git add golden_set_general/ || true
+          if ! git diff --cached --quiet 2>/dev/null; then
+            COUNT=$(find golden_set_general -name "docket.json" 2>/dev/null | wc -l)
+            git commit -m "golden_set_general: safety-net commit — ${COUNT} cases so far"
             git push
           fi
