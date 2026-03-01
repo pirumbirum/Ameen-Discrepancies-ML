@@ -1,4 +1,4 @@
-=== Endpoint probe at 2026-03-01 20:40:00 ===
+=== Endpoint probe at 2026-03-01 20:52:34 ===
 
 --- docket=16408805 call#2 ---
 URL: https://www.courtlistener.com/api/rest/v4/docket-entries/?docket=16408805&format=json&page_size=1
@@ -10,37 +10,66 @@ URL: https://www.courtlistener.com/api/rest/v4/recap-documents/?docket_entry__do
 Status: 403
 Body: {"detail":"You do not have permission to perform this action."}
 
---- docket=16408805 call#4 ---
-URL: https://www.courtlistener.com/api/rest/v4/dockets/16408805/?format=json
-Status: 200
-Body: {"resource_uri":"https://www.courtlistener.com/api/rest/v4/dockets/16408805/?format=json","id":16408805,"court":"https://www.courtlistener.com/api/rest/v4/courts/idd/?format=json","court_id":"idd","original_court_info":null,"idb_data":{"resource_uri":"https://www.courtlistener.com/api/rest/v4/fjc-integrated-database/25560048/?format=json","date_created":"2020-08-27T01:46:14.346247-07:00","date_modified":"2022-01-28T11:01:15.164574-08:00","dataset_source":9,"office":"1","docket_number":"1900423",
-
---- docket=16408805 call#5 ---
-URL: https://www.courtlistener.com/api/rest/v4/dockets/16408805/?format=json
-Status: 200
-Body: {"resource_uri":"https://www.courtlistener.com/api/rest/v4/dockets/16408805/?format=json","id":16408805,"court":"https://www.courtlistener.com/api/rest/v4/courts/idd/?format=json","court_id":"idd","original_court_info":null,"idb_data":{"resource_uri":"https://www.courtlistener.com/api/rest/v4/fjc-integrated-database/25560048/?format=json","date_created":"2020-08-27T01:46:14.346247-07:00","date_modified":"2022-01-28T11:01:15.164574-08:00","dataset_source":9,"office":"1","docket_number":"1900423",
-
---- docket=67785096 call#6 ---
-URL: https://www.courtlistener.com/api/rest/v4/dockets/67785096/?format=json
-Status: 200
-Body: {"resource_uri":"https://www.courtlistener.com/api/rest/v4/dockets/67785096/?format=json","id":67785096,"court":"https://www.courtlistener.com/api/rest/v4/courts/scd/?format=json","court_id":"scd","original_court_info":null,"idb_data":null,"clusters":["https://www.courtlistener.com/api/rest/v4/clusters/9964026/?format=json"],"audio_files":[],"assigned_to":"https://www.courtlistener.com/api/rest/v4/people/1431/?format=json","referred_to":null,"bankruptcy_information":null,"absolute_url":"/docket/
-
---- docket=65748851 call#7 ---
-URL: https://www.courtlistener.com/api/rest/v4/dockets/65748851/?format=json
-Status: 200
-Body: {"resource_uri":"https://www.courtlistener.com/api/rest/v4/dockets/65748851/?format=json","id":65748851,"court":"https://www.courtlistener.com/api/rest/v4/courts/ncwd/?format=json","court_id":"ncwd","original_court_info":null,"idb_data":null,"clusters":["https://www.courtlistener.com/api/rest/v4/clusters/9793632/?format=json","https://www.courtlistener.com/api/rest/v4/clusters/9794269/?format=json","https://www.courtlistener.com/api/rest/v4/clusters/10656053/?format=json"],"audio_files":[],"assi
-
---- docket=17105933 call#8 ---
-URL: https://www.courtlistener.com/api/rest/v4/dockets/17105933/?format=json
-Status: 200
-Body: {"resource_uri":"https://www.courtlistener.com/api/rest/v4/dockets/17105933/?format=json","id":17105933,"court":"https://www.courtlistener.com/api/rest/v4/courts/ctd/?format=json","court_id":"ctd","original_court_info":null,"idb_data":{"resource_uri":"https://www.courtlistener.com/api/rest/v4/fjc-integrated-database/25856251/?format=json","date_created":"2020-08-27T04:31:23.164181-07:00","date_modified":"2022-01-28T11:27:50.974300-08:00","dataset_source":9,"office":"3","docket_number":"2000570",
-
---- docket=17458159 call#9 ---
-URL: https://www.courtlistener.com/api/rest/v4/dockets/17458159/?format=json
-Status: 200
-Body: {"resource_uri":"https://www.courtlistener.com/api/rest/v4/dockets/17458159/?format=json","id":17458159,"court":"https://www.courtlistener.com/api/rest/v4/courts/flmd/?format=json","court_id":"flmd","original_court_info":null,"idb_data":null,"clusters":["https://www.courtlistener.com/api/rest/v4/clusters/9640154/?format=json"],"audio_files":[],"assigned_to":"https://www.courtlistener.com/api/rest/v4/people/15318/?format=json","referred_to":"https://www.courtlistener.com/api/rest/v4/people/9151/?
-
---- docket=70565472 call#10 ---
-URL: https://www.courtlistener.com/api/rest/v4/dockets/70565472/?format=json
-Status: 200
-Body: {"resource_uri":"https://www.courtlistener.com/api/rest/v4/dockets/70565472/?format=json","id":70565472,"court":"https://www.courtlistener.com/api/rest/v4/courts/txnd/?format=json","court_id":"txnd","original_court_info":null,"idb_data":null,"clusters":["https://www.courtlistener.com/api/rest/v4/clusters/10743920/?format=json"],"audio_files":[],"assigned_to":"https://www.courtlistener.com/api/rest/v4/people/14422/?format=json","referred_to":"https://www.courtlistener.com/api/rest/v4/people/9568/
+=== Docket detail structure ===
+Keys: ['resource_uri', 'id', 'court', 'court_id', 'original_court_info', 'idb_data', 'clusters', 'audio_files', 'assigned_to', 'referred_to', 'bankruptcy_information', 'absolute_url', 'date_created', 'date_modified', 'source', 'appeal_from_str', 'assigned_to_str', 'referred_to_str', 'panel_str', 'date_last_index', 'date_cert_granted', 'date_cert_denied', 'date_argued', 'date_reargued', 'date_reargument_denied', 'date_filed', 'date_terminated', 'date_last_filing', 'case_name_short', 'case_name', 'case_name_full', 'slug', 'docket_number', 'docket_number_core', 'docket_number_raw', 'docket_number_source', 'federal_dn_office_code', 'federal_dn_case_type', 'federal_dn_judge_initials_assigned', 'federal_dn_judge_initials_referred', 'federal_defendant_number', 'pacer_case_id', 'cause', 'nature_of_suit', 'jury_demand', 'jurisdiction_type', 'appellate_fee_status', 'appellate_case_type_information', 'mdl_status', 'filepath_ia', 'filepath_ia_json', 'ia_upload_failure_count', 'ia_needs_upload', 'ia_date_first_change', 'date_blocked', 'blocked', 'appeal_from', 'parent_docket', 'tags', 'panel']
+List fields: {'clusters': 1, 'audio_files': 0, 'tags': 0, 'panel': 0}
+  resource_uri: str = https://www.courtlistener.com/api/rest/v4/dockets/16408805/?format=json
+  id: int = 16408805
+  court: str = https://www.courtlistener.com/api/rest/v4/courts/idd/?format=json
+  court_id: str = idd
+  original_court_info: NoneType = None
+  idb_data: dict keys=['resource_uri', 'date_created', 'date_modified', 'dataset_source', 'office', 'docket_number', 'origin', 'date_filed', 'jurisdiction', 'nature_of_suit']
+  clusters: list[1] sample=['https://www.courtlistener.com/api/rest/v4/clusters/9666625/?format=json']
+  audio_files: list[0] sample=[]
+  assigned_to: str = https://www.courtlistener.com/api/rest/v4/people/3514/?format=json
+  referred_to: NoneType = None
+  bankruptcy_information: NoneType = None
+  absolute_url: str = /docket/16408805/hugunin-v-jp-morgan-chase-bank-na/
+  date_created: str = 2019-10-31T10:21:51.913813-07:00
+  date_modified: str = 2024-11-12T15:19:50.998100-08:00
+  source: int = 9
+  appeal_from_str: str = 
+  assigned_to_str: str = B Lynn Winmill
+  referred_to_str: str = 
+  panel_str: str = 
+  date_last_index: str = 2021-11-06T02:26:41.603894-07:00
+  date_cert_granted: NoneType = None
+  date_cert_denied: NoneType = None
+  date_argued: NoneType = None
+  date_reargued: NoneType = None
+  date_reargument_denied: NoneType = None
+  date_filed: str = 2019-10-31
+  date_terminated: str = 2019-12-06
+  date_last_filing: str = 2021-02-08
+  case_name_short: str = Hugunin
+  case_name: str = Hugunin v. J.P. Morgan Chase Bank, N.A.
+  case_name_full: str = 
+  slug: str = hugunin-v-jp-morgan-chase-bank-na
+  docket_number: str = 1:19-cv-00423
+  docket_number_core: str = 1900423
+  docket_number_raw: str = 1:19-cv-00423
+  docket_number_source: int = 0
+  federal_dn_office_code: str = 
+  federal_dn_case_type: str = 
+  federal_dn_judge_initials_assigned: str = 
+  federal_dn_judge_initials_referred: str = 
+  federal_defendant_number: NoneType = None
+  pacer_case_id: str = 44658
+  cause: str = 28:1983 Civil Rights
+  nature_of_suit: str = Banks and Banking
+  jury_demand: str = 
+  jurisdiction_type: str = Federal question
+  appellate_fee_status: str = 
+  appellate_case_type_information: str = 
+  mdl_status: str = 
+  filepath_ia: str = 
+  filepath_ia_json: str = 
+  ia_upload_failure_count: NoneType = None
+  ia_needs_upload: bool = True
+  ia_date_first_change: str = 2019-10-31T10:21:51.909502-07:00
+  date_blocked: NoneType = None
+  blocked: bool = False
+  appeal_from: NoneType = None
+  parent_docket: NoneType = None
+  tags: list[0] sample=[]
+  panel: list[0] sample=[]
