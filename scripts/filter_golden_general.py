@@ -114,14 +114,20 @@ def download_cluster_docket_ids():
     )
 
     docket_ids = set()
-    reader = csv.DictReader(io.TextIOWrapper(proc.stdout, encoding="utf-8",
-                                              errors="replace"))
+    # Legal text fields (procedural_history, summary, etc.) can be huge
+    csv.field_size_limit(sys.maxsize)
+    # CourtListener CSV uses PostgreSQL COPY format:
+    #   FORCE_QUOTE * (all fields quoted), ESCAPE '\\' (backslash escapes quotes)
+    reader = csv.DictReader(
+        io.TextIOWrapper(proc.stdout, encoding="utf-8", errors="replace"),
+        escapechar='\\',
+    )
 
     rows_read = 0
     for row in reader:
-        did = row.get("docket_id", "").strip()
+        did = row.get("docket_id")
         if did:
-            docket_ids.add(did)
+            docket_ids.add(did.strip())
         rows_read += 1
         if rows_read % 500_000 == 0:
             elapsed = time.time() - t0
