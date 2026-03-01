@@ -1,6 +1,7 @@
 name: "10: Build Golden Set General"
 
-# Filters cases2/ for RECAP + opinion data → golden_set_general/
+# Downloads CourtListener bulk opinion-clusters CSV from S3,
+# intersects with cases2/ RECAP data → golden_set_general/
 on:
   push:
     branches:
@@ -9,15 +10,6 @@ on:
       - 'scripts/filter_golden_general.py'
       - '.github/workflows/10_build_golden_general.yml'
   workflow_dispatch:
-    inputs:
-      mode:
-        description: 'Run mode'
-        required: true
-        default: 'test'
-        type: choice
-        options:
-          - test
-          - full
 
 permissions:
   contents: write
@@ -25,7 +17,7 @@ permissions:
 jobs:
   filter:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 30
 
     steps:
       - uses: actions/checkout@v4
@@ -41,32 +33,12 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install requests
-        run: pip install requests
-
-      - name: "Run filter"
-        env:
-          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
-          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
-          RUN_MODE: ${{ github.event.inputs.mode || 'test' }}
-        run: |
-          if [ "$RUN_MODE" = "full" ]; then
-            echo "=== FULL RUN ==="
-            python3 scripts/filter_golden_general.py
-          else
-            echo "=== TEST RUN ==="
-            python3 scripts/filter_golden_general.py --test
-          fi
+      - name: "Run filter (bulk CSV approach)"
+        run: python3 scripts/filter_golden_general.py
 
       - name: "Verify output"
         if: always()
         run: |
-          echo ""
-          echo "=== FILES CREATED ==="
-          find golden_set_general -type f 2>/dev/null | head -30 || echo "(none)"
-          echo ""
-          echo "=== CHECKPOINT ==="
-          cat golden_set_general/_checkpoint.json 2>/dev/null || echo "(none)"
           echo ""
           echo "=== MASTER INDEX ==="
           cat golden_set_general/index.json 2>/dev/null || echo "(none)"
@@ -74,25 +46,31 @@ jobs:
           DOCKET_COUNT=$(find golden_set_general -name "docket.json" 2>/dev/null | wc -l)
           echo "=== TOTAL docket.json FILES: ${DOCKET_COUNT} ==="
           echo ""
+          echo "=== CATEGORY COUNTS ==="
+          for dir in golden_set_general/*/; do
+            CAT=$(basename "$dir")
+            COUNT=$(find "$dir" -name "docket.json" 2>/dev/null | wc -l)
+            echo "  ${CAT}: ${COUNT}"
+          done
+          echo ""
           echo "=== SAMPLE docket.json ==="
           SAMPLE=$(find golden_set_general -name "docket.json" 2>/dev/null | head -1)
           if [ -n "$SAMPLE" ]; then
             python3 -c "
-          import json, sys
+          import json
           d = json.load(open('$SAMPLE'))
-          print(json.dumps({k: d.get(k) for k in ['id','case_name','source','court_id']}, indent=2))
+          print(json.dumps({k: d.get(k) for k in ['id','case_name','source','court_id','nature_of_suit']}, indent=2))
           "
           else
             echo "(no docket.json found)"
           fi
 
-      # Safety net: commit whatever we have
       - name: "Final commit (safety net)"
         if: always()
         run: |
           git add golden_set_general/ || true
           if ! git diff --cached --quiet 2>/dev/null; then
             COUNT=$(find golden_set_general -name "docket.json" 2>/dev/null | wc -l)
-            git commit -m "golden_set_general: safety-net commit — ${COUNT} cases so far"
+            git commit -m "golden_set_general: safety-net commit — ${COUNT} cases"
             git push
           fi

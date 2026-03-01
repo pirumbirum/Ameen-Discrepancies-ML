@@ -4,20 +4,18 @@ Filter cases2/ to find cases with BOTH RECAP data AND opinion clusters.
 Creates golden_set_general/ with qualifying cases organized by NOS category.
 
 Strategy:
-  1. Load all 275K docket IDs from cases2/metadata/
-  2. Filter for RECAP locally (source bitmask bit 0)
-  3. Check each docket individually via /dockets/{id}/ for opinion clusters
-  4. Write qualifying cases to golden_set_general/{category}/{id}_{slug}/docket.json
-  5. Git commit every 30 minutes to persist progress
+  1. Download CourtListener's bulk opinion-clusters CSV from S3
+  2. Extract unique docket_ids that have opinion clusters
+  3. Load our cases2/metadata/ docket IDs, filter for RECAP
+  4. Intersect: RECAP docket IDs ∩ cluster docket IDs = qualifying cases
+  5. Write to golden_set_general/{category}/{id}_{slug}/docket.json
 
-Built from scratch. No external script imports.
-Uses single-resource API calls (not batch id__in) for reliable cluster detection.
-
-Requires CL_API_TOKEN or COURTLISTENER_TOKEN env var.
+No per-docket API calls needed. ~5 min total.
 """
 
-import argparse
+import csv
 import json
+import io
 import os
 import re
 import subprocess
@@ -25,22 +23,14 @@ import sys
 import time
 
 # ---------------------------------------------------------------------------
-# Config (overridden by --test)
+# Config
 # ---------------------------------------------------------------------------
-CL_API = "https://www.courtlistener.com/api/rest/v4"
+BULK_CSV_URL = (
+    "https://com-courtlistener-storage.s3-us-west-2.amazonaws.com/"
+    "bulk-data/opinion-clusters-2025-12-31.csv.bz2"
+)
 CASES2_DIR = "cases2/metadata"
 OUTPUT_DIR = "golden_set_general"
-CHECKPOINT_FILE = "golden_set_general/_checkpoint.json"
-CHECKPOINT_EVERY = 100  # save checkpoint every N dockets checked
-CALLS_PER_HOUR = 4600  # CourtListener allows 5000; 400 buffer
-MIN_SLEEP = 3600 / CALLS_PER_HOUR  # ~0.78s between calls
-GIT_COMMIT_INTERVAL = 1800  # 30 minutes
-
-# Test mode overrides
-TEST_CATEGORIES = ["banks", "trade_secret"]  # 2 smallest
-TEST_CASES_PER_CAT = 20  # small sample for quick validation
-TEST_CHECKPOINT_EVERY = 10  # save often in test mode
-TEST_GIT_COMMIT_INTERVAL = 60  # 1 minute
 
 CATEGORIES = {
     "antitrust":      "410",
@@ -56,164 +46,12 @@ CATEGORIES = {
     "trademark":      "840",
 }
 
-# ---------------------------------------------------------------------------
-# HTTP — standalone, uses requests with connection pooling
-# ---------------------------------------------------------------------------
-try:
-    import requests
-except ImportError:
-    print("Installing requests...")
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "requests", "-q"])
-    import requests
-
-
-class APIClient:
-    """Rate-limited CourtListener client with connection pooling and retries."""
-
-    def __init__(self, token):
-        self.token = token
-        self.session = requests.Session()
-        self.session.headers.update({
-            "Authorization": f"Token {token}",
-            "User-Agent": "Ameen-GoldenGeneral/2.0",
-        })
-        self.call_timestamps = []  # sliding window for rate limiting
-        self.total_calls = 0
-        self.total_errors = 0
-        self.total_bytes = 0
-
-    def _enforce_rate_limit(self):
-        """Proactive rate limiting — sleep BEFORE hitting the limit."""
-        now = time.time()
-        one_hour_ago = now - 3600
-        # Clean old entries
-        self.call_timestamps = [t for t in self.call_timestamps if t > one_hour_ago]
-
-        if len(self.call_timestamps) >= CALLS_PER_HOUR:
-            oldest = self.call_timestamps[0]
-            wait = (oldest + 3600) - now + 1
-            if wait > 0:
-                print(f"  [RATE LIMIT] {len(self.call_timestamps)} calls in last hour, "
-                      f"sleeping {wait:.0f}s")
-                time.sleep(wait)
-
-        # Always enforce minimum gap between calls
-        if self.call_timestamps:
-            since_last = now - self.call_timestamps[-1]
-            if since_last < MIN_SLEEP:
-                time.sleep(MIN_SLEEP - since_last)
-
-        self.call_timestamps.append(time.time())
-        self.total_calls += 1
-
-    def get(self, url, max_retries=4):
-        """GET with rate limiting, retries, and exponential backoff."""
-        self._enforce_rate_limit()
-
-        for attempt in range(max_retries):
-            try:
-                resp = self.session.get(url, timeout=30)
-
-                if resp.status_code == 200:
-                    self.total_bytes += len(resp.content)
-                    return resp.json()
-
-                if resp.status_code == 429:
-                    wait = min(60 * (2 ** attempt), 300)
-                    print(f"    [429] Rate limited, waiting {wait}s "
-                          f"(attempt {attempt + 1}/{max_retries})")
-                    time.sleep(wait)
-                    self._enforce_rate_limit()
-                    continue
-
-                if resp.status_code == 401:
-                    print("    FATAL: 401 Unauthorized — check your API token")
-                    sys.exit(1)
-
-                if resp.status_code in (500, 502, 503, 504):
-                    wait = 5 * (2 ** attempt)
-                    print(f"    [{resp.status_code}] Server error, waiting {wait}s "
-                          f"(attempt {attempt + 1}/{max_retries})")
-                    time.sleep(wait)
-                    continue
-
-                # Other error
-                self.total_errors += 1
-                print(f"    HTTP {resp.status_code}: {resp.text[:200]}")
-                return None
-
-            except requests.RequestException as e:
-                wait = 5 * (2 ** attempt)
-                self.total_errors += 1
-                print(f"    Network error: {e}, waiting {wait}s "
-                      f"(attempt {attempt + 1}/{max_retries})")
-                time.sleep(wait)
-
-        print(f"    FAILED after {max_retries} attempts")
-        return None
-
-    def stats_str(self):
-        mb = self.total_bytes / 1024 / 1024
-        return (f"API calls: {self.total_calls:,} | "
-                f"errors: {self.total_errors:,} | "
-                f"downloaded: {mb:.1f} MB")
-
-
-# ---------------------------------------------------------------------------
-# Checkpoint — saves and resumes progress
-# ---------------------------------------------------------------------------
-
-def load_checkpoint():
-    if os.path.exists(CHECKPOINT_FILE):
-        with open(CHECKPOINT_FILE) as f:
-            return json.load(f)
-    return {
-        "completed_categories": [],
-        "partial": {},  # {category: {last_batch_idx: N, opinion_ids: [...]}}
-    }
-
-
-def save_checkpoint(ckpt):
-    os.makedirs(os.path.dirname(CHECKPOINT_FILE) or ".", exist_ok=True)
-    with open(CHECKPOINT_FILE, "w") as f:
-        json.dump(ckpt, f)
-
-
-# ---------------------------------------------------------------------------
-# Git — commit progress periodically
-# ---------------------------------------------------------------------------
-
-_last_git_commit_time = 0
-
-
-def git_commit(msg):
-    """Stage golden_set_general/, commit if changes, push."""
-    global _last_git_commit_time
-    try:
-        subprocess.run(["git", "add", "golden_set_general/"],
-                       check=True, capture_output=True)
-        # Check if anything staged
-        result = subprocess.run(["git", "diff", "--cached", "--quiet"],
-                                capture_output=True)
-        if result.returncode == 0:
-            print("    [git] nothing new to commit")
-            return
-        subprocess.run(["git", "commit", "-m", msg],
-                       check=True, capture_output=True)
-        subprocess.run(["git", "push"],
-                       check=True, capture_output=True, timeout=60)
-        print(f"    [git] committed + pushed: {msg}")
-        _last_git_commit_time = time.time()
-    except Exception as e:
-        print(f"    [git] WARNING: {e}")
-
-
-def maybe_git_commit(msg):
-    """Commit if 30+ minutes since last commit."""
-    global _last_git_commit_time
-    if time.time() - _last_git_commit_time >= GIT_COMMIT_INTERVAL:
-        git_commit(msg)
-
+# Process smallest categories first for fastest initial results
+CATEGORY_ORDER = [
+    "banks", "trade_secret", "stockholders", "antitrust",
+    "environmental", "rico", "securities", "trademark",
+    "patent", "other_contract", "insurance",
+]
 
 # ---------------------------------------------------------------------------
 # Helpers
@@ -233,381 +71,253 @@ def has_recap(source_val):
 
 
 # ---------------------------------------------------------------------------
-# Core logic
+# Git
 # ---------------------------------------------------------------------------
 
-def check_opinions_single(client, docket_ids):
-    """Check which docket IDs have opinion clusters.
+def git_commit(msg):
+    try:
+        subprocess.run(["git", "add", "golden_set_general/"],
+                       check=True, capture_output=True)
+        result = subprocess.run(["git", "diff", "--cached", "--quiet"],
+                                capture_output=True)
+        if result.returncode == 0:
+            return
+        subprocess.run(["git", "commit", "-m", msg],
+                       check=True, capture_output=True)
+        subprocess.run(["git", "push"],
+                       check=True, capture_output=True, timeout=120)
+        print(f"  [git] committed + pushed: {msg}")
+    except Exception as e:
+        print(f"  [git] WARNING: {e}")
 
-    Fetches each docket individually via /dockets/{id}/ to reliably get
-    the clusters field. The list endpoint with id__in + fields=clusters
-    is unreliable on CourtListener's API.
 
-    Returns set of string docket IDs that have clusters.
+# ---------------------------------------------------------------------------
+# Step 1: Download bulk opinion-clusters CSV and extract docket IDs
+# ---------------------------------------------------------------------------
+
+def download_cluster_docket_ids():
+    """Stream-download the bulk opinion-clusters CSV from S3 and extract
+    unique docket_id values. Uses curl | bunzip2 | python streaming parser.
+
+    Returns a set of docket_id strings.
     """
-    if not docket_ids:
-        return set()
+    print("Downloading opinion-clusters bulk CSV from CourtListener S3...")
+    print(f"  URL: {BULK_CSV_URL}")
+    t0 = time.time()
 
-    has_opinions = set()
-    for i, did in enumerate(docket_ids):
-        url = (f"{CL_API}/dockets/{did}/"
-               f"?fields=id,clusters"
-               f"&format=json")
-        data = client.get(url)
+    # Stream: curl → bunzip2 → stdout
+    proc = subprocess.Popen(
+        f'curl -sL "{BULK_CSV_URL}" | bunzip2',
+        shell=True,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+    )
 
-        # Debug: print first response structure
-        if i == 0 and client.total_calls <= 5:
-            if data:
-                print(f"    [DEBUG] Sample response keys: {list(data.keys())}")
-                print(f"    [DEBUG] Sample: id={data.get('id')}, "
-                      f"clusters={data.get('clusters', [])[:3]}")
-            else:
-                print(f"    [DEBUG] First request returned None (error)")
+    docket_ids = set()
+    reader = csv.DictReader(io.TextIOWrapper(proc.stdout, encoding="utf-8",
+                                              errors="replace"))
 
-        if data is None:
-            continue  # skip errors, don't abort whole batch
-        clusters = data.get("clusters", [])
-        if clusters:
-            has_opinions.add(str(did))
-
-    return has_opinions
-
-
-def process_category(cat_name, cases, client, ckpt, start_time,
-                     case_limit=None, checkpoint_every=100, test_mode=False):
-    """Process one category: check each docket for opinions, filter, write output."""
-    total = len(cases)
-
-    # Build lookup + RECAP filter
-    cases_by_id = {}
-    recap_ids = []
-    for case in cases:
-        did = str(case.get("id", ""))
-        if not did:
-            continue
-        cases_by_id[did] = case
-        if has_recap(case.get("source", "")):
-            recap_ids.append(did)
-
-    print(f"  RECAP filter: {len(recap_ids):,} / {total:,}")
-
-    # In test mode, limit cases
-    if case_limit and len(recap_ids) > case_limit:
-        print(f"  TEST MODE: limiting to {case_limit} cases "
-              f"(from {len(recap_ids):,})")
-        recap_ids = recap_ids[:case_limit]
-
-    # Check for partial progress on this category
-    partial = ckpt.get("partial", {}).get(cat_name, {})
-    start_idx = partial.get("last_checked_idx", 0)
-    opinion_ids = set(partial.get("opinion_ids", []))
-
-    if start_idx > 0:
-        print(f"  Resuming from index {start_idx} "
-              f"(already found {len(opinion_ids):,} with opinions)")
-
-    num_ids = len(recap_ids)
-    print(f"  Checking opinions: {num_ids:,} dockets (1 API call each)")
-
-    for i in range(start_idx, num_ids):
-        did = recap_ids[i]
-
-        # Progress every 50 dockets
-        if i % 50 == 0 or i == start_idx:
-            pct = (i + 1) / num_ids * 100
-            elapsed = (time.time() - start_time) / 60
-            print(f"    [{i + 1}/{num_ids}] ({pct:.0f}%) "
-                  f"opinions so far: {len(opinion_ids):,} | "
-                  f"{client.stats_str()} | {elapsed:.1f}min elapsed")
+    rows_read = 0
+    for row in reader:
+        did = row.get("docket_id", "").strip()
+        if did:
+            docket_ids.add(did)
+        rows_read += 1
+        if rows_read % 500_000 == 0:
+            elapsed = time.time() - t0
+            print(f"    {rows_read:,} rows processed, "
+                  f"{len(docket_ids):,} unique docket IDs, "
+                  f"{elapsed:.0f}s elapsed")
             sys.stdout.flush()
 
-        result = check_opinions_single(client, [did])
-        opinion_ids.update(result)
+    proc.wait()
+    elapsed = time.time() - t0
 
-        # Save partial checkpoint periodically
-        if (i + 1) % checkpoint_every == 0:
-            if "partial" not in ckpt:
-                ckpt["partial"] = {}
-            ckpt["partial"][cat_name] = {
-                "last_checked_idx": i + 1,
-                "opinion_ids": list(opinion_ids),
-            }
-            save_checkpoint(ckpt)
+    if proc.returncode != 0:
+        stderr = proc.stderr.read().decode(errors="replace")
+        print(f"  WARNING: download process exited with code {proc.returncode}")
+        if stderr:
+            print(f"  stderr: {stderr[:500]}")
 
-        # Git commit every 30 minutes
-        maybe_git_commit(
-            f"golden_set_general: {cat_name} {i + 1}/{num_ids} "
-            f"({len(opinion_ids):,} with opinions)")
+    print(f"  Done: {rows_read:,} total rows, "
+          f"{len(docket_ids):,} unique docket IDs with opinion clusters")
+    print(f"  Time: {elapsed:.1f}s")
 
-    # Clear partial progress for this category
-    if "partial" in ckpt and cat_name in ckpt["partial"]:
-        del ckpt["partial"][cat_name]
-
-    # Intersect RECAP + opinions
-    qualifying_ids = set(recap_ids) & opinion_ids
-    print(f"  Opinions found: {len(opinion_ids):,}")
-    print(f"  BOTH recap + opinions: {len(qualifying_ids):,}")
-
-    # Write output folders
-    cat_dir = os.path.join(OUTPUT_DIR, cat_name)
-    os.makedirs(cat_dir, exist_ok=True)
-
-    cat_index = []
-    for did in sorted(qualifying_ids):
-        case = cases_by_id[did]
-        case_name = case.get("case_name", f"case_{did}")
-        slug = sanitize_slug(case_name)
-        folder_name = f"{did}_{slug}"
-        case_dir = os.path.join(cat_dir, folder_name)
-        os.makedirs(case_dir, exist_ok=True)
-
-        with open(os.path.join(case_dir, "docket.json"), "w") as f:
-            json.dump(case, f, indent=2)
-
-        cat_index.append({
-            "docket_id": did,
-            "case_name": case_name,
-            "court_id": case.get("court_id", ""),
-            "date_filed": case.get("date_filed", ""),
-            "date_terminated": case.get("date_terminated", ""),
-            "source": case.get("source", ""),
-        })
-
-    with open(os.path.join(cat_dir, "index.json"), "w") as f:
-        json.dump(cat_index, f, indent=2)
-
-    return qualifying_ids
-
-
-def main():
-    parser = argparse.ArgumentParser(
-        description="Filter cases for golden_set_general")
-    parser.add_argument("--test", action="store_true",
-                        help="Test mode: 2 categories, 160 cases each, "
-                             "fast checkpoints, extra debug output")
-    args = parser.parse_args()
-
-    test_mode = args.test
-
-    # Apply test overrides
-    global GIT_COMMIT_INTERVAL
-    if test_mode:
-        GIT_COMMIT_INTERVAL = TEST_GIT_COMMIT_INTERVAL
-        print("=" * 60)
-        print("TEST MODE")
-        print(f"  Categories: {TEST_CATEGORIES}")
-        print(f"  Cases per category: {TEST_CASES_PER_CAT}")
-        print(f"  Checkpoint every: {TEST_CHECKPOINT_EVERY} dockets")
-        print(f"  Git commit interval: {TEST_GIT_COMMIT_INTERVAL}s")
-        print("=" * 60)
-
-    # Token
-    token = (os.environ.get("CL_API_TOKEN", "")
-             or os.environ.get("COURTLISTENER_TOKEN", ""))
-    if not token:
-        print("FATAL: Set CL_API_TOKEN or COURTLISTENER_TOKEN env var")
+    if len(docket_ids) == 0:
+        print("FATAL: No docket IDs extracted from bulk CSV")
         sys.exit(1)
-    print(f"Token OK (length={len(token)})")
 
-    # Build client
-    client = APIClient(token)
+    return docket_ids
 
-    # Test API
-    print("\nTesting API connection...")
-    test_resp = client.get(f"{CL_API}/courts/?format=json&page_size=1")
-    if test_resp is None:
-        print("FATAL: API test failed")
-        sys.exit(1)
-    print(f"API OK (got {test_resp.get('count', '?')} courts)\n")
 
-    # Determine which categories to load
-    if test_mode:
-        cats_to_load = {k: v for k, v in CATEGORIES.items()
-                        if k in TEST_CATEGORIES}
-    else:
-        cats_to_load = CATEGORIES
+# ---------------------------------------------------------------------------
+# Step 2: Load cases2 metadata and filter
+# ---------------------------------------------------------------------------
 
-    # Load cases
-    print("Loading cases2 metadata...")
-    all_cases = {}
-    grand_total_loaded = 0
-    for cat_name in sorted(cats_to_load.keys()):
+def load_and_filter(cluster_docket_ids):
+    """Load all categories from cases2/metadata, filter for RECAP + opinions.
+
+    Returns dict: {category: [qualifying_cases]}
+    """
+    print("\nLoading cases2 metadata and filtering...")
+
+    results = {}
+    grand_total = 0
+    grand_recap = 0
+    grand_qualifying = 0
+
+    for cat_name in CATEGORY_ORDER:
+        if cat_name not in CATEGORIES:
+            continue
+
         fp = os.path.join(CASES2_DIR, f"{cat_name}.json")
         if not os.path.exists(fp):
             print(f"  WARNING: {fp} not found, skipping")
             continue
+
         with open(fp) as f:
             cases = json.load(f)
-        all_cases[cat_name] = cases
-        grand_total_loaded += len(cases)
-        print(f"  {cat_name:20s}: {len(cases):>8,}")
-    print(f"  {'TOTAL':>20s}: {grand_total_loaded:>8,}\n")
 
-    # Checkpoint — fresh start in test mode
-    if test_mode:
-        ckpt = {"completed_categories": [], "partial": {}}
-    else:
-        ckpt = load_checkpoint()
+        total = len(cases)
+        recap_cases = []
+        qualifying = []
 
-    # Process
-    mode_label = "TEST RUN" if test_mode else "FULL RUN"
-    print("=" * 60)
-    print(f"FILTERING: RECAP + OPINIONS ({mode_label})")
-    print("=" * 60)
+        for case in cases:
+            did = str(case.get("id", ""))
+            if not did:
+                continue
+            if has_recap(case.get("source", "")):
+                recap_cases.append(case)
+                if did in cluster_docket_ids:
+                    qualifying.append(case)
 
-    global _last_git_commit_time
-    _last_git_commit_time = time.time()
+        results[cat_name] = qualifying
+        grand_total += total
+        grand_recap += len(recap_cases)
+        grand_qualifying += len(qualifying)
+
+        pct = len(qualifying) / max(total, 1) * 100
+        print(f"  {cat_name:20s}: {total:>8,} total → "
+              f"{len(recap_cases):>8,} RECAP → "
+              f"{len(qualifying):>6,} qualifying ({pct:.1f}%)")
+
+    print(f"\n  {'TOTAL':>20s}: {grand_total:>8,} total → "
+          f"{grand_recap:>8,} RECAP → "
+          f"{grand_qualifying:>6,} qualifying")
+
+    return results
+
+
+# ---------------------------------------------------------------------------
+# Step 3: Write output
+# ---------------------------------------------------------------------------
+
+def write_output(results):
+    """Write qualifying cases to golden_set_general/."""
+    print("\nWriting output to golden_set_general/...")
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    start_time = time.time()
-    grand_total = 0
-    grand_qualifying = 0
     category_stats = {}
 
-    for cat_name in sorted(cats_to_load.keys()):
-        cases = all_cases.get(cat_name, [])
-        if not cases:
+    for cat_name in CATEGORY_ORDER:
+        qualifying = results.get(cat_name, [])
+        if not qualifying and cat_name not in results:
             continue
 
-        # Skip completed categories
-        if cat_name in ckpt.get("completed_categories", []):
-            cat_dir = os.path.join(OUTPUT_DIR, cat_name)
-            idx_file = os.path.join(cat_dir, "index.json")
-            if os.path.exists(idx_file):
-                with open(idx_file) as f:
-                    idx = json.load(f)
-                count = len(idx)
-                print(f"\n{cat_name}: DONE — {count:,} qualifying")
-                grand_total += len(cases)
-                grand_qualifying += count
-                category_stats[cat_name] = {
-                    "total": len(cases), "qualifying": count}
-                continue
+        cat_dir = os.path.join(OUTPUT_DIR, cat_name)
+        os.makedirs(cat_dir, exist_ok=True)
 
-        print(f"\n{'=' * 60}")
-        print(f"{cat_name} (NOS {cats_to_load[cat_name]}): {len(cases):,} cases")
-        print("=" * 60)
+        cat_index = []
+        for case in qualifying:
+            did = str(case.get("id", ""))
+            case_name = case.get("case_name", f"case_{did}")
+            slug = sanitize_slug(case_name)
+            folder_name = f"{did}_{slug}"
+            case_dir = os.path.join(cat_dir, folder_name)
+            os.makedirs(case_dir, exist_ok=True)
 
-        qualifying = process_category(
-            cat_name, cases, client, ckpt, start_time,
-            case_limit=TEST_CASES_PER_CAT if test_mode else None,
-            checkpoint_every=TEST_CHECKPOINT_EVERY if test_mode else CHECKPOINT_EVERY,
-            test_mode=test_mode)
-        count = len(qualifying)
+            with open(os.path.join(case_dir, "docket.json"), "w") as f:
+                json.dump(case, f, indent=2)
 
-        # Mark completed
-        ckpt.setdefault("completed_categories", []).append(cat_name)
-        save_checkpoint(ckpt)
+            cat_index.append({
+                "docket_id": did,
+                "case_name": case_name,
+                "court_id": case.get("court_id", ""),
+                "date_filed": case.get("date_filed", ""),
+                "date_terminated": case.get("date_terminated", ""),
+                "source": case.get("source", ""),
+            })
 
-        grand_total += len(cases)
-        grand_qualifying += count
+        with open(os.path.join(cat_dir, "index.json"), "w") as f:
+            json.dump(cat_index, f, indent=2)
+
         category_stats[cat_name] = {
-            "total": len(cases), "qualifying": count}
+            "total_in_cases2": len(results.get(cat_name, [])),
+            "qualifying": len(qualifying),
+        }
 
-        # Git commit after each category
-        git_commit(
-            f"golden_set_general{'[TEST]' if test_mode else ''}: "
-            f"{cat_name} done — {count:,} qualifying cases")
+        print(f"  {cat_name:20s}: {len(qualifying):>6,} cases written")
+
+    return category_stats
+
+
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
+
+def main():
+    start_time = time.time()
+
+    print("=" * 60)
+    print("GOLDEN SET GENERAL — FULL RUN")
+    print("Filter: RECAP source + opinion clusters")
+    print("=" * 60)
+
+    # Step 1: Get all docket IDs that have opinion clusters
+    cluster_docket_ids = download_cluster_docket_ids()
+
+    # Step 2: Load cases2, filter for RECAP, intersect with cluster IDs
+    results = load_and_filter(cluster_docket_ids)
+
+    # Step 3: Write output
+    category_stats = write_output(results)
 
     # Master index
     elapsed = time.time() - start_time
+    grand_qualifying = sum(s["qualifying"] for s in category_stats.values())
+
     index = {
         "description": "Cases with BOTH RECAP data AND opinion clusters",
-        "mode": "test" if test_mode else "full",
-        "source": "cases2/metadata/",
+        "source_data": "cases2/metadata/",
+        "cluster_source": BULK_CSV_URL,
         "filter_criteria": {
             "recap": "source bitmask bit 0 = 1",
-            "opinions": "docket has >= 1 opinion cluster on CourtListener",
+            "opinions": "docket_id appears in CourtListener opinion-clusters bulk CSV",
         },
         "created_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
-        "total_scanned": grand_total,
         "total_qualifying": grand_qualifying,
         "categories": category_stats,
-        "api_stats": {
-            "calls": client.total_calls,
-            "errors": client.total_errors,
-            "bytes_mb": round(client.total_bytes / 1024 / 1024, 1),
-            "elapsed_minutes": round(elapsed / 60, 1),
-        },
+        "elapsed_minutes": round(elapsed / 60, 1),
     }
     with open(os.path.join(OUTPUT_DIR, "index.json"), "w") as f:
         json.dump(index, f, indent=2)
 
-    # Final commit
+    # Git commit
     git_commit(
-        f"golden_set_general{'[TEST]' if test_mode else ''}: COMPLETE — "
+        f"golden_set_general: COMPLETE — "
         f"{grand_qualifying:,} cases across {len(category_stats)} categories")
 
     # Report
     print(f"\n{'=' * 60}")
-    print(f"RESULTS ({mode_label})")
+    print("RESULTS")
     print("=" * 60)
-    for cat_name in sorted(category_stats.keys()):
-        s = category_stats[cat_name]
-        pct = s["qualifying"] / max(s["total"], 1) * 100
-        print(f"  {cat_name:20s}: {s['qualifying']:>6,} / {s['total']:>8,} "
-              f"({pct:.1f}%)")
-    print(f"  {'TOTAL':>20s}: {grand_qualifying:>6,} / {grand_total:>8,}")
-    print(f"\n  {client.stats_str()}")
-    print(f"  Time: {elapsed / 60:.1f} min")
-
-    if test_mode:
-        # Print validation summary
-        print(f"\n{'=' * 60}")
-        print("TEST VALIDATION")
-        print("=" * 60)
-        checks = []
-
-        # 1. API worked
-        checks.append(("API auth + connection",
-                        client.total_calls > 0 and client.total_errors == 0))
-        # 2. Rate limiting — no 429s means it worked
-        checks.append(("Rate limiting (no 429s)",
-                        client.total_errors == 0))
-        # 3. Got qualifying cases
-        checks.append(("Found qualifying cases",
-                        grand_qualifying > 0))
-        # 4. Output dirs created
-        dirs_ok = all(
-            os.path.isdir(os.path.join(OUTPUT_DIR, c))
-            for c in TEST_CATEGORIES)
-        checks.append(("Output directories created", dirs_ok))
-        # 5. docket.json files exist
-        docket_count = sum(
-            1 for root, dirs, files in os.walk(OUTPUT_DIR)
-            if "docket.json" in files)
-        checks.append((f"docket.json files written ({docket_count})",
-                        docket_count > 0))
-        # 6. Category index files
-        idx_ok = all(
-            os.path.exists(os.path.join(OUTPUT_DIR, c, "index.json"))
-            for c in TEST_CATEGORIES)
-        checks.append(("Category index.json files", idx_ok))
-        # 7. Master index
-        checks.append(("Master index.json",
-                        os.path.exists(os.path.join(OUTPUT_DIR, "index.json"))))
-        # 8. Checkpoint
-        checks.append(("Checkpoint file",
-                        os.path.exists(CHECKPOINT_FILE)))
-        # 9. Checkpoint has completed categories
-        ckpt_ok = len(ckpt.get("completed_categories", [])) == len(TEST_CATEGORIES)
-        checks.append((f"Checkpoint tracks {len(TEST_CATEGORIES)} completed cats",
-                        ckpt_ok))
-
-        all_pass = True
-        for name, passed in checks:
-            status = "PASS" if passed else "FAIL"
-            if not passed:
-                all_pass = False
-            print(f"  [{status}] {name}")
-
-        print("=" * 60)
-        if all_pass:
-            print("ALL CHECKS PASSED")
-        else:
-            print("SOME CHECKS FAILED — review logs above")
-            sys.exit(1)
-
+    for cat_name in CATEGORY_ORDER:
+        s = category_stats.get(cat_name)
+        if not s:
+            continue
+        print(f"  {cat_name:20s}: {s['qualifying']:>6,}")
+    print(f"  {'TOTAL':>20s}: {grand_qualifying:>6,}")
+    print(f"\n  Time: {elapsed / 60:.1f} min")
     print("=" * 60)
 
 
