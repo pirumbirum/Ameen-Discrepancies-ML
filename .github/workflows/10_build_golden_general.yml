@@ -1,5 +1,6 @@
 name: "10: Build Golden Set General"
 
+# Filters cases2/ for RECAP + opinion data → golden_set_general/
 on:
   push:
     branches:
