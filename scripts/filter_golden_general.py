@@ -16,6 +16,7 @@ Built from scratch. No external script imports.
 Requires CL_API_TOKEN or COURTLISTENER_TOKEN env var.
 """
 
+import argparse
 import json
 import os
 import re
@@ -24,7 +25,7 @@ import sys
 import time
 
 # ---------------------------------------------------------------------------
-# Config
+# Config (overridden by --test)
 # ---------------------------------------------------------------------------
 CL_API = "https://www.courtlistener.com/api/rest/v4"
 CASES2_DIR = "cases2/metadata"
@@ -34,6 +35,12 @@ BATCH_SIZE = 80
 CALLS_PER_HOUR = 4600  # CourtListener allows 5000; 400 buffer
 MIN_SLEEP = 3600 / CALLS_PER_HOUR  # ~0.78s between calls
 GIT_COMMIT_INTERVAL = 1800  # 30 minutes
+
+# Test mode overrides
+TEST_CATEGORIES = ["banks", "trade_secret"]  # 2 smallest
+TEST_CASES_PER_CAT = 160  # = 2 batches of 80
+TEST_CHECKPOINT_EVERY = 1  # every batch
+TEST_GIT_COMMIT_INTERVAL = 60  # 1 minute
 
 CATEGORIES = {
     "antitrust":      "410",
@@ -246,11 +253,27 @@ def batch_check_opinions(client, docket_ids):
            f"&page_size=100")
 
     has_opinions = set()
+    page = 0
     while url:
+        page += 1
         data = client.get(url)
         if data is None:
             break
-        for docket in data.get("results", []):
+        results = data.get("results", [])
+        count_in_page = data.get("count", "?")
+
+        # Debug: print first response structure
+        if page == 1 and client.total_calls <= 3:
+            print(f"    [DEBUG] API response: count={count_in_page}, "
+                  f"results_in_page={len(results)}, "
+                  f"has_next={'yes' if data.get('next') else 'no'}")
+            if results:
+                sample = results[0]
+                print(f"    [DEBUG] Sample result keys: {list(sample.keys())}")
+                print(f"    [DEBUG] Sample: id={sample.get('id')}, "
+                      f"clusters={sample.get('clusters', [])[:3]}")
+
+        for docket in results:
             did = str(docket.get("id", ""))
             clusters = docket.get("clusters", [])
             if clusters:
@@ -260,7 +283,8 @@ def batch_check_opinions(client, docket_ids):
     return has_opinions
 
 
-def process_category(cat_name, cases, client, ckpt, start_time):
+def process_category(cat_name, cases, client, ckpt, start_time,
+                     case_limit=None, checkpoint_every=50, test_mode=False):
     """Process one category: batch-check opinions, filter, write output."""
     total = len(cases)
 
@@ -276,6 +300,12 @@ def process_category(cat_name, cases, client, ckpt, start_time):
             recap_ids.append(did)
 
     print(f"  RECAP filter: {len(recap_ids):,} / {total:,}")
+
+    # In test mode, limit cases
+    if case_limit and len(recap_ids) > case_limit:
+        print(f"  TEST MODE: limiting to {case_limit} cases "
+              f"(from {len(recap_ids):,})")
+        recap_ids = recap_ids[:case_limit]
 
     # Check for partial progress on this category
     partial = ckpt.get("partial", {}).get(cat_name, {})
@@ -307,8 +337,8 @@ def process_category(cat_name, cases, client, ckpt, start_time):
         batch_result = batch_check_opinions(client, batch)
         opinion_ids.update(batch_result)
 
-        # Save partial checkpoint every 50 batches
-        if (i + 1) % 50 == 0:
+        # Save partial checkpoint periodically
+        if (i + 1) % checkpoint_every == 0:
             if "partial" not in ckpt:
                 ckpt["partial"] = {}
             ckpt["partial"][cat_name] = {
@@ -363,6 +393,27 @@ def process_category(cat_name, cases, client, ckpt, start_time):
 
 
 def main():
+    parser = argparse.ArgumentParser(
+        description="Filter cases for golden_set_general")
+    parser.add_argument("--test", action="store_true",
+                        help="Test mode: 2 categories, 160 cases each, "
+                             "fast checkpoints, extra debug output")
+    args = parser.parse_args()
+
+    test_mode = args.test
+
+    # Apply test overrides
+    global GIT_COMMIT_INTERVAL
+    if test_mode:
+        GIT_COMMIT_INTERVAL = TEST_GIT_COMMIT_INTERVAL
+        print("=" * 60)
+        print("TEST MODE")
+        print(f"  Categories: {TEST_CATEGORIES}")
+        print(f"  Cases per category: {TEST_CASES_PER_CAT}")
+        print(f"  Checkpoint every: {TEST_CHECKPOINT_EVERY} batch(es)")
+        print(f"  Git commit interval: {TEST_GIT_COMMIT_INTERVAL}s")
+        print("=" * 60)
+
     # Token
     token = (os.environ.get("CL_API_TOKEN", "")
              or os.environ.get("COURTLISTENER_TOKEN", ""))
@@ -375,18 +426,25 @@ def main():
     client = APIClient(token)
 
     # Test API
-    print("Testing API connection...")
-    test = client.get(f"{CL_API}/courts/?format=json&page_size=1")
-    if test is None:
+    print("\nTesting API connection...")
+    test_resp = client.get(f"{CL_API}/courts/?format=json&page_size=1")
+    if test_resp is None:
         print("FATAL: API test failed")
         sys.exit(1)
-    print("API OK\n")
+    print(f"API OK (got {test_resp.get('count', '?')} courts)\n")
+
+    # Determine which categories to load
+    if test_mode:
+        cats_to_load = {k: v for k, v in CATEGORIES.items()
+                        if k in TEST_CATEGORIES}
+    else:
+        cats_to_load = CATEGORIES
 
     # Load cases
     print("Loading cases2 metadata...")
     all_cases = {}
     grand_total_loaded = 0
-    for cat_name in sorted(CATEGORIES.keys()):
+    for cat_name in sorted(cats_to_load.keys()):
         fp = os.path.join(CASES2_DIR, f"{cat_name}.json")
         if not os.path.exists(fp):
             print(f"  WARNING: {fp} not found, skipping")
@@ -398,12 +456,16 @@ def main():
         print(f"  {cat_name:20s}: {len(cases):>8,}")
     print(f"  {'TOTAL':>20s}: {grand_total_loaded:>8,}\n")
 
-    # Checkpoint
-    ckpt = load_checkpoint()
+    # Checkpoint — fresh start in test mode
+    if test_mode:
+        ckpt = {"completed_categories": [], "partial": {}}
+    else:
+        ckpt = load_checkpoint()
 
     # Process
+    mode_label = "TEST RUN" if test_mode else "FULL RUN"
     print("=" * 60)
-    print("FILTERING: RECAP + OPINIONS")
+    print(f"FILTERING: RECAP + OPINIONS ({mode_label})")
     print("=" * 60)
 
     global _last_git_commit_time
@@ -415,7 +477,7 @@ def main():
     grand_qualifying = 0
     category_stats = {}
 
-    for cat_name in sorted(CATEGORIES.keys()):
+    for cat_name in sorted(cats_to_load.keys()):
         cases = all_cases.get(cat_name, [])
         if not cases:
             continue
@@ -436,11 +498,14 @@ def main():
                 continue
 
         print(f"\n{'=' * 60}")
-        print(f"{cat_name} (NOS {CATEGORIES[cat_name]}): {len(cases):,} cases")
+        print(f"{cat_name} (NOS {cats_to_load[cat_name]}): {len(cases):,} cases")
         print("=" * 60)
 
         qualifying = process_category(
-            cat_name, cases, client, ckpt, start_time)
+            cat_name, cases, client, ckpt, start_time,
+            case_limit=TEST_CASES_PER_CAT if test_mode else None,
+            checkpoint_every=TEST_CHECKPOINT_EVERY if test_mode else 50,
+            test_mode=test_mode)
         count = len(qualifying)
 
         # Mark completed
@@ -454,13 +519,14 @@ def main():
 
         # Git commit after each category
         git_commit(
-            f"golden_set_general: {cat_name} done — "
-            f"{count:,} qualifying cases")
+            f"golden_set_general{'[TEST]' if test_mode else ''}: "
+            f"{cat_name} done — {count:,} qualifying cases")
 
     # Master index
     elapsed = time.time() - start_time
     index = {
         "description": "Cases with BOTH RECAP data AND opinion clusters",
+        "mode": "test" if test_mode else "full",
         "source": "cases2/metadata/",
         "filter_criteria": {
             "recap": "source bitmask bit 0 = 1",
@@ -482,12 +548,12 @@ def main():
 
     # Final commit
     git_commit(
-        f"golden_set_general: COMPLETE — "
+        f"golden_set_general{'[TEST]' if test_mode else ''}: COMPLETE — "
         f"{grand_qualifying:,} cases across {len(category_stats)} categories")
 
     # Report
     print(f"\n{'=' * 60}")
-    print("RESULTS")
+    print(f"RESULTS ({mode_label})")
     print("=" * 60)
     for cat_name in sorted(category_stats.keys()):
         s = category_stats[cat_name]
@@ -497,6 +563,64 @@ def main():
     print(f"  {'TOTAL':>20s}: {grand_qualifying:>6,} / {grand_total:>8,}")
     print(f"\n  {client.stats_str()}")
     print(f"  Time: {elapsed / 60:.1f} min")
+
+    if test_mode:
+        # Print validation summary
+        print(f"\n{'=' * 60}")
+        print("TEST VALIDATION")
+        print("=" * 60)
+        checks = []
+
+        # 1. API worked
+        checks.append(("API auth + connection",
+                        client.total_calls > 0 and client.total_errors == 0))
+        # 2. Rate limiting — no 429s means it worked
+        checks.append(("Rate limiting (no 429s)",
+                        client.total_errors == 0))
+        # 3. Got qualifying cases
+        checks.append(("Found qualifying cases",
+                        grand_qualifying > 0))
+        # 4. Output dirs created
+        dirs_ok = all(
+            os.path.isdir(os.path.join(OUTPUT_DIR, c))
+            for c in TEST_CATEGORIES)
+        checks.append(("Output directories created", dirs_ok))
+        # 5. docket.json files exist
+        docket_count = sum(
+            1 for root, dirs, files in os.walk(OUTPUT_DIR)
+            if "docket.json" in files)
+        checks.append((f"docket.json files written ({docket_count})",
+                        docket_count > 0))
+        # 6. Category index files
+        idx_ok = all(
+            os.path.exists(os.path.join(OUTPUT_DIR, c, "index.json"))
+            for c in TEST_CATEGORIES)
+        checks.append(("Category index.json files", idx_ok))
+        # 7. Master index
+        checks.append(("Master index.json",
+                        os.path.exists(os.path.join(OUTPUT_DIR, "index.json"))))
+        # 8. Checkpoint
+        checks.append(("Checkpoint file",
+                        os.path.exists(CHECKPOINT_FILE)))
+        # 9. Checkpoint has completed categories
+        ckpt_ok = len(ckpt.get("completed_categories", [])) == len(TEST_CATEGORIES)
+        checks.append((f"Checkpoint tracks {len(TEST_CATEGORIES)} completed cats",
+                        ckpt_ok))
+
+        all_pass = True
+        for name, passed in checks:
+            status = "PASS" if passed else "FAIL"
+            if not passed:
+                all_pass = False
+            print(f"  [{status}] {name}")
+
+        print("=" * 60)
+        if all_pass:
+            print("ALL CHECKS PASSED")
+        else:
+            print("SOME CHECKS FAILED — review logs above")
+            sys.exit(1)
+
     print("=" * 60)
 
 
