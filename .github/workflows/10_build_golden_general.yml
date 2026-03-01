@@ -1,6 +1,12 @@
 name: "10: Build Golden Set General"
 
 on:
+  push:
+    branches:
+      - claude/integrate-api-keys-X96YT
+    paths:
+      - 'scripts/filter_golden_general.py'
+      - '.github/workflows/10_build_golden_general.yml'
   workflow_dispatch:
 
 permissions:
