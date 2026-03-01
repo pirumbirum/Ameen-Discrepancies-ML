@@ -1,0 +1,43 @@
+name: "10: Build Golden Set General"
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  filter:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: "Filter: find cases with RECAP + opinions"
+        env:
+          CL_API_TOKEN: ${{ secrets.CL_API_TOKEN }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/filter_golden_general.py --resume
+
+      - name: "Commit results"
+        run: |
+          git add golden_set_general/
+          if git diff --cached --quiet; then
+            echo "No new results to commit"
+          else
+            COUNT=$(find golden_set_general -name "docket.json" | wc -l)
+            git commit -m "golden_set_general: ${COUNT} cases with RECAP + opinions"
+            git push
+          fi
