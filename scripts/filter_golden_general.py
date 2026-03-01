@@ -6,12 +6,12 @@ Creates golden_set_general/ with qualifying cases organized by NOS category.
 Strategy:
   1. Load all 275K docket IDs from cases2/metadata/
   2. Filter for RECAP locally (source bitmask bit 0)
-  3. Batch-check CourtListener API for opinion clusters
+  3. Check each docket individually via /dockets/{id}/ for opinion clusters
   4. Write qualifying cases to golden_set_general/{category}/{id}_{slug}/docket.json
   5. Git commit every 30 minutes to persist progress
 
 Built from scratch. No external script imports.
-~3,400 API calls at ~1.3/sec = ~44 min with proper rate limiting.
+Uses single-resource API calls (not batch id__in) for reliable cluster detection.
 
 Requires CL_API_TOKEN or COURTLISTENER_TOKEN env var.
 """
@@ -31,15 +31,15 @@ CL_API = "https://www.courtlistener.com/api/rest/v4"
 CASES2_DIR = "cases2/metadata"
 OUTPUT_DIR = "golden_set_general"
 CHECKPOINT_FILE = "golden_set_general/_checkpoint.json"
-BATCH_SIZE = 80
+CHECKPOINT_EVERY = 100  # save checkpoint every N dockets checked
 CALLS_PER_HOUR = 4600  # CourtListener allows 5000; 400 buffer
 MIN_SLEEP = 3600 / CALLS_PER_HOUR  # ~0.78s between calls
 GIT_COMMIT_INTERVAL = 1800  # 30 minutes
 
 # Test mode overrides
 TEST_CATEGORIES = ["banks", "trade_secret"]  # 2 smallest
-TEST_CASES_PER_CAT = 160  # = 2 batches of 80
-TEST_CHECKPOINT_EVERY = 1  # every batch
+TEST_CASES_PER_CAT = 20  # small sample for quick validation
+TEST_CHECKPOINT_EVERY = 10  # save often in test mode
 TEST_GIT_COMMIT_INTERVAL = 60  # 1 minute
 
 CATEGORIES = {
@@ -236,56 +236,46 @@ def has_recap(source_val):
 # Core logic
 # ---------------------------------------------------------------------------
 
-def batch_check_opinions(client, docket_ids):
+def check_opinions_single(client, docket_ids):
     """Check which docket IDs have opinion clusters.
 
-    Calls /dockets/?id__in=id1,id2,...&fields=id,clusters&format=json&page_size=100
-    Follows pagination. Returns set of string docket IDs that have clusters.
+    Fetches each docket individually via /dockets/{id}/ to reliably get
+    the clusters field. The list endpoint with id__in + fields=clusters
+    is unreliable on CourtListener's API.
+
+    Returns set of string docket IDs that have clusters.
     """
     if not docket_ids:
         return set()
 
-    ids_str = ",".join(str(d) for d in docket_ids)
-    url = (f"{CL_API}/dockets/"
-           f"?id__in={ids_str}"
-           f"&fields=id,clusters"
-           f"&format=json"
-           f"&page_size=100")
-
     has_opinions = set()
-    page = 0
-    while url:
-        page += 1
+    for i, did in enumerate(docket_ids):
+        url = (f"{CL_API}/dockets/{did}/"
+               f"?fields=id,clusters"
+               f"&format=json")
         data = client.get(url)
-        if data is None:
-            break
-        results = data.get("results", [])
-        count_in_page = data.get("count", "?")
 
         # Debug: print first response structure
-        if page == 1 and client.total_calls <= 3:
-            print(f"    [DEBUG] API response: count={count_in_page}, "
-                  f"results_in_page={len(results)}, "
-                  f"has_next={'yes' if data.get('next') else 'no'}")
-            if results:
-                sample = results[0]
-                print(f"    [DEBUG] Sample result keys: {list(sample.keys())}")
-                print(f"    [DEBUG] Sample: id={sample.get('id')}, "
-                      f"clusters={sample.get('clusters', [])[:3]}")
+        if i == 0 and client.total_calls <= 5:
+            if data:
+                print(f"    [DEBUG] Sample response keys: {list(data.keys())}")
+                print(f"    [DEBUG] Sample: id={data.get('id')}, "
+                      f"clusters={data.get('clusters', [])[:3]}")
+            else:
+                print(f"    [DEBUG] First request returned None (error)")
 
-        for docket in results:
-            did = str(docket.get("id", ""))
-            clusters = docket.get("clusters", [])
-            if clusters:
-                has_opinions.add(did)
-        url = data.get("next")  # next page (rate limit enforced by client.get)
+        if data is None:
+            continue  # skip errors, don't abort whole batch
+        clusters = data.get("clusters", [])
+        if clusters:
+            has_opinions.add(str(did))
 
     return has_opinions
 
 
 def process_category(cat_name, cases, client, ckpt, start_time,
-                     case_limit=None, checkpoint_every=50, test_mode=False):
-    """Process one category: batch-check opinions, filter, write output."""
+                     case_limit=None, checkpoint_every=100, test_mode=False):
+    """Process one category: check each docket for opinions, filter, write output."""
     total = len(cases)
 
     # Build lookup + RECAP filter
@@ -309,47 +299,44 @@ def process_category(cat_name, cases, client, ckpt, start_time,
 
     # Check for partial progress on this category
     partial = ckpt.get("partial", {}).get(cat_name, {})
-    start_batch = partial.get("last_batch_idx", 0)
+    start_idx = partial.get("last_checked_idx", 0)
     opinion_ids = set(partial.get("opinion_ids", []))
 
-    if start_batch > 0:
-        print(f"  Resuming from batch {start_batch} "
+    if start_idx > 0:
+        print(f"  Resuming from index {start_idx} "
               f"(already found {len(opinion_ids):,} with opinions)")
 
-    # Batch API calls
-    batches = [recap_ids[i:i + BATCH_SIZE]
-               for i in range(0, len(recap_ids), BATCH_SIZE)]
-    num_batches = len(batches)
-    print(f"  Checking opinions: {num_batches:,} batches of {BATCH_SIZE}")
+    num_ids = len(recap_ids)
+    print(f"  Checking opinions: {num_ids:,} dockets (1 API call each)")
 
-    for i in range(start_batch, num_batches):
-        batch = batches[i]
+    for i in range(start_idx, num_ids):
+        did = recap_ids[i]
 
-        # Progress every 100 batches
-        if i % 100 == 0 or i == start_batch:
-            pct = (i + 1) / num_batches * 100
+        # Progress every 50 dockets
+        if i % 50 == 0 or i == start_idx:
+            pct = (i + 1) / num_ids * 100
             elapsed = (time.time() - start_time) / 60
-            print(f"    [{i + 1}/{num_batches}] ({pct:.0f}%) "
+            print(f"    [{i + 1}/{num_ids}] ({pct:.0f}%) "
                   f"opinions so far: {len(opinion_ids):,} | "
                   f"{client.stats_str()} | {elapsed:.1f}min elapsed")
             sys.stdout.flush()
 
-        batch_result = batch_check_opinions(client, batch)
-        opinion_ids.update(batch_result)
+        result = check_opinions_single(client, [did])
+        opinion_ids.update(result)
 
         # Save partial checkpoint periodically
         if (i + 1) % checkpoint_every == 0:
             if "partial" not in ckpt:
                 ckpt["partial"] = {}
             ckpt["partial"][cat_name] = {
-                "last_batch_idx": i + 1,
+                "last_checked_idx": i + 1,
                 "opinion_ids": list(opinion_ids),
             }
             save_checkpoint(ckpt)
 
         # Git commit every 30 minutes
         maybe_git_commit(
-            f"golden_set_general: {cat_name} batch {i + 1}/{num_batches} "
+            f"golden_set_general: {cat_name} {i + 1}/{num_ids} "
             f"({len(opinion_ids):,} with opinions)")
 
     # Clear partial progress for this category
@@ -410,7 +397,7 @@ def main():
         print("TEST MODE")
         print(f"  Categories: {TEST_CATEGORIES}")
         print(f"  Cases per category: {TEST_CASES_PER_CAT}")
-        print(f"  Checkpoint every: {TEST_CHECKPOINT_EVERY} batch(es)")
+        print(f"  Checkpoint every: {TEST_CHECKPOINT_EVERY} dockets")
         print(f"  Git commit interval: {TEST_GIT_COMMIT_INTERVAL}s")
         print("=" * 60)
 
@@ -504,7 +491,7 @@ def main():
         qualifying = process_category(
             cat_name, cases, client, ckpt, start_time,
             case_limit=TEST_CASES_PER_CAT if test_mode else None,
-            checkpoint_every=TEST_CHECKPOINT_EVERY if test_mode else 50,
+            checkpoint_every=TEST_CHECKPOINT_EVERY if test_mode else CHECKPOINT_EVERY,
             test_mode=test_mode)
         count = len(qualifying)
 
